@@ -122,36 +122,36 @@ dlga_start:close_window.4|为 你 效 劳 是 我 的 荣 幸， {陛 下/尊 �
 dlga_start:welsh_intro|你 想 要 干 什 么? 
 dlga_start:welsh_hostile|他 们 是 入 侵 者! 〇
 dlga_start:close_window.5|你 一 准 备 好 我 们 就 可 以 出 发 了。 
-dlga_welsh_intro:close_window我 是{playername}。 我 请 求 离 开。
+dlga_welsh_intro:close_window|我 是 {playername}。 我 请 求 离 开。
 dlga_welsh_intro:welsh_hostile|我 在 英 格 兰 国 王 的 庇 护 下 行 走， You would not dare stop us.{***}
-dlga_welsh_hostile:close_window|我 们 不 会… 进攻！ 〇
-dlga_start:prussians_intro|你 想 要 干 什 么? 
+dlga_welsh_hostile:close_window|我 们 不 会…… 进 攻！ 〇
+dlga_start:prussians_intro|你 想 要 干 什 么？ 
 dlga_start:prussians_hostile|你 以 为 你 可 以 从 我 身 边 逃 走 么？ 
 dlga_start:close_window.6|请 不 要 再 浪 费 我 的 时 间 了 {先 生/夫 人}。 也 许 我 们 会 在 旅 行 中 重 逢。 
 dlga_prussians_intro:prussians_friendly_close|我 是 {playername}。 我 只 是 恰 好 经 过 这 里。 
-dlga_prussians_intro:prussians_hostile|你 的 所 做 所 为 令 神 所 厌 恶， 我 会 让 你 活 着 离 开 并 忏 悔。 
+dlga_prussians_intro:prussians_hostile|你 的 所 做 所 为 已 令 神 所 厌 恶， 忏 悔 吧， 我 会 让 你 活 着 离 开。 
 dlga_prussians_hostile:close_window|这 里 是 我 们 的 领 土， 你 对 我 们 的 森 林 已 经 破 坏 的 太 长 了。 现 在 去 死 吧！ 〇
-dlga_prussians_friendly_close:close_window|普 鲁 士 人 与 你 同 在， {playername}。 〇普鲁士人=雷神
+dlga_prussians_friendly_close:close_window|愿 柏 库 那 斯 与 你 同 在， {playername}。 
 dlga_start:curonians_intro|你 想 要 干 什 么? 
 dlga_start:curonians_hostile|你 以 为 你 可 以 从 我 身 边 逃 走 么？ 
 dlga_start:close_window.7|很 好。 你 说 到 点 子 上 了。 我 无 话 可 说。 
 dlga_curonians_intro:curonians_friendly_close|我 是 {playername}。 我 只 是 恰 好 经 过 这 里。 
-dlga_curonians_intro:curonians_hostile|你 的 所 做 所 为 令 神 所 厌 恶， 我 会 让 你 活 着 离 开 并 忏 悔。 
+dlga_curonians_intro:curonians_hostile|你 的 所 做 所 为 已 令 神 所 厌 恶， 忏 悔 吧， 我 会 让 你 活 着 离 开。 
 dlga_curonians_hostile:close_window|这 里 是 我 们 的 领 土， 你 对 我 们 的 森 林 已 经 破 坏 的 太 长 了。 现 在 去 死 吧！ 〇
-dlga_curonians_friendly_close:close_window|普 鲁 士 人 与 你 同 在， {playername}。 〇普鲁士人=雷神
+dlga_curonians_friendly_close:close_window|愿 柏 库 那 斯 与 你 同 在， {playername}。 
 dlga_start:samogitians_intro|你 想 要 干 什 么? 
 dlga_start:close_window.8|好 吧， {先 生/尊 敬 的 女 士}！ 请 你 别 再 费 神 从 地 上 爬 起 来 了， 因 为 那 样 我 还 得 把 你 再 打 趴 下。 如 果 你 保 持 沉 默 我 就 当 你 道 过 歉 了。 祝 你 日 安。 
 dlga_samogitians_intro:samogitians_friendly_close|我 是 {playername}。 我 只 是 恰 好 经 过 这 里。 
 dlga_samogitians_intro:samogitians_hostile|你 的 所 做 所 为 令 神 所 厌 恶， 我 会 让 你 活 着 离 开 并 忏 悔。 
 dlga_samogitians_hostile:close_window|这 里 是 我 们 的 领 土， 你 对 我 们 的 森 林 已 经 破 坏 的 太 长 了。 现 在 去 死 吧！ 〇
-dlga_samogitians_friendly_close:close_window|普 鲁 士 人 与 你 同 在， {playername}。 〇普鲁士人=雷神
+dlga_samogitians_friendly_close:close_window|愿 柏 库 那 斯 与 你 同 在， {playername}。 
 dlga_start:yotvingians_intro|你 想 要 干 什 么? 
 dlga_start:yotvingians_hostile|你 以 为 你 可 以 从 我 身 边 逃 走 么？ 
 dlga_start:close_window.9|很 好。 你 说 到 点 子 上 了。 我 收 回 我 所 说 的。 希 望 你 能 满 意。 
 dlga_yotvingians_intro:yotvingians_friendly_close|我 是 {playername}。 我 只 是 恰 好 经 过 这 里。 
-dlga_yotvingians_intro:yotvingians_hostile|你 的 所 做 所 为 令 神 所 厌 恶， 我 会 让 你 活 着 离 开 并 忏 悔。 
+dlga_yotvingians_intro:yotvingians_hostile|你 的 所 做 所 为 已 令 神 所 厌 恶， 忏 悔 吧， 我 会 让 你 活 着 离 开。 
 dlga_yotvingians_hostile:close_window|这 里 是 我 们 的 领 土， 你 对 我 们 的 森 林 已 经 破 坏 的 太 长 了。 现 在 去 死 吧！ 〇
-dlga_yotvingians_friendly_close:close_window|普 鲁 士 人 与 你 同 在， {playername}。 〇普鲁士人=雷神
+dlga_yotvingians_friendly_close:close_window|愿 柏 库 那 斯 与 你 同 在， {playername}。 
 dlga_start:manhunter_talk_b|嘿！ 你 有 没 有 在 附 近 看 到 什 么 不 法 之 徒？ 
 dlga_manhunter_talk_b:manhunter_talk_b1|是 的， 他 们 大 约 一 小 时 前 朝 那 个 方 向 走 了。 
 dlga_manhunter_talk_b1:close_window|我 知 道 了！ 伙 计 们， 我 们 该 出 发 了， 去 干 掉 那 些 兔 崽 子。 十 分 感 谢， 朋 友。 
@@ -380,26 +380,26 @@ dlga_minister_grant_self_fief:minister_pretalk|如 你 所 愿。 {s4}是 你 �
 dlga_start:dplmc_recruiter_talk|您 好， {reg65?夫人:大人}。 如 果 可 以， 我 将 继 续 执 行 您 的 命 令 前 去 招 募 新 兵。 
 dlga_dplmc_recruiter_talk:close_window|好 的， 继 续。 
 dlga_dplmc_recruiter_talk:dplmc_recruiter_talk_2|我 需 要 你 去 招 募 不 同 的 士 兵。 
-dlga_dplmc_recruiter_talk_2:dplmc_recruiter_talk_3|我 当 前 任 务 是 招 募 {reg1} 名 {s1} 新 兵。 我 是 否 从 现 在 开 始 招 收 不 同 的 士 兵？ 
+dlga_dplmc_recruiter_talk_2:dplmc_recruiter_talk_3|我 当 前 的 任 务 是 招 募 {reg1}名 {s1}新 兵。 我 是 否 从 现 在 开 始 招 收 不 同 的 士 兵？ 
 dlga_dplmc_recruiter_talk_3:close_window|不， 继 续 你 刚 才 的 任 务。 
 dlga_dplmc_recruiter_talk_3:dplmc_recruiter_talk_4|{s11}。 
 dlga_dplmc_recruiter_talk_3:dplmc_recruiter_talk_4.1|招 募 任 何 兵 种。 
 dlga_dplmc_recruiter_talk_4:dplmc_recruiter_talk|是 的， {reg65?女士:先生}。 我 会 的。 您 还 有 其 他 任 务 么？ 
 dlga_start:dplmc_messenger_talk|您 好， 对 不 起 我 现 在 没 时 间 跟 你 聊， 我 正 前 往 {s6}带 去 一 个 很 重 要 的 信 息。 
-dlga_dplmc_messenger_talk:dplmc_messenger_talk_farewell|好 了， 我 不 想 耽 误 你， 一 路 顺 风！ 
+dlga_dplmc_messenger_talk:dplmc_messenger_talk_farewell|好 的， 我 不 会 耽 误 你， 一 路 顺 风！ 
 dlga_dplmc_messenger_talk_farewell:close_window|谢 谢 你， 再 见！ 
 dlga_start:close_window.13|再 过 一 会 儿 我 们 就 要 结 婚 了， 多 美 好 啊…… 不 过 我 需 要 说 明， 在 剩 下 的 几 天 里， 我 们 不 方 便 在 一 起 说 太 多 的 话。 
 dlga_start:close_window.14|呃， {playername}， 也 许 你 不 熟 悉 我 们 的 婚 礼 习 俗， 我 想 得 有 人 告 诉 你…… 先 去 和 我 的 {s11}， {s4}谈 谈 吧。 
 dlga_start:patrol_talk|你 想 要 干 什 么? 
 dlga_patrol_talk:patrol_talk_ultimatum|向 我 投 降！ 
-dlga_patrol_talk_ultimatum:patrol_talk_ultimatum_2|我 们 正 在 巡 逻 这 个 地 区 的 名 字 叫 {s25}。 你 是 想 自 找 麻 烦 吗？ 
+dlga_patrol_talk_ultimatum:patrol_talk_ultimatum_2|我 们 正 在 奉 {s25} 之 命 巡 逻 这 个 地 区。 你 是 想 自 找 麻 烦 吗？ 
 dlga_patrol_talk_ultimatum_2:patrol_talk_ultimatum_2a|废 话 少 说， 开战！ 
 dlga_patrol_talk_ultimatum_2a:close_window|你 会 后 悔 的。 
 dlga_patrol_talk_ultimatum_2:patrol_talk_ultimatum_2b|攻 击 你？ 不！ 我 只 是 想 知 道 这 片 区 域 是 否 有 敌 人 经 过？ 
 dlga_patrol_talk_ultimatum_2b:close_window|我 们 什 么 都 不 知 道， 走 开！ 
 dlga_patrol_talk:patrol_smalltalk|祝 你 好 运。 
 dlga_patrol_smalltalk:close_window|注 意 安 全。 
-dlga_start:dplmc_gift_talk|好 的。 我 现 在 送 {s12} 到 {s13}。 
+dlga_start:dplmc_gift_talk|好 的。 我 正 在 把 {s12}送给 {s13}。 
 dlga_dplmc_gift_talk:dplmc_gift_talk_farewell|非 常 好！ 祝 你 旅 途 愉 快。 
 dlga_dplmc_gift_talk_farewell:close_window|谢 谢 你， 再 见。 
 dlga_start:dplmc_chancellor_talk|大 人？ 
@@ -429,19 +429,19 @@ dlga_dplmc_chancellor_message_select:dplmc_chancellor_pretalk|算 了。
 dlga_dplmc_chancellor_message_goto_lord_ask:dplmc_chancellor_message_order_details|您 希 望 他 去 哪？ 
 dlga_dplmc_chancellor_message_order_details:dplmc_chancellor_message_lord_ask|{s1} 
 dlga_dplmc_chancellor_message_order_details:dplmc_chancellor_pretalk|算 了。 
-dlga_dplmc_chancellor_message_lord_ask:dplmc_message_send_confirm|当 然 ， 我 会 让 信 使 给 {s11} 带 信 问 他 是 否 愿 意 跟 随 您 的 军 队。 
+dlga_dplmc_chancellor_message_lord_ask:dplmc_message_send_confirm|当 然 ， 我 会 让 信 使 给 {s11}带 信 问 他 是 否 愿 意 跟 随 您 的 军 队。 
 dlga_dplmc_chancellor_message_lord_ask:dplmc_message_send_confirm.1|当 然 ， 我 会 让 信 使 给 {s11}带 信 问 他 是 否 愿 意 驻 守 {s12}。 
-dlga_dplmc_chancellor_message_lord_ask:dplmc_message_send_confirm.2|当 然 ， 我 会 让 信 使 给 {s11} 带 信 问 他 是 否 愿 意 在 {s12} 周 围 巡 逻。 
+dlga_dplmc_chancellor_message_lord_ask:dplmc_message_send_confirm.2|当 然 ， 我 会 让 信 使 给 {s11}带 信 问 他 是 否 愿 意 在 {s12}周 围 巡 逻。 
 dlga_dplmc_chancellor_message_lord_ask:dplmc_message_send_confirm.3|当 然 ， 我 会 让 信 使 给 {s11}带 信 问 他 是 否 愿 意 撤 军 至 {s12}。 
-dlga_dplmc_chancellor_message_lord_ask:dplmc_message_send_confirm.4|当 然 ， 我 会 让 信 使 给 {s11} 带 信 问 他 是 否 愿 意 去 攻 打 {s12}。 
-dlga_dplmc_chancellor_message_lord_ask:dplmc_message_send_confirm.5|当 然 ， 我 会 让 信 使 给 {s11} 带 信 问 他 是 否 愿 意 去 掠 夺 {s12}。 
+dlga_dplmc_chancellor_message_lord_ask:dplmc_message_send_confirm.4|当 然 ， 我 会 让 信 使 给 {s11}带 信 问 他 是 否 愿 意 去 攻 打 {s12}。 
+dlga_dplmc_chancellor_message_lord_ask:dplmc_message_send_confirm.5|当 然 ， 我 会 让 信 使 给 {s11}带 信 问 他 是 否 愿 意 去 掠 夺 {s12}。 
 dlga_dplmc_message_send_confirm:dplmc_chancellor_pretalk|谢 谢。 
 dlga_dplmc_message_send_confirm:dplmc_chancellor_pretalk.1|我 改 变 主 意 了。 
 dlga_dplmc_chancellor_talk:dplmc_chancellor_talk_household|让 我 们 检 查 一 下 仓 库。 
 dlga_dplmc_chancellor_talk_household:dplmc_chancellor_pretalk|您 应 该 把 所 有 重 要 的 东 西 存 放 在 家 里。 
 dlga_dplmc_chancellor_talk:close_window|再 见！ 
 dlga_start:dplmc_constable_talk|永 远 为 您 服 务！ 
-dlga_dplmc_constable_pretalk:dplmc_constable_talk|您 还 有 什 么 事 么， 大人？ 
+dlga_dplmc_constable_pretalk:dplmc_constable_talk|您 还 有 什 么 事 么， 大 人？ 
 dlga_dplmc_constable_talk:dplmc_constable_talk_ask_war|How goes the war?{***}
 dlga_dplmc_constable_talk_ask_war:dplmc_constable_talk_ask_war_2|{s12}{***}
 dlga_dplmc_constable_talk_ask_war_2:dplmc_constable_talk_ask_war_details|Tell me more about the war with {s1}.{***}
@@ -1134,7 +1134,7 @@ dlga_lord_quarrel_intervention_4:lord_pretalk.1|我 看 你 应 该 去 跟 {s11
 dlga_lord_internal_politics_cur_stance:lord_internal_politics_cur_stance_plyr_response|我 已 决 意 要 支 持 你。 
 dlga_lord_internal_politics_cur_stance:lord_internal_politics_cur_stance_plyr_response.1|我 现 在 无 法 做 出 决 定 
 dlga_lord_internal_politics_cur_stance:lord_internal_politics_cur_stance_plyr_response.2|我 支 持 {s15}。 {s10}
-dlga_lord_internal_politics_cur_stance_plyr_response:lord_internal_politics_plyr_choose_candidate|让 我 告 诉 你 我 支 持 谁 ……
+dlga_lord_internal_politics_cur_stance_plyr_response:lord_internal_politics_plyr_choose_candidate|让 我 告 诉 你 我 支 持 谁……
 dlga_lord_internal_politics_cur_stance_plyr_response:lord_internal_politics_cur_stance_plyr_response|作 弊 — — Reset support
 dlga_lord_internal_politics_plyr_choose_candidate:lord_internal_politics_plyr_choose_candidate_select|你 支 持 谁？ 
 dlga_lord_internal_politics_plyr_choose_candidate_select:lord_internal_politics_pretalk|如 果 有 幸 我 想 自 荐 
@@ -1156,7 +1156,7 @@ dlga_lord_internal_politics_plyr_request_support:lord_pretalk|为 了 成 为 �
 dlga_lord_internal_politics_plyr_request_support:lord_pretalk.1|对 不 起。 我 不 打 算 和 {s4}之 间 制 造 紧 张 
 dlga_lord_internal_politics_plyr_request_support:lord_pretalk.2|我 得 说， 你 已 经 得 到 与 你 的 功 绩 相 称 的 封 地 了， 这 是 对 你 很 好 的 奖 赏。 
 dlga_lord_internal_politics_plyr_request_support:lord_pretalk.3|你 必 须 进 一 步 证 明 自 己， 才 有 资 格 得 到 那 个 位 子。 
-dlga_lord_internal_politics_plyr_request_support:lord_pretalk.4|嗯 ……基 于 我 们 之 间 的 关 系， 我 觉 得 这 要 求 很 过 分。 
+dlga_lord_internal_politics_plyr_request_support:lord_pretalk.4|嗯……基 于 我 们 之 间 的 关 系， 我 觉 得 这 要 求 很 过 分。 
 dlga_lord_internal_politics_plyr_request_support:lord_pretalk.5|我 会 很 乐 意 支 持 你。 
 dlga_lord_recruit_1_relation:lord_pretalk|我 对 讨 论 政 治 有 点 厌 烦 了， 或 许 以 后 再 说 比 较 好。 
 dlga_lord_recruit_1_relation:lord_pretalk.1|{s12}
@@ -1180,7 +1180,7 @@ dlga_lord_spouse_leave_faction_proclaim_queen:lord_pretalk.1|{s11}
 dlga_lord_spouse_leave_faction_proclaim_queen_confirm:close_window|我 已 经 准 备 好 了， 我 的 丈 夫。 让 我 们 去 追 寻 我 们 的 王 位。 
 dlga_lord_spouse_leave_faction_proclaim_queen_confirm:lord_pretalk|也 许 我 还 没 准 备 好。 
 dlga_lord_spouse_leave_faction_husband_king:lord_pretalk.1|也 许 吧， 但 是 我 需 要 你 的 全 力 协 助 来 争 取 那 个 王 位。 在 进 一 步 行 动 之 前 你 应 该 把 {s4}的 叛 乱 剿 灭。 
-dlga_lord_spouse_leave_faction_husband_king:lord_spouse_leave_faction_husband_king_2|这 片 大 陆 的 大 部 分 大 家 族 都 声 称 有 权 称 王 ……就 最 近 继 位 有 关 的 事 来 看， 我 应 该 与 {s4}一 样 成 为 合 法 国 王。 
+dlga_lord_spouse_leave_faction_husband_king:lord_spouse_leave_faction_husband_king_2|这 片 大 陆 的 大 部 分 大 家 族 都 声 称 有 权 称 王……就 最 近 继 位 有 关 的 事 来 看， 我 应 该 与 {s4}一 样 成 为 合 法 国 王。 
 dlga_lord_spouse_leave_faction_husband_king_2:lord_spouse_leave_faction_husband_king_3|作 为 国 王， 我 会 尊 重 你 的 意 见 来 任 命 首 席 大 臣， 决 定 外 交 方 针， 以 及 其 它 的 事 务。 
 dlga_lord_spouse_leave_faction_husband_king_3:close_window|很 好， 我 的 丈 夫。 让 我 们 为 了 你 的 王 位 而 努 力！ 
 dlga_lord_spouse_leave_faction_husband_king_3:lord_pretalk|实 际 上， 我 们 还 得 再 忍 耐 一 阵 子。 
@@ -1222,20 +1222,20 @@ dlga_lord_recruit_3_claim:lord_recruit_4|{s12}
 dlga_lord_recruit_3_claim:lord_pretalk|{s12}
 dlga_lord_recruit_4:lord_recruit_4_objective_conditions|我 要 你 宣 誓 效 忠 于 {s16}。 
 dlga_lord_recruit_4:lord_pretalk|没 事。 
-dlga_lord_recruit_4_objective_conditions:lord_recruit_5_security|让 我 想 想 ……
+dlga_lord_recruit_4_objective_conditions:lord_recruit_5_security|让 我 想 想……
 dlga_lord_recruit_5_security:lord_recruit_5_political|{s32}
 dlga_lord_recruit_5_political:lord_recruit_5_ideological|{s31}
 dlga_lord_recruit_5_ideological:lord_recruit_5_change_sides|{s33}
 dlga_lord_recruit_5_change_sides:lord_recruit_6|{s34}
 dlga_lord_recruit_6:lord_recruit_6_reaction|是 你 作 出 决 定 的 时 候 了。 
 dlga_lord_recruit_6:lord_pretalk|没 必 要 作 决 定 — — 我 们 可 以 迟 些 再 谈 谈。 
-dlga_lord_recruit_6_reaction:lord_recruit_7_decision|很 好 ……
+dlga_lord_recruit_6_reaction:lord_recruit_7_decision|很 好……
 dlga_lord_recruit_7_decision:lord_pretalk|{s12}
 dlga_lord_recruit_7_decision:lord_recruit_pledge|很 好—— 我 已 经 准 备 好 宣 誓 效 忠 于 {s4}{reg4?女 王 :国 王 }。 
 dlga_lord_recruit_pledge:lord_recruit_pledge|记 住。 你 答 应 给 我 一 片 封 地。 我 会 监 督 你 信 守 承 诺。 
 dlga_lord_recruit_pledge:lord_recruit_pledge_conclude|就 这 样 吧 — — 我 宣 誓 效 忠 做 你 忠 诚 的 封 臣。 当 你 需 要 我 出 战 的 时 候 我 会 站 在 你 身 边 和 你 的 敌 人 作 战， 并 且 拥 护 你 的 王 位 以 及 你 合 法 的 继 承 者 们。 我 希 望 相 对 应 的 你 会 庇 护 我 并 且 认 可 我 作 为 你 封 臣 应 当 享 有 的 权 利。 
 dlga_lord_recruit_pledge:lord_recruit_pledge_conclude.1|就 这 样 吧—— 你 可 以 告 诉 {s4}我 现 在 是 {reg4?她 :他 }忠 实 的 封 臣， 我 会 在 有 生 之 年 一 直 追 随 {reg4?她 :他 }， 而 当 {reg4?她 :他 }需 要 我 出 战 的 时 候 我 会 站 在 {reg4?她 :他 }身 边 和 {reg4?她 :他 }的 敌 人 作 战， 并 且 拥 护 {reg4?她 :他 }的 王 位 以 及 {reg4?她 :他 }合 法 的 继 承 者 们。 我 希 望 相 对 应 的 {reg4?她 :他 }会 庇 护 我 并 且 认 可 我 作 为 {reg4?她 :他 }封 臣 应 当 享 有 的 权 利。 
-dlga_lord_recruit_pledge_conclude:close_window|现 在 ……是 我 要 做 出 重 大 抉 择 的 时 刻。 我 会 修 养 一 段 时 间， 因 为 我 需 要 时 间 来 为 我 自 己 将 要 对 付 的 事 情 做 准 备。 
+dlga_lord_recruit_pledge_conclude:close_window|现 在……是 我 要 做 出 重 大 抉 择 的 时 刻。 我 会 修 养 一 段 时 间， 因 为 我 需 要 时 间 来 为 我 自 己 将 要 对 付 的 事 情 做 准 备。 
 dlga_lord_start:close_window.3|我 收 到 了 我 的 {s11}{s10}转 交 给 我 的 礼 物。 这 是 高 尚 的 姿 态， {先 生/尊 敬 的 女 士}， 我 不 该 和 你 争 吵 的。 
 dlga_lord_start:close_window.4|我 收 到 了 我 的 {s11}{s10}转 交 给 我 的 礼 物。 看 在 {reg4?她 的:他 的}份 上， 我 愿 意 不 再 旧 事 重 提。 
 dlga_lord_start:close_window.5|我 收 到 了 我 的 {s11}{s10}转 交 给 我 的 礼 物。 哼！ 你 觉 得 你 能 收 买 到 朋 友？ 
@@ -1256,22 +1256,22 @@ dlga_lord_ask_to_collect_debt_2:lord_pretalk|那 样 的 话， 我 以 后 就 
 dlga_convince_accept:close_window|我 欠 {s8}钱 已 经 很 长 时 间 了， 这 令 我 很 不 安。 感 谢 你 愿 意 帮 我 把 这 些 钱 带 给 他。 请 把 这 里 的 {reg10}第 纳 尔 给 他， 并 代 表 我 感 谢 他。 
 dlga_lord_talk:lord_ask_to_make_peace|我 请 求 你， {s64}， 是 时 候 结 束 {s12}与 {s13}之 间 的 战 争 了。 
 dlga_lord_ask_to_make_peace:lord_ask_to_make_peace_2|嗯？ 我 没 听 错 吗， {playername}？ 战 争 不 会 那 么 容 易 被 冲 突 中 的 任 何 一 方 忘 记， 我 记 得 很 多 事。 我 去 调 停 这 帮 疯 狗 有 什 么 好 处？ 
-dlga_lord_ask_to_make_peace_2:convince_begin|也 许 我 能 说 服 你 去 ……
+dlga_lord_ask_to_make_peace_2:convince_begin|也 许 我 能 说 服 你 去……
 dlga_lord_ask_to_make_peace_2:lord_pretalk|算 了， 以 后 再 谈 和 平 吧。 
 dlga_convince_accept:close_window.1|你 说 服 我 了， {playername}。 非 常 好， 接 受 我 的 祝 福， 并 把 我 的 和 平 提 议 给 {s14}。 我 不 保 证 他 们 会 接 受， 但 是 哪 怕 极 小 的 可 能 他 们 接 受 了， 我 会 支 持 的。 
 dlga_lord_talk:lord_challenge_duel_for_lady|我 要 你 澄 清 对 {s1}的 污 蔑。 
 dlga_lord_challenge_duel_for_lady:lord_challenge_duel_for_lady_2|什 么 叫 污 蔑？ 所 有 人 都 知 道 当 她 的 丈 夫 不 在 的 时 候， 她 跟 她 的 马 夫 们 以 及 其 他 她 能 勾 搭 上 的 人 上 过 床。 我 只 不 过 是 复 述 很 多 人 都 在 说 的 话 而 已。 
 dlga_lord_challenge_duel_for_lady_2:lord_challenge_duel|你 将 撤 回 这 些 谎 言， 小 子， 否 则 给 我 证 实 一 下！ 
-dlga_lord_challenge_duel_for_lady_2:lord_pretalk|如 果 你 这 样 说 ……
+dlga_lord_challenge_duel_for_lady_2:lord_pretalk|如 果 你 这 样 说……
 dlga_lord_challenge_duel:close_window|{s15}
 dlga_lord_talk:lord_challenge_courtship_rival|放 弃 你 对 {s5}的 追 求！ 
 dlga_lord_challenge_courtship_rival:lord_challenge_courtship_rival_2|否 则 怎 样？ 你 想 为 了 一 位 女 士 而 决 斗？ 我 会 让 你 知 道 — — 我 们 的 君 主 不 喜 欢 看 到 这 种 头 脑 发 热 的 挑 战， 特 别 是 当 每 个 人 必 须 团 结 起 来 对 抗 国 外 的 敌 人 时。 
 dlga_lord_challenge_courtship_rival_2:lord_challenge_duel|你 怕 和 我 打 吗？ 
-dlga_lord_challenge_courtship_rival_2:lord_pretalk|我 为 我 刚 才 的 无 礼 道 歉 ……
+dlga_lord_challenge_courtship_rival_2:lord_pretalk|我 为 我 刚 才 的 无 礼 道 歉……
 dlga_lord_talk:lord_message_delivered|我 从 {s9}那 里 带 来 了 一 封 信。 
-dlga_lord_message_delivered:lord_pretalk|哦？ 让 我 看 看 ……很 好 很 好！ 非 常 感 谢 你 把 这 封 信 带 来， {playername}。 带 去 我 的 图 章 作 为 我 收 到 信 的 证 物， 下 次 见 到 {s9}的 时 候 代 我 向 他 致 意。 
+dlga_lord_message_delivered:lord_pretalk|哦？ 让 我 看 看……很 好 很 好！ 非 常 感 谢 你 把 这 封 信 带 来， {playername}。 带 去 我 的 图 章 作 为 我 收 到 信 的 证 物， 下 次 见 到 {s9}的 时 候 代 我 向 他 致 意。 
 dlga_lord_talk:lord_message_delivered_enemy|我 从 {s9}那 里 带 来 了 一 封 信。 
-dlga_lord_message_delivered_enemy:close_window|哦？ 让 我 看 看 ……很 好 很 好！ 非 常 感 谢 你 把 这 封 信 带 来， {playername}。 带 去 我 的 图 章 作 为 我 收 到 信 的 证 物。 非 常 感 谢 你。 
+dlga_lord_message_delivered_enemy:close_window|哦？ 让 我 看 看……很 好 很 好！ 非 常 感 谢 你 把 这 封 信 带 来， {playername}。 带 去 我 的 图 章 作 为 我 收 到 信 的 证 物。 非 常 感 谢 你。 
 dlga_lord_talk:lord_deliver_message_prisoner|我 从 {s11}那 里 带 来 了 一 封 信。 
 dlga_lord_deliver_message_prisoner:lord_deliver_message_prisoner_2|这 是 真 的 吗？ 哦， 非 常 感 谢， {playername}！ 你 给 我 带 来 了 希 望 和 一 丝 曙 光。 总 有 一 天 我 会 报 答 你 的。 
 dlga_lord_deliver_message_prisoner_2:lord_deliver_message_prisoner_2a|这 点 小 事， 不 值 一 提， {s65}。 
@@ -1281,7 +1281,7 @@ dlga_lord_deliver_message_prisoner_2b:close_window|哈， 当 然， {playername
 dlga_lord_talk:lord_rescue_by_replace_offer|不 要 怕， 我 是 来 营 救 你 的。 
 dlga_lord_rescue_by_replace_offer:lord_rescue_by_replace_offer_2|神 啊， 你 不 是 在 开 玩 笑？ 你 打 算 怎 么 办？ 
 dlga_lord_rescue_by_replace_offer_2:lord_rescue_by_replace_offer_3|一 个 很 简 单 的 花 招， {s65}。 我 们 交 换 下 衣 服， 我 就 代 替 你 留 在 这 个 监 狱 里， 而 你 就 伪 装 成 我 逃 出 去。 我 贿 赂 给 那 些 守 卫 很 多 钱， 我 确 信 他 们 已 经 到 最 近 的 酒 馆 买 酒 喝 去 了。 运 气 好 的 话， 他 们 一 会 就 会 醉 得 连 亲 娘 的 样 子 都 看 不 清 楚 了， 更 别 说 分 辨 出 你 我。 这 段 时 间 至 少 够 你 安 全 逃 离 了。 
-dlga_lord_rescue_by_replace_offer_3:lord_rescue_by_replace_offer_4|嗯， 也 许 能 奏 效 ……但 是 你 怎 么 办 呢， 我 的 {朋 友/女 士}？ 这 些 守 卫 不 会 这 么 轻 易 放 过 你 的， 你 自 己 可 能 会 在 这 牢 房 里 呆 不 少 时 日。 
+dlga_lord_rescue_by_replace_offer_3:lord_rescue_by_replace_offer_4|嗯， 也 许 能 奏 效……但 是 你 怎 么 办 呢， 我 的 {朋 友/女 士}？ 这 些 守 卫 不 会 这 么 轻 易 放 过 你 的， 你 自 己 可 能 会 在 这 牢 房 里 呆 不 少 时 日。 
 dlga_lord_rescue_by_replace_offer_4:lord_rescue_by_replace_offer_5a|不 用 担 心 我， {s65}。 我 还 挺 喜 欢 这 地 方 的。 
 dlga_lord_rescue_by_replace_offer_4:lord_rescue_by_replace_offer_5b|我 一 定 会 坚 持 下 去 的， 有 一 笔 丰 厚 的 报 酬 在 等 着 我 呢。 
 dlga_lord_rescue_by_replace_offer_5a:lord_rescue_by_replace_offer_6|你 真 是 一 个 有 胆 识 的 人。 我 不 会 忘 记 你 的。 
@@ -1304,27 +1304,27 @@ dlga_lord_ask_pardon:lord_pretalk|真 的 吗？ {playername}。 那 就 去 倒
 dlga_lord_ask_pardon:lord_pretalk.1|{playername}， 你 作 为 一 个 不 效 命 于 任 何 人 的 {领 主/女 士}， 以 你 的 个 人 名 义 占 领 土 地， 无 根 无 据 自 封 国 王。 在 卡 拉 迪 亚 没 有 哪 个 国 王 会 愿 意 与 你 保 持 长 久 的 和 平 的。 
 dlga_lord_ask_pardon:lord_pretalk.2|在 我 有 优 势 的 时 候 谈 和？ 我 才 不 这 么 干。 
 dlga_lord_ask_pardon:lord_pretalk.3|我 觉 得 现 在 和 谈 不 符 合 我 的 利 益。 
-dlga_lord_ask_pardon:lord_truce_offer|对 ……我 已 经 厌 倦 和 你 打 仗 了。 我 可 以 提 供 一 个 四 十 天 的 停 战 协 议， 只 要 你 遵 守 你 的 诺 言 并 且 不 再 侵 略 我 的 领 地 干 扰 我 的 行 程， 我 们 什 么 都 可 以 谈 ……
+dlga_lord_ask_pardon:lord_truce_offer|对……我 已 经 厌 倦 和 你 打 仗 了。 我 可 以 提 供 一 个 四 十 天 的 停 战 协 议， 只 要 你 遵 守 你 的 诺 言 并 且 不 再 侵 略 我 的 领 地 干 扰 我 的 行 程， 我 们 什 么 都 可 以 谈……
 dlga_lord_truce_offer:close_window|我 接 受。 让 我 们 停 止 对 彼 此 的 战 争， 哪 怕 只 是 暂 时 停 止 
 dlga_lord_truce_offer:lord_pretalk|我 再 三 考 虑， 这 样 的 协 议 我 不 感 兴 趣。 
 dlga_lord_ask_pardon:lord_ask_pardon_2|嗯， 我 可 以 利 用 我 的 影 响 力 去 想 办 法 赦 免 你， {playername}， 但 是 这 里 有 很 多 人 把 你 看 作 是 敌 人， 你 不 交 一 些 钱 示 意 的 话， 他 们 是 不 会 满 意 的。 总 之， 我 认 为 你 与 {s4}保 持 和 平 将 要 花 费 至 少 {reg16}第 纳 尔。 
 dlga_lord_ask_pardon:lord_pretalk.4|我 无 权 给 你 答 复。 你 得 跟 {s7}谈。 
-dlga_lord_ask_pardon:lord_ask_pardon_2.1|没 错 ……相 比 你 和 你 的 走 狗 们 来 说 我 有 更 重 要 的 事 要 处 理。 但 是 你 对 我 的 手 下 不 善， 你 得 补 偿。 你 如 果 赔 偿 {reg16}第 纳 尔， 我 就 宽 恕 你。 你 看 如 何？ 
+dlga_lord_ask_pardon:lord_ask_pardon_2.1|没 错……相 比 你 和 你 的 走 狗 们 来 说 我 有 更 重 要 的 事 要 处 理。 但 是 你 对 我 的 手 下 不 善， 你 得 补 偿。 你 如 果 赔 偿 {reg16}第 纳 尔， 我 就 宽 恕 你。 你 看 如 何？ 
 dlga_lord_ask_pardon:lord_pretalk.5|对 不 起， 我 无 权 宽 恕 你。 
 dlga_lord_ask_pardon_2:lord_ask_pardon_tribue_accept|我 这 里 有 这 么 多 的 钱， {reg16}第 纳 尔。 
 dlga_lord_ask_pardon_2:lord_ask_pardon_tribue_deny|我 恐 怕 付 不 起 那 么 多。 
 dlga_lord_ask_pardon_tribue_accept:close_window|非 常 好， {playername}。 我 会 用 这 些 钱 来 补 偿 那 些 受 到 你 不 公 待 遇 的 人， 并 且 声 明 你 不 再 是 {s4}的 敌 人。 
 dlga_lord_ask_pardon_tribue_accept:close_window.1|非 常 好， {playername}。 我 会 用 这 些 钱 来 摆 平 那 些 反 对 宽 恕 你 的 人。 而 且 很 快， 你 再 也 不 是 {s4}的 敌 人 的 消 息 会 传 遍 所 有 地 方。 
 dlga_lord_ask_pardon_tribue_deny:lord_pretalk|那 么 我 也 没 有 办 法 可 以 帮 你 了， {playername}。 没 有 钱 就 没 有 宽 恕。 
-dlga_lord_talk:lord_active_mission_1|关 于 你 交 给 我 的 任 务 ……
+dlga_lord_talk:lord_active_mission_1|关 于 你 交 给 我 的 任 务……
 dlga_lord_talk:lord_switch_to_spouse|我 们 来 谈 谈 我 们 的 内 务。 
 dlga_lord_switch_to_spouse:lord_pretalk|我 们 还 是 等 到 有 一 座 城 堡 再 说 把， 我 的 妻 子， 在 野 外 处 理 内 务 储 备 等 等 事 务 太 难 了。 
 dlga_lord_switch_to_spouse:spouse_talk|没 问 题， 我 的 妻 子。 
 dlga_lord_talk:lord_request_mission_ask|你 有 什 么 任 务 可 以 交 给 我 做 吗？ 
 dlga_lord_talk:combined_political_quests|我 们 能 否 合 作 在 这 个 国 家 扬 名 立 万 呢？ 
 dlga_combined_political_quests:lord_pretalk|我 想 象 不 出 你 和 我 有 任 何 的 共 同 利 益。 
-dlga_combined_political_quests:lord_pretalk.1|嗯 ……也 许 我 们 以 后 可 以 在 更 私 密 的 地 方 商 讨 这 个 问 题。 
-dlga_combined_political_quests:lord_pretalk.2|嗯 ……我 确 实 有 些 想 法， 不 过 这 需 要 你 摆 脱 争 议。 你 如 果 能 静 待 一 段 时 间， 不 要 跟 本 国 其 他 领 主 发 生 争 执， 我 们 或 许 能 作 进 一 步 打 算。 
+dlga_combined_political_quests:lord_pretalk.1|嗯……也 许 我 们 以 后 可 以 在 更 私 密 的 地 方 商 讨 这 个 问 题。 
+dlga_combined_political_quests:lord_pretalk.2|嗯……我 确 实 有 些 想 法， 不 过 这 需 要 你 摆 脱 争 议。 你 如 果 能 静 待 一 段 时 间， 不 要 跟 本 国 其 他 领 主 发 生 争 执， 我 们 或 许 能 作 进 一 步 打 算。 
 dlga_lord_talk:lord_ask_resign_marshalship|我 想 辞 去 元 帅 职 务 
 dlga_lord_ask_resign_marshalship:lord_pretalk|那 好 吧。 我 得 另 外 找 个 人 选。 
 dlga_lord_talk:lord_ask_enter_service|{s66}， 我 来 是 想 成 为 你 手 下 的 封 臣！ 
@@ -1340,18 +1340,18 @@ dlga_lord_give_suggestion_ask:lord_give_order|我 将 乐 于 服 从 你 的 �
 dlga_lord_give_suggestion_ask:lord_pretalk|不 好 意 思。 我 还 不 了 解 你， 所 以 不 能 接 受 你 的 建 议。 
 dlga_lord_give_suggestion_ask:lord_give_order.1|什 么 事？ 
 dlga_lord_give_order:lord_give_order_answer|跟 着 我。 
-dlga_lord_give_order:lord_give_order_answer.1|你 愿 意 跟 着 我 吗？  我 有 个 计 划 ……
-dlga_lord_give_order:lord_give_order_details_ask|去 ……
-dlga_lord_give_order:lord_give_order_details_ask.1|掠 夺 ……
-dlga_lord_give_order:lord_give_order_details_ask.2|侦 察 ……
-dlga_lord_give_order:lord_give_order_assault|我 们 可 以 一 起 拿 下 {s11}。 你 应 该 马 上 进 攻 ……
-dlga_lord_give_order:lord_give_order_details_ask.3|我 们 遭 到 攻 击， 我 们 有 能 力 击 退 敌 人。 你 应 赶 往 ……
-dlga_lord_give_order:lord_give_order_details_ask.4|我 们 遭 到 攻 击， 我 们 有 能 力 击 退 敌 人。 集 结 你 的 部 队 并 进 军 ……
+dlga_lord_give_order:lord_give_order_answer.1|你 愿 意 跟 着 我 吗？  我 有 个 计 划……
+dlga_lord_give_order:lord_give_order_details_ask|去……
+dlga_lord_give_order:lord_give_order_details_ask.1|掠 夺……
+dlga_lord_give_order:lord_give_order_details_ask.2|侦 察……
+dlga_lord_give_order:lord_give_order_assault|我 们 可 以 一 起 拿 下 {s11}。 你 应 该 马 上 进 攻……
+dlga_lord_give_order:lord_give_order_details_ask.3|我 们 遭 到 攻 击， 我 们 有 能 力 击 退 敌 人。 你 应 赶 往……
+dlga_lord_give_order:lord_give_order_details_ask.4|我 们 遭 到 攻 击， 我 们 有 能 力 击 退 敌 人。 集 结 你 的 部 队 并 进 军……
 dlga_lord_give_order_assault:lord_pretalk|这 次 攻 城 由 {s4}指 挥。 我 建 议 你 去 和 {reg4?她 :他 }谈。 
 dlga_lord_give_order_assault:lord_pretalk.1|我 们 的 准 备 还 不 充 分。 还 需 要 {s11}
 dlga_lord_give_order_assault:close_window|很 好 — — 攻 打 城 墙！ 
-dlga_lord_give_order:lord_give_order_details_ask.5|有 一 座 城 堡 能 够 被 轻 易 夺 取， 去 ……
-dlga_lord_give_order:lord_give_order_details_ask.6|敌 人 来 势 凶 猛。 我 们 逃 向 ……
+dlga_lord_give_order:lord_give_order_details_ask.5|有 一 座 城 堡 能 够 被 轻 易 夺 取， 去……
+dlga_lord_give_order:lord_give_order_details_ask.6|敌 人 来 势 凶 猛。 我 们 逃 向……
 dlga_lord_give_order:lord_give_order_stop|我 暂 时 不 需 要 你。 你 可 以 去 做 任 何 你 想 做 的 事 情。 
 dlga_lord_give_order:lord_give_order_stop.1|你 可 以 不 用 陪 着 我 了。 
 dlga_lord_give_order:lord_pretalk|没 事。 
@@ -1387,7 +1387,7 @@ dlga_lord_talk_ask_something_2:lord_marriage_permission|{s19}
 dlga_lord_marriage_permission:lord_pretalk|老 天 啊， 小 崽 子 — — 如 果 我 都 不 允 许 你 见 她， 你 认 为 我 会 允 许 你 娶 她 么？ 
 dlga_lord_marriage_permission:lord_pretalk.1|我 不 会 强 迫 我 的 {s11}嫁 给 她 不 喜 欢 的 人， 我 相 信 她 的 判 断 
 dlga_lord_marriage_permission:lord_pretalk.2|对 不 起， 孩 子 — — 我 不 打 算 让 我 的 {s11}嫁 给 你， 我 准 备 让 她 和 {s12}结 婚。 
-dlga_lord_marriage_permission:lord_marriage_permission_endowment|可 真 是 个 天 大 的 好 消 息， 年 轻 人 — — 把 你 纳 入 我 的 家 族 是 我 的 骄 傲。 现 在， 让 我 们 谈 谈 结 婚 的 条 件。 按 照 我 们 的 传 统， 我 们 两 人 必 须 确 保 {s11}有 足 够 的 资 金 能 在 任 何 情 况 下 支 持 她 ……
+dlga_lord_marriage_permission:lord_marriage_permission_endowment|可 真 是 个 天 大 的 好 消 息， 年 轻 人 — — 把 你 纳 入 我 的 家 族 是 我 的 骄 傲。 现 在， 让 我 们 谈 谈 结 婚 的 条 件。 按 照 我 们 的 传 统， 我 们 两 人 必 须 确 保 {s11}有 足 够 的 资 金 能 在 任 何 情 况 下 支 持 她……
 dlga_lord_marriage_permission_endowment:lord_marriage_permission_endowment_answer|我 得 说， 考 虑 到 我 们 两 家 的 声 望 地 位， 我 觉 得 你 提 供 {reg3}第 纳 尔 的 彩 礼， 而 我 提 供 {reg4}第 纳 尔 的 嫁 妆。 这 些 储 备 将 在 你 落 难 或 者 因 为 其 他 什 么 意 外 而 无 法 养 活 她 的 情 况 下 用 来 维 持 她 作 为 一 个 体 面 的 夫 人 的 必 要 消 费， 你 觉 得 怎 样？ 
 dlga_lord_marriage_permission_endowment_answer:lord_marriage_permission_engagement_date|很 好 — — 就 这 样 了。 
 dlga_lord_marriage_permission_endowment_answer:lord_marriage_permission_endowment_answer_delay|我 现 在 还 付 不 起 那 么 多 钱。 
@@ -1422,13 +1422,13 @@ dlga_lord_strategy_follow_evaluation:lord_strategy_follow_up.3|我 个 人 倾 �
 dlga_lord_strategy_follow_evaluation:lord_strategy_follow_up.4|我 个 人 倾 向 于 防 守 {s8}， 而 不 是 {s9}。 
 dlga_lord_strategy_follow_evaluation:lord_talk|还 有 别 的 事 么？ 
 dlga_lord_strategy_follow_evaluation:lord_strategy_follow_up.5|这 个 策 略 在 我 看 来 还 蛮 合 理 的。 
-dlga_lord_strategy_follow_up:lord_strategy_why_not|如 果 你 要 进 攻， 为 什 么 不 ……
-dlga_lord_strategy_follow_up:lord_talk_ask_something_again|我 明 白 了 ……
+dlga_lord_strategy_follow_up:lord_strategy_why_not|如 果 你 要 进 攻， 为 什 么 不……
+dlga_lord_strategy_follow_up:lord_talk_ask_something_again|我 明 白 了……
 dlga_lord_strategy_follow_up:lord_talk_replace_marshal|那 么， 你 是 不 是 说， {s4}不 适 合 继 续 担 任 元 帅 了？ 
 dlga_lord_talk_replace_marshal:lord_talk_ask_something_again|我 认 为 我 们 国 家 应 该 在 我 们 开 始 争 论 元 帅 的 更 换 之 前， 先 解 决 {s4}的 问 题。 
 dlga_lord_talk_replace_marshal:lord_talk_ask_something_again.1|是 的。 我 已 经 在 这 一 事 件 当 中 明 确 了 我 的 立 场。 我 认 为 {s4}应 该 取 代 {s5}成 为 元 帅。 
 dlga_lord_talk_replace_marshal:lord_talk_ask_something_again.2|在 这 个 事 件 上 不 用 你 的 劝 说 我 要 自 己 做 出 决 定， {先 生/尊 敬 的 女 士}。 
-dlga_lord_talk_replace_marshal:lord_talk_replace_marshal_decision|嗯 ……
+dlga_lord_talk_replace_marshal:lord_talk_replace_marshal_decision|嗯……
 dlga_lord_talk_replace_marshal_decision:lord_talk_ask_something_again|是 的， 我 得 说。 在 这 一 点 上， 我 会 倾 向 于 说 我 更 支 持 {s15}。 我 很 高 兴 和 你 进 行 了 这 次 讨 论， 现 在 我 知 道 你 和 我 在 这 一 事 件 上 观 点 是 一 致 的。 
 dlga_lord_talk_replace_marshal_decision:lord_talk_ask_something_again.1|没 有 必 要。 {s4}和 我 在 策 略 上 意 见 不 一 很 正 常， 不 意 味 着 我 想 取 代 他。 
 dlga_lord_strategy_why_not:lord_strategy_why_not_select|什 么？ 
@@ -1439,7 +1439,7 @@ dlga_lord_strategy_why_not_select:lord_strategy_why_not_reason.2|……攻 击 {
 dlga_lord_strategy_why_not_reason:lord_talk_why_not_repeat|{s9}
 dlga_lord_strategy_why_not_reason:lord_talk_why_not_repeat.1|我 们 的 元 帅 {s11}认 为 {s8}{s9}{s10}
 dlga_lord_strategy_why_not_reason:lord_talk_why_not_repeat.2|我 们 可 以 去 那 里， {s7}但 是， {s5}{s3}{s4}。 {s6}{s8}。 
-dlga_lord_talk_why_not_repeat:lord_strategy_why_not_select|你 曾 经 遇 到 过 类 似 的 问 题 吗？ 我 们 为 什 么 不 ……
+dlga_lord_talk_why_not_repeat:lord_strategy_why_not_select|你 曾 经 遇 到 过 类 似 的 问 题 吗？ 我 们 为 什 么 不……
 dlga_lord_talk_ask_marriage_1:lord_pretalk|作 为 一 个 国 王， 我 对 自 己 的 孩 子 已 经 有 了 另 外 的 安 排， 我 这 么 说 希 望 你 不 要 生 气。 
 dlga_lord_talk_ask_marriage_1:lord_pretalk.1|通 过 联 姻 来 巩 固 联 盟 是 我 们 的 传 统， 然 而 很 不 幸， 我 们 家 没 有 适 婚 的 人。 
 dlga_lord_talk_ask_marriage_1:lord_courtship_pre_permission|{s15}
@@ -1453,7 +1453,7 @@ dlga_lord_marriage_proposal_female_pc_reax:lord_pretalk|{s14}
 dlga_lord_marriage_proposal_female_pc_reax:lord_marriage_proposal_female_pc_next_step|{s14}
 dlga_lord_marriage_proposal_female_pc_next_step:lord_marriage_proposal_female_pc_next_step_4|我 认 为 下 一 步 我 得 通 知 你 的 家 族， 让 他 们 同 意 我 和 你 的 婚 事， 但 是 我 觉 得， 你 应 该 自 己 决 定 自 己 的 终 生 大 事。 
 dlga_lord_marriage_proposal_female_pc_next_step_4:lord_marriage_proposal_female_pc_next_step_5|你 想 的 很 对。 
-dlga_lord_marriage_proposal_female_pc_next_step_5:lord_marriage_proposal_female_pc_confirm_engagement|很 好， 现 在 我 们 之 间 的 婚 姻 已 经 没 有 任 何 阻 碍 了， 我 们 能 现 在 订 婚 吗？ 我 要 组 织 一 场 盛 大 的 婚 宴， 然 后 在 所 有 的 封 臣 面 前 交 换 誓 言。 如 果 你 愿 意 的 话， 就 这 么 定 了 ……
+dlga_lord_marriage_proposal_female_pc_next_step_5:lord_marriage_proposal_female_pc_confirm_engagement|很 好， 现 在 我 们 之 间 的 婚 姻 已 经 没 有 任 何 阻 碍 了， 我 们 能 现 在 订 婚 吗？ 我 要 组 织 一 场 盛 大 的 婚 宴， 然 后 在 所 有 的 封 臣 面 前 交 换 誓 言。 如 果 你 愿 意 的 话， 就 这 么 定 了……
 dlga_lord_marriage_proposal_female_pc_confirm_engagement:lord_marriage_proposal_female_pc_confirm_engagement_yes|我 乐 意。 
 dlga_lord_marriage_proposal_female_pc_confirm_engagement:lord_marriage_proposal_female_pc_confirm_engagement_no|事 实 上， 我 得 再 想 想。 
 dlga_lord_marriage_proposal_female_pc_confirm_engagement_yes:close_window|很 好。 如 果 一 切 顺 利 的 话， 我 们 将 在 一 个 月 以 后 结 婚。 {s12}
@@ -1472,7 +1472,7 @@ dlga_lord_attack_verify_b:lord_attack_verify_cancel|对 不 起 先 生。 我 �
 dlga_lord_attack_verify_b:lord_attack_verify_commit|我 不 会 退 让。 动 手 吧！ 
 dlga_lord_attack_verify_commit:close_window|{s43}
 dlga_lord_demand:lord_pretalk|不 好 意 思。 没 事。 
-dlga_lord_talk:liege_defends_claim_1|在 我 的 旅 途 中， 我 遇 到 一 个 自 称 是 {s45}的 人 ……
+dlga_lord_talk:liege_defends_claim_1|在 我 的 旅 途 中， 我 遇 到 一 个 自 称 是 {s45}的 人……
 dlga_liege_defends_claim_1:liege_defends_claim_2|哦， 真 的 吗？ 不 是 每 个 人 都 敢 在 我 面 前 提 起 那 个 名 字。 我 不 知 道 是 该 奖 励 你 的 勇 敢 还 是 惩 罚 你 的 傲 慢。 
 dlga_liege_defends_claim_2:liege_defends_claim_3|很 好， 我 将 满 足 你 的 好 奇 心。 但 是 仔 细 听 好 了， 因 为 我 不 想 再 把 话 重 复 一 遍。 
 dlga_liege_defends_claim_3:liege_defends_claim_4|{s48}
@@ -1506,7 +1506,7 @@ dlga_lord_talk_offer:knight_offer_join|我 想 要 向 你 赎 回 一 名 囚 �
 dlga_lord_talk_offer:lord_pretalk|没 事。 
 dlga_knight_offer_join:hero_pretalk|我 现 在 不 能 跟 着 你， {playername}。 我 还 有 一 些 非 常 重 要 的 事 情 要 处 理， 而 且 还 很 紧 急。 
 dlga_knight_offer_join:hero_pretalk.1|别 忘 记 你 的 身 份， {先 生/夫 人}。 我 可 不 接 受 像 你 这 样 的 人 的 指 挥。 
-dlga_knight_offer_join:knight_offer_join_2|我 很 乐 意 同 你 并 肩 作 战， 我 的 朋 友， 但 是 有 个 问 题 ……我 欠 了 人 家 一 些 钱， 一 共 {reg6}第 纳 尔。 我 向 来 以 不 赖 账 为 荣， 你 要 是 能 给 我 {reg6}第 纳 尔 让 我 还 清 了 债 务， 我 会 很 乐 意 加 入 你 的 队 伍。 我 向 来 以 不 赖 账 为 荣， 你 要 是 能 给 我 {reg6}第 纳 尔 让 我 还 清 了 债 务， 我 会 很 乐 意 加 入 你 的 队 伍。 
+dlga_knight_offer_join:knight_offer_join_2|我 很 乐 意 同 你 并 肩 作 战， 我 的 朋 友， 但 是 有 个 问 题…… 我 欠 了 人 家 一 些 钱， 一 共 {reg6}第 纳 尔。 我 向 来 以 不 赖 账 为 荣， 你 要 是 能 给 我 {reg6}第 纳 尔 让 我 还 清 了 债 务， 我 会 很 乐 意 加 入 你 的 队 伍。 我 向 来 以 不 赖 账 为 荣， 你 要 是 能 给 我 {reg6}第 纳 尔 让 我 还 清 了 债 务， 我 会 很 乐 意 加 入 你 的 队 伍。 
 dlga_knight_offer_join:close_window|加 入 你 的 队 伍？ 我 可 不 愿 意。 
 dlga_knight_offer_join:knight_offer_join_2.1|啊， 我 的 朋 友， 能 加 入 你 我 很 高 兴。 
 dlga_knight_offer_join_2:knight_offer_join_accept|给 你， 拿 去 吧， 这 是 你 要 的 {reg6}第 纳 尔。 
@@ -1519,11 +1519,11 @@ dlga_knight_offer_join_accept_party:knight_join_party_disband|你 可 以 解 �
 dlga_knight_offer_join_accept_party:knight_join_party_join|你 们 的 人 也 可 以 加 入 我 的 部 队， 我 们 需 要 一 切 可 以 召 集 的 人。 
 dlga_knight_offer_join_accept_party:knight_join_party_lead_out|你 先 带 你 的 人 出 城， 我 随 后 就 到。 
 dlga_knight_offer_join_accept_party:knight_join_party_lead_out.1|继 续 做 你 刚 才 做 的 事 情， 我 一 会 儿 会 赶 来。 
-dlga_knight_join_party_disband:close_window|嗯 ……好 吧， {playername}。 虽 然 我 不 喜 欢 失 去 优 秀 的 手 下， 这 事 还 由 你 作 主。 我 会 解 散 我 的 人， 然 后 加 入 你。 
+dlga_knight_join_party_disband:close_window|嗯……好 吧， {playername}。 虽 然 我 不 喜 欢 失 去 优 秀 的 手 下， 这 事 还 由 你 作 主。 我 会 解 散 我 的 人， 然 后 加 入 你。 
 dlga_knight_join_party_join:close_window|太 好 了， 我 的 朋 友， 我 们 一 起 走 吧。 
 dlga_knight_join_party_lead_out:close_window|好 的， 我 会 带 着 我 的 人 在 这 一 带 巡 逻。 如 果 你 有 下 一 步 的 指 令， 就 来 找 我 好 了。 
-dlga_lord_enter_service_reject:close_window|真 的 吗 ……你 当 时 声 称 效 忠， 只 是 为 了 拖 延 时 间？ 非 常 好。 你 再 好 好 考 虑 一 下， 如 果 你 要 敷 衍 我， 对 你 的 声 誉 毫 无 益 处。 
-dlga_lord_give_oath_give_up:close_window|真 的 吗 ……你 当 时 声 称 效 忠， 只 是 为 了 拖 延 时 间？ 非 常 好。 你 再 好 好 考 虑 一 下， 如 果 你 要 敷 衍 我， 对 你 的 声 誉 毫 无 益 处。 
+dlga_lord_enter_service_reject:close_window|真 的 吗……你 当 时 声 称 效 忠， 只 是 为 了 拖 延 时 间？ 非 常 好。 你 再 好 好 考 虑 一 下， 如 果 你 要 敷 衍 我， 对 你 的 声 誉 毫 无 益 处。 
+dlga_lord_give_oath_give_up:close_window|真 的 吗……你 当 时 声 称 效 忠， 只 是 为 了 拖 延 时 间？ 非 常 好。 你 再 好 好 考 虑 一 下， 如 果 你 要 敷 衍 我， 对 你 的 声 誉 毫 无 益 处。 
 dlga_lord_enter_service_reject:close_window.1|少 痴 人 说 梦 了！ 你 认 为 我 会 封 你 为 贵 族？ 趁 我 还 没 发 火 快 滚 吧， 乞 丐！ 
 dlga_lord_ask_enter_service:lord_give_oath_under_oath_already|你 不 是 已 经 对 {s5}宣 誓 效 忠 过 了 吗？ 
 dlga_lord_give_oath_under_oath_already:lord_pretalk|是 的 大 人， {s65}， 请 原 谅 我 散 漫。 
@@ -1541,7 +1541,7 @@ dlga_lord_ask_enter_service_female_solution_capture:lord_ask_enter_service_femal
 dlga_lord_ask_enter_service:lord_give_oath_1|你 是 一 个 很 勇 敢 的 {士 兵/战 士}， 而 且 还 是 一 个 很 好 的 领 导 者， {playername}。 如 果 你 发 誓 效 忠 于 我， 我 将 很 高 兴 接 受 你 的 剑 并 且 赐 你 为 封 臣。 
 dlga_lord_ask_enter_service:lord_pretalk.1|你 还 没 有 证 实 你 是 一 个 很 好 的 领 导 者， {playername}。 用 你 的 剑 去 和 我 的 敌 人 战 斗 并 且 证 明 你 有 成 为 我 的 封 臣 的 价 值。 之 后 再 来 找 我， 我 们 再 谈 一 次。 
 dlga_lord_give_oath_1:lord_give_oath_2|我 已 经 准 备 好 了， {s65}。 
-dlga_lord_give_oath_1:lord_give_oath_give_up|原 谅 我， {s65}。 这 件 事 我 还 得 再 考 虑 一 下 ……
+dlga_lord_give_oath_1:lord_give_oath_give_up|原 谅 我， {s65}。 这 件 事 我 还 得 再 考 虑 一 下……
 dlga_lord_give_oath_give_up:lord_pretalk|别 急， 安 心 慢 慢 准 备 吧， 尊 敬 的 女 士。 
 dlga_lord_give_oath_give_up:close_window.1|你 在 耍 什 么 把 戏， {playername}？ 做 好 决 定 再 来， 不 要 再 浪 费 我 的 时 间 了。 
 dlga_lord_give_oath_2:lord_give_oath_3|很 好。 跟 着 我 重 复 下 面 的 誓 言： 我 发 誓 忠 诚 于 你， {s41}的 合 法 统 治 者。 
@@ -1562,14 +1562,14 @@ dlga_lord_give_oath_go_on_3:lord_give_conclude|你 做 了 件 明 智 的 事�
 dlga_lord_give_conclude:lord_give_conclude_2|{s41}
 dlga_lord_give_conclude_2:close_window.1|那 就 这 样 吧， 我 的 妻 子。 愿 我 所 有 的 封 臣 都 和 你 一 样 勇 敢 和 忠 诚。 
 dlga_lord_give_conclude_2:close_window.2|我 对 你 抱 有 很 大 的 期 望， {playername}。 我 知 道 你 不 会 辜 负 我 的 信 任 的。 
-dlga_lord_ask_enter_service:lord_enter_service_swear|嘿， {playername}， 你 采 取 了 明 智 的 行 动。 只 要 忠 心， 效 忠 于 我 的 人 将 有 机 会 获 得 财 富 和 权 力， 而 我 们 的 敌 人 ……嗯， 他 们 将 溃 如 决 堤。 但 是， 要 为 我 效 力 就 得 断 绝 其 他 一 切 誓 约 和 契 约， 宣 誓 只 为 {s5}效 力。 
+dlga_lord_ask_enter_service:lord_enter_service_swear|嘿， {playername}， 你 采 取 了 明 智 的 行 动。 只 要 忠 心， 效 忠 于 我 的 人 将 有 机 会 获 得 财 富 和 权 力， 而 我 们 的 敌 人……嗯， 他 们 将 溃 如 决 堤。 但 是， 要 为 我 效 力 就 得 断 绝 其 他 一 切 誓 约 和 契 约， 宣 誓 只 为 {s5}效 力。 
 dlga_lord_enter_service_swear:lord_enter_service_swear_accepted|我 发 誓， {s65}。 
 dlga_lord_enter_service_swear:lord_enter_service_swear_denied|我 需 要 一 些 时 间 去 考 虑 一 下。 
 dlga_lord_enter_service_swear_denied:close_window|你 在 戏 弄 我 吗？ 我 没 有 时 间 跟 你 儿 戏， {playername}。 现 在 就 决 定， 不 要 浪 费 我 的 时 间！ 
 dlga_lord_enter_service_swear_accepted:lord_enter_service_swear_accepted_2|我 非 常 高 兴 地 欢 迎 你 效 力 于 我 的 王 庭。 从 现 在 开 始， {playername}， 你 拥 有 作 为 一 名 {s5}战 士 的 一 切 职 责 和 特 权。 
 dlga_lord_enter_service_swear_accepted_2:close_window|我 命 你 承 担 起 消 灭 一 切 所 见 敌 人 的 责 任。 并 且 我 以 及 其 他 受 封 于 我 的 领 主 将 不 时 指 派 你 特 别 的 任 务。 效 力， 战 斗， 维 护 你 誓 言 的 荣 誉。 你 若 有 心 升 迁， 这 些 将 对 你 助 益 良 多。 愿 神 赐 予 我 们 长 寿 与 胜 利。 
 dlga_lord_ask_leave_service:lord_ask_leave_service_verify|嗯。 你 觉 得 这 份 誓 言 太 沉 重 了 么， {playername}？ 解 除 誓 约 的 事 并 不 常 见， 但 是 鉴 于 你 为 我 工 作 的 很 好， 如 果 你 真 的 想 要 结 束 它， 我 不 会 强 留 你。 但 我 会 很 怀 念 你 的。 
-dlga_lord_ask_leave_service:lord_ask_leave_service_verify.1|解 除 誓 言？ 嗯。 也 许 这 样 是 最 好 的 结 果 ……但 是， {playername}， 你 必 须 要 确 定 你 是 真 的 非 常 希 望 这 么 做， 因 为 这 可 不 是 一 件 小 事。 
+dlga_lord_ask_leave_service:lord_ask_leave_service_verify.1|解 除 誓 言？ 嗯。 也 许 这 样 是 最 好 的 结 果……但 是， {playername}， 你 必 须 要 确 定 你 是 真 的 非 常 希 望 这 么 做， 因 为 这 可 不 是 一 件 小 事。 
 dlga_lord_ask_leave_service_verify:lord_ask_leave_service_2|这 事 我 非 做 不 可， {s65}。 
 dlga_lord_ask_leave_service_verify:lord_ask_leave_service_giveup|你 是 对 的， {s65}。 这 是 我 应 该 待 的 地 方。 
 dlga_lord_ask_leave_service_giveup:lord_pretalk|我 非 常 高 兴 听 到 这 个， {playername}。 以 后 别 再 考 虑 这 些 不 着 边 际 的 事。 
@@ -1577,10 +1577,10 @@ dlga_lord_ask_leave_service_2:lord_ask_leave_service_verify_again|那 你 是 �
 dlga_lord_ask_leave_service_verify_again:lord_ask_leave_service_3|是 的， {s65}。 
 dlga_lord_ask_leave_service_verify_again:lord_ask_leave_service_giveup|当 然 不 是 了， {s65}。 我 永 远 是 你 忠 实 的 封 臣。 
 dlga_lord_ask_leave_service_3:lord_ask_leave_service_end|如 你 所 愿。 我 在 此 宣 布 你 的 誓 言 作 废 了， 你 已 经 不 再 拥 有 我 名 下 的 土 地 和 头 衔 了， 并 且 解 除 你 在 我 王 庭 的 职 务。 你 现 在 自 由 了， {playername}。 
-dlga_lord_ask_leave_service_end:lord_ask_leave_service_end_2|谢 谢 你， 先 生。 曾 为 你 服 务 是 我 的 荣 幸 ……
+dlga_lord_ask_leave_service_end:lord_ask_leave_service_end_2|谢 谢 你， 先 生。 曾 为 你 服 务 是 我 的 荣 幸……
 dlga_lord_ask_leave_service_end:lord_ask_leave_service_end_2.1|非 常 感 谢。 再 次 {成 为 一 个 自 由 人/获 得 自 由}感 觉 真 好。 
 dlga_lord_ask_leave_service_end_2:close_window|再 见， {playername}， 祝 你 好 运。 
-dlga_lord_active_mission_1:lord_lend_companion_end|呃， 你 想 要 你 的 同 伴 归 队？ 我 知 道 了 ……
+dlga_lord_active_mission_1:lord_lend_companion_end|呃， 你 想 要 你 的 同 伴 归 队？ 我 知 道 了……
 dlga_lord_active_mission_1:lord_pretalk|{playername}， 我 乞 求 你 的 耐 心， 我 还 需 要 你 的 伙 伴。 等 事 情 解 决 了， 你 再 回 来 找 我 吧。 
 dlga_lord_active_mission_1:lord_active_mission_2|是 啊， 有 什 么 进 展 吗？ 
 dlga_lord_active_mission_2:lord_generic_mission_thank|当 然， 我 带 来 了 {reg1}名 {s1}做 为 俘 虏， 大 人。 
@@ -1621,8 +1621,8 @@ dlga_lord_mercenary_service_verify:lord_mercenary_service_reject|我 考 虑 了
 dlga_lord_mercenary_service_verify_2:lord_mercenary_service_accept_3|行 了。 你 做 了 一 个 英 明 的 选 择， 我 的 朋 友。 {s9}不 会 亏 待 它 忠 心 的 战 士。 你 的 效 力 将 得 到 很 好 的 回 报。 
 dlga_lord_mercenary_service_accept_3:lord_pretalk|现 在， 我 建 议 你 准 备 一 支 正 规 军。 平 时 尽 你 所 能 操 练 并 且 装 备 你 的 士 兵， 受 到 召 集 的 时 候 要 迅 速 反 应。 
 dlga_lord_mercenary_service_reject:lord_pretalk|听 到 这 个 我 很 遗 憾。 你 要 相 信 你 找 不 到 比 {s9}更 好 的 地 方 了。 
-dlga_lord_mercenary_elaborate_pay:lord_mercenary_elaborate_1|我 可 以 和 你 签 署 一 份 为 期 一 个 月 的 合 约。 一 个 月 期 满 的 时 候， 可 以 逐 月 延 长。 先 付 给 你 {reg12}第 纳 尔 作 为 定 金。 以 后， 依 据 你 军 队 士 兵 的 质 量 和 数 量， 你 将 每 周 从 {s10}那 里 领 到 军 饷。 你 依 然 有 在 战 场 上 缴 获 战 利 品 和 扣 押 俘 虏 的 权 利。 战 争 有 时 回 报 很 丰 厚 ……
-dlga_lord_mercenary_service_elaborate_duty:lord_mercenary_elaborate_1|职 责 ……都 是 一 些 很 简 单 的 事。 第 一 件 事 就 是 宣 布 你 的 忠 心。 向 我 们 的 事 业 宣 誓 效 忠。 一 旦 宣 誓 之 后， 你 就 需 要 履 行 某 些 职 责。 你 将 参 与 军 事 行 动， 执 行 你 的 指 挥 官 交 给 你 的 任 何 任 务， 最 重 要 的 是 在 任 何 时 候 攻 击 你 所 发 现 我 国 的 敌 人。 
+dlga_lord_mercenary_elaborate_pay:lord_mercenary_elaborate_1|我 可 以 和 你 签 署 一 份 为 期 一 个 月 的 合 约。 一 个 月 期 满 的 时 候， 可 以 逐 月 延 长。 先 付 给 你 {reg12}第 纳 尔 作 为 定 金。 以 后， 依 据 你 军 队 士 兵 的 质 量 和 数 量， 你 将 每 周 从 {s10}那 里 领 到 军 饷。 你 依 然 有 在 战 场 上 缴 获 战 利 品 和 扣 押 俘 虏 的 权 利。 战 争 有 时 回 报 很 丰 厚……
+dlga_lord_mercenary_service_elaborate_duty:lord_mercenary_elaborate_1|职 责……都 是 一 些 很 简 单 的 事。 第 一 件 事 就 是 宣 布 你 的 忠 心。 向 我 们 的 事 业 宣 誓 效 忠。 一 旦 宣 誓 之 后， 你 就 需 要 履 行 某 些 职 责。 你 将 参 与 军 事 行 动， 执 行 你 的 指 挥 官 交 给 你 的 任 何 任 务， 最 重 要 的 是 在 任 何 时 候 攻 击 你 所 发 现 我 国 的 敌 人。 
 dlga_lord_mercenary_elaborate_1:lord_mercenary_service_elaborate_duty|我 作 为 雇 佣 军 有 什 么 职 责？ 
 dlga_lord_mercenary_elaborate_1:lord_mercenary_elaborate_castle|我 可 以 占 有 我 攻 打 下 来 的 城 堡 吗？ 
 dlga_lord_mercenary_elaborate_1:lord_mercenary_elaborate_banner|我 可 以 使 用 我 的 旗 帜 吗？ 
@@ -1630,7 +1630,7 @@ dlga_lord_mercenary_elaborate_1:lord_mercenary_elaborate_pay|你 会 付 给 我
 dlga_lord_mercenary_elaborate_1:lord_mercenary_service_accept|听 上 去 不 错。 我 想 作 为 雇 佣 军 加 入 你。 
 dlga_lord_mercenary_elaborate_1:lord_mercenary_service_reject|抱 歉， 我 的 武 力 不 受 别 人 收 买。 
 dlga_lord_mercenary_elaborate_castle:lord_mercenary_elaborate_1|只 有 我 忠 心 的 封 臣 可 以 在 我 的 治 下 拥 有 自 己 的 领 地 和 城 堡 — — 而 我 所 有 的 封 臣 都 是 男 人。 \ 我 不 打 算 在 没 有 一 个 很 好 的 理 由 的 前 提 下 就 打 破 这 个 传 统。 如 果 你 在 战 斗 中 证 明 了 你 自 己， 你 可 以 宣 誓 对 我 效 忠 并 且 成 为 我 的 封 臣。 \ 那 时 我 们 也 许 可 以 讨 论 你 怎 样 才 能 得 到 一 座 城 堡。 
-dlga_lord_mercenary_elaborate_castle:lord_mercenary_elaborate_1.1|嗯 ……只 有 忠 心 的 {s10}封 臣 可 以 拥 有 自 己 的 领 地 和 城 堡。 而 国 王 们 有 时 候 会 接 受 那 些 在 战 争 中 证 明 了 自 己 的 人 为 属 臣， 授 予 他 们 领 地， 我 从 没 听 说 过 哪 个 国 王 给 女 人 封 地。 你 最 好 和 {s10}本 人 谈 谈 那 个。 
+dlga_lord_mercenary_elaborate_castle:lord_mercenary_elaborate_1.1|嗯……只 有 忠 心 的 {s10}封 臣 可 以 拥 有 自 己 的 领 地 和 城 堡。 而 国 王 们 有 时 候 会 接 受 那 些 在 战 争 中 证 明 了 自 己 的 人 为 属 臣， 授 予 他 们 领 地， 我 从 没 听 说 过 哪 个 国 王 给 女 人 封 地。 你 最 好 和 {s10}本 人 谈 谈 那 个。 
 dlga_lord_mercenary_elaborate_castle:lord_mercenary_elaborate_1.2|只 有 我 忠 心 的 封 臣 可 以 在 我 的 治 下 拥 有 自 己 的 领 地 和 城 堡。 而 雇 佣 军 不 会 得 到 如 此 信 任。 无 论 如 何， 经 过 一 段 时 间 的 效 力， 你 可 以 宣 誓 对 我 的 敬 意 并 且 成 为 我 的 封 臣。 那 时 你 将 得 到 封 地 的 奖 赏。 
 dlga_lord_mercenary_elaborate_castle:lord_mercenary_elaborate_1.3|只 有 {s10}忠 实 的 封 臣 才 能 拥 有 城 堡 和 领 地。 你 知 道， 一 个 雇 佣 兵 不 能 委 以 如 此 重 托。 不 过， 等 你 服 务 一 段 时 间 以 后， 也 许 你 能 够 获 得 向 {s10}效 忠 的 机 会 并 成 为 他 的 封 臣， 这 样 你 就 会 得 到 一 片 封 地 作 为 奖 励。 
 dlga_lord_mercenary_elaborate_banner:lord_mercenary_elaborate_1|只 有 我 的 贵 族 封 臣 才 有 打 自 己 旗 帜 的 荣 耀。 不 过， 经 过 一 段 时 间 的 雇 佣 兵 服 务， 你 也 许 能 赢 得 宣 誓 对 我 的 效 忠 并 且 成 为 我 的 封 臣 的 机 会， 获 得 选 择 一 面 自 己 的 旗 帜 并 且 在 飘 扬 的 旗 帜 下 战 斗 的 权 力。 
@@ -1672,12 +1672,12 @@ dlga_lord_mission_deliver_message_rejected_rudely_2:lord_mission_deliver_message
 dlga_lord_mission_deliver_message_rejected_rudely_2:lord_mission_deliver_message_accepted|请 原 谅 我 的 失 礼， {s65}。 我 会 替 你 送 这 封 信 的。 
 dlga_lord_mission_deliver_message_rejected_rudely_3:close_window|很 好， 我 会 记 着 的。 
 dlga_lord_tell_mission:lord_mission_deliver_message.1|我 需 要 送 一 封 信 给 {s15}的 {s13}， 他 现 在 应 该 在 {s4}。 如 果 你 走 那 个 方 向 的 话， 能 帮 我 送 信 给 他 吗？ 这 封 信 需 要 在 40 天 内 送 到 他 的 手 里。 
-dlga_lord_tell_mission:lord_mission_told|仅 仅 是 件 小 事 ……我 的 {s17}{s13}打 算 去 见 她 住 在 {s14}的 亲 戚， 可 因 为 路 途 不 安 全， 她 的 行 程 已 经 推 迟 了 数 次。 所 以 这 次 她 打 定 主 意， 无 论 如 何 都 要 见 到 她 的 亲 人， 因 此， 我 希 望 她 能 够 得 到 最 好 的 保 护。 我 相 信 你 的 实 力， {playername}。 如 果 你 能 答 应 我 毫 发 无 伤 地 护 送 她 到 {s14}的 话， 我 会 十 分 高 兴 和 感 激 的。 
+dlga_lord_tell_mission:lord_mission_told|仅 仅 是 件 小 事……我 的 {s17}{s13}打 算 去 见 她 住 在 {s14}的 亲 戚， 可 因 为 路 途 不 安 全， 她 的 行 程 已 经 推 迟 了 数 次。 所 以 这 次 她 打 定 主 意， 无 论 如 何 都 要 见 到 她 的 亲 人， 因 此， 我 希 望 她 能 够 得 到 最 好 的 保 护。 我 相 信 你 的 实 力， {playername}。 如 果 你 能 答 应 我 毫 发 无 伤 地 护 送 她 到 {s14}的 话， 我 会 十 分 高 兴 和 感 激 的。 
 dlga_lord_tell_mission:lord_mission_deal_with_bandits_told|一 伙 强 盗 把 我 的 领 地 {s15}当 作 了 避 难 所， 他 们 劫 掠 附 近 的 农 田， 用 属 于 我 的 税 金 和 牲 口 养 肥 自 己。 如 果 不 是 现 在 我 已 经 忙 得 脱 不 开 身， 我 一 定 要 给 他 们 一 个 永 生 难 忘 的 教 训。 
 dlga_lord_mission_deal_with_bandits_told:lord_mission_deal_with_bandits_accepted|你 放 心， 我 会 去 {s15}帮 你 解 决 这 件 事 的。 
 dlga_lord_mission_deal_with_bandits_told:lord_mission_deal_with_bandits_rejected|你 最 好 还 是 去 向 别 人 寻 求 帮 助 吧， 很 遗 憾 我 现 在 也 忙 得 脱 不 开 身。 
 dlga_lord_mission_deal_with_bandits_accepted:close_window|你 要 帮 助 我 吗？ 太 好 了， 我 将 会 很 感 激 你。 这 里 是 一 些 小 小 的 心 意， 以 支 付 你 旅 途 的 开 销， 让 那 些 {s43}们 明 白 这 样 做 到 底 有 什 么 下 场。 
-dlga_lord_mission_deal_with_bandits_rejected:lord_pretalk|嗯 ……这 样 的 话， 忘 记 我 说 的 话 吧。 
+dlga_lord_mission_deal_with_bandits_rejected:lord_pretalk|嗯……这 样 的 话， 忘 记 我 说 的 话 吧。 
 dlga_lord_tell_mission:lord_tell_mission_raise_troops|作 为 一 个 领 主 这 说 起 来 很 丢 人， {playername}， 前 两 天 我 在 检 阅 军 队 的 时 候， 发 现 有 些 家 伙 连 剑 应 该 怎 么 拿 都 不 知 道。 {s43}， 你 是 一 位 有 名 望 的 战 士， {playername}， 你 能 帮 我 培 养 一 些 士 兵 吗？ 我 将 会 非 常 感 激 你 的。 
 dlga_lord_tell_mission_raise_troops:lord_tell_mission_raise_troops_2|你 需 要 多 少 人？ 
 dlga_lord_tell_mission_raise_troops_2:lord_mission_raise_troops_told|你 帮 我 培 养 出 {reg1}名 {s14}， 应 该 足 够 了。 
@@ -1685,7 +1685,7 @@ dlga_lord_mission_raise_troops_told:lord_mission_raise_troops_accepted|没 问 �
 dlga_lord_mission_raise_troops_told:lord_mission_raise_troops_rejected|这 些 天 我 太 忙 了， 没 时 间 训 练 新 兵。 
 dlga_lord_mission_raise_troops_accepted:close_window|太 好 了， {playername}， 帮 我 分 担 了 很 大 的 负 担。 我 将 告 诉 我 的 军 士 去 选 一 些 新 兵， 并 交 由 你 指 挥。 还 有， 让 我 给 你 点 钱 作 为 培 养 他 们 的 补 助。 非 常 感 谢 你 的 帮 忙。 
 dlga_lord_mission_raise_troops_rejected:lord_pretalk|啊， 没 事。 我 对 此 有 心 理 准 备， 好 的， 祝 你 好 运。 
-dlga_lord_tell_mission:lord_mission_collect_taxes_told|你 知 道 我 是 {reg9?{s3}镇 :{s3}村 }的 领 主。 但 是 很 多 个 月 以 来 我 都 没 有 从 那 里 收 到 税 款 和 租 金。 很 明 显， 那 里 的 人 们 近 来 变 得 不 守 规 矩 了。 我 需 要 找 个 人 去 那 里， 提 醒 他 们 应 尽 的 义 务。 还 有 ……如 果 他 们 不 服 从 的 话 要“ 说 服” 他 们。 如 果 你 去 那 里 收 取 他 们 欠 我 的 税 款， 我 将 会 分 其 中 的 五 分 之 一 给 你。 
+dlga_lord_tell_mission:lord_mission_collect_taxes_told|你 知 道 我 是 {reg9?{s3}镇 :{s3}村 }的 领 主。 但 是 很 多 个 月 以 来 我 都 没 有 从 那 里 收 到 税 款 和 租 金。 很 明 显， 那 里 的 人 们 近 来 变 得 不 守 规 矩 了。 我 需 要 找 个 人 去 那 里， 提 醒 他 们 应 尽 的 义 务。 还 有……如 果 他 们 不 服 从 的 话 要“ 说 服” 他 们。 如 果 你 去 那 里 收 取 他 们 欠 我 的 税 款， 我 将 会 分 其 中 的 五 分 之 一 给 你。 
 dlga_lord_mission_collect_taxes_told:lord_mission_collect_taxes_accepted|不 错 的 差 事， {s65}。 成 交。 
 dlga_lord_mission_collect_taxes_told:lord_mission_collect_taxes_rejected|很 抱 歉， 我 没 有 时 间 干 这 个。 
 dlga_lord_mission_collect_taxes_accepted:close_window|那 太 好 了， {playername}。 这 件 事 就 托 付 给 你 了。 记 住， 那 些 {reg9?市 民 :村 民 }都 是 狡 猾 的 畜 牲。 他 们 会 找 各 种 借 口 逃 避 缴 纳 我 合 法 的 税 收。 不 要 被 他 们 愚 弄 了。 
@@ -1715,7 +1715,7 @@ dlga_quest_meet_spy_in_enemy_town_rejected:lord_pretalk|好 吧， 如 果 你 �
 dlga_lord_tell_mission:lord_mission_told_raid_caravan_to_start_war|{s13}的 和 平 令 我 反 胃， {playername}。 我 们 已 经 让 这 些 畜 牲 快 活 的 够 久 了， 他 们 每 一 次 过 境 就 又 强 大 一 分， 他 们 的 自 负 了 无 止 境。 要 我 说， 就 趁 现 在 还 不 晚， 同 他 们 宣 战。 不 幸 的 是， 我 的 一 些 假 慈 悲 的 领 主 要 阻 碍 我 们 宣 战， 无 知 怕 事  的 懦 夫！ 
 dlga_lord_mission_told_raid_caravan_to_start_war:lord_mission_tell_raid_caravan_to_start_war_2|你 说 得 对， {s65}， 但 我 们 能 做 什 么？ 
 dlga_lord_mission_told_raid_caravan_to_start_war:quest_raid_caravan_to_start_war_rejected_1|我 不 同 意， 先 生， 和 平 更 可 贵。 
-dlga_lord_mission_tell_raid_caravan_to_start_war_2:lord_mission_tell_raid_caravan_to_start_war_3|啊！ 很 高 兴 有 人 能 明 白 我 的 意 思， {playername}。 事 实 上， 我 们 还 是 有 办 法 的， 只 需 要 一 点 小 小 的 挑 拨 ……只 要 我 们 有 部 队 进 入 其 领 土 掠 夺 他 们 的 某 支 商 队， 或 者 掠 夺 他 们 的 某 座 村 庄， 或 许 再 留 下 一 两 点 跟 {s14}有 关 的 痕 迹， 就 会 给 他 们 足 够 的 理 由 向 我 们 的 国 家 开 战。 这 样 一 来， 即 使 是 那 些 软 骨 头 贵 族 也 不 得 不 拿 起 武 器 保 护 他 们 自 己。 你 觉 得 怎 么 样， 有 兴 趣 去 做 吗？ 
+dlga_lord_mission_tell_raid_caravan_to_start_war_2:lord_mission_tell_raid_caravan_to_start_war_3|啊！ 很 高 兴 有 人 能 明 白 我 的 意 思， {playername}。 事 实 上， 我 们 还 是 有 办 法 的， 只 需 要 一 点 小 小 的 挑 拨……只 要 我 们 有 部 队 进 入 其 领 土 掠 夺 他 们 的 某 支 商 队， 或 者 掠 夺 他 们 的 某 座 村 庄， 或 许 再 留 下 一 两 点 跟 {s14}有 关 的 痕 迹， 就 会 给 他 们 足 够 的 理 由 向 我 们 的 国 家 开 战。 这 样 一 来， 即 使 是 那 些 软 骨 头 贵 族 也 不 得 不 拿 起 武 器 保 护 他 们 自 己。 你 觉 得 怎 么 样， 有 兴 趣 去 做 吗？ 
 dlga_lord_mission_tell_raid_caravan_to_start_war_3:quest_raid_caravan_to_start_war_accepted|这 真 是 个 个 好 主 意， 算 我 一 个。 
 dlga_lord_mission_tell_raid_caravan_to_start_war_3:lord_mission_tell_raid_caravan_to_start_war_4|为 什 么 你 自 己 不 去 干？ 
 dlga_lord_mission_tell_raid_caravan_to_start_war_4:lord_mission_tell_raid_caravan_to_start_war_5|好 吧， {playername}， 王 国 中 的 一 些 贵 族 们 不 希 望 有 人 不 经 他 们 同 意 就 挑 起 战 争 的 火 种。 而 他 们 正 在 找 借 口 对 付 我。 所 以， 如 果 我 亲 自 参 与 这 次 的 行 动， 他 们 会 让 我 付 出 巨 大 的 代 价。 而 你 不 一 样， 年 轻， 受 欢 迎， 有 勇 气， 所 以 你 很 可 能 不 会 受 到 刁 难。 当 然 我 也 会 协 助 你 对 付 你 的 对 手。 总 之， 一 些 领 主 可 能 会 对 你 的 野 心 感 到 不 满， 但 我 相 信 你 不 会 在 乎 的。 
@@ -2962,7 +2962,7 @@ dlga_galeas_talk:galeas_sell_prisoners|那 你 最 好 准 备 好 你 的 钱 �
 dlga_galeas_talk:close_window|下 次 再 说， 再 见。 
 dlga_galeas_sell_prisoners:galeas_sell_prisoners_2|让 我 看 一 下 你 带 来 的“ 货 物” 吧…… 
 dlga_galeas_sell_prisoners_2:close_window|如 果 你 又 抓 到 俘 虏 了， 把 他 们 带 过 来。 我 不 会 亏 待 你。 
-dlga_start:prisoner_train_talk|你 想 要 干 什 么? 
+dlga_start:prisoner_train_talk|你 想 要 干 什 么？ 
 dlga_prisoner_train_talk:prisoner_train_talk_ultimatum|Set those prisoners free now!{***}
 dlga_prisoner_train_talk_ultimatum:prisoner_train_talk_ultimatum_2|Or what? Are you going to attack us?{***}
 dlga_prisoner_train_talk_ultimatum_2:prisoner_train_talk_ultimatum_2a|Yes I will. Consider yourself warned!{***}
