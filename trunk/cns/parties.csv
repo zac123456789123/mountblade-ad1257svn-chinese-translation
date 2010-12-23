@@ -1,4 +1,4 @@
-p_zendar|禅 达 
+﻿p_zendar|禅 达 
 p_town_1|克 拉 科 夫 {***}
 p_town_2|弗 罗 茨 瓦 夫 {***}
 p_town_3|格 但 斯 克 {***}
@@ -127,29 +127,29 @@ p_castle_3_5|雅 罗 斯 拉 夫 尔 堡
 p_castle_3_6|莫 斯 科 堡 
 p_castle_3_7|佩 列 斯 拉 夫 尔 堡 
 p_castle_4_1|阿 格 斯 堡 
-p_castle_4_2|Árós{***}
+p_castle_4_2|奥 胡 斯 堡 
 p_castle_4_3|Ripærhús{***}
-p_castle_4_4|Slæswich{***}
-p_castle_4_5|Swineburgh{***}
-p_castle_4_6|Kalundæburgh{***}
-p_castle_4_7|Helsingiæburgh{***}
-p_castle_4_8|Varbiargh{***}
-p_castle_6_1|Aachen{***}
-p_castle_6_2|Trier{***}
-p_castle_6_3|Wien{***}
-p_castle_6_4|Mainz{***}
-p_castle_6_5|München{***}
+p_castle_4_4|石 勒 施 维 茨 堡 {***}石勒苏益格（现名）
+p_castle_4_5|施 威 因 巴 勒 堡 {***}
+p_castle_4_6|凯 隆 堡 
+p_castle_4_7|赫 尔 辛 巴 勒 堡 {***}赫尔辛格（现名）
+p_castle_4_8|瓦 尔 贝 里 堡 
+p_castle_6_1|亚 琛 堡 {***}阿森（也许现名？）亚琛(现德国境内同神罗时期地理位置相聚较远)
+p_castle_6_2|特 里 尔 堡 {***}与亚琛在地理位置上完全正确  但是游戏内地图有误。。。
+p_castle_6_3|维 也 纳 堡 
+p_castle_6_4|美 因 茨 堡 
+p_castle_6_5|慕 尼 黑 堡 
 p_castle_6_6|勃 兰 登 堡 
-p_castle_6_7|Leuwen{***}
-p_castle_6_8|Nancy{***}
-p_castle_6_9|Verona{***}
-p_castle_6_10|Straßburg{***}
-p_castle_6_11|Baden{***}
-p_castle_6_12|Meißen{***}
-p_castle_7_1|Bribir{***}
+p_castle_6_7|鲁 汶 堡 
+p_castle_6_8|南 希 堡 
+p_castle_6_9|维 罗 纳 堡 
+p_castle_6_10|斯 特 拉 斯 堡 {***}游戏地图内有较大误差
+p_castle_6_11|巴 登 堡 
+p_castle_6_12|迈 森 堡 
+p_castle_7_1|布 里 卜 日 {***}属于匈牙利   克罗地亚语音译
 p_castle_7_2|Gyulafehervar Castle{***}
-p_castle_7_3|Koszeg Castle{***}
-p_castle_7_4|Siklos Castle{***}
+p_castle_7_3|克 塞 洛 堡 {***}与游戏内地图有出入
+p_castle_7_4|希 克 洛 什 堡 
 p_castle_7_5|Zolyom Castle{***}
 p_castle_7_6|Patak Castle{***}
 p_castle_7_7|Kalocsa Castle{***}
@@ -341,7 +341,7 @@ p_village_4_7|Randrøsæ{***}
 p_village_4_8|Álæburgh{***}
 p_village_4_9|Hjóring{***}
 p_village_4_10|Ripæ{***}
-p_village_4_11|Horsnæs{***}
+p_village_4_11|霍 尔 森 斯 
 p_village_4_12|Oþænswé{***}
 p_village_4_13|Flænsburgh{***}
 p_village_4_14|Halmstaþr{***}
