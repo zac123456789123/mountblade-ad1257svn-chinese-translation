@@ -1,4 +1,4 @@
-dlga_award_fief_to_vassal:award_fief_to_vassal_defer|我 想 把 这 个 任 命 先 放 一 放， 等 我 听 取 了 其 他 人 的 意 见 之 后， 再 作 决 定。
+﻿dlga_award_fief_to_vassal:award_fief_to_vassal_defer|我 想 把 这 个 任 命 先 放 一 放， 等 我 听 取 了 其 他 人 的 意 见 之 后， 再 作 决 定。
 dlga_award_fief_to_vassal_defer:close_window|如 你 所 愿， {陛 下/尊 敬 的 女 士}。 你 可 以 改 日 再 作 决 定。
 dlga_award_fief_to_vassal_2:close_window|如 你 所 愿， {陛 下/尊 敬 的 女 士}。 {reg6?我 :{reg7?你 :{s11}}}将 成 为 {s1}的 新 {reg3?主 人 :主 人 }。 
 dlga_event_triggered:center_captured_rebellion|{s1}目 前 还 无 人 治 理。 我 应 该 把 这 权 力 交 给 谁 呢？ 
@@ -119,7 +119,7 @@ dlga_ramun_talk:ramun_leave|我 该 上 路 了。
 dlga_ramun_leave:close_window|记 住， 把 俘 虏 都 带 到 我 这 里 来， 我 会 给 你 给 你 个 好 价 钱。 
 dlga_start:close_window.3|我 谦 卑 的 恳 请 大 人 你 能 把 手 放 在 我 看 得 到 的 位 置 上。 
 dlga_start:close_window.4|为 你 效 劳 是 我 的 荣 幸， {陛 下/尊 敬 的 女 士}
-dlga_start:welsh_intro|What do you want?{***}
+dlga_start:welsh_intro|你想要得到什么？
 dlga_start:welsh_hostile|Invaders, at them!{***}
 dlga_start:close_window.5|你 一 准 备 好 我 们 就 可 以 出 发 了。 
 dlga_welsh_intro:close_window|I am {playername}. I ask for safe passage.{***}
