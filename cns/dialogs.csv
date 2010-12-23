@@ -119,39 +119,39 @@ dlga_ramun_talk:ramun_leave|我 该 上 路 了。
 dlga_ramun_leave:close_window|记 住， 把 俘 虏 都 带 到 我 这 里 来， 我 会 给 你 给 你 个 好 价 钱。 
 dlga_start:close_window.3|我 谦 卑 的 恳 请 大 人 你 能 把 手 放 在 我 看 得 到 的 位 置 上。 
 dlga_start:close_window.4|为 你 效 劳 是 我 的 荣 幸， {陛 下/尊 敬 的 女 士}
-dlga_start:welsh_intro|你想要得到什么？
-dlga_start:welsh_hostile|Invaders, at them!{***}
+dlga_start:welsh_intro|你 想 要 干 什 么? 
+dlga_start:welsh_hostile|他 们 是 入 侵 者! 〇
 dlga_start:close_window.5|你 一 准 备 好 我 们 就 可 以 出 发 了。 
-dlga_welsh_intro:close_window|I am {playername}. I ask for safe passage.{***}
-dlga_welsh_intro:welsh_hostile|I travel under the protection of the English king.  You would not dare stop us.{***}
-dlga_welsh_hostile:close_window|We would not... ATTACK!{***}
-dlga_start:prussians_intro|What do you want?{***}
-dlga_start:prussians_hostile|Do you think you can get away from me?{***}
+dlga_welsh_intro:close_window我 是{playername}。 我 请 求 离 开。
+dlga_welsh_intro:welsh_hostile|我 在 英 格 兰 国 王 的 庇 护 下 行 走， You would not dare stop us.{***}
+dlga_welsh_hostile:close_window|我 们 不 会… 进攻！ 〇
+dlga_start:prussians_intro|你 想 要 干 什 么? 
+dlga_start:prussians_hostile|你 以 为 你 可 以 从 我 身 边 逃 走 么？ 
 dlga_start:close_window.6|请 不 要 再 浪 费 我 的 时 间 了 {先 生/夫 人}。 也 许 我 们 会 在 旅 行 中 重 逢。 
-dlga_prussians_intro:prussians_friendly_close|I am {playername}. I'm just traveling through these lands.{***}
-dlga_prussians_intro:prussians_hostile|You're an abomination in the eyes of God.  Repent and I'll let you live!{***}
-dlga_prussians_hostile:close_window|These are our lands and you have been desecrating our forests long enough. Die!{***}
-dlga_prussians_friendly_close:close_window|Perkūns be with you then {playername}.{***}
-dlga_start:curonians_intro|What do you want?{***}
-dlga_start:curonians_hostile|Do you think you can get away from me?{***}
+dlga_prussians_intro:prussians_friendly_close|我 是 {playername}。 我 只 是 恰 好 经 过 这 里。 
+dlga_prussians_intro:prussians_hostile|你 的 所 做 所 为 令 神 所 厌 恶， 我 会 让 你 活 着 离 开 并 忏 悔。 
+dlga_prussians_hostile:close_window|这 里 是 我 们 的 领 土， 你 对 我 们 的 森 林 已 经 破 坏 的 太 长 了。 现 在 去 死 吧！ 〇
+dlga_prussians_friendly_close:close_window|普 鲁 士 人 与 你 同 在， {playername}。 〇普鲁士人=雷神
+dlga_start:curonians_intro|你 想 要 干 什 么? 
+dlga_start:curonians_hostile|你 以 为 你 可 以 从 我 身 边 逃 走 么？ 
 dlga_start:close_window.7|很 好。 你 说 到 点 子 上 了。 我 无 话 可 说。 
-dlga_curonians_intro:curonians_friendly_close|I am {playername}. I'm just traveling through these lands.{***}
-dlga_curonians_intro:curonians_hostile|You're an abomination in the eyes of God.  Repent and I'll let you live!{***}
-dlga_curonians_hostile:close_window|These are our lands and you have been desecrating our forests long enough. Die!{***}
-dlga_curonians_friendly_close:close_window|Pērkons be with you then {playername}.{***}
-dlga_start:samogitians_intro|What do you want?{***}
+dlga_curonians_intro:curonians_friendly_close|我 是 {playername}。 我 只 是 恰 好 经 过 这 里。 
+dlga_curonians_intro:curonians_hostile|你 的 所 做 所 为 令 神 所 厌 恶， 我 会 让 你 活 着 离 开 并 忏 悔。 
+dlga_curonians_hostile:close_window|这 里 是 我 们 的 领 土， 你 对 我 们 的 森 林 已 经 破 坏 的 太 长 了。 现 在 去 死 吧！ 〇
+dlga_curonians_friendly_close:close_window|普 鲁 士 人 与 你 同 在， {playername}。 〇普鲁士人=雷神
+dlga_start:samogitians_intro|你 想 要 干 什 么? 
 dlga_start:close_window.8|好 吧， {先 生/尊 敬 的 女 士}！ 请 你 别 再 费 神 从 地 上 爬 起 来 了， 因 为 那 样 我 还 得 把 你 再 打 趴 下。 如 果 你 保 持 沉 默 我 就 当 你 道 过 歉 了。 祝 你 日 安。 
-dlga_samogitians_intro:samogitians_friendly_close|I am {playername}. I'm just traveling through these lands.{***}
-dlga_samogitians_intro:samogitians_hostile|You're an abomination in the eyes of God.  Repent and I'll let you live!{***}
-dlga_samogitians_hostile:close_window|These are our lands and you have been desecrating our forests long enough. Die!{***}
-dlga_samogitians_friendly_close:close_window|Perkūnas be with you then {playername}.{***}
-dlga_start:yotvingians_intro|What do you want?{***}
-dlga_start:yotvingians_hostile|Do you think you can get away from me?{***}
+dlga_samogitians_intro:samogitians_friendly_close|我 是 {playername}。 我 只 是 恰 好 经 过 这 里。 
+dlga_samogitians_intro:samogitians_hostile|你 的 所 做 所 为 令 神 所 厌 恶， 我 会 让 你 活 着 离 开 并 忏 悔。 
+dlga_samogitians_hostile:close_window|这 里 是 我 们 的 领 土， 你 对 我 们 的 森 林 已 经 破 坏 的 太 长 了。 现 在 去 死 吧！ 〇
+dlga_samogitians_friendly_close:close_window|普 鲁 士 人 与 你 同 在， {playername}。 〇普鲁士人=雷神
+dlga_start:yotvingians_intro|你 想 要 干 什 么? 
+dlga_start:yotvingians_hostile|你 以 为 你 可 以 从 我 身 边 逃 走 么？ 
 dlga_start:close_window.9|很 好。 你 说 到 点 子 上 了。 我 收 回 我 所 说 的。 希 望 你 能 满 意。 
-dlga_yotvingians_intro:yotvingians_friendly_close|I am {playername}. I'm just traveling through these lands.{***}
-dlga_yotvingians_intro:yotvingians_hostile|You're an abomination in the eyes of God.  Repent and I'll let you live!{***}
-dlga_yotvingians_hostile:close_window|These are our lands and you have been desecrating our forests long enough. Die!{***}
-dlga_yotvingians_friendly_close:close_window|Parkuns be with you then {playername}.{***}
+dlga_yotvingians_intro:yotvingians_friendly_close|我 是 {playername}。 我 只 是 恰 好 经 过 这 里。 
+dlga_yotvingians_intro:yotvingians_hostile|你 的 所 做 所 为 令 神 所 厌 恶， 我 会 让 你 活 着 离 开 并 忏 悔。 
+dlga_yotvingians_hostile:close_window|这 里 是 我 们 的 领 土， 你 对 我 们 的 森 林 已 经 破 坏 的 太 长 了。 现 在 去 死 吧！ 〇
+dlga_yotvingians_friendly_close:close_window|普 鲁 士 人 与 你 同 在， {playername}。 〇普鲁士人=雷神
 dlga_start:manhunter_talk_b|嘿！ 你 有 没 有 在 附 近 看 到 什 么 不 法 之 徒？ 
 dlga_manhunter_talk_b:manhunter_talk_b1|是 的， 他 们 大 约 一 小 时 前 朝 那 个 方 向 走 了。 
 dlga_manhunter_talk_b1:close_window|我 知 道 了！ 伙 计 们， 我 们 该 出 发 了， 去 干 掉 那 些 兔 崽 子。 十 分 感 谢， 朋 友。 
@@ -377,71 +377,71 @@ dlga_minister_talk:minister_replace.1|我 想 让 你 重 新 归 队。
 dlga_minister_talk:minister_grant_fief|我 要 你 去 授 予 我 的 一 名 封 臣 一 块 封 地。 
 dlga_minister_talk:minister_grant_self_fief|我 想 把 {s4}留 给 自 己。
 dlga_minister_grant_self_fief:minister_pretalk|如 你 所 愿。 {s4}是 你 的 了。
-dlga_start:dplmc_recruiter_talk|Hello {reg65?madame:sir}. If it's ok to you, I would like to get on with my assignment.{***}
-dlga_dplmc_recruiter_talk:close_window|Ok, keep going.{***}
-dlga_dplmc_recruiter_talk:dplmc_recruiter_talk_2|I want you to recruit different troops.{***}
-dlga_dplmc_recruiter_talk_2:dplmc_recruiter_talk_3|My current task is to recruit {reg1} {s1} troops for you. Should I recruit different soldiers from now on?{***}
-dlga_dplmc_recruiter_talk_3:close_window|No, keep going.{***}
-dlga_dplmc_recruiter_talk_3:dplmc_recruiter_talk_4|{s11}.{***}
-dlga_dplmc_recruiter_talk_3:dplmc_recruiter_talk_4.1|Recruit any troops.{***}
-dlga_dplmc_recruiter_talk_4:dplmc_recruiter_talk|Sure {reg65?madame:sir}. I will. Anything else you want?{***}
-dlga_start:dplmc_messenger_talk|Greetings. Sorry but I don't have time to talk now. I am delivering a very important message to {s6}.{***}
-dlga_dplmc_messenger_talk:dplmc_messenger_talk_farewell|Alright, I don't want to delay you. Godspeed!{***}
-dlga_dplmc_messenger_talk_farewell:close_window|Thank you. Farewell!{***}
+dlga_start:dplmc_recruiter_talk|您 好， {reg65?夫人:大人}。 如 果 可 以， 我 将 继 续 执 行 您 的 命 令 前 去 招 募 新 兵。 
+dlga_dplmc_recruiter_talk:close_window|好 的， 继 续。 
+dlga_dplmc_recruiter_talk:dplmc_recruiter_talk_2|我 需 要 你 去 招 募 不 同 的 士 兵。 
+dlga_dplmc_recruiter_talk_2:dplmc_recruiter_talk_3|我 当 前 任 务 是 招 募 {reg1} 名 {s1} 新 兵。 我 是 否 从 现 在 开 始 招 收 不 同 的 士 兵？ 
+dlga_dplmc_recruiter_talk_3:close_window|不， 继 续 你 刚 才 的 任 务。 
+dlga_dplmc_recruiter_talk_3:dplmc_recruiter_talk_4|{s11}。 
+dlga_dplmc_recruiter_talk_3:dplmc_recruiter_talk_4.1|招 募 任 何 兵 种。 
+dlga_dplmc_recruiter_talk_4:dplmc_recruiter_talk|是 的， {reg65?女士:先生}。 我 会 的。 您 还 有 其 他 任 务 么？ 
+dlga_start:dplmc_messenger_talk|您 好， 对 不 起 我 现 在 没 时 间 跟 你 聊， 我 正 前 往 {s6}带 去 一 个 很 重 要 的 信 息。 
+dlga_dplmc_messenger_talk:dplmc_messenger_talk_farewell|好 了， 我 不 想 耽 误 你， 一 路 顺 风！ 
+dlga_dplmc_messenger_talk_farewell:close_window|谢 谢 你， 再 见！ 
 dlga_start:close_window.13|再 过 一 会 儿 我 们 就 要 结 婚 了， 多 美 好 啊…… 不 过 我 需 要 说 明， 在 剩 下 的 几 天 里， 我 们 不 方 便 在 一 起 说 太 多 的 话。 
 dlga_start:close_window.14|呃， {playername}， 也 许 你 不 熟 悉 我 们 的 婚 礼 习 俗， 我 想 得 有 人 告 诉 你…… 先 去 和 我 的 {s11}， {s4}谈 谈 吧。 
-dlga_start:patrol_talk|What do you want?{***}
-dlga_patrol_talk:patrol_talk_ultimatum|Surrender to me now!{***}
-dlga_patrol_talk_ultimatum:patrol_talk_ultimatum_2|We are patrolling this area in the name of {s25}.  Are you sure you're looking for trouble?{***}
-dlga_patrol_talk_ultimatum_2:patrol_talk_ultimatum_2a|Enough talk, fight!{***}
-dlga_patrol_talk_ultimatum_2a:close_window|You will regret this.{***}
-dlga_patrol_talk_ultimatum_2:patrol_talk_ultimatum_2b|Attack you? No!  I was just asking if you came across any enemies in the area.{***}
-dlga_patrol_talk_ultimatum_2b:close_window|We have no information to share with you, move along.{***}
-dlga_patrol_talk:patrol_smalltalk|Good luck to you.{***}
-dlga_patrol_smalltalk:close_window|Keep safe.{***}
-dlga_start:dplmc_gift_talk|Greetings. I' am currently delivering {s12} to {s13}.{***}
-dlga_dplmc_gift_talk:dplmc_gift_talk_farewell|Very well! Have a nice trip.{***}
-dlga_dplmc_gift_talk_farewell:close_window|Thank you. Farewell!{***}
-dlga_start:dplmc_chancellor_talk|Milord?{***}
-dlga_dplmc_chancellor_pretalk:dplmc_chancellor_talk|Do you need anything else, Sire?{***}
-dlga_dplmc_chancellor_talk:dplmc_chancellor_info_kingdom_ask|Please give me some information about a lord.{***}
-dlga_dplmc_chancellor_info_kingdom_ask:dplmc_chancellor_info_kingdom_select|Where is he from?{***}
-dlga_dplmc_chancellor_info_kingdom_select:dplmc_chancellor_info_person_ask|{s11}.{***}
-dlga_dplmc_chancellor_info_kingdom_select:dplmc_chancellor_pretalk|Never mind.{***}
-dlga_dplmc_chancellor_info_person_ask:dplmc_chancellor_info_person_select|About which lord do you want information?{***}
-dlga_dplmc_chancellor_info_person_select:dplmc_chancellor_info_person|{s1}.{***}
-dlga_dplmc_chancellor_info_person_select:dplmc_chancellor_pretalk|About no one.{***}
-dlga_dplmc_chancellor_info_person:dplmc_chancellor_pretalk|{s47}{***}
-dlga_dplmc_chancellor_talk:dplmc_chancellor_cur_stance|What's the mood of the lords regarding the fief of {s4}?{***}
-dlga_dplmc_chancellor_cur_stance:dplmc_chancellor_pretalk|{s10}{***}
-dlga_dplmc_chancellor_talk:dplmc_chancellor_message_ask_type|Please send a message to another lord.{***}
-dlga_dplmc_chancellor_message_ask_type:dplmc_chancellor_message_lord_select|To whom do you like to send the message?{***}
-dlga_dplmc_chancellor_message_lord_select:dplmc_chancellor_message_ask|{s1}.{***}
-dlga_dplmc_chancellor_message_lord_select:dplmc_chancellor_pretalk|Nevermind.{***}
-dlga_dplmc_chancellor_message_ask:dplmc_chancellor_message_select|What do you want to tell {s6}?{***}
-dlga_dplmc_chancellor_message_select:dplmc_chancellor_message_lord_ask|Ask him if he is willing to accompany me in the field.{***}
-dlga_dplmc_chancellor_message_select:dplmc_chancellor_message_goto_lord_ask|Ask him if he is willing to go to a location.{***}
-dlga_dplmc_chancellor_message_select:dplmc_chancellor_message_goto_lord_ask.1|Ask him if he is willing to patrol a location.{***}
-dlga_dplmc_chancellor_message_select:dplmc_chancellor_message_goto_lord_ask.2|Ask him if he is willing to flee to a location.{***}
-dlga_dplmc_chancellor_message_select:dplmc_chancellor_message_goto_lord_ask.3|Ask him if he is willing to besiege a location.{***}
-dlga_dplmc_chancellor_message_select:dplmc_chancellor_message_goto_lord_ask.4|Ask him if he is willing to raid around a location.{***}
-dlga_dplmc_chancellor_message_select:dplmc_chancellor_pretalk|Never mind.{***}
-dlga_dplmc_chancellor_message_goto_lord_ask:dplmc_chancellor_message_order_details|Where do you order him?{***}
-dlga_dplmc_chancellor_message_order_details:dplmc_chancellor_message_lord_ask|{s1}{***}
-dlga_dplmc_chancellor_message_order_details:dplmc_chancellor_pretalk|Nowhere.{***}
-dlga_dplmc_chancellor_message_lord_ask:dplmc_message_send_confirm|Of course, I will send a messenger to {s11} and ask him if he is willing to accompany you in the field.{***}
-dlga_dplmc_chancellor_message_lord_ask:dplmc_message_send_confirm.1|Of course, I will send a messenger to {s11} and ask him if he is willing to go to {s12}.{***}
-dlga_dplmc_chancellor_message_lord_ask:dplmc_message_send_confirm.2|Of course, I will send a messenger to {s11} and ask him if he is willing to patrol around {s12}.{***}
-dlga_dplmc_chancellor_message_lord_ask:dplmc_message_send_confirm.3|Of course, I will send a messenger to {s11} and ask him if he is willing to retreat to {s12}.{***}
-dlga_dplmc_chancellor_message_lord_ask:dplmc_message_send_confirm.4|Of course, I will send a messenger to {s11} and ask him if he is willing to besiege {s12}.{***}
-dlga_dplmc_chancellor_message_lord_ask:dplmc_message_send_confirm.5|Of course, I will send a messenger to {s11} and ask him if he is willing to raid around {s12}.{***}
-dlga_dplmc_message_send_confirm:dplmc_chancellor_pretalk|Thank you.{***}
-dlga_dplmc_message_send_confirm:dplmc_chancellor_pretalk.1|I changed my mind.{***}
-dlga_dplmc_chancellor_talk:dplmc_chancellor_talk_household|Let us check our household possessions.{***}
-dlga_dplmc_chancellor_talk_household:dplmc_chancellor_pretalk|You should store all important things in the household.{***}
-dlga_dplmc_chancellor_talk:close_window|Farewell!{***}
-dlga_start:dplmc_constable_talk|Always at your service!{***}
-dlga_dplmc_constable_pretalk:dplmc_constable_talk|Do you need anything else, Sire?{***}
+dlga_start:patrol_talk|你 想 要 干 什 么? 
+dlga_patrol_talk:patrol_talk_ultimatum|向 我 投 降！ 
+dlga_patrol_talk_ultimatum:patrol_talk_ultimatum_2|我 们 正 在 巡 逻 这 个 地 区 的 名 字 叫 {s25}。 你 是 想 自 找 麻 烦 吗？ 
+dlga_patrol_talk_ultimatum_2:patrol_talk_ultimatum_2a|废 话 少 说， 开战！ 
+dlga_patrol_talk_ultimatum_2a:close_window|你 会 后 悔 的。 
+dlga_patrol_talk_ultimatum_2:patrol_talk_ultimatum_2b|攻 击 你？ 不！ 我 只 是 想 知 道 这 片 区 域 是 否 有 敌 人 经 过？ 
+dlga_patrol_talk_ultimatum_2b:close_window|我 们 什 么 都 不 知 道， 走 开！ 
+dlga_patrol_talk:patrol_smalltalk|祝 你 好 运。 
+dlga_patrol_smalltalk:close_window|注 意 安 全。 
+dlga_start:dplmc_gift_talk|好 的。 我 现 在 送 {s12} 到 {s13}。 
+dlga_dplmc_gift_talk:dplmc_gift_talk_farewell|非 常 好！ 祝 你 旅 途 愉 快。 
+dlga_dplmc_gift_talk_farewell:close_window|谢 谢 你， 再 见。 
+dlga_start:dplmc_chancellor_talk|大 人？ 
+dlga_dplmc_chancellor_pretalk:dplmc_chancellor_talk|您 还 有 什 么 事 么， 大人？ 
+dlga_dplmc_chancellor_talk:dplmc_chancellor_info_kingdom_ask|请 告 诉 我 某 个 领 主 的 信 息。 
+dlga_dplmc_chancellor_info_kingdom_ask:dplmc_chancellor_info_kingdom_select|他 来 自 哪 里？ 
+dlga_dplmc_chancellor_info_kingdom_select:dplmc_chancellor_info_person_ask|{s11}。 
+dlga_dplmc_chancellor_info_kingdom_select:dplmc_chancellor_pretalk|没 什 么。 
+dlga_dplmc_chancellor_info_person_ask:dplmc_chancellor_info_person_select|您 想 要 关 于 哪 个 领 主 的 信 息？ 
+dlga_dplmc_chancellor_info_person_select:dplmc_chancellor_info_person|{s1}。 
+dlga_dplmc_chancellor_info_person_select:dplmc_chancellor_pretalk|算 了。 
+dlga_dplmc_chancellor_info_person:dplmc_chancellor_pretalk|{s47} 
+dlga_dplmc_chancellor_talk:dplmc_chancellor_cur_stance|领 主 们 对 {s4} 的 归 属 权 有 什 么 反 应？ 
+dlga_dplmc_chancellor_cur_stance:dplmc_chancellor_pretalk|{s10} 
+dlga_dplmc_chancellor_talk:dplmc_chancellor_message_ask_type|请 向 一 位 领 主 带 去 一 条 信 息。 
+dlga_dplmc_chancellor_message_ask_type:dplmc_chancellor_message_lord_select|您 希 望 向 哪 一 位 领 主 发 送 信 息？ 
+dlga_dplmc_chancellor_message_lord_select:dplmc_chancellor_message_ask|{s1}。 
+dlga_dplmc_chancellor_message_lord_select:dplmc_chancellor_pretalk|算 了。 
+dlga_dplmc_chancellor_message_ask:dplmc_chancellor_message_select|您 想 向 {s6} 发 送 什 么 信 息？ 
+dlga_dplmc_chancellor_message_select:dplmc_chancellor_message_lord_ask|询 问 他 是 否 愿 意 和 我 的 军 队 一 起 行 动？ 
+dlga_dplmc_chancellor_message_select:dplmc_chancellor_message_goto_lord_ask|询 问 他 是 否 愿 意 到 一 个 地 方 驻 守？ 
+dlga_dplmc_chancellor_message_select:dplmc_chancellor_message_goto_lord_ask.1询 问 他 是 否 愿 意 撤 军 至 某 个 地 方？ 
+dlga_dplmc_chancellor_message_select:dplmc_chancellor_message_goto_lord_ask.2|询 问 他 是 否 愿 意 巡 逻 一 个 区 域？ 
+dlga_dplmc_chancellor_message_select:dplmc_chancellor_message_goto_lord_ask.3|询 问 他 是 否 愿 意 带 兵 攻 打 一 个 地 方？ 
+dlga_dplmc_chancellor_message_select:dplmc_chancellor_message_goto_lord_ask.4|询 问 他 是 否 愿 意 掠 夺 某 个 村 镇？ 
+dlga_dplmc_chancellor_message_select:dplmc_chancellor_pretalk|算 了。 
+dlga_dplmc_chancellor_message_goto_lord_ask:dplmc_chancellor_message_order_details|您 希 望 他 去 哪？ 
+dlga_dplmc_chancellor_message_order_details:dplmc_chancellor_message_lord_ask|{s1} 
+dlga_dplmc_chancellor_message_order_details:dplmc_chancellor_pretalk|算 了。 
+dlga_dplmc_chancellor_message_lord_ask:dplmc_message_send_confirm|当 然 ， 我 会 让 信 使 给 {s11} 带 信 问 他 是 否 愿 意 跟 随 您 的 军 队。 
+dlga_dplmc_chancellor_message_lord_ask:dplmc_message_send_confirm.1|当 然 ， 我 会 让 信 使 给 {s11}带 信 问 他 是 否 愿 意 驻 守 {s12}。 
+dlga_dplmc_chancellor_message_lord_ask:dplmc_message_send_confirm.2|当 然 ， 我 会 让 信 使 给 {s11} 带 信 问 他 是 否 愿 意 在 {s12} 周 围 巡 逻。 
+dlga_dplmc_chancellor_message_lord_ask:dplmc_message_send_confirm.3|当 然 ， 我 会 让 信 使 给 {s11}带 信 问 他 是 否 愿 意 撤 军 至 {s12}。 
+dlga_dplmc_chancellor_message_lord_ask:dplmc_message_send_confirm.4|当 然 ， 我 会 让 信 使 给 {s11} 带 信 问 他 是 否 愿 意 去 攻 打 {s12}。 
+dlga_dplmc_chancellor_message_lord_ask:dplmc_message_send_confirm.5|当 然 ， 我 会 让 信 使 给 {s11} 带 信 问 他 是 否 愿 意 去 掠 夺 {s12}。 
+dlga_dplmc_message_send_confirm:dplmc_chancellor_pretalk|谢 谢。 
+dlga_dplmc_message_send_confirm:dplmc_chancellor_pretalk.1|我 改 变 主 意 了。 
+dlga_dplmc_chancellor_talk:dplmc_chancellor_talk_household|让 我 们 检 查 一 下 仓 库。 
+dlga_dplmc_chancellor_talk_household:dplmc_chancellor_pretalk|您 应 该 把 所 有 重 要 的 东 西 存 放 在 家 里。 
+dlga_dplmc_chancellor_talk:close_window|再 见！ 
+dlga_start:dplmc_constable_talk|永 远 为 您 服 务！ 
+dlga_dplmc_constable_pretalk:dplmc_constable_talk|您 还 有 什 么 事 么， 大人？ 
 dlga_dplmc_constable_talk:dplmc_constable_talk_ask_war|How goes the war?{***}
 dlga_dplmc_constable_talk_ask_war:dplmc_constable_talk_ask_war_2|{s12}{***}
 dlga_dplmc_constable_talk_ask_war_2:dplmc_constable_talk_ask_war_details|Tell me more about the war with {s1}.{***}
@@ -2962,7 +2962,7 @@ dlga_galeas_talk:galeas_sell_prisoners|那 你 最 好 准 备 好 你 的 钱 �
 dlga_galeas_talk:close_window|下 次 再 说， 再 见。 
 dlga_galeas_sell_prisoners:galeas_sell_prisoners_2|让 我 看 一 下 你 带 来 的“ 货 物” 吧…… 
 dlga_galeas_sell_prisoners_2:close_window|如 果 你 又 抓 到 俘 虏 了， 把 他 们 带 过 来。 我 不 会 亏 待 你。 
-dlga_start:prisoner_train_talk|What do you want?{***}
+dlga_start:prisoner_train_talk|你 想 要 干 什 么? 
 dlga_prisoner_train_talk:prisoner_train_talk_ultimatum|Set those prisoners free now!{***}
 dlga_prisoner_train_talk_ultimatum:prisoner_train_talk_ultimatum_2|Or what? Are you going to attack us?{***}
 dlga_prisoner_train_talk_ultimatum_2:prisoner_train_talk_ultimatum_2a|Yes I will. Consider yourself warned!{***}
