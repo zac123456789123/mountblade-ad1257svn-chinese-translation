@@ -1,4 +1,4 @@
-trp_multiplayer_profile_troop_male|联 机 男 性 玩 家 角 色 
+﻿trp_multiplayer_profile_troop_male|联 机 男 性 玩 家 角 色 
 trp_multiplayer_profile_troop_male_pl|联 机 男 性 玩 家 角 色 
 trp_multiplayer_profile_troop_female|联 机 女 性 玩 家 角 色 
 trp_multiplayer_profile_troop_female_pl|联 机 女 性 玩 家 角 色 
@@ -1228,18 +1228,18 @@ trp_npc30|Ivailo Bardokva{***}
 trp_npc30_pl|Ivailo Bardokva{***}
 trp_npc31|Ali{***}
 trp_npc31_pl|Ali{***}
-trp_kingdom_1_lord|哈 劳 斯 国 王 
-trp_kingdom_1_lord_pl|哈 劳 斯 
-trp_kingdom_2_lord|亚 罗 格 尔 克 国 王 
-trp_kingdom_2_lord_pl|亚 罗 格 尔 克 
-trp_kingdom_3_lord|塞 加 可 汗 
-trp_kingdom_3_lord_pl|塞 加 
-trp_kingdom_4_lord|拉 格 纳 国 王 
-trp_kingdom_4_lord_pl|拉 格 纳 
-trp_kingdom_5_lord|葛 瑞 福 斯 国 王 
-trp_kingdom_5_lord_pl|葛 瑞 福 斯 
-trp_kingdom_6_lord|哈 基 姆 苏 丹 
-trp_kingdom_6_lord_pl|哈 基 姆 
+trp_kingdom_1_lord|哈 劳 斯 国 王 {***}
+trp_kingdom_1_lord_pl|哈 劳 斯 {***}
+trp_kingdom_2_lord|亚 罗 格 尔 克 国 王 {***}
+trp_kingdom_2_lord_pl|亚 罗 格 尔 克 {***}
+trp_kingdom_3_lord|塞 加 可 汗 {***}
+trp_kingdom_3_lord_pl|塞 加 {***}
+trp_kingdom_4_lord|拉 格 纳 国 王 {***}
+trp_kingdom_4_lord_pl|拉 格 纳 {***}
+trp_kingdom_5_lord|葛 瑞 福 斯 国 王 {***}
+trp_kingdom_5_lord_pl|葛 瑞 福 斯 {***}
+trp_kingdom_6_lord|哈 基 姆 苏 丹 {***}
+trp_kingdom_6_lord_pl|哈 基 姆 {***}
 trp_kingdom_7_lord|King Béla IV{***}
 trp_kingdom_7_lord_pl|Bela{***}
 trp_kingdom_8_lord|Grand Duke Alexander Nevski{***}
