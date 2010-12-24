@@ -1236,7 +1236,7 @@ trp_kingdom_3_lord|别 儿 哥 可 汗
 trp_kingdom_3_lord_pl|别 儿 哥 
 trp_kingdom_4_lord|丹 麦 国 王， 克 里 斯 托 弗 一 世 
 trp_kingdom_4_lord_pl|克 里 斯 托 弗 一 世 
-trp_kingdom_5_lord|波 兰 高 等 公 爵， 波 斯 瓦 夫 五 世 
+trp_kingdom_5_lord|波 兰 高 等 公 爵， 贞 洁 者 波 列 斯 瓦 夫 五 世 
 trp_kingdom_5_lord_pl|贞 洁 者 波 列 斯 瓦 夫 五 世 
 trp_kingdom_6_lord|罗 马 人 的 国 王， 理 查 德· 冯· 康 沃 尔 
 trp_kingdom_6_lord_pl|理 查 德· 冯· 康 沃 尔  
@@ -1248,28 +1248,28 @@ trp_kingdom_9_lord|英 格 兰 国 王， 亨 利 三 世
 trp_kingdom_9_lord_pl|亨 利 三 世 
 trp_kingdom_10_lord|法 兰 西 国 王， 路 易 九 世 
 trp_kingdom_10_lord_pl|路 易 九 世 
-trp_kingdom_11_lord|挪 威 国 王， 哈 康 四 世{***}
-trp_kingdom_11_lord_pl|哈 康 四 世{***}
+trp_kingdom_11_lord|挪 威 国 王， 哈 康 四 世 
+trp_kingdom_11_lord_pl|哈 康 四 世 
 trp_kingdom_12_lord|苏 格 兰 国 王， 亚 历 山 大 三 世 
 trp_kingdom_12_lord_pl|亚 历 山 大 三 世 
 trp_kingdom_13_lord|爱 尔 兰 国 王， 布 莱 恩· 奥 奈 尔 
 trp_kingdom_13_lord_pl|布 莱 恩· 奥 奈 尔 
-trp_kingdom_14_lord|Birger jarl{***}
-trp_kingdom_14_lord_pl|Birger{***}
-trp_kingdom_15_lord|Danylo Romanovych, King of Galicia{***}
-trp_kingdom_15_lord_pl|Danylo Romanovych{***}
-trp_kingdom_16_lord|Afonso III, King of Portugal{***}
-trp_kingdom_16_lord_pl|Afonso III{***}
-trp_kingdom_17_lord|Chaime lo Conqueridor, King of Aragon{***}
-trp_kingdom_17_lord_pl|Chaime lo Conqueridor{***}
-trp_kingdom_18_lord|Alfonso X, King of Castile, Leon and Galicia{***}
-trp_kingdom_18_lord_pl|Alfonso X{***}
-trp_kingdom_20_lord|Sultan Mohammed I Ibn Nasr{***}
-trp_kingdom_20_lord_pl|Mohammed I Ibn Nasr{***}
-trp_kingdom_22_lord|Emperor Theodore II Laskaris{***}
-trp_kingdom_22_lord_pl|Theodore II Laskaris{***}
-trp_kingdom_23_lord|John of Ibelin, Bailiff of the Kingdom of Jerusalem{***}
-trp_kingdom_23_lord_pl|John of Ibelin{***}
+trp_kingdom_14_lord|执 政 公 爵， 比 耶· 亚 尔 {***}
+trp_kingdom_14_lord_pl|比 耶· 亚 尔 {***}
+trp_kingdom_15_lord|加 里 西 亚 国 王， 丹 尼 尔· 罗 曼 诺 维 奇 
+trp_kingdom_15_lord_pl|丹 尼 尔· 罗 曼 诺 维 奇 
+trp_kingdom_16_lord|葡 萄 牙 国 王， 阿 方 索 三 世 
+trp_kingdom_16_lord_pl|阿 方 索 三 世 
+trp_kingdom_17_lord|阿 拉 贡 国 王， 征 服 者 海 梅 一 世 
+trp_kingdom_17_lord_pl|征 服 者 海 梅 一 世 
+trp_kingdom_18_lord|卡 斯 提 尔、 莱 昂 和 加 利 西 亚 国 王， 阿 方 索 十 世 
+trp_kingdom_18_lord_pl|阿 方 索 十 世 
+trp_kingdom_20_lord|格 拉 纳 达 苏 丹， 穆 罕 默 德 一 世 {***}
+trp_kingdom_20_lord_pl|穆 罕 默 德 一 世 {***}
+trp_kingdom_22_lord|尼 西 亚 帝 国 皇 帝, 西 奥 多· 拉 斯 卡 里 斯 二 世{***}
+trp_kingdom_22_lord_pl|西 奥 多· 拉 斯 卡 里 斯 二 世{***}
+trp_kingdom_23_lord|耶 路 撒 冷 王 国 执 行 官， 伊 贝 林 的 约 翰{***}
+trp_kingdom_23_lord_pl|伊 贝 林 的 约 翰{***}
 trp_kingdom_24_lord|Manfred of Sicily{***}
 trp_kingdom_24_lord_pl|Manfred of Sicily{***}
 trp_kingdom_25_lord|Sultan Izz al-Din Aybak{***}
