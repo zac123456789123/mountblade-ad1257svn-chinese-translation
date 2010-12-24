@@ -129,13 +129,13 @@ p_castle_3_7|佩 列 斯 拉 夫 尔 堡
 p_castle_4_1|阿 格 斯 堡 
 p_castle_4_2|奥 胡 斯 堡 
 p_castle_4_3|Ripærhús{***}
-p_castle_4_4|石 勒 施 维 茨 堡 {***}石勒苏益格（现名）
+p_castle_4_4|石 勒 苏 益 格 
 p_castle_4_5|施 威 因 巴 勒 堡 {***}
 p_castle_4_6|凯 隆 堡 
-p_castle_4_7|赫 尔 辛 巴 勒 堡 {***}赫尔辛格（现名）
+p_castle_4_7|赫 尔 辛 格 堡 
 p_castle_4_8|瓦 尔 贝 里 堡 
-p_castle_6_1|亚 琛 堡 {***}阿森（也许现名？）亚琛(现德国境内同神罗时期地理位置相聚较远)
-p_castle_6_2|特 里 尔 堡 {***}与亚琛在地理位置上完全正确  但是游戏内地图有误。。。
+p_castle_6_1|亚 琛 堡 
+p_castle_6_2|特 里 尔 堡 
 p_castle_6_3|维 也 纳 堡 
 p_castle_6_4|美 因 茨 堡 
 p_castle_6_5|慕 尼 黑 堡 
@@ -143,12 +143,12 @@ p_castle_6_6|勃 兰 登 堡
 p_castle_6_7|鲁 汶 堡 
 p_castle_6_8|南 希 堡 
 p_castle_6_9|维 罗 纳 堡 
-p_castle_6_10|斯 特 拉 斯 堡 {***}游戏地图内有较大误差
+p_castle_6_10|斯 特 拉 斯 堡 
 p_castle_6_11|巴 登 堡 
 p_castle_6_12|迈 森 堡 
-p_castle_7_1|布 里 卜 日 {***}属于匈牙利   克罗地亚语音译
+p_castle_7_1|布 里 卜 日 
 p_castle_7_2|Gyulafehervar Castle{***}
-p_castle_7_3|克 塞 洛 堡 {***}与游戏内地图有出入
+p_castle_7_3|克 塞 洛 堡 
 p_castle_7_4|希 克 洛 什 堡 
 p_castle_7_5|Zolyom Castle{***}
 p_castle_7_6|Patak Castle{***}
@@ -636,139 +636,139 @@ p_test_scene|测 试 场 景
 p_battlefields|战 场 
 p_dhorak_keep|多 拉 克 要 塞 
 p_training_ground|训 练 场 
-p_training_ground_1|训 练 场 
-p_training_ground_2|训 练 场 
-p_training_ground_3|训 练 场 
-p_training_ground_4|训 练 场 
-p_training_ground_5|训 练 场 
-p_training_ground_6|Training Field VI{***}
-p_training_ground_7|Training Field VII{***}
-p_training_ground_8|Training Field VIII{***}
-p_training_ground_9|Training Field IX{***}
-p_training_ground_10|Training Field X{***}
-p_training_ground_11|Training Field XI{***}
-p_training_ground_12|Training Field XII{***}
-p_training_ground_13|Training Field XIII{***}
-p_training_ground_14|Training Field XIV{***}
-p_training_ground_15|Training Field XV{***}
-p_training_ground_16|Training Field XVI{***}
-p_training_ground_17|Training Field XVII{***}
-p_training_ground_18|Training Field XVIII{***}
-p_ship_1|1{***}
-p_ship_2|2{***}
-p_ship_3|3{***}
-p_ship_4|4{***}
-p_ship_5|5{***}
-p_ship_6|6{***}
-p_ship_7|7{***}
-p_ship_8|8{***}
-p_ship_9|9{***}
-p_ship_10|9{***}
-p_ship_11|11{***}
-p_ship_12|12{***}
-p_ship_13|13{***}
-p_ship_14|14{***}
-p_ship_15|15{***}
-p_ship_16|16{***}
-p_ship_17|17{***}
-p_ship_18|18{***}
-p_ship_19|19{***}
-p_ship_20|20{***}
-p_ship_21|21{***}
-p_ship_22|22{***}
-p_ship_23|23{***}
-p_ship_24|24{***}
-p_ship_25|25{***}
-p_ship_26|26{***}
-p_ship_27|27{***}
-p_ship_28|28{***}
-p_ship_29|29{***}
-p_ship_30|30{***}
-p_ship_31|31{***}
-p_ship_32|32{***}
-p_ship_33|33{***}
-p_ship_34|34{***}
-p_ship_35|35{***}
-p_ship_36|36{***}
-p_ship_37|37{***}
-p_ship_38|38{***}
-p_ship_39|39{***}
-p_ship_40|40{***}
-p_ship_41|41{***}
-p_ship_42|42{***}
-p_ship_43|43{***}
-p_ship_44|44{***}
-p_ship_45|45{***}
-p_ship_46|46{***}
-p_ship_47|47{***}
-p_ship_48|48{***}
-p_ship_49|49{***}
-p_ship_50|50{***}
-p_ship_51|51{***}
-p_ship_52|52{***}
-p_ship_53|53{***}
-p_ship_54|54{***}
-p_ship_55|55{***}
-p_ship_56|56{***}
-p_ship_57|57{***}
-p_ship_58|58{***}
-p_ship_59|59{***}
-p_ship_60|60{***}
-p_ship_61|61{***}
-p_ship_62|62{***}
-p_ship_63|63{***}
-p_taiga_bandit_spawn_point_1|the tundra 1{***}
-p_taiga_bandit_spawn_point_2|the tundra 2{***}
-p_steppe_bandit_spawn_point_1|the steppes 1{***}
-p_steppe_bandit_spawn_point_2|the steppes 2{***}
-p_forest_bandit_spawn_point_1|the forests 1{***}
-p_forest_bandit_spawn_point_2|the forests 2{***}
-p_forest_bandit_spawn_point_3|the forests 3{***}
-p_forest_bandit_spawn_point_4|the forests 4{***}
-p_forest_bandit_spawn_point_5|the forests 5{***}
-p_forest_bandit_spawn_point_6|the forests 6{***}
-p_forest_bandit_spawn_point_7|the forests 7{***}
-p_mountain_bandit_spawn_point_1|the highways 1{***}
-p_mountain_bandit_spawn_point_2|the highways 2{***}
-p_mountain_bandit_spawn_point_3|the highways 3{***}
-p_mountain_bandit_spawn_point_4|the highways 4{***}
-p_mountain_bandit_spawn_point_5|the highways 5{***}
-p_mountain_bandit_spawn_point_6|the highways 6{***}
-p_mountain_bandit_spawn_point_7|the highways 7{***}
-p_mountain_bandit_spawn_point_8|the highways 8{***}
-p_mountain_bandit_spawn_point_9|the highways 9{***}
-p_mountain_bandit_spawn_point_10|the highways 10{***}
-p_mountain_bandit_spawn_point_11|the highways 11{***}
-p_mountain_bandit_spawn_point_12|the highways 12{***}
-p_mountain_bandit_spawn_point_13|the highways 13{***}
-p_mountain_bandit_spawn_point_14|the highways 14{***}
-p_mountain_bandit_spawn_point_15|the highways 15{***}
-p_mountain_bandit_spawn_point_16|the highways 16{***}
-p_mountain_bandit_spawn_point_17|the highways 17{***}
-p_mountain_bandit_spawn_point_18|the highways 18{***}
-p_mountain_bandit_spawn_point_19|the highways 19{***}
-p_mountain_bandit_spawn_point_20|the highways 20{***}
-p_mountain_bandit_spawn_point_21|the highways 21{***}
-p_sea_raider_spawn_point_1|海 岸 
-p_sea_raider_spawn_point_2|海 岸 
-p_sea_raider_spawn_point_3|the coast 3{***}
-p_sea_raider_spawn_point_4|the coast 4{***}
-p_sea_raider_spawn_point_5|the coast 5{***}
-p_sea_raider_spawn_point_6|the coast 6{***}
-p_sea_raider_spawn_point_7|the coast 7{***}
-p_sea_raider_spawn_point_8|the coast 8{***}
-p_sea_raider_spawn_point_9|the coast 9{***}
-p_sea_raider_spawn_point_10|the coast 10{***}
-p_sea_raider_spawn_point_11|the coast 11{***}
-p_sea_raider_spawn_point_12|the coast 12{***}
-p_sea_raider_spawn_point_13|the coast 13{***}
-p_sea_raider_spawn_point_14|the coast 14{***}
-p_sea_raider_spawn_point_15|the coast 15{***}
-p_sea_raider_spawn_point_16|the coast 16{***}
-p_sea_raider_spawn_point_17|the coast 17{***}
-p_desert_bandit_spawn_point_1|the desert 1{***}
-p_desert_bandit_spawn_point_2|the desert 2{***}
-p_desert_bandit_spawn_point_3|the desert 3{***}
-p_desert_bandit_spawn_point_4|the desert 4{***}
-p_desert_bandit_spawn_point_5|the desert 5{***}
-p_pagan_stronghold|Prussian Stronghold{***}
+p_training_ground_1|训 练 场 I
+p_training_ground_2|训 练 场 II
+p_training_ground_3|训 练 场 III
+p_training_ground_4|训 练 场 IV
+p_training_ground_5|训 练 场 V
+p_training_ground_6|训 练 场 VI
+p_training_ground_7|训 练 场 VII
+p_training_ground_8|训 练 场 VIII
+p_training_ground_9|训 练 场 IX
+p_training_ground_10|训 练 场 X
+p_training_ground_11|训 练 场 XI
+p_training_ground_12|训 练 场 XII
+p_training_ground_13|训 练 场 XIII
+p_training_ground_14|训 练 场 XIV
+p_training_ground_15|训 练 场 XV
+p_training_ground_16|训 练 场 XVI
+p_training_ground_17|训 练 场 XVII
+p_training_ground_18|训 练 场 XVIII
+p_ship_1|船 只 1
+p_ship_2|船 只 2
+p_ship_3|船 只 3
+p_ship_4|船 只 4
+p_ship_5|船 只 5
+p_ship_6|船 只 6
+p_ship_7|船 只 7
+p_ship_8|船 只 8
+p_ship_9|船 只 9
+p_ship_10|船 只 9
+p_ship_11|船 只 11
+p_ship_12|船 只 12
+p_ship_13|船 只 13
+p_ship_14|船 只 14
+p_ship_15|船 只 15
+p_ship_16|船 只 16
+p_ship_17|船 只 17
+p_ship_18|船 只 18
+p_ship_19|船 只 19
+p_ship_20|船 只 20
+p_ship_21|船 只 21
+p_ship_22|船 只 22
+p_ship_23|船 只 23
+p_ship_24|船 只 24
+p_ship_25|船 只 25
+p_ship_26|船 只 26
+p_ship_27|船 只 27
+p_ship_28|船 只 28
+p_ship_29|船 只 29
+p_ship_30|船 只 30
+p_ship_31|船 只 31
+p_ship_32|船 只 32
+p_ship_33|船 只 33
+p_ship_34|船 只 34
+p_ship_35|船 只 35
+p_ship_36|船 只 36
+p_ship_37|船 只 37
+p_ship_38|船 只 38
+p_ship_39|船 只 39
+p_ship_40|船 只 40
+p_ship_41|船 只 41
+p_ship_42|船 只 42
+p_ship_43|船 只 43
+p_ship_44|船 只 44
+p_ship_45|船 只 45
+p_ship_46|船 只 46
+p_ship_47|船 只 47
+p_ship_48|船 只 48
+p_ship_49|船 只 49
+p_ship_50|船 只 50
+p_ship_51|船 只 51
+p_ship_52|船 只 52
+p_ship_53|船 只 53
+p_ship_54|船 只 54
+p_ship_55|船 只 55
+p_ship_56|船 只 56
+p_ship_57|船 只 57
+p_ship_58|船 只 58
+p_ship_59|船 只 59
+p_ship_60|船 只 60
+p_ship_61|船 只 61
+p_ship_62|船 只 62
+p_ship_63|船 只 63
+p_taiga_bandit_spawn_point_1|苔 原 1
+p_taiga_bandit_spawn_point_2|苔 原 2
+p_steppe_bandit_spawn_point_1|草 原 1
+p_steppe_bandit_spawn_point_2|草 原 2
+p_forest_bandit_spawn_point_1|森 林 1
+p_forest_bandit_spawn_point_2|森 林 2
+p_forest_bandit_spawn_point_3|森 林 3
+p_forest_bandit_spawn_point_4|森 林 4
+p_forest_bandit_spawn_point_5|森 林 5
+p_forest_bandit_spawn_point_6|森 林 6
+p_forest_bandit_spawn_point_7|森 林 7
+p_mountain_bandit_spawn_point_1|高 地 1
+p_mountain_bandit_spawn_point_2|高 地 2
+p_mountain_bandit_spawn_point_3|高 地 3
+p_mountain_bandit_spawn_point_4|高 地 4
+p_mountain_bandit_spawn_point_5|高 地 5
+p_mountain_bandit_spawn_point_6|高 地 6
+p_mountain_bandit_spawn_point_7|高 地 7
+p_mountain_bandit_spawn_point_8|高 地 8
+p_mountain_bandit_spawn_point_9|高 地 9
+p_mountain_bandit_spawn_point_10|高 地 10
+p_mountain_bandit_spawn_point_11|高 地 11
+p_mountain_bandit_spawn_point_12|高 地 12
+p_mountain_bandit_spawn_point_13|高 地 13
+p_mountain_bandit_spawn_point_14|高 地 14
+p_mountain_bandit_spawn_point_15|高 地 15
+p_mountain_bandit_spawn_point_16|高 地 16
+p_mountain_bandit_spawn_point_17|高 地 17
+p_mountain_bandit_spawn_point_18|高 地 18
+p_mountain_bandit_spawn_point_19|高 地 19
+p_mountain_bandit_spawn_point_20|高 地 20
+p_mountain_bandit_spawn_point_21|高 地 21
+p_sea_raider_spawn_point_1|海 岸 1
+p_sea_raider_spawn_point_2|海 岸 2
+p_sea_raider_spawn_point_3|海 岸 3
+p_sea_raider_spawn_point_4|海 岸 4
+p_sea_raider_spawn_point_5|海 岸 5
+p_sea_raider_spawn_point_6|海 岸 6
+p_sea_raider_spawn_point_7|海 岸 7
+p_sea_raider_spawn_point_8|海 岸 8
+p_sea_raider_spawn_point_9|海 岸 9
+p_sea_raider_spawn_point_10|海 岸 10
+p_sea_raider_spawn_point_11|海 岸 11
+p_sea_raider_spawn_point_12|海 岸 12
+p_sea_raider_spawn_point_13|海 岸 13
+p_sea_raider_spawn_point_14|海 岸 14
+p_sea_raider_spawn_point_15|海 岸 15
+p_sea_raider_spawn_point_16|海 岸 16
+p_sea_raider_spawn_point_17|海 岸 17
+p_desert_bandit_spawn_point_1|沙 漠 1
+p_desert_bandit_spawn_point_2|沙 漠 2
+p_desert_bandit_spawn_point_3|沙 漠 3
+p_desert_bandit_spawn_point_4|沙 漠 4
+p_desert_bandit_spawn_point_5|沙 漠 5
+p_pagan_stronghold|普 鲁 士 要 塞 
