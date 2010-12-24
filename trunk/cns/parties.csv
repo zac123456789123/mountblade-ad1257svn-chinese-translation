@@ -1,8 +1,8 @@
 ﻿p_zendar|禅 达 
-p_town_1|克 拉 科 夫 {***}
-p_town_2|弗 罗 茨 瓦 夫 {***}
-p_town_3|格 但 斯 克 {***}
-p_town_4|波 兹 南 {***}
+p_town_1|克 拉 科 夫 
+p_town_2|弗 罗 茨 瓦 夫 
+p_town_3|格 但 斯 克 
+p_town_4|波 兹 南 
 p_town_1_1|埃 尔 宾 
 p_town_1_2|哥 尼 斯 堡 
 p_town_1_3|索 恩 
@@ -11,12 +11,12 @@ p_town_2_1|维 尔 纽 斯
 p_town_2_2|考 纳 斯 
 p_town_2_3|格 罗 德 诺 
 p_town_2_4|波 洛 茨 克 
-p_town_3_1|萨 赖 {***}
+p_town_3_1|萨 赖 {***}莎拉
 p_town_3_2|斯 摩 棱 斯 克 
 p_town_3_3|基 辅 
 p_town_3_4|切 尔 尼 戈 夫 
 p_town_4_1|隆 德 
-p_town_4_2|罗 斯 基 勒 {***}
+p_town_4_2|罗 斯 基 勒 
 p_town_4_3|雷 瓦 尔 
 p_town_4_4|维 堡 
 p_town_6_1|纽 伦 堡 
@@ -26,7 +26,7 @@ p_town_6_4|布 拉 格
 p_town_6_5|马 格 德 堡 
 p_town_6_6|吕 贝 克 
 p_town_6_7|热 那 亚 
-p_town_7_1|奥 拉 迪 亚 {***}
+p_town_7_1|瓦 拉 德 
 p_town_7_2|萨 格 勒 布 
 p_town_7_3|布 拉 迪 斯 拉 发
 p_town_7_4|塞 格 德 
@@ -52,7 +52,7 @@ p_town_12_2|格 拉 斯 哥
 p_town_13_1|多 尼 戈 尔 
 p_town_13_2|邓 甘 嫩 
 p_town_14_1|韦 斯 特 罗 斯 
-p_town_14_2|阿 巴 {***}
+p_town_14_2|阿 布 
 p_town_14_3|维 斯 比 
 p_town_15_1|弗 拉 基 米 尔 沃 伦 斯 基 
 p_town_15_2|加 利 奇 
@@ -93,15 +93,15 @@ p_town_30_1|特 尔 诺 沃
 p_town_30_2|普 罗 夫 迪 夫 
 p_town_31_1|非 斯 
 p_town_31_2|马 拉 喀 什 
-p_town_31_3|瓦 赫 兰 
-p_castle_1|库 儿 玛 堡 {***}
-p_castle_2|桑 多 梅 日 堡 {***}
-p_castle_3|格 沃 堡 {***}
-p_castle_4|奥 波 莱 堡 {***}
-p_castle_5|车 默 诺 堡 {***}
-p_castle_6|克 斯 沃 堡 {***}
-p_castle_7|卢 布 斯 卡 堡 {***}
-p_castle_8|卢 布 林 堡 {***}
+p_town_31_3|瓦 赫 兰 {***}应该是奥兰
+p_castle_1|格 涅 兹 诺 
+p_castle_2|桑 多 梅 日 堡 
+p_castle_3|格 沃 古 夫 
+p_castle_4|奥 波 莱 堡 
+p_castle_5|车 默 诺 堡 
+p_castle_6|克 斯 沃 堡 
+p_castle_7|卢 布 斯 卡 堡 
+p_castle_8|卢 布 林 堡 
 p_castle_1_1|阿 伦 斯 堡 
 p_castle_1_2|巴 尔 加 
 p_castle_1_3|维 尔 扬 迪 堡 
