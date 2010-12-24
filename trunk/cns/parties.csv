@@ -46,7 +46,7 @@ p_town_10_5|鲁 昂
 p_town_10_6|普 罗 旺 斯 艾 克 斯 
 p_town_11_1|特 隆 赫 姆 
 p_town_11_2|卑 尔 根 
-p_town_11_3|奥 斯 陆 {***}
+p_town_11_3|奥 斯 陆 {***}（Ásló？）
 p_town_12_1|斯 特 灵 
 p_town_12_2|格 拉 斯 哥 
 p_town_13_1|多 尼 戈 尔 
@@ -222,67 +222,67 @@ p_castle_18_5|巴 达 霍 斯
 p_castle_18_6|穆 尔 西 亚 
 p_castle_20_1|塔 里 法 堡 
 p_castle_20_2|安 特 克 拉 堡 
-p_castle_20_3|瓦 迪- 阿 塞 堡 {***}（今瓜迪克斯）
+p_castle_20_3|瓦 迪- 阿 塞 堡
 p_castle_20_4|阿 尔- 梅 利 亚 堡 
-p_castle_22_1|Myra{***}
+p_castle_22_1|米 拉 
 p_castle_22_2|安 塔 利 亚 
 p_castle_22_3|索 佐 波 利 斯 
-p_castle_22_4|以 弗 所 {***}（现名）
-p_castle_22_5|Thyatira{***}
-p_castle_22_6|Adramyttium{***}
-p_castle_23_1|Krak des Chevaliers{***}
-p_castle_23_2|Montfort Castle{***}
-p_castle_23_3|Tripoli{***}
-p_castle_24_1|Reggio{***}
-p_castle_24_2|Bari{***}
-p_castle_24_3|Melfi{***}
-p_castle_24_4|Taranto{***}
-p_castle_25_1|Mansoura{***}
-p_castle_25_2|Al`Arish{***}
-p_castle_25_3|Ismailiya{***}
-p_castle_25_4|Akaba{***}
-p_castle_25_5|Barca{***}
-p_castle_25_6|Karak{***}
-p_castle_25_7|Beni Suef{***}
-p_castle_26_1|Larissa{***}
-p_castle_26_2|Janina{***}
-p_castle_26_3|Adrianople{***}
-p_castle_26_4|Chrystoupolis{***}
-p_castle_27_1|Ermenak{***}
-p_castle_27_2|Amasya{***}
-p_castle_27_3|Erzincan{***}
-p_castle_27_4|Edessa{***}
-p_castle_27_5|Ragga{***}
-p_castle_27_6|Kars{***}
-p_castle_28_1|Kairwan{***}
-p_castle_28_2|El Krib{***}
+p_castle_22_4|以 弗 所 
+p_castle_22_5|推 雅 推 喇 
+p_castle_22_6|埃 德 雷 米 特 
+p_castle_23_1|胡 森 堡 
+p_castle_23_2|蒙 福 特 堡 
+p_castle_23_3|的 黎 波 里 {***}（重名）
+p_castle_24_1|雷 焦 
+p_castle_24_2|巴 里 
+p_castle_24_3|梅 尔 菲 
+p_castle_24_4|塔 兰 托 
+p_castle_25_1|曼 苏 拉 
+p_castle_25_2|阿 里 什 
+p_castle_25_3|伊 斯 梅 利 亚 
+p_castle_25_4|亚 喀 巴 
+p_castle_25_5|巴 尔 卡 {***}
+p_castle_25_6|卡 拉 克 
+p_castle_25_7|贝 尼 苏 韦 夫 
+p_castle_26_1|拉 里 萨 
+p_castle_26_2|约 阿 尼 纳 
+p_castle_26_3|埃 迪 尔 内 
+p_castle_26_4|于 斯 屈 达 尔 
+p_castle_27_1|埃 尔 梅 内 克 
+p_castle_27_2|阿 马 西 亚 
+p_castle_27_3|埃 尔 津 詹 
+p_castle_27_4|埃 泽 萨 
+p_castle_27_5|拉 佳 
+p_castle_27_6|卡 尔 斯 
+p_castle_28_1|凯 鲁 万 
+p_castle_28_2|凯 里 卜 
 p_castle_28_3|Dar Sidi al Azhar{***}
-p_castle_28_4|Bougie{***}
-p_castle_28_5|Gabes{***}
-p_castle_28_6|Sirt{***}
-p_castle_29_1|Rudnik{***}
+p_castle_28_4|贝 贾 亚 
+p_castle_28_5|加 贝 斯 
+p_castle_28_6|苏 尔 特 
+p_castle_29_1|鲁 德 尼 克 
 p_castle_29_2|Bar{***}
-p_castle_30_1|Silistra{***}
-p_castle_30_2|Nesebar{***}
-p_castle_30_3|Vidin{***}
-p_castle_31_1|Tangier{***}
-p_castle_31_2|Algiers{***}
-p_village_1|叶 瑞 阁 
-p_village_2|比 格 伦 
-p_village_3|阿 兹 哥 德 
-p_village_4|诺 玛 
-p_village_5|库 鲁 姆 
-p_village_6|爱 米 林 
-p_village_7|阿 密 尔 
-p_village_8|哈 茵 
-p_village_9|巴 甫 伦 
-p_village_10|麦 肯 
-p_village_11|达 斯 图 欧 
-p_village_12|伊 美 尔 
-p_village_13|尼 美 加 
-p_village_14|桑 布 加 
-p_village_15|瑞 泊 莱 特 
-p_village_16|夏 普 斯 特 
+p_castle_30_1|锡 利 斯 特 拉 
+p_castle_30_2|内 塞 伯 尔 
+p_castle_30_3|维 丁 
+p_castle_31_1|丹 吉 尔 
+p_castle_31_2|阿 尔 及 尔 
+p_village_1|维 伦 
+p_village_2|缅 济 热 奇 
+p_village_3|蒂 涅 茨 
+p_village_4|希 维 德 尼 察 
+p_village_5|博 莱 斯 瓦 维 茨 
+p_village_6|奥 斯 特 鲁 夫
+p_village_7|Giecz{***}
+p_village_8|切 尔 斯 克 
+p_village_9|弗 沃 茨 瓦 韦 克 
+p_village_10|拉 席 波 尔 兹 
+p_village_11|维 希 利 察 
+p_village_12|莱 格 尼 察 
+p_village_13|什 切 青 
+p_village_14|科 沃 布 热 格 
+p_village_15|别 奇 
+p_village_16|奥 斯 特 罗 维 茨 
 p_village_1_1|Rehden{***}
 p_village_1_2|Strasburg{***}
 p_village_1_3|Kokenhausen{***}
