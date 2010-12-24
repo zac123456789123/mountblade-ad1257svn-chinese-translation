@@ -46,7 +46,7 @@ p_town_10_5|鲁 昂
 p_town_10_6|普 罗 旺 斯 艾 克 斯 
 p_town_11_1|特 隆 赫 姆 
 p_town_11_2|卑 尔 根 
-p_town_11_3|Ásló{***}
+p_town_11_3|奥 斯 陆 
 p_town_12_1|斯 特 灵 
 p_town_12_2|格 拉 斯 哥 
 p_town_13_1|多 尼 戈 尔 
@@ -112,10 +112,10 @@ p_castle_1_7|图 尔 登
 p_castle_1_8|玛 丽 恩 韦 德 堡 
 p_castle_1_9|文 登 堡 
 p_castle_2_1|拉 森 尼 埃 堡 
-p_castle_2_2|Šeiminiškėliai{***}
-p_castle_2_3|Dubingiai{***}
-p_castle_2_4|Kernavė{***}
-p_castle_2_5|Taurapilis{***}
+p_castle_2_2|希 米 尼 什 基 利
+p_castle_2_3|杜 宾 基 
+p_castle_2_4|克 拿 维 
+p_castle_2_5|托 拉 皮 利 斯 
 p_castle_2_6|新 格 鲁 多 克 堡 
 p_castle_2_7|明 斯 克 堡 
 p_castle_2_8|维 捷 布 斯 克 堡 
@@ -128,7 +128,7 @@ p_castle_3_6|莫 斯 科
 p_castle_3_7|佩 列 斯 拉 夫 尔 堡 
 p_castle_4_1|阿 格 斯 堡 
 p_castle_4_2|奥 胡 斯 堡 
-p_castle_4_3|Ripærhús{***}
+p_castle_4_3|里 贝 卢 斯 
 p_castle_4_4|石 勒 苏 益 格 
 p_castle_4_5|施 威 因 巴 勒 堡 {***}
 p_castle_4_6|凯 隆 堡 
@@ -150,35 +150,35 @@ p_castle_7_1|布 里 卜 日
 p_castle_7_2|Gyulafehervar Castle{***}
 p_castle_7_3|克 塞 洛 堡 
 p_castle_7_4|希 克 洛 什 堡 
-p_castle_7_5|Zolyom Castle{***}
-p_castle_7_6|Patak Castle{***}
-p_castle_7_7|Kalocsa Castle{***}
-p_castle_7_8|Esztergom Castle{***}
-p_castle_8_1|Pskov{***}
-p_castle_8_2|Velikiye Luki{***}
-p_castle_9_1|Beeston Castle{***}
-p_castle_9_2|Lewes Castle{***}
-p_castle_9_3|Corfe Castle{***}
-p_castle_9_4|Dover Castle{***}
-p_castle_9_5|Bamburgh Castle{***}
-p_castle_9_6|Lancaster Castle{***}
-p_castle_9_7|Clare Castle{***}
-p_castle_9_8|Pembroke Castle{***}
-p_castle_9_9|Wexford Castle{***}
-p_castle_10_1|Carcassonne{***}
-p_castle_10_2|Mortain{***}
-p_castle_10_3|Boulogne{***}
-p_castle_10_4|Châlons{***}
-p_castle_10_5|Angoulême{***}
-p_castle_10_6|Cahors{***}
-p_castle_10_7|Clermont{***}
-p_castle_10_8|Orléans{***}
-p_castle_10_9|Sens{***}
-p_castle_10_10|Chinon{***}
-p_castle_10_11|Arras{***}
-p_castle_10_12|Angers{***}
-p_castle_11_1|Borgló{***}
-p_castle_11_2|Borgyndr{***}
+p_castle_7_5|兹 沃 伦 {***}（现地名）
+p_castle_7_6|帕 塔 克 
+p_castle_7_7|考 洛 乔 
+p_castle_7_8|埃 斯 特 尔 戈 姆 
+p_castle_8_1|普 斯 科 夫 
+p_castle_8_2|大 卢 基 
+p_castle_9_1|比 斯 顿 堡 
+p_castle_9_2|刘 易 斯 堡 
+p_castle_9_3|科 夫 堡 
+p_castle_9_4|多 佛 尔 堡 
+p_castle_9_5|班 堡 
+p_castle_9_6|兰 卡 斯 特 
+p_castle_9_7|克 莱 尔 
+p_castle_9_8|彭 布 罗 克 
+p_castle_9_9|威 克 斯 福 德 
+p_castle_10_1|卡 尔 卡 松 
+p_castle_10_2|莫 尔 坦 
+p_castle_10_3|布 洛 涅 
+p_castle_10_4|沙 隆 
+p_castle_10_5|昂 古 莱 姆 
+p_castle_10_6|卡 奥 尔 
+p_castle_10_7|克 莱 蒙 
+p_castle_10_8|奥 尔 良 
+p_castle_10_9|桑 斯 
+p_castle_10_10|希 农 
+p_castle_10_11|阿 拉 斯 
+p_castle_10_12|昂 热 
+p_castle_11_1|博 格 若 {***}
+p_castle_11_2|勃 艮 第 
 p_castle_11_3|Stafangr{***}
 p_castle_11_4|Túnsberg{***}
 p_castle_11_5|Ragnhildarhólmr{***}
@@ -191,39 +191,39 @@ p_castle_13_1|Sligo{***}
 p_castle_13_2|Tullyhogue Fort{***}
 p_castle_13_3|Blarney Castle{***}
 p_castle_13_4|Carrickabraghey Castle{***}
-p_castle_14_1|Kalmarnir{***}
-p_castle_14_2|Stockhólmr{***}
-p_castle_14_3|Scara{***}
-p_castle_14_4|Visingsey {***}
-p_castle_14_5|Stægeburgh{***}
-p_castle_14_6|Linkøpang{***}
-p_castle_15_1|Przemysl{***}
-p_castle_15_2|Lutsk{***}
-p_castle_15_3|Drohiczyn{***}
+p_castle_14_1|卡 尔 马 尼 尔 
+p_castle_14_2|斯 德 哥 尔 摩 
+p_castle_14_3|斯 卡 拉 
+p_castle_14_4|维 辛 苏 
+p_castle_14_5|斯 特 克 博 格 
+p_castle_14_6|林 雪 平 
+p_castle_15_1|普 热 梅 希 尔 
+p_castle_15_2|卢 茨 克 
+p_castle_15_3|德 罗 希 琴 
 p_castle_15_4|Bakoma{***}
 p_castle_15_5|Bereste{***}
 p_castle_15_6|Terebovl{***}
-p_castle_16_1|Guimarães{***}
-p_castle_16_2|Mértola{***}
-p_castle_16_3|Silves{***}
-p_castle_16_4|Bragança{***}
-p_castle_17_1|Zaragoza{***}
-p_castle_17_2|Castellciutat{***}
-p_castle_17_3|Perpinyà{***}
-p_castle_17_4|Alcoi{***}
-p_castle_17_5|Tortosa{***}
-p_castle_17_6|Jaca{***}
-p_castle_17_7|Albarracín{***}
-p_castle_18_1|Lemos{***}
-p_castle_18_2|Vizcaya{***}
-p_castle_18_3|León{***}
-p_castle_18_4|Burgos{***}
-p_castle_18_5|Badajoz{***}
-p_castle_18_6|Murcia{***}
-p_castle_20_1|Qasbat Tarifa{***}
-p_castle_20_2|Qasbat Antakira{***}
-p_castle_20_3|Qasbat Wadi-Aci{***}
-p_castle_20_4|Qasbat Al-Mariyya{***}
+p_castle_16_1|吉 马 良 斯 
+p_castle_16_2|梅 尔 图 拉 
+p_castle_16_3|锡 尔 维 什 
+p_castle_16_4|布 拉 刚 萨 
+p_castle_17_1|萨 拉 戈 萨 
+p_castle_17_2|卡 斯 特 休 塔 特 
+p_castle_17_3|佩 皮 尼 亚 
+p_castle_17_4|阿 尔 科 伊 
+p_castle_17_5|托 尔 托 萨 
+p_castle_17_6|哈 卡 
+p_castle_17_7|阿 巴 拉 辛 
+p_castle_18_1|莱 莫 斯 
+p_castle_18_2|比 斯 开 
+p_castle_18_3|莱 昂 
+p_castle_18_4|布 尔 戈 斯 
+p_castle_18_5|巴 达 霍 斯 
+p_castle_18_6|穆 尔 西 亚 
+p_castle_20_1|塔 里 法 堡 
+p_castle_20_2|安 特 克 拉 堡 
+p_castle_20_3|瓦 迪- 阿 塞 堡 {***}（今瓜迪克斯）
+p_castle_20_4|阿 尔- 梅 利 亚 堡 
 p_castle_22_1|Myra{***}
 p_castle_22_2|Attalia{***}
 p_castle_22_3|Sozopolis{***}
