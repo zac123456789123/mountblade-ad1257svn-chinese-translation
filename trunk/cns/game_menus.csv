@@ -27,7 +27,7 @@ menu_start_game_1|选 择 你 的 角 色 性 别。
 mno_start_male|男 
 mno_start_female|女 
 mno_enable_quickstart|Enable quickstart (this is useful for debugging only){***}
-mno_enable_quickstart|Disable quickstart (this is useful for debugging only){***}
+mno_disable_quickstart|Disable quickstart (this is useful for debugging only){***}
 mno_go_back|后 退。 
 menu_start_character_1|当 你 很 多 年 前 出 生 在 一 片 遥 远 的 大 陆 时， 你 的 父 亲 是…… 
 mno_start_noble|一 位 没 落 的 贵 族。 
@@ -825,18 +825,18 @@ menu_dplmc_question_nonaggression_offer|You Receive a Pact Offer^^The {s1} offer
 mno_dplmc_nonaggression_offer_accept|Accept{***}
 mno_dplmc_nonaggression_offer_reject|Reject{***}
 menu_dplmc_notification_alliance_expired|Alliance Has Expired^^The alliance between {s1} and {s2} has expired and was degraded to a defensive pact.
-mno_dplmc_continue|Continue{***}
+mno_dplmc_continue|Continue...{***}
 menu_dplmc_notification_defensive_expired|Defensive Pact Has Expired^^The defensive pact between {s1} and {s2} has expired and was degraded to a trade agreement.
-mno_dplmc_continue|Continue{***}
+mno_dplmc_continue|Continue...{***}
 menu_dplmc_notification_trade_expired|Trade Agreement Has Expired^^The trade agreement between {s1} and {s2} has expired and was degraded to a non-aggression treaty.
-mno_dplmc_continue|Continue{***}
+mno_dplmc_continue|Continue...{***}
 menu_dplmc_dictate_terms|Dictate your peace terms.
 mno_dplmc_demand_4000|Demand 4000 denars{***}
 mno_dplmc_demand_8000|Demand 8000 denars{***}
 mno_dplmc_demand_castle|Demand {s2}.{***}
 mno_dplmc_go_back|Go back{***}
 menu_dplmc_deny_terms|The {s1} refuses your terms and is breaking off of negotiations.
-mno_dplmc_continue|Continue{***}
+mno_dplmc_continue|Continue...{***}
 menu_dplmc_village_riot_result|{s9}
 mno_dplmc_continue|Continue...{***}
 menu_dplmc_village_riot_removed|In bloody battle you and your men slaughter the rebels and regain control over the village. But there is not much left you can control.

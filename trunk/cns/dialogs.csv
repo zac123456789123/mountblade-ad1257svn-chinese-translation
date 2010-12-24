@@ -421,7 +421,7 @@ dlga_dplmc_chancellor_message_lord_select:dplmc_chancellor_pretalk|算 了。
 dlga_dplmc_chancellor_message_ask:dplmc_chancellor_message_select|您 想 向 {s6} 发 送 什 么 信 息？ 
 dlga_dplmc_chancellor_message_select:dplmc_chancellor_message_lord_ask|询 问 他 是 否 愿 意 和 我 的 军 队 一 起 行 动？ 
 dlga_dplmc_chancellor_message_select:dplmc_chancellor_message_goto_lord_ask|询 问 他 是 否 愿 意 到 一 个 地 方 驻 守？ 
-dlga_dplmc_chancellor_message_select:dplmc_chancellor_message_goto_lord_ask.1询 问 他 是 否 愿 意 撤 军 至 某 个 地 方？ 
+dlga_dplmc_chancellor_message_select:dplmc_chancellor_message_goto_lord_ask.1|询 问 他 是 否 愿 意 撤 军 至 某 个 地 方？ 
 dlga_dplmc_chancellor_message_select:dplmc_chancellor_message_goto_lord_ask.2|询 问 他 是 否 愿 意 巡 逻 一 个 区 域？ 
 dlga_dplmc_chancellor_message_select:dplmc_chancellor_message_goto_lord_ask.3|询 问 他 是 否 愿 意 带 兵 攻 打 一 个 地 方？ 
 dlga_dplmc_chancellor_message_select:dplmc_chancellor_message_goto_lord_ask.4|询 问 他 是 否 愿 意 掠 夺 某 个 村 镇？ 
