@@ -1,0 +1,774 @@
+p_zendar|Zendar
+p_town_1|Kraków
+p_town_2|Wrocław
+p_town_3|Gdańsk
+p_town_4|Poznań
+p_town_1_1|Elbing
+p_town_1_2|Königsberg
+p_town_1_3|Thorn
+p_town_1_4|Riga
+p_town_2_1|Vilnius
+p_town_2_2|Veršvai
+p_town_2_3|Hrodna
+p_town_2_4|Polotsk
+p_town_3_1|Sarai
+p_town_3_2|Smolensk
+p_town_3_3|Kiev
+p_town_3_4|Chernigov
+p_town_4_1|Lund
+p_town_4_2|Roarskeldae
+p_town_4_3|Reval
+p_town_4_4|Viborg
+p_town_6_1|Nürnberg
+p_town_6_2|Köln
+p_town_6_3|Frankfurt
+p_town_6_4|Praha
+p_town_6_5|Magdeburg
+p_town_6_6|Lübeck
+p_town_6_7|Genoa
+p_town_7_1|Varad
+p_town_7_2|Zagreb
+p_town_7_3|Pozsony
+p_town_7_4|Szeged
+p_town_8_1|Velikiy Novgorod
+p_town_8_2|Staraya Russa
+p_town_9_1|London
+p_town_9_2|Bristol
+p_town_9_3|Chester
+p_town_9_4|York
+p_town_9_5|Bordeaux
+p_town_9_6|Dublin
+p_town_10_1|Paris
+p_town_10_2|Nantes
+p_town_10_3|Dijon
+p_town_10_4|Toulouse
+p_town_10_5|Rouen
+p_town_10_6|Aix-en-Provence
+p_town_11_1|Niðarós
+p_town_11_2|Biǫrgyn
+p_town_11_3|Ásló
+p_town_12_1|Stirling
+p_town_12_2|Glasgow
+p_town_13_1|Donegal
+p_town_13_2|Dungannon
+p_town_14_1|Westraarus
+p_town_14_2|Ábú
+p_town_14_3|Wysbú
+p_town_15_1|Vladimir Volynsky
+p_town_15_2|Halych
+p_town_15_3|Lvov
+p_town_16_1|Lisboa
+p_town_16_2|Coimbra
+p_town_17_1|Barcelona
+p_town_17_2|Valencia
+p_town_18_1|Toledo
+p_town_18_2|Sevilla 
+p_town_20_1|Granada
+p_town_20_2|Ronda
+p_town_21_1|Rome
+p_town_22_1|Nicaea
+p_town_22_2|Smyrna
+p_town_22_3|Chonai
+p_town_22_4|Thesallonica
+p_town_23_1|Acre
+p_town_23_2|Tarsus
+p_town_23_3|Jerusalem
+p_town_23_4|Antioch
+p_town_23_5|Nicosia
+p_town_24_1|Palermo
+p_town_24_2|Napoli
+p_town_25_1|Cairo
+p_town_25_2|Alexandria
+p_town_25_3|Damietta
+p_town_26_1|Constantinople
+p_town_26_2|Athenai
+p_town_27_1|Trebizond
+p_town_27_2|Ankara
+p_town_27_3|Iconium
+p_town_28_1|Tunis
+p_town_28_2|Tripoli
+p_town_29_1|Zvečan
+p_town_29_2|Kotor
+p_town_30_1|Tarnovo
+p_town_30_2|Philippopolis
+p_town_31_1|Fes
+p_town_31_2|Marakesh
+p_town_31_3|Oran
+p_castle_1|Gniezno
+p_castle_2|Sandomierz
+p_castle_3|Głogów
+p_castle_4|Opole
+p_castle_5|Chełmno
+p_castle_6|Człuchów
+p_castle_7|Lubusz
+p_castle_8|Lublin
+p_castle_1_1|Arensburg
+p_castle_1_2|Balga
+p_castle_1_3|Fellin
+p_castle_1_4|Georgenburg
+p_castle_1_5|Dorpat
+p_castle_1_6|Lemsahl
+p_castle_1_7|Treyden
+p_castle_1_8|Marienwerder
+p_castle_1_9|Wenden
+p_castle_2_1|Raseiniai
+p_castle_2_2|Šeiminiškėliai
+p_castle_2_3|Dubingiai
+p_castle_2_4|Kernavė
+p_castle_2_5|Taurapilis
+p_castle_2_6|Navahrudak
+p_castle_2_7|Minsk
+p_castle_2_8|Vitebsk
+p_castle_3_1|Ryazan
+p_castle_3_2|Vladimir
+p_castle_3_3|Belgorod
+p_castle_3_4|Nizhny Novgorod
+p_castle_3_5|Yaroslavl
+p_castle_3_6|Moscow
+p_castle_3_7|Pereyaslavl
+p_castle_4_1|Æggersburgh
+p_castle_4_2|Árós
+p_castle_4_3|Ripærhús
+p_castle_4_4|Slæswich
+p_castle_4_5|Swineburgh
+p_castle_4_6|Kalundæburgh
+p_castle_4_7|Helsingiæburgh
+p_castle_4_8|Varbiargh
+p_castle_6_1|Aachen
+p_castle_6_2|Trier
+p_castle_6_3|Wien
+p_castle_6_4|Mainz
+p_castle_6_5|München
+p_castle_6_6|Brandenburg
+p_castle_6_7|Leuwen
+p_castle_6_8|Nancy
+p_castle_6_9|Verona
+p_castle_6_10|Straßburg
+p_castle_6_11|Baden
+p_castle_6_12|Meißen
+p_castle_7_1|Bribir
+p_castle_7_2|Gyulafehervar Castle
+p_castle_7_3|Koszeg Castle
+p_castle_7_4|Siklos Castle
+p_castle_7_5|Zolyom Castle
+p_castle_7_6|Patak Castle
+p_castle_7_7|Kalocsa Castle
+p_castle_7_8|Esztergom Castle
+p_castle_8_1|Pskov
+p_castle_8_2|Velikiye Luki
+p_castle_9_1|Beeston Castle
+p_castle_9_2|Lewes Castle
+p_castle_9_3|Corfe Castle
+p_castle_9_4|Dover Castle
+p_castle_9_5|Bamburgh Castle
+p_castle_9_6|Lancaster Castle
+p_castle_9_7|Clare Castle
+p_castle_9_8|Pembroke Castle
+p_castle_9_9|Wexford Castle
+p_castle_10_1|Carcassonne
+p_castle_10_2|Mortain
+p_castle_10_3|Boulogne
+p_castle_10_4|Châlons
+p_castle_10_5|Angoulême
+p_castle_10_6|Cahors
+p_castle_10_7|Clermont
+p_castle_10_8|Orléans
+p_castle_10_9|Sens
+p_castle_10_10|Chinon
+p_castle_10_11|Arras
+p_castle_10_12|Angers
+p_castle_11_1|Borgló
+p_castle_11_2|Borgyndr
+p_castle_11_3|Stafangr
+p_castle_11_4|Túnsberg
+p_castle_11_5|Ragnhildarhólmr
+p_castle_11_6|Mann
+p_castle_12_1|Urquhart Castle
+p_castle_12_2|Dingwall Castle
+p_castle_12_3|Killdrummy Castle
+p_castle_12_4|Edinburgh Castle
+p_castle_13_1|Sligo
+p_castle_13_2|Tullyhogue Fort
+p_castle_13_3|Blarney Castle
+p_castle_13_4|Carrickabraghey Castle
+p_castle_14_1|Kalmarnir
+p_castle_14_2|Stockhólmr
+p_castle_14_3|Scara
+p_castle_14_4|Visingsey 
+p_castle_14_5|Stægeburgh
+p_castle_14_6|Linkøpang
+p_castle_15_1|Przemysl
+p_castle_15_2|Lutsk
+p_castle_15_3|Drohiczyn
+p_castle_15_4|Bakoma
+p_castle_15_5|Bereste
+p_castle_15_6|Terebovl
+p_castle_16_1|Guimarães
+p_castle_16_2|Mértola
+p_castle_16_3|Silves
+p_castle_16_4|Bragança
+p_castle_17_1|Zaragoza
+p_castle_17_2|Castellciutat
+p_castle_17_3|Perpinyà
+p_castle_17_4|Alcoi
+p_castle_17_5|Tortosa
+p_castle_17_6|Jaca
+p_castle_17_7|Albarracín
+p_castle_18_1|Lemos
+p_castle_18_2|Vizcaya
+p_castle_18_3|León
+p_castle_18_4|Burgos
+p_castle_18_5|Badajoz
+p_castle_18_6|Murcia
+p_castle_20_1|Qasbat Tarifa
+p_castle_20_2|Qasbat Antakira
+p_castle_20_3|Qasbat Wadi-Aci
+p_castle_20_4|Qasbat Al-Mariyya
+p_castle_22_1|Myra
+p_castle_22_2|Attalia
+p_castle_22_3|Sozopolis
+p_castle_22_4|Ephesus
+p_castle_22_5|Thyatira
+p_castle_22_6|Adramyttium
+p_castle_23_1|Krak des Chevaliers
+p_castle_23_2|Montfort Castle
+p_castle_23_3|Tripoli
+p_castle_24_1|Reggio
+p_castle_24_2|Bari
+p_castle_24_3|Melfi
+p_castle_24_4|Taranto
+p_castle_25_1|Mansoura
+p_castle_25_2|Al`Arish
+p_castle_25_3|Ismailiya
+p_castle_25_4|Akaba
+p_castle_25_5|Barca
+p_castle_25_6|Karak
+p_castle_25_7|Beni Suef
+p_castle_26_1|Larissa
+p_castle_26_2|Janina
+p_castle_26_3|Adrianople
+p_castle_26_4|Chrystoupolis
+p_castle_27_1|Ermenak
+p_castle_27_2|Amasya
+p_castle_27_3|Erzincan
+p_castle_27_4|Edessa
+p_castle_27_5|Ragga
+p_castle_27_6|Kars
+p_castle_28_1|Kairwan
+p_castle_28_2|El Krib
+p_castle_28_3|Dar Sidi al Azhar
+p_castle_28_4|Bougie
+p_castle_28_5|Gabes
+p_castle_28_6|Sirt
+p_castle_29_1|Rudnik
+p_castle_29_2|Bar
+p_castle_30_1|Silistra
+p_castle_30_2|Nesebar
+p_castle_30_3|Vidin
+p_castle_31_1|Tangier
+p_castle_31_2|Algiers
+p_village_1|Wieleń
+p_village_2|Miedzyrzecz
+p_village_3|Tyniec
+p_village_4|Świdnica
+p_village_5|Bolesławiec
+p_village_6|Ostrów
+p_village_7|Giecz
+p_village_8|Czersk
+p_village_9|Włocławek
+p_village_10|Racibórz
+p_village_11|Wiślica
+p_village_12|Legnica
+p_village_13|Szczecin
+p_village_14|Kołobrzeg
+p_village_15|Biecz
+p_village_16|Ostrowiec
+p_village_1_1|Rehden
+p_village_1_2|Strasburg
+p_village_1_3|Kokenhausen
+p_village_1_4|Kreva
+p_village_1_5|Ragnit
+p_village_1_6|Wesenberg
+p_village_1_7|Tervete
+p_village_1_8|Bartenstein
+p_village_1_9|Braunsberg
+p_village_1_10|Rositten
+p_village_1_11|Wolmar
+p_village_1_12|Memelburg
+p_village_1_13|Mona
+p_village_1_14|Osterode
+p_village_1_15|Pedole
+p_village_1_16|Leal
+p_village_1_17|Heilsberg
+p_village_2_1|Bražuolė
+p_village_2_2|Berzgainiai
+p_village_2_3|Užpaliai
+p_village_2_4|Vosgeliai
+p_village_2_5|Veliuona
+p_village_2_6|Ukmergė
+p_village_2_7|Ariogala
+p_village_2_8|Bratslav
+p_village_2_9|Betygala
+p_village_2_10|Lida
+p_village_2_11|Slonim
+p_village_2_12|Sluck
+p_village_2_13|Barysau
+p_village_2_14|Kletsk
+p_village_2_15|Orsha
+p_village_2_16|Nianviz
+p_village_3_1|Kursk
+p_village_3_2|Tver
+p_village_3_3|Peremyshl
+p_village_3_4|Rostov
+p_village_3_5|Borisovka
+p_village_3_6|Suzdal
+p_village_3_7|Kozelsk
+p_village_3_8|Novgorod Seversky
+p_village_3_9|Brovary
+p_village_3_10|Dermidov
+p_village_3_11|Murom
+p_village_3_12|Mongol Encampment I
+p_village_3_13|Mongol Encampment II
+p_village_3_14|Mongol Encampment III
+p_village_3_15|Mongol Encampment IV
+p_village_4_1|Slangæþorp
+p_village_4_2|Køpmannæhofn
+p_village_4_3|Þræleburgh
+p_village_4_4|Borgundærhólmr
+p_village_4_5|Narvia
+p_village_4_6|Wesenbærgh
+p_village_4_7|Randrøsæ
+p_village_4_8|Álæburgh
+p_village_4_9|Hjóring
+p_village_4_10|Ripæ
+p_village_4_11|Horsnæs
+p_village_4_12|Oþænswé
+p_village_4_13|Flænsburgh
+p_village_4_14|Halmstaþr
+p_village_4_15|Falkenbærgh
+p_village_4_16|Ringstaþr
+p_village_6_1|Bremen
+p_village_6_2|Koblenz
+p_village_6_3|Heidelberg
+p_village_6_4|Landshut
+p_village_6_5|Braunschweig
+p_village_6_6|Gelnhausen
+p_village_6_7|Leipzig
+p_village_6_8|Stuttgart
+p_village_6_9|Bingen
+p_village_6_10|Bonn
+p_village_6_11|Neuß
+p_village_6_12|Olmütz
+p_village_6_13|Eger
+p_village_6_14|Nördlingen
+p_village_6_15|Würzburg
+p_village_6_16|Regensburg
+p_village_6_17|Wittenberg
+p_village_6_18|Hamburg
+p_village_6_19|Den Bosch
+p_village_6_20|Spandau
+p_village_6_21|Brussel
+p_village_6_22|Limburg
+p_village_6_23|Graz
+p_village_6_24|Friesach
+p_village_6_25|Campomorone
+p_village_6_26|Bargagli
+p_village_7_1|Kormocbanya
+p_village_7_2|Pecs
+p_village_7_3|Pest
+p_village_7_4|Kolozsvar
+p_village_7_5|Ikervar
+p_village_7_6|Tolchva
+p_village_7_7|Jaska
+p_village_7_8|Jablanac
+p_village_7_9|Veszprem
+p_village_7_10|Zengg
+p_village_7_11|Kiskoros
+p_village_7_12|Arad
+p_village_7_13|Zyloc
+p_village_7_14|Buda
+p_village_7_15|Csanad
+p_village_7_16|Temesvar
+p_village_8_1|Ladoga
+p_village_8_2|Shimsk
+p_village_8_3|Peski
+p_village_8_4|Ivanovskoye
+p_village_8_5|Yurevo
+p_village_8_6|Lyubech
+p_village_9_1|Gwynedd
+p_village_9_2|Powys
+p_village_9_3|Guildford
+p_village_9_4|Brighton
+p_village_9_5|Aberystwyth
+p_village_9_6|St. Ives
+p_village_9_7|Oxford
+p_village_9_8|Norwich
+p_village_9_9|Hereford
+p_village_9_10|Wigan
+p_village_9_11|Bridlington
+p_village_9_12|Gloucester
+p_village_9_13|Corfe
+p_village_9_14|Hornsea
+p_village_9_15|Bude
+p_village_9_16|Rothbury
+p_village_9_17|Merignac
+p_village_9_18|Bergerac
+p_village_9_19|Limerick
+p_village_9_20|Cork
+p_village_9_21|Waterford
+p_village_10_1|Poitiers
+p_village_10_2|Rennes
+p_village_10_3|Evreux
+p_village_10_4|Caen
+p_village_10_5|Chartres
+p_village_10_6|Amiens
+p_village_10_7|Calais
+p_village_10_8|Limoges
+p_village_10_10|Albi
+p_village_10_12|Narbonne
+p_village_10_13|Troyes
+p_village_10_14|Coutance
+p_village_10_15|Avignon
+p_village_10_16|Quimper
+p_village_10_17|Toulon
+p_village_10_18|Mende
+p_village_10_19|Marseille
+p_village_10_20|Besançon
+p_village_10_21|Laon
+p_village_10_22|Nevers
+p_village_10_23|Lyon
+p_village_10_24|Langres
+p_village_10_28|Reims
+p_village_10_30|Le Mans
+p_village_11_1|Hjaltlandseyjar
+p_village_11_2|Freysey
+p_village_11_3|Þorshofn
+p_village_11_4|Hamarr
+p_village_11_5|Borg
+p_village_11_6|Véey
+p_village_11_7|Kaupangr
+p_village_11_8|Skiða
+p_village_11_9|Konungahella
+p_village_11_10|Suðreyjar
+p_village_11_11|Orkneyjar
+p_village_11_12|Steinker
+p_village_12_1|Inverness
+p_village_12_2|Oban
+p_village_12_3|Wick
+p_village_12_4|Scone
+p_village_12_5|Carluke
+p_village_12_6|Edinburgh
+p_village_12_7|Linlithgow
+p_village_12_8|Perth
+p_village_13_1|Cashel
+p_village_13_2|Ennis
+p_village_13_3|Castlerea
+p_village_13_4|Raphoe
+p_village_13_5|Corcomroe Abbey
+p_village_13_6|Omagh Abbey
+p_village_13_7|Carrick
+p_village_13_8|Strabane
+p_village_14_1|Upsalir
+p_village_14_2|Arbugæ
+p_village_14_3|Áland
+p_village_14_4|Wybiargh
+p_village_14_5|Rúm
+p_village_14_6|Vestrvík
+p_village_14_7|Vecsioren
+p_village_14_8|Øræbrú
+p_village_14_9|Bjælbú
+p_village_14_10|Falukøpang
+p_village_14_11|Suþrkøpang
+p_village_14_12|Sigtúnæ
+p_village_15_1|Gorodok
+p_village_15_2|Zwienigorod
+p_village_15_3|Towmacz
+p_village_15_4|Kolomyia
+p_village_15_5|Ustilug
+p_village_15_6|Rubieszow
+p_village_15_7|Sanok
+p_village_15_8|Rovno
+p_village_15_9|Mielnik
+p_village_15_10|Onum
+p_village_15_11|Kamieniec
+p_village_15_12|Zbaraz
+p_village_16_1|Faro
+p_village_16_2|Leiria
+p_village_16_3|Santarém
+p_village_16_4|Alcácer do Sal
+p_village_16_5|Beja
+p_village_16_6|Portalegre
+p_village_16_7|Braga
+p_village_16_8|Porto
+p_village_17_1|Tarragona
+p_village_17_2|Girona
+p_village_17_3|Gandia
+p_village_17_4|Borriana
+p_village_17_5|Calatayud
+p_village_17_6|Lleida
+p_village_17_7|Empúries
+p_village_17_8|Dénia
+p_village_17_9|Castelló
+p_village_17_10|Luna
+p_village_17_11|Teruel
+p_village_18_1|Cuenca
+p_village_18_2|Madrid
+p_village_18_3|Cádiz
+p_village_18_4|Córdoba
+p_village_18_5|Compostela
+p_village_18_6|Oviedo
+p_village_18_7|Zamora
+p_village_18_8|Soria
+p_village_18_9|Jaén
+p_village_18_10|Cáceres
+p_village_20_1|Al-Jazira
+p_village_20_2|Marbilla
+p_village_20_3|Málaga
+p_village_20_4|Al-Qal'a
+p_village_20_5|Baza
+p_village_20_6|Berchat
+p_village_20_7|Hisn Al-Lawza
+p_village_20_8|Al-Boks
+p_village_21_1|Nettuno
+p_village_21_2|Tivoli
+p_village_22_1|Chalcedon
+p_village_22_2|Nikomedia
+p_village_22_3|Sardis
+p_village_22_4|Pergamum
+p_village_22_5|Laodicea
+p_village_22_6|Amorion
+p_village_22_7|Arycanda
+p_village_22_8|Seliniys
+p_village_22_9|Philometium
+p_village_22_10|Heraclea
+p_village_22_11|Kotyaion
+p_village_22_12|Kyzikos
+p_village_22_13|Prilep
+p_village_22_14|Dráma
+p_village_23_1|Ascalon
+p_village_23_2|Ramleh
+p_village_23_3|Beirut
+p_village_23_4|Tyre
+p_village_23_5|Selimus
+p_village_23_6|Tarlasa
+p_village_23_7|Aleppo
+p_village_23_8|Seleucia
+p_village_23_9|Limassol
+p_village_23_10|Famagusta
+p_village_23_11|Homs
+p_village_23_12|Jaffa
+p_village_23_13|Baalbec
+p_village_24_1|Siracusa
+p_village_24_2|Messina
+p_village_24_3|Tropea
+p_village_24_4|Pescara
+p_village_24_5|Capua
+p_village_24_6|Brindisi
+p_village_24_7|Palerno
+p_village_24_8|Trani
+p_village_25_1|Minuf
+p_village_25_2|Ashmun
+p_village_25_3|Wadi Miftah
+p_village_25_4|Damanhur
+p_village_25_5|Zagazig
+p_village_25_6|Tanta
+p_village_25_7|Abu Hammad
+p_village_25_8|Ballah
+p_village_25_9|Wadi Sidr
+p_village_25_10|Marba Dabthan
+p_village_25_11|Suluq
+p_village_25_12|Ma'an
+p_village_25_13|Al Fayyun
+p_village_26_1|Delcus
+p_village_26_2|Rodosto
+p_village_26_3|Corinthos
+p_village_26_4|Thebes
+p_village_26_5|Beroea
+p_village_26_6|Kastoria
+p_village_26_7|Dydimoteichon
+p_village_26_8|Gallipoli
+p_village_27_1|Koloneia
+p_village_27_2|Theodosiopolis
+p_village_27_3|Aksera
+p_village_27_4|Cesarea
+p_village_27_5|Satala
+p_village_27_6|Podandus
+p_village_27_7|Karaman
+p_village_27_8|Sivas
+p_village_27_9|Erzerum
+p_village_27_10|Lori
+p_village_27_11|Amid
+p_village_27_12|Tikrit
+p_village_28_1|Qasr Bani Walid
+p_village_28_2|Ksar Hadada
+p_village_28_3|Constantine
+p_village_28_4|Bona
+p_village_28_5|Setif
+p_village_28_6|El Jemaa
+p_village_28_7|Dekrnia
+p_village_28_8|Mahedia
+p_village_28_9|Medenine
+p_village_28_10|Al Bu'aryat
+p_village_29_1|Slatina
+p_village_29_2|Solotuša
+p_village_29_3|Gacko
+p_village_29_4|Preoce
+p_village_29_5|Srbovac
+p_village_29_6|Kobilja Glava
+p_village_30_1|Tryavna
+p_village_30_2|Cherven
+p_village_30_3|Constanta
+p_village_30_4|Varna
+p_village_30_5|Belogradchik
+p_village_30_6|Preslav
+p_village_30_7|Arsus
+p_village_31_1|Melilla
+p_village_31_2|Rabat
+p_village_31_3|Tenes
+p_village_31_4|Tlemsen
+p_village_31_5|Safi
+p_village_31_6|Ourzazate
+p_village_31_7|Tetuan
+p_village_31_8|Corso
+p_salt_mine|Salt Mine
+p_four_ways_inn|Four Ways Inn
+p_test_scene|test scene
+p_battlefields|battlefields
+p_dhorak_keep|Dhorak Keep
+p_training_ground|Training Ground
+p_training_ground_1|Training Field I
+p_training_ground_2|Training Field II
+p_training_ground_3|Training Field III
+p_training_ground_4|Training Field IV
+p_training_ground_5|Training Field V
+p_training_ground_6|Training Field VI
+p_training_ground_7|Training Field VII
+p_training_ground_8|Training Field VIII
+p_training_ground_9|Training Field IX
+p_training_ground_10|Training Field X
+p_training_ground_11|Training Field XI
+p_training_ground_12|Training Field XII
+p_training_ground_13|Training Field XIII
+p_training_ground_14|Training Field XIV
+p_training_ground_15|Training Field XV
+p_training_ground_16|Training Field XVI
+p_training_ground_17|Training Field XVII
+p_training_ground_18|Training Field XVIII
+p_ship_1|1
+p_ship_2|2
+p_ship_3|3
+p_ship_4|4
+p_ship_5|5
+p_ship_6|6
+p_ship_7|7
+p_ship_8|8
+p_ship_9|9
+p_ship_10|9
+p_ship_11|11
+p_ship_12|12
+p_ship_13|13
+p_ship_14|14
+p_ship_15|15
+p_ship_16|16
+p_ship_17|17
+p_ship_18|18
+p_ship_19|19
+p_ship_20|20
+p_ship_21|21
+p_ship_22|22
+p_ship_23|23
+p_ship_24|24
+p_ship_25|25
+p_ship_26|26
+p_ship_27|27
+p_ship_28|28
+p_ship_29|29
+p_ship_30|30
+p_ship_31|31
+p_ship_32|32
+p_ship_33|33
+p_ship_34|34
+p_ship_35|35
+p_ship_36|36
+p_ship_37|37
+p_ship_38|38
+p_ship_39|39
+p_ship_40|40
+p_ship_41|41
+p_ship_42|42
+p_ship_43|43
+p_ship_44|44
+p_ship_45|45
+p_ship_46|46
+p_ship_47|47
+p_ship_48|48
+p_ship_49|49
+p_ship_50|50
+p_ship_51|51
+p_ship_52|52
+p_ship_53|53
+p_ship_54|54
+p_ship_55|55
+p_ship_56|56
+p_ship_57|57
+p_ship_58|58
+p_ship_59|59
+p_ship_60|60
+p_ship_61|61
+p_ship_62|62
+p_ship_63|63
+p_taiga_bandit_spawn_point_1|the tundra 1
+p_taiga_bandit_spawn_point_2|the tundra 2
+p_steppe_bandit_spawn_point_1|the steppes 1
+p_steppe_bandit_spawn_point_2|the steppes 2
+p_forest_bandit_spawn_point_1|the forests 1
+p_forest_bandit_spawn_point_2|the forests 2
+p_forest_bandit_spawn_point_3|the forests 3
+p_forest_bandit_spawn_point_4|the forests 4
+p_forest_bandit_spawn_point_5|the forests 5
+p_forest_bandit_spawn_point_6|the forests 6
+p_forest_bandit_spawn_point_7|the forests 7
+p_mountain_bandit_spawn_point_1|the highways 1
+p_mountain_bandit_spawn_point_2|the highways 2
+p_mountain_bandit_spawn_point_3|the highways 3
+p_mountain_bandit_spawn_point_4|the highways 4
+p_mountain_bandit_spawn_point_5|the highways 5
+p_mountain_bandit_spawn_point_6|the highways 6
+p_mountain_bandit_spawn_point_7|the highways 7
+p_mountain_bandit_spawn_point_8|the highways 8
+p_mountain_bandit_spawn_point_9|the highways 9
+p_mountain_bandit_spawn_point_10|the highways 10
+p_mountain_bandit_spawn_point_11|the highways 11
+p_mountain_bandit_spawn_point_12|the highways 12
+p_mountain_bandit_spawn_point_13|the highways 13
+p_mountain_bandit_spawn_point_14|the highways 14
+p_mountain_bandit_spawn_point_15|the highways 15
+p_mountain_bandit_spawn_point_16|the highways 16
+p_mountain_bandit_spawn_point_17|the highways 17
+p_mountain_bandit_spawn_point_18|the highways 18
+p_mountain_bandit_spawn_point_19|the highways 19
+p_mountain_bandit_spawn_point_20|the highways 20
+p_mountain_bandit_spawn_point_21|the highways 21
+p_sea_raider_spawn_point_1|the coast 1
+p_sea_raider_spawn_point_2|the coast 2
+p_sea_raider_spawn_point_3|the coast 3
+p_sea_raider_spawn_point_4|the coast 4
+p_sea_raider_spawn_point_5|the coast 5
+p_sea_raider_spawn_point_6|the coast 6
+p_sea_raider_spawn_point_7|the coast 7
+p_sea_raider_spawn_point_8|the coast 8
+p_sea_raider_spawn_point_9|the coast 9
+p_sea_raider_spawn_point_10|the coast 10
+p_sea_raider_spawn_point_11|the coast 11
+p_sea_raider_spawn_point_12|the coast 12
+p_sea_raider_spawn_point_13|the coast 13
+p_sea_raider_spawn_point_14|the coast 14
+p_sea_raider_spawn_point_15|the coast 15
+p_sea_raider_spawn_point_16|the coast 16
+p_sea_raider_spawn_point_17|the coast 17
+p_desert_bandit_spawn_point_1|the desert 1
+p_desert_bandit_spawn_point_2|the desert 2
+p_desert_bandit_spawn_point_3|the desert 3
+p_desert_bandit_spawn_point_4|the desert 4
+p_desert_bandit_spawn_point_5|the desert 5
+p_pagan_stronghold|Prussian Stronghold
