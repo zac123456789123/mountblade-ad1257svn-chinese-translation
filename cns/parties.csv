@@ -11,7 +11,7 @@ p_town_2_1|维 尔 纽 斯
 p_town_2_2|考 纳 斯 
 p_town_2_3|格 罗 德 诺 
 p_town_2_4|波 洛 茨 克 
-p_town_3_1|萨 赖 {***}莎拉
+p_town_3_1|萨 赖 
 p_town_3_2|斯 摩 棱 斯 克 
 p_town_3_3|基 辅 
 p_town_3_4|切 尔 尼 戈 夫 
@@ -46,7 +46,7 @@ p_town_10_5|鲁 昂
 p_town_10_6|普 罗 旺 斯 艾 克 斯 
 p_town_11_1|特 隆 赫 姆 
 p_town_11_2|卑 尔 根 
-p_town_11_3|奥 斯 陆 
+p_town_11_3|奥 斯 陆 {***}
 p_town_12_1|斯 特 灵 
 p_town_12_2|格 拉 斯 哥 
 p_town_13_1|多 尼 戈 尔 
@@ -93,67 +93,67 @@ p_town_30_1|特 尔 诺 沃
 p_town_30_2|普 罗 夫 迪 夫 
 p_town_31_1|非 斯 
 p_town_31_2|马 拉 喀 什 
-p_town_31_3|瓦 赫 兰 {***}应该是奥兰
+p_town_31_3|瓦 赫 兰 
 p_castle_1|格 涅 兹 诺 
-p_castle_2|桑 多 梅 日 堡 
+p_castle_2|桑 多 梅 日 
 p_castle_3|格 沃 古 夫 
-p_castle_4|奥 波 莱 堡 
-p_castle_5|车 默 诺 堡 
-p_castle_6|克 斯 沃 堡 
-p_castle_7|卢 布 斯 卡 堡 
-p_castle_8|卢 布 林 堡 
+p_castle_4|奥 波 莱 
+p_castle_5|车 默 诺 
+p_castle_6|克 斯 沃 
+p_castle_7|卢 布 斯 卡 
+p_castle_8|卢 布 林 
 p_castle_1_1|阿 伦 斯 堡 
 p_castle_1_2|巴 尔 加 
-p_castle_1_3|维 尔 扬 迪 堡 
+p_castle_1_3|维 尔 扬 迪 
 p_castle_1_4|奥 登 斯 堡 
-p_castle_1_5|塔 尔 图 堡 
-p_castle_1_6|林 巴 日 堡 
+p_castle_1_5|塔 尔 图 
+p_castle_1_6|林 巴 日 
 p_castle_1_7|图 尔 登 
-p_castle_1_8|玛 丽 恩 韦 德 堡 
+p_castle_1_8|玛 丽 恩 韦 德 
 p_castle_1_9|文 登 堡 
-p_castle_2_1|拉 森 尼 埃 堡 
+p_castle_2_1|拉 森 尼 埃 
 p_castle_2_2|希 米 尼 什 基 利
 p_castle_2_3|杜 宾 基 
 p_castle_2_4|克 拿 维 
 p_castle_2_5|托 拉 皮 利 斯 
-p_castle_2_6|新 格 鲁 多 克 堡 
-p_castle_2_7|明 斯 克 堡 
-p_castle_2_8|维 捷 布 斯 克 堡 
-p_castle_3_1|梁 赞 堡 
-p_castle_3_2|弗 拉 基 米 尔 堡 
-p_castle_3_3|别 尔 哥 罗 德 堡 
-p_castle_3_4|下 诺 夫 哥 罗 德 堡 
-p_castle_3_5|雅 罗 斯 拉 夫 尔 堡 
+p_castle_2_6|新 格 鲁 多 克 
+p_castle_2_7|明 斯 克 
+p_castle_2_8|维 捷 布 斯 克 
+p_castle_3_1|梁 赞 
+p_castle_3_2|弗 拉 基 米 尔 
+p_castle_3_3|别 尔 哥 罗 德 
+p_castle_3_4|下 诺 夫 哥 罗 德 
+p_castle_3_5|雅 罗 斯 拉 夫 尔 
 p_castle_3_6|莫 斯 科 
-p_castle_3_7|佩 列 斯 拉 夫 尔 堡 
-p_castle_4_1|阿 格 斯 堡 
-p_castle_4_2|奥 胡 斯 堡 
+p_castle_3_7|佩 列 斯 拉 夫 尔 
+p_castle_4_1|阿 格 斯 
+p_castle_4_2|奥 胡 斯 
 p_castle_4_3|里 贝 卢 斯 
 p_castle_4_4|石 勒 苏 益 格 
-p_castle_4_5|施 威 因 巴 勒 堡 {***}
+p_castle_4_5|施 威 因 巴 勒 堡
 p_castle_4_6|凯 隆 堡 
 p_castle_4_7|赫 尔 辛 格 堡 
 p_castle_4_8|瓦 尔 贝 里 堡 
 p_castle_6_1|亚 琛 
-p_castle_6_2|特 里 尔 堡 
+p_castle_6_2|特 里 尔 
 p_castle_6_3|维 也 纳 
-p_castle_6_4|美 因 茨 堡 
-p_castle_6_5|慕 尼 黑 堡 
+p_castle_6_4|美 因 茨 
+p_castle_6_5|慕 尼 黑 
 p_castle_6_6|勃 兰 登 堡 
 p_castle_6_7|鲁 汶 堡 
 p_castle_6_8|南 希 堡 
-p_castle_6_9|维 罗 纳 堡 
+p_castle_6_9|维 罗 纳 
 p_castle_6_10|斯 特 拉 斯 堡 
-p_castle_6_11|巴 登 堡 
-p_castle_6_12|迈 森 堡 
+p_castle_6_11|巴 登 
+p_castle_6_12|迈 森 
 p_castle_7_1|布 里 卜 日 
-p_castle_7_2|古 拉 菲 尔 瓦 {***}阿尔巴尤利娅
+p_castle_7_2|阿 尔 巴 尤 利 亚 堡
 p_castle_7_3|克 塞 洛 堡 
 p_castle_7_4|希 克 洛 什 堡 
-p_castle_7_5|兹 沃 伦 {***}（现地名）
-p_castle_7_6|帕 塔 克 
-p_castle_7_7|考 洛 乔 
-p_castle_7_8|埃 斯 特 尔 戈 姆 
+p_castle_7_5|兹 沃 伦 堡 
+p_castle_7_6|帕 塔 克 堡 
+p_castle_7_7|考 洛 乔 堡 
+p_castle_7_8|埃 斯 特 尔 戈 姆 堡 
 p_castle_8_1|普 斯 科 夫 
 p_castle_8_2|大 卢 基 
 p_castle_9_1|比 斯 顿 堡 
@@ -162,9 +162,9 @@ p_castle_9_3|科 夫 堡
 p_castle_9_4|多 佛 尔 堡 
 p_castle_9_5|班 堡 
 p_castle_9_6|兰 卡 斯 特 
-p_castle_9_7|克 莱 尔 
-p_castle_9_8|彭 布 罗 克 
-p_castle_9_9|威 克 斯 福 德 
+p_castle_9_7|克 莱 尔 堡 
+p_castle_9_8|彭 布 罗 克 堡 
+p_castle_9_9|威 克 斯 福 德 堡 
 p_castle_10_1|卡 尔 卡 松 
 p_castle_10_2|莫 尔 坦 
 p_castle_10_3|布 洛 涅 
@@ -179,18 +179,18 @@ p_castle_10_11|阿 拉 斯
 p_castle_10_12|昂 热 
 p_castle_11_1|博 格 若 {***}
 p_castle_11_2|勃 艮 第 
-p_castle_11_3|斯 塔 万 格 {***}（现名）
+p_castle_11_3|斯 塔 万 格 
 p_castle_11_4|滕 斯 贝 格 
 p_castle_11_5|Ragnhildarhólmr{***}
 p_castle_11_6|马 恩 
-p_castle_12_1|厄 科 特 
-p_castle_12_2|丁 沃 尔 
-p_castle_12_3|基 尔 德 拉 米 
+p_castle_12_1|厄 科 特 堡 
+p_castle_12_2|丁 沃 尔 堡 
+p_castle_12_3|基 尔 德 拉 米 堡 
 p_castle_12_4|爱 丁 堡 
 p_castle_13_1|斯 莱 戈 
-p_castle_13_2|塔 利 霍 格 福 特 
-p_castle_13_3|布 拉 尼 
-p_castle_13_4|Carrickabraghey Castle{***}
+p_castle_13_2|塔 利 霍 格 福 特 堡 
+p_castle_13_3|布 拉 尼 堡 
+p_castle_13_4|卡 瑞 克 阿 布 拉 吉 堡 {***}（音译）
 p_castle_14_1|卡 尔 马 尼 尔 
 p_castle_14_2|斯 德 哥 尔 摩 
 p_castle_14_3|斯 卡 拉 
@@ -200,7 +200,7 @@ p_castle_14_6|林 雪 平
 p_castle_15_1|普 热 梅 希 尔 
 p_castle_15_2|卢 茨 克 
 p_castle_15_3|德 罗 希 琴 
-p_castle_15_4|Bakoma{***}
+p_castle_15_4|巴 库 玛 {***}（音译）
 p_castle_15_5|Bereste{***}
 p_castle_15_6|Terebovl{***}
 p_castle_16_1|吉 马 良 斯 
