@@ -1,4 +1,4 @@
-fac_no_faction|无 阵 营 
+﻿fac_no_faction|无 阵 营 
 fac_commoners|平 民 
 fac_outlaws|不 法 之 徒 
 fac_neutral|中 立 者 
@@ -6,42 +6,42 @@ fac_innocents|无 辜 者
 fac_merchants|商 人 
 fac_player_faction|玩 家 阵 营 
 fac_player_supporters_faction|玩 家 拥 立 阵 营 
-fac_kingdom_1|斯 瓦 迪 亚 王 国 
-fac_kingdom_2|维 吉 亚 王 国 
-fac_kingdom_3|库 吉 特 汗 国 
-fac_kingdom_4|诺 德 王 国 
-fac_kingdom_5|罗 多 克 王 国 
-fac_kingdom_6|萨 兰 德 苏 丹 国 
-fac_kingdom_7|Kingdom of Hungary{***}
-fac_kingdom_8|Novgorod Republic{***}
-fac_kingdom_9|Kingdom of England{***}
-fac_kingdom_10|Kingdom of France{***}
-fac_kingdom_11|Kingdom of Norway{***}
-fac_kingdom_12|Kingdom of Scotland{***}
-fac_kingdom_13|Gaelic Kingdoms{***}
-fac_kingdom_14|Kingdom of Sweden{***}
-fac_kingdom_15|Kingdom of Halych-Volhynia{***}
-fac_kingdom_16|Kingdom of Portugal{***}
-fac_kingdom_17|Crown of Aragon{***}
-fac_kingdom_18|Kingdom of Castille{***}
-fac_kingdom_20|Emirate of Granada{***}
-fac_kingdom_22|Roman Empire of Nicaea{***}
-fac_kingdom_23|Crusader States{***}
-fac_kingdom_24|Kingdom of Sicily{***}
-fac_kingdom_25|Mamluk Sultanate{***}
-fac_kingdom_26|Latin Empire{***}
-fac_kingdom_27|Il-khanate{***}
-fac_kingdom_28|Hafsid Dynasty{***}
-fac_kingdom_29|Kingdom of Serbia{***}
-fac_kingdom_30|Kingdom of Bulgaria{***}
-fac_kingdom_31|Marinid Dynasty{***}
-fac_manhunters|赏 金 猎 人 
-fac_deserters|乱 军 
+fac_kingdom_1|条 顿 骑 士 团 国 
+fac_kingdom_2|立 陶 宛 王 国 
+fac_kingdom_3|金 帐 汗 国 
+fac_kingdom_4|丹 麦 王 国 
+fac_kingdom_5|波 兰 公 国 
+fac_kingdom_6|神 圣 罗 马 帝 国 
+fac_kingdom_7|匈 牙 利 王 国 
+fac_kingdom_8|诺 夫 哥 罗 德 共 和 国 
+fac_kingdom_9|英 格 兰 帝 国 
+fac_kingdom_10|法 兰 西 帝 国 
+fac_kingdom_11|挪 威 王 国 
+fac_kingdom_12|苏 格 兰 王 国 
+fac_kingdom_13|爱 尔 兰 贵 族 领 地 
+fac_kingdom_14|瑞 典 王 国 
+fac_kingdom_15|加 利 西 亚 - 沃 里 尼 亚 王 国 
+fac_kingdom_16|葡 萄 牙 王 国 
+fac_kingdom_17|阿 拉 贡 王 国 
+fac_kingdom_18|卡 斯 提 尔 王 国 
+fac_kingdom_20|格 拉 纳 达 王 国 
+fac_kingdom_22|尼 西 亚 罗 马 帝 国 
+fac_kingdom_23|十 字 军 国 家 
+fac_kingdom_24|西 西 里 王 国 
+fac_kingdom_25|马 木 鲁 克 苏 丹 国 
+fac_kingdom_26|拉 丁 帝 国 
+fac_kingdom_27|伊 儿 汗 国 
+fac_kingdom_28|哈 夫 斯 王 朝 
+fac_kingdom_29|塞 尔 维 亚 王 国 
+fac_kingdom_30|保 加 利 亚 王 国 
+fac_kingdom_31|马 里 尼 德 王 朝 
+fac_manhunters|搜 捕 者 
+fac_deserters|逃 兵 
 fac_mountain_bandits|山 贼 
 fac_forest_bandits|绿 林 强 盗 
-fac_curonians|Curonians{***}
-fac_samogitians|Samogitians{***}
-fac_prussians|Prussians{***}
-fac_yotvingians|Yotvingians{***}
-fac_welsh|Welsh{***}
-fac_papacy|Papal States{***}
+fac_curonians|库 洛 尼 亚 
+fac_samogitians|萨 莫 吉 希 亚 
+fac_prussians|普 鲁 士 
+fac_yotvingians|苏 多 维 亚 
+fac_welsh|威 尔 士 
+fac_papacy|教 皇 国 
