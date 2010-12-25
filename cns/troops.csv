@@ -1231,7 +1231,7 @@ trp_kingdom_1_lord|伯 查 德· 冯· 霍 恩 豪 森 团 长
 trp_kingdom_1_lord_pl|伯 查 德· 冯· 霍 恩 豪 森 
 trp_kingdom_2_lord|明 道 加 斯 国 王 
 trp_kingdom_2_lord_pl|明 道 加 斯 
-trp_kingdom_3_lord|别 儿 哥 可 汗 
+trp_kingdom_3_lord|别 儿 哥 汗 
 trp_kingdom_3_lord_pl|别 儿 哥 
 trp_kingdom_4_lord|克 里 斯 托 弗 一 世 国 王 
 trp_kingdom_4_lord_pl|克 里 斯 托 弗 
@@ -1275,11 +1275,11 @@ trp_kingdom_25_lord|伊 兹 丁· 艾 博 克 苏 丹
 trp_kingdom_25_lord_pl|伊 兹 丁· 艾 博 克 
 trp_kingdom_26_lord|科 特 尼 的 鲍 德 温 二 世 皇 帝 
 trp_kingdom_26_lord_pl|科 特 尼 的 鲍 德 温 二 世 
-trp_kingdom_27_lord|旭 烈 兀 可 汗 
+trp_kingdom_27_lord|旭 烈 兀 汗 
 trp_kingdom_27_lord_pl|旭 烈 兀 
 trp_kingdom_28_lord|穆 罕 默 德 一 世· 穆 斯 坦 绥 尔 哈 里 发 
 trp_kingdom_28_lord_pl|穆 罕 默 德 一 世· 穆 斯 坦 绥 尔 
-trp_kingdom_29_lord|塞 尔 维 亚 国 王， 史 蒂 芬· 乌 罗 什 
+trp_kingdom_29_lord|史 蒂 芬· 乌 罗 什 国 王 
 trp_kingdom_29_lord_pl|史 蒂 芬· 乌 罗 什 
 trp_kingdom_30_lord|康 斯 坦 丁 沙 皇 
 trp_kingdom_30_lord_pl|康 斯 坦 丁 
@@ -1293,100 +1293,100 @@ trp_knight_1_3|艾 伯 特 骑 士
 trp_knight_1_3_pl|艾 伯 特 
 trp_knight_1_4|安 诺 指 挥 官 
 trp_knight_1_4_pl|安 诺 
-trp_knight_1_5|Grossschaefer Dietlieb
-trp_knight_1_5_pl|Dietlieb
+trp_knight_1_5|迪 亚 特 莱 布 主 教 
+trp_knight_1_5_pl|迪 亚 特 莱 布 
 trp_knight_1_6|康 拉 德 骑 士 
 trp_knight_1_6_pl|康 拉 德 
-trp_knight_1_7|Ritterbruder Dietrich
-trp_knight_1_7_pl|Dietrich
-trp_knight_1_8|Komtur Wilken
-trp_knight_1_8_pl|Wilken
-trp_knight_1_9|Komtur Halt
-trp_knight_1_9_pl|Halt
-trp_knight_1_10|Grossschaeffer Wenno
-trp_knight_1_10_pl|Wenno
-trp_knight_1_11|Ritterbruder Otto
-trp_knight_1_11_pl|Otto
-trp_knight_1_12|Ritterbruder Wulf
-trp_knight_1_12_pl|Wulf
-trp_knight_1_13|Ritterbruder Ingolf
-trp_knight_1_13_pl|Ingolf
-trp_knight_1_14|Komtur Rudolph
-trp_knight_1_14_pl|Rudolph
-trp_knight_1_15|Landmeister Gunther
-trp_knight_1_15_pl|Gunther
-trp_knight_2_1|Kunigas Tautvilas
-trp_knight_2_1_pl|Tautvilas
-trp_knight_2_2|Kunigas Treniota
-trp_knight_2_2_pl|Treniota
-trp_knight_2_3|Kunigas Gardenis
-trp_knight_2_3_pl|Gardenis
-trp_knight_2_4|Kunigas Erdvilas
-trp_knight_2_4_pl|Erdvilas
-trp_knight_2_5|Kunigas Bikšys
-trp_knight_2_5_pl|Bikšys
-trp_knight_2_6|Kunigas Ligeikis
-trp_knight_2_6_pl|Ligeikis
-trp_knight_2_7|Kristijonas, Bishop of Lithuania
-trp_knight_2_7_pl|Kristijonas
-trp_knight_2_8|Kunigas Replys
-trp_knight_2_8_pl|Replys
-trp_knight_2_9|Kunigas Gerstukas
-trp_knight_2_9_pl|Gerstukas
-trp_knight_2_10|Kunigas Ryklys
-trp_knight_2_10_pl|Ryklys
-trp_knight_2_11|Kunigas Rupeikis
-trp_knight_2_11_pl|Rupeikis
-trp_knight_2_12|Kunigas Vaišelga
-trp_knight_2_12_pl|Vaišelga
-trp_knight_2_13|Kunigas Traidenis
-trp_knight_2_13_pl|Traidenis
-trp_knight_2_14|Kunigas Bardys
-trp_knight_2_14_pl|Bardys
-trp_knight_2_15|Kunigas Liesis
-trp_knight_2_15_pl|Liesis
-trp_knight_3_1|Toqoqan Noyan
-trp_knight_3_1_pl|Toqoqan
-trp_knight_3_2|Talabugha Noyan
-trp_knight_3_2_pl|Talabugha
-trp_knight_3_3|Toqa-Temur Noyan
-trp_knight_3_3_pl|Toqa-Temur
-trp_knight_3_4|Balaghai Noyan
-trp_knight_3_4_pl|Balaghai
-trp_knight_3_5|Tartu-bagatur
-trp_knight_3_5_pl|Tartu
-trp_knight_3_6|Negudar Noyan
-trp_knight_3_6_pl|Negudar
-trp_knight_3_7|Baidar Noyan
-trp_knight_3_7_pl|Baidar
-trp_knight_3_8|Kadan Noyan
-trp_knight_3_8_pl|Kadan
-trp_knight_3_9|Buigek Noyan
-trp_knight_3_9_pl|Buigek
-trp_knight_3_10|Bukdai Noyan
-trp_knight_3_10_pl|Bukdai
-trp_knight_3_11|Baidar Noyan
-trp_knight_3_11_pl|Baidar
-trp_knight_3_12|Tangut Noyan
-trp_knight_3_12_pl|Tangut
-trp_knight_3_13|Shiban Noyan
-trp_knight_3_13_pl|Shiban
-trp_knight_3_14|Berkecher Noyan
-trp_knight_3_14_pl|Berkecher
-trp_knight_3_15|Nogai Noyan
-trp_knight_3_15_pl|Nogai
-trp_knight_3_16|Kuremsa Noyan
-trp_knight_3_16_pl|Kuremsa
-trp_knight_3_17|Nevrui Noyan
-trp_knight_3_17_pl|Nevrui
-trp_knight_3_18|Takudar Noyan
-trp_knight_3_18_pl|Takudar
-trp_knight_3_19|Koidan Noyan
-trp_knight_3_19_pl|Koidan
-trp_knight_3_20|Sheibak Noyan
-trp_knight_3_20_pl|Sheibak
-trp_knight_3_21|Berkecher-baghatur
-trp_knight_3_21_pl|Berkecher
+trp_knight_1_7|迪 亚 特 里 希 骑 士 
+trp_knight_1_7_pl|迪 亚 特 里 希 
+trp_knight_1_8|威 尔 肯 指 挥 官 
+trp_knight_1_8_pl|威 尔 肯 
+trp_knight_1_9|哈 尔 特 指 挥 官 
+trp_knight_1_9_pl|哈 尔 特 
+trp_knight_1_10|温 诺 主 教 
+trp_knight_1_10_pl|温 诺 
+trp_knight_1_11|奥 托 骑 士 
+trp_knight_1_11_pl|奥 托 
+trp_knight_1_12|伍 尔 夫 骑 士 
+trp_knight_1_12_pl|伍 尔 夫 
+trp_knight_1_13|英 戈 尔 夫 骑 士 
+trp_knight_1_13_pl|英 戈 尔 夫 
+trp_knight_1_14|鲁 道 夫 指 挥 官 
+trp_knight_1_14_pl|鲁 道 夫 
+trp_knight_1_15|冈 瑟 国 家 统 帅 
+trp_knight_1_15_pl|冈 瑟 
+trp_knight_2_1|陶 特 维 拉 斯 公 爵 
+trp_knight_2_1_pl|陶 特 维 拉 斯 
+trp_knight_2_2|特 莱 尼 奥 塔 公 爵 
+trp_knight_2_2_pl|特 莱 尼 奥 塔 
+trp_knight_2_3|加 德 尼 斯 公 爵 
+trp_knight_2_3_pl|加 德 尼 斯 
+trp_knight_2_4|厄 尔 德 维 拉 斯 公 爵 
+trp_knight_2_4_pl|厄 尔 德 维 拉 斯 
+trp_knight_2_5|比 克 西 斯 公 爵 
+trp_knight_2_5_pl|比 克 西 斯 
+trp_knight_2_6|里 吉 基 斯 公 爵 
+trp_knight_2_6_pl|里 吉 基 斯 
+trp_knight_2_7|克 里 斯 蒂 约 纳 斯 主 教 
+trp_knight_2_7_pl|克 里 斯 蒂 约 纳 斯 
+trp_knight_2_8|莱 普 里 斯 公 爵 
+trp_knight_2_8_pl|莱 普 里 斯 
+trp_knight_2_9|戈 尔 斯 图 卡 斯 公 爵 
+trp_knight_2_9_pl|戈 尔 斯 图 卡 斯 
+trp_knight_2_10|莱 克 里 斯 公 爵 
+trp_knight_2_10_pl|莱 克 里 斯 
+trp_knight_2_11|卢 比 基 斯 公 爵 
+trp_knight_2_11_pl|卢 比 基 斯 
+trp_knight_2_12|维 谢 尔 加 公 爵 
+trp_knight_2_12_pl|维 谢 尔 加 
+trp_knight_2_13|特 莱 德 尼 斯 公 爵 
+trp_knight_2_13_pl|特 莱 德 尼 斯 
+trp_knight_2_14|巴 迪 斯 公 爵 
+trp_knight_2_14_pl|巴 迪 斯 
+trp_knight_2_15|里 西 斯 公 爵 
+trp_knight_2_15_pl|里 西 斯 
+trp_knight_3_1|多 阔 干 那 颜 
+trp_knight_3_1_pl|多 阔 干 
+trp_knight_3_2|塔 剌 巴 那 颜 
+trp_knight_3_2_pl|塔 剌 巴 
+trp_knight_3_3|拖 卡· 帖 木 儿 那 颜 
+trp_knight_3_3_pl|拖 卡· 帖 木 儿 
+trp_knight_3_4|巴 拉 该 那 颜 
+trp_knight_3_4_pl|巴 拉 该 
+trp_knight_3_5|塔 儿 突· 巴 特 尔 那 颜 
+trp_knight_3_5_pl|塔 儿 突 
+trp_knight_3_6|内 古 打 那 颜 
+trp_knight_3_6_pl|内 古 打 
+trp_knight_3_7|拜 答 儿 那 颜 
+trp_knight_3_7_pl|拜 答 儿 
+trp_knight_3_8|合 丹 那 颜 
+trp_knight_3_8_pl|合 丹 
+trp_knight_3_9|别 合 那 颜
+trp_knight_3_9_pl|别 合 
+trp_knight_3_10|布 合 台 那 颜 
+trp_knight_3_10_pl|布 合 台 
+trp_knight_3_11|拜 答 儿· 不 剌 那 颜 
+trp_knight_3_11_pl|拜 答 儿· 不 剌 
+trp_knight_3_12|唐 古 拉 那 颜 
+trp_knight_3_12_pl|唐 古 拉 
+trp_knight_3_13|乞 班 那 颜 
+trp_knight_3_13_pl|乞 班 
+trp_knight_3_14|勃 哥 察 那 颜 
+trp_knight_3_14_pl|勃 哥 察 
+trp_knight_3_15|诺 该 那 颜 
+trp_knight_3_15_pl|诺 该
+trp_knight_3_16|库 赖 撒 那 颜 
+trp_knight_3_16_pl|库 赖 撒 
+trp_knight_3_17|内 兀 那 颜 
+trp_knight_3_17_pl|内 兀 
+trp_knight_3_18|塔 古 答 那 颜 
+trp_knight_3_18_pl|塔 古 答 
+trp_knight_3_19|阔 奕 丹 那 颜 
+trp_knight_3_19_pl|阔 奕 丹 
+trp_knight_3_20|锡 巴 黑 那 颜 
+trp_knight_3_20_pl|锡 巴 黑 
+trp_knight_3_21|勃 彻 儿 那 颜
+trp_knight_3_21_pl|勃 彻 儿 
 trp_knight_3_22|Tangut Noyan
 trp_knight_3_22_pl|Tangut
 trp_knight_3_23|Boghal Noyan
