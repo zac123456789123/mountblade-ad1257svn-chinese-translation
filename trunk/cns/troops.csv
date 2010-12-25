@@ -18,12 +18,12 @@ trp_tutorial_swordsman|剑 士
 trp_tutorial_swordsman_pl|剑 士 
 trp_novice_fighter|初 级 斗 士 
 trp_novice_fighter_pl|初 级 斗 士 
-trp_regular_fighter|正 规 斗 士 
-trp_regular_fighter_pl|正 规 斗 士 
-trp_veteran_fighter|资 深 斗 士 
-trp_veteran_fighter_pl|资 深 斗 士 
-trp_champion_fighter|精 英 斗 士 
-trp_champion_fighter_pl|精 英 斗 士 
+trp_regular_fighter|职 业 斗 士 
+trp_regular_fighter_pl|职 业 斗 士 
+trp_veteran_fighter|精 英 斗 士 
+trp_veteran_fighter_pl|精 英 斗 士 
+trp_champion_fighter|格 斗 大 师
+trp_champion_fighter_pl|格 斗 大 师
 trp_arena_training_fighter_1|初 级 斗 士 
 trp_arena_training_fighter_1_pl|初 级 斗 士 
 trp_arena_training_fighter_2|初 级 斗 士 
@@ -78,26 +78,26 @@ trp_mercenary_crossbows_sergeant|雇 佣 持 盾 重 弩 手
 trp_mercenary_crossbows_sergeant_pl|雇 佣 持 盾 重 弩 手 
 trp_mercenary_bows_sergeant|雇 佣 精 锐 弓 箭 手 
 trp_mercenary_bows_sergeant_pl|雇 佣 精 锐 弓 箭 手 
-trp_mercenary_light_cavalry|雇 佣 轻 骑 兵 
-trp_mercenary_light_cavalry_pl|雇 佣 轻 骑 兵 
+trp_mercenary_light_cavalry|雇 佣 轻 装 枪 骑 兵 
+trp_mercenary_light_cavalry_pl|雇 佣 轻 装 枪 骑 兵 
 trp_mercenary_medium_cavalry|雇 佣 枪 骑 兵 
 trp_mercenary_medium_cavalry_pl|雇 佣 枪 骑 兵 
 trp_mercenary_squire|将 领 卫 队 
 trp_mercenary_squire_pl|将 领 卫 队
 trp_mercenary_knight|游 侠 
 trp_mercenary_knight_pl|游 侠
-trp_merc_sicily_foot_archer_1|西 西 里 雇 佣 弓 兵 
-trp_merc_sicily_foot_archer_1_pl|西 西 里 雇 佣 弓 兵 
-trp_merc_sicily_foot_archer_2|西 西 里 雇 佣 弓 箭 手 
-trp_merc_sicily_foot_archer_2_pl|西 西 里 雇 佣 弓 箭 手 
-trp_merc_sicily_horse_archer_1|西 西 里 雇 佣 骑 射 兵 
-trp_merc_sicily_horse_archer_1_pl|J西 西 里 雇 佣 骑 射 兵 
+trp_merc_sicily_foot_archer_1|西 西 里 雇 佣 弓 箭 手
+trp_merc_sicily_foot_archer_1_pl|西 西 里 雇 佣 弓 箭 手
+trp_merc_sicily_foot_archer_2|西 西 里 穆 斯 林 弓 箭 手
+trp_merc_sicily_foot_archer_2_pl|西 西 里 穆 斯 林 弓 箭 手
+trp_merc_sicily_horse_archer_1|西 西 里 雇 佣 骑 射 手 
+trp_merc_sicily_horse_archer_1_pl|J西 西 里 雇 佣 骑 射 手 
 trp_merc_sicily_horse_archer_2|西 西 里 雇 佣 弓 骑 兵 
 trp_merc_sicily_horse_archer_2_pl|西 西 里 雇 佣 弓 骑 兵 
 trp_merc_sicily_infantry_1|西 西 里 雇 佣 步 兵 
 trp_merc_sicily_infantry_1_pl|西 西 里 雇 佣 步 兵 
-trp_merc_sicily_infantry_2|西 西 里 雇 佣 步 行 兵 士 
-trp_merc_sicily_infantry_2_pl|西 西 里 雇 佣 步 行 兵 士 
+trp_merc_sicily_infantry_2|西 西 里 雇 佣 战 士 
+trp_merc_sicily_infantry_2_pl|西 西 里 雇 佣 战 士 
 trp_merc_maghreb_cavalry_1|马 格 利 布 雇 佣 骑 兵 
 trp_merc_maghreb_cavalry_1_pl|马 格 利 布 雇 佣 骑 兵 
 trp_merc_maghreb_infantry_1|马 格 利 布 雇 佣 步 兵 
@@ -818,10 +818,10 @@ trp_scottish_forinsec_spearman|苏 格 兰 长 矛 兵
 trp_scottish_forinsec_spearman_pl|苏 格 兰 长 矛 兵 
 trp_scottish_clansman|苏 格 兰 贵 族 步 兵
 trp_scottish_clansman_pl|苏 格 兰 贵 族 步 兵
-trp_scottish_heavy_swordsman|苏 格 兰 重 剑 士 
-trp_scottish_heavy_swordsman_pl|苏 格 兰 重 剑 士 
-trp_scottish_heavy_axeman|苏 格 兰 重 斧 兵 
-trp_scottish_heavy_axeman_pl|苏 格 兰 重 斧 兵 
+trp_scottish_heavy_swordsman|苏 格 兰 高 地 贵 族 剑 士
+trp_scottish_heavy_swordsman_pl|苏 格 兰 高 地 贵 族 剑 士
+trp_scottish_heavy_axeman|苏 格 兰 高 地 贵 族 斧 兵 
+trp_scottish_heavy_axeman_pl|苏 格 兰 高 地 贵 族 斧 兵 
 trp_euro_town_recruit|西 欧 城 镇 民 兵 
 trp_euro_town_recruit_pl|西 欧 城 镇 民 兵 
 trp_euro_village_recruit|西 欧 民 兵 
