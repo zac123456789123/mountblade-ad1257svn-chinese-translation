@@ -116,8 +116,8 @@ trp_merc_almogabar|雇 用 掷 矛 手
 trp_merc_almogabar_pl|雇 用 掷 矛 手 
 trp_cuman_tribesman|库 曼 族 人 
 trp_cuman_tribesman_pl|库 曼 族 人 
-trp_cuman_skirmisher|库 曼 骑 射 手 
-trp_cuman_skirmisher_pl|库 曼 骑 射 手
+trp_cuman_skirmisher|库 曼 民 兵 
+trp_cuman_skirmisher_pl|库 曼 民 兵 
 trp_cuman_horseman|库 曼 骑 手 
 trp_cuman_horseman_pl|库 曼 骑 手 
 trp_cuman_horse_archer|库 曼 弓 骑 兵 
@@ -294,46 +294,46 @@ trp_irish_prison_guard|监 狱 看 守
 trp_irish_prison_guard_pl|监 狱 看 守  
 trp_irish_castle_guard|城 堡 守 卫 
 trp_irish_castle_guard_pl|城 堡 守 卫 
-trp_generic_village_recruit|欧 洲 志 愿 兵 
-trp_generic_village_recruit_pl|欧 洲 志 愿 兵 
-trp_generic_town_recruit|欧 洲 城 镇 志 愿 兵 
-trp_generic_town_recruit_pl|欧 洲 城 镇 志 愿 兵 
-trp_generic_town_footman|欧 洲 城 镇 步 兵 
-trp_generic_town_footman_pl|欧 洲 城 镇 步 兵 
-trp_generic_village_footman|欧 洲 步 兵 
-trp_generic_village_footman_pl|欧 洲 步 兵 
-trp_generic_village_skirmisher|欧 洲 散 兵 
-trp_generic_village_skirmisher_pl|欧 洲 散 兵 
-trp_generic_town_skirmisher|欧 洲 城 镇 散 兵 
-trp_generic_town_skirmisher_pl|欧 洲 城 镇 散 兵 
-trp_generic_veteran_swordsman|欧 洲 剑 兵 
-trp_generic_veteran_swordsman_pl|欧 洲 剑 兵 
-trp_generic_swords_sergeant|欧 洲 重 甲 剑 士 
-trp_generic_swords_sergeant_pl|欧 洲 重 甲 剑 士 
-trp_generic_veteran_billman|欧 洲 戟 兵 
-trp_generic_veteran_billman_pl|欧 洲 戟 兵 
-trp_generic_bills_sergeant|欧 洲 长 戟 军 士 
-trp_generic_bills_sergeant_pl|欧 洲 长 戟 军 士 
-trp_generic_veteran_spearman|欧 洲 披 甲 长 矛 手 
-trp_generic_veteran_spearman_pl|欧 洲 披 甲 长 矛 手 
-trp_generic_spears_sergeant|欧 洲 长 矛 军 士 
-trp_generic_spears_sergeant_pl|欧 洲 长 矛 军 士 
-trp_generic_veteran_crossbowman|欧 洲 盾 弩 手 
-trp_generic_veteran_crossbowman_pl|欧 洲 盾 弩 手 
-trp_generic_crossbows_sergeant|欧 洲 强 弩 军 士 
-trp_generic_crossbows_sergeant_pl|欧 洲 强 弩 军 士 
-trp_generic_veteran_archer|欧 洲 熟 练 弓 箭 手 
-trp_generic_veteran_archer_pl|欧 洲 熟 练 弓 箭 手 
-trp_generic_bows_sergeant|欧 洲 精 锐 弓 箭 手 
-trp_generic_bows_sergeant_pl|欧 洲 精 锐 弓 箭 手 
-trp_generic_light_cavalry|欧 洲 轻 骑 兵 
-trp_generic_light_cavalry_pl|欧 洲 轻 骑 兵 
-trp_generic_medium_cavalry|欧 洲 骑 兵 
-trp_generic_medium_cavalry_pl|欧 洲 骑 兵 
-trp_generic_squire|欧 洲 重 骑 兵 
-trp_generic_squire_pl|欧 洲 重 骑 兵 
-trp_generic_knight|欧 洲 帝 国 骑 士 
-trp_generic_knight_pl|欧 洲 帝 国 骑 士 
+trp_generic_village_recruit|志 愿 兵 
+trp_generic_village_recruit_pl|志 愿 兵 
+trp_generic_town_recruit|城 镇 志 愿 兵 
+trp_generic_town_recruit_pl|城 镇 志 愿 兵 
+trp_generic_town_footman|城 镇 步 兵 
+trp_generic_town_footman_pl|城 镇 步 兵 
+trp_generic_village_footman|步 兵 
+trp_generic_village_footman_pl|步 兵 
+trp_generic_village_skirmisher|散 兵 
+trp_generic_village_skirmisher_pl|散 兵 
+trp_generic_town_skirmisher|城 镇 散 兵 
+trp_generic_town_skirmisher_pl|城 镇 散 兵 
+trp_generic_veteran_swordsman|剑 兵 
+trp_generic_veteran_swordsman_pl|剑 兵 
+trp_generic_swords_sergeant|重 甲 剑 士 
+trp_generic_swords_sergeant_pl|重 甲 剑 士 
+trp_generic_veteran_billman|戟 兵 
+trp_generic_veteran_billman_pl|戟 兵 
+trp_generic_bills_sergeant|长 戟 军 士 
+trp_generic_bills_sergeant_pl|长 戟 军 士 
+trp_generic_veteran_spearman|披 甲 长 矛 手 
+trp_generic_veteran_spearman_pl|披 甲 长 矛 手 
+trp_generic_spears_sergeant|长 矛 军 士 
+trp_generic_spears_sergeant_pl|长 矛 军 士 
+trp_generic_veteran_crossbowman|盾 弩 手 
+trp_generic_veteran_crossbowman_pl|盾 弩 手 
+trp_generic_crossbows_sergeant|强 弩 军 士 
+trp_generic_crossbows_sergeant_pl|强 弩 军 士 
+trp_generic_veteran_archer|熟 练 弓 箭 手 
+trp_generic_veteran_archer_pl|熟 练 弓 箭 手 
+trp_generic_bows_sergeant|精 锐 弓 箭 手 
+trp_generic_bows_sergeant_pl|精 锐 弓 箭 手 
+trp_generic_light_cavalry|轻 骑 兵 
+trp_generic_light_cavalry_pl|轻 骑 兵 
+trp_generic_medium_cavalry|骑 兵 
+trp_generic_medium_cavalry_pl|骑 兵 
+trp_generic_squire|重 骑 兵 
+trp_generic_squire_pl|重 骑 兵 
+trp_generic_knight|帝 国 骑 士 
+trp_generic_knight_pl|帝 国 骑 士 
 trp_balkan_vil_1|巴 尔 干 征 召 民 兵 
 trp_balkan_vil_1_pl|巴 尔 干 征 召 民 兵
 trp_balkan_vil_2_1|巴 尔 干 征 召 平 民 弓 箭 手 
@@ -496,8 +496,8 @@ trp_balt_noble_2|波 罗 的 海 贵 族 重 步 兵
 trp_balt_noble_2_pl|波 罗 的 海 贵 族 重 步 兵 
 trp_balt_noble_3|波 罗 的 海 公 爵 亲 卫 
 trp_balt_noble_3_pl|波 罗 的 海 公 爵 亲 卫
-trp_crusader_turkopole|突 厥 游 牧 骑 手  
-trp_crusader_turkopole_pl|突 厥 游 牧 骑 手  
+trp_crusader_turkopole|土 耳 其 游 牧 骑 手  
+trp_crusader_turkopole_pl|土 耳 其 游 牧 骑 手  
 trp_templar_crossbows_sergeant|圣 殿 骑 士 团 重 弩 兵
 trp_templar_crossbows_sergeant_pl|圣 殿 骑 士 团 重 弩 兵
 trp_templar_swords_sergeant|圣 殿 精 锐 重 步 兵 
@@ -662,48 +662,48 @@ trp_byz_castle_4|尼 西 亚 铁 甲 圣 骑 兵
 trp_byz_castle_4_pl|尼 西 亚 铁 甲 圣 骑 兵
 trp_byz_castle_guard|城 堡 卫 队
 trp_byz_castle_guard_pl|城 堡 卫 队
-trp_iberian_village_recruit|征 招 民 兵 
-trp_iberian_village_recruit_pl|征 招 民 兵
-trp_iberian_town_recruit|城 镇 民 兵 
-trp_iberian_town_recruit_pl|城 镇 民 兵 
-trp_iberian_village_skirmisher|投 射 民 兵 
-trp_iberian_village_skirmisher_pl|投 射 民 兵
-trp_iberian_archer|弓 箭 手 
-trp_iberian_archer_pl|弓 箭 手 
-trp_iberian_bows_sergeant|长 弓 兵
-trp_iberian_bows_sergeant_pl|长 弓 兵
-trp_iberian_village_footman|轻 步 兵 
-trp_iberian_village_footman_pl|轻 步 兵 
-trp_iberian_billman|武 装 戟 兵 
-trp_iberian_billman_pl|武 装 戟 兵 
-trp_iberian_bills_sergeant|长 戟 军 士 
-trp_iberian_bills_sergeant_pl|长 戟 军 士
-trp_iberian_town_footman_1|城 镇 步 兵 
-trp_iberian_town_footman_1_pl|城 镇 步 兵 
-trp_iberian_town_footman_2|步 兵 
-trp_iberian_town_footman_2_pl|步 兵 
-trp_iberian_veteran_spearman|资 深 枪 兵 
-trp_iberian_veteran_spearman_pl|资 深 枪 兵 
-trp_iberian_spears_sergeant|长 矛 中 士 
-trp_iberian_spears_sergeant_pl|长 矛 中 士 
-trp_iberian_veteran_swordsman|资 深 步 兵 
-trp_iberian_veteran_swordsman_pl|资 深 步 兵 
-trp_iberian_swords_sergeant|步 兵 中 士 
-trp_iberian_swords_sergeant_pl|步 兵 中 士 
-trp_iberian_town_skirmisher|持 弩 民 兵 
-trp_iberian_town_skirmisher_pl|持 弩 民 兵
-trp_iberian_veteran_crossbowman|弩 兵 
-trp_iberian_veteran_crossbowman_pl|弩 兵
-trp_iberian_crossbows_sergeant|持 盾 重 弩 兵
-trp_iberian_crossbows_sergeant_pl|持 盾 重 弩 兵
-trp_iberian_light_cavalry|轻 装 枪 骑 兵
-trp_iberian_light_cavalry_pl|轻 装 枪 骑 兵
-trp_iberian_medium_cavalry|贵 族 骑 兵 
-trp_iberian_medium_cavalry_pl|贵 族 骑 兵 
-trp_iberian_squire|骑 士 侍 从 
-trp_iberian_squire_pl|骑 士 侍 从 
-trp_iberian_knight|贵 族 骑 士 
-trp_iberian_knight_pl|贵 族 骑 士 
+trp_iberian_village_recruit|伊 比 利 亚 民 兵 
+trp_iberian_village_recruit_pl|伊 比 利 亚 民 兵
+trp_iberian_town_recruit|伊 比 利 亚 城 镇 民 兵 
+trp_iberian_town_recruit_pl|伊 比 利 亚 城 镇 民 兵 
+trp_iberian_village_skirmisher|伊 比 利 亚 投 射 民 兵 
+trp_iberian_village_skirmisher_pl|伊 比 利 亚 投 射 民 兵
+trp_iberian_archer|伊 比 利 亚 弓 箭 手 
+trp_iberian_archer_pl|伊 比 利 亚 弓 箭 手 
+trp_iberian_bows_sergeant|伊 比 利 亚 长 弓 兵
+trp_iberian_bows_sergeant_pl|伊 比 利 亚 长 弓 兵
+trp_iberian_village_footman|伊 比 利 亚 轻 步 兵 
+trp_iberian_village_footman_pl|伊 比 利 亚 轻 步 兵 
+trp_iberian_billman|伊 比 利 亚 武 装 戟 兵 
+trp_iberian_billman_pl|伊 比 利 亚 武 装 戟 兵 
+trp_iberian_bills_sergeant|伊 比 利 亚 长 戟 军 士 
+trp_iberian_bills_sergeant_pl|伊 比 利 亚 长 戟 军 士
+trp_iberian_town_footman_1|伊 比 利 亚 城 镇 步 兵 
+trp_iberian_town_footman_1_pl|伊 比 利 亚 城 镇 步 兵 
+trp_iberian_town_footman_2|伊 比 利 亚 步 兵 
+trp_iberian_town_footman_2_pl|伊 比 利 亚 步 兵 
+trp_iberian_veteran_spearman|伊 比 利 亚 资 深 枪 兵 
+trp_iberian_veteran_spearman_pl|伊 比 利 亚 资 深 枪 兵 
+trp_iberian_spears_sergeant|伊 比 利 亚 长 矛 中 士 
+trp_iberian_spears_sergeant_pl|伊 比 利 亚 长 矛 中 士 
+trp_iberian_veteran_swordsman|伊 比 利 亚 资 深 步 兵 
+trp_iberian_veteran_swordsman_pl|伊 比 利 亚 资 深 步 兵 
+trp_iberian_swords_sergeant|伊 比 利 亚 步 兵 中 士 
+trp_iberian_swords_sergeant_pl|伊 比 利 亚 步 兵 中 士 
+trp_iberian_town_skirmisher|伊 比 利 亚 持 弩 民 兵 
+trp_iberian_town_skirmisher_pl|伊 比 利 亚 持 弩 民 兵
+trp_iberian_veteran_crossbowman|伊 比 利 亚 弩 兵 
+trp_iberian_veteran_crossbowman_pl|伊 比 利 亚 弩 兵
+trp_iberian_crossbows_sergeant|伊 比 利 亚 持 盾 重 弩 兵
+trp_iberian_crossbows_sergeant_pl|伊 比 利 亚 持 盾 重 弩 兵
+trp_iberian_light_cavalry|伊 比 利 亚 轻 装 枪 骑 兵
+trp_iberian_light_cavalry_pl|伊 比 利 亚 轻 装 枪 骑 兵
+trp_iberian_medium_cavalry|伊 比 利 亚 贵 族 骑 兵 
+trp_iberian_medium_cavalry_pl|伊 比 利 亚 贵 族 骑 兵 
+trp_iberian_squire|伊 比 利 亚 骑 士 侍 从 
+trp_iberian_squire_pl|伊 比 利 亚 骑 士 侍 从 
+trp_iberian_knight|伊 比 利 亚 贵 族 骑 士 
+trp_iberian_knight_pl|伊 比 利 亚 贵 族 骑 士 
 trp_andalus_village_recruit|安 达 鲁 斯 民 兵
 trp_andalus_village_recruit_pl|安 达 鲁 斯 民 兵
 trp_andalus_village_footman|安 达 鲁 斯 征 召 轻 步 兵 
@@ -1235,53 +1235,53 @@ trp_kingdom_3_lord|别 儿 哥 可 汗
 trp_kingdom_3_lord_pl|别 儿 哥 
 trp_kingdom_4_lord|克 里 斯 托 弗 一 世 国 王 
 trp_kingdom_4_lord_pl|克 里 斯 托 弗 
-trp_kingdom_5_lord|波 兰 高 等 公 爵， 波 列 斯 瓦 夫 五 世 
-trp_kingdom_5_lord_pl|贞 洁 者 波 列 斯 瓦 夫 五 世 
-trp_kingdom_6_lord|罗 马 人 的 国 王， 理 查 德· 冯· 康 沃 尔 
-trp_kingdom_6_lord_pl|理 查 德· 冯· 康 沃 尔  
-trp_kingdom_7_lord|匈 牙 利 国 王， 贝 拉 四 世 
-trp_kingdom_7_lord_pl|贝 拉 四 世 
-trp_kingdom_8_lord|诺 夫 哥 罗 德 大 公， 亚 历 山 大· 涅 夫 斯 基 
+trp_kingdom_5_lord|波 列 斯 瓦 夫 五 世 高 等 公 爵 
+trp_kingdom_5_lord_pl|波 列 斯 瓦 夫 “贞 洁 者” 
+trp_kingdom_6_lord|罗 马 人 的 ， 理 查 德· 冯· 康 沃 尔 国 王 
+trp_kingdom_6_lord_pl|理 查 德· 冯· 康 沃 尔 
+trp_kingdom_7_lord|贝 拉 四 世 国 王 
+trp_kingdom_7_lord_pl|贝 拉 
+trp_kingdom_8_lord|亚 历 山 大· 涅 夫 斯 基 大 公 
 trp_kingdom_8_lord_pl|亚 历 山 大· 涅 夫 斯 基 
-trp_kingdom_9_lord|英 格 兰 国 王， 亨 利 三 世 
-trp_kingdom_9_lord_pl|亨 利 三 世 
-trp_kingdom_10_lord|法 兰 西 国 王， 路 易 九 世 
-trp_kingdom_10_lord_pl|路 易 九 世 
-trp_kingdom_11_lord|挪 威 国 王， 哈 康 四 世 
-trp_kingdom_11_lord_pl|哈 康 四 世 
-trp_kingdom_12_lord|苏 格 兰 国 王， 亚 历 山 大 三 世 
-trp_kingdom_12_lord_pl|亚 历 山 大 三 世 
-trp_kingdom_13_lord|爱 尔 兰 国 王， 布 莱 恩· 奥 奈 尔 
+trp_kingdom_9_lord|亨 利 三 世 国 王 
+trp_kingdom_9_lord_pl|亨 利 
+trp_kingdom_10_lord|路 易 九 世 国 王 
+trp_kingdom_10_lord_pl|路 易 
+trp_kingdom_11_lord|哈 康 四 世 国 王 
+trp_kingdom_11_lord_pl|哈 康 
+trp_kingdom_12_lord|亚 历 山 大 三 世 国 王 
+trp_kingdom_12_lord_pl|亚 历 山 大 
+trp_kingdom_13_lord|布 莱 恩· 奥 奈 尔 国 王 
 trp_kingdom_13_lord_pl|布 莱 恩· 奥 奈 尔 
-trp_kingdom_14_lord|执 政 公 爵， 比 耶· 亚 尔 {***}
-trp_kingdom_14_lord_pl|比 耶· 亚 尔 {***}
-trp_kingdom_15_lord|加 里 西 亚 国 王， 丹 尼 尔· 罗 曼 诺 维 奇 
+trp_kingdom_14_lord|比 耶· 亚 尔 执 政 公 爵 
+trp_kingdom_14_lord_pl|比 耶· 亚 尔 
+trp_kingdom_15_lord|丹 尼 尔· 罗 曼 诺 维 奇 国 王 
 trp_kingdom_15_lord_pl|丹 尼 尔· 罗 曼 诺 维 奇 
-trp_kingdom_16_lord|葡 萄 牙 国 王， 阿 方 索 三 世 
+trp_kingdom_16_lord|阿 方 索 三 世 国 王 
 trp_kingdom_16_lord_pl|阿 方 索 三 世 
-trp_kingdom_17_lord|阿 拉 贡 国 王， 征 服 者 海 梅 一 世 
-trp_kingdom_17_lord_pl|征 服 者 海 梅 一 世 
-trp_kingdom_18_lord|卡 斯 提 尔、 莱 昂 和 加 利 西 亚 国 王， 阿 方 索 十 世 
+trp_kingdom_17_lord|海 梅 一 世 国 王 “征 服 者” 
+trp_kingdom_17_lord_pl|海 梅 一 世 “征 服 者” 
+trp_kingdom_18_lord|阿 方 索 十 世 国 王 
 trp_kingdom_18_lord_pl|阿 方 索 十 世 
-trp_kingdom_20_lord|格 拉 纳 达 苏 丹， 穆 罕 默 德 一 世 {***}
-trp_kingdom_20_lord_pl|穆 罕 默 德 一 世 {***}
-trp_kingdom_22_lord|尼 西 亚 帝 国 皇 帝, 西 奥 多· 拉 斯 卡 里 斯 二 世{***}
-trp_kingdom_22_lord_pl|西 奥 多· 拉 斯 卡 里 斯 二 世{***}
-trp_kingdom_23_lord|耶 路 撒 冷 王 国 执 行 官， 伊 贝 林 的 约 翰{***}
-trp_kingdom_23_lord_pl|伊 贝 林 的 约 翰{***}
-trp_kingdom_24_lord|西 西 里 国 王， 曼 弗 雷 德 
+trp_kingdom_20_lord|穆 罕 默 德 一 世· 伊 本 纳 斯 苏 丹 
+trp_kingdom_20_lord_pl|穆 罕 默 德 一 世· 伊 本 纳 斯 
+trp_kingdom_22_lord|西 奥 多 二 世· 拉 斯 卡 里 斯 皇 帝 
+trp_kingdom_22_lord_pl|西 奥 多 二 世· 拉 斯 卡 里 斯 
+trp_kingdom_23_lord|伊 贝 林 的 约 翰 执 行 官 
+trp_kingdom_23_lord_pl|伊 贝 林 的 约 翰 
+trp_kingdom_24_lord|曼 弗 雷 德 国 王 
 trp_kingdom_24_lord_pl|曼 弗 雷 德 
-trp_kingdom_25_lord|马 穆 鲁 克 苏 丹， 伊 兹 丁· 艾 博 克 
+trp_kingdom_25_lord|伊 兹 丁· 艾 博 克 苏 丹 
 trp_kingdom_25_lord_pl|伊 兹 丁· 艾 博 克 
-trp_kingdom_26_lord|拉 丁 帝 国 皇 帝， 科 特 尼 的 鲍 德 温 二 世 
+trp_kingdom_26_lord|科 特 尼 的 鲍 德 温 二 世 皇 帝 
 trp_kingdom_26_lord_pl|科 特 尼 的 鲍 德 温 二 世 
-trp_kingdom_27_lord|伊 儿 汗， 旭 烈 兀 
+trp_kingdom_27_lord|旭 烈 兀 可 汗 
 trp_kingdom_27_lord_pl|旭 烈 兀 
-trp_kingdom_28_lord|哈 夫 斯 哈 里 发，穆 斯 坦 绥 尔 
-trp_kingdom_28_lord_pl|穆 斯 坦 绥 尔 
-trp_kingdom_29_lord|塞 尔 维 亚 国 王， 史 蒂 芬· 乌 罗 什 一 世 
-trp_kingdom_29_lord_pl|史 蒂 芬· 乌 罗 什 一 世 
-trp_kingdom_30_lord|保 加 利 亚 沙 皇， 康 斯 坦 丁 
+trp_kingdom_28_lord|穆 罕 默 德 一 世· 穆 斯 坦 绥 尔 哈 里 发 
+trp_kingdom_28_lord_pl|穆 罕 默 德 一 世· 穆 斯 坦 绥 尔 
+trp_kingdom_29_lord|塞 尔 维 亚 国 王， 史 蒂 芬· 乌 罗 什 
+trp_kingdom_29_lord_pl|史 蒂 芬· 乌 罗 什 
+trp_kingdom_30_lord|康 斯 坦 丁 沙 皇 
 trp_kingdom_30_lord_pl|康 斯 坦 丁 
 trp_kingdom_31_lord|马 里 尼 德 苏 丹， 阿 卜 杜 勒· 哈 格 
 trp_kingdom_31_lord_pl|阿 卜 杜 勒· 哈 格 
