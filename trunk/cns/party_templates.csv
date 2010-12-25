@@ -1,41 +1,41 @@
-pt_none|无 
+﻿pt_none|无 
 pt_rescued_prisoners|被 救 的 俘 虏 
 pt_enemy|敌 人 
 pt_hero_party|英 雄 部 队 
 pt_village_defenders|村 庄 卫 队 
 pt_cattle_herd|牛 群 
-pt_looters|劫 匪 
-pt_manhunters|赏 金 猎 人 
-pt_curonians|Curonian Warband{***}
-pt_prussians|Prussian Rebels{***}
-pt_samogitians|Samogitian Warriors{***}
-pt_yotvingians|Yotvingian Raiders{***}
-pt_welsh|Welsh Rebels{***}
-pt_peasant_rebels_euro|Peasant Rebels{***}
-pt_peasant_rebels_eastern|Peasant Rebels{***}
-pt_peasant_rebels_nordic|Peasant Rebels{***}
-pt_peasant_rebels_mamluke|Peasant Rebels{***}
-pt_peasant_rebels_marinid|Peasant Rebels{***}
-pt_peasant_rebels_andalus|Peasant Rebels{***}
-pt_peasant_rebels_mongol|Peasant Rebels{***}
-pt_peasant_rebels_baltic|Peasant Rebels{***}
-pt_steppe_bandits|响 马 
-pt_taiga_bandits|雪 原 强 盗 
-pt_desert_bandits|沙 漠 强 盗 
-pt_forest_bandits|绿 林 强 盗 
-pt_mountain_bandits|山 贼 
+pt_looters|抢 匪 
+pt_manhunters|搜 捕 者 
+pt_curonians|库 洛 尼 亚 战 团 
+pt_prussians|普 鲁 士 叛 军 
+pt_samogitians|萨 莫 吉 希 亚 战 团 
+pt_yotvingians|苏 多 维 亚 掠 夺 者 
+pt_welsh|威 尔 士 叛 军
+pt_peasant_rebels_euro|农 民 义 军 
+pt_peasant_rebels_eastern|农 民 义 军 
+pt_peasant_rebels_nordic|农 民 义 军 
+pt_peasant_rebels_mamluke|农 民 义 军 
+pt_peasant_rebels_marinid|农 民 义 军 
+pt_peasant_rebels_andalus|农 民 义 军 
+pt_peasant_rebels_mongol|农 民 义 军 
+pt_peasant_rebels_baltic|农 民 义 军 
+pt_steppe_bandits|草 原 土 匪  
+pt_taiga_bandits|雪 原 土 匪 
+pt_desert_bandits|沙 漠 土 匪 
+pt_forest_bandits|森 林 土 匪 
+pt_mountain_bandits|山 地 土 匪 
 pt_sea_raiders|海 寇 
-pt_robber_knights|Roving Robber Knight Band{***}
-pt_deserters|乱 军 
+pt_robber_knights|游 荡 的 强 盗 骑 士 团 伙 
+pt_deserters|逃 兵 
 pt_merchant_caravan|商 人 的 商 队 
-pt_troublesome_bandits|难 对 付 的 强 盗 
-pt_bandits_awaiting_ransom|等 待 赎 金 的 强 盗 
+pt_troublesome_bandits|惹 麻 烦 的 土 匪 
+pt_bandits_awaiting_ransom|等 待 赎 金 的 土 匪 
 pt_kidnapped_girl|被 绑 架 的 女 孩 
 pt_village_farmers|村 民 
 pt_spy_partners|不 显 眼 的 旅 行 者 
 pt_runaway_serfs|逃 跑 的 农 奴 
 pt_spy|普 通 的 市 民 
-pt_sacrificed_messenger|献 祭 信 史 
+pt_sacrificed_messenger|做 出 牺 牲 的 信 史 
 pt_forager_party|征 粮 队 
 pt_scout_party|侦 察 队 
 pt_patrol_party|巡 逻 队 
@@ -43,21 +43,21 @@ pt_messenger_party|信 使
 pt_raider_party|突 袭 队 
 pt_raider_captives|猎 俘 队 
 pt_kingdom_caravan_party|商 队 
-pt_prisoner_train_party|运 俘 队 
+pt_prisoner_train_party|俘 虏 押 送 队 
 pt_default_prisoners|逃 走 的 俘 虏 
 pt_routed_warriors|溃 军 
 pt_center_reinforcements|增 援 部 队 
-pt_kingdom_hero_party|War Party{***}
-pt_steppe_bandit_lair|响 马 老 巢 
-pt_taiga_bandit_lair|雪 原 强 盗 老 巢 
-pt_desert_bandit_lair|沙 漠 强 盗 老 巢 
-pt_forest_bandit_lair|绿 林 强 盗 营 地 
-pt_mountain_bandit_lair|山 贼 藏 身 处 
-pt_sea_raider_lair|海 寇 码 头 
-pt_looter_lair|绑 匪 藏 身 处 
-pt_robber_knight_lair|Robber Knight's Hideout{***}
-pt_leaded_looters|盗 贼 团 
-pt_pagan_stronghold|Pagan Stronghold{***}
-pt_dplmc_spouse|Your spouse{***}
-pt_dplmc_gift_caravan|Your Caravan{***}
-pt_dplmc_recruiter|Recruiter{***}
+pt_kingdom_hero_party|作 战 队 伍 
+pt_steppe_bandit_lair|草 原 土 匪 藏 身 处 
+pt_taiga_bandit_lair|雪 原 土 匪 藏 身 处 
+pt_desert_bandit_lair|沙 漠 土 匪 藏 身 处 
+pt_forest_bandit_lair|绿 林 土 匪 藏 身 处 
+pt_mountain_bandit_lair|山 地 土 匪 藏 身 处 
+pt_sea_raider_lair|海 寇 藏 身 处 
+pt_looter_lair|抢 匪 藏 身 处 
+pt_robber_knight_lair|强 盗 骑 士 藏 身 处 
+pt_leaded_looters|抢 匪 团 伙 
+pt_pagan_stronghold|异 教 徒 要 塞 
+pt_dplmc_spouse|您 的 配 偶 
+pt_dplmc_gift_caravan|您 的 商 队 
+pt_dplmc_recruiter|征 兵 队 
