@@ -898,12 +898,12 @@ trp_test_subject9|Test Subject PS 9
 trp_test_subject9_pl|Test Subject PS 9
 trp_test_subject10|Test Subject PS 10
 trp_test_subject10_pl|Test Subject PS 10
-trp_forest_bandit|绿 林 强 盗 
-trp_forest_bandit_pl|绿 林 强 盗 
+trp_forest_bandit|森 林 强 盗 
+trp_forest_bandit_pl|森 林 强 盗 
 trp_sea_raider|海 寇 
 trp_sea_raider_pl|海 寇 
-trp_steppe_bandit|响 马 
-trp_steppe_bandit_pl|响 马 
+trp_steppe_bandit|草 原 强 盗 
+trp_steppe_bandit_pl|草 原 强 盗 
 trp_taiga_bandit|雪 原 强 盗 
 trp_taiga_bandit_pl|雪 原 强 盗 
 trp_desert_bandit|沙 漠 强 盗 
@@ -1157,16 +1157,16 @@ trp_tavern_bookseller_1|书 籍 商 人
 trp_tavern_bookseller_1_pl|书 籍 商 人 
 trp_tavern_bookseller_2|书 籍 商 人 
 trp_tavern_bookseller_2_pl|书 籍 商 人 
-trp_tavern_minstrel_1|游 方 艺 人 
-trp_tavern_minstrel_1_pl|游 方 艺 人 
-trp_tavern_minstrel_2|游 方 艺 人 
-trp_tavern_minstrel_2_pl|游 方 艺 人 
+trp_tavern_minstrel_1|北 地 诗 人 
+trp_tavern_minstrel_1_pl|诗 人 
+trp_tavern_minstrel_2|吟 游 诗 人 
+trp_tavern_minstrel_2_pl|诗 人 
 trp_tavern_minstrel_3|宫 廷 诗 人 
-trp_tavern_minstrel_3_pl|游 方 艺 人 
-trp_tavern_minstrel_4|著 名 作 家 
-trp_tavern_minstrel_4_pl|游 方 艺 人 
-trp_tavern_minstrel_5|著 名 作 家 
-trp_tavern_minstrel_5_pl|游 方 艺 人 
+trp_tavern_minstrel_3_pl|诗 人 
+trp_tavern_minstrel_4|行 吟 诗 人 
+trp_tavern_minstrel_4_pl|诗 人 
+trp_tavern_minstrel_5|游 牧 诗 人 
+trp_tavern_minstrel_5_pl|诗 人 
 trp_kingdom_heroes_including_player_begin|kingdom heroes including player begin 
 trp_kingdom_heroes_including_player_begin_pl|kingdom heroes including player begin 
 trp_npc1|乌 尔 里 希 
@@ -4269,8 +4269,8 @@ trp_dplmc_chancellor|大 臣
 trp_dplmc_chancellor_pl|大 臣 
 trp_dplmc_messenger|信 使 
 trp_dplmc_messenger_pl|信 使 
-trp_dplmc_recruiter|征 兵 队 
-trp_dplmc_recruiter_pl|征 兵 队 
+trp_dplmc_recruiter|募 兵 官 
+trp_dplmc_recruiter_pl|募 兵 官 
 trp_raf_messenger|信 使 
 trp_raf_messenger_pl|信 使 
 trp_pope|教 宗 历 山 四 世 
