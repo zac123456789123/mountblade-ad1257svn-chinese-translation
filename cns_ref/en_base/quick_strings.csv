@@ -191,6 +191,7 @@ qstr_Your_opponents_are_r|Your opponents are ready for the fight.
 qstr_Try_to_destroy_as_ma|Try to destroy as many targets as you can. You have two and a half minutes to clear the track.
 qstr_Stay_behind_the_line|Stay behind the line on the ground and shoot the targets. Try not to waste any shots.
 qstr_DEBUG____{s21}_dista|DEBUG -- {s21} distance {reg21}
+qstr_party_{s22}_distance|party {s22} distance {reg22} chance {reg23}
 qstr_Battle_Advantage_=_{|Battle Advantage = {reg0}.
 qstr_{s9}_wants_you_to_re|{s9} wants you to resume following his army until further notice.
 qstr_{s21}_has_no_fief_we|{s21} has no fief weekly income: {reg21}

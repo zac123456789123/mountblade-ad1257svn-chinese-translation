@@ -1,4 +1,4 @@
-﻿dlga_award_fief_to_vassal:award_fief_to_vassal_defer|我 想 把 这 个 任 命 先 放 一 放， 等 我 听 取 了 其 他 人 的 意 见 之 后， 再 作 决 定。
+dlga_award_fief_to_vassal:award_fief_to_vassal_defer|我 想 把 这 个 任 命 先 放 一 放， 等 我 听 取 了 其 他 人 的 意 见 之 后， 再 作 决 定。
 dlga_award_fief_to_vassal_defer:close_window|如 你 所 愿， {陛 下/尊 敬 的 女 士}。 你 可 以 改 日 再 作 决 定。
 dlga_award_fief_to_vassal_2:close_window|如 你 所 愿， {陛 下/尊 敬 的 女 士}。 {reg6?我 :{reg7?你 :{s11}}}将 成 为 {s1}的 新 {reg3?主 人 :主 人 }。 
 dlga_event_triggered:center_captured_rebellion|{s1}目 前 还 无 人 治 理。 我 应 该 把 这 权 力 交 给 谁 呢？ 

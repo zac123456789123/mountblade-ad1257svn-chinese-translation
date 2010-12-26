@@ -191,6 +191,7 @@ qstr_Your_opponents_are_r|你 的 对 手 已 经 准 备 好 了。
 qstr_Try_to_destroy_as_ma|你 需 要 在 两 分 半 钟 的 时 间 内 尽 可 能 多 的 摧 毁 目 标。 
 qstr_Stay_behind_the_line|站 在 线 后 射 击 目 标。 尽 量 不 要 浪 费 任 何 一 发 弹 药。 
 qstr_DEBUG____{s21}_dista|DEBUG -- {s21} distance {reg21}{***}
+qstr_party_{s22}_distance|party {s22} distance {reg22} chance {reg23}{***}
 qstr_Battle_Advantage_=_{|战 场 优 势 为 {reg0}。 
 qstr_{s9}_wants_you_to_re|{s9}希 望 你 能 够 在 接 到 进 一 步 的 指 令 以 前 跟 着 他 的 部 队 前 进。 
 qstr_{s21}_has_no_fief_we|{s21} has no fief weekly income: {reg21}{***}
