@@ -1,9 +1,9 @@
-qstr_{reg61}.0{reg62}|{reg61}.0{reg62}{***}
-qstr_{reg61}.{reg62}|{reg61}.{reg62}{***}
-qstr_Shot_distance:_{s1}_|Shot distance: {s1} meters.{***}
-qstr_Anno_Domini_1257|Anno Domini 1257{***}
-qstr_ad1257svn_revision:_|ad1257svn revision: {***}
-qstr_{s21}{s22}|{s21}{s22}{***}
+qstr_{reg61}.0{reg62}|{reg61}.0{reg62}
+qstr_{reg61}.{reg62}|{reg61}.{reg62}
+qstr_Shot_distance:_{s1}_|射 击 距 离： {s1}米。
+qstr_Anno_Domini_1257|Anno Domini 1257
+qstr_ad1257svn_revision:_|ad1257svn 版 本： 
+qstr_{s21}{s22}|{s21}{s22}
 qstr_Next_Page|下 一 页 
 qstr_Game_Rules:^|游 戏 规 则： ^
 qstr_0|0
@@ -60,95 +60,95 @@ qstr_Experience:_{reg0}|经 验 ： {reg0}
 qstr_Days_Passed:_{reg0}|天 数 ： {reg0}
 qstr_Difficulty:_{reg0}%|难 度 ： {reg0}% 
 qstr_TOTAL_SCORE:_{reg0}|总 分 数 ： {reg0}
-qstr_{s0}__{s50}_|{s0} ({s50}){***}
+qstr_{s0}__{s50}_|{s0} ({s50})
 qstr_None|无 
-qstr_{s25}__{reg25}_day_s|{s25} ({reg25} day(s) left):{***}
-qstr_{s55}___{reg0}%_|{s55} (-{reg0}%){***}
-qstr_{s55}|{s55}{***}
-qstr_Staff:|Staff:{***}
-qstr_You_paid_{reg0}_cash|You paid {reg0} cash to liquidate a debt{***}
-qstr_Next_Payday|Next Payday{***}
-qstr_Earlier_cash:|Earlier cash:{***}
-qstr_New_cash:|New cash:{***}
-qstr___DEBUG___g_latest_o|--DEBUG-- g latest order 1 is 3{***}
-qstr___DEBUG___g_latest_or|--DEBUG-- g latest order 1 is 2{***}
-qstr___DEBUG___g_latest_ord|--DEBUG-- g latest order 1 is 1{***}
-qstr_Us:_{reg12}_Allies:_|Us: {reg12} Allies: {reg13} Enemies: {reg14}{***}
-qstr_Us:_n/a_Allies:_n/a_|Us: n/a Allies: n/a Enemies: n/a{***}
-qstr_BATTLE_WON!|BATTLE WON!{***}
-qstr_BATTLE_LOST!|BATTLE LOST!{***}
-qstr_Next|Next{***}
-qstr_Previous|Previous{***}
-qstr_Accept|Accept{***}
-qstr_Done|Done{***}
-qstr_Name:_{s1}^Level:_{r|Name: {s1}^Level: {reg1}{***}
+qstr_{s25}__{reg25}_day_s|{s25} （ 剩 余 {reg25}天 ） ： 
+qstr_{s55}___{reg0}%_|{s55} （ -{reg0}%） 
+qstr_{s55}|{s55}
+qstr_Staff:|职 员： {***}
+qstr_You_paid_{reg0}_cash|你 付 了 {reg0}现 金 清 算 了 你 的 债 务 
+qstr_Next_Payday|下 一 个 付 工 资 日 
+qstr_Earlier_cash:|现 有 资 金： 
+qstr_New_cash:|新 收 入： 
+qstr___DEBUG___g_latest_o|--DEBUG-- g latest order 1 is 3
+qstr___DEBUG___g_latest_or|--DEBUG-- g latest order 1 is 2
+qstr___DEBUG___g_latest_ord|--DEBUG-- g latest order 1 is 1
+qstr_Us:_{reg12}_Allies:_|我 军： {reg12} 友 军： {reg13} 敌 军： {reg14}
+qstr_Us:_n/a_Allies:_n/a_|我 军： n/a 友 军： n/a 敌 军： n/a
+qstr_BATTLE_WON!|战 斗 胜 利！ 
+qstr_BATTLE_LOST!|您 战 败 了！ 
+qstr_Next|下 一 页 
+qstr_Previous|上 一 页 
+qstr_Accept|确 定 
+qstr_Done|完 成 
+qstr_Name:_{s1}^Level:_{r|姓 名： {s1}^等 级： {reg1}
 qstr_{s1}^HP:_{reg1}/{reg|{s1}^HP: {reg1}/{reg2}{***}
-qstr_{s1}|{s1}{***}
-qstr_Weapon_upgrade_setti|Weapon upgrade settings:{***}
-qstr_Plan_<1>_|Plan <1> {***}
-qstr_Apply_to_everyone|Apply to everyone{***}
-qstr_Plan_<2>_|Plan <2> {***}
-qstr_Use_plan_<1>_|Use plan <1> {***}
-qstr_Use_plan_<2>_|Use plan <2> {***}
-qstr_Upgrade_armor_|Upgrade armor {***}
-qstr_Upgrade_horse_|Upgrade horse {***}
-qstr_Price_threshold_of_i|Price threshold of items for picking:{***}
-qstr_Sell_items_automatic|Sell items automaticly when leaving:{***}
-qstr_Price_limit_for_auto|Price limit for auto-sell:{***}
-qstr_Item_types_for_auto_|Item types for auto-sell:{***}
-qstr_Select_all|Select all{***}
-qstr_Select_invert|Select invert{***}
-qstr_Faction_color_of_{s0|Faction color of {s0}:{***}
-qstr_Red:|Red:{***}
-qstr_Green:|Green:{***}
-qstr_Blue:|Blue:{***}
-qstr__| {***}
-qstr_HTML_code:_{s0}|HTML code: {s0}{***}
-qstr_Default|Default{***}
-qstr_Randomize|Randomize{***}
+qstr_{s1}|{s1}
+qstr_Weapon_upgrade_setti|武 器 升 级 设 置:
+qstr_Plan_<1>_|方 案 <1>
+qstr_Apply_to_everyone|应 用 到 所 有 人： 
+qstr_Plan_<2>_|方 案 <2>
+qstr_Use_plan_<1>_|选 用 方 案 <1>
+qstr_Use_plan_<2>_|选 用 方 案 <2>
+qstr_Upgrade_armor_|升 级 防 具 
+qstr_Upgrade_horse_|升 级 马 匹 
+qstr_Price_threshold_of_i|捡 取 物 品 的 最 低 阈 值 
+qstr_Sell_items_automatic|离 开 时 自 动 出 售 物 品： 
+qstr_Price_limit_for_auto|自 动 出 售 物 品 的 最 高 阈 值：
+qstr_Item_types_for_auto_|自 动 出 售 物 品 的 类 型 ：
+qstr_Select_all|全 选 
+qstr_Select_invert|反 选 
+qstr_Faction_color_of_{s0|{s0}阵 营 的 颜 色： 
+qstr_Red:|红 色： 
+qstr_Green:|绿 色： 
+qstr_Blue:|蓝 色：
+qstr__| 
+qstr_HTML_code:_{s0}|HTML颜 色 代 码： 
+qstr_Default|默 认 
+qstr_Randomize|随 机 
 qstr_{s1}^HP:_{reg0}|{s1}^HP: {reg0}{***}
-qstr_Attributes:|Attributes:{***}
-qstr_{s3}^STR:_{reg1}^INT|{s3}^STR: {reg1}^INT: {reg2}^^Skills:{***}
-qstr_{s3}^Power_Strike:_{|{s3}^Power Strike: {reg1}^Power Draw: {reg2}^Power Throw: {reg3}^Horse Archery: {reg4}^^Weapon Proficiencies:{***}
+qstr_Attributes:|属 性： 
+qstr_{s3}^STR:_{reg1}^INT|{s3}^力 量： {reg1}^智 力： {reg2}^^技 能： 
+qstr_{s3}^Power_Strike:_{|{s3}^强 击： {reg1}^强 弓： {reg2}^强 掷： {reg3}^骑 射： {reg4}^^武器掌握：
 qstr_{s3}^1_Hand_Wpns:_{r|{s3}^1 Hand Wpns: {reg1}^2 Hand Wpns: {reg2}^Polearms: {reg3}{***}
-qstr_{s3}|{s3}{***}
-qstr_{s4}^AGI:_{reg1}^CHA|{s4}^AGI: {reg1}^CHA: {reg2}^^{***}
-qstr_{s4}^Ironflesh:_{reg|{s4}^Ironflesh: {reg1}^Athletics: {reg2}^Shield: {reg3}^Riding: {reg4}^^{***}
-qstr_{s4}^Archery:_{reg1}|{s4}^Archery: {reg1}^Crossbows: {reg2}^Throwing: {reg3}{***}
-qstr_{s4}|{s4}{***}
-qstr_Equipments:_|Equipments: {***}
-qstr_Travel_speed__recomm|Travel speed (recommended 75%):{***}
-qstr_Use_shield_bash__pla|Use shield bash (player):{***}
-qstr_Use_shield_bash__AI_|Use shield bash (AI):{***}
-qstr_Spear_bracing:|Spear bracing:{***}
-qstr_Force_ranged_troops_|Force ranged troops to use their ranged weapons:{***}
-qstr_Disable_NPCs__compla|Disable NPCs' complaints:{***}
-qstr_Probability_of_rain/|Probability of rain/snow (%):{***}
-qstr_Cloud_amount:|Cloud amount:{***}
-qstr_Fog_strength:|Fog strength:{***}
-qstr_ERROR____wrong_numbe|ERROR -- wrong number of villages, need {reg26} have {reg27}{***}
-qstr_ERROR____Castles:_{r|ERROR -- Castles: {reg28} seneschals: {reg26}{***}
-qstr_ERROR____Villages:_{|ERROR -- Villages: {reg27} elders: {reg26}{***}
-qstr_ERROR____Towns:_{reg|ERROR -- Towns: {reg25} seneschals: {reg26}{***}
-qstr_ERROR____Towns:_{reg2|ERROR -- Towns: {reg25} mayors: {reg26}{***}
-qstr_ERROR____Towns:_{reg25|ERROR -- Towns: {reg25} tavern keepers: {reg26}{***}
-qstr_ERROR____Towns:_{reg25}|ERROR -- Towns: {reg25} weaponsmiths: {reg26}{***}
-qstr_ERROR____Towns:_{reg25}_|ERROR -- Towns: {reg25} armorers: {reg26}{***}
-qstr_ERROR____Towns:_{reg25}_m|ERROR -- Towns: {reg25} merchants: {reg26}{***}
-qstr_ERROR____Towns:_{reg25}_h|ERROR -- Towns: {reg25} horse merchants: {reg26}{***}
-qstr_ERROR____Towns:_{reg25}_a|ERROR -- Towns: {reg25} arena masters: {reg26}{***}
-qstr_ERROR____Towns:_{reg25}_c|ERROR -- Towns: {reg25} craftsmen: {reg26}{***}
-qstr_____________________|----------------------------- BATTLE ----------------------------{***}
+qstr_{s3}|{s3}
+qstr_{s4}^AGI:_{reg1}^CHA|{s4}^敏 捷： {reg1}^魅 力： {reg2}^^
+qstr_{s4}^Ironflesh:_{reg|{s4}^铁 骨： {reg1}^跑 动： {reg2}^盾 防： {reg3}^骑 术： {reg4}^^
+qstr_{s4}^Archery:_{reg1}|{s4}^弓： {reg1}^弩： {reg2}^投 掷： {reg3}
+qstr_{s4}|{s4}
+qstr_Equipments:_|装 备： 
+qstr_Travel_speed__recomm|大 地 图 移 动 速 度（ 推 荐 75%） ： 
+qstr_Use_shield_bash__pla|打 开 盾 击（ 玩 家） ： 
+qstr_Use_shield_bash__AI_|打 开 盾 击（ AI） ： 
+qstr_Spear_bracing:|打 开 长 杆 支 撑： 
+qstr_Force_ranged_troops_|强 制 远 程 部 队 使 用 其 远 程 武 器： 
+qstr_Disable_NPCs__compla|禁 止 NPC之 间 相 互 抱 怨： 
+qstr_Probability_of_rain/|下 雨 /下 雪 的 概 率： 
+qstr_Cloud_amount:|云 量： 
+qstr_Fog_strength:|大 雾 浓 度： 
+qstr_ERROR____wrong_numbe|ERROR -- wrong number of villages, need {reg26} have {reg27}
+qstr_ERROR____Castles:_{r|ERROR -- Castles: {reg28} seneschals: {reg26}
+qstr_ERROR____Villages:_{|ERROR -- Villages: {reg27} elders: {reg26}
+qstr_ERROR____Towns:_{reg|ERROR -- Towns: {reg25} seneschals: {reg26}
+qstr_ERROR____Towns:_{reg2|ERROR -- Towns: {reg25} mayors: {reg26}
+qstr_ERROR____Towns:_{reg25|ERROR -- Towns: {reg25} tavern keepers: {reg26}
+qstr_ERROR____Towns:_{reg25}|ERROR -- Towns: {reg25} weaponsmiths: {reg26}
+qstr_ERROR____Towns:_{reg25}_|ERROR -- Towns: {reg25} armorers: {reg26}
+qstr_ERROR____Towns:_{reg25}_m|ERROR -- Towns: {reg25} merchants: {reg26}
+qstr_ERROR____Towns:_{reg25}_h|ERROR -- Towns: {reg25} horse merchants: {reg26}
+qstr_ERROR____Towns:_{reg25}_a|ERROR -- Towns: {reg25} arena masters: {reg26}
+qstr_ERROR____Towns:_{reg25}_c|ERROR -- Towns: {reg25} craftsmen: {reg26}
+qstr_____________________|----------------------------- 战 斗  ----------------------------
 qstr_{s26}_[o:_{reg30}_d:|{s26} [o: {reg30} d: {reg29}] vs {s25} [o: {reg28} d: {reg27}]{***}
 qstr_{s26}_deals_{reg26}_|{s26} deals {reg26} to {s25} ----- {s25} deals {reg25} to {s26}{***}
-qstr_Your_recruiter_who_w|Your recruiter who was commissioned to recruit {reg10} recruits to {s13} has been defeated!{***}
-qstr_Your_caravan_sending|Your caravan sending {s12} to {s13} has been defeated!{***}
-qstr_Your_messenger_on_th|Your messenger on the way to {s13} has been defeated!{***}
-qstr_Your_messenger_on_the|Your messenger on the way to {s13} has been defeated by {s14}!{***}
-qstr_Roman_Empire|Roman Empire{***}
-qstr_The_Roman_Empire_has|The Roman Empire has been restored!{***}
-qstr_Roman_Empire_of_Nica|Roman Empire of Nicaea{***}
-qstr_The_Roman_Empire_cea|The Roman Empire ceases to exist!{***}
+qstr_Your_recruiter_who_w|你 从 {s13}派 去 招 募 {reg10}名 新 兵 的 征 兵 队 被 击 败 了！ 
+qstr_Your_caravan_sending|你 从 {s12}去 {s13}的 商 队 被 击 败 了！ 
+qstr_Your_messenger_on_th|你 派 去 {s13}的 信 使 被 击 败 了！ 
+qstr_Your_messenger_on_the|你 派 去 {s13}的 信 使 被 {s14}击 败 了！ 
+qstr_Roman_Empire|罗 马 帝 国 
+qstr_The_Roman_Empire_has|罗 马 帝 国 已 经 恢 复 了！ 
+qstr_Roman_Empire_of_Nica|尼 西 亚 的 罗 马 帝 国 
+qstr_The_Roman_Empire_cea|罗 马 帝 国 不 再 存 在 了！ 
 qstr_{s54}_is_a_claimant_|{s54}声 称 应 由 他 坐 上 {s56}的 王 座。 
 qstr_nowhere|无 
 qstr_{s57}_and_{s58}|{s57}和 {s58}
@@ -163,7 +163,7 @@ qstr_{s2}Its_prosperity_i|{s2}它 的 繁 荣 度 为 ： {s50}
 qstr_noone|无 
 qstr_{s9}_and_{s10}|{s9}和 {s10}
 qstr_{s5}_has_been_defeat|{s5}被 击 败 了！ 
-qstr___DEBUG___count_of_l|--DEBUG-- count of lords and ladies for {s25} is not equal{***}
+qstr___DEBUG___count_of_l|--DEBUG-- count of lords and ladies for {s25} is not equal
 qstr_{s7}_opened_the_gate|{s7}打 开 大 门 
 qstr_{s7}_closed_the_gate|{s7}关 闭 大 门 
 qstr_+{reg1}_to_party_mor|部 队 士 气 增 加 {reg1}
@@ -190,13 +190,13 @@ qstr_{reg0}_town{reg1?s:}_{|{reg0}城 镇 {reg1?:}， {s0}
 qstr_Your_opponents_are_r|你 的 对 手 已 经 准 备 好 了。 
 qstr_Try_to_destroy_as_ma|你 需 要 在 两 分 半 钟 的 时 间 内 尽 可 能 多 的 摧 毁 目 标。 
 qstr_Stay_behind_the_line|站 在 线 后 射 击 目 标。 尽 量 不 要 浪 费 任 何 一 发 弹 药。 
-qstr_DEBUG____{s21}_dista|DEBUG -- {s21} distance {reg21}{***}
+qstr_DEBUG____{s21}_dista|DEBUG -- {s21} distance {reg21}
 qstr_party_{s22}_distance|party {s22} distance {reg22} chance {reg23}{***}
 qstr_Battle_Advantage_=_{|战 场 优 势 为 {reg0}。 
 qstr_{s9}_wants_you_to_re|{s9}希 望 你 能 够 在 接 到 进 一 步 的 指 令 以 前 跟 着 他 的 部 队 前 进。 
-qstr_{s21}_has_no_fief_we|{s21} has no fief weekly income: {reg21}{***}
-qstr_attrition_{s25}___{r|attrition {s25} - {reg25}{***}
-qstr_pt_in_{s11}|pt in {s11}{***}
+qstr_{s21}_has_no_fief_we|{s21}没 有 封 地 收 入： {reg21}
+qstr_attrition_{s25}___{r|磨 擦 {s25} - {reg25}{***}
+qstr_pt_in_{s11}|pt in {s11}
 qstr__Being_Raided_|（ 被 掠 夺 中 ） 
 qstr__Looted_|（ 已 被 洗 劫 ） 
 qstr__Under_Siege_|（ 陷 入 包 围 ） 
@@ -213,8 +213,8 @@ qstr_{s1}_has_been_besieg|{s1}受 到 {s3}的 {s2}包 围。
 qstr__{s1}__{s11}:_{s14}|（ {s1}） {s11}： {s14}
 qstr_{s14}__{s21}_|{s14}（ {s21}） 
 qstr_{s1}_is_the_new_mars|{s1}是 {s2}的 新 元 帅。 
-qstr_{s22}_the_marshal_of|{s22}, the marshal of {s21}, decides to gather the army around {s23}.{***}
-qstr_{s5}_begins_an_offen|{s5} begins an offensive.  Curret target is {s22}{***}
+qstr_{s22}_the_marshal_of|{s21}的 元 帅 {s22}决 定 将 部 队 召 集 至 {s23}。 
+qstr_{s5}_begins_an_offen|{s5} 正 在 发 动 进 攻， 目 前 的 目 标 是 {s22}
 qstr_You_gained_{reg12}_r|你 获 得 了 {reg12}点 声 望。 
 qstr_You_lose_{reg12}_ren|你 失 去 了 {reg12}点 声 望。 
 qstr_Your_relation_with_{|你 与 {s1}的 关 系 提 升 了。 
@@ -247,7 +247,7 @@ qstr_N/A|无 效
 qstr_Free|自 由 行 动 中 
 qstr_Any_Weapon|任 意 武 器 
 qstr_Blunt_Weapons|钝 击 武 器 
-qstr_You_receive_an_item_|You receive an item as a token of appreciation for joining this faction.{***}
+qstr_You_receive_an_item_|因 为 国 王 赞 赏 你 加 入 这 个 阵 营 的 举 动， 你 获 得 了 一 件 物 品。 
 qstr_{s1}_Rebels|{s1}叛 军 
 qstr_Given_by:_{s62}|给 予 人 ： {s62}
 qstr_Given_on:_{s60}|开 始 于 ： {s60}
@@ -265,21 +265,21 @@ qstr_Poor|贫 穷
 qstr_Average|一 般 
 qstr_Rich|富 有 
 qstr_Very_Rich|非 常 富 有 
-qstr_common_bandits:_{reg|common bandits: {reg20}{***}
-qstr_forest_bandits:_{reg|forest bandits: {reg21}{***}
-qstr_sea_raiders:_{reg22}|sea raiders: {reg22}{***}
-qstr_robber_knights:_{reg|robber knights: {reg23}{***}
-qstr_desert_bandits:_{reg|desert bandits: {reg24}{***}
-qstr_steppe_bandits:_{reg|steppe bandits: {reg25}{***}
-qstr_taiga_bandits:_{reg2|taiga bandits: {reg25}{***}
-qstr_Lairs|Lairs{***}
-qstr_steppe:_{reg27}|steppe: {reg27}{***}
-qstr_common:{reg28}|common:{reg28}{***}
-qstr_sea_raider:{reg29}|sea raider:{reg29}{***}
-qstr_forest:{reg30}|forest:{reg30}{***}
-qstr_desert:{reg31}|desert:{reg31}{***}
-qstr_knights:{reg32}|knights:{reg32}{***}
-qstr_taiga:{reg33}|taiga:{reg33}{***}
+qstr_common_bandits:_{reg|强 盗： {reg20}
+qstr_forest_bandits:_{reg|森 林 强 盗： {reg21}
+qstr_sea_raiders:_{reg22}|海 寇： {reg22}
+qstr_robber_knights:_{reg|强 盗 骑 士： {reg23}
+qstr_desert_bandits:_{reg|沙 漠 强 盗： {reg24}
+qstr_steppe_bandits:_{reg|草 原 强 盗： {reg25}
+qstr_taiga_bandits:_{reg2|雪 原 强 盗： {reg25}
+qstr_Lairs|老 巢 
+qstr_steppe:_{reg27}|草 原 强 盗： {reg27}
+qstr_common:{reg28}|强 盗： {reg28}
+qstr_sea_raider:{reg29}|海 寇： {reg29}
+qstr_forest:{reg30}|森 林 强 盗： {reg30}
+qstr_desert:{reg31}|沙 漠 强 盗： {reg31}
+qstr_knights:{reg32}|强 盗 骑 士： {reg32}
+qstr_taiga:{reg33}|雪 原 强 盗： {reg33}
 qstr_Manor|庄 园 
 qstr_A_manor_lets_you_res|有 了 一 个 庄 园， 你 就 可 以 在 村 子 中 休 息， 而 且 在 此 期 间 你 只 用 付 相 当 于 平 时 一 半 的 工 资 给 你 的 部 队。 
 qstr_Mill|磨 坊 
@@ -296,7 +296,7 @@ qstr_Prosperity_of_{s2}_h|{s2}的 繁 荣 度 从 {s3}变 到 {s4}。
 qstr_{s10}___home_{s14}_c|{s10} - home {s14} contacts {s15} faction {s16}{***}
 qstr_clash_with:_{s11}_an|clash with: {s11} and {s12} kingdom opponent: {s13}{***}
 qstr_morality_type:_{reg1|morality type: {reg10}/{reg11} morality2 type: {reg12}/{reg13}{***}
-qstr_reputation:_{reg14}|reputation: {reg14}{***}
+qstr_reputation:_{reg14}|声 望： {reg14}
 qstr_{s4}_looks_upset.|{s4}看 起 来 很 失 落。 
 qstr_your_party|你 的 部 队 
 qstr_{reg0?One_of_your_pr|{reg0?你 的 一 个 俘 虏 :俘 虏 }{s3}的 {s1}从 监 狱 逃 跑 了！ 
@@ -307,7 +307,7 @@ qstr_I_heard_that_they_pa|我 听 说 {s62}在 {s63}卖 的 很 贵。
 qstr_attacks_neutral_{s20|attacks neutral {s20} {s21}{***}
 qstr_two_days_ago|两 天 之 前 
 qstr_target:_{s51}___{reg|target: {s51} - {reg22} actor: {s52} - {reg23} strength ratio: {reg21} war damage: {reg24}{***}
-qstr_I_m_sorry_we_take_vo|I'm sorry, we take vows of chastity here and are not allowed to marry.{***}
+qstr_I_m_sorry_we_take_vo|对 不 起， 我 已 经 许 下 了 贞 洁 的 誓 言， 一 輩 子 不 允 许 结 婚。 
 qstr_Best_threat_of_{s4}_|最 有 威 胁 的 {s4}价 值 等 级 为 {reg1}
 qstr_No_center_found_to_d|没 发 现 防 守 地 点 
 qstr_You_gain_right_to_ru|你 获 得 统 治 权。 
