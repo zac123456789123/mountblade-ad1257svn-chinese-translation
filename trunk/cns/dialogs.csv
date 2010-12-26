@@ -442,61 +442,61 @@ dlga_dplmc_chancellor_talk_household:dplmc_chancellor_pretalk|您 应 该 把 �
 dlga_dplmc_chancellor_talk:close_window|再 见！ 
 dlga_start:dplmc_constable_talk|永 远 为 您 服 务！ 
 dlga_dplmc_constable_pretalk:dplmc_constable_talk|您 还 有 什 么 事 么， 大 人？ 
-dlga_dplmc_constable_talk:dplmc_constable_talk_ask_war|How goes the war?{***}
-dlga_dplmc_constable_talk_ask_war:dplmc_constable_talk_ask_war_2|{s12}{***}
-dlga_dplmc_constable_talk_ask_war_2:dplmc_constable_talk_ask_war_details|Tell me more about the war with {s1}.{***}
-dlga_dplmc_constable_talk_ask_war_2:dplmc_constable_pretalk|That's all I wanted to know. Thank you.{***}
-dlga_dplmc_constable_talk_ask_war_details:dplmc_constable_talk_ask_war_2|{s9}.{***}
-dlga_dplmc_constable_talk:dplmc_constable_talk_ask_prisoner|I want to release a prisoner.{***}
-dlga_dplmc_constable_talk_ask_prisoner:dplmc_constable_talk_prisoner_select|Alright, which prisoner do you want to release?{***}
-dlga_dplmc_constable_talk_prisoner_select:dplmc_constable_exchange_prisoner_ask_confirm|{s10} of {s11}.{***}
-dlga_dplmc_constable_talk_prisoner_select:dplmc_constable_pretalk|No one.{***}
-dlga_dplmc_constable_exchange_prisoner_ask_confirm:dplmc_constable_exchange_prisoner_confirm|As you wish, I will tell the prison guard to release {s10} of {s11}.{***}
-dlga_dplmc_constable_exchange_prisoner_confirm:dplmc_constable_pretalk|Very well.{***}
-dlga_dplmc_constable_exchange_prisoner_confirm:dplmc_constable_pretalk.1|No, I changed my mind.{***}
-dlga_dplmc_constable_talk:dplmc_constable_reports_ask|Please give me a report.{***}
-dlga_dplmc_constable_reports_ask:dplmc_constable_reports|About what do you want to have a report?{***}
-dlga_dplmc_constable_reports:dplmc_constable_kingdom_overview|Please give me a report about the kingdom's army.{***}
-dlga_dplmc_constable_kingdom_overview:dplmc_constable_reports_ask|{s6}{***}
-dlga_dplmc_constable_reports:dplmc_constable_overview|Please give me a report about my army.{***}
-dlga_dplmc_constable_overview:dplmc_constable_reports_ask|{s6}{***}
-dlga_dplmc_constable_reports:dplmc_constable_lord|Please give me a status report about the convoy of a lord.{***}
-dlga_dplmc_constable_lord:dplmc_constable_status_lord_select|About which lord do you like to be informed?{***}
-dlga_dplmc_constable_status_lord_select:dplmc_constable_status_lord_info|{s11}.{***}
-dlga_dplmc_constable_status_lord_select:dplmc_constable_reports_ask|Never mind.{***}
-dlga_dplmc_constable_status_lord_info:dplmc_constable_lord|{s1} {s51} {s52}{***}
-dlga_dplmc_constable_status_lord_info:dplmc_constable_status_lord_info_6|{s1} {s51} {s52}{***}
-dlga_dplmc_constable_status_lord_info_6:dplmc_constable_lord|{s52}{***}
-dlga_dplmc_constable_reports:dplmc_constable_status|Please give me a status report about the garrison of a fief.{***}
-dlga_dplmc_constable_status:dplmc_constable_status_select_fief|About which fief do you like to be informed?{***}
-dlga_dplmc_constable_status_select_fief:dplmc_constable_status_info|{s60}.{***}
-dlga_dplmc_constable_status_info:dplmc_constable_status|{s51} {s52}{***}
-dlga_dplmc_constable_status_info:dplmc_constable_status_info_6|{s51} {s52}{***}
-dlga_dplmc_constable_status_info_6:dplmc_constable_status|{s52}{***}
-dlga_dplmc_constable_status_select_fief:dplmc_constable_reports_ask|Never mind.{***}
-dlga_dplmc_constable_reports:dplmc_constable_pretalk|Thank you, that's all for now.{***}
-dlga_dplmc_constable_talk:dplmc_constable_recruits_and_training_ask|Let's talk about recruits and training.{***}
-dlga_dplmc_constable_recruits_and_training_ask:dplmc_constable_recruits_and_training|Of course.{***}
-dlga_dplmc_constable_recruits_and_training:dplmc_constable_train_ask|Can you train some recruits, please?{***}
-dlga_dplmc_constable_train_ask:dplmc_constable_train_select|Of course, where should I train them?{***}
-dlga_dplmc_constable_train_select:dplmc_constable_train_type_ask|{s11}.{***}
-dlga_dplmc_constable_train_type_ask:dplmc_constable_train_type|Do you prefer melee or ranged units?{***}
-dlga_dplmc_constable_train_type:dplmc_constable_train_center|Melee.{***}
-dlga_dplmc_constable_train_type:dplmc_constable_train_center.1|Ranged.{***}
-dlga_dplmc_constable_train_type:dplmc_constable_pretalk|Neither.{***}
-dlga_dplmc_constable_train_center:dplmc_constable_pretalk|Alright, I will train the recruits in {s11}. {s12} Please, make sure we have enough money in the treasury to pay the equipment.{***}
-dlga_dplmc_constable_train_select:dplmc_constable_pretalk|I changed my mind, maybe you shouldn't train them.{***}
-dlga_dplmc_constable_recruits_and_training:dplmc_constable_train_stop|Please stop training the recruits in {s11}.{***}
-dlga_dplmc_constable_train_stop:dplmc_constable_pretalk|As you wish.{***}
-dlga_dplmc_constable_recruits_and_training:dplmc_constable_recruit|I want to recruit new soldiers.{***}
-dlga_dplmc_constable_recruit:dplmc_constable_pretalk|We need a treasury to recruit new soldiers. You have to appoint a chamberlain first.{***}
-dlga_dplmc_constable_recruit:dplmc_constable_pretalk.1|You have already hired the maximum amount of {reg0?4:2} recruiters from this {reg0?town:castle}.{***}
-dlga_dplmc_constable_recruit:dplmc_constable_recruit_select|If you want, I will send someone to visit villages and recruit population to your forces. After he has collected the amount you ordered he returns to this {reg0?town:castle} and puts the recruits in the garrison. There's a limit for concurrent recruiters, which is 2 for castles and 4 for towns. What kind of recruits do you want?{***}
-dlga_dplmc_constable_recruit_select:dplmc_constable_recruit_type|Andalusian{***}
-dlga_dplmc_constable_recruit_select:dplmc_constable_recruit_type.1|Baltic{***}
-dlga_dplmc_constable_recruit_select:dplmc_constable_recruit_type.2|Baltic{***}
-dlga_dplmc_constable_recruit_select:dplmc_constable_recruit_type.3|Byzantine{***}
-dlga_dplmc_constable_recruit_select:dplmc_constable_recruit_type.4|Crusaders{***}
+dlga_dplmc_constable_talk:dplmc_constable_talk_ask_war|战 事 进 行 的 如 何 了？ 
+dlga_dplmc_constable_talk_ask_war:dplmc_constable_talk_ask_war_2|{s12}。 
+dlga_dplmc_constable_talk_ask_war_2:dplmc_constable_talk_ask_war_details|告 诉 我 更 多 和 {s1}的 战 争 的 情 况。 
+dlga_dplmc_constable_talk_ask_war_2:dplmc_constable_pretalk|这 就 是 我 想 知 道 的， 谢 谢。 
+dlga_dplmc_constable_talk_ask_war_details:dplmc_constable_talk_ask_war_2|{s9}。 
+dlga_dplmc_constable_talk:dplmc_constable_talk_ask_prisoner|我 想 要 释 放 一 个 囚 犯。 
+dlga_dplmc_constable_talk_ask_prisoner:dplmc_constable_talk_prisoner_select|好 的， 你 想 要 释 放 哪 一 个？ 
+dlga_dplmc_constable_talk_prisoner_select:dplmc_constable_exchange_prisoner_ask_confirm|{s11}的 {s10}。 
+dlga_dplmc_constable_talk_prisoner_select:dplmc_constable_pretalk|算 了。 
+dlga_dplmc_constable_exchange_prisoner_ask_confirm:dplmc_constable_exchange_prisoner_confirm|如 你 所 愿， 我 会 让 地 牢 守 卫 释 放 {s11} 的 {s10}。 
+dlga_dplmc_constable_exchange_prisoner_confirm:dplmc_constable_pretalk|很 好。 
+dlga_dplmc_constable_exchange_prisoner_confirm:dplmc_constable_pretalk.1|不， 我 改 变 主 意 了。 
+dlga_dplmc_constable_talk:dplmc_constable_reports_ask|请 给 我 一 份 报 告。 
+dlga_dplmc_constable_reports_ask:dplmc_constable_reports|你 想 要 关 于 哪 方 面 的 报 告？ 
+dlga_dplmc_constable_reports:dplmc_constable_kingdom_overview|请 给 我 一 份 我 国 军 队 的 报 告。 
+dlga_dplmc_constable_kingdom_overview:dplmc_constable_reports_ask|{s6}。 
+dlga_dplmc_constable_reports:dplmc_constable_overview|请 给 我 一 份 关 于 敌 军 军 队 的 报 告。 
+dlga_dplmc_constable_overview:dplmc_constable_reports_ask|{s6}。 
+dlga_dplmc_constable_reports:dplmc_constable_lord|请 给 我 一 份 关 于 某 个 领 主 的 军 队 的 报 告。 
+dlga_dplmc_constable_lord:dplmc_constable_status_lord_select|您 希 望 知 道 哪 位 领 主 的 军 队 情 况？ 
+dlga_dplmc_constable_status_lord_select:dplmc_constable_status_lord_info|{s11}。 
+dlga_dplmc_constable_status_lord_select:dplmc_constable_reports_ask|算 了。 
+dlga_dplmc_constable_status_lord_info:dplmc_constable_lord|{s1} {s51} {s52}。 
+dlga_dplmc_constable_status_lord_info:dplmc_constable_status_lord_info_6|{s1} {s51} {s52}。 
+dlga_dplmc_constable_status_lord_info_6:dplmc_constable_lord|{s52}。 
+dlga_dplmc_constable_reports:dplmc_constable_status|请 给 我 一 份 关 于 某 个 封 地 驻 军 情 况 的 报 告。 
+dlga_dplmc_constable_status:dplmc_constable_status_select_fief|您 希 望 知 道 那 一 个 封 地 的 驻 军 情 况？ 
+dlga_dplmc_constable_status_select_fief:dplmc_constable_status_info|{s60}。 
+dlga_dplmc_constable_status_info:dplmc_constable_status|{s51} {s52}。 
+dlga_dplmc_constable_status_info:dplmc_constable_status_info_6|{s51} {s52}。 
+dlga_dplmc_constable_status_info_6:dplmc_constable_status|{s52}。 
+dlga_dplmc_constable_status_select_fief:dplmc_constable_reports_ask|算 了。 
+dlga_dplmc_constable_reports:dplmc_constable_pretalk|谢 谢， 就 这 些。 
+dlga_dplmc_constable_talk:dplmc_constable_recruits_and_training_ask|让 我 们 来 谈 谈 招 募 和 训 练 新 军。 
+dlga_dplmc_constable_recruits_and_training_ask:dplmc_constable_recruits_and_training|好 的。 
+dlga_dplmc_constable_recruits_and_training:dplmc_constable_train_ask|你 能 训 练 一 些 新 兵 吗？ 
+dlga_dplmc_constable_train_ask:dplmc_constable_train_select|当 然， 你 需 要 我 训 练 哪 里 的 新 兵？ 
+dlga_dplmc_constable_train_select:dplmc_constable_train_type_ask|{s11}。 
+dlga_dplmc_constable_train_type_ask:dplmc_constable_train_type|你 希 望 他 们 成 为 那 种 类 型 的 部 队， 近 战 部 队 还 是 远 程 部 队？ 
+dlga_dplmc_constable_train_type:dplmc_constable_train_center|近 战 部 队。 
+dlga_dplmc_constable_train_type:dplmc_constable_train_center.1|远 程 部 队。 
+dlga_dplmc_constable_train_type:dplmc_constable_pretalk|算 了。 
+dlga_dplmc_constable_train_center:dplmc_constable_pretalk|好 的。 我 会 训 练 {s11}的 新 兵。 {s12} 请 确 保 您 在 金 库 中 有 足 够 的 钱 支 付 装 备 的 费 用。 
+dlga_dplmc_constable_train_select:dplmc_constable_pretalk|我 改 变 主 意 了。 或 许 用 不 着 你 训 练 新 兵 了。 
+dlga_dplmc_constable_recruits_and_training:dplmc_constable_train_stop|请 停 止 训 练 {s11}的 新 兵。 
+dlga_dplmc_constable_train_stop:dplmc_constable_pretalk|如 你 所 愿。 
+dlga_dplmc_constable_recruits_and_training:dplmc_constable_recruit|我 想 要 招 募 一 些 新 兵。 
+dlga_dplmc_constable_recruit:dplmc_constable_pretalk|我 们 需 要 设 立 金 库 以 招 募 新 兵。 您 必 须 先 任 命 一 名 大 臣。 
+dlga_dplmc_constable_recruit:dplmc_constable_pretalk.1|你 已 经 从 {reg0? 城 镇： 城 堡} 招 募 了 最 大 数 量 的 {reg0? 4:2} 新 兵。 
+dlga_dplmc_constable_recruit:dplmc_constable_recruit_select|如 果 您 需 要， 我 会 派 人 去 各 个 村 庄 为 您 的 军 队 招 募 新 兵。 募 兵 官 会 在 招 募 到 您 指 定 人 数 的 新 兵 后 回 到 {reg0? 城 :城 堡 } 并 将 新 兵 安 置 在 驻 军 中。每 座 城 堡 有 两 名 募 兵 官。 每 座 城 镇 有 四 名 募 兵 官。 您 希 望 招 募 哪 个 国 家 的 新 兵？ 
+dlga_dplmc_constable_recruit_select:dplmc_constable_recruit_type|安 达 卢 西 亚。 
+dlga_dplmc_constable_recruit_select:dplmc_constable_recruit_type.1|波 罗 的 海。 
+dlga_dplmc_constable_recruit_select:dplmc_constable_recruit_type.2|波 罗 的 海。 
+dlga_dplmc_constable_recruit_select:dplmc_constable_recruit_type.3|拜 占 庭。 
+dlga_dplmc_constable_recruit_select:dplmc_constable_recruit_type.4|十 字 军。
 dlga_dplmc_constable_recruit_select:dplmc_constable_recruit_type.5|Eastern European{***}
 dlga_dplmc_constable_recruit_select:dplmc_constable_recruit_type.6|European{***}
 dlga_dplmc_constable_recruit_select:dplmc_constable_recruit_type.7|Gaelic{***}
