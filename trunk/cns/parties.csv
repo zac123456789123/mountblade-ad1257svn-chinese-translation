@@ -1,4 +1,4 @@
-﻿p_zendar|禅 达 
+p_zendar|禅 达 
 p_town_1|克 拉 科 夫 
 p_town_2|弗 罗 茨 瓦 夫 
 p_town_3|格 但 斯 克 
@@ -28,7 +28,7 @@ p_town_6_6|吕 贝 克
 p_town_6_7|热 那 亚 
 p_town_7_1|瓦 拉 德 
 p_town_7_2|萨 格 勒 布 
-p_town_7_3|布 拉 迪 斯 拉 发
+p_town_7_3|布 拉 迪 斯 拉 发 
 p_town_7_4|塞 格 德 
 p_town_8_1|诺 夫 哥 罗 德 
 p_town_8_2|旧 鲁 萨 
@@ -46,7 +46,7 @@ p_town_10_5|鲁 昂
 p_town_10_6|普 罗 旺 斯 艾 克 斯 
 p_town_11_1|尼 德 罗 斯 
 p_town_11_2|卑 尔 根 
-p_town_11_3|奥 斯 陆 {***}（Ásló？）
+p_town_11_3|奥 斯 陆
 p_town_12_1|斯 特 灵 
 p_town_12_2|格 拉 斯 哥 
 p_town_13_1|多 尼 戈 尔 
@@ -80,7 +80,7 @@ p_town_24_2|那 不 勒 斯
 p_town_25_1|开 罗 
 p_town_25_2|亚 历 山 大 
 p_town_25_3|杜 姆 亚 特 
-p_town_26_1|君 士 坦 丁 
+p_town_26_1|君 士 坦 丁 堡 
 p_town_26_2|雅 典 
 p_town_27_1|特 拉 比 松 
 p_town_27_2|安 卡 拉 
@@ -106,7 +106,7 @@ p_castle_1_1|阿 伦 斯 堡
 p_castle_1_2|巴 尔 加 
 p_castle_1_3|维 尔 扬 迪 
 p_castle_1_4|奥 登 斯 堡 
-p_castle_1_5|塔 尔 图 
+p_castle_1_5|多 尔 帕 特 
 p_castle_1_6|林 巴 日 
 p_castle_1_7|图 尔 登 
 p_castle_1_8|玛 丽 恩 韦 德 
@@ -177,11 +177,11 @@ p_castle_10_9|桑 斯
 p_castle_10_10|希 农 
 p_castle_10_11|阿 拉 斯 
 p_castle_10_12|昂 热 
-p_castle_11_1|博 格 若 {***}
+p_castle_11_1|博 格 若 
 p_castle_11_2|勃 艮 第 
 p_castle_11_3|斯 塔 万 格 
 p_castle_11_4|滕 斯 贝 格 
-p_castle_11_5|Ragnhildarhólmr{***}
+p_castle_11_5|拉 恩 希 尔 达 摩 
 p_castle_11_6|马 恩 
 p_castle_12_1|厄 科 特 堡 
 p_castle_12_2|丁 沃 尔 堡 
@@ -190,7 +190,7 @@ p_castle_12_4|爱 丁 堡
 p_castle_13_1|斯 莱 戈 
 p_castle_13_2|塔 利 霍 格 福 特 堡 
 p_castle_13_3|布 拉 尼 堡 
-p_castle_13_4|卡 瑞 克 阿 布 拉 吉 堡 {***}（音译）
+p_castle_13_4|卡 瑞 克 阿 布 拉 吉 堡 
 p_castle_14_1|卡 尔 马 尼 尔 
 p_castle_14_2|斯 德 哥 尔 摩 
 p_castle_14_3|斯 卡 拉 
@@ -200,7 +200,7 @@ p_castle_14_6|林 雪 平
 p_castle_15_1|普 热 梅 希 尔 
 p_castle_15_2|卢 茨 克 
 p_castle_15_3|德 罗 希 琴 
-p_castle_15_4|巴 库 玛 {***}（音译）
+p_castle_15_4|巴 库 玛 
 p_castle_15_5|Bereste{***}
 p_castle_15_6|Terebovl{***}
 p_castle_16_1|吉 马 良 斯 
@@ -229,10 +229,10 @@ p_castle_22_2|安 塔 利 亚
 p_castle_22_3|索 佐 波 利 斯 
 p_castle_22_4|以 弗 所 
 p_castle_22_5|推 雅 推 喇 
-p_castle_22_6|埃 德 雷 米 特 
-p_castle_23_1|胡 森 堡 
+p_castle_22_6|亚 大 米 田 
+p_castle_23_1|克 拉 克 骑 士 堡 
 p_castle_23_2|蒙 福 特 堡 
-p_castle_23_3|的 黎 波 里 {***}（重名）
+p_castle_23_3|的 黎 波 里
 p_castle_24_1|雷 焦 
 p_castle_24_2|巴 里 
 p_castle_24_3|梅 尔 菲 
@@ -241,13 +241,13 @@ p_castle_25_1|曼 苏 拉
 p_castle_25_2|阿 里 什 
 p_castle_25_3|伊 斯 梅 利 亚 
 p_castle_25_4|亚 喀 巴 
-p_castle_25_5|巴 尔 卡 {***}
+p_castle_25_5|巴 尔 卡
 p_castle_25_6|卡 拉 克 
 p_castle_25_7|贝 尼 苏 韦 夫 
 p_castle_26_1|拉 里 萨 
 p_castle_26_2|约 阿 尼 纳 
 p_castle_26_3|阿 德 里 安 堡 
-p_castle_26_4|Chrystoupolis{***}
+p_castle_26_4|克 里 斯 托 普 利 斯 
 p_castle_27_1|埃 尔 梅 内 克 
 p_castle_27_2|阿 马 西 亚 
 p_castle_27_3|埃 尔 津 詹 
@@ -256,12 +256,12 @@ p_castle_27_5|拉 佳
 p_castle_27_6|卡 尔 斯 
 p_castle_28_1|凯 鲁 万 
 p_castle_28_2|凯 里 卜 
-p_castle_28_3|Dar Sidi al Azhar{***}
+p_castle_28_3|达 西 第 艾 兹 哈 尔
 p_castle_28_4|贝 贾 亚 
 p_castle_28_5|加 贝 斯 
 p_castle_28_6|苏 尔 特 
 p_castle_29_1|鲁 德 尼 克 
-p_castle_29_2|Bar{***}
+p_castle_29_2|巴 尔 
 p_castle_30_1|锡 利 斯 特 拉 
 p_castle_30_2|内 塞 伯 尔 
 p_castle_30_3|维 丁 
@@ -273,7 +273,7 @@ p_village_3|蒂 涅 茨
 p_village_4|希 维 德 尼 察 
 p_village_5|博 莱 斯 瓦 维 茨 
 p_village_6|奥 斯 特 鲁 夫
-p_village_7|Giecz{***}
+p_village_7|格 耶 茨 
 p_village_8|切 尔 斯 克 
 p_village_9|弗 沃 茨 瓦 韦 克 
 p_village_10|拉 席 波 尔 兹 
@@ -284,8 +284,8 @@ p_village_14|科 沃 布 热 格
 p_village_15|别 奇 
 p_village_16|奥 斯 特 罗 维 茨 
 p_village_1_1|雷 登 
-p_village_1_2|斯 特 拉 斯 {***}斯特拉斯堡（重名）
-p_village_1_3|考 肯 奥 森 {***}科克尼奥森（拉脱维亚语）科肯豪森（Johnney）科克涅特（无名）
+p_village_1_2|斯 特 拉 斯 
+p_village_1_3|科 肯 豪 森 
 p_village_1_4|克 列 瓦 
 p_village_1_5|拉 克 尼 特 
 p_village_1_6|维 森 贝 格 
@@ -294,7 +294,7 @@ p_village_1_8|巴 特 施 泰 因
 p_village_1_9|布 劳 恩 斯 贝 格 
 p_village_1_10|罗 西 腾 
 p_village_1_11|沃 尔 玛 
-p_village_1_12|梅 梅 尔 堡 {***}
+p_village_1_12|梅 梅 尔 堡 
 p_village_1_13|摩 纳 
 p_village_1_14|奥 斯 特 罗 德 
 p_village_1_15|佩 多 莱 
@@ -303,17 +303,17 @@ p_village_1_17|海 尔 斯 贝 格
 p_village_2_1|布 拉 若 雷 
 p_village_2_2|拜 耳 斯 盖 聂 
 p_village_2_3|乌 热 帕 列 
-p_village_2_4|Vosgeliai{***}
-p_village_2_5|Veliuona{***}
-p_village_2_6|Ukmergė{***}
-p_village_2_7|Ariogala{***}
-p_village_2_8|Bratslav{***}
-p_village_2_9|Betygala{***}
-p_village_2_10|利 达 {***}里加
+p_village_2_4|沃 斯 基 利 
+p_village_2_5|维 琉 欧 纳 
+p_village_2_6|乌 克 梅 尔 盖 
+p_village_2_7|阿 利 欧 加 拉 
+p_village_2_8|布 拉 斯 拉 夫 
+p_village_2_9|贝 提 加 拉 
+p_village_2_10|里 加 
 p_village_2_11|斯 洛 尼 姆 
 p_village_2_12|Sluck{***}
 p_village_2_13|鲍 里 索 夫 
-p_village_2_14|克 莱 茨 克 {***}克莱斯克
+p_village_2_14|克 莱 茨 克 
 p_village_2_15|奥 尔 沙 
 p_village_2_16|Nianviz{***}
 p_village_3_1|库 尔 斯 克 
@@ -323,30 +323,30 @@ p_village_3_4|罗 斯 托 夫
 p_village_3_5|鲍 里 索 夫 卡 
 p_village_3_6|苏 兹 达 尔 
 p_village_3_7|科 泽 利 斯 克 
-p_village_3_8|Novgorod Seversky{***}
+p_village_3_8|诺 夫 哥 罗 德 - 谢 韦 尔 斯 基
 p_village_3_9|布 罗 伐 利 
 p_village_3_10|杰 米 多 夫 
 p_village_3_11|穆 罗 姆 
-p_village_3_12|蒙 古 营 地 I
-p_village_3_13|蒙 古 营 地 II
-p_village_3_14|蒙 古 营 地 III
-p_village_3_15|蒙 古 营 地 IV
-p_village_4_1|Slangæþorp{***}
-p_village_4_2|Køpmannæhofn{***}
-p_village_4_3|Þræleburgh{***}
-p_village_4_4|Borgundærhólmr{***}
-p_village_4_5|Narvia{***}
-p_village_4_6|Wesenbærgh{***}
-p_village_4_7|Randrøsæ{***}
-p_village_4_8|Álæburgh{***}
-p_village_4_9|Hjóring{***}
-p_village_4_10|Ripæ{***}
+p_village_3_12|蒙 古 营 寨 I
+p_village_3_13|蒙 古 营 寨 II
+p_village_3_14|蒙 古 营 寨 III
+p_village_3_15|蒙 古 营 寨 IV
+p_village_4_1|斯 兰 格 鲁 普 
+p_village_4_2|哥 本 哈 根 
+p_village_4_3|特 雷 勒 堡 
+p_village_4_4|勃 艮 达 尔 摩 
+p_village_4_5|纳 尔 瓦 
+p_village_4_6|维 森 贝 格 
+p_village_4_7|兰 讷 斯 
+p_village_4_8|奥 尔 堡 
+p_village_4_9|约 灵 
+p_village_4_10|里 伯 
 p_village_4_11|霍 尔 森 斯 
-p_village_4_12|Oþænswé{***}
-p_village_4_13|Flænsburgh{***}
-p_village_4_14|Halmstaþr{***}
-p_village_4_15|Falkenbærgh{***}
-p_village_4_16|Ringstaþr{***}
+p_village_4_12|欧 登 塞 
+p_village_4_13|弗 伦 斯 博 格 
+p_village_4_14|哈 尔 姆 斯 塔 德 
+p_village_4_15|法 尔 肯 贝 里 
+p_village_4_16|灵 斯 泰 兹 
 p_village_6_1|不 莱 梅 
 p_village_6_2|科 布 伦 茨 
 p_village_6_3|海 德 堡 
@@ -365,30 +365,30 @@ p_village_6_15|维 尔 茨 堡
 p_village_6_16|雷 根 斯 堡 
 p_village_6_17|维 滕 贝 格 
 p_village_6_18|汉 堡 
-p_village_6_19|Den Bosch{***}
+p_village_6_19|登 博 斯 
 p_village_6_20|斯 潘 道 
 p_village_6_21|布 鲁 塞 尔 
 p_village_6_22|林 堡 
 p_village_6_23|赫 拉 兹 
 p_village_6_24|弗 利 萨 赫 
 p_village_6_25|坎 波 莫 罗 内 
-p_village_6_26|Bargagli{***}
-p_village_7_1|克 雷 姆 尼 察 {***}（斯洛伐克语）
+p_village_6_26|巴 尔 伽 利 
+p_village_7_1|克 雷 姆 尼 察 
 p_village_7_2|佩 奇 
 p_village_7_3|佩 斯 
-p_village_7_4|克 鲁 斯 瓦 {***}（音译）克鲁斯堡
+p_village_7_4|克 鲁 斯 瓦 
 p_village_7_5|Ikervar{***}
 p_village_7_6|Tolchva{***}
 p_village_7_7|Jaska{***}
 p_village_7_8|Jablanac{***}
 p_village_7_9|维 斯 普 雷 姆 
 p_village_7_10|曾 格 
-p_village_7_11|小 克 勒 什 {***}（现名）
+p_village_7_11|小 克 勒 什 
 p_village_7_12|阿拉德
 p_village_7_13|Zyloc{***}
 p_village_7_14|布 达 
 p_village_7_15|乔 纳 德 
-p_village_7_16|泰 梅 什 瓦 {***}（音译）  泰梅什堡
+p_village_7_16|蒂 米 什 瓦 拉 
 p_village_8_1|拉 多 加 
 p_village_8_2|希 姆 斯 基 
 p_village_8_3|佩 斯 基 
@@ -401,7 +401,7 @@ p_village_9_3|吉 尔 福 德
 p_village_9_4|布 赖 顿 
 p_village_9_5|阿 伯 里 斯 特 威 斯 
 p_village_9_6|圣 艾 夫 斯 
-p_village_9_7|奥 克 斯 福 德 
+p_village_9_7|牛 津 
 p_village_9_8|诺 威 奇 
 p_village_9_9|赫 里 福 德 
 p_village_9_10|威 根 
@@ -432,7 +432,7 @@ p_village_10_15|亚 维 农
 p_village_10_16|坎 佩 尔 
 p_village_10_17|土 伦 
 p_village_10_18|芒 德 
-p_village_10_19马 赛 
+p_village_10_19|Marseille{***}
 p_village_10_20|贝 桑 松 
 p_village_10_21|拉 昂 
 p_village_10_22|讷 韦 尔 
@@ -617,7 +617,7 @@ p_village_29_5|Srbovac{***}
 p_village_29_6|Kobilja Glava{***}
 p_village_30_1|Tryavna{***}
 p_village_30_2|切 尔 文 
-p_village_30_3|康 斯 坦 萨 {***}译自罗马尼亚语
+p_village_30_3|康 斯 坦 萨 
 p_village_30_4|瓦 尔 纳 
 p_village_30_5|贝 洛 格 拉 齐 克 
 p_village_30_6|Preslav{***}

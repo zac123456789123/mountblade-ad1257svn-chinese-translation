@@ -1,4 +1,4 @@
-﻿trp_multiplayer_profile_troop_male|联 机 男 性 玩 家 角 色 
+trp_multiplayer_profile_troop_male|联 机 男 性 玩 家 角 色 
 trp_multiplayer_profile_troop_male_pl|联 机 男 性 玩 家 角 色 
 trp_multiplayer_profile_troop_female|联 机 女 性 玩 家 角 色 
 trp_multiplayer_profile_troop_female_pl|联 机 女 性 玩 家 角 色 
@@ -20,8 +20,8 @@ trp_novice_fighter|初 级 斗 士
 trp_novice_fighter_pl|初 级 斗 士 
 trp_regular_fighter|职 业 斗 士 
 trp_regular_fighter_pl|职 业 斗 士 
-trp_veteran_fighter|精 英 斗 士 
-trp_veteran_fighter_pl|精 英 斗 士 
+trp_veteran_fighter|资 深 斗 士 
+trp_veteran_fighter_pl|资 深 斗 士 
 trp_champion_fighter|格 斗 大 师
 trp_champion_fighter_pl|格 斗 大 师
 trp_arena_training_fighter_1|初 级 斗 士 
@@ -112,8 +112,8 @@ trp_merc_welsh_bowman|威 尔 士 雇 佣 弓 箭 手
 trp_merc_welsh_bowman_pl|威 尔 士 雇 佣 弓 箭 手 
 trp_merc_kern_infantry|盖 尔 兰 佣 兵 
 trp_merc_kern_infantry_pl|盖 尔 兰 佣 兵 
-trp_merc_almogabar|雇 用 掷 矛 手 
-trp_merc_almogabar_pl|雇 用 掷 矛 手 
+trp_merc_almogabar|雇 佣 掷 矛 手 
+trp_merc_almogabar_pl|雇 佣 掷 矛 手 
 trp_cuman_tribesman|库 曼 族 人 
 trp_cuman_tribesman_pl|库 曼 族 人 
 trp_cuman_skirmisher|库 曼 斥 候 骑 兵
@@ -172,8 +172,8 @@ trp_teutonic_messenger|条 顿 信 使
 trp_teutonic_messenger_pl|条 顿 信 使 
 trp_teutonic_deserter|条 顿 逃 兵 
 trp_teutonic_deserter_pl|条 顿 逃 兵 
-trp_teutonic_prison_guard|监 狱 看 守  
-trp_teutonic_prison_guard_pl|监 狱 看 守  
+trp_teutonic_prison_guard|监 狱 看 守 
+trp_teutonic_prison_guard_pl|监 狱 看 守 
 trp_teutonic_castle_guard|城 堡 守 卫 
 trp_teutonic_castle_guard_pl|城 堡 守 卫 
 trp_tatar_tribesman|蒙 古 族 人 
@@ -194,32 +194,32 @@ trp_tatar_messenger|蒙 古 信 使
 trp_tatar_messenger_pl|蒙 古 信 使 
 trp_tatar_deserter|蒙 古 逃 兵 
 trp_tatar_deserter_pl|蒙 古 逃 兵 
-trp_tatar_prison_guard|监 狱 看 守  
-trp_tatar_prison_guard_pl|监 狱 看 守  
+trp_tatar_prison_guard|监 狱 看 守 
+trp_tatar_prison_guard_pl|监 狱 看 守 
 trp_tatar_castle_guard|城 堡 守 卫 
 trp_tatar_castle_guard_pl|城 堡 守 卫 
 trp_polish_messenger|波 兰 信 使 
 trp_polish_messenger_pl|波 兰 信 使 
 trp_polish_deserter|波 兰 逃 兵 
 trp_polish_deserter_pl|波 兰 逃 兵 
-trp_polish_prison_guard|监 狱 看 守  
-trp_polish_prison_guard_pl|监 狱 看 守  
+trp_polish_prison_guard|监 狱 看 守 
+trp_polish_prison_guard_pl|监 狱 看 守 
 trp_polish_castle_guard|城 堡 守 卫 
 trp_polish_castle_guard_pl|城 堡 守 卫 
 trp_lithuanian_messenger|立 陶 宛 信 使 
 trp_lithuanian_messenger_pl|立 陶 宛 信 使 
 trp_lithuanian_deserter|立 陶 宛 逃 兵 
 trp_lithuanian_deserter_pl|立 陶 宛 逃 兵 
-trp_lithuanian_prison_guard|监 狱 看 守  
-trp_lithuanian_prison_guard_pl|监 狱 看 守  
+trp_lithuanian_prison_guard|监 狱 看 守 
+trp_lithuanian_prison_guard_pl|监 狱 看 守 
 trp_lithuanian_castle_guard|城 堡 守 卫 
 trp_lithuanian_castle_guard_pl|城 堡 守 卫 
 trp_hre_messenger|神 圣 罗 马 帝 国 信 使 
 trp_hre_messenger_pl|神 圣 罗 马 帝 国 信 使 
 trp_hre_deserter|神 圣 罗 马 帝 国 逃 兵 
 trp_hre_deserter_pl|神 圣 罗 马 帝 国 逃 兵 
-trp_hre_prison_guard|监 狱 看 守  
-trp_hre_prison_guard_pl|监 狱 看 守  
+trp_hre_prison_guard|监 狱 看 守 
+trp_hre_prison_guard_pl|监 狱 看 守 
 trp_hre_castle_guard|城 堡 守 卫 
 trp_hre_castle_guard_pl|城 堡 守 卫 
 trp_hungarian_messenger|匈 牙 利 信 使 
@@ -227,71 +227,71 @@ trp_hungarian_messenger_pl|匈 牙 利 信 使
 trp_hungarian_deserter|匈 牙 利 逃 兵 
 trp_hungarian_deserter_pl|匈 牙 利 逃 兵 
 trp_hungarian_prison_guard|监 狱 看 守 
-trp_hungarian_prison_guard_pl|监 狱 看 守  
+trp_hungarian_prison_guard_pl|监 狱 看 守 
 trp_hungarian_castle_guard|城 堡 守 卫 
 trp_hungarian_castle_guard_pl|城 堡 守 卫 
 trp_russian_messenger|诺 夫 哥 罗 德 共 和 国 信 使 
 trp_russian_messenger_pl|诺 夫 哥 罗 德 共 和 国 信 使 
 trp_russian_deserter|诺 夫 哥 罗 德 共 和 国 逃 兵 
 trp_russian_deserter_pl|诺 夫 哥 罗 德 共 和 国 逃 兵 
-trp_russian_prison_guard|监 狱 看 守  
-trp_russian_prison_guard_pl|监 狱 看 守  
+trp_russian_prison_guard|监 狱 看 守 
+trp_russian_prison_guard_pl|监 狱 看 守 
 trp_russian_castle_guard|城 堡 守 卫 
 trp_russian_castle_guard_pl|城 堡 守 卫 
 trp_danish_messenger|丹 麦 信 使 
 trp_danish_messenger_pl|丹 麦 信 使 
 trp_danish_deserter|丹 麦 逃 兵 
 trp_danish_deserter_pl|丹 麦 逃 兵 
-trp_danish_prison_guard|监 狱 守 卫  
-trp_danish_prison_guard_pl|监 狱 守 卫  
+trp_danish_prison_guard|监 狱 守 卫 
+trp_danish_prison_guard_pl|监 狱 守 卫 
 trp_danish_castle_guard|城 堡 守 卫 
 trp_danish_castle_guard_pl|城 堡 守 卫 
 trp_english_messenger|英 格 兰 信 使 
 trp_english_messenger_pl|英 格 兰 信 使 
 trp_english_deserter|英 格 兰 逃 兵 
 trp_english_deserter_pl|英 格 兰 逃 兵 
-trp_english_prison_guard|监 狱 看 守  
-trp_english_prison_guard_pl|监 狱 看 守  
+trp_english_prison_guard|监 狱 看 守 
+trp_english_prison_guard_pl|监 狱 看 守 
 trp_english_castle_guard|城 堡 守 卫 
 trp_english_castle_guard_pl|城 堡 守 卫 
 trp_french_messenger|法 兰 西 信 使 
 trp_french_messenger_pl|法 兰 西 信 使 
 trp_french_deserter|法 兰 西 逃 兵 
 trp_french_deserter_pl|法 兰 西 逃 兵 
-trp_french_prison_guard|监 狱 看 守  
-trp_french_prison_guard_pl|监 狱 看 守  
+trp_french_prison_guard|监 狱 看 守 
+trp_french_prison_guard_pl|监 狱 看 守 
 trp_french_castle_guard|城 堡 守 卫 
 trp_french_castle_guard_pl|城 堡 守 卫 
 trp_swedish_messenger|瑞 典 信 使 
 trp_swedish_messenger_pl|瑞 典 信 使 
 trp_swedish_deserter|瑞 典 逃 兵 
 trp_swedish_deserter_pl|瑞 典 逃 兵 
-trp_swedish_prison_guard|监 狱 守 卫  
-trp_swedish_prison_guard_pl|监 狱 守 卫  
-trp_swedish_castle_guard|城 堡 守 卫  
-trp_swedish_castle_guard_pl|城 堡 守 卫  
+trp_swedish_prison_guard|监 狱 守 卫 
+trp_swedish_prison_guard_pl|监 狱 守 卫 
+trp_swedish_castle_guard|城 堡 守 卫 
+trp_swedish_castle_guard_pl|城 堡 守 卫 
 trp_norwegian_messenger|挪 威 信 使 
 trp_norwegian_messenger_pl|挪 威 信 使 
 trp_norwegian_deserter|挪 威 逃 兵 
 trp_norwegian_deserter_pl|挪 威 逃 兵 
-trp_norwegian_prison_guard|监 狱 守 卫  
-trp_norwegian_prison_guard_pl|监 狱 守 卫  
-trp_norwegian_castle_guard|城 堡 守 卫  
-trp_norwegian_castle_guard_pl|城 堡 守 卫  
+trp_norwegian_prison_guard|监 狱 守 卫 
+trp_norwegian_prison_guard_pl|监 狱 守 卫 
+trp_norwegian_castle_guard|城 堡 守 卫 
+trp_norwegian_castle_guard_pl|城 堡 守 卫 
 trp_scottish_messenger|苏 格 兰 信 使 
 trp_scottish_messenger_pl|苏 格 兰 信 使 
 trp_scottish_deserter|苏 格 兰 逃 兵 
 trp_scottish_deserter_pl|苏 格 兰 逃 兵 
-trp_scottish_prison_guard|监 狱 看 守  
-trp_scottish_prison_guard_pl|监 狱 看 守  
+trp_scottish_prison_guard|监 狱 看 守 
+trp_scottish_prison_guard_pl|监 狱 看 守 
 trp_scottish_castle_guard|城 堡 守 卫 
 trp_scottish_castle_guard_pl|城 堡 守 卫 
 trp_irish_messenger|爱 尔 兰 信 使 
 trp_irish_messenger_pl|爱 尔 兰 信 使 
 trp_irish_deserter|爱 尔 兰 逃 兵 
 trp_irish_deserter_pl|爱 尔 兰 逃 兵 
-trp_irish_prison_guard|监 狱 看 守  
-trp_irish_prison_guard_pl|监 狱 看 守  
+trp_irish_prison_guard|监 狱 看 守 
+trp_irish_prison_guard_pl|监 狱 看 守 
 trp_irish_castle_guard|城 堡 守 卫 
 trp_irish_castle_guard_pl|城 堡 守 卫 
 trp_generic_village_recruit|志 愿 兵 
@@ -402,7 +402,7 @@ trp_rus_town_3_2|罗 斯 长 矛 兵
 trp_rus_town_3_2_pl|罗 斯 长 矛 兵
 trp_rus_town_4_2|罗 斯 重 装 长 矛 兵
 trp_rus_town_4_2_pl|罗 斯 重 装 长 矛 兵
-trp_rus_horse_1|罗 斯 征 招 骑 马  
+trp_rus_horse_1|罗 斯 征 招 骑 手 
 trp_rus_horse_1_pl|罗 斯 游 牧 骑 手 
 trp_rus_horse_2|罗 斯 贵 族 骑 兵 
 trp_rus_horse_2_pl|罗 斯 贵 族 骑 兵 
@@ -496,8 +496,8 @@ trp_balt_noble_2|波 罗 的 海 贵 族 重 步 兵
 trp_balt_noble_2_pl|波 罗 的 海 贵 族 重 步 兵 
 trp_balt_noble_3|波 罗 的 海 公 爵 亲 卫 
 trp_balt_noble_3_pl|波 罗 的 海 公 爵 亲 卫
-trp_crusader_turkopole|土 耳 其 游 牧 骑 手  
-trp_crusader_turkopole_pl|土 耳 其 游 牧 骑 手  
+trp_crusader_turkopole|土 耳 其 游 牧 骑 手 
+trp_crusader_turkopole_pl|土 耳 其 游 牧 骑 手 
 trp_templar_crossbows_sergeant|圣 殿 骑 士 团 重 弩 兵
 trp_templar_crossbows_sergeant_pl|圣 殿 骑 士 团 重 弩 兵
 trp_templar_swords_sergeant|圣 殿 精 锐 重 步 兵 
@@ -517,7 +517,7 @@ trp_templar_castle_guard_pl|圣 殿 城 堡 守 卫
 trp_hospitaller_swords_sergeant|医 院 精 锐 重 步 兵 
 trp_hospitaller_swords_sergeant_pl|医 院 精 锐 种 步 兵 
 trp_hospitaller_spears_sergeant|医 院 长 矛 卫 士 
-trp_hospitaller_spears_sergeant_pl|医 院 长 矛 卫 士  
+trp_hospitaller_spears_sergeant_pl|医 院 长 矛 卫 士 
 trp_hospitaller_crossbows_sergeant|医 院 骑 士 团 重 弩 兵
 trp_hospitaller_crossbows_sergeant_pl|医 院 骑 士 团 重 弩 兵
 trp_hospitaller_half_brother|医 院 骑 士 侍 从
@@ -866,7 +866,7 @@ trp_euro_horse_4|西 欧 封 建 骑 士
 trp_euro_horse_4_pl|西 欧 封 建 骑 士 
 trp_looter|劫 匪 
 trp_looter_pl|劫 匪 
-trp_raider|侵 略 者  
+trp_raider|侵 略 者 
 trp_raider_pl|侵 略 者
 trp_peasant_rebel|农 民 起 义 军
 trp_peasant_rebel_pl|农 民 起 义 军
@@ -961,8 +961,8 @@ trp_trainer|教 练
 trp_trainer_pl|教 练 
 trp_constable_hareck|治 安 官 哈 瑞 克 
 trp_constable_hareck_pl|治 安 官 哈 瑞 克 
-trp_ramun_the_slave_trader|赎 金 经 纪 人 拉 蒙 
-trp_ramun_the_slave_trader_pl|赎 金 经 纪 人 拉 蒙 
+trp_ramun_the_slave_trader|奴 隶 贩 子 拉 蒙 
+trp_ramun_the_slave_trader_pl|奴 隶 贩 子 拉 蒙 
 trp_guide|机 灵 鬼 吉 米 
 trp_guide_pl|机 灵 鬼 吉 米 
 trp_xerina|谢 瑞 娜 
@@ -1417,7 +1417,7 @@ trp_knight_4_10|彼 得 伯 爵
 trp_knight_4_10_pl|彼 得 
 trp_knight_4_11|伊 娃· 帕 格 森 伯 爵 
 trp_knight_4_11_pl|伊 娃· 帕 格 森 
-trp_knight_4_12|伊 娃· 帕 卡 森 伯 爵  
+trp_knight_4_12|伊 娃· 帕 卡 森 伯 爵 
 trp_knight_4_12_pl|伊 娃· 帕 卡 森 
 trp_knight_4_13|尼 菲 尔 坡 伯 爵 
 trp_knight_4_13_pl|尼 菲 尔 坡 
@@ -1737,8 +1737,8 @@ trp_knight_15_5|Knyaz Mstislav Danylovich{***}
 trp_knight_15_5_pl|Mstislav Danylovich{***}
 trp_knight_15_6|Knyaz Svarn Danylovich{***}
 trp_knight_15_6_pl|Svarn Danylovich{***}
-trp_knight_15_7|Knyaz Bryachislav Vasilkovich  {***}
-trp_knight_15_7_pl|Bryachislav Vasilkovich  {***}
+trp_knight_15_7|Knyaz Bryachislav Vasilkovich {***}
+trp_knight_15_7_pl|Bryachislav Vasilkovich {***}
 trp_knight_15_8|Knyaz Gleb Mstislavich{***}
 trp_knight_15_8_pl|Gleb Mstislavich{***}
 trp_knight_15_9|Knyaz Roman Vsevolodovich{***}
@@ -2183,8 +2183,8 @@ trp_kingdom_1_lady_2|奈 尔 达 女 士
 trp_kingdom_1_lady_2_pl|奈 尔 达 
 trp_kingdom_1_lady_3|Lady Bela{***}
 trp_kingdom_1_lady_3_pl|Bela{***}
-trp_kingdom_1_lady_4|Lady Elina{***}
-trp_kingdom_1_lady_4_pl|Elina{***}
+trp_kingdom_1_lady_4|易 琳 娜 女 士
+trp_kingdom_1_lady_4_pl|易 琳 娜
 trp_kingdom_l_lady_5|康 丝 坦 斯 女 士 
 trp_kingdom_l_lady_5_pl|康 丝 坦 斯 
 trp_kingdom_1_lady_6|维 拉 女 士 
@@ -4090,7 +4090,7 @@ trp_village_31_4_elder|村 庄 长 者
 trp_merchants_end|merchants end
 trp_merchants_end_pl|merchants end
 trp_local_merchant|本 地 商 人 
-trp_local_merchant_pl|本 地 货 商 人 
+trp_local_merchant_pl|本 地 商 人 
 trp_tax_rebel|造 反 的 农 民 
 trp_tax_rebel_pl|造 反 的 农 民 
 trp_trainee_peasant|农 民 
@@ -4182,8 +4182,8 @@ trp_sarranid_footman_multiplayer_pl|萨 兰 德 轻 步 兵
 trp_sarranid_mamluke_multiplayer|萨 兰 德 马 穆 鲁 克 
 trp_sarranid_mamluke_multiplayer_pl|萨 兰 德 马 穆 鲁 克 
 trp_nurse|女 仆 
-trp_quick_battle_troop_1|罗 得 里 格． 波 拉 冈 卡 
-trp_quick_battle_troop_1_pl|罗 得 里 格． 波 拉 冈 卡 
+trp_quick_battle_troop_1|罗 得 里 格· 波 拉 冈 卡 
+trp_quick_battle_troop_1_pl|罗 得 里 格· 波 拉 冈 卡 
 trp_quick_battle_troop_2|乌 塞 塔 尔 
 trp_quick_battle_troop_2_pl|乌 塞 塔 尔 
 trp_quick_battle_troop_3|荷 根 
@@ -4202,8 +4202,8 @@ trp_quick_battle_troop_9|埃 瑟 罗 德
 trp_quick_battle_troop_9_pl|埃 瑟 罗 德 
 trp_quick_battle_troop_10|塞 尔 拉 
 trp_quick_battle_troop_10_pl|塞 尔 拉 
-trp_quick_battle_troop_11|阿 罗 格． 森 德 纳 尔 
-trp_quick_battle_troop_11_pl|阿 罗 格． 森 德 纳 尔 
+trp_quick_battle_troop_11|阿 罗 格· 森 德 纳 尔 
+trp_quick_battle_troop_11_pl|阿 罗 格· 森 德 纳 尔 
 trp_tutorial_fighter_1|初 级 斗 士 
 trp_tutorial_fighter_1_pl|初 级 斗 士 
 trp_tutorial_fighter_2|初 级 斗 士 
@@ -4220,39 +4220,39 @@ trp_tutorial_rider_1|骑 手
 trp_tutorial_rider_2|骑 射 手 
 trp_tutorial_master_horseman|骑 术 教 练 
 trp_tutorial_master_horseman_pl|骑 术 教 练 
-trp_merchant_kingdom_1|Merchant of Elbing{***}
-trp_merchant_kingdom_2|Merchant of Vilnius{***}
-trp_merchant_kingdom_3|Merchant of Sarai{***}
-trp_merchant_kingdom_4|Merchant of Lund{***}
-trp_merchant_kingdom_5|Merchant of Kraków{***}
-trp_merchant_kingdom_6|Merchant of Nürnberg{***}
-trp_merchant_kingdom_7|Merchant of Varad{***}
-trp_merchant_kingdom_8|Merchant of Novgorod{***}
-trp_merchant_kingdom_9|Merchant of London{***}
-trp_merchant_kingdom_10|Merchant of Paris{***}
-trp_merchant_kingdom_11|Merchant of Niðarós{***}
-trp_merchant_kingdom_12|Merchant of Stirling{***}
-trp_merchant_kingdom_13|Merchant of Donegal{***}
-trp_merchant_kingdom_14|Merchant of Westraarus{***}
-trp_merchant_kingdom_15|Merchant of Lvov{***}
-trp_merchant_kingdom_16|Merchant of Lisboa{***}
-trp_merchant_kingdom_17|Aragonese Merchant{***}
-trp_merchant_kingdom_18|Merchant of Castille{***}
-trp_merchant_kingdom_20|Merchant of Granada{***}
-trp_merchant_kingdom_21|Merchant of Rome{***}
-trp_merchant_kingdom_22|Merchant of Athens{***}
-trp_merchant_kingdom_23|Merchant of Acre{***}
-trp_merchant_kingdom_24|Merchant of Palermo{***}
-trp_merchant_kingdom_25|Merchant of Cairo{***}
-trp_merchant_kingdom_26|Merchant of Constantinople{***}
-trp_merchant_kingdom_27|Merchant of Ankara{***}
-trp_merchant_kingdom_28|Merchant of Tunis{***}
-trp_merchant_kingdom_29|Merchant of Belgrade{***}
-trp_merchant_kingdom_30|Merchant of Tarnovo{***}
-trp_merchant_kingdom_31|Merchant of Fes{***}
+trp_merchant_kingdom_1|埃 尔 宾 商 人 
+trp_merchant_kingdom_2|维 尔 纽 斯 商 人 
+trp_merchant_kingdom_3|萨 赖 商 人 
+trp_merchant_kingdom_4|隆 德 商 人 
+trp_merchant_kingdom_5|克 拉 科 夫 商 人 
+trp_merchant_kingdom_6|纽 伦 堡 商 人 
+trp_merchant_kingdom_7|瓦 拉 德 商 人 
+trp_merchant_kingdom_8|诺 夫 哥 罗 德 商 人 
+trp_merchant_kingdom_9|伦 敦 商 人 
+trp_merchant_kingdom_10|巴 黎 商 人 
+trp_merchant_kingdom_11|尼 德 罗 斯 商 人 
+trp_merchant_kingdom_12|爱 丁 堡 商 人 
+trp_merchant_kingdom_13|多 尼 戈 尔 商 人 
+trp_merchant_kingdom_14|韦 斯 特 罗 斯 商 人 
+trp_merchant_kingdom_15|利 沃 夫 商 人 
+trp_merchant_kingdom_16|里 斯 本 商 人 
+trp_merchant_kingdom_17|阿 拉 贡 商 人 
+trp_merchant_kingdom_18|卡 斯 提 尔 商 人 
+trp_merchant_kingdom_20|格 拉 纳 达 商 人 
+trp_merchant_kingdom_21|罗 马 商 人 
+trp_merchant_kingdom_22|雅 典 商 人 
+trp_merchant_kingdom_23|阿 卡 商 人 
+trp_merchant_kingdom_24|巴 勒 莫 商 人 
+trp_merchant_kingdom_25|开 罗 商 人 
+trp_merchant_kingdom_26|君 士 坦 丁 商 人 
+trp_merchant_kingdom_27|安 卡 拉 商 人 
+trp_merchant_kingdom_28|突 尼 斯 商 人 
+trp_merchant_kingdom_29|贝 尔 格 莱 德 商 人 
+trp_merchant_kingdom_30|特 尔 诺 沃 商 人
+trp_merchant_kingdom_31|非 斯 商 人
 trp_startup_merchants_end|startup merchants end
 trp_startup_merchants_end_pl|startup merchants end
-trp_sea_raider_leader|海 寇 队 长 
+trp_sea_raider_leader|海 寇 头 领 
 trp_sea_raider_leader_pl|海 寇 
 trp_looter_leader|盗 贼 
 trp_looter_leader_pl|劫 匪 
@@ -4261,17 +4261,17 @@ trp_bandit_leaders_end_pl|bandit leaders end
 trp_relative_of_merchant|商 人 的 兄 弟 
 trp_relative_of_merchants_end|relative of merchants end
 trp_relative_of_merchants_end_pl|relative of merchants end
-trp_dplmc_chamberlain|Chamberlain{***}
-trp_dplmc_chamberlain_pl|Chamberlains{***}
-trp_dplmc_constable|Constable{***}
-trp_dplmc_constable_pl|Constables{***}
-trp_dplmc_chancellor|Chancellor{***}
-trp_dplmc_chancellor_pl|Chancellors{***}
-trp_dplmc_messenger|Messenger{***}
-trp_dplmc_messenger_pl|Messengers{***}
-trp_dplmc_recruiter|Recruiter{***}
-trp_dplmc_recruiter_pl|Recruiter{***}
-trp_raf_messenger|Messenger{***}
-trp_raf_messenger_pl|Messengers{***}
-trp_pope|Pope Alexander IV{***}
-trp_pope_pl|Alexander IV{***}
+trp_dplmc_chamberlain|管 家 
+trp_dplmc_chamberlain_pl|管 家 
+trp_dplmc_constable|治 安 官 
+trp_dplmc_constable_pl|治 安 官 
+trp_dplmc_chancellor|大 臣 
+trp_dplmc_chancellor_pl|大 臣 
+trp_dplmc_messenger|信 使 
+trp_dplmc_messenger_pl|信 使 
+trp_dplmc_recruiter|征 兵 队 
+trp_dplmc_recruiter_pl|征 兵 队 
+trp_raf_messenger|信 使 
+trp_raf_messenger_pl|信 使 
+trp_pope|教 宗 历 山 四 世 
+trp_pope_pl|历 山 四 世 
