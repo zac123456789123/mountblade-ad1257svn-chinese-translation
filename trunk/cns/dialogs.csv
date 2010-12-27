@@ -1,4 +1,4 @@
-dlga_award_fief_to_vassal:award_fief_to_vassal_defer|我 想 把 这 个 任 命 先 放 一 放， 等 我 听 取 了 其 他 人 的 意 见 之 后， 再 作 决 定。
+﻿dlga_award_fief_to_vassal:award_fief_to_vassal_defer|我 想 把 这 个 任 命 先 放 一 放， 等 我 听 取 了 其 他 人 的 意 见 之 后， 再 作 决 定。
 dlga_award_fief_to_vassal_defer:close_window|如 你 所 愿， {陛 下/尊 敬 的 女 士}。 你 可 以 改 日 再 作 决 定。
 dlga_award_fief_to_vassal_2:close_window|如 你 所 愿， {陛 下/尊 敬 的 女 士}。 {reg6?我 :{reg7?你 :{s11}}}将 成 为 {s1}的 新 {reg3?主 人 :主 人 }。 
 dlga_event_triggered:center_captured_rebellion|{s1}目 前 还 无 人 治 理。 我 应 该 把 这 权 力 交 给 谁 呢？ 
@@ -392,8 +392,8 @@ dlga_start:close_window.13|再 过 一 会 儿 我 们 就 要 结 婚 了， �
 dlga_start:close_window.14|呃， {playername}， 也 许 你 不 熟 悉 我 们 的 婚 礼 习 俗， 我 想 得 有 人 告 诉 你…… 先 去 和 我 的 {s11}， {s4}谈 谈 吧。 
 dlga_start:patrol_talk|你 想 要 干 什 么? 
 dlga_patrol_talk:patrol_talk_ultimatum|向 我 投 降！ 
-dlga_patrol_talk_ultimatum:patrol_talk_ultimatum_2|我 们 正 在 奉 {s25} 之 命 巡 逻 这 个 地 区。 你 是 想 自 找 麻 烦 吗？ 
-dlga_patrol_talk_ultimatum_2:patrol_talk_ultimatum_2a|废 话 少 说， 开战！ 
+dlga_patrol_talk_ultimatum:patrol_talk_ultimatum_2|我 们 正 在 奉 {s25} 之 名 巡 逻 这 个 地 区。 你 是 想 自 找 麻 烦 吗？ 
+dlga_patrol_talk_ultimatum_2:patrol_talk_ultimatum_2a|废 话 少 说， 开 战！ 
 dlga_patrol_talk_ultimatum_2a:close_window|你 会 后 悔 的。 
 dlga_patrol_talk_ultimatum_2:patrol_talk_ultimatum_2b|攻 击 你？ 不！ 我 只 是 想 知 道 这 片 区 域 是 否 有 敌 人 经 过？ 
 dlga_patrol_talk_ultimatum_2b:close_window|我 们 什 么 都 不 知 道， 走 开！ 
@@ -490,206 +490,206 @@ dlga_dplmc_constable_recruits_and_training:dplmc_constable_train_stop|请 停 �
 dlga_dplmc_constable_train_stop:dplmc_constable_pretalk|如 你 所 愿。 
 dlga_dplmc_constable_recruits_and_training:dplmc_constable_recruit|我 想 要 招 募 一 些 新 兵。 
 dlga_dplmc_constable_recruit:dplmc_constable_pretalk|我 们 需 要 设 立 金 库 以 招 募 新 兵。 您 必 须 先 任 命 一 名 大 臣。 
-dlga_dplmc_constable_recruit:dplmc_constable_pretalk.1|你 已 经 从 {reg0? 城 镇： 城 堡} 招 募 了 最 大 数 量 的 {reg0? 4:2} 新 兵。 
+dlga_dplmc_constable_recruit:dplmc_constable_pretalk.1|您 已 经 从 {reg0? 城 镇： 城 堡} 派 出 了 最 大 数 量 的 {reg0? 4:2} 募 兵 官。 
 dlga_dplmc_constable_recruit:dplmc_constable_recruit_select|如 果 您 需 要， 我 会 派 人 去 各 个 村 庄 为 您 的 军 队 招 募 新 兵。 募 兵 官 会 在 招 募 到 您 指 定 人 数 的 新 兵 后 回 到 {reg0? 城 :城 堡 } 并 将 新 兵 安 置 在 驻 军 中。每 座 城 堡 有 两 名 募 兵 官。 每 座 城 镇 有 四 名 募 兵 官。 您 希 望 招 募 哪 个 国 家 的 新 兵？ 
 dlga_dplmc_constable_recruit_select:dplmc_constable_recruit_type|安 达 卢 西 亚。 
 dlga_dplmc_constable_recruit_select:dplmc_constable_recruit_type.1|波 罗 的 海。 
 dlga_dplmc_constable_recruit_select:dplmc_constable_recruit_type.2|波 罗 的 海。 
 dlga_dplmc_constable_recruit_select:dplmc_constable_recruit_type.3|拜 占 庭。 
 dlga_dplmc_constable_recruit_select:dplmc_constable_recruit_type.4|十 字 军。
-dlga_dplmc_constable_recruit_select:dplmc_constable_recruit_type.5|Eastern European{***}
-dlga_dplmc_constable_recruit_select:dplmc_constable_recruit_type.6|European{***}
-dlga_dplmc_constable_recruit_select:dplmc_constable_recruit_type.7|Gaelic{***}
-dlga_dplmc_constable_recruit_select:dplmc_constable_recruit_type.8|Latin{***}
-dlga_dplmc_constable_recruit_select:dplmc_constable_recruit_type.9|Mamluk{***}
-dlga_dplmc_constable_recruit_select:dplmc_constable_recruit_type.10|Mongol{***}
-dlga_dplmc_constable_recruit_select:dplmc_constable_recruit_type.11|North African (Hafsid and Marinid){***}
-dlga_dplmc_constable_recruit_select:dplmc_constable_recruit_type.12|Scandinavian{***}
-dlga_dplmc_constable_recruit_select:dplmc_constable_recruit_type.13|Teutonic{***}
-dlga_dplmc_constable_recruit_type:dplmc_constable_recruit_type_select|What type of recruits would you like?{***}
-dlga_dplmc_constable_recruit_type_select:dplmc_constable_recruit_amount|Villages{***}
-dlga_dplmc_constable_recruit_type_select:dplmc_constable_recruit_amount.1|Towns{***}
-dlga_dplmc_constable_recruit_type_select:dplmc_constable_recruit_amount.2|Castles{***}
-dlga_dplmc_constable_recruit_amount:dplmc_constable_recruit_amount_select|You have to pay {reg22} denars for each recruit and 250 denars for the recruiter. I will take the money from the treasury. How many recruits are you willing to pay for?{***}
-dlga_dplmc_constable_recruit_amount_select:dplmc_constable_recruit_confirm_ask|5.{***}
-dlga_dplmc_constable_recruit_amount_select:dplmc_constable_recruit_confirm_ask.1|10.{***}
-dlga_dplmc_constable_recruit_amount_select:dplmc_constable_recruit_confirm_ask.2|20.{***}
-dlga_dplmc_constable_recruit_amount_select:dplmc_constable_recruit_confirm_ask.3|30.{***}
-dlga_dplmc_constable_recruit_amount_select:dplmc_constable_recruit_confirm_ask.4|40.{***}
-dlga_dplmc_constable_recruit_amount_select:dplmc_constable_recruit_confirm_ask.5|50.{***}
-dlga_dplmc_constable_recruit_confirm_ask:dplmc_constable_recruit_confirm|Do you really want to recruit {s6} {s11} recruits from {s12}?{***}
-dlga_dplmc_constable_recruit_confirm:dplmc_constable_pretalk|Yes.{***}
-dlga_dplmc_constable_recruit_confirm:dplmc_constable_pretalk.1|No.{***}
+dlga_dplmc_constable_recruit_select:dplmc_constable_recruit_type.5|东 欧。 
+dlga_dplmc_constable_recruit_select:dplmc_constable_recruit_type.6|欧 洲。 
+dlga_dplmc_constable_recruit_select:dplmc_constable_recruit_type.7|盖 尔。 
+dlga_dplmc_constable_recruit_select:dplmc_constable_recruit_type.8|拉 丁。 
+dlga_dplmc_constable_recruit_select:dplmc_constable_recruit_type.9|马 木 留 克。 
+dlga_dplmc_constable_recruit_select:dplmc_constable_recruit_type.10|蒙 古。 
+dlga_dplmc_constable_recruit_select:dplmc_constable_recruit_type.11|北 非。 （哈 夫 斯 和 马 里 尼 德）。 
+dlga_dplmc_constable_recruit_select:dplmc_constable_recruit_type.12|斯 堪 的 纳 维 亚。 
+dlga_dplmc_constable_recruit_select:dplmc_constable_recruit_type.13|日 耳 曼。 
+dlga_dplmc_constable_recruit_type:dplmc_constable_recruit_type_select|您 希 望 招 募 哪 种 类 型 的 新 兵？ 
+dlga_dplmc_constable_recruit_type_select:dplmc_constable_recruit_amount|村 庄 新 兵。 
+dlga_dplmc_constable_recruit_type_select:dplmc_constable_recruit_amount.1|城 市 新 兵。 
+dlga_dplmc_constable_recruit_type_select:dplmc_constable_recruit_amount.2|城 堡 新 兵。 
+dlga_dplmc_constable_recruit_amount:dplmc_constable_recruit_amount_select|您 需 要 为 每 一 个 新 兵 支 付 {reg22} 第 纳 尔 的 招 募 费， 为 募 兵 官 支 付 250 第 纳 尔 的 薪 水。 我 会 在 金 库 中 扣 除 这 些 费 用， 您 希 望 招 募 多 少 新 兵？ 
+dlga_dplmc_constable_recruit_amount_select:dplmc_constable_recruit_confirm_ask|5。 
+dlga_dplmc_constable_recruit_amount_select:dplmc_constable_recruit_confirm_ask.1|10。 
+dlga_dplmc_constable_recruit_amount_select:dplmc_constable_recruit_confirm_ask.2|20。 
+dlga_dplmc_constable_recruit_amount_select:dplmc_constable_recruit_confirm_ask.3|30。 
+dlga_dplmc_constable_recruit_amount_select:dplmc_constable_recruit_confirm_ask.4|40。 
+dlga_dplmc_constable_recruit_amount_select:dplmc_constable_recruit_confirm_ask.5|50。 
+dlga_dplmc_constable_recruit_confirm_ask:dplmc_constable_recruit_confirm|您 确 定 要 招 募 来 自 {s12} 的 {s6} 名 {s11} 么？ 
+dlga_dplmc_constable_recruit_confirm:dplmc_constable_pretalk|是 的， 我 确 定。 
+dlga_dplmc_constable_recruit_confirm:dplmc_constable_pretalk.1|算 了。 
 dlga_dplmc_constable_recruit_amount_select:dplmc_constable_pretalk|None.{***}
 dlga_dplmc_constable_recruits_and_training:dplmc_constable_pretalk|I changed my mind.{***}
-dlga_dplmc_constable_talk:dplmc_constable_dismiss_confirm_ask|You are dismissed.{***}
-dlga_dplmc_constable_dismiss_confirm_ask:dplmc_constable_dismiss_confirm|Are you sure that you don't need me anymore?{***}
-dlga_dplmc_constable_dismiss_confirm:dplmc_constable_dismiss_confirm_yes|Yes I am.{***}
-dlga_dplmc_constable_dismiss_confirm_yes:close_window|As you wish.{***}
-dlga_dplmc_constable_dismiss_confirm:dplmc_constable_pretalk|No I am not.{***}
-dlga_dplmc_constable_talk:close_window|Thank you, I will come back to you later.{***}
-dlga_start:dplmc_chamberlain_talk|Yes, Sire?{***}
-dlga_dplmc_chamberlain_pretalk:dplmc_chamberlain_talk|Anything else, Sire?{***}
-dlga_dplmc_chamberlain_talk:dplmc_chamberlain_overview|Please give me a report about the financial affairs.{***}
-dlga_dplmc_chamberlain_overview:dplmc_chamberlain_pretalk|{s6}{***}
-dlga_dplmc_chamberlain_talk:dplmc_chamberlain_treasury|Let us inspect the treasury.{***}
-dlga_dplmc_chamberlain_treasury:dplmc_chamberlain_treasury_action|There are currently {s4} denars in the treasury and we have {s6} debts. What do you want to do?{***}
-dlga_dplmc_chamberlain_treasury_action:dplmc_chamberlain_treasury_action_pay|I would like to pay into the treasury.{***}
-dlga_dplmc_chamberlain_treasury_action_pay:dplmc_chamberlain_treasury_action_pay_select|We currently have {s4} denars in the treasury. How much money do you like to pay into the treasury, Sire?{***}
-dlga_dplmc_chamberlain_treasury_action_pay_select:dplmc_chamberlain_treasury_action_pay|100.{***}
-dlga_dplmc_chamberlain_treasury_action_pay_select:dplmc_chamberlain_treasury_action_pay.1|200.{***}
-dlga_dplmc_chamberlain_treasury_action_pay_select:dplmc_chamberlain_treasury_action_pay.2|500.{***}
-dlga_dplmc_chamberlain_treasury_action_pay_select:dplmc_chamberlain_treasury_action_pay.3|1000.{***}
-dlga_dplmc_chamberlain_treasury_action_pay_select:dplmc_chamberlain_treasury_action_pay.4|2000.{***}
-dlga_dplmc_chamberlain_treasury_action_pay_select:dplmc_chamberlain_treasury_action_pay.5|5000.{***}
-dlga_dplmc_chamberlain_treasury_action_pay_select:dplmc_chamberlain_treasury_action_pay.6|10000.{***}
-dlga_dplmc_chamberlain_treasury_action_pay_select:dplmc_chamberlain_pretalk|Never mind.{***}
-dlga_dplmc_chamberlain_treasury_action:dplmc_chamberlain_treasury_action_withdraw|I would like to withdraw money from the treasury.{***}
-dlga_dplmc_chamberlain_treasury_action_withdraw:dplmc_chamberlain_treasury_action_withdraw_select|We currently have {s4} denars in the treasury. How much money do you like to withdraw from the treasury, Sire?{***}
-dlga_dplmc_chamberlain_treasury_action_withdraw_select:dplmc_chamberlain_treasury_action_withdraw|100.{***}
-dlga_dplmc_chamberlain_treasury_action_withdraw_select:dplmc_chamberlain_treasury_action_withdraw.1|200.{***}
-dlga_dplmc_chamberlain_treasury_action_withdraw_select:dplmc_chamberlain_treasury_action_withdraw.2|500.{***}
-dlga_dplmc_chamberlain_treasury_action_withdraw_select:dplmc_chamberlain_treasury_action_withdraw.3|1000.{***}
-dlga_dplmc_chamberlain_treasury_action_withdraw_select:dplmc_chamberlain_treasury_action_withdraw.4|2000.{***}
-dlga_dplmc_chamberlain_treasury_action_withdraw_select:dplmc_chamberlain_treasury_action_withdraw.5|5000.{***}
-dlga_dplmc_chamberlain_treasury_action_withdraw_select:dplmc_chamberlain_treasury_action_withdraw.6|10000.{***}
-dlga_dplmc_chamberlain_treasury_action_withdraw_select:dplmc_chamberlain_pretalk|Never mind.{***}
-dlga_dplmc_chamberlain_treasury_action:dplmc_chamberlain_pretalk|Thank you, let's talk about something else.{***}
-dlga_dplmc_chamberlain_talk:dplmc_chamberlain_status|Please give me a status report about the financial situation of a fief.{***}
-dlga_dplmc_chamberlain_status:dplmc_chamberlain_status_select_fief|About which fief do you like to be informed?{***}
-dlga_dplmc_chamberlain_status_select_fief:dplmc_chamberlain_status_info|{s60}{***}
-dlga_dplmc_chamberlain_status_select_fief:dplmc_chamberlain_pretalk|Never mind.{***}
-dlga_dplmc_chamberlain_status_info:dplmc_chamberlain_status|{s51}{***}
-dlga_dplmc_chamberlain_talk:dplmc_chamberlain_tax|I wish to change the tax rate for a fief.{***}
-dlga_dplmc_chamberlain_tax:dplmc_chamberlain_tax_select_center|For which fief?{***}
-dlga_dplmc_chamberlain_tax_select_center:dplmc_chamberlain_tax_ask_rate|{s6}{***}
-dlga_dplmc_chamberlain_tax_select_center:dplmc_chamberlain_pretalk|Never mind.{***}
-dlga_dplmc_chamberlain_tax_ask_rate:dplmc_chamberlain_tax_select_rate|How high do you want to set the tax rate for {s6}?{***}
-dlga_dplmc_chamberlain_tax_select_rate:dplmc_chamberlain_tax_ask_confirm|Very low.{***}
-dlga_dplmc_chamberlain_tax_select_rate:dplmc_chamberlain_tax_ask_confirm.1|Low.{***}
-dlga_dplmc_chamberlain_tax_select_rate:dplmc_chamberlain_tax_ask_confirm.2|Normal.{***}
-dlga_dplmc_chamberlain_tax_select_rate:dplmc_chamberlain_tax_ask_confirm.3|High.{***}
-dlga_dplmc_chamberlain_tax_select_rate:dplmc_chamberlain_tax_ask_confirm.4|Very High.{***}
-dlga_dplmc_chamberlain_tax_select_rate:dplmc_chamberlain_pretalk|Never mind.{***}
-dlga_dplmc_chamberlain_tax_ask_confirm:dplmc_chamberlain_tax_confirm|Do you really want to set the tax rate for {s6} to {s11}?{***}
-dlga_dplmc_chamberlain_tax_confirm:dplmc_chamberlain_pretalk|Yes.{***}
-dlga_dplmc_chamberlain_tax_confirm:dplmc_chamberlain_pretalk.1|No I changed, my mind.{***}
-dlga_dplmc_chamberlain_talk:dplmc_chamberlain_dismiss_confirm_ask|You are dismissed.{***}
-dlga_dplmc_chamberlain_dismiss_confirm_ask:dplmc_chamberlain_dismiss_confirm|Are you sure that you want to handle all financial affairs by yourself?{***}
-dlga_dplmc_chamberlain_dismiss_confirm:dplmc_chamberlain_dismiss_confirm_yes|Yes I am.{***}
-dlga_dplmc_chamberlain_dismiss_confirm:dplmc_chamberlain_pretalk|No I am not.{***}
-dlga_dplmc_chamberlain_dismiss_confirm_yes:close_window|As you wish. Let's go through the document and hand over your estate.{***}
-dlga_dplmc_chamberlain_talk:close_window|Oh nothing, I just wanted to check the documents.{***}
-dlga_spouse_talk:dplmc_spouse_staff_talk_ask|I like to hire a new staff member.{***}
-dlga_dplmc_spouse_staff_talk_ask:dplmc_talk_staff|Which staff member do you like to hire?{***}
-dlga_dplmc_talk_staff:dplmc_talk_appoint_constable|I like to appoint a constable.{***}
-dlga_dplmc_talk_appoint_constable:dplmc_talk_appoint_constable_confirm|That's a wise idea. May I suggest a very capable nobleman and friend of my family? His name is Miles de Gloucester. He demands 15 denars each week, though. The appointment will cost us 20 denars.{***}
-dlga_dplmc_talk_appoint_constable_confirm:dplmc_talk_appoint_confirm_yes|So be it.{***}
-dlga_dplmc_talk_appoint_constable_confirm:spouse_pretalk|Maybe later.{***}
-dlga_dplmc_talk_appoint_constable_confirm:minister_pretalk|Maybe later.{***}
-dlga_dplmc_talk_appoint_confirm_yes:spouse_pretalk|I will send him a letter he should arrive at the court soon.{***}
-dlga_dplmc_talk_appoint_confirm_yes:minister_pretalk|I will send him a letter he should arrive at the court soon.{***}
-dlga_dplmc_talk_staff:dplmc_talk_appoint_chamberlain|I want to appoint a chamberlain to handle financial affairs.{***}
-dlga_dplmc_talk_appoint_chamberlain:dplmc_talk_appoint_chamberlain_confirm|That's a wise idea. May I suggest a very capable nobleman and friend of my family? His name is Aubrey de Vere. He demands 15 denars each week, though. The appointment will cost us 20 denars.{***}
-dlga_dplmc_talk_appoint_chamberlain_confirm:dplmc_talk_appoint_confirm_yes|So be it.{***}
-dlga_dplmc_talk_appoint_chamberlain_confirm:spouse_pretalk|Maybe later.{***}
-dlga_dplmc_talk_appoint_chamberlain_confirm:minister_pretalk|Maybe later.{***}
-dlga_dplmc_talk_staff:dplmc_talk_appoint_chancellor|I want to appoint a chancellor.{***}
-dlga_dplmc_talk_appoint_chancellor:dplmc_talk_appoint_chancellor_confirm|That's a wise idea. May I suggest a very capable nobleman and friend of my family? His name is Herfast. He demands 20 denars each week, though. The appointment will cost us 20 denars.{***}
-dlga_dplmc_talk_appoint_chancellor_confirm:dplmc_talk_appoint_confirm_yes|So be it.{***}
-dlga_dplmc_talk_appoint_chancellor_confirm:spouse_pretalk|Maybe later.{***}
-dlga_dplmc_talk_appoint_chancellor_confirm:minister_pretalk|Maybe later.{***}
-dlga_dplmc_talk_staff:minister_pretalk|None.{***}
-dlga_dplmc_talk_staff:spouse_pretalk|None.{***}
-dlga_spouse_talk:dplmc_spouse_talk_buy_food_amount_ask|Can you please buy some bread?{***}
-dlga_dplmc_spouse_talk_buy_food_amount_ask:dplmc_spouse_talk_buy_food_amount|How much bread do you like?{***}
-dlga_dplmc_spouse_talk_buy_food_amount:dplmc_spouse_talk_buy_food|50.{***}
-dlga_dplmc_spouse_talk_buy_food_amount:dplmc_spouse_talk_buy_food.1|100.{***}
-dlga_dplmc_spouse_talk_buy_food_amount:dplmc_spouse_talk_buy_food.2|150.{***}
-dlga_dplmc_spouse_talk_buy_food_amount:dplmc_spouse_talk_buy_food.3|200.{***}
-dlga_dplmc_spouse_talk_buy_food_amount:spouse_pretalk|Nothing.{***}
-dlga_dplmc_spouse_talk_buy_food:dplmc_spouse_talk_buy_food_confirm|Yes of course, I will go to the merchant in {s6} and buy some bread. This will cost us {reg0} denars.{***}
-dlga_dplmc_spouse_talk_buy_food:spouse_pretalk|Currently no merchant has enough bread. We have to wait.{***}
-dlga_dplmc_spouse_talk_buy_food_confirm:close_window|Ok, we can afford that, please go. Thank you.{***}
-dlga_dplmc_spouse_talk_buy_food_confirm:close_window.1|Oh, maybe later.{***}
-dlga_minister_talk:dplmc_minister_staff_talk_ask|I like to hire a new staff member.{***}
-dlga_dplmc_minister_staff_talk_ask:dplmc_talk_staff|Which staff member do you like to hire?{***}
-dlga_lord_talk:rafi_lord_go_crusading|{s66}, I would like to head to the Holy Land to help our brothers battling there for God.  May I ask for a few months leave?{***}
-dlga_lord_talk:rafi_lord_return_crusading|{s66}, I have returned from the Holy Land and am ready to pick up the sword in your name.{***}
-dlga_rafi_lord_go_crusading:close_window|Of course, matters of God must come firt.  Make us proud and return safely!{***}
-dlga_rafi_lord_return_crusading:close_window|Welcome back, we have heard of your exploits!  You have made us proud.{***}
-dlga_lord_talk:dplmc_lord_give_back_fief|{s66}, I want to give up a fief you enfeoffed to me.{***}
-dlga_dplmc_lord_give_back_fief:dplmc_lord_give_back_fief_select|Oh, so you can't manage it? Well, which fief do you have in mind?{***}
-dlga_dplmc_lord_give_back_fief_select:dplmc_lord_give_back_fief_confirm_ask|{s11}.{***}
-dlga_dplmc_lord_give_back_fief_select:lord_pretalk|Never mind.{***}
-dlga_dplmc_lord_give_back_fief_confirm_ask:dplmc_lord_give_back_fief_confirm|So you think you can't fulfill your promise and manage {s11}?{***}
-dlga_dplmc_lord_give_back_fief_confirm:lord_pretalk|Yes I want to give up on {s11}.{***}
-dlga_dplmc_lord_give_back_fief_confirm:lord_pretalk.1|No, I will keep the promise.{***}
-dlga_lord_talk:dplmc_lord_declare_war|{s66}, you should declare war on a kingdom.{***}
-dlga_dplmc_lord_declare_war:close_window|How dare you? Who do you think you are? Get out of my sight!{***}
-dlga_dplmc_lord_declare_war:dplmc_lord_declare_war_kingdoms_select|Against whom?{***}
-dlga_dplmc_lord_declare_war_kingdoms_select:dplmc_lord_declare_war_ask_why|{s11}{***}
-dlga_dplmc_lord_declare_war_kingdoms_select:lord_pretalk|Never mind{***}
-dlga_dplmc_lord_declare_war_ask_why:dplmc_lord_declare_war_why|Why should i declare war against the {s11}?{***}
-dlga_dplmc_lord_declare_war_why:dplmc_lord_declare_war_anything_else|They are weaker and we can easily beat them.{***}
-dlga_dplmc_lord_declare_war_why:dplmc_lord_declare_war_anything_else.1|We can't tolerate their provocations any longer.{***}
-dlga_dplmc_lord_declare_war_why:dplmc_lord_declare_war_anything_else.2|They are already in war and currently distracted.{***}
-dlga_dplmc_lord_declare_war_why:dplmc_lord_declare_war_anything_else.3|It's the right time to attack.{***}
-dlga_dplmc_lord_declare_war_why:dplmc_lord_declare_war_anything_else.4|We should get back our lost land.{***}
-dlga_dplmc_lord_declare_war_why:dplmc_lord_declare_war_decision|I mentioned all reasons for war. Please think about it!{***}
-dlga_dplmc_lord_declare_war_why:lord_pretalk|I need to think about that in peace and quiet.{***}
-dlga_dplmc_lord_declare_war_anything_else:dplmc_lord_declare_war_why|Well, anything else?{***}
-dlga_dplmc_lord_declare_war_decision:close_window|Gird your sword we are going to war against {s11}.{***}
-dlga_dplmc_lord_declare_war_decision:close_window.1|No, I am not convinced. We won't attack {s11}.{***}
-dlga_spouse_talk:dplmc_spouse_move_residence_ask|I like to move our residence.{***}
-dlga_dplmc_spouse_move_residence_ask:dplmc_spouse_move_residence_tools|To move our residence will require a small refurbishment. In particular, we need a set of tools and two piles of wool cloth in our househould.{***}
-dlga_dplmc_spouse_move_residence_tools:dplmc_spouse_move_residence_select_ask|Ok, I think we have all necessary things to establish the residence.{***}
-dlga_dplmc_spouse_move_residence_tools:spouse_pretalk|Well, I guess I have to get the set of tools and the piles of linen first.{***}
-dlga_dplmc_spouse_move_residence_select_ask:dplmc_spouse_move_residence_select|Where do you want to move the residence?{***}
-dlga_dplmc_spouse_move_residence_select:dplmc_spouse_move_residence_ask_confirm|{s6}.{***}
-dlga_dplmc_spouse_move_residence_select:spouse_pretalk|I changed my mind.{***}
-dlga_dplmc_spouse_move_residence_ask_confirm:dplmc_spouse_move_residence_confirm|Are you sure that you want to move your residence to {s6}?{***}
-dlga_dplmc_spouse_move_residence_confirm:dplmc_spouse_move_residence_moved|Yes,  please arrange everything.{***}
-dlga_dplmc_spouse_move_residence_confirm:spouse_pretalk|No.{***}
-dlga_dplmc_spouse_move_residence_moved:spouse_pretalk|As you wish, I will move the residence to {s6}.{***}
-dlga_minister_diplomatic_initiative_type_select:minister_diplomatic_emissary|我 们 两 国 应 该 停 战。 
-dlga_event_triggered:dplmc_companion_threaten_request_response|Well, {s21}, at last I've found you. I have returned from my mission to {s31}.{***}
-dlga_dplmc_companion_threaten_request_response:companion_rejoin_response|They paid {s21} denars and are expecting that you leave them alone. I agreed on a truce of 40 days.{***}
-dlga_dplmc_companion_threaten_request_response:companion_rejoin_response.1|They send you a declaration of war.{***}
-dlga_dplmc_companion_threaten_request_response:companion_rejoin_response.2|They are not willing to fold facing your threats.{***}
-dlga_minister_diplomatic_initiative_type_select:dplmc_minister_gift_type|I want to send a gift.{***}
-dlga_dplmc_minister_gift_type:dplmc_minister_gift_type_select|We can send them some excellent horses from the best horse breeder in our kingdom or we can hand over a fief.{***}
-dlga_dplmc_minister_gift_type:dplmc_minister_gift_type_select.1|We currently only have the option to hand over a fief since we don't have a chamberlain.{***}
-dlga_dplmc_minister_gift_type_select:minister_diplomatic_emissary|Send horses for 3000 denars.{***}
-dlga_dplmc_minister_gift_type_select:minister_diplomatic_emissary.1|Send horses for 6000 denars.{***}
-dlga_dplmc_minister_gift_type_select:dplmc_minister_gift_fief|Hand over a fief{***}
-dlga_dplmc_minister_gift_type_select:minister_pretalk|Never mind.{***}
-dlga_dplmc_minister_gift_fief:dplmc_minister_gift_fief_select|Which fief do you want to hand over?{***}
-dlga_dplmc_minister_gift_fief_select:minister_diplomatic_emissary|{s1}{***}
+dlga_dplmc_constable_talk:dplmc_constable_dismiss_confirm_ask|你 被 解 雇 了。 {***}
+dlga_dplmc_constable_dismiss_confirm_ask:dplmc_constable_dismiss_confirm|你 确 定 不 再 需 要 我 了 么？ {***}
+dlga_dplmc_constable_dismiss_confirm:dplmc_constable_dismiss_confirm_yes|是 的， 我 确 定。 
+dlga_dplmc_constable_dismiss_confirm_yes:close_window|如 你 所 愿。 
+dlga_dplmc_constable_dismiss_confirm:dplmc_constable_pretalk|不， 我 依 旧 需 要 你。 
+dlga_dplmc_constable_talk:close_window|我 明 白 了， 以 后 我 们 还 会 再 见 面 的。 
+dlga_start:dplmc_chamberlain_talk|是 的， 大 人？ 
+dlga_dplmc_chamberlain_pretalk:dplmc_chamberlain_talk|你 还 有 什 么 事 么， 大 人？ 
+dlga_dplmc_chamberlain_talk:dplmc_chamberlain_overview|请 给 我 一 份 财 政 报 告。 
+dlga_dplmc_chamberlain_overview:dplmc_chamberlain_pretalk|{s6}。 
+dlga_dplmc_chamberlain_talk:dplmc_chamberlain_treasury|让 我 们 查 看 下 库 房。 
+dlga_dplmc_chamberlain_treasury:dplmc_chamberlain_treasury_action|目 前 我 们 的 金 库 拥 有 {s4} 第 纳 尔， 另 外 我 们 还 有 {s6} 的 外 债。 您 希 望 做 什 么？ 
+dlga_dplmc_chamberlain_treasury_action:dplmc_chamberlain_treasury_action_pay|我 希 望 存 些 钱 到 金 库。 
+dlga_dplmc_chamberlain_treasury_action_pay:dplmc_chamberlain_treasury_action_pay_select|金 库 目 前 拥 有 {s4} 第 纳 尔， 您 希 望 存 入 多 少， 大 人？ 
+dlga_dplmc_chamberlain_treasury_action_pay_select:dplmc_chamberlain_treasury_action_pay|100。 
+dlga_dplmc_chamberlain_treasury_action_pay_select:dplmc_chamberlain_treasury_action_pay.1|200。 
+dlga_dplmc_chamberlain_treasury_action_pay_select:dplmc_chamberlain_treasury_action_pay.2|500。 
+dlga_dplmc_chamberlain_treasury_action_pay_select:dplmc_chamberlain_treasury_action_pay.3|1000。 
+dlga_dplmc_chamberlain_treasury_action_pay_select:dplmc_chamberlain_treasury_action_pay.4|2000。 
+dlga_dplmc_chamberlain_treasury_action_pay_select:dplmc_chamberlain_treasury_action_pay.5|5000。 
+dlga_dplmc_chamberlain_treasury_action_pay_select:dplmc_chamberlain_treasury_action_pay.6|10000。 
+dlga_dplmc_chamberlain_treasury_action_pay_select:dplmc_chamberlain_pretalk|算 了。 
+dlga_dplmc_chamberlain_treasury_action:dplmc_chamberlain_treasury_action_withdraw|我 希 望 从 金 库 中 提 取 一 些 钱。 
+dlga_dplmc_chamberlain_treasury_action_withdraw:dplmc_chamberlain_treasury_action_withdraw_select|金 库 目 前 拥 有 {s4} 第 纳 尔， 您 希 望 提 取 多 少， 大 人？ 
+dlga_dplmc_chamberlain_treasury_action_withdraw_select:dplmc_chamberlain_treasury_action_withdraw|100。 
+dlga_dplmc_chamberlain_treasury_action_withdraw_select:dplmc_chamberlain_treasury_action_withdraw.1|200。 
+dlga_dplmc_chamberlain_treasury_action_withdraw_select:dplmc_chamberlain_treasury_action_withdraw.2|500。 
+dlga_dplmc_chamberlain_treasury_action_withdraw_select:dplmc_chamberlain_treasury_action_withdraw.3|1000。 
+dlga_dplmc_chamberlain_treasury_action_withdraw_select:dplmc_chamberlain_treasury_action_withdraw.4|2000。 
+dlga_dplmc_chamberlain_treasury_action_withdraw_select:dplmc_chamberlain_treasury_action_withdraw.5|5000。 
+dlga_dplmc_chamberlain_treasury_action_withdraw_select:dplmc_chamberlain_treasury_action_withdraw.6|10000。 
+dlga_dplmc_chamberlain_treasury_action_withdraw_select:dplmc_chamberlain_pretalk|算 了。 
+dlga_dplmc_chamberlain_treasury_action:dplmc_chamberlain_pretalk|谢 谢， 我 们 来 讨 论 下 其 他 方 面 的 事 情。 
+dlga_dplmc_chamberlain_talk:dplmc_chamberlain_status|请 给 我 一 份 领 地 的 财 政 报 告。 
+dlga_dplmc_chamberlain_status:dplmc_chamberlain_status_select_fief|您 希 望 了 解 哪 一 块 领 地 的 财 政 信 息？ 
+dlga_dplmc_chamberlain_status_select_fief:dplmc_chamberlain_status_info|{s60}。 
+dlga_dplmc_chamberlain_status_select_fief:dplmc_chamberlain_pretalk|算 了。 
+dlga_dplmc_chamberlain_status_info:dplmc_chamberlain_status|{s51}。 
+dlga_dplmc_chamberlain_talk:dplmc_chamberlain_tax|我 想 要 调 整 一 块 领 地 的 税 率。 
+dlga_dplmc_chamberlain_tax:dplmc_chamberlain_tax_select_center|哪 一 块 领 地？ 
+dlga_dplmc_chamberlain_tax_select_center:dplmc_chamberlain_tax_ask_rate|{s6}。 
+dlga_dplmc_chamberlain_tax_select_center:dplmc_chamberlain_pretalk|算 了。 
+dlga_dplmc_chamberlain_tax_ask_rate:dplmc_chamberlain_tax_select_rate|您 希 望 将 {s6} 的 税 率 调 整 到 为？ 
+dlga_dplmc_chamberlain_tax_select_rate:dplmc_chamberlain_tax_ask_confirm|非 常 低。{***}免税 
+dlga_dplmc_chamberlain_tax_select_rate:dplmc_chamberlain_tax_ask_confirm.1|低 税 收。
+dlga_dplmc_chamberlain_tax_select_rate:dplmc_chamberlain_tax_ask_confirm.2|正 常 水 平。
+dlga_dplmc_chamberlain_tax_select_rate:dplmc_chamberlain_tax_ask_confirm.3|高 税 收。
+dlga_dplmc_chamberlain_tax_select_rate:dplmc_chamberlain_tax_ask_confirm.4|非 常 高。 {***}剥削他们
+dlga_dplmc_chamberlain_tax_select_rate:dplmc_chamberlain_pretalk|算 了。 
+dlga_dplmc_chamberlain_tax_ask_confirm:dplmc_chamberlain_tax_confirm|您 确 实 想 将 {s6} 的 税 率 调 整 为 {s11} 么？ 
+dlga_dplmc_chamberlain_tax_confirm:dplmc_chamberlain_pretalk|是 的， 我 确 定。 
+dlga_dplmc_chamberlain_tax_confirm:dplmc_chamberlain_pretalk.1|不， 我 改 变 主 意 了。 
+dlga_dplmc_chamberlain_talk:dplmc_chamberlain_dismiss_confirm_ask|你 被 解 雇 了。 
+dlga_dplmc_chamberlain_dismiss_confirm_ask:dplmc_chamberlain_dismiss_confirm|您 确 定 要 自 己 处 理 所 有 财 政 方 面 的 事 物 么？ 
+dlga_dplmc_chamberlain_dismiss_confirm:dplmc_chamberlain_dismiss_confirm_yes|是 的， 我 确 定。 
+dlga_dplmc_chamberlain_dismiss_confirm:dplmc_chamberlain_pretalk|不， 当 然 不。 
+dlga_dplmc_chamberlain_dismiss_confirm_yes:close_window|如 您 所 愿， 让 我 们 通 过 文 件 来 移 交 处 理 权。 
+dlga_dplmc_chamberlain_talk:close_window|没 什 么， 我 只 是 想 查 看 下 文 件。 
+dlga_spouse_talk:dplmc_spouse_staff_talk_ask|我 希 望 雇 佣 一 个 新 的 大 臣。 
+dlga_dplmc_spouse_staff_talk_ask:dplmc_talk_staff|您 希 望 雇 佣 哪 方 面 的 大 臣？ 
+dlga_dplmc_talk_staff:dplmc_talk_appoint_constable|我 想 要 雇 佣 一 名 治 安 官。 
+dlga_dplmc_talk_appoint_constable:dplmc_talk_appoint_constable_confirm|明 智 的 决 定。 我 能 向 您 推 荐 一 位 很 有 能 力 的 贵 族 么？ 他 是 我 家 族 的 朋 友。 他 的 名 字 是 迈 尔 斯 · 德 · 格 劳 赛 斯 特。 他 只 需 每 周 15 第 纳 尔 的 薪 水。 雇 佣 费 将 会 花 去 我 们 20 第 纳 尔。 
+dlga_dplmc_talk_appoint_constable_confirm:dplmc_talk_appoint_confirm_yes|去 安 排 吧。 
+dlga_dplmc_talk_appoint_constable_confirm:spouse_pretalk|以 后 再 议。 
+dlga_dplmc_talk_appoint_constable_confirm:minister_pretalk|以 后 再 议。 
+dlga_dplmc_talk_appoint_confirm_yes:spouse_pretalk|我 会 给 他 写 封 信。 他 应 该 很 快 就 能 到 达 宫 廷。 
+dlga_dplmc_talk_appoint_confirm_yes:minister_pretalk|我 会 给 他 写 封 信。 他 应 该 很 快 就 能 到 达 宫 廷。 
+dlga_dplmc_talk_staff:dplmc_talk_appoint_chamberlain|我 想 要 雇 佣 一 名 管 家 来 掌 管 财 政。 
+dlga_dplmc_talk_appoint_chamberlain:dplmc_talk_appoint_chamberlain_confirm|明 智 的 决 定。 我 能 向 您 推 荐 一 位 很 有 能 力 的 贵 族 么？ 他 是 我 家 族 的 朋 友。 他 的 名 字 是 奥 伯 雷 · 德 · 维 尔。 他 只 需 每 周 15 第 纳 尔 的 薪 水。 雇 佣 费 将 会 花 去 我 们 20 第 纳 尔。 
+dlga_dplmc_talk_appoint_chamberlain_confirm:dplmc_talk_appoint_confirm_yes|去 安 排 吧。 
+dlga_dplmc_talk_appoint_chamberlain_confirm:spouse_pretalk|以 后 再 议。 
+dlga_dplmc_talk_appoint_chamberlain_confirm:minister_pretalk|以 后 再 议。 
+dlga_dplmc_talk_staff:dplmc_talk_appoint_chancellor|我 想 要 雇 佣 一 名 大 臣。 
+dlga_dplmc_talk_appoint_chancellor:dplmc_talk_appoint_chancellor_confirm|明 智 的 决 定。 我 能 向 您 推 荐 一 位 很 有 能 力 的 贵 族 么？ 他 是 我 家 族 的 朋 友。 他 的 名 字 是 赫 法 斯 特。 他 只 需 每 周 15 第 纳 尔 的 薪 水。 雇 佣 费 将 会 花 去 我 们 20 第 纳 尔。 
+dlga_dplmc_talk_appoint_chancellor_confirm:dplmc_talk_appoint_confirm_yes|去 安 排 吧。 
+dlga_dplmc_talk_appoint_chancellor_confirm:spouse_pretalk|以 后 再 议。 
+dlga_dplmc_talk_appoint_chancellor_confirm:minister_pretalk|以 后 再 议。 
+dlga_dplmc_talk_staff:minister_pretalk|算 了。 
+dlga_dplmc_talk_staff:spouse_pretalk|算 了。 
+dlga_spouse_talk:dplmc_spouse_talk_buy_food_amount_ask|你 能 帮 忙 去 买 一 些 面 包 么？ 
+dlga_dplmc_spouse_talk_buy_food_amount_ask:dplmc_spouse_talk_buy_food_amount|你 希 望 我 买 多 少 面 包？ 
+dlga_dplmc_spouse_talk_buy_food_amount:dplmc_spouse_talk_buy_food|50。 
+dlga_dplmc_spouse_talk_buy_food_amount:dplmc_spouse_talk_buy_food.1|100。 
+dlga_dplmc_spouse_talk_buy_food_amount:dplmc_spouse_talk_buy_food.2|150。 
+dlga_dplmc_spouse_talk_buy_food_amount:dplmc_spouse_talk_buy_food.3|200。 
+dlga_dplmc_spouse_talk_buy_food_amount:spouse_pretalk|算 了。 
+dlga_dplmc_spouse_talk_buy_food:dplmc_spouse_talk_buy_food_confirm|当 然， 我 会 去 {s6} 的 商 人 那 里 买 一 些 面 包。 这 将 花 去 我 们 {reg0} 第 纳 尔。 
+dlga_dplmc_spouse_talk_buy_food:spouse_pretalk|商 人 们 没 有 足 够 的 面 包 存 量， 我 们 得 等 等 了。 
+dlga_dplmc_spouse_talk_buy_food_confirm:close_window|我 们 能 负 担 的 起， 去 购 买 吧。 
+dlga_dplmc_spouse_talk_buy_food_confirm:close_window.1|也 许 我 们 可 以 稍 后 再 决 定。 
+dlga_minister_talk:dplmc_minister_staff_talk_ask|我 希 望 雇 佣 一 个 新 的 大 臣。 
+dlga_dplmc_minister_staff_talk_ask:dplmc_talk_staff|您 希 望 雇 佣 哪 方 面 的 大 臣？ 
+dlga_lord_talk:rafi_lord_go_crusading|{s66}， 我 希 望 前 往 圣 地 和 我 的 兄 弟 们 一 起 为 上 帝 而 战， 我 能 离 开 您 一 段 时 间 么？ 
+dlga_lord_talk:rafi_lord_return_crusading|{s66}， 我 从 圣 地 归 来 并 已 准 备 好 再 次 以 汝 之 名 作 战。 {***}回到你的名下作战
+dlga_rafi_lord_go_crusading:close_window|当 然 可 以， 圣 战 最 高， 发 扬 十 字 军 的 荣 光 并 且 安 全 的 回 来。 {***}大雾。。。
+dlga_rafi_lord_return_crusading:close_window|欢 迎 回 来， 我 们 听 说 了 你 的 战 功， 你 令 我 们 骄 傲。 
+dlga_lord_talk:dplmc_lord_give_back_fief|{s66}， 我 希 望 放 弃 一 块 您 授 予 的 封 地。 
+dlga_dplmc_lord_give_back_fief:dplmc_lord_give_back_fief_select|哦， 你 确 定 你 无 法 管 理 了 么？ 你 希 望 我 收 回 哪 块 封 地？ 
+dlga_dplmc_lord_give_back_fief_select:dplmc_lord_give_back_fief_confirm_ask|{s11}。 
+dlga_dplmc_lord_give_back_fief_select:lord_pretalk|算 了。 
+dlga_dplmc_lord_give_back_fief_confirm_ask:dplmc_lord_give_back_fief_confirm|那 么 你 确 定 你 无 法 完 成 你 的 承 诺 管 理 好 {s11} 么？ 
+dlga_dplmc_lord_give_back_fief_confirm:lord_pretalk|是 的， 我 想 要 放 弃 对 {s11} 的 管 理 权。 
+dlga_dplmc_lord_give_back_fief_confirm:lord_pretalk.1|不， 我 将 信 守 诺 言 继 续 管 理 {s11}。 
+dlga_lord_talk:dplmc_lord_declare_war|{s66}， 我 们 应 该 向 其 他 国 家 宣 战。 
+dlga_dplmc_lord_declare_war:close_window|你 怎 么 敢 如 此 和 我 说 话？ 你 以 为 你 是 谁？ 滚 出 我 的 视 线！ 
+dlga_dplmc_lord_declare_war:dplmc_lord_declare_war_kingdoms_select|向 谁 发 起 战 争？
+dlga_dplmc_lord_declare_war_kingdoms_select:dplmc_lord_declare_war_ask_why|{s11}。 
+dlga_dplmc_lord_declare_war_kingdoms_select:lord_pretalk|算 了。 
+dlga_dplmc_lord_declare_war_ask_why:dplmc_lord_declare_war_why|你 有 什 么 理 由 可 以 说 服 我 向 {s11} 宣 战？ 
+dlga_dplmc_lord_declare_war_why:dplmc_lord_declare_war_anything_else|他 们 很 软 弱， 我 们 可 以 轻 易 的 击 败 他 们。 
+dlga_dplmc_lord_declare_war_why:dplmc_lord_declare_war_anything_else.1|我 们 已 经 无 法 再 容 忍 他 们 的 挑 衅 了。 
+dlga_dplmc_lord_declare_war_why:dplmc_lord_declare_war_anything_else.2|他 们 正 处 于 战 火 之 中， 无 法 分 心 对 付 我 们。 {***}我 们 可 以 趁 人 之 危 。
+dlga_dplmc_lord_declare_war_why:dplmc_lord_declare_war_anything_else.3|这 是 我 们 千 载 难 逢 的 机 会。 
+dlga_dplmc_lord_declare_war_why:dplmc_lord_declare_war_anything_else.4|我 们 应 该 夺 回 我 们 所 失 去 的 领 地。 
+dlga_dplmc_lord_declare_war_why:dplmc_lord_declare_war_decision|我 已 经 提 出 了 所 有 应 该 开 战 的 理 由， 请 您 仔 细 考 虑 下！ 
+dlga_dplmc_lord_declare_war_why:lord_pretalk|我 需 要 安 静 下 来 仔 细 的 考 虑 一 下。 
+dlga_dplmc_lord_declare_war_anything_else:dplmc_lord_declare_war_why|当 然， 还 有 其 他 事 么？ 
+dlga_dplmc_lord_declare_war_decision:close_window|你 说 服 了 我， 我 们 立 刻 向 {s11} 宣 战。 
+dlga_dplmc_lord_declare_war_decision:close_window.1|不， 我 无 法 赞 同 你 的 想 法， 我 们 不 会 向 {s11} 宣 战。 
+dlga_spouse_talk:dplmc_spouse_move_residence_ask|我 希 望 迁 居。 
+dlga_dplmc_spouse_move_residence_ask:dplmc_spouse_move_residence_tools|迁 居 后 需 要 重 新 装 修。 具 体 来 说， 我 们 需 要 一 组 工 具 和 两 沓 亚 麻 布。 
+dlga_dplmc_spouse_move_residence_tools:dplmc_spouse_move_residence_select_ask|好 的， 我 认 为 我 们 已 经 具 备 了 所 有 迁 居 所 虚 的 东 西。 
+dlga_dplmc_spouse_move_residence_tools:spouse_pretalk|好 的， 我 认 为 我 应 该 去 购 买 一 组 工 具 和 一 些 亚 麻 布。 
+dlga_dplmc_spouse_move_residence_select_ask:dplmc_spouse_move_residence_select|你 想 迁 到 哪？ 
+dlga_dplmc_spouse_move_residence_select:dplmc_spouse_move_residence_ask_confirm|{s6}。 
+dlga_dplmc_spouse_move_residence_select:spouse_pretalk|我 改 变 主 意 了。 
+dlga_dplmc_spouse_move_residence_ask_confirm:dplmc_spouse_move_residence_confirm|你 确 定 要 迁 往 {s6} 么？ 
+dlga_dplmc_spouse_move_residence_confirm:dplmc_spouse_move_residence_moved|是 的， 就 拜 托 给 你 了。 
+dlga_dplmc_spouse_move_residence_confirm:spouse_pretalk|算 了。 
+dlga_dplmc_spouse_move_residence_moved:spouse_pretalk|如 你 所 愿， 我 将 会 安 排 好 迁 居 到 {s6} 的 事 情 的。 
+dlga_minister_diplomatic_initiative_type_select:minister_diplomatic_emissary|用战争的威胁来恐吓他们，看看你能从他们那儿榨取些什么
+dlga_event_triggered:dplmc_companion_threaten_request_response|终 于 找 到 您 了， {s21} 大 人。 我 刚 完 成 {s31} 的 任 务 归 来。 
+dlga_dplmc_companion_threaten_request_response:companion_rejoin_response|他 们 支 付 了 {s21} 第 纳 尔 以 换 取 和 平。 我 已 代 表 您 签 署 了 一 份 为 期 40 天 的 停 战 条 约。 
+dlga_dplmc_companion_threaten_request_response:companion_rejoin_response.1|他 们 向 我 们 宣 战 了。 
+dlga_dplmc_companion_threaten_request_response:companion_rejoin_response.2|他 们 不 接 受 我 们 的 威 胁。 
+dlga_minister_diplomatic_initiative_type_select:dplmc_minister_gift_type|我 希 望 送 一 份 礼 物 表 达 友 好。 
+dlga_dplmc_minister_gift_type:dplmc_minister_gift_type_select|我 们 可 以 送 他 们 一 些 从 我 国 最 好 的 马 场 出 产 的 良 种 马， 或 者 赠 送 一 块 土 地。
+dlga_dplmc_minister_gift_type:dplmc_minister_gift_type_select.1|在 我 们 拥 有 管 家 之 前 我 们 只 能 赠 送 土 地。 
+dlga_dplmc_minister_gift_type_select:minister_diplomatic_emissary|送 价 值 3000 第 纳 尔 的 马 匹。 
+dlga_dplmc_minister_gift_type_select:minister_diplomatic_emissary.1|送 价 值 6000 第 纳 尔 的 马 匹。 
+dlga_dplmc_minister_gift_type_select:dplmc_minister_gift_fief|赠 送 一 块 土 地。 
+dlga_dplmc_minister_gift_type_select:minister_pretalk|算 了。 
+dlga_dplmc_minister_gift_fief:dplmc_minister_gift_fief_select|您 希 望 赠 送 哪 一 块 土 地？ 
+dlga_dplmc_minister_gift_fief_select:minister_diplomatic_emissary|{s1}。 
 dlga_minister_emissary_dispatch:minister_diplomatic_dispatch_confirm|很 好— — 我 会 派 {s11}到 {s12}去 {s14}。 
-dlga_event_triggered:companion_rejoin_response|你 好， {s21}。 你 准 备 好 让 我 重 新 加 入 你 们 了 吗？ 
-dlga_minister_talk:dplmc_minister_kingdom_culture_ask|I wish to select the kingdom's religion.{***}
-dlga_dplmc_minister_kingdom_culture_ask:dplmc_minister_kingdom_culture_select|{s12}. Do you want to change it (you can do this only every 30 days){***}
-dlga_dplmc_minister_kingdom_culture_select:minister_pretalk|{s10}{***}
-dlga_dplmc_minister_kingdom_culture_select:minister_pretalk.1|Never mind.{***}
-dlga_minister_talk:dplmc_minister_exchange_prisoner_ask|I wish to exchange a prisoner.{***}
-dlga_dplmc_minister_exchange_prisoner_ask:dplmc_minister_exchange_prisoner_select|Which prisoner do you want to exchange?{***}
-dlga_dplmc_minister_exchange_prisoner_ask:minister_pretalk|Unfortunately, there is no one to send right now.{***}
-dlga_dplmc_minister_exchange_prisoner_select:dplmc_minister_exchange_prisoner_lord_ask|{s10} of {s11}{***}
-dlga_dplmc_minister_exchange_prisoner_select:minister_pretalk|Nobody.{***}
-dlga_dplmc_minister_exchange_prisoner_lord_ask:dplmc_minister_exchange_prisoner_lord_select|Which of our lords do you like to you want to set free?{***}
-dlga_dplmc_minister_exchange_prisoner_lord_select:dplmc_minister_prisoner_emissary|{s10}.{***}
-dlga_dplmc_minister_exchange_prisoner_lord_select:minister_pretalk|Nobody.{***}
-dlga_dplmc_minister_prisoner_emissary:minister_emissary_select|Who shall negotiate the exchange?{***}
-dlga_event_triggered:dplmc_companion_prisoner_exchange_confirm|Well, {s21}, at last I've found you.They agreed to exchange {s32} against {s33}. {s33} has accompanied me back here. Do you want to set {s32} free?{***}
-dlga_dplmc_companion_prisoner_exchange_confirm:companion_rejoin_response|Yes set him free.{***}
-dlga_dplmc_companion_prisoner_exchange_confirm:companion_rejoin_response.1|No don't set him free.{***}
-dlga_event_triggered:companion_rejoin_response.1|好 啊， {s21}， 我 终 于 找 到 你 了。 我 已 经 在 这 个 世 界 上 到 处 传 播 了 你 的 宣 言， 现 在 我 已 经 准 备 好 归 队 了。 
-dlga_minister_talk:dplmc_minister_spy_kingdoms|I wish to spy out another kingdom.{***}
-dlga_dplmc_minister_spy_kingdoms:dplmc_minister_spy_kingdoms_select|To whom do you wish to send this spy?{***}
-dlga_dplmc_minister_spy_kingdoms:minister_pretalk|Unfortunately, there is no one to send right now.{***}
-dlga_dplmc_minister_spy_kingdoms_select:dplmc_minister_spy_emissary|{s11}{s14}{***}
-dlga_dplmc_minister_spy_emissary:minister_emissary_select|Who shall be your spy? You should choose one whom you trust - and who has skills in spotting!{***}
+dlga_event_triggered:companion_rejoin_response|终 于 找 到 您 了， {s21} 大 人。 我 已 经 完 成 了 在 {s31} 的 任 务， 他 们 显 得 很 惊 喜。 
+dlga_minister_talk:dplmc_minister_kingdom_culture_ask|我 想 要 选 择 国 家 的 地 域 文 化。 
+dlga_dplmc_minister_kingdom_culture_ask:dplmc_minister_kingdom_culture_select|{s12}， 你 确 定 想 要 改 变 么？ 你 每 30 天 可 以 得 到 一 次 机 会。 
+dlga_dplmc_minister_kingdom_culture_select:minister_pretalk|{s10}。 
+dlga_dplmc_minister_kingdom_culture_select:minister_pretalk.1|算 了。 
+dlga_minister_talk:dplmc_minister_exchange_prisoner_ask|我 想 要 交 换 一 名 战 俘。 
+dlga_dplmc_minister_exchange_prisoner_ask:dplmc_minister_exchange_prisoner_select|您 想 要 交 换 哪 一 名 战 俘？ 
+dlga_dplmc_minister_exchange_prisoner_ask:minister_pretalk|很 不 幸， 现 在 没 有 战 俘 可 以 用 来 交 换。 
+dlga_dplmc_minister_exchange_prisoner_select:dplmc_minister_exchange_prisoner_lord_ask|{s11} 的 {s10}。 
+dlga_dplmc_minister_exchange_prisoner_select:minister_pretalk|算 了。 
+dlga_dplmc_minister_exchange_prisoner_lord_ask:dplmc_minister_exchange_prisoner_lord_select|您 希 望 交 换 哪 一 名 我 方 领 主 赐 予 其 自 由？ 
+dlga_dplmc_minister_exchange_prisoner_lord_select:dplmc_minister_prisoner_emissary|{s10}。 
+dlga_dplmc_minister_exchange_prisoner_lord_select:minister_pretalk|算 了。 
+dlga_dplmc_minister_prisoner_emissary:minister_emissary_select|谁 去 代 表 我 们 进 行 交 换？ 
+dlga_event_triggered:dplmc_companion_prisoner_exchange_confirm|终 于 找 到 您 了， {s21} 大 人。 他 们 同 意 用 {s33} 交 换 {s32}。 {s33} 已 经 随 同 我 回 来 了。 您 希 望 还 {s32} 自 由 么？ 
+dlga_dplmc_companion_prisoner_exchange_confirm:companion_rejoin_response|当 然， 赐 予 他 自 由 吧。 
+dlga_dplmc_companion_prisoner_exchange_confirm:companion_rejoin_response.1|不， 不 要 让 他 离 开。 
+dlga_event_triggered:companion_rejoin_response.1|终 于 找 到 您 了， {s21} 大 人。 他 们 不 同 意 用 {s33} 交 换 {s32}。
+dlga_minister_talk:dplmc_minister_spy_kingdoms|我 希 望 派 出 间 谍 侦 查 其 他 国 家 的 信 息。 
+dlga_dplmc_minister_spy_kingdoms:dplmc_minister_spy_kingdoms_select|您 希 望 向 哪 个 国 家 派 出 间 谍？ 
+dlga_dplmc_minister_spy_kingdoms:minister_pretalk|很 不 幸， 大 人。 现 在 没 有 可 以 派 出 的 人。 
+dlga_dplmc_minister_spy_kingdoms_select:dplmc_minister_spy_emissary|{s11}{s14}。 
+dlga_dplmc_minister_spy_emissary:minister_emissary_select|您 希 望 派 谁 前 往？ 我 认 为 您 应 该 选 择 一 个 可 以 完 全 信 任 并 且 老 练 能 干 的 人！ {***}拥有侦查能力的人
 dlga_event_triggered:dplmc_companion_spy_request_select_center|Well, {s21}, at last I've found you. I have returned from my reconnaissance mission to {s31}. About which location do you need information?{***}
 dlga_event_triggered:close_window.1|那 儿！ 我 可 以 看 到 远 处 {s3}的 城 墙。 我 们 安 全 到 达 了 这 里。 给， 拿 上 我 承 诺 过 的 这 {reg3}第 纳 尔。 我 希 望 哪 天 能 再 和 你 结 伴 而 行。 
 dlga_dplmc_companion_spy_request_select_center:dplmc_companion_spy_request_center_selected|{s60}{***}
