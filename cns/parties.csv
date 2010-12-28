@@ -202,8 +202,8 @@ p_castle_15_1|普 热 梅 希 尔
 p_castle_15_2|卢 茨 克 
 p_castle_15_3|德 罗 希 琴 
 p_castle_15_4|巴 库 玛 
-p_castle_15_5|布雷斯特{***}
-p_castle_15_6|Terebovl{***}
+p_castle_15_5|布 雷 斯 特{***}
+p_castle_15_6|特 雷 波 利 雅 {***}
 p_castle_16_1|吉 马 良 斯 
 p_castle_16_2|梅 尔 图 拉 
 p_castle_16_3|锡 尔 维 什 
@@ -377,16 +377,16 @@ p_village_6_26|巴 尔 伽 利
 p_village_7_1|克 雷 姆 尼 察 
 p_village_7_2|佩 奇 
 p_village_7_3|佩 斯 
-p_village_7_4|克 鲁 斯 瓦 
-p_village_7_5|Ikervar{***}
-p_village_7_6|Tolchva{***}
-p_village_7_7|Jaska{***}
-p_village_7_8|Jablanac{***}
+p_village_7_4|科 洛 斯 堡 {***} 
+p_village_7_5|伊 凯 尔 堡 {***}
+p_village_7_6|托 尔 茨 瓦 {***}
+p_village_7_7|亚 斯 卡 {***}
+p_village_7_8|亚 布 拉 纳 茨 {***}
 p_village_7_9|维 斯 普 雷 姆 
 p_village_7_10|曾 格 
 p_village_7_11|小 克 勒 什 
-p_village_7_12|阿拉德
-p_village_7_13|Zyloc{***}
+p_village_7_12|阿 拉 德
+p_village_7_13|奇 洛 科 {***}
 p_village_7_14|布 达 
 p_village_7_15|乔 纳 德 
 p_village_7_16|蒂 米 什 瓦 拉 
@@ -394,7 +394,7 @@ p_village_8_1|拉 多 加
 p_village_8_2|希 姆 斯 基 
 p_village_8_3|佩 斯 基 
 p_village_8_4|伊 万 诺 夫 斯 科 耶 
-p_village_8_5|Yurevo{***}
+p_village_8_5|尤 里 耶 沃 {***}
 p_village_8_6|吕 贝 齐 
 p_village_9_1|格 瑞 内 斯 
 p_village_9_2|波 伊 斯 
@@ -447,20 +447,20 @@ p_village_11_3|Þorshofn{***}
 p_village_11_4|Hamarr{***}
 p_village_11_5|Borg{***}
 p_village_11_6|Véey{***}
-p_village_11_7|Kaupangr{***}
+p_village_11_7|凯 于 庞 厄 尔 {***}
 p_village_11_8|Skiða{***}
 p_village_11_9|Konungahella{***}
 p_village_11_10|Suðreyjar{***}
-p_village_11_11|Orkneyjar{***}
-p_village_11_12|Steinker{***}
-p_village_12_1|Inverness{***}
-p_village_12_2|Oban{***}
-p_village_12_3|Wick{***}
-p_village_12_4|Scone{***}
-p_village_12_5|Carluke{***}
-p_village_12_6|Edinburgh{***}
-p_village_12_7|Linlithgow{***}
-p_village_12_8|Perth{***}
+p_village_11_11|奥 克 尼 岛 {***}
+p_village_11_12|斯 泰 恩 谢 尔 {***}
+p_village_12_1|因 弗 内 斯 {***}
+p_village_12_2|奥 本 {***}
+p_village_12_3|威 克 {***}
+p_village_12_4|斯 昆 {***}
+p_village_12_5|卡 卢 克 {***}
+p_village_12_6|爱 丁 堡 {***}
+p_village_12_7|林 利 斯 哥 {***}
+p_village_12_8|帕 斯 {***}
 p_village_13_1|Cashel{***}
 p_village_13_2|Ennis{***}
 p_village_13_3|Castlerea{***}
@@ -617,7 +617,7 @@ p_village_29_2|索 罗 图 萨 {***}
 p_village_29_3|加 茨 科 {***}
 p_village_29_4|普 列 奥 切 {***}
 p_village_29_5|塞尔博瓦奇{***}
-p_village_29_6|科 比 利 亚- 格 拉 瓦 {***}
+p_village_29_6|科 比 利 亚 - 格 拉 瓦 {***}
 p_village_30_1|Tryavna{***}
 p_village_30_2|切 尔 文 
 p_village_30_3|康 斯 坦 萨 
