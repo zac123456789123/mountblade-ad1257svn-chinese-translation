@@ -1,13 +1,13 @@
 menu_start_game_0|您 好， 冒 险 者， 欢 迎 来 到 骑 马 与 砍 杀： 战 团。 游 戏 开 始 前， 你 必 须 创 建 你 的 角 色。 请 您 注 意， 游 戏 发 生 在 中 世 纪 的 传 统 社 会 里， 因 此， 战 争 和 政 治 通 常 都 由 男 性 贵 族 来 支 配。 但 这 并 不 表 示 您 不 能 选 择 一 个 女 性 角 色， 或 者 是 平 民 出 身 的 角 色 来 进 行 游 戏。 选 择 男 性 贵 族 也 许 会 让 游 戏 的 初 期 更 容 易 一 些， 不 过 女 性 和 平 民 同 样 可 以 获 得 与 前 者 相 同 的 成 就—— 实 际 上， 游 戏 初 期 更 有 挑 战 性， 也 许 会 给 您 带 来 更 多 的 乐 趣。 
 mno_continue|继 续 
 mno_go_back|后 退。 
-menu_start_phase_2|你 听 说 过 卡 拉 迪 亚， 这 里 是 一 片 被 互 相 竞 争 着 的 国 家 所 割 裂 开 来 的 土 地， 是 争 夺 霸 权 者 的 避 难 所， 所 有 追 逐 着 财 富， 权 力 抑 或 是 荣 誉 的 人 们 皆 聚 集 于 此， 骑 士， 雇 佣 兵， 杀 手， 探 险 家 们 在 这 片 土 地 上 四 散 奔 走…… 机 会 与 危 险 并 存 于 此， 你 相 信 你 将 放 弃 过 去 的 一 切， 开 始 一 段 新 的 旅 程。 你 觉 得 最 终， 命 运 掌 握 在 你 自 己 的 手 中， 你 可 以 随 心 所 欲， 无 论 过 程 怎 样， 一 次 伟 大 的 冒 险 将 就 此 展 开。你 被 你 所 听 说 的 卡 拉 迪 亚 神 奇 的 传 说 和 王 国 所 吸 引， 你…… 
-mno_town_quest|join a merchant caravan to travel to your destination.{***}
+menu_start_phase_2|你 听 说 过 欧 洲， 这 里 是 一 片 被 互 相 竞 争 着 的 国 家 所 割 裂 开 来 的 土 地， 是 骑 士 和 商 人 的 天 堂， 所 有 追 逐 着 财 富， 权 力 抑 或 是 荣 誉 的 人 们 皆 聚 集 于 此， 骑 士， 雇 佣 兵， 杀 手， 探 险 家 们 在 这 片 土 地 上 四 散 奔 走…… 机 会 与 危 险 并 存 于 此， 你 相 信 你 将 放 弃 过 去 的 一 切， 开 始 一 段 新 的 旅 程。 你 觉 得 最 终， 命 运 掌 握 在 你 自 己 的 手 中， 你 可 以 随 心 所 欲， 无 论 过 程 怎 样， 一 次 伟 大 的 冒 险 将 就 此 展 开。你 被 你 所 听 说 的 欧 洲 和 它 的 王 国 们 的 神 奇 传 说 所 吸 引， 你…… 
+mno_town_quest|加 入 一 支 商 队 来 到 达 你 的 目 的 地 
 menu_start_game_3|选 择 剧 本 
 mno_go_back|后 退。 
 menu_tutorial|你 进 入 了 训 练 场， 不 少 当 地 人 都 在 里 面 进 行 着 武 器 的 训 练。 在 这 里 你 可 以 通 过 各 种 训 练 来 提 高 你 的 战 斗 技 巧。 
 mno_continue|继 续 
-mno_choose_scene|Scene Chooser{***}
+mno_choose_scene|场 景 选 择 
 mno_go_back_dot|后 退。 
 menu_reports|角 色 声 望： {reg5}^ 荣 誉 级 别： {reg6}^ 部 队 士 气： {reg8}^ 部 队 上 限： {reg7}^ 
 mno_view_character_report|角 色 状 态。 
@@ -20,14 +20,13 @@ mno_courtship_relations|个 人 问 题。
 mno_view_faction_relations_report|阵 营 关 系。 
 mno_resume_travelling|继 续 旅 程。 
 menu_custom_battle_scene|(NO TRANS)
-mno_go_back|后 退。 
 menu_custom_battle_end|战 斗 结 束。 {s1}你 的 队 伍 杀 死 了 {reg5}人， 敌 人 的 队 伍 杀 死 了 {reg6}人。 你 杀 死 了 {reg7}人。 
 mno_continue|继 续 
 menu_start_game_1|选 择 你 的 角 色 性 别。 
 mno_start_male|男 
 mno_start_female|女 
-mno_enable_quickstart|Enable quickstart (this is useful for debugging only){***}
-mno_enable_quickstart|Enable quickstart (this is useful for debugging only){***}
+mno_enable_quickstart|使 用 快 速 开 始 模 式（ 测 试 专 用） 
+mno_enable_quickstart|关 闭 快 速 开 始 模 式 
 mno_go_back|后 退。 
 menu_start_character_1|当 你 很 多 年 前 出 生 在 一 片 遥 远 的 大 陆 时， 你 的 父 亲 是…… 
 mno_start_noble|一 位 没 落 的 贵 族。 
@@ -77,30 +76,22 @@ menu_companion_report|{s7}{s1}
 mno_continue|继 续 
 mno_go_back_dot|后 退。 
 menu_character_report|{s9}
-mno_continue|继 续 
-mno_continue|继 续 
-mno_continue|继 续 
-mno_continue|继 续 
-mno_continue|继 续 
-mno_continue|继 续 
 menu_party_size_report|{s1}
 mno_continue|继 续 
 menu_faction_relations_report|{s1}
 mno_continue|继 续 
 menu_camp|营 地 已 经 建 好 了， 你 想 要 做 什 么？ 
-mno_action_export_import|Export/Import NPCs.{***}
+mno_action_export_import|导 入 /导 出 NPC.
 mno_action_mod_options|Mod Options{***}
 mno_action_faction_colours|Change faction colours{***}
 mno_camp_manage_inventory|Manage your party's inventory.{***}
 mno_camp_action|干 点 事 情。 
 mno_camp_wait_here|在 这 里 待 一 会 儿。 
-mno_camp_cheat|作 弊 啦！ 
+mno_camp_cheat|作 弊 菜 单！ 
 mno_resume_travelling|继 续 旅 程。 
 menu_camp_cheat|选 择 作 弊 项 目： 
-mno_camp_cheat_find_item|改 变 天 气…… 
-mno_camp_cheat_find_item|改 变 天 气…… 
-mno_camp_action_4|退 回 营 地 菜 单。 
-mno_camp_action_4|退 回 营 地 菜 单。 
+mno_camp_cheat_find_item|查 找 项 目 ……
+mno_camp_cheat_find_item|改 变 天 气 …… 
 menu_camp_action|选 择 你 要 做 的 事： 
 mno_camp_recruit_prisoners|从 俘 虏 中 募 兵。 
 mno_action_read_book|选 一 本 书 读。 
@@ -143,6 +134,8 @@ mno_cattle_kill_5|五。
 mno_go_back_dot|后 退。 
 menu_arena_duel_fight|你 和 你 的 对 手 准 备 决 斗。 
 mno_continue|继 续 
+mno_continue|继 续 
+menu_prepare_for_battle|战 斗 准 备 阶 段 开 始。 
 mno_continue|继 续 
 menu_simple_encounter|{s2}你 将 以 {reg10}人 的 部 队 迎 战 对 手 {reg11}人。 
 mno_encounter_attack|攻 入 敌 阵！ 
@@ -199,15 +192,15 @@ menu_four_ways_inn|你 进 入 了 四 方 客 栈。
 mno_enter|进 入 
 mno_leave|离 开 
 menu_test_scene|你 进 入 了 测 试 场 景。 
-mno_enter|进 入 
-mno_enter|进 入 
-mno_enter|进 入 
-mno_enter|进 入 
-mno_enter|进 入 
-mno_enter|进 入 
-mno_enter|进 入 
-mno_enter|进 入 
-mno_enter|进 入 
+mno_enter|进 入 1。 
+mno_enter|进 入 2。 
+mno_enter|进 入 3。 
+mno_enter|进 入 4。 
+mno_enter|进 入 5。 
+mno_enter|进 入 6。 
+mno_enter|进 入 7。 
+mno_enter|进 入 8。 
+mno_enter|进 入 9。 
 mno_leave|离 开 
 mno_leave|离 开 
 menu_dhorak_keep|你 进 入 了 多 拉 克 要 塞。 
@@ -263,7 +256,7 @@ mno_build_siege_tower|建 立 攻 城 塔。
 mno_lift_siege|放 弃 围 城。 
 menu_siege_attack_meets_sally|守 城 方 派 了 部 队 来 对 你 进 行 还 击。 
 mno_continue|继 续 
-menu_siege_attack_meets_sally_player|Your forces sally out to delay the besiegers.
+menu_siege_attack_meets_sally_player|你 的 部 队 已 经 派 出 去 阻 击 攻 城 者 了。 
 mno_continue|继 续 
 menu_castle_besiege_inner_battle|{s1}
 mno_continue|继 续 

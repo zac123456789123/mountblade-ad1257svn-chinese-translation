@@ -80,6 +80,7 @@ p_town_24_2|Napoli
 p_town_25_1|Cairo
 p_town_25_2|Alexandria
 p_town_25_3|Damietta
+p_town_25_4|Damascus
 p_town_26_1|Constantinople
 p_town_26_2|Athenai
 p_town_27_1|Trebizond
@@ -579,6 +580,8 @@ p_village_25_10|Marba Dabthan
 p_village_25_11|Suluq
 p_village_25_12|Ma'an
 p_village_25_13|Al Fayyun
+p_village_25_14|Burqush
+p_village_25_15|Kiswa
 p_village_26_1|Delcus
 p_village_26_2|Rodosto
 p_village_26_3|Corinthos

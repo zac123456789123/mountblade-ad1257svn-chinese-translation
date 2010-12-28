@@ -3138,6 +3138,7 @@ trp_town_24_2_arena_master|Tournament Master
 trp_town_25_1_arena_master|Tournament Master
 trp_town_25_2_arena_master|Tournament Master
 trp_town_25_3_arena_master|Tournament Master
+trp_town_25_4_arena_master|Tournament Master
 trp_town_26_1_arena_master|Tournament Master
 trp_town_26_2_arena_master|Tournament Master
 trp_town_30_2_arena_master|Tournament Master
@@ -3233,6 +3234,7 @@ trp_town_24_2_armorer|Armorer
 trp_town_25_1_armorer|Armorer
 trp_town_25_2_armorer|Armorer
 trp_town_25_3_armorer|Armorer
+trp_town_25_4_armorer|Armorer
 trp_town_26_1_armorer|Armorer
 trp_town_26_2_armorer|Armorer
 trp_town_30_2_armorer|Armorer
@@ -3328,6 +3330,7 @@ trp_town_24_2_weaponsmith|Weaponsmith
 trp_town_25_1_weaponsmith|Weaponsmith
 trp_town_25_2_weaponsmith|Weaponsmith
 trp_town_25_3_weaponsmith|Weaponsmith
+trp_town_25_4_weaponsmith|Weaponsmith
 trp_town_26_1_weaponsmith|Weaponsmith
 trp_town_26_2_weaponsmith|Weaponsmith
 trp_town_30_2_weaponsmith|Weaponsmith
@@ -3423,6 +3426,7 @@ trp_town_24_2_tavernkeeper|Tavern Keeper
 trp_town_25_1_tavernkeeper|Tavern Keeper
 trp_town_25_2_tavernkeeper|Tavern Keeper
 trp_town_25_3_tavernkeeper|Tavern Keeper
+trp_town_25_4_tavernkeeper|Tavern Keeper
 trp_town_26_1_tavernkeeper|Tavern Keeper
 trp_town_26_2_tavernkeeper|Tavern Keeper
 trp_town_30_2_tavernkeeper|Tavern Keeper
@@ -3518,6 +3522,7 @@ trp_town_24_2_merchant|Merchant
 trp_town_25_1_merchant|Merchant
 trp_town_25_2_merchant|Merchant
 trp_town_25_3_merchant|Merchant
+trp_town_25_4_merchant|Merchant
 trp_town_26_1_merchant|Merchant
 trp_town_26_2_merchant|Merchant
 trp_town_30_2_merchant|Merchant
@@ -3615,6 +3620,7 @@ trp_town_24_2_horse_merchant|Horse Merchant
 trp_town_25_1_horse_merchant|Horse Merchant
 trp_town_25_2_horse_merchant|Horse Merchant
 trp_town_25_3_horse_merchant|Horse Merchant
+trp_town_25_4_horse_merchant|Horse Merchant
 trp_town_26_1_horse_merchant|Horse Merchant
 trp_town_30_2_horse_merchant|Horse Merchant
 trp_town_30_2_horse_merchant|Horse Merchant
@@ -3710,6 +3716,7 @@ trp_town_24_2_mayor|Guild Master
 trp_town_25_1_mayor|Guild Master
 trp_town_25_2_mayor|Guild Master
 trp_town_25_3_mayor|Guild Master
+trp_town_25_4_mayor|Guild Master
 trp_town_26_1_mayor|Guild Master
 trp_town_26_2_mayor|Guild Master
 trp_town_30_2_mayor|Guild Master
@@ -4036,6 +4043,8 @@ trp_village_25_10_elder|Village Elder
 trp_village_25_11_elder|Village Elder
 trp_village_25_12_elder|Village Elder
 trp_village_25_13_elder|Village Elder
+trp_village_25_14_elder|Village Elder
+trp_village_25_15_elder|Village Elder
 trp_village_26_1_elder|Village Elder
 trp_village_26_2_elder|Village Elder
 trp_village_26_3_elder|Village Elder

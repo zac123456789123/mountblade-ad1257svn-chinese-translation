@@ -80,6 +80,7 @@ p_town_24_2|那 不 勒 斯
 p_town_25_1|开 罗 
 p_town_25_2|亚 历 山 大 
 p_town_25_3|杜 姆 亚 特 
+p_town_25_4|大 马 士 革 
 p_town_26_1|君 士 坦 丁 堡 
 p_town_26_2|雅 典 
 p_town_27_1|特 拉 比 松 
@@ -579,14 +580,16 @@ p_village_25_10|Marba Dabthan{***}
 p_village_25_11|Suluq{***}
 p_village_25_12|Ma'an{***}
 p_village_25_13|Al Fayyun{***}
+p_village_25_14|布 尔 库 什 {***}
+p_village_25_15|基 斯 瓦 {***}
 p_village_26_1|Delcus{***}
 p_village_26_2|罗 多 斯 托 {***}
-p_village_26_3|科 林 斯 {***}
-p_village_26_4|底 比 斯 {***}
-p_village_26_5|贝 洛 阿 {***}
-p_village_26_6|卡 斯 托 里 亚 {***}
+p_village_26_3|科 林 斯 
+p_village_26_4|底 比 斯 
+p_village_26_5|贝 洛 阿 
+p_village_26_6|卡 斯 托 里 亚 
 p_village_26_7|Dydimoteichon{***}
-p_village_26_8|加 里 波 利 {***}
+p_village_26_8|加 里 波 利 
 p_village_27_1|克 罗 尼 亚 
 p_village_27_2|埃 尔 祖 鲁 姆 
 p_village_27_3|Aksera{***}
