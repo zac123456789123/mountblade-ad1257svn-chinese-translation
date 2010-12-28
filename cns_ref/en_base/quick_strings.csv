@@ -123,6 +123,7 @@ qstr_Use_shield_bash__AI_|Use shield bash (AI):
 qstr_Spear_bracing:|Spear bracing:
 qstr_Force_ranged_troops_|Force ranged troops to use their ranged weapons:
 qstr_Disable_NPCs__compla|Disable NPCs' complaints:
+qstr_Reinforcement_waves:|Reinforcement waves:
 qstr_Probability_of_rain/|Probability of rain/snow (%):
 qstr_Cloud_amount:|Cloud amount:
 qstr_Fog_strength:|Fog strength:
@@ -138,6 +139,8 @@ qstr_ERROR____Towns:_{reg25}_m|ERROR -- Towns: {reg25} merchants: {reg26}
 qstr_ERROR____Towns:_{reg25}_h|ERROR -- Towns: {reg25} horse merchants: {reg26}
 qstr_ERROR____Towns:_{reg25}_a|ERROR -- Towns: {reg25} arena masters: {reg26}
 qstr_ERROR____Towns:_{reg25}_c|ERROR -- Towns: {reg25} craftsmen: {reg26}
+qstr_game_event_party_enc|game event party encounter
+qstr_prepare_for_battle|prepare for battle
 qstr_____________________|----------------------------- BATTLE ----------------------------
 qstr_{s26}_[o:_{reg30}_d:|{s26} [o: {reg30} d: {reg29}] vs {s25} [o: {reg28} d: {reg27}]
 qstr_{s26}_deals_{reg26}_|{s26} deals {reg26} to {s25} ----- {s25} deals {reg25} to {s26}
@@ -191,7 +194,6 @@ qstr_Your_opponents_are_r|Your opponents are ready for the fight.
 qstr_Try_to_destroy_as_ma|Try to destroy as many targets as you can. You have two and a half minutes to clear the track.
 qstr_Stay_behind_the_line|Stay behind the line on the ground and shoot the targets. Try not to waste any shots.
 qstr_DEBUG____{s21}_dista|DEBUG -- {s21} distance {reg21}
-qstr_party_{s22}_distance|party {s22} distance {reg22} chance {reg23}
 qstr_Battle_Advantage_=_{|Battle Advantage = {reg0}.
 qstr_{s9}_wants_you_to_re|{s9} wants you to resume following his army until further notice.
 qstr_{s21}_has_no_fief_we|{s21} has no fief weekly income: {reg21}
@@ -436,6 +438,7 @@ qstr_Villagers|Villagers
 qstr_You_have_encountered|You have encountered {s1}.
 qstr_You_have_engaged_{s1|You have engaged {s1} while they were raiding {s3}.
 qstr_You_were_caught_by_{|You were caught by {s1} while your forces were raiding {s3}.
+qstr____DEBUG____calling_|---DEBUG--- calling total victory from simple encounter
 qstr_You_were_victorious!|You were victorious!
 qstr_Battle_was_lost._You|Battle was lost. Your forces were utterly crushed.
 qstr_Your_companions_carr|Your companions carry you away from the fighting.
@@ -443,6 +446,7 @@ qstr_You_have_defeated_th|You have defeated the enemy.
 qstr_You_have_retreated_f|You have retreated from the fight.
 qstr_^^Ally_Casualties:{s|^^Ally Casualties:{s0}
 qstr_{s1}_of_{s3}_managed|{s1} of {s3} managed to escape.
+qstr_wtf_return?|wtf return?
 qstr_Some_of_your_tendons|Some of your tendons have been damaged in the battle. You lose 1 strength.
 qstr_You_took_a_nasty_wou|You took a nasty wound which will cause you to limp slightly even after it heals. You lose 1 agility.
 qstr_You_have_trouble_thi|You have trouble thinking straight after the battle, perhaps from a particularly hard hit to your head, and frequent headaches now plague your existence. Your intelligence is reduced by 1.
@@ -451,6 +455,7 @@ qstr_Retirement_is_starti|Retirement is starting to sound better and better.
 qstr_No_matter!_I_will_pe|No matter! I will persevere!
 qstr_What_did_I_do_to_des|What did I do to deserve this?
 qstr_I_suppose_it_ll_make|I suppose it'll make for a good story, at least...
+qstr____DEBUG____calling_t|---DEBUG--- calling total victory
 qstr_{s9}_wants_you_to_fo|{s9} wants you to follow his army until further notice.
 qstr_{s8}_of_{s9}|{s8} of {s9}
 qstr__Your_own_banner_fli| Your own banner flies over the castle gate.
@@ -570,6 +575,9 @@ qstr_Not_enough_money_in_|Not enough money in treasury to upgrade troops.
 qstr_Your_constable_upgra|Your constable upgraded {reg5} {s6} to {s7} in {s8}
 qstr_Your_messenger_has_d|Your messenger has delivered his message to {s26} and is on his way back to {s25}
 qstr_{s26}_has_arrived_in|{s26} has arrived in {s25} and is awaiting you there.
+qstr_grabbing_{s22}|grabbing {s22}
+qstr_relocating_{s22}_dis|relocating {s22} distance {reg20}
+qstr_prepare_for_battle__|prepare for battle - start encounter
 qstr_{reg65?my_Lady:my_Lo|{reg65?my Lady:my Lord}
 qstr_{reg65?My_Lady:My_Lo|{reg65?My Lady:My Lord}
 qstr_{reg65?madame:sir}|{reg65?madame:sir}

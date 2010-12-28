@@ -123,6 +123,7 @@ qstr_Use_shield_bash__AI_|打 开 盾 击（ AI） ：
 qstr_Spear_bracing:|允 许 架 矛： 
 qstr_Force_ranged_troops_|强 制 远 程 部 队 使 用 其 远 程 武 器： 
 qstr_Disable_NPCs__compla|禁 止 NPC之 间 相 互 抱 怨： 
+qstr_Reinforcement_waves:|增 援 波 次： 
 qstr_Probability_of_rain/|下 雨 /下 雪 的 概 率： 
 qstr_Cloud_amount:|云 量： 
 qstr_Fog_strength:|大 雾 浓 度： 
@@ -138,6 +139,8 @@ qstr_ERROR____Towns:_{reg25}_m|ERROR -- Towns: {reg25} merchants: {reg26}
 qstr_ERROR____Towns:_{reg25}_h|ERROR -- Towns: {reg25} horse merchants: {reg26}
 qstr_ERROR____Towns:_{reg25}_a|ERROR -- Towns: {reg25} arena masters: {reg26}
 qstr_ERROR____Towns:_{reg25}_c|ERROR -- Towns: {reg25} craftsmen: {reg26}
+qstr_game_event_party_enc|game event party encounter{***}
+qstr_prepare_for_battle|准 备 战 斗 
 qstr_____________________|----------------------------- 战 斗  ----------------------------
 qstr_{s26}_[o:_{reg30}_d:|{s26} [o: {reg30} d: {reg29}] vs {s25} [o: {reg28} d: {reg27}]{***}
 qstr_{s26}_deals_{reg26}_|{s26} deals {reg26} to {s25} ----- {s25} deals {reg25} to {s26}{***}
@@ -191,7 +194,6 @@ qstr_Your_opponents_are_r|你 的 对 手 已 经 准 备 好 了。
 qstr_Try_to_destroy_as_ma|你 需 要 在 两 分 半 钟 的 时 间 内 尽 可 能 多 的 摧 毁 目 标。 
 qstr_Stay_behind_the_line|站 在 线 后 射 击 目 标。 尽 量 不 要 浪 费 任 何 一 发 弹 药。 
 qstr_DEBUG____{s21}_dista|DEBUG -- {s21} distance {reg21}
-qstr_party_{s22}_distance|party {s22} distance {reg22} chance {reg23}{***}
 qstr_Battle_Advantage_=_{|战 场 优 势 为 {reg0}。 
 qstr_{s9}_wants_you_to_re|{s9}希 望 你 能 够 在 接 到 进 一 步 的 指 令 以 前 跟 着 他 的 部 队 前 进。 
 qstr_{s21}_has_no_fief_we|{s21}没 有 封 地 收 入： {reg21}
@@ -436,6 +438,7 @@ qstr_Villagers|村 民 们
 qstr_You_have_encountered|你 遇 到 {s1}了。 
 qstr_You_have_engaged_{s1|你 与 {s1}开 战 了， 他 们 曾 经 袭 击 过 {s3}。 
 qstr_You_were_caught_by_{|当 你 带 着 部 下 在 {s3}掠 夺 的 时 候， 被 {s1}撞 见 了。 
+qstr____DEBUG____calling_|---DEBUG--- calling total victory from simple encounter
 qstr_You_were_victorious!|你 获 胜 了！ 
 qstr_Battle_was_lost._You|你 战 败 了。 你 的 队 伍 被 彻 底 摧 毁 了。 
 qstr_Your_companions_carr|你 的 同 伴 把 你 从 战 场 上 运 了 出 来。 
@@ -443,6 +446,7 @@ qstr_You_have_defeated_th|你 击 败 了 敌 人。
 qstr_You_have_retreated_f|你 撤 离 了 战 场。 
 qstr_^^Ally_Casualties:{s|^^ 友 军 伤 亡 ： {s0}
 qstr_{s1}_of_{s3}_managed|{s3}的 {s1}设 法 逃 离。 
+qstr_wtf_return?|wtf return?{***}
 qstr_Some_of_your_tendons|你 的 一 些 肌 腱 在 战 斗 中 受 伤 了， 你 失 去 1 点 力 量。 
 qstr_You_took_a_nasty_wou|你 遭 受 了 一 次 很 讨 厌 的 创 伤 导 致 你 即 使 痊 愈 了 还 是 有 些 跛 足。 你 失 去 了 一 点 敏 捷 值。 
 qstr_You_have_trouble_thi|这 场 战 斗 结 束 以 后， 你 发 现 你 思 考 问 题 的 时 候 有 些 困 难， 也 许 是 因 为 战 斗 中 你 的 头 部 挨 了 特 别 重 的 一 击。 而 且 现 在 你 频 繁 地 感 到 头 痛。 你 的 智 力 下 降 1 点。 
@@ -451,6 +455,7 @@ qstr_Retirement_is_starti|撤 退 听 起 来 变 得 越 来 越 动 听。
 qstr_No_matter!_I_will_pe|没 关 系！ 我 将 继 续 坚 持！ 
 qstr_What_did_I_do_to_des|我 该 怎 么 做 才 能 得 到 这 些？ 
 qstr_I_suppose_it_ll_make|我 猜 这 些 至 少 可 以 构 造 出 一 个 很 好 的 故 事…… 
+qstr____DEBUG____calling_t|---DEBUG--- calling total victory
 qstr_{s9}_wants_you_to_fo|{s9}希 望 你 能 够 在 接 到 进 一 步 的 指 令 以 前 跟 着 他 的 部 队 前 进。 
 qstr_{s8}_of_{s9}|{s9}的 {s8}
 qstr__Your_own_banner_fli|你 自 己 的 旗 帜 飘 扬 在 城 堡 大 门 上。 
@@ -526,7 +531,7 @@ qstr_{s13}_ordered_you_to|{s13}命 令 你 参 加 对 {s14}的 攻 击。
 qstr_Find_and_speak_with_|找 到 并 请 求 {s4}的 {s3}让 他 接 受 你 为 他 立 下 效 忠 的 誓 言。 
 qstr_There_has_been_an_al|有 涉 嫌 边 境 事 件： {s9}
 qstr_^^Note_that_so_long_|^^注 意 只 要 你 还 在 做 元 帅， 这 个 国 家 的 领 主 们 都 会 等 着 让 你 率 领 他 们 进 行 战 役。 所 以， 如 果 你 正 在 准 备 一 场 宴 会， 或 者 是 婚 礼 以 及 其 它 活 动， 你 也 许 要 去 和 你 的 领 主 谈 谈 来 辞 去 元 帅 的 职 务。 
-qstr_You_came_by_caravan_|You came by caravan through the heartland of Europe. Green shoots of wheat, barley and oats are beginning to push through the dark soil of the rolling hills, and on the lower slopes of the snowcapped mountains, herds of cattle and sheep are grazing on the spring grass. Occasionally, too, you catch sight of one of the great warhorses that are the pride of the Swadian nobility. The land here is rich -- but also troubled, as the occasional burnt-out farm bears witness. You keep a wide berth of the forests, where desperate men have taken refuge, and it is some relief when you crest a ridge and catch sight of the great city of {s1}, its rooftops made golden by the last rays of the setting sun.{***}
+qstr_You_came_by_caravan_|你 跟 着 一 支 商 队 穿 过 了 欧 洲 的 中 心 地 带。 望 向 那 些 起 伏 的 山 脉， 可 以 看 到 小 麦 、 大 麦 和 燕 麦 的 青 苗 正 冲 出 黑 暗 的 地 下， 旺 盛 地 生 长。 而 在 那 些 积 雪 的 山 峰 下 面 的 山 坡， 成 群 的 牛 羊 正 吃 着 美 味 的 春 草， 有 时， 你 还 能 看 到 象 征 着 贵 族 的 高 头 战 马。 这 里 无 疑 是 富 饶 的， 但 也 充 满 动 乱， 偶 尔 能 看 到 的 被 烧 毁 的 农 场 就 是 很 好 的 证 明。 你 始 终 保 持 自 己 的 营 地 远 离 那 些 森 林， 那 里 是 那 些 走 投 无 路 的 人 们 的 庇 护 所。 你 终 于 松 了 口 气， 伟 大 的 {s1}已 经 出 现 在 视 线 里 了， 在 夕 阳 的 余 晖 下， 城 市 的 屋 顶 泛 出 一 片 金 光。 {***}
 qstr_unknown_faction_in_m|unknown faction in module game menus start phase 4!{***}
 qstr_Try_as_you_might_you_|你 可 以 试 一 试 , 看 能 不 能 打 败 这 些 暴 乱 的 村 民。 
 qstr_positive|积 极 的 
@@ -570,6 +575,9 @@ qstr_Not_enough_money_in_|金 库 里 的 钱 已 经 不 够 使 部 队 升 �
 qstr_Your_constable_upgra|你 在 {s8}的 治 安 官 把 {reg5}个 {s6}训 练 到 了 {s7}。
 qstr_Your_messenger_has_d|你 的 信 使 已 经 将 消 息 传 达 到 了 {s26}， 现 在 正 在 回 {s25}的 路 上。
 qstr_{s26}_has_arrived_in|{s26}已 经 到 达 了 {s25}， 正 在 那 儿 等 你。 
+qstr_grabbing_{s22}|grabbing {s22}{***}
+qstr_relocating_{s22}_dis|relocating {s22} distance {reg20}{***}
+qstr_prepare_for_battle__|prepare for battle - start encounter{***}
 qstr_{reg65?my_Lady:my_Lo|{reg65?尊 敬 的 女 士:我 的 大 人} 
 qstr_{reg65?My_Lady:My_Lo|{reg65?尊 敬 的 女 士:我 的 大 人} 
 qstr_{reg65?madame:sir}|{reg65?夫 人:先 生} 
@@ -601,7 +609,7 @@ qstr_He_fields_{reg2}_sol|他 有 {reg2}名 士 兵。
 qstr_We_currently_have_{re|我 们 目 前 有 {reg2}名 士 兵 驻 扎 在 {s60}。 
 qstr_You_are_preferring_m|你 选 择 近 战 单 位。 
 qstr_You_are_preferring_r|你 选 择 远 程 单 位。 
-qstr_Anatolian|保 加 利 亚 人 
+qstr_Anatolian|安 纳 托 利 亚 人 
 qstr_Andalusian|安 达 卢 西 亚 人 
 qstr_Baltic|波 罗 的 海 人 
 qstr_Scandinavian|斯 堪 的 纳 维 亚 人 

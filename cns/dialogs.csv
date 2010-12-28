@@ -1,4 +1,4 @@
-﻿dlga_award_fief_to_vassal:award_fief_to_vassal_defer|我 想 把 这 个 任 命 先 放 一 放， 等 我 听 取 了 其 他 人 的 意 见 之 后， 再 作 决 定。
+dlga_award_fief_to_vassal:award_fief_to_vassal_defer|我 想 把 这 个 任 命 先 放 一 放， 等 我 听 取 了 其 他 人 的 意 见 之 后， 再 作 决 定。
 dlga_award_fief_to_vassal_defer:close_window|如 你 所 愿， {陛 下/尊 敬 的 女 士}。 你 可 以 改 日 再 作 决 定。
 dlga_award_fief_to_vassal_2:close_window|如 你 所 愿， {陛 下/尊 敬 的 女 士}。 {reg6?我 :{reg7?你 :{s11}}}将 成 为 {s1}的 新 {reg3?主 人 :主 人 }。 
 dlga_event_triggered:center_captured_rebellion|{s1}目 前 还 无 人 治 理。 我 应 该 把 这 权 力 交 给 谁 呢？ 
@@ -849,6 +849,7 @@ dlga_companion_rejoin_response:companion_rejoin_refused|很 不 巧， 我 现 �
 dlga_companion_rejoin_refused:close_window|随 便 你， 我 会 去 处 理 一 些 其 他 的 事 情， 过 一 段 时 间 我 再 来 试 试。 
 dlga_event_triggered:companion_rejoin_response.5|Would you have me rejoin you?{***}
 dlga_event_triggered:close_window.2|There! I can see the walls of {s3} in the distance. We've made it safely. Here, take this purse of {reg3} denars, as I promised. I hope we can travel together again someday.{***}
+dlga_event_triggered:close_window.3|Let's get it on.{***}
 dlga_start:lord_start|尊 敬 的 女 士， 我 是 如 此 期 待 我 们 的 婚 礼， 只 要 举 办 婚 宴 的 时 机 成 熟， 我 们 便 可 结 为 连 理。 {s12}
 dlga_start:lord_start.1|尊 敬 的 女 士， 如 果 你 愿 意 和 我 结 婚， 我 们 可 以 在 {s4}举 行 我 们 的 婚 礼， 当 着 全 王 国 领 主 的 面 交 换 誓 约。 
 dlga_start:lord_start.2|尊 敬 的 女 士， 我 没 有 耐 心 再 等 待 全 王 国 的 领 主 们 集 合 了， 和 我 一 起 去 {s4}交 换 我 们 的 誓 约 吧。 
