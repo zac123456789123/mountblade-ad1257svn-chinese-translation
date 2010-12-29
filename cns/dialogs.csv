@@ -830,7 +830,7 @@ dlga_rebel_thanks_answer:rebel_thanks_answer_2.1|我 将 永 远 是 您 忠 诚
 dlga_rebel_thanks_answer_2:close_window|我 会 想 念 和 你 一 起 冒 险 的 时 光， 但 是 我 还 有 职 责 在 身。 所 以…… 再 会 了， {playername}。 我 希 望 我 能 尽 快 地 再 次 见 到 你。 
 dlga_event_triggered:companion_political_grievance_response|{s21}。 
 dlga_companion_political_grievance_response:close_window|Your opinion is noted.
-dlga_event_triggered:companion_rejoin_response.2你 好，{s21}。 我 现 在 可 以 重 新 加 入 队 伍 么？ 
+dlga_event_triggered:companion_rejoin_response.2|你 好，{s21}。 我 现 在 可 以 重 新 加 入 队 伍 么？ 
 dlga_event_triggered:companion_rejoin_response.3|终 于 找 到 您 了， {s21}大 人。我 已 经 在 世 界 的 各 个 角 落 散 播 您 的 所 有 权！ 现 在 ，我 现 在 可 以 重 新 加 入 队 伍 么？ {***}统治权
 dlga_event_triggered:companion_rejoin_response.4|终 于 找 到 您 了， {s21}大 人。 {s11}， 余 下 的 内 容 您 可 以 在 我 的 报 告 中 看 到。 
 dlga_event_triggered:companion_embassy_results|终 于 找 到 您 了， {s21}大 人。 我 刚 完 成 {s31} 的 任 务 归 来。 大 致 上， 我 要 说， {s14}。 
@@ -889,7 +889,7 @@ dlga_lord_prison_break_confirm_3:lord_prison_break_confirm_4.1|尽 管 你 很 �
 dlga_lord_prison_break_confirm_3:close_window|事 实 上， 不 要 插 手 这 件 事 情。 
 dlga_lord_prison_break_confirm_4:close_window|出 发！ {s14}。 
 dlga_start:freed_lord_answer|你 解 救 了 我， 我 欠 你 一 个 人 情， 朋 友。 
-dlga_freed_lord_answer:freed_lord_answer_1你 哪 也 不 用 去 “ 朋 友”， 你 现 在 是 我 的 俘 虏 了！ 
+dlga_freed_lord_answer:freed_lord_answer_1|你 哪 也 不 用 去， “ 朋 友”， 你 现 在 是 我 的 俘 虏 了！ 
 dlga_freed_lord_answer_1:close_window|你 这 个 杂 种！ 我 总 有 一 天 会 把 你 的 头 颅 插 在 我 的 枪 上！ 总有一天！ 
 dlga_freed_lord_answer:freed_lord_answer_2|你 现 在 可 以 去 任 何 你 想 去 的 地 方 了， 先 生。 
 dlga_freed_lord_answer_2:close_window|非 常 感 谢 你 {先 生/ 女 士}。 我 永 远 不 会 忘 记 你 的 大 恩 大 德。 
