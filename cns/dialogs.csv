@@ -865,75 +865,75 @@ dlga_start:close_window.16|好 吧， {先 生/ 尊 敬 的 女 士}！ 请 你 
 dlga_start:close_window.17|很 好，你 表 明 了 你 的 观 点，  我 收 回 我 所 说 的， 希 望 你 能 满 意。 
 dlga_start:close_window.18|Hah! Not so gallant now, are we? Now trouble me no more.{***}
 dlga_start:close_window.19|哼， 你 赢 了， 在 所 有 出 席 的 人 面 前 击 败 了 我， 我 会 放 弃 对 {s10} 的 追 求， 你 这 狠 心 的 杂 种 现 在 满 意 了 吧？ 
-dlga_start:close_window.20|那 儿！ 我 可 以 看 到 远 处 {s3}的 城 墙。 我 们 安 全 到 达 了 这 里。 给， 拿 上 我 承 诺 过 的 这 {reg3}第 纳 尔。 我 希 望 哪 天 能 再 和 你 结 伴 而 行。 
-dlga_start:player_siege_castle_commander_1|你 想 干 什 么？ 
+dlga_start:close_window.20|起 来， 让 今 天 所 有 在 场 的 人 证 明 我 打 败 了 你， 而 你 现 在 必 须 放 弃 对 {s10} 的 求 爱。 我 将 允 许 你 最 后 再 见 她 一 次， 告 诉 她 你 们 永 不 再 见。 而 那 之 后， 如 果 你 依 然 试 图 去 见 她， 那 么 每 个 人 都 将 知 道 你 是 个 不 知 羞 耻 的 家 伙。 
+dlga_start:player_siege_castle_commander_1|你 想 要 做 什 么? 
 dlga_player_siege_castle_commander_1:player_siege_ask_surrender|投 降！ 这 个 情 形 你 已 经 没 有 希 望 了。 
-dlga_player_siege_castle_commander_1:close_window|没 什 么。 我 现 在 就 离 开 你。 
-dlga_player_siege_ask_surrender:player_siege_ask_surrender_treatment|也 许…… 如 果 你 用 你 的 名 誉 担 保？ 我 们 可 以 相 处 的 很 融 洽。 
-dlga_player_siege_ask_surrender:player_siege_ask_leave_unmolested|我 们 已 经 准 备 好 把 这 座 城 堡 让 给 你， 并 且 离 开， 如 果 你 可 以 用 你 的 名 誉 担 保 我 们 可 以 平 安 离 开 的 话。 
+dlga_player_siege_castle_commander_1:close_window|别 担 心， 我 现 在 就 离 开。 
+dlga_player_siege_ask_surrender:player_siege_ask_surrender_treatment|好 吧， 你 是 否 能 够 以 你 的 荣 誉 做 担 保 会 善 待 我 们？ 
+dlga_player_siege_ask_surrender:player_siege_ask_leave_unmolested|如 果 你 能 够 以 你 的 荣 誉 作 担 保 我 们 将 安 全 的 离 开， 我 们 将 把 城 堡 让 给 你。 
 dlga_player_siege_ask_surrender:close_window|投 降？ 哈！ 我 们 可 以 守 住 这 道 墙 直 到 我 们 老 死。 
-dlga_player_siege_ask_surrender_treatment:player_siege_ask_surrender_treatment_reject|没 什 么 可 说 的 了， 投 降 还 是 准 备 去 死！ 你 自 己 选！ 
-dlga_player_siege_ask_surrender_treatment_reject:close_window|杂 种！ 我 们 会 战 斗 到 剩 最 后 一 个 人！ 
-dlga_player_siege_ask_surrender_treatment:player_siege_ask_surrender_treatment_accept|你 可 以 被 赎 回 并 且 你 的 士 兵 都 会 活 着。 我 向 你 保 证。 
+dlga_player_siege_ask_surrender_treatment:player_siege_ask_surrender_treatment_reject|没 什 么 可 说 的 了， 投 降 还 是 准 备 去 死！ 
+dlga_player_siege_ask_surrender_treatment_reject:close_window|杂 种！ 我 们 会 战 斗 至 最 后 一 人！ 
+dlga_player_siege_ask_surrender_treatment:player_siege_ask_surrender_treatment_accept|我 向 你 保 证， 你 将 有 权 利 被 赎 回 并 且 你 的 士 兵 都 会 活 着。 
 dlga_player_siege_ask_surrender_treatment_accept:close_window|很 好， 按 照 那 些 条 约， 我 向 你 投 降。 
 dlga_player_siege_ask_leave_unmolested:player_siege_ask_leave_unmolested_accept|我 向 你 保 证。 你 不 会 在 离 开 城 堡 的 时 候 遭 到 任 何 攻 击。 
-dlga_player_siege_ask_leave_unmolested_accept:close_window|那 么。 这 座 城 堡 我 们 会 让 给 你， 你 今 天 赢 了， 但 是 我 们 会 再 见 的。 
-dlga_player_siege_ask_leave_unmolested:player_siege_ask_leave_unmolested_reject|我 不 接 受。 我 想 要 俘 虏。 
+dlga_player_siege_ask_leave_unmolested_accept:close_window|你 今 天 赢 了， 这 座 城 堡 属 于 你 了， 但 我 们 还 会 再 见 的。 
+dlga_player_siege_ask_leave_unmolested:player_siege_ask_leave_unmolested_reject|我 不 接 受， 我 想 要 俘 虏。 
 dlga_player_siege_ask_leave_unmolested_reject:close_window|那 么 我 们 将 会 死 守 这 座 城 堡， 谈 判 结 束 了！ 再 见！ 
 dlga_lord_prison_break:lord_prison_break_confirm|我 来 带 你 离 开 这 里。 
-dlga_lord_prison_break:close_window|没 事— — 你 就 待 在 这 里 别 出 声 
+dlga_lord_prison_break:close_window|没 什 么—— 你 就 待 在 这 里 别 出 声。 
 dlga_lord_prison_break_confirm:lord_prison_break_confirm_2|感 谢 上 帝！ 否 则 我 还 真 不 知 道 要 在 这 里 呆 多 久。 
-dlga_lord_prison_break_confirm_2:lord_prison_break_confirm_3|慢 着， 我 们 将 怎 么 逃 出 去 呢？ 我 们 一 走 出 那 个 门 就 会 被 卫 戍 队 抓 住， 我 可 以 帮 你 拖 住 他 们。 但 我 现 在 要 告 诉 你， 他 们 只 给 我 吃 稀 粥 和 剩 饭， 我 没 有 当 年 那 么 强 壮。 
+dlga_lord_prison_break_confirm_2:lord_prison_break_confirm_3|慢 着， 我 们 将 怎 么 逃 出 去 呢？ 我 们 一 走 出 那 个 门 就 会 被 卫 戍 队 抓 住， 我 可 以 帮 你 拖 住 他 们。 但 我 现 在 要 告 诉 你， 他 们 只 给 我 吃 稀 粥 和 剩 饭， 我 不 如 以 前 那 么 强 壮。 
 dlga_lord_prison_break_confirm_3:lord_prison_break_confirm_4|你 跟 在 我 后 面 保 护 好 自 己， 并 想 办 法 避 开 战 斗。 
-dlga_lord_prison_break_confirm_3:lord_prison_break_confirm_4.1|尽 管 你 很 虚 弱， 但 我 还 是 要 你 去 拿 一 把 武 器 并 帮 助 我。 
+dlga_lord_prison_break_confirm_3:lord_prison_break_confirm_4.1|尽 管 你 很 虚 弱， 但 我 还 是 要 你 去 拾 取 一 把 武 器 并 帮 助 我。 
 dlga_lord_prison_break_confirm_3:close_window|事 实 上， 不 要 插 手 这 件 事 情。 
-dlga_lord_prison_break_confirm_4:close_window|出 发！ {s14}
+dlga_lord_prison_break_confirm_4:close_window|出 发！ {s14}。 
 dlga_start:freed_lord_answer|你 解 救 了 我， 我 欠 你 一 个 人 情， 朋 友。 
-dlga_freed_lord_answer:freed_lord_answer_1|你 哪 也 不 用 去“ 朋 友”， 你 现 在 是 我 的 俘 虏 了！ 
-dlga_freed_lord_answer_1:close_window|我 总 有 一 天 会 把 你 的 头 颅 插 在 我 的 长 矛 上！ 你 这 个 杂 种！ 总 有 一 天！ 
+dlga_freed_lord_answer:freed_lord_answer_1你 哪 也 不 用 去 “ 朋 友”， 你 现 在 是 我 的 俘 虏 了！ 
+dlga_freed_lord_answer_1:close_window|你 这 个 杂 种！ 我 总 有 一 天 会 把 你 的 头 颅 插 在 我 的 枪 上！ 总有一天！ 
 dlga_freed_lord_answer:freed_lord_answer_2|你 现 在 可 以 去 任 何 你 想 去 的 地 方 了， 先 生。 
-dlga_freed_lord_answer_2:close_window|非 常 感 谢 你 {先 生/女 士}。 我 永 远 不 会 忘 记 你 的 大 恩 大 德。 
-dlga_start:defeat_lord_answer|{s43}
+dlga_freed_lord_answer_2:close_window|非 常 感 谢 你 {先 生/ 女 士}。 我 永 远 不 会 忘 记 你 的 大 恩 大 德。 
+dlga_start:defeat_lord_answer|{s43}。 
 dlga_defeat_lord_answer:defeat_lord_answer_1|你 是 我 的 俘 虏 了。 
 dlga_defeat_lord_answer_1:close_window|我 任 你 处 置。 
 dlga_defeat_lord_answer:defeat_lord_answer_2|你 打 得 不 错。 你 可 以 随 便 去 哪 了。 
-dlga_defeat_lord_answer_2:close_window|{s43}
+dlga_defeat_lord_answer_2:close_window|{s43}。 
 dlga_start:party_encounter_lord_hostile_attacker|{playername}！ 
 dlga_start:party_encounter_lord_hostile_attacker.1|站 住！ 
-dlga_party_encounter_lord_hostile_attacker:party_encounter_lord_hostile_attacker|{s42}
-dlga_party_encounter_lord_hostile_attacker:party_encounter_lord_hostile_attacker_2|{s43}
-dlga_party_encounter_lord_hostile_attacker_2:close_window|我 们 会 死 拼 到 底！ 
+dlga_party_encounter_lord_hostile_attacker:party_encounter_lord_hostile_attacker|{s42}。 
+dlga_party_encounter_lord_hostile_attacker:party_encounter_lord_hostile_attacker_2|{s43}。 
+dlga_party_encounter_lord_hostile_attacker_2:close_window|我 们 将 死 战 到 底！ 
 dlga_party_encounter_lord_hostile_attacker_2:lord_recruit_1_relation|住 手！ 我 有 点 事 情 必 须 跟 你 私 下 谈 谈。 
 dlga_party_encounter_lord_hostile_attacker_2:party_encounter_offer_dont_fight|非 打 不 可 吗？ 我 不 想 和 你 打。 
 dlga_party_encounter_lord_hostile_attacker_2:close_window.1|别 攻 击！ 我 们 投 降。 
-dlga_party_encounter_offer_dont_fight:close_window|我 欠 你 一 个 人 情， 不 是 吗？ 嗯…… 好 吧。 就 这 次 我 放 了 你。 
-dlga_party_encounter_offer_dont_fight:close_window.1|{s43}
-dlga_start:lord_requests_recruitment|{s9}
-dlga_lord_requests_recruitment:close_window|{s9}
-dlga_lord_requests_recruitment:lord_requests_recruitment_refuse|{s9}
-dlga_lord_requests_recruitment_refuse:close_window|{s9}
-dlga_start:supported_pretender_talk|我 等 着 你 的 建 议， {playername}。 
+dlga_party_encounter_offer_dont_fight:close_window|我 欠 你 一 个 人 情， 不 是 吗？ 嗯…… 好 吧。 这 次 我 就 放 了 你。 
+dlga_party_encounter_offer_dont_fight:close_window.1|{s43}。 
+dlga_start:lord_requests_recruitment|{s9}。 
+dlga_lord_requests_recruitment:close_window|{s9}。 
+dlga_lord_requests_recruitment:lord_requests_recruitment_refuse|{s9}。 
+dlga_lord_requests_recruitment_refuse:close_window|{s9}。 
+dlga_start:supported_pretender_talk|I await your counsel, {playername}。 
 dlga_start:pretender_intro_1|我 认 识 你 吗？ 
-dlga_pretender_intro_1:pretender_intro_2|我 叫 做 {playername}， 愿 意 为 你 效 劳， 大 人。 
+dlga_pretender_intro_1:pretender_intro_2|我 叫 {playername}。 愿 意 为 您 效 劳。 
 dlga_pretender_intro_1:pretender_intro_2.1|我 叫 {playername}。 也 许 你 听 说 过 我 的 事 迹。 
-dlga_pretender_intro_2:pretender_intro_3|{s48}
-dlga_pretender_intro_3:pretender_rebellion_cause_1|我 想 {s12}被 {s11}统 治 着？ 
-dlga_start:pretender_start|祝 贺 你， {playername}
-dlga_pretender_start:pretender_rebellion_cause_prelim|这 次 又 是 你 的 什 么 故 事？ {reg65?尊 敬 的 女 士:先 生}。 
-dlga_pretender_rebellion_cause_prelim:pretender_rebellion_cause_1|我 会 告 诉 你。 
-dlga_pretender_rebellion_cause_1:pretender_rebellion_cause_2|{s48}
-dlga_pretender_rebellion_cause_2:pretender_rebellion_cause_3|{s48}
-dlga_pretender_rebellion_cause_3:pretender_start|{s48}
+dlga_pretender_intro_2:pretender_intro_3|{s48}。 
+dlga_pretender_intro_3:pretender_rebellion_cause_1|我 想 {s12} 被 {s11} 统 治 着？ 
+dlga_start:pretender_start|你 好， {playername}。 
+dlga_pretender_start:pretender_rebellion_cause_prelim|这 次 又 是 你 的 什 么 故 事？ {reg65? 尊 敬 的 女 士: 先 生}。 
+dlga_pretender_rebellion_cause_prelim:pretender_rebellion_cause_1|我 会 告 诉 你 的。 
+dlga_pretender_rebellion_cause_1:pretender_rebellion_cause_2|{s48}。 
+dlga_pretender_rebellion_cause_2:pretender_rebellion_cause_3|{s48}。 
+dlga_pretender_rebellion_cause_3:pretender_start|{s48}。 
 dlga_pretender_start:pretender_discuss_rebellion_1|我 将 投 入 你 的 事 业 并 且 帮 助 你 恢 复 王 位！ 
-dlga_pretender_start:pretender_end|我 必 须 得 走 了。 
-dlga_pretender_discuss_rebellion_1:pretender_discuss_rebellion_2a|你 确 定 你 可 以 胜 任 这 个 任 务 吗， {playername}？ 夺 回 我 的 王 位 并 不 是 件 简 单 的 事 情， 我 们 整 个 王 国 的 领 主 都 发 誓 向 {s11}效 忠， 这 种 誓 言 对 一 个 篡 位 者 来 说 当 然 是 无 效 的， 我 们 可 以 期 待 其 中 一 些 领 主 来 投 靠 我 们， 但 那 将 是 极 其 艰 难 和 富 于 挑 战 性 的 斗 争。 
-dlga_pretender_discuss_rebellion_2a:pretender_discuss_rebellion_2|{s11}
+dlga_pretender_start:pretender_end|我 必 须 离 开 了。 
+dlga_pretender_discuss_rebellion_1:pretender_discuss_rebellion_2a|你 确 定 你 可 以 胜 任 这 个 任 务 吗， {playername}？ 夺 回 我 的 王 位 并 不 是 件 简 单 的 事 情， 整 个 王 国 的 领 主 都 发 誓 向 {s11} 效 忠， 这 种 誓 言 对 一 个 篡 位 者 来 说 当 然 是 无 效 的， 我 们 可 以 期 待 其 中 一 些 领 主 来 投 靠 我 们， 但 那 将 是 极 其 艰 难 和 富 于 挑 战 性 的 斗 争。 
+dlga_pretender_discuss_rebellion_2a:pretender_discuss_rebellion_2|{s11}。 
 dlga_pretender_discuss_rebellion_2:pretender_discuss_rebellion_3|我 准 备 好 迎 接 这 个 挑 战 了。 
-dlga_pretender_discuss_rebellion_2:pretender_end|你 说 的 对。 我 应 该 再 考 虑 考 虑。 
+dlga_pretender_discuss_rebellion_2:pretender_end|你 说 得 对。 也 许， 我 该 应 该 好 好 考 虑 一 下。 
 dlga_pretender_discuss_rebellion_3:close_window|我 对 你 协 助 我 事 业 的 一 片 忠 心 毫 无 疑 虑， {playername}， 并 且 我 对 此 非 常 感 激。 但 是 我 不 认 为 我 们 有 多 少 成 功 的 可 能。 如 果 你 可 以 在 战 场 上 获 得 声 望 并 且 让 你 以 一 个 伟 大 的 指 挥 官 而 闻 名， 这 样 我 们 的 朋 友 在 加 入 我 们 的 事 业 的 时 候 将 不 会 犹 豫， 并 且 我 们 的 敌 人 将 会 在 和 我 们 动 武 的 时 候 有 所 顾 虑。 当 时 机 成 熟， 我 将 很 乐 意 加 入 你。 但 是 直 到 那 之 前， 聪 明 的 做 法 就 是 别 公 开 挑 战 那 个 篡 位 者， {s11}。 
-dlga_pretender_discuss_rebellion_3:close_window.1|你 还 没 有 加 入 {s17}的 事 业？ 当 然， 你 一 定 有 着 很 强 的 正 义 感。 不 过 算 了， 谢 谢 你。 我 不 会 加 入 你 的 游 戏。 
-dlga_pretender_discuss_rebellion_3:close_window.2|{playername}， 你 已 经 宣 誓 效 忠 于 {s15}。 这 样 的 话， 我 不 能 让 你 加 入 我 的 事 业， 并 且 让 我 的 敌 人 宣 称 我 仅 仅 是 {s16}的 傀 儡。 不， 一 旦 我 要 取 得 {s17}的 王 位， 我 必 须 独 自 做 我 的 正 义 事 业 以 及 支 持 我 的 目 标。 如 果 你 要 帮 助 我， 你 必 须 先 不 再 对 {s15}效 忠。 
-dlga_pretender_discuss_rebellion_3:close_window.3|你 是 一 个 拥 有 自 己 主 权 的 君 主， {先 生/尊 敬 的 女 士}。 如 果 你 要 支 持 我， 我 将 仅 仅 会 成 为 你 的 傀 儡。 
+dlga_pretender_discuss_rebellion_3:close_window.1|Haven't you already taken up the cause of {s17}? You must have a very strong sense of justice, indeed. But no, thank you. I will not be part of your game.{***}
+dlga_pretender_discuss_rebellion_3:close_window.2|{playername}, you are already oath-bound to serve {s15}. As such, I cannot allow you to take up my cause, and let my enemies claim that I am but a mere puppet of {s16}. No, if I am to have the throne of {s17}, I must do it due to the righteousness of my cause and the support of my subjects alone. If you want to help me, you must first free yourself of your oath to {s15}.
+dlga_pretender_discuss_rebellion_3:close_window.3|你 是 一 个 拥 有 独 立 主 权 的 君 主， {先 生/ 尊 敬 的 女 士}。 如 果 你 要 支 持 我， 我 将 仅 仅 会 成 为 你 的 傀 儡。 
 dlga_pretender_discuss_rebellion_3:pretender_rebellion_ready|你 是 一 个 能 干 的 战 士， {playername}， 并 且 我 确 信 随 着 你 指 挥 官 的 名 声， 和 我 正 义 的 事 业， 那 些 {s12}的 贵 族 和 好 人 们 将 蜂 拥 而 来 支 持 我 们。 现 在 时 机 成 熟 我 们 该 有 所 行 动！ 我 将 加 入 你， 并 且 一 起， 我 们 将 推 翻 篡 位 者 {s11}并 且 从 他 血 腥 的 双 手 中 夺 回 王 位。 不 过 首 先， 你 必 须 向 我 效 忠 并 且 接 受 我 为 你 的 {reg65?女 王:君 主}。 
 dlga_pretender_rebellion_ready:lord_give_oath_2|我 已 经 准 备 好 投 身 于 你 的 事 业， {reg3?尊 敬 的 女 士:先 生}。 
 dlga_pretender_rebellion_ready:pretender_end|我 们 再 等 一 段 时 间。 
