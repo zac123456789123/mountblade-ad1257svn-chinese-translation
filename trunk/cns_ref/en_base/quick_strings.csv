@@ -443,11 +443,9 @@ qstr_Your_companions_carr|Your companions carry you away from the fighting.
 qstr_You_have_defeated_th|You have defeated the enemy.
 qstr_You_have_retreated_f|You have retreated from the fight.
 qstr_^^Ally_Casualties:{s|^^Ally Casualties:{s0}
-qstr_mnu_total_victory|mnu total victory
 qstr_{s1}_of_{s3}_managed|{s1} of {s3} managed to escape.
-qstr____DEBUG____calling_t|---DEBUG--- calling total victory from loot shit
 qstr_leave?|leave?
-qstr____DEBUG____calling_to|---DEBUG--- calling total victory from slipped away
+qstr____DEBUG____calling_t|---DEBUG--- calling total victory from slipped away
 qstr_Some_of_your_tendons|Some of your tendons have been damaged in the battle. You lose 1 strength.
 qstr_You_took_a_nasty_wou|You took a nasty wound which will cause you to limp slightly even after it heals. You lose 1 agility.
 qstr_You_have_trouble_thi|You have trouble thinking straight after the battle, perhaps from a particularly hard hit to your head, and frequent headaches now plague your existence. Your intelligence is reduced by 1.
@@ -456,7 +454,7 @@ qstr_Retirement_is_starti|Retirement is starting to sound better and better.
 qstr_No_matter!_I_will_pe|No matter! I will persevere!
 qstr_What_did_I_do_to_des|What did I do to deserve this?
 qstr_I_suppose_it_ll_make|I suppose it'll make for a good story, at least...
-qstr____DEBUG____calling_tot|---DEBUG--- calling total victory from join battle
+qstr____DEBUG____calling_to|---DEBUG--- calling total victory from join battle
 qstr_{s9}_wants_you_to_fo|{s9} wants you to follow his army until further notice.
 qstr_{s8}_of_{s9}|{s8} of {s9}
 qstr__Your_own_banner_fli| Your own banner flies over the castle gate.
@@ -469,14 +467,14 @@ qstr_You_re_preparing_to_|You're preparing to attack the walls, the work should 
 qstr_Your_forces_are_buil|Your forces are building a siege tower. They estimate another {reg9} hours to complete the build.
 qstr_You_are_ready_to_att|You are ready to attack the walls at any time.
 qstr_The_siege_tower_is_b|The siege tower is built and ready to make an assault.
-qstr____DEBUG____calling_tota|---DEBUG--- calling total victory from castle besiege
+qstr____DEBUG____calling_tot|---DEBUG--- calling total victory from castle besiege
 qstr_As_a_last_defensive_|As a last defensive effort, you retreat to the main hall of the keep. You and your remaining soldiers will put up a desperate fight here. If you are defeated, there's no other place to fall back to.
 qstr_You_ve_been_driven_a|You've been driven away from the walls. Now the attackers are pouring into the streets. IF you can defeat them, you can perhaps turn the tide and save the day.
 qstr_You_ve_breached_the_|You've breached the town walls, but the stubborn defenders continue to resist you in the streets! You'll have to deal with them before you can attack the keep at the heart of the town.
 qstr_The_town_centre_is_y|The town centre is yours, but the remaining defenders have retreated to the castle. It must fall before you can complete your victory.
 qstr_The_remaining_defend|The remaining defenders have retreated to the castle as a last defense. You must go in and crush any remaining resistance.
 qstr_However_since_you_ar|However, since you are not a sworn {man/follower} of {s9}, there is no chance he would recognize you as the {lord/lady} of this {reg8?town:castle}.
-qstr____DEBUG____calling_total|---DEBUG--- calling total victory from siege started defender
+qstr____DEBUG____calling_tota|---DEBUG--- calling total victory from siege started defender
 qstr_The_enemy_has_been_f|The enemy has been forced to retreat. The assault is over, but the siege continues.
 qstr_As_you_approach_you_|As you approach, you are spotted by the castle guards, who welcome you and open the gates for their {king/queen}.
 qstr_As_you_approach_you_a|As you approach, you are spotted by the castle guards, who welcome you and open the gates for their {lord/lady}.
