@@ -1,4 +1,4 @@
-dlga_award_fief_to_vassal:award_fief_to_vassal_defer|我 想 把 这 个 任 命 先 放 一 放， 等 我 听 取 了 其 他 人 的 意 见 之 后， 再 作 决 定。
+﻿dlga_award_fief_to_vassal:award_fief_to_vassal_defer|我 想 把 这 个 任 命 先 放 一 放， 等 我 听 取 了 其 他 人 的 意 见 之 后， 再 作 决 定。
 dlga_award_fief_to_vassal_defer:close_window|如 你 所 愿， {陛 下/尊 敬 的 女 士}。 你 可 以 改 日 再 作 决 定。
 dlga_award_fief_to_vassal_2:close_window|如 你 所 愿， {陛 下/尊 敬 的 女 士}。 {reg6?我 :{reg7?你 :{s11}}}将 成 为 {s1}的 新 {reg3?主 人 :主 人 }。 
 dlga_event_triggered:center_captured_rebellion|{s1}目 前 还 无 人 治 理。 我 应 该 把 这 权 力 交 给 谁 呢？ 
@@ -690,181 +690,181 @@ dlga_dplmc_minister_spy_kingdoms:dplmc_minister_spy_kingdoms_select|您 希 望 
 dlga_dplmc_minister_spy_kingdoms:minister_pretalk|很 不 幸， 大 人。 现 在 没 有 可 以 派 出 的 人。 
 dlga_dplmc_minister_spy_kingdoms_select:dplmc_minister_spy_emissary|{s11}{s14}。 
 dlga_dplmc_minister_spy_emissary:minister_emissary_select|您 希 望 派 谁 前 往？ 我 认 为 您 应 该 选 择 一 个 可 以 完 全 信 任 并 且 老 练 能 干 的 人！ {***}拥有侦查能力的人
-dlga_event_triggered:dplmc_companion_spy_request_select_center|Well, {s21}, at last I've found you. I have returned from my reconnaissance mission to {s31}. About which location do you need information?{***}
-dlga_event_triggered:close_window.1|那 儿！ 我 可 以 看 到 远 处 {s3}的 城 墙。 我 们 安 全 到 达 了 这 里。 给， 拿 上 我 承 诺 过 的 这 {reg3}第 纳 尔。 我 希 望 哪 天 能 再 和 你 结 伴 而 行。 
-dlga_dplmc_companion_spy_request_select_center:dplmc_companion_spy_request_center_selected|{s60}{***}
-dlga_dplmc_companion_spy_request_center_selected:dplmc_companion_spy_request_select_newcenter|{s4} {s3} and there are {s31} troops around.{***}
-dlga_dplmc_companion_spy_request_select_newcenter:dplmc_companion_spy_request_select_center|Do you need information about another location?{***}
-dlga_dplmc_companion_spy_request_select_center:companion_rejoin_response|Never mind.{***}
-dlga_minister_diplomatic_initiative_type_select:minister_diplomatic_emissary.1|我 想 让 自 己 处 于 他 的 庇 护 之 下， 成 为 他 的 封 臣。 
-dlga_event_triggered:dplmc_companion_alliance_request_response|Well, {s21}, at last I've found you. I have returned from my mission to {s31}. {***}
-dlga_dplmc_companion_alliance_request_response:dplmc_companion_alliance_confirm|{s4} is willing to form an alliance with you.{***}
-dlga_dplmc_companion_alliance_confirm:companion_rejoin_response|Very well - let this alliance with {s4} be concluded.{***}
-dlga_dplmc_companion_alliance_confirm:companion_rejoin_response.1|On second thought, perhaps this is not now in our interests.{***}
-dlga_dplmc_companion_alliance_request_response:companion_rejoin_response|{s4} is not willing to form an alliance with you.{***}
-dlga_minister_diplomatic_initiative_type_select:minister_diplomatic_emissary.2|作 为 一 名 君 王， 我 想 表 达 我 对 别 国 的 友 好。 
-dlga_event_triggered:dplmc_companion_defensive_request_response|Well, {s21}, at last I've found you. I have returned from my mission to {s31}. {***}
-dlga_dplmc_companion_defensive_request_response:dplmc_companion_defensive_confirm|{s4} is willing to form a defensive pact with you.{***}
-dlga_dplmc_companion_defensive_confirm:companion_rejoin_response|Very well - let this defensive pact with {s4} be concluded.{***}
-dlga_dplmc_companion_defensive_confirm:companion_rejoin_response.1|On second thought, perhaps this is not now in our interests.{***}
-dlga_dplmc_companion_defensive_request_response:companion_rejoin_response|{s4} is not willing to conclude a defensive pact with you.{***}
-dlga_minister_diplomatic_initiative_type_select:minister_diplomatic_emissary.3|Tell {s10} that I want to sign a trade agreement with him.{***}
-dlga_event_triggered:dplmc_companion_trade_request_response|Well, {s21}, at last I've found you. I have returned from my mission to {s31}. {***}
-dlga_dplmc_companion_trade_request_response:dplmc_companion_trade_confirm|{s4} is willing to sign a trade agreement with you.{***}
-dlga_dplmc_companion_trade_confirm:companion_rejoin_response|Very well - let's sign the trade agreement with {s4}.{***}
-dlga_dplmc_companion_trade_confirm:companion_rejoin_response.1|On second thought, perhaps this is not now in our interests.{***}
-dlga_dplmc_companion_trade_request_response:companion_rejoin_response|{s4} is not willing to sign a trade agreement.{***}
-dlga_minister_diplomatic_initiative_type_select:minister_diplomatic_emissary.4|Tell {s10} that I want to conclude a non-aggression treaty with him.{***}
-dlga_event_triggered:dplmc_companion_nonaggression_request_response|Well, {s21}, at last I've found you. I have returned from my mission to {s31}. {***}
-dlga_dplmc_companion_nonaggression_request_response:dplmc_companion_nonaggression_confirm|{s4} is willing to conclude a non-aggression treaty with you.{***}
-dlga_dplmc_companion_nonaggression_confirm:companion_rejoin_response|Very well - let this non-aggression treaty with {s4} be concluded.{***}
-dlga_dplmc_companion_nonaggression_confirm:companion_rejoin_response.1|On second thought, perhaps this is not now in our interests.{***}
-dlga_dplmc_companion_nonaggression_request_response:companion_rejoin_response|{s4} is not willing to conclude a non-aggression treaty with you.{***}
-dlga_minister_diplomatic_initiative_type_select:minister_diplomatic_emissary.5|That I want him to help me and attack {s11}{s14}.{***}
-dlga_event_triggered:dplmc_companion_war_request_response|Well, {s21}, at last I've found you. I have returned from my mission to {s31}. {***}
-dlga_dplmc_companion_war_request_response:companion_rejoin_response|{s4} is willing to start a war with {s31}.{***}
-dlga_dplmc_companion_war_request_response:dplmc_companion_war_pay|{s4} is willing to start a war with {s31} but needs 5000 denars to prepare his army.{***}
-dlga_dplmc_companion_war_pay:companion_rejoin_response|Pay 5000 denars from the treasury and tell him to start the war.{***}
-dlga_dplmc_companion_war_pay:companion_rejoin_response.1|On second thought, I don't think we can take so much money from the treasury.{***}
-dlga_dplmc_companion_war_request_response:companion_rejoin_response.1|{s4} is not willing to start a war with {s31}.{***}
-dlga_companion_embassy_results:dplmc_companion_truce_pay|{s12} says that he is willing to consider a truce of twenty days if you pay him {reg0} denars.{***}
-dlga_companion_embassy_results:companion_truce_pay|{s12} says that he is willing to consider a truce of twenty days if you yield to his terms. Either you pay {reg0} denars or you pay {reg1} denars and give him {s18}.{***}
-dlga_companion_embassy_results:dplmc_companion_truce_pay.1|{s12} says that he is willing to consider a truce of twenty days if you pay him {reg0} or give him {s18}.{***}
-dlga_companion_embassy_results:companion_truce_confirm|{s12}说 他 愿 意 考 虑 签 订 一 个 为 期 40 天 的 停 战 协 议。 
-dlga_dplmc_companion_truce_pay:companion_rejoin_response|Pay {reg0} denars and let the truce with the {s4} be concluded{***}
-dlga_dplmc_companion_truce_pay:companion_rejoin_response.1|Pay {reg1} denars and give him {s18} let this truce with the {s4} be concluded{***}
-dlga_dplmc_companion_truce_pay:companion_rejoin_response.2|Give him {s18} let this truce with the {s4} be concluded{***}
-dlga_dplmc_companion_truce_pay:companion_rejoin_response.3|On second thought, perhaps this is not now in our interests..{***}
-dlga_minister_talk:close_window|现 在 没 事 了。 
+dlga_event_triggered:dplmc_companion_spy_request_select_center|终 于 找 到 您 了， {s21} 大 人。 我 刚 从 {s31} 侦 察 任 务 归 来。 您 希 望 知 道 哪 一 个 地 区 的 情 报？ 
+dlga_event_triggered:close_window.1|大 人， 我 刚 从 {s31} 的 侦 查 任 务 归 来。 我 们 被 守 卫 打 了 个 措 手 不 及， 他 们 抓 住 了 {s11}， 而 我 撤 离 回 来 向 您 汇 报。 
+dlga_dplmc_companion_spy_request_select_center:dplmc_companion_spy_request_center_selected|{s60}。 
+dlga_dplmc_companion_spy_request_center_selected:dplmc_companion_spy_request_select_newcenter|{s4} {s3} 并 且 这 周 围 有 {s31}的 部 队 巡 逻。 
+dlga_dplmc_companion_spy_request_select_newcenter:dplmc_companion_spy_request_select_center|您 还 想 知 道 其 他 地 区 的 情 报 么？ 
+dlga_dplmc_companion_spy_request_select_center:companion_rejoin_response|不 用 了。 
+dlga_minister_diplomatic_initiative_type_select:minister_diplomatic_emissary.1|告 知 {s10}， 我 想 与 他 们 结 成 联 盟。 
+dlga_event_triggered:dplmc_companion_alliance_request_response|终 于 找 到 您 了， {s21}大 人。 我 刚 完 成 {s31} 的 任 务 归 来。 
+dlga_dplmc_companion_alliance_request_response:dplmc_companion_alliance_confirm|{s4} 愿 意 与 我 们 结 成 联 盟。 
+dlga_dplmc_companion_alliance_confirm:companion_rejoin_response|非 常 好。 与 {s4} 结 盟。 
+dlga_dplmc_companion_alliance_confirm:companion_rejoin_response.1|我 重 新 考 虑 了 下， 这 并 不 符 合 我 们 的 利 益， 我 们 拒 绝 结 成 联 盟。 
+dlga_dplmc_companion_alliance_request_response:companion_rejoin_response|{s4} 不 愿 意 与 我 们 结 成 联 盟。 
+dlga_minister_diplomatic_initiative_type_select:minister_diplomatic_emissary.2|告 知 {s10}， 我 想 与 他 们 签 订 防 御 协 定。 
+dlga_event_triggered:dplmc_companion_defensive_request_response|终 于 找 到 您 了， {s21}大 人。 我 刚 完 成 {s31} 的 任 务 归 来。 
+dlga_dplmc_companion_defensive_request_response:dplmc_companion_defensive_confirm|{s4} 愿 意 与 我 们 签 订 防 御 协 定。 
+dlga_dplmc_companion_defensive_confirm:companion_rejoin_response|非 常 好。 与 {s4} 签 订 防 御 协 定。 
+dlga_dplmc_companion_defensive_confirm:companion_rejoin_response.1|我 重 新 考 虑 了 下， 这 并 不 符 合 我 们 的 利 益， 我 们 拒 绝 签 订 防 御 协 定。 
+dlga_dplmc_companion_defensive_request_response:companion_rejoin_response|{s4} 不 愿 意 与 我 们 签 订 防 御 协 定。 
+dlga_minister_diplomatic_initiative_type_select:minister_diplomatic_emissary.3|告 知 {s10}， 我 想 与 他 们 签 订 贸 易 协 定。 
+dlga_event_triggered:dplmc_companion_trade_request_response|终 于 找 到 您 了， {s21}大 人。 我 刚 完 成 {s31} 的 任 务 归 来。 
+dlga_dplmc_companion_trade_request_response:dplmc_companion_trade_confirm|{s4} 愿 意 与 我 们 签 订 贸 易 协 定。 
+dlga_dplmc_companion_trade_confirm:companion_rejoin_response|非 常 好。 与 {s4} 签 订 贸 易 协 定。 
+dlga_dplmc_companion_trade_confirm:companion_rejoin_response.1|我 重 新 考 虑 了 下， 这 并 不 符 合 我 们 的 利 益， 我 们 拒 绝 签 订 贸 易 协 定。 
+dlga_dplmc_companion_trade_request_response:companion_rejoin_response|{s4} 不 愿 意 与 我 们 签 订 贸 易 协 定。 
+dlga_minister_diplomatic_initiative_type_select:minister_diplomatic_emissary.4|告 知 {s10}， 我 想 与 他 们 签 订 互 不 侵 犯 条 约。 
+dlga_event_triggered:dplmc_companion_nonaggression_request_response|终 于 找 到 您 了， {s21}大 人。 我 刚 完 成 {s31} 的 任 务 归 来。 
+dlga_dplmc_companion_nonaggression_request_response:dplmc_companion_nonaggression_confirm|{s4} 愿 意 与 我 们 结 成 签 订 互 不 侵 犯 条 约。 
+dlga_dplmc_companion_nonaggression_confirm:companion_rejoin_response|非 常 好。 与 {s4} 签 订 互 不 侵 犯 条 约。 
+dlga_dplmc_companion_nonaggression_confirm:companion_rejoin_response.1|我 重 新 考 虑 了 下， 这 并 不 符 合 我 们 的 利 益， 我 们 拒 绝 签 订 互 不 侵 犯 条 约。 
+dlga_dplmc_companion_nonaggression_request_response:companion_rejoin_response|{s4} 不 愿 意 与 我 们 签 订 互 不 侵 犯 条 约。 
+dlga_minister_diplomatic_initiative_type_select:minister_diplomatic_emissary.5|我 希 望 他 们 能 帮 助 我 们 对 付 {s11} {s14}。 
+dlga_event_triggered:dplmc_companion_war_request_response|终 于 找 到 您 了， {s21}大 人。 我 刚 完 成 {s31} 的 任 务 归 来。 
+dlga_dplmc_companion_war_request_response:companion_rejoin_response|{s4} 愿 意 与 {s31} 开 战。 
+dlga_dplmc_companion_war_request_response:dplmc_companion_war_pay|{s4} 愿 意 与 {s31} 开 战。 但 是 需 要 我 们为 他 们 的 军 队 支 付 5000 第 纳 尔 的军 费。 
+dlga_dplmc_companion_war_pay:companion_rejoin_response|从 金 库 里 支 取 5000 第 纳 尔 并 告 诉 他 立 即 行 动。 
+dlga_dplmc_companion_war_pay:companion_rejoin_response.1|我 重 新 考 虑 了 下， 我 不 认 为 我 们 能 从 金 库 里 支 取 这 么 多 钱。 
+dlga_dplmc_companion_war_request_response:companion_rejoin_response.1|{s4} 不 愿 意 与 {s31} 开 战。 
+dlga_companion_embassy_results:dplmc_companion_truce_pay|{s12} 提 议， 如 果 你 愿 意 支 付 {reg0} 第 纳 尔， 那 么 他 将 考 虑 休 战 20 天。 
+dlga_companion_embassy_results:companion_truce_pay|{s12} 提 议， 如 果 你 愿 意 支 付 {reg0} 第 纳 尔或 者 支 付 {reg1} 第 纳 尔 并 且 割 让 {s18}， 那 么 他 将 考 虑 休 战 20 天。 
+dlga_companion_embassy_results:dplmc_companion_truce_pay.1|{s12} 提 议， 如 果 你 愿 意 支 付 {reg0} 第 纳 尔或 者 割 让 {s18}， 那 么 他 将 考 虑 休 战 20 天。 
+dlga_companion_embassy_results:companion_truce_confirm|{s12} 说 他 愿 意 考 虑 签 订 一 个 为 期 20 天 的 停 战 协 议。 
+dlga_dplmc_companion_truce_pay:companion_rejoin_response|支 付 {reg0} 第 纳 尔 用 来 与 {s4} 达 成 停 战 协 议。 
+dlga_dplmc_companion_truce_pay:companion_rejoin_response.1|支 付 {reg1} 第 纳 尔 并 且 割 让 {s18} 用 来 与 {s4} 达 成 停 战 协 议。 
+dlga_dplmc_companion_truce_pay:companion_rejoin_response.2|割 让 {s18} 用 来 与 {s4} 达 成 停 战 协 议。 
+dlga_dplmc_companion_truce_pay:companion_rejoin_response.3|我 重 新 考 虑 了 下， 这 并 不 符 合 我 们 的 利 益， 我 们 拒 绝 接 受 停 战 协 议。 
+dlga_minister_talk:close_window|没 什 么 事 了。 
 dlga_minister_change_marshal:minister_change_marshal_choose|谁 将 成 为 新 元 帅？ 
-dlga_minister_change_marshal_choose:minister_pretalk|我 将 成 为 新 元 帅 
-dlga_minister_change_marshal_choose:minister_pretalk.1|短 暂 的 一 段 时 间 内， 我 们 将 没 有 元 帅 
-dlga_minister_change_marshal_choose:minister_pretalk.2|{s4}
-dlga_minister_change_marshal_choose:minister_pretalk.3|没 事 
-dlga_minister_diplomatic_kingdoms:minister_diplomatic_kingdoms_select|你 想 将 这 名 使 者 派 遣 给 谁？ 
-dlga_minister_diplomatic_kingdoms:minister_pretalk|很 不 巧， 现 在 没 有 人 可 以 派 遣。 
-dlga_minister_diplomatic_kingdoms_select:minister_diplomatic_initiative_type|{s11}{s14}的 {s10}
-dlga_minister_diplomatic_kingdoms_select:minister_pretalk|没 事 
-dlga_minister_diplomatic_initiative_type:minister_diplomatic_initiative_type_select|你 想 告 诉 他 什 么？ 
-dlga_minister_diplomatic_initiative_type_select:minister_diplomatic_emissary.6|That our two kingdoms should enter into truce.{***}
-dlga_minister_diplomatic_initiative_type_select:minister_diplomatic_emissary.7|That I wish to put myself under his protection, as his vassal.{***}
-dlga_minister_diplomatic_initiative_type_select:minister_diplomatic_emissary.8|That I wish to express my goodwill, as one monarch to another.{***}
-dlga_minister_diplomatic_initiative_type_select:minister_declare_war|我 宣 布 和 他 开 战。 
-dlga_minister_diplomatic_initiative_type_select:close_window|没 事 
-dlga_minister_declare_war:minister_declare_war_confirm|{s12}
-dlga_minister_declare_war_confirm:minister_declare_war_confirm_yes|是 的， 我 想 跟 {s12}开 战。 
-dlga_minister_declare_war_confirm:minister_pretalk|嗯， 也 许 不 是。 
-dlga_minister_declare_war_confirm_yes:minister_pretalk|遵 照 你 的 命 令， 我 们 正 在 跟 {s12}交 战， 愿 上 帝 赐 予 我 们 胜 利。 
-dlga_minister_diplomatic_emissary:minister_emissary_select|谁 将 会 是 你 的 使 者？ 你 应 该 选 择 一 位 你 信 任 的， 并 且 有 说 服 力 的 人— — 一 位 能 跟 对 方 平 静 谈 判 的 人。 
-dlga_minister_emissary_select:minister_emissary_dispatch|{s11}
-dlga_minister_emissary_select:minister_pretalk|事 实 上， 我 想 不 出 合 适 的 人 选。 
-dlga_minister_diplomatic_dispatch_confirm:minister_pretalk|是 的， 照 做 吧。 
+dlga_minister_change_marshal_choose:minister_pretalk|我 将 成 为 新 元 帅。 
+dlga_minister_change_marshal_choose:minister_pretalk.1|我 们 将 在 一 段 时 间 内 没 有 新 元 帅。 
+dlga_minister_change_marshal_choose:minister_pretalk.2|{s4}。 
+dlga_minister_change_marshal_choose:minister_pretalk.3|没 事 了。 
+dlga_minister_diplomatic_kingdoms:minister_diplomatic_kingdoms_select|您 希 望 向 谁 派 遣 这 名 使 者？ 
+dlga_minister_diplomatic_kingdoms:minister_pretalk|很 不 幸， 大 人。 现 在 没 有 可 以 派 出 的 人。 
+dlga_minister_diplomatic_kingdoms_select:minister_diplomatic_initiative_type|{s11} {s14} 的 {s10}。 
+dlga_minister_diplomatic_kingdoms_select:minister_pretalk|算 了。 
+dlga_minister_diplomatic_initiative_type:minister_diplomatic_initiative_type_select|您 希 望 转 达 什 么 信 息 给 他？ 
+dlga_minister_diplomatic_initiative_type_select:minister_diplomatic_emissary.6|我 们 两 国 应 该 达 成 停 战 协 议。 
+dlga_minister_diplomatic_initiative_type_select:minister_diplomatic_emissary.7|我 想 让 自 己 处 于 他 的 庇 护 之 下， 成 为 他 的 封 臣。 
+dlga_minister_diplomatic_initiative_type_select:minister_diplomatic_emissary.8|我 想 作 为 一 名 君 主 表 达 对 另 一 名 君 主 的 友 好。 
+dlga_minister_diplomatic_initiative_type_select:minister_declare_war|我 决 定 向 他 宣 战。 
+dlga_minister_diplomatic_initiative_type_select:close_window|算 了。 
+dlga_minister_declare_war:minister_declare_war_confirm|{s12}。 
+dlga_minister_declare_war_confirm:minister_declare_war_confirm_yes|正 是 如 此， 我 想 要 与 {s12} 开 战。 
+dlga_minister_declare_war_confirm:minister_pretalk|额， 我 收 回 刚 才 的 话。 {***}
+dlga_minister_declare_war_confirm_yes:minister_pretalk|遵 从 您 的 意 志， 现 在 我 们 正 与 {s12} 交 战， 愿 上 帝 赐 予 我 们 胜 利。 
+dlga_minister_diplomatic_emissary:minister_emissary_select|您 希 望 派 谁 前 往？ 我 认 为 您 应 该 选 择 一 个 可 以 完 全 信 任 并 且 老 练 能 干 的 人！ {***}拥有说服技能并且可以避免多余麻烦的人
+dlga_minister_emissary_select:minister_emissary_dispatch|{s11}。 
+dlga_minister_emissary_select:minister_pretalk|事 实 上， 我 不 认 为 有 人 能 胜 任。 
+dlga_minister_diplomatic_dispatch_confirm:minister_pretalk|去 安 排 吧。 
 dlga_minister_diplomatic_dispatch_confirm:minister_pretalk.1|先 放 一 放 再 说 吧。 
-dlga_minister_replace:minister_replace_select|很 好。 你 将 会 安 排 谁 来 顶 替 我 的 位 置？ 
-dlga_minister_replace_select:minister_replace_confirm|{s4}
+dlga_minister_replace:minister_replace_select|Very good. Whom will you appoint in my stead? {***}
+dlga_minister_replace_select:minister_replace_confirm|{s4}。 
 dlga_minister_replace_select:minister_replace_confirm.1|我 的 妻 子， {s4}。 
-dlga_minister_replace_select:minister_pretalk|先 放 一 放 再 说 吧。
-dlga_minister_replace_confirm:close_window|很 好， {s9}将 是 你 的 新 首 相， 我 随 时 准 备 重 新 为 你 效 劳。 
-dlga_minister_replace_confirm:close_window.1|很 好， {s9}将 是 你 的 新 首 相， 为 你 效 劳 是 一 种 荣 耀。 
-dlga_minister_grant_fief:minister_grant_fief_select|你 想 将 哪 块 封 地 授 予 出 去？ {s12}
-dlga_minister_grant_fief_select:minister_grant_fief_select_recipient|{s1}{s12}
-dlga_minister_grant_fief_select:minister_pretalk|没 事 
-dlga_minister_grant_fief_select_recipient:minister_grant_fief_select_recipient_choice|你 将 选 择 谁 来 领 受 这 块 封 地？ {s12}
-dlga_minister_grant_fief_select_recipient_choice:minister_grant_fief_complete|{s1}
-dlga_minister_grant_fief_select_recipient_choice:minister_pretalk|没 事 
-dlga_minister_grant_fief_complete:minister_pretalk|好 的— — {s2}会 领 受 {s1}。 
-dlga_minister_indict:minister_indict_select|真 是 个 令 人 不 愉 快 的 消 息， {陛 下/尊 敬 的 女 士}。 你 认 为 谁 将 要 背 叛 你 呢？ 
-dlga_minister_indict_select:minister_indict_confirm|{s11}
-dlga_minister_indict_select:minister_pretalk|没 事。 
-dlga_minister_indict_confirm:minister_indict_confirm_answer|请 你 三 思， {陛 下/尊 敬 的 女 士}。 如 果 你 在 没 有 证 据 的 情 况 下 就 以 叛 国 的 罪 名 处 置 {s4}， 你 将 发 觉 其 他 人 会 对 效 力 于 你 产 生 担 忧。 另 一 方 面， 如 果 你 确 实 认 为 {reg4?她 :他 }将 要 背 叛 你， 也 许 最 好 先 采 取 行 动， 先 掌 控 {reg4?她 的 :他 的 }城 堡。 
-dlga_minister_indict_confirm_answer:minister_indict_conclude|我 已 经 想 得 够 久 了， 去 宣 布 我 的 诉 状！ 
-dlga_minister_indict_confirm_answer:minister_pretalk|也 许 我 应 该 等 上 一 段 时 间…… 
-dlga_minister_indict_conclude:minister_pretalk|这 块 封 地 已 经 送 出 去 了， {陛 下/尊 敬 的 女 士}。 
-dlga_center_captured_lord_advice:center_captured_lord_advice_2|{s11}。 {s1}
-dlga_center_captured_lord_advice:center_captured_lord_advice_2.1|{s12}我 想 把 {s1}归 为 我 自 己 所 有。 （ 封 地:{s0}） 
-dlga_center_captured_lord_advice:center_captured_lord_advice_2.2|{s66}， 你 可 以 保 留 {s1}。 （ 封 地:{s0}） 
-dlga_center_captured_lord_advice_2:minister_issues|如 你 所 愿， {陛 下/尊 敬 的 女 士}。 {reg6?我 :{reg7?你 :{s11}}}将 成 为 {s1}的 新 {reg3?主 人 :主 人 }。 
-dlga_center_captured_lord_advice_2:close_window|嗯。 好 吧， {playername}。 我 很 看 重 你 的 意 见。 {reg6?我 :{reg7?你 :{s11}}}将 会 是 {s1}的 新 {reg3?主 人 :主 人 }。 
-dlga_event_triggered:companion_quitting|对 不 起 {s5}， 我 有 一 些 事 情 要 跟 你 说。 
-dlga_companion_quitting:companion_quitting_2|{s5}
-dlga_companion_quitting_2:companion_quitting_response|告 诉 你 真 相， {s21}。 
-dlga_companion_quitting_response:companion_quitting_yes|很 好， 那 么 你 走 吧。 
-dlga_companion_quitting_response:companion_quitting_persuasion|也 许 我 可 以 劝 你 改 变 主 意。 
-dlga_companion_quitting_persuasion:close_window|嗯。 如 果 你 那 么 做， 我 想 我 可 以 再 待 一 阵 子， 看 看 事 情 会 不 会 变 好。 
-dlga_companion_quitting_persuasion:companion_quitting_response|对 不 起， 我 不 明 白 你 的 意 思， 我 已 经 决 意 要 离 开 了。 不 管 你 喜 欢 还 是 不 喜 欢。 
+dlga_minister_replace_select:minister_pretalk|先 放 一 放 再 说 吧。 
+dlga_minister_replace_confirm:close_window|好 的， {s9} 将 是 您 的 新 首 席 大 臣， 我 随 时 准 备 为 您 再 次 效 劳。 
+dlga_minister_replace_confirm:close_window.1|好 的， {s9} 将 是 您 的 新 首 席 大 臣， 为 您 效 劳 是 我 的 荣 耀。 
+dlga_minister_grant_fief:minister_grant_fief_select|您 想 将 哪 块 领 土 授 予 出 去？ {s12}。 
+dlga_minister_grant_fief_select:minister_grant_fief_select_recipient|{s1}{s12}。 
+dlga_minister_grant_fief_select:minister_pretalk|算 了。 
+dlga_minister_grant_fief_select_recipient:minister_grant_fief_select_recipient_choice|谁 将 受 封 这 块 领 土？ 
+dlga_minister_grant_fief_select_recipient_choice:minister_grant_fief_complete|{s1}。 
+dlga_minister_grant_fief_select_recipient_choice:minister_pretalk|算 了。 
+dlga_minister_grant_fief_complete:minister_pretalk|Very well - {s2} shall receive {s1}.{***}
+dlga_minister_indict:minister_indict_select|真 是 个 令 人 不 愉 快 的 消 息， {陛 下/ 尊 敬 的 女 士}。 您 认 为 谁 正 在 谋 划 背 叛 呢？ 
+dlga_minister_indict_select:minister_indict_confirm|{s11}。 
+dlga_minister_indict_select:minister_pretalk|没 人。 
+dlga_minister_indict_confirm:minister_indict_confirm_answer|请 您 三 思， {陛 下/ 尊 敬 的 女 士}。 如 果 您 在 没 有 证 据 的 情 况 下 就 以 叛 国 的 罪 名 处 置 {s4}， 你 将 发 觉 其 他 人 会 对 效 力 于 您 产 生 担 忧。 另 一 方 面， 如 果 您 确 实 认 为 {reg4? 她 :他} 将 要 背 叛 您，那 么 您 最 好 先 采 取 行 动 以 掌 控 {reg4?她 的 :他 的 }城 堡。 
+dlga_minister_indict_confirm_answer:minister_indict_conclude|我 已 经 想 得 很 清 楚 了， 去 发 布 诉 状！ 
+dlga_minister_indict_confirm_answer:minister_pretalk|这 件 事 不 急 于 一 时。 
+dlga_minister_indict_conclude:minister_pretalk|这 块 封 地 已 经 赏 赐 出 去 了， {陛 下/ 尊 敬 的 女 士}。 
+dlga_center_captured_lord_advice:center_captured_lord_advice_2|{s11}。 {s1}。 
+dlga_center_captured_lord_advice:center_captured_lord_advice_2.1|{s12}，我 希 望 将 {s1} 留 给 我 自 己。 (封 地: {s0}) 
+dlga_center_captured_lord_advice:center_captured_lord_advice_2.2|{s66}，你 可 以 保 留 {s1}。 (封 地: {s0}) 
+dlga_center_captured_lord_advice_2:minister_issues|As you wish, {sire/my lady}. {reg6?I:{reg7?You:{s11}}} will be the new {reg3?lady:lord} of {s1}.{***}
+dlga_center_captured_lord_advice_2:close_window|Hmmm. All right, {playername}. I value your counsel highly. {reg6?I:{reg7?You:{s11}}} will be the new {reg3?lady:lord} of {s1}.{***}
+dlga_event_triggered:companion_quitting|打 扰 一 下， {s5}。 我 有 事 情 要 和 你 谈。 
+dlga_companion_quitting:companion_quitting_2|{s5}。 
+dlga_companion_quitting_2:companion_quitting_response|告 知 你 真 相， {s21}。 
+dlga_companion_quitting_response:companion_quitting_yes|你 做 的 很 好， 现 在 可 以 离 开 了。 
+dlga_companion_quitting_response:companion_quitting_persuasion|也 许 我 可 以 尝 试 说 服 你 改 变 主 意。 
+dlga_companion_quitting_persuasion:close_window|既 然 你 如 此 说 了， 那 么 我 现 在 给 你 机 会 来 改 变 我 的 想 法。 {***}嗯。 如 果 你 那 么 做， 我 想 我 可 以 再 待 一 阵 子， 看 看 事 情 会 不 会 变 好。 
+dlga_companion_quitting_persuasion:companion_quitting_response|很 抱 歉， 我 不 明 白 你 的 意 思， 无 论 你 是 否 喜 欢， 我 已 经 决 意 要 离 开 了。 
 dlga_companion_quitting_response:companion_quitting_no|在 这 里， 我 们 会 把 逃 兵 绞 死。 
-dlga_companion_quitting_no:companion_quitting_no_confirm|哦…… 对 吧…… 你 是 那 个 意 思 么？ 
-dlga_companion_quitting_no_confirm:companion_quitting_no_confirmed|没 错。 你 要 么 是 依 我 的 命 令 离 开 队 伍， 或 者 躺 在 你 的 盾 牌 上， 被 抬 出 去。 
-dlga_companion_quitting_no_confirm:companion_quitting_yes|不， 其 实 我 不 是 那 个 意 思。 你 随 时 可 以 走。 
-dlga_companion_quitting_yes:close_window|这 次 就 告 别 了。 也 许 我 们 还 会 再 见 的。 
-dlga_companion_quitting_no_confirmed:close_window|嗯。 那 么， 我 要 留 下。 
-dlga_event_triggered:companion_objection_response|{s5}
-dlga_companion_objection_response:close_window|谢 了， 我 非 常 感 谢 你 的 支 持。 
-dlga_companion_objection_response:close_window.1|希 望 那 不 要 再 发 生 了。 
-dlga_companion_objection_response:close_window.2|你 的 抗 议 无 效。 现 在 回 到 队 伍 里。 
-dlga_event_triggered:companion_personalityclash2_b|{s5}
-dlga_companion_personalityclash2_b:companion_personalityclash2_response|{s5}
-dlga_companion_personalityclash2_response:close_window|对 于 我 们 的 队 伍 来 说， {s11}是 一 个 非 常 有 价 值 的 队 员。 我 不 想 你 再 找 {reg11?她 :他 }吵 架 了。 
-dlga_companion_personalityclash2_response:close_window.1|告 诉 {s11}对 于 这 件 事 情 我 支 持 你， 并 且 {reg11?她 :他 }应 该 闭 上 {reg11?她 的 :他 的 }嘴 了。 
-dlga_companion_personalityclash2_response:close_window.2|我 没 时 间 和 你 说 这 些。 
-dlga_event_triggered:companion_personalityclash_b|{s5}
-dlga_companion_personalityclash_b:companion_personalityclash_response|{s5}
-dlga_companion_personalityclash_response:close_window|{s11}在 这 个 队 伍 里 是 一 个 很 有 能 力 的 队 员。 我 不 想 你 再 和 {reg11?她 :他 }吵 架 了。 
-dlga_companion_personalityclash_response:close_window.1|告 诉 {s11}对 于 这 件 事 情 我 支 持 你， 并 且 {reg11?她 :他 }应 该 闭 上 {reg11?她 的 :他 的 }嘴 了。 
-dlga_companion_personalityclash_response:close_window.2|我 没 时 间 和 你 说 这 些。 
-dlga_event_triggered:companion_personalitymatch_b|{s5}
-dlga_companion_personalitymatch_b:companion_personalitymatch_response|{s5}
+dlga_companion_quitting_no:companion_quitting_no_confirm|额， 你 确 定 这 个 意 思 么？ 
+dlga_companion_quitting_no_confirm:companion_quitting_no_confirmed|没 错！ 要 么 依 我 的 命 令 回 到 队 伍 中 ， 不 然 就 躺 在 你 的 盾 牌 上， 被 抬 着 离 开 ！ 
+dlga_companion_quitting_no_confirm:companion_quitting_yes|不， 我 并 没 有 那 个 意 思， 你 随 时 可 以 离 开。 
+dlga_companion_quitting_yes:close_window|那 么 再 见 了， 也 许 我 们 以 后 还 会 再 见 面 的， {playername}。 
+dlga_companion_quitting_no_confirmed:close_window|我 决 定 留 下。 
+dlga_event_triggered:companion_objection_response|{s5}。 
+dlga_companion_objection_response:close_window|非 常 感 谢 你 对 我 的 支 持。 
+dlga_companion_objection_response:close_window.1|但 愿 那 不 会 再 发 生 了。 
+dlga_companion_objection_response:close_window.2|你 的 抗 议 无 效， 现 在 回 到 队 伍 里 去。 
+dlga_event_triggered:companion_personalityclash2_b|{s5}。 
+dlga_companion_personalityclash2_b:companion_personalityclash2_response|{s5}。 
+dlga_companion_personalityclash2_response:close_window|对 于 我 们 的 队 伍 来 说， {s11}是 一 个 非 常 有 价 值 的 队 员。 我 不 想 你 再 找 {reg11? 她 :他}麻 烦 了。 
+dlga_companion_personalityclash2_response:close_window.1|告 诉 {s11}， 对 于 这 件 事 情 我 支 持 你， 并 且 {reg11? 她 :他} 应 该 闭 上 {reg11? 她 的 :他 的} 嘴 了。 
+dlga_companion_personalityclash2_response:close_window.2|我 没 有 时 间 来 处 理 这 种 琐 碎 的 小 事。 
+dlga_event_triggered:companion_personalityclash_b|{s5}。 
+dlga_companion_personalityclash_b:companion_personalityclash_response|{s5}。 
+dlga_companion_personalityclash_response:close_window|对 于 我 们 的 队 伍 来 说， {s11}是 一 个 非 常 有 能 力 的 队 员。 我 不 想 你 再 找 {reg11? 她 :他}麻 烦 了。 
+dlga_companion_personalityclash_response:close_window.1|告 诉 {s11}， 对 于 这 件 事 情 我 支 持 你， 并 且 {reg11? 她 :他} 应 该 闭 上 {reg11? 她 的 :他 的} 嘴 了。 
+dlga_companion_personalityclash_response:close_window.2|我 没 有 时 间 来 处 理 这 种 琐 碎 的 小 事。 
+dlga_event_triggered:companion_personalitymatch_b|{s5}。 
+dlga_companion_personalitymatch_b:companion_personalitymatch_response|{s5}。 
 dlga_companion_personalitymatch_response:close_window|很 好。 
-dlga_event_triggered:companion_sisterly_advice|{s5}
+dlga_event_triggered:companion_sisterly_advice|{s5}。 
 dlga_companion_sisterly_advice:close_window|谢 谢。 
-dlga_companion_sisterly_advice:close_window.1|我 不 想 再 讨 论 这 种 事 情。 
-dlga_event_triggered:companion_home_description|{s5}
+dlga_companion_sisterly_advice:close_window.1|我 不 愿 意 再 讨 论 这 些 事 了。 
+dlga_event_triggered:companion_home_description|{s5}。 
 dlga_companion_home_description:companion_home_description_2|再 告 诉 我 一 些。 
-dlga_companion_home_description:close_window|我 们 现 在 没 有 时 间 闲 聊。 
+dlga_companion_home_description:close_window|我 们 没 有 时 间 去 闲 聊 了。 
 dlga_companion_home_description:close_window.1|我 更 希 望 我 们 的 交 情 不 会 受 这 些 琐 事 的 干 扰。 
-dlga_companion_home_description_2:companion_home_description_3|{s5}
-dlga_companion_home_description_3:close_window|{s5}
-dlga_event_triggered:rebel_thanks_answer|{s6}
-dlga_rebel_thanks_answer:rebel_thanks_answer_2|很 荣 幸 能 为 了 你 的 事 业 而 战， {reg65?夫 人:我 的 大 人}。 
-dlga_rebel_thanks_answer:rebel_thanks_answer_2.1|你 永 远 都 是 我 忠 心 的 支 持 者， {reg65?尊 敬 的 女 士:先 生}。 
+dlga_companion_home_description_2:companion_home_description_3|{s5}。 
+dlga_companion_home_description_3:close_window|{s5}。 
+dlga_event_triggered:rebel_thanks_answer|{s6}。 
+dlga_rebel_thanks_answer:rebel_thanks_answer_2|很 荣 幸 能 为 了 您 的 事 业 而 战， {reg65? 夫 人: 我 的 大 人}。 
+dlga_rebel_thanks_answer:rebel_thanks_answer_2.1|我 将 永 远 是 您 忠 诚 的 支 持 者， {reg65? 尊 敬 的 女 士: 先 生}。 
 dlga_rebel_thanks_answer_2:close_window|我 会 想 念 和 你 一 起 冒 险 的 时 光， 但 是 我 还 有 职 责 在 身。 所 以…… 再 会 了， {playername}。 我 希 望 我 能 尽 快 地 再 次 见 到 你。 
-dlga_event_triggered:companion_political_grievance_response|{s21}
-dlga_companion_political_grievance_response:close_window|你 的 意 见 我 记 下 了。 
-dlga_event_triggered:companion_rejoin_response.2|好 啊， {s21}， 我 终 于 找 到 你 了。 {s11}， 余 下 的 报 告 还 在 撰 写 当 中。 
-dlga_event_triggered:companion_rejoin_response.3|你 要 我 归 队 吗？ 
-dlga_event_triggered:companion_rejoin_response.4|Well, {s21}, at last I've found you. {s11}. The rest of my report I submit to you in writing.{***}
-dlga_event_triggered:companion_embassy_results|好 啊， {s21}， 我 终 于 找 到 你 了。 我 完 成 了 在 {s31}的 任 务。 大 致 上， 我 要 说， {s14}。 
-dlga_companion_embassy_results:companion_rejoin_response|在 这 封 信 上， {s12}尊 称 你 为 {s4}的 {领 主/夫 人}， 这 是 默 认 你 为 君 主 以 及 独 立 的 统 治 者。 
-dlga_companion_embassy_results:companion_rejoin_response.1|在 这 封 信 上， {s12}只 是 称 呼 你 为 {playername}， 没 有 任 何 头 衔。 他 并 没 有 对 你 的 统 治 权 力 表 示 认 可。 
-dlga_companion_embassy_results:companion_rejoin_response.2|{s12}表 示 你 们 目 前 已 有 停 战 协 议， 应 该 足 够 了。 
-dlga_companion_embassy_results:companion_rejoin_response.3|{s12}说 他 不 愿 意 签 订 停 战 协 议。 
-dlga_companion_truce_confirm:companion_rejoin_response|很 好， 我 们 就 签 下 和 {s4}的 停 战 协 议 吧。 
-dlga_companion_truce_confirm:companion_rejoin_response.1|仔 细 想 想 的 话， 也 许 目 前 这 还 不 在 我 们 的 考 虑 范 围 之 内…… 
+dlga_event_triggered:companion_political_grievance_response|{s21}。 
+dlga_companion_political_grievance_response:close_window|Your opinion is noted.
+dlga_event_triggered:companion_rejoin_response.2你 好，{s21}。 我 现 在 可 以 重 新 加 入 队 伍 么？ 
+dlga_event_triggered:companion_rejoin_response.3|终 于 找 到 您 了， {s21}大 人。我 已 经 在 世 界 的 各 个 角 落 散 播 您 的 所 有 权！ 现 在 ，我 现 在 可 以 重 新 加 入 队 伍 么？ {***}统治权
+dlga_event_triggered:companion_rejoin_response.4|终 于 找 到 您 了， {s21}大 人。 {s11}， 余 下 的 内 容 您 可 以 在 我 的 报 告 中 看 到。 
+dlga_event_triggered:companion_embassy_results|终 于 找 到 您 了， {s21}大 人。 我 刚 完 成 {s31} 的 任 务 归 来。 大 致 上， 我 要 说， {s14}。 
+dlga_companion_embassy_results:companion_rejoin_response|在 这 封 信 上， {s12}尊 称 您 为 {s4}的 {领 主/ 夫 人}， 这 是 默 认 你 作 为 一 个 主 权 独 立 的 君 主 所 存 在。 
+dlga_companion_embassy_results:companion_rejoin_response.1|在 这 封 信 上， {s12}只 是 称 呼 你 为 {playername}， 没 有 任 何 头 衔。 他 并 不 认 可 你 的 统 治 权。 
+dlga_companion_embassy_results:companion_rejoin_response.2|{s12} says that your current truce should suffice.{***}
+dlga_companion_embassy_results:companion_rejoin_response.3|{s12} 说 他 不 愿 意 签 订 停 战 协 议。 
+dlga_companion_truce_confirm:companion_rejoin_response|非 常 好， 与 {s4} 签 订 停 战 协 议。 
+dlga_companion_truce_confirm:companion_rejoin_response.1|我 重 新 考 虑 了 下， 这 并 不 符 合 我 们 的 利 益， 我 们 拒 绝 签 订 停 战 协 议。 
 dlga_companion_embassy_results:companion_rejoin_response.4|{s12}说 你 已 经 向 别 的 统 治 者 宣 誓 过 了。 
-dlga_companion_embassy_results:companion_rejoin_response.5|{s12}说 他 并 不 相 信 你 会 履 行 你 的 承 诺— — 成 为 他 的 封 臣， 并 怀 疑 这 是 你 的 诡 计。 
+dlga_companion_embassy_results:companion_rejoin_response.5|{s12}说 他 并 不 相 信 你 会 履 行 你 的 承 诺—— 成 为 他 的 封 臣， 并 怀 疑 这 是 你 的 诡 计。 
 dlga_companion_embassy_results:vassalage_offer_confirm|{s12}说 他 接 受 你 成 为 他 封 臣 的 请 求。 他 会 给 你 30 天 的 时 间 去 找 他， 在 这 段 时 间 里 他 会 避 免 和 你 开 战。 
 dlga_vassalage_offer_confirm:companion_rejoin_response|告 诉 他， 我 接 受 他 提 出 的 条 件。 
-dlga_companion_rejoin_response:close_window|欢 迎 回 来， 朋 友！ 
-dlga_companion_rejoin_response:companion_rejoin_refused|很 不 巧， 我 现 在 暂 时 还 不 能 让 你 归 队。 
-dlga_companion_rejoin_refused:close_window|随 便 你， 我 会 去 处 理 一 些 其 他 的 事 情， 过 一 段 时 间 我 再 来 试 试。 
-dlga_event_triggered:companion_rejoin_response.5|Would you have me rejoin you?{***}
-dlga_event_triggered:close_window.2|There! I can see the walls of {s3} in the distance. We've made it safely. Here, take this purse of {reg3} denars, as I promised. I hope we can travel together again someday.{***}
+dlga_companion_rejoin_response:close_window|欢 迎 回 来， 我 的 朋 友。 
+dlga_companion_rejoin_response:companion_rejoin_refused|很 不 幸， 你 现 在 还 不 能 归 队。 
+dlga_companion_rejoin_refused:close_window|如 你 所 愿， 我 先 去 处 理 些 其 他 事 情， 过 一 段 时 间 我 再 来 试 试。 
+dlga_event_triggered:companion_rejoin_response.5|你 希 望 我 重 新 加 入 队 伍 么？ 
+dlga_event_triggered:close_window.2|那 儿！ 我 可 以 看 到 远 处 {s3}的 城 墙。 我 们 安 全 到 达 了 这 里。 这 是 我 承 诺 过 的 {reg3}第 纳 尔。 我 希 望 哪 天 能 再 和 你 结 伴 而 行。 
 dlga_event_triggered:close_window.3|Let's get it on.{***}
-dlga_start:lord_start|尊 敬 的 女 士， 我 是 如 此 期 待 我 们 的 婚 礼， 只 要 举 办 婚 宴 的 时 机 成 熟， 我 们 便 可 结 为 连 理。 {s12}
-dlga_start:lord_start.1|尊 敬 的 女 士， 如 果 你 愿 意 和 我 结 婚， 我 们 可 以 在 {s4}举 行 我 们 的 婚 礼， 当 着 全 王 国 领 主 的 面 交 换 誓 约。 
-dlga_start:lord_start.2|尊 敬 的 女 士， 我 没 有 耐 心 再 等 待 全 王 国 的 领 主 们 集 合 了， 和 我 一 起 去 {s4}交 换 我 们 的 誓 约 吧。 
-dlga_start:lord_start.3|尊 敬 的 女 士， 我 没 有 耐 心 再 等 待 全 王 国 的 领 主 们 集 合 了， 也 许 我 们 应 该 马 上 结 婚， 在 任 何 向 我 们 开 放 的 大 厅 都 行。 
-dlga_start:lord_groom_vows|尊 敬 的 女 士， 我 没 有 耐 心 再 等 了， 让 我 们 立 刻 继 续 交 换 誓 约 吧。 
+dlga_start:lord_start|尊 敬 的 女 士， 我 是 如 此 期 待 我 们 的 婚 礼， 只 要 举 办 婚 宴 的 时 机 成 熟， 我 们 便 可 结 为 连 理。 {s12} 
+dlga_start:lord_start.1|尊 敬 的 女 士， 如 果 你 愿 意 和 我 结 婚， 我 们 可 以 在 {s4} 举 行 我 们 的 婚 礼， 当 着 全 王 国 领 主 的 面 交 换 誓 约。 
+dlga_start:lord_start.2|尊 敬 的 女 士， 我 没 有 耐 心 再 等 待 全 王 国 的 领 主 们 集 合 了， 和 我 一 起 去 {s4} 交 换 我 们 的 誓 约 吧。 
+dlga_start:lord_start.3|尊 敬 的 女 士， 我 没 有 耐 心 再 等 待 全 王 国 的 领 主 们 集 合 了， 也 许 我 们 应 该 可 以 在 任 何 向 我 们 开 放 的 举 行 婚 礼。 
+dlga_start:lord_groom_vows|尊 敬 的 女 士， 我 没 有 耐 心 再 等 了， 让 我 们 继 续 交 换 誓 约 吧。 
 dlga_start:lord_groom_vows.1|尊 敬 的 女 士， 当 我 凝 视 着 你， 我 眼 中 满 是 喜 悦， 让 我 们 继 续 交 换 誓 约 吧。 
-dlga_lord_groom_vows:female_pc_marriage_vow|尊 敬 的 女 士， 有 此 盛 会 为 证， 我 宣 誓 娶 你 为 妻， 尊 重 你， 珍 惜 你， 保 护 你。 愿 上 天 赐 予 我 们 健 康， 富 贵， 以 及 孩 子。 
-dlga_female_pc_marriage_vow:lord_groom_wedding_complete|我 宣 誓， 从 此 你 就 是 我 的 丈 夫。
+dlga_lord_groom_vows:female_pc_marriage_vow|尊 敬 的 女 士， 有 此 盛 会 为 证， 我 宣 誓 娶 你 为 妻， 尊 重 你， 珍 惜 你， 保 护 你。 愿 上 天 赐 予 我 们 健 康， 财 富， 以 及 孩 子。 
+dlga_female_pc_marriage_vow:lord_groom_wedding_complete|我 宣 誓， 从 此 你 就 是 我 的 丈 夫 了。 
 dlga_female_pc_marriage_vow:close_window|等 一 下， 我 需 要 再 考 虑 考 虑。 
 dlga_lord_groom_wedding_complete:close_window|我 们 现 在 是 夫 妻 了， 开 始 庆 祝 吧！ 
-dlga_start:close_window.15|我 不 知 道 到 哪 里 才 能 找 到 我 的 {s11}{s10}， 那 个 按 照 传 统 应 该 主 持 我 们 婚 礼 的 人。 也 许 我 们 该 等 到 他 被 找 到 为 止…… 
-dlga_start:close_window.16|高 贵 的 {s12}已 经 同 意 让 我 们 回 到 我 们 亲 人 们 身 边。 我 们 马 上 就 要 出 发 了。 
-dlga_start:close_window.17|我 们 将 马 上 启 程 去 {s5}。 很 高 兴 世 界 上 还 有 人 有 心 维 护 荣 誉。 
-dlga_start:close_window.18|嗯， {playername}— — 你 和 {s10}决 斗， 被 打 败 了。 根 据 我 们 的 习 俗 和 传 统， 我 不 能 再 接 纳 你。 再 见， {playername}。 
-dlga_start:close_window.19|啊， {playername}。 能 再 见 到 你 真 是 太 好 了。 可 惜 我 现 在 必 须 赶 往 别 处。 
+dlga_start:close_window.15|很 好， 你 的 观 点 令 我 无 话 可 说。 
+dlga_start:close_window.16|好 吧， {先 生/ 尊 敬 的 女 士}！ 请 你 别 再 费 神 从 地 上 爬 起 来 了， 因 为 那 样 我 还 得 把 你 再 打 趴 下。 如 果 你 保 持 沉 默 我 就 当 你 道 过 歉 了。 祝 你 日 安。 
+dlga_start:close_window.17|很 好，你 表 明 了 你 的 观 点，  我 收 回 我 所 说 的， 希 望 你 能 满 意。 
+dlga_start:close_window.18|Hah! Not so gallant now, are we? Now trouble me no more.{***}
+dlga_start:close_window.19|哼， 你 赢 了， 在 所 有 出 席 的 人 面 前 击 败 了 我， 我 会 放 弃 对 {s10} 的 追 求， 你 这 狠 心 的 杂 种 现 在 满 意 了 吧？ 
 dlga_start:close_window.20|那 儿！ 我 可 以 看 到 远 处 {s3}的 城 墙。 我 们 安 全 到 达 了 这 里。 给， 拿 上 我 承 诺 过 的 这 {reg3}第 纳 尔。 我 希 望 哪 天 能 再 和 你 结 伴 而 行。 
 dlga_start:player_siege_castle_commander_1|你 想 干 什 么？ 
 dlga_player_siege_castle_commander_1:player_siege_ask_surrender|投 降！ 这 个 情 形 你 已 经 没 有 希 望 了。 
