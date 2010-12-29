@@ -26,7 +26,7 @@ menu_start_game_1|选 择 你 的 角 色 性 别。
 mno_start_male|男 
 mno_start_female|女 
 mno_enable_quickstart|使 用 快 速 开 始 模 式（ 测 试 专 用） 
-mno_enable_quickstart|关 闭 快 速 开 始 模 式 
+mno_disable_quickstart|关 闭 快 速 开 始 模 式 
 mno_go_back|后 退。 
 menu_start_character_1|当 你 很 多 年 前 出 生 在 一 片 遥 远 的 大 陆 时， 你 的 父 亲 是…… 
 mno_start_noble|一 位 没 落 的 贵 族。 
@@ -82,9 +82,9 @@ menu_faction_relations_report|{s1}
 mno_continue|继 续 
 menu_camp|营 地 已 经 建 好 了， 你 想 要 做 什 么？ 
 mno_action_export_import|导 入 /导 出 NPC.
-mno_action_mod_options|Mod Options{***}
-mno_action_faction_colours|Change faction colours{***}
-mno_camp_manage_inventory|Manage your party's inventory.{***}
+mno_action_mod_options|Mod 选 项 
+mno_action_faction_colours|更 改 阵 营 颜 色 
+mno_camp_manage_inventory|管 理 团 队 物 品 
 mno_camp_action|干 点 事 情。 
 mno_camp_wait_here|在 这 里 待 一 会 儿。 
 mno_camp_cheat|作 弊 菜 单！ 
@@ -135,9 +135,8 @@ mno_go_back_dot|后 退。
 menu_arena_duel_fight|你 和 你 的 对 手 准 备 决 斗。 
 mno_continue|继 续 
 mno_continue|继 续 
-menu_prepare_for_battle|战 斗 准 备 阶 段 开 始。 
-mno_continue|继 续 
 menu_simple_encounter|{s2}你 将 以 {reg10}人 的 部 队 迎 战 对 手 {reg11}人。 
+mno_encounter_prepare_battle|准 备 战 斗 
 mno_encounter_attack|攻 入 敌 阵！ 
 mno_encounter_attack|攻 入 敌 阵！ 
 mno_encounter_order_attack|坐 镇 指 挥， 让 你 的 部 队 攻 击。 
@@ -158,7 +157,7 @@ mno_order_retreat|让 你 的 士 兵 撤 回 来。
 mno_continue|继 续 
 menu_battle_debrief|{s11}伤 亡： ^^ 我 军 伤 亡： {s8}{s10}^^ 敌 军 伤 亡： {s9}
 mno_continue|继 续 
-menu_total_victory|你 不 该 看 这 个…… {s9}
+menu_total_victory|你 不 该 看 这 个 …… {s9}
 mno_continue|继 续 
 menu_enemy_slipped_away|{s17}
 mno_continue|继 续 
@@ -170,7 +169,7 @@ mno_pre_join_help_defenders|对 {s1}施 以 援 手。
 mno_pre_join_leave|不 卷 入 纷 争。 
 menu_join_battle|你 决 定 帮 助 {s2}对 抗 {s1}， 你 将 有 {reg10}名 士 兵 参 加 战 斗 对 抗 {reg11}个 敌 人。 
 mno_join_attack|攻 入 敌 阵！ 
-mno_join_attack|攻 入 敌 阵！ 
+mno_join_attack|登 上 敌 船！ 
 mno_join_order_attack|仅 仅 让 你 的 士 兵 加 入 你 的 盟 友。 
 mno_join_leave|离 开。 
 menu_join_order_attack|{s4}^^ 我 军 伤 亡： {s8}^^ 盟 军 伤 亡： {s9}^^ 敌 军 伤 亡： {s10}
@@ -220,9 +219,9 @@ mno_leave|离 开
 menu_castle_outside|你 在 {s2}的 外 面。 {s11}{s3}{s4}
 mno_approach_gates|走 近 城 门， 叫 守 卫 出 来。 
 mno_town_sneak|伪 装， 偷 偷 溜 进 {s7}里 去。 
-mno_dplmc_riot_start_siege|Besiege the {reg6?town:castle} to counter the insurgency.{***}
-mno_dplmc_riot_negotiate|Begin negotiations.{***}
-mno_castle_start_siege|围 攻 {reg6? 城 镇 : 城 堡}
+mno_dplmc_riot_start_siege|围 攻 {reg6?城 镇:城 堡} 来 平 息 暴 乱。 
+mno_dplmc_riot_negotiate|开 始 磋 商。 
+mno_castle_start_siege|围 攻 {reg6? 城 镇:城 堡} 
 mno_castle_leave|离 开。 
 menu_castle_guard|你 走 近 了 城 门。 城 墙 上 的 守 卫 正 紧 盯 着 你。 
 mno_request_shelter|要 求 进 入 城 堡。 
