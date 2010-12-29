@@ -223,8 +223,8 @@ p_castle_18_5|巴 达 霍 斯
 p_castle_18_6|穆 尔 西 亚 
 p_castle_20_1|塔 里 法 堡 
 p_castle_20_2|安 特 克 拉 堡 
-p_castle_20_3|瓦 迪- 阿 塞 堡
-p_castle_20_4|阿 尔- 梅 利 亚 堡 
+p_castle_20_3|瓦 迪 - 阿 塞 堡 
+p_castle_20_4|阿 尔 - 梅 利 亚 堡 
 p_castle_22_1|米 拉 
 p_castle_22_2|安 塔 利 亚 
 p_castle_22_3|索 佐 波 利 斯 
@@ -257,7 +257,7 @@ p_castle_27_5|拉 佳
 p_castle_27_6|卡 尔 斯 
 p_castle_28_1|凯 鲁 万 
 p_castle_28_2|凯 里 卜 
-p_castle_28_3|达 西 第 艾 兹 哈 尔
+p_castle_28_3|达 西 第 艾 兹 哈 尔 
 p_castle_28_4|贝 贾 亚 
 p_castle_28_5|加 贝 斯 
 p_castle_28_6|苏 尔 特 
@@ -324,7 +324,7 @@ p_village_3_4|罗 斯 托 夫
 p_village_3_5|鲍 里 索 夫 卡 
 p_village_3_6|苏 兹 达 尔 
 p_village_3_7|科 泽 利 斯 克 
-p_village_3_8|诺 夫 哥 罗 德 - 谢 韦 尔 斯 基
+p_village_3_8|诺 夫 哥 罗 德 - 谢 韦 尔 斯 基 
 p_village_3_9|布 罗 伐 利 
 p_village_3_10|杰 米 多 夫 
 p_village_3_11|穆 罗 姆 
@@ -441,17 +441,17 @@ p_village_10_23|里 昂
 p_village_10_24|朗 格 勒 
 p_village_10_28|兰 斯 
 p_village_10_30|勒 芒 
-p_village_11_1|Hjaltlandseyjar{***}
+p_village_11_1|罗 加 兰 
 p_village_11_2|Freysey{***}
-p_village_11_3|Þorshofn{***}
+p_village_11_3|托 尔 斯 港 
 p_village_11_4|Hamarr{***}
-p_village_11_5|Borg{***}
+p_village_11_5|博 里 
 p_village_11_6|Véey{***}
 p_village_11_7|凯 于 庞 厄 尔 {***}
 p_village_11_8|Skiða{***}
 p_village_11_9|Konungahella{***}
 p_village_11_10|Suðreyjar{***}
-p_village_11_11|奥 克 尼 岛 
+p_village_11_11|奥 克 尼 
 p_village_11_12|斯 泰 恩 谢 尔 
 p_village_12_1|因 弗 内 斯 
 p_village_12_2|奥 本 
@@ -461,26 +461,26 @@ p_village_12_5|卡 卢 克
 p_village_12_6|爱 丁 堡 
 p_village_12_7|林 利 斯 哥 
 p_village_12_8|帕 斯 
-p_village_13_1|Cashel{***}
-p_village_13_2|Ennis{***}
-p_village_13_3|Castlerea{***}
-p_village_13_4|Raphoe{***}
-p_village_13_5|Corcomroe Abbey{***}
-p_village_13_6|Omagh Abbey{***}
-p_village_13_7|Carrick{***}
-p_village_13_8|Strabane{***}
-p_village_14_1|Upsalir{***}
-p_village_14_2|Arbugæ{***}
-p_village_14_3|Áland{***}
-p_village_14_4|Wybiargh{***}
-p_village_14_5|Rúm{***}
-p_village_14_6|Vestrvík{***}
-p_village_14_7|Vecsioren{***}
-p_village_14_8|Øræbrú{***}
-p_village_14_9|Bjælbú{***}
-p_village_14_10|Falukøpang{***}
-p_village_14_11|Suþrkøpang{***}
-p_village_14_12|Sigtúnæ{***}
+p_village_13_1|卡 舍 尔 
+p_village_13_2|恩 尼 斯 
+p_village_13_3|卡 斯 尔 雷 
+p_village_13_4|拉 福 
+p_village_13_5|考 克 姆 罗 - 阿 比 
+p_village_13_6|奥 马 - 阿 比 
+p_village_13_7|卡 里 克 
+p_village_13_8|斯 特 拉 班 
+p_village_14_1|乌 普 萨 拉 
+p_village_14_2|阿 尔 博 加 
+p_village_14_3|艾 兰 
+p_village_14_4|维 布 里 亚 里 
+p_village_14_5|鲁 姆 
+p_village_14_6|韦 斯 特 尔 维 克 
+p_village_14_7|维 西 奥 伦 
+p_village_14_8|奥 拉 布 鲁 
+p_village_14_9|比 耶 尔 布 
+p_village_14_10|法 雪 平 
+p_village_14_11|南 雪 平 
+p_village_14_12|锡 格 蒂 纳 
 p_village_15_1|奥 尔 德 克 
 p_village_15_2|兹 韦 尼 哥 罗 德 
 p_village_15_3|托 马 茨 
@@ -611,20 +611,20 @@ p_village_28_6|El Jemaa{***}
 p_village_28_7|Dekrnia{***}
 p_village_28_8|马 赫 迪 耶 
 p_village_28_9|梅 德 宁 
-p_village_28_10|Al Bu'aryat{***}
+p_village_28_10|阿 尔 布 亚 特 
 p_village_29_1|斯 拉 蒂 纳 
 p_village_29_2|索 罗 图 萨 
 p_village_29_3|加 茨 科 
 p_village_29_4|普 列 奥 切 
 p_village_29_5|塞尔博瓦奇
 p_village_29_6|科 比 利 亚 - 格 拉 瓦 
-p_village_30_1|Tryavna{***}
+p_village_30_1|特 里 亚 夫 纳 
 p_village_30_2|切 尔 文 
 p_village_30_3|康 斯 坦 萨 
 p_village_30_4|瓦 尔 纳 
 p_village_30_5|贝 洛 格 拉 齐 克 
-p_village_30_6|Preslav{***}
-p_village_30_7|Arsus{***}
+p_village_30_6|普 雷 斯 拉 夫 
+p_village_30_7|阿 尔 苏 斯 
 p_village_31_1|梅 利 利 亚 
 p_village_31_2|拉 巴 特 
 p_village_31_3|提 奈 斯 
