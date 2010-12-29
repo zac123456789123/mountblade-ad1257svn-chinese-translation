@@ -139,8 +139,6 @@ qstr_ERROR____Towns:_{reg25}_m|ERROR -- Towns: {reg25} merchants: {reg26}
 qstr_ERROR____Towns:_{reg25}_h|ERROR -- Towns: {reg25} horse merchants: {reg26}
 qstr_ERROR____Towns:_{reg25}_a|ERROR -- Towns: {reg25} arena masters: {reg26}
 qstr_ERROR____Towns:_{reg25}_c|ERROR -- Towns: {reg25} craftsmen: {reg26}
-qstr_game_event_party_enc|game event party encounter{***}
-qstr_prepare_for_battle|准 备 战 斗 
 qstr_____________________|----------------------------- 战 斗  ----------------------------
 qstr_{s26}_[o:_{reg30}_d:|{s26} [o: {reg30} d: {reg29}] vs {s25} [o: {reg28} d: {reg27}]{***}
 qstr_{s26}_deals_{reg26}_|{s26} deals {reg26} to {s25} ----- {s25} deals {reg25} to {s26}{***}
@@ -350,12 +348,11 @@ qstr_Spearmen|长 矛 手
 qstr_Horse_Archers|骑 射 手 
 qstr_calculate_party_stre|calculate party strength [{s33}] --- offense: {reg0} defense: {reg1} size: {reg2}{***}
 qstr_You_got_keys_of_dung|你 得 到 了 地 牢 钥 匙。 
-qstr_Retreat|撤 退 
 qstr_Releasing_spear.|放 下 长 矛。 
 qstr_Your_horse_received_|你 的 马 受 到 了 架 起 的 长 矛 的 {reg1}点 伤 害！ 
-qstr_The_injury_causes_yo|这 次 受 伤 致 使 你 无 法 握 枪 了！ 
+qstr_The_injury_causes_yo|这 次 受 伤 致 使 你 虎 口 迸 裂， 无 法 再 握 矛 了！ 
 qstr_Spear_wall_dealt_{re|矛 阵 造 成 了 {reg1}点 伤 害！ 
-qstr_Bracing_spear_for_ch|架 矛， 抵 御 冲 刺。 
+qstr_Bracing_spear_for_ch|架 矛， 抵 御 冲 锋。 
 qstr_Battle_lost...|战 斗 失 败 …… 
 qstr_Battle_lost!_Press_t|战 斗 失 败！ 按 Tab键 退 出 …… 
 qstr_You_have_been_knocke|你 被 敌 人 击 倒 了， 你 可 以 选 择 观 看 你 的 士 兵 们 继 续 战 斗， 或 者 按 Tab键 撤 退。 
@@ -439,14 +436,18 @@ qstr_You_have_encountered|你 遇 到 {s1}了。
 qstr_You_have_engaged_{s1|你 与 {s1}开 战 了， 他 们 曾 经 袭 击 过 {s3}。 
 qstr_You_were_caught_by_{|当 你 带 着 部 下 在 {s3}掠 夺 的 时 候， 被 {s1}撞 见 了。 
 qstr____DEBUG____calling_|---DEBUG--- calling total victory from simple encounter
+qstr_battle_phase_2|战 斗 阶 段 2
 qstr_You_were_victorious!|你 获 胜 了！ 
 qstr_Battle_was_lost._You|你 战 败 了。 你 的 队 伍 被 彻 底 摧 毁 了。 
 qstr_Your_companions_carr|你 的 同 伴 把 你 从 战 场 上 运 了 出 来。 
 qstr_You_have_defeated_th|你 击 败 了 敌 人。 
 qstr_You_have_retreated_f|你 撤 离 了 战 场。 
 qstr_^^Ally_Casualties:{s|^^ 友 军 伤 亡 ： {s0}
+qstr_mnu_total_victory|mnu total victory{***}
 qstr_{s1}_of_{s3}_managed|{s3}的 {s1}设 法 逃 离。 
-qstr_wtf_return?|wtf return?{***}
+qstr____DEBUG____calling_t|---DEBUG--- calling total victory
+qstr_leave?|离 开？ 
+qstr____DEBUG____calling_to|---DEBUG--- calling total victory from slipped away
 qstr_Some_of_your_tendons|你 的 一 些 肌 腱 在 战 斗 中 受 伤 了， 你 失 去 1 点 力 量。 
 qstr_You_took_a_nasty_wou|你 遭 受 了 一 次 很 讨 厌 的 创 伤 导 致 你 即 使 痊 愈 了 还 是 有 些 跛 足。 你 失 去 了 一 点 敏 捷 值。 
 qstr_You_have_trouble_thi|这 场 战 斗 结 束 以 后， 你 发 现 你 思 考 问 题 的 时 候 有 些 困 难， 也 许 是 因 为 战 斗 中 你 的 头 部 挨 了 特 别 重 的 一 击。 而 且 现 在 你 频 繁 地 感 到 头 痛。 你 的 智 力 下 降 1 点。 
@@ -455,7 +456,7 @@ qstr_Retirement_is_starti|撤 退 听 起 来 变 得 越 来 越 动 听。
 qstr_No_matter!_I_will_pe|没 关 系！ 我 将 继 续 坚 持！ 
 qstr_What_did_I_do_to_des|我 该 怎 么 做 才 能 得 到 这 些？ 
 qstr_I_suppose_it_ll_make|我 猜 这 些 至 少 可 以 构 造 出 一 个 很 好 的 故 事…… 
-qstr____DEBUG____calling_t|---DEBUG--- calling total victory
+qstr____DEBUG____calling_tot|---DEBUG--- calling total victory from join battle
 qstr_{s9}_wants_you_to_fo|{s9}希 望 你 能 够 在 接 到 进 一 步 的 指 令 以 前 跟 着 他 的 部 队 前 进。 
 qstr_{s8}_of_{s9}|{s9}的 {s8}
 qstr__Your_own_banner_fli|你 自 己 的 旗 帜 飘 扬 在 城 堡 大 门 上。 
@@ -468,12 +469,14 @@ qstr_You_re_preparing_to_|你 正 准 备 攻 击 围 墙， 需 要 {reg9}小 �
 qstr_Your_forces_are_buil|你 的 部 队 正 在 制 造 攻 城 塔， 需 要 {reg9}小 时 完 成。 
 qstr_You_are_ready_to_att|你 准 备 好 随 时 攻 击 围 墙 了。 
 qstr_The_siege_tower_is_b|攻 城 塔 造 好 了， 现 正 等 待 进 攻 命 令。 
+qstr____DEBUG____calling_tota|---DEBUG--- calling total victory from castle besiege
 qstr_As_a_last_defensive_|你 撤 退 到 城 堡 的 大 厅 里 进 行 最 后 的 防 御。 你 和 你 手 下 残 余 的 士 兵 将 准 备 在 这 里 接 受 一 场 恶 战。 如 果 你 战 败 了， 你 就 无 路 可 退 了。 
 qstr_You_ve_been_driven_a|你 被 敌 人 从 城 墙 上 面 赶 下 去 了， 现 在 敌 人 大 量 涌 入 街 道 内。 如 果 你 能 击 败 他 们， 你 也 许 能 扭 转 局 势， 反 败 为 胜。 
 qstr_You_ve_breached_the_|你 已 经 突 破 了 城 墙， 但 是 那 些 顽 固 的 守 卫 者 继 续 在 街 道 上 抵 抗 你 的 攻 击！ 你 得 消 灭 他 们 才 能 攻 击 城 镇 中 心 的 城 堡。 
 qstr_The_town_centre_is_y|这 个 城 镇 的 镇 广 场 是 你 的 了， 但 是 剩 下 的 守 卫 者 撤 退 到 城 堡 里 了。 你 要 完 全 消 灭 他 们 才 能 取 得 完 全 的 胜 利。 
 qstr_The_remaining_defend|剩 下 的 守 卫 撤 退 到 城 堡 这 个 最 后 的 防 线。 你 必 须 冲 进 去 清 除 剩 余 的 抵 抗 力 量。 
 qstr_However_since_you_ar|然 而， 自 从 你 放 弃 向 {s9}发 的 誓 言。 他 是 绝 对 不 会 承 认 你 是 这 个 {reg8?城 镇 :城 堡 }的 {领 主/领 主}。 
+qstr____DEBUG____calling_total|---DEBUG--- calling total victory from siege started defender
 qstr_The_enemy_has_been_f|敌 人 被 迫 撤 退 了。 进 攻 停 止 了， 但 是 围 城 还 在 继 续。 
 qstr_As_you_approach_you_|当 你 走 近 城 堡， 你 被 守 卫 发 现 了， 他 们 打 开 了 大 门 欢 迎 他 们 的 {国 王/女 王}。 
 qstr_As_you_approach_you_a|当 你 走 近 城 堡， 你 被 守 卫 发 现 了， 他 们 打 开 了 大 门 欢 迎 他 们 的 {领 主/夫 人}。 
@@ -575,9 +578,7 @@ qstr_Not_enough_money_in_|金 库 里 的 钱 已 经 不 够 使 部 队 升 �
 qstr_Your_constable_upgra|你 在 {s8}的 治 安 官 把 {reg5}个 {s6}训 练 到 了 {s7}。
 qstr_Your_messenger_has_d|你 的 信 使 已 经 将 消 息 传 达 到 了 {s26}， 现 在 正 在 回 {s25}的 路 上。
 qstr_{s26}_has_arrived_in|{s26}已 经 到 达 了 {s25}， 正 在 那 儿 等 你。 
-qstr_grabbing_{s22}|grabbing {s22}{***}
-qstr_relocating_{s22}_dis|relocating {s22} distance {reg20}{***}
-qstr_prepare_for_battle__|prepare for battle - start encounter{***}
+qstr_prepare_for_battle__|准 备 战 斗 -开 始 与 敌 军 接 触 ！ {***}
 qstr_{reg65?my_Lady:my_Lo|{reg65?尊 敬 的 女 士:我 的 大 人} 
 qstr_{reg65?My_Lady:My_Lo|{reg65?尊 敬 的 女 士:我 的 大 人} 
 qstr_{reg65?madame:sir}|{reg65?夫 人:先 生} 

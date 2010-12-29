@@ -1459,6 +1459,7 @@ dlga_lord_marriage_proposal_female_pc_confirm_engagement:lord_marriage_proposal_
 dlga_lord_marriage_proposal_female_pc_confirm_engagement:lord_marriage_proposal_female_pc_confirm_engagement_no|事 实 上， 我 得 再 想 想。 
 dlga_lord_marriage_proposal_female_pc_confirm_engagement_yes:close_window|很 好。 如 果 一 切 顺 利 的 话， 我 们 将 在 一 个 月 以 后 结 婚。 {s12}
 dlga_lord_marriage_proposal_female_pc_confirm_engagement_no:close_window|别 急， 安 心 慢 慢 准 备 吧， 尊 敬 的 女 士。 
+dlga_lord_talk:close_window|Let's get it on.{***}
 dlga_lord_talk:party_encounter_lord_hostile_ultimatum_surrender|我 只 说 一 次， {s4}！ 投 降 或 者 去 死！ 
 dlga_party_encounter_lord_hostile_ultimatum_surrender:close_window|{s43}
 dlga_lord_talk:lord_predemand|我 是 来 提 条 件 的！ 

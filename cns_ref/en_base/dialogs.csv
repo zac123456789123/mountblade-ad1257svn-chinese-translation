@@ -1459,8 +1459,9 @@ dlga_lord_marriage_proposal_female_pc_confirm_engagement:lord_marriage_proposal_
 dlga_lord_marriage_proposal_female_pc_confirm_engagement:lord_marriage_proposal_female_pc_confirm_engagement_no|Actually, I would like to reconsider.
 dlga_lord_marriage_proposal_female_pc_confirm_engagement_yes:close_window|Very well. Hopefully, a little over a month from now, we shall be wed.{s12}
 dlga_lord_marriage_proposal_female_pc_confirm_engagement_no:close_window|Take whatever time you need, my lady.
+dlga_lord_talk:close_window|Let's get it on.
 dlga_lord_talk:party_encounter_lord_hostile_ultimatum_surrender|I say this only once, {s4}! Surrender or die!
-dlga_party_encounter_lord_hostile_ultimatum_surrender:close_window|{s43}
+dlga_party_encounter_lord_hostile_ultimatum_surrender:close_window|{s43}.  We will begin battle preparations immediately!
 dlga_lord_talk:lord_predemand|I'm here to deliver you my demands!
 dlga_lord_predemand:lord_demand|Eh? What do you want?
 dlga_lord_demand:lord_ultimatum_surrender|I offer you one chance to surrender or die.
