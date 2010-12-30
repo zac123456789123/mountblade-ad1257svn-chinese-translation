@@ -1,4 +1,4 @@
-itm_no_item|INVALID ITEM 
+﻿itm_no_item|INVALID ITEM 
 itm_no_item_pl|INVALID ITEM 
 itm_tutorial_spear|矛 
 itm_tutorial_spear_pl|矛 
@@ -10,8 +10,8 @@ itm_tutorial_arrows|箭
 itm_tutorial_arrows_pl|箭 
 itm_tutorial_bolts|弩 矢 
 itm_tutorial_bolts_pl|弩 矢 
-itm_tutorial_short_bow|短 弓 
-itm_tutorial_short_bow_pl|短 弓 
+itm_tutorial_short_bow|单 体 弓 
+itm_tutorial_short_bow_pl|单 体 弓 
 itm_tutorial_crossbow|弩 
 itm_tutorial_crossbow_pl|弩 
 itm_tutorial_throwing_daggers|飞 刀 
@@ -114,8 +114,8 @@ itm_linen|亚 麻 布
 itm_linen_pl|亚 麻 布 
 itm_wool|羊 毛 
 itm_wool_pl|羊 毛 
-itm_wool_cloth|毛 呢 
-itm_wool_cloth_pl|毛 呢 
+itm_wool_cloth|毛 衣 
+itm_wool_cloth_pl|毛 衣 
 itm_raw_silk|生 丝 
 itm_raw_silk_pl|生 丝 
 itm_raw_dyes|染 料 
@@ -144,8 +144,8 @@ itm_cheese|奶 酪
 itm_cheese_pl|奶 酪 
 itm_honey|蜂 蜜 
 itm_honey_pl|蜂 蜜 
-itm_sausages|腊 肠 
-itm_sausages_pl|腊 肠 
+itm_sausages|香 肠 
+itm_sausages_pl|香 肠 
 itm_cabbages|卷 心 菜 
 itm_cabbages_pl|卷 心 菜 
 itm_dried_meat|风 干 肉 
@@ -180,196 +180,196 @@ itm_saddle_horse|旅 行 马
 itm_saddle_horse_pl|旅 行 马 
 itm_steppe_horse|草 原 马 
 itm_steppe_horse_pl|草 原 马 
-itm_arabian_horse_a|沙 漠 马 
-itm_arabian_horse_a_pl|沙 漠 马 
+itm_arabian_horse_a|阿 拉 伯 马 
+itm_arabian_horse_a_pl|阿 拉 伯 马 
 itm_courser|骏 马 
 itm_courser_pl|骏 马 
-itm_arabian_horse_b|萨 兰 德 马 
-itm_arabian_horse_b_pl|萨 兰 德 马 
+itm_arabian_horse_b|阿 拉 伯 马 
+itm_arabian_horse_b_pl|阿 拉 伯 马 
 itm_hunter|猎 马 
 itm_hunter_pl|猎 马 
-itm_warhorse|军 马 
-itm_warhorse_pl|军 马 
-itm_warhorse_white|Barded Destrier{***}
-itm_warhorse_white_pl|Barded Destrier{***}
-itm_warhorse_red|Barded Destrier{***}
-itm_warhorse_red_pl|Barded Destrier{***}
-itm_warhorse_blue|Barded Destrier{***}
-itm_warhorse_blue_pl|Barded Destrier{***}
-itm_warhorse_yellow|Barded Destrier{***}
-itm_warhorse_yellow_pl|Barded Destrier{***}
-itm_warhorse_player|Custom Barded Destrier{***}
-itm_warhorse_player_pl|Custom Barded Destrier{***}
-itm_warhorse_lionel|Barded Destrier{***}
-itm_warhorse_lionel_pl|Barded Destrier{***}
-itm_warhorse_lethwin|Barded Destrier{***}
-itm_warhorse_lethwin_pl|Barded Destrier{***}
-itm_rnd_horse_01|Caparisoned Destrier{***}
-itm_rnd_horse_01_pl|Caparisoned Destrier{***}
-itm_rnd_horse_02|Caparisoned Destrier{***}
-itm_rnd_horse_02_pl|Caparisoned Destrier{***}
-itm_rnd_horse_03|Caparisoned Destrier{***}
-itm_rnd_horse_03_pl|Caparisoned Destrier{***}
-itm_rnd_horse_04|Caparisoned Destrier{***}
-itm_rnd_horse_04_pl|Caparisoned Destrier{***}
-itm_rnd_horse_05|Caparisoned Destrier{***}
-itm_rnd_horse_05_pl|Caparisoned Destrier{***}
-itm_rnd_horse_06|Caparisoned Destrier{***}
-itm_rnd_horse_06_pl|Caparisoned Destrier{***}
-itm_rnd_horse_07|Caparisoned Destrier{***}
-itm_rnd_horse_07_pl|Caparisoned Destrier{***}
-itm_rnd_horse_08|Caparisoned Destrier{***}
-itm_rnd_horse_08_pl|Caparisoned Destrier{***}
-itm_rnd_horse_09|Caparisoned Destrier{***}
-itm_rnd_horse_09_pl|Caparisoned Destrier{***}
-itm_rnd_horse_10|Caparisoned Destrier{***}
-itm_rnd_horse_10_pl|Caparisoned Destrier{***}
-itm_rnd_horse_11|Caparisoned Destrier{***}
-itm_rnd_horse_11_pl|Caparisoned Destrier{***}
-itm_rnd_horse_12|Caparisoned Destrier{***}
-itm_rnd_horse_12_pl|Caparisoned Destrier{***}
-itm_rnd_horse_13|Caparisoned Destrier{***}
-itm_rnd_horse_13_pl|Caparisoned Destrier{***}
-itm_rnd_horse_14|Caparisoned Destrier{***}
-itm_rnd_horse_14_pl|Caparisoned Destrier{***}
-itm_rnd_horse_15|Caparisoned Destrier{***}
-itm_rnd_horse_15_pl|Caparisoned Destrier{***}
-itm_rnd_horse_16|Caparisoned Destrier{***}
-itm_rnd_horse_16_pl|Caparisoned Destrier{***}
-itm_rnd_horse_17|Caparisoned Destrier{***}
-itm_rnd_horse_17_pl|Caparisoned Destrier{***}
-itm_rnd_horse_18|Caparisoned Destrier{***}
-itm_rnd_horse_18_pl|Caparisoned Destrier{***}
-itm_rnd_horse_19|Caparisoned Destrier{***}
-itm_rnd_horse_19_pl|Caparisoned Destrier{***}
-itm_rnd_horse_20|Caparisoned Destrier{***}
-itm_rnd_horse_20_pl|Caparisoned Destrier{***}
-itm_rnd_horse_21|Caparisoned Destrier{***}
-itm_rnd_horse_21_pl|Caparisoned Destrier{***}
-itm_rnd_horse_22|Caparisoned Destrier{***}
-itm_rnd_horse_22_pl|Caparisoned Destrier{***}
-itm_rnd_horse_23|Caparisoned Destrier{***}
-itm_rnd_horse_23_pl|Caparisoned Destrier{***}
-itm_warhorse_denmark_a|Danish Destrier{***}
-itm_warhorse_denmark_a_pl|Danish Destrier{***}
-itm_warhorse_england_a|English Destrier{***}
-itm_warhorse_england_a_pl|English Destrier{***}
-itm_warhorse_devalence|English Destrier{***}
-itm_warhorse_devalence_pl|English Destrier{***}
-itm_warhorse_demontfort|English Destrier{***}
-itm_warhorse_demontfort_pl|English Destrier{***}
-itm_warhorse_mortimer|English Destrier{***}
-itm_warhorse_mortimer_pl|English Destrier{***}
-itm_warhorse_bigod|English Destrier{***}
-itm_warhorse_bigod_pl|English Destrier{***}
-itm_warhorse_dewarenne|English Destrier{***}
-itm_warhorse_dewarenne_pl|English Destrier{***}
-itm_warhorse_france_a|French Destrier{***}
-itm_warhorse_france_a_pl|French Destrier{***}
-itm_warhorse_hre_a|HRE Destrier{***}
-itm_warhorse_hre_a_pl|HRE Destrier{***}
-itm_warhorse_bohemia|Bohemian Destrier{***}
-itm_warhorse_bohemia_pl|Bohemian Destrier{***}
-itm_warhorse_hungary_a|Hungarian Destrier{***}
-itm_warhorse_hungary_a_pl|Hungarian Destrier{***}
-itm_warhorse_ireland_a|Irish Destrier{***}
-itm_warhorse_ireland_a_pl|Irish Destrier{***}
-itm_warhorse_lithuania_a|Lithuanian Destrier{***}
-itm_warhorse_lithuania_a_pl|Lithuanian Destrier{***}
-itm_warhorse_norway_a|Norwegian Destrier{***}
-itm_warhorse_norway_a_pl|Norwegian Destrier{***}
-itm_warhorse_novgorod_a|Russian Destrier{***}
-itm_warhorse_novgorod_a_pl|Russian Destrier{***}
-itm_warhorse_scotland_a|Scottish Destrier{***}
-itm_warhorse_scotland_a_pl|Scottish Destrier{***}
-itm_warhorse_sweden_a|Swedish Destrier{***}
-itm_warhorse_sweden_a_pl|Swedish Destrier{***}
-itm_warhorse_przemysl2|Polish Destrier{***}
-itm_warhorse_przemysl2_pl|Polish Destrier{***}
-itm_warhorse_czersk|Polish Destrier{***}
-itm_warhorse_czersk_pl|Polish Destrier{***}
-itm_warhorse_slask_a|Caparisoned Destrier{***}
-itm_warhorse_slask_a_pl|Caparisoned Destrier{***}
-itm_warhorse_siemowit_a|Caparisoned Destrier{***}
-itm_warhorse_siemowit_a_pl|Caparisoned Destrier{***}
-itm_warhorse_poland_a|Polish Destrier{***}
-itm_warhorse_poland_a_pl|Polish Destrier{***}
-itm_warhorse_poland_b|Polish Destrier{***}
-itm_warhorse_poland_b_pl|Polish Destrier{***}
-itm_warhorse_kaliskie_a|Polish Destrier{***}
-itm_warhorse_kaliskie_a_pl|Polish Destrier{***}
-itm_warhorse_gslask|Polish Destrier{***}
-itm_warhorse_gslask_pl|Polish Destrier{***}
-itm_warhorse_dslask|Polish Destrier{***}
-itm_warhorse_dslask_pl|Polish Destrier{***}
-itm_warhorse_swietopelk|Polish Destrier{***}
-itm_warhorse_swietopelk_pl|Polish Destrier{***}
-itm_warhorse_pol_a|Polish Destrier{***}
-itm_warhorse_pol_a_pl|Polish Destrier{***}
-itm_warhorse_pol_b|Polish Destrier{***}
-itm_warhorse_pol_b_pl|Polish Destrier{***}
-itm_warhorse_pol_c|Polish Destrier{***}
-itm_warhorse_pol_c_pl|Polish Destrier{***}
-itm_warhorse_pol_d|Polish Destrier{***}
-itm_warhorse_pol_d_pl|Polish Destrier{***}
-itm_warhorse_pol_e|Polish Destrier{***}
-itm_warhorse_pol_e_pl|Polish Destrier{***}
-itm_warhorse_pol_g|Polish Destrier{***}
-itm_warhorse_pol_g_pl|Polish Destrier{***}
-itm_warhorse_swidnica|Polish Destrier{***}
-itm_warhorse_swidnica_pl|Polish Destrier{***}
-itm_teu_warhorse_c|Teutonic Destrier{***}
-itm_teu_warhorse_c_pl|Teutonic Destrier{***}
-itm_teu_warhorse_b|Teutonic Destrier{***}
-itm_teu_warhorse_b_pl|Teutonic Destrier{***}
-itm_teu_warhorse_a|Teutonic Destrier{***}
-itm_teu_warhorse_a_pl|Teutonic Destrier{***}
-itm_mon_lamellar_horse_a|Lamellar Destrier{***}
-itm_mon_lamellar_horse_a_pl|Lamellar Destrier{***}
-itm_mon_lamellar_horse_b|Lamellar Destrier{***}
-itm_mon_lamellar_horse_b_pl|Lamellar Destrier{***}
-itm_mon_lamellar_horse_c|Lamellar Destrier{***}
-itm_mon_lamellar_horse_c_pl|Lamellar Destrier{***}
-itm_kau_montcada_horse|Montcada Destrier{***}
-itm_kau_montcada_horse_pl|Montcada Destrier{***}
-itm_kau_alego_horse|Alego Destrier{***}
-itm_kau_alego_horse_pl|Alego Destrier{***}
-itm_kau_cervello_horse|Cervello Destrier{***}
-itm_kau_cervello_horse_pl|Cervello Destrier{***}
-itm_kau_cruilles_horse|Cruilles Destrier{***}
-itm_kau_cruilles_horse_pl|Cruilles Destrier{***}
-itm_kau_epyres_horse|Epyres Destrier{***}
-itm_kau_epyres_horse_pl|Epyres Destrier{***}
-itm_kau_luna_horse|Luna Destrier{***}
-itm_kau_luna_horse_pl|Luna Destrier{***}
-itm_kau_reino_horse|Reino Destrier{***}
-itm_kau_reino_horse_pl|Reino Destrier{***}
-itm_kau_urgell_horse|Urgell Destrier{***}
-itm_kau_urgell_horse_pl|Urgell Destrier{***}
-itm_templar_warhorse_a|Caparisoned Destrier{***}
-itm_templar_warhorse_a_pl|Caparisoned Destrier{***}
-itm_hospitaller_warhorse_a|Caparisoned Destrier{***}
-itm_hospitaller_warhorse_a_pl|Caparisoned Destrier{***}
-itm_hospitaller_warhorse_b|Caparisoned Destrier{***}
-itm_hospitaller_warhorse_b_pl|Caparisoned Destrier{***}
-itm_warhorse_sarranid|萨 兰 德 军 马 
-itm_warhorse_sarranid_pl|萨 兰 德 军 马 
-itm_warhorse_steppe|草 原 战 马 
-itm_warhorse_steppe_pl|草 原 战 马 
-itm_byz_warhorse|Lamellar War Horse{***}
-itm_byz_warhorse_pl|Lamellar War Horse{***}
-itm_jerusalem_horse|Caparisoned Destrier{***}
-itm_jerusalem_horse_pl|Caparisoned Destrier{***}
-itm_tripoli_horse|Caparisoned Destrier{***}
-itm_tripoli_horse_pl|Caparisoned Destrier{***}
-itm_portugal_horse|Caparisoned Destrier{***}
-itm_portugal_horse_pl|Caparisoned Destrier{***}
-itm_castile_horse|Caparisoned Destrier{***}
-itm_castile_horse_pl|Caparisoned Destrier{***}
+itm_warhorse|战 马 
+itm_warhorse_pl|战 马 
+itm_warhorse_white|披 甲 军 马 
+itm_warhorse_white_pl|披 甲 军 马 
+itm_warhorse_red|披 甲 军 马 
+itm_warhorse_red_pl|披 甲 军 马 
+itm_warhorse_blue|披 甲 军 马 
+itm_warhorse_blue_pl|披 甲 军 马 
+itm_warhorse_yellow|披 甲 军 马 
+itm_warhorse_yellow_pl|披 甲 军 马 
+itm_warhorse_player|自 制 披 甲 军 马 
+itm_warhorse_player_pl|自 制 披 甲 军 马 
+itm_warhorse_lionel|披 甲 军 马 
+itm_warhorse_lionel_pl|披 甲 军 马 
+itm_warhorse_lethwin|披 甲 军 马 
+itm_warhorse_lethwin_pl|披 甲 军 马 
+itm_rnd_horse_01|罩 袍 军 马 
+itm_rnd_horse_01_pl|罩 袍 军 马 
+itm_rnd_horse_02|罩 袍 军 马 
+itm_rnd_horse_02_pl|罩 袍 军 马 
+itm_rnd_horse_03|罩 袍 军 马 
+itm_rnd_horse_03_pl|罩 袍 军 马 
+itm_rnd_horse_04|罩 袍 军 马 
+itm_rnd_horse_04_pl|罩 袍 军 马 
+itm_rnd_horse_05|罩 袍 军 马 
+itm_rnd_horse_05_pl|罩 袍 军 马 
+itm_rnd_horse_06|罩 袍 军 马 
+itm_rnd_horse_06_pl|罩 袍 军 马 
+itm_rnd_horse_07|罩 袍 军 马 
+itm_rnd_horse_07_pl|罩 袍 军 马 
+itm_rnd_horse_08|罩 袍 军 马 
+itm_rnd_horse_08_pl|罩 袍 军 马 
+itm_rnd_horse_09|罩 袍 军 马 
+itm_rnd_horse_09_pl|罩 袍 军 马 
+itm_rnd_horse_10|罩 袍 军 马 
+itm_rnd_horse_10_pl|罩 袍 军 马 
+itm_rnd_horse_11|罩 袍 军 马 
+itm_rnd_horse_11_pl|罩 袍 军 马 
+itm_rnd_horse_12|罩 袍 军 马 
+itm_rnd_horse_12_pl|罩 袍 军 马 
+itm_rnd_horse_13|罩 袍 军 马 
+itm_rnd_horse_13_pl|罩 袍 军 马 
+itm_rnd_horse_14|罩 袍 军 马 
+itm_rnd_horse_14_pl|罩 袍 军 马 
+itm_rnd_horse_15|罩 袍 军 马 
+itm_rnd_horse_15_pl|罩 袍 军 马 
+itm_rnd_horse_16|罩 袍 军 马 
+itm_rnd_horse_16_pl|罩 袍 军 马 
+itm_rnd_horse_17|罩 袍 军 马 
+itm_rnd_horse_17_pl|罩 袍 军 马 
+itm_rnd_horse_18|罩 袍 军 马 
+itm_rnd_horse_18_pl|罩 袍 军 马 
+itm_rnd_horse_19|罩 袍 军 马 
+itm_rnd_horse_19_pl|罩 袍 军 马 
+itm_rnd_horse_20|罩 袍 军 马 
+itm_rnd_horse_20_pl|罩 袍 军 马 
+itm_rnd_horse_21|罩 袍 军 马 
+itm_rnd_horse_21_pl|罩 袍 军 马 
+itm_rnd_horse_22|罩 袍 军 马 
+itm_rnd_horse_22_pl|罩 袍 军 马 
+itm_rnd_horse_23|罩 袍 军 马 
+itm_rnd_horse_23_pl|罩 袍 军 马 
+itm_warhorse_denmark_a|丹 麦 军 马 
+itm_warhorse_denmark_a_pl|丹 麦 军 马 
+itm_warhorse_england_a|英 格 兰 军 马 
+itm_warhorse_england_a_pl|英 格 兰 军 马 
+itm_warhorse_devalence|英 格 兰 军 马 
+itm_warhorse_devalence_pl|英 格 兰 军 马 
+itm_warhorse_demontfort|英 格 兰 军 马 
+itm_warhorse_demontfort_pl|英 格 兰 军 马 
+itm_warhorse_mortimer|英 格 兰 军 马 
+itm_warhorse_mortimer_pl|英 格 兰 军 马 
+itm_warhorse_bigod|英 格 兰 军 马 
+itm_warhorse_bigod_pl|英 格 兰 军 马 
+itm_warhorse_dewarenne|英 格 兰 军 马 
+itm_warhorse_dewarenne_pl|英 格 兰 军 马 
+itm_warhorse_france_a|法 兰 西 军 马 
+itm_warhorse_france_a_pl|法 兰 西 军 马 
+itm_warhorse_hre_a|德 意 志 军 马 
+itm_warhorse_hre_a_pl|德 意 志 军 马 
+itm_warhorse_bohemia|波 希 米 亚 军 马 
+itm_warhorse_bohemia_pl|波 希 米 亚 军 马 
+itm_warhorse_hungary_a|匈 牙 利 军 马 
+itm_warhorse_hungary_a_pl|匈 牙 利 军 马 
+itm_warhorse_ireland_a|爱 尔 兰 军 马 
+itm_warhorse_ireland_a_pl|爱 尔 兰 军 马 
+itm_warhorse_lithuania_a|立 陶 宛 军 马 
+itm_warhorse_lithuania_a_pl|立 陶 宛 军 马 
+itm_warhorse_norway_a|挪 威 军 马 
+itm_warhorse_norway_a_pl|挪 威 军 马 
+itm_warhorse_novgorod_a|罗 斯 军 马 
+itm_warhorse_novgorod_a_pl|罗 斯 军 马 
+itm_warhorse_scotland_a|苏 格 兰 军 马 
+itm_warhorse_scotland_a_pl|苏 格 兰 军 马 
+itm_warhorse_sweden_a|瑞 典 军 马 
+itm_warhorse_sweden_a_pl|瑞 典 军 马 
+itm_warhorse_przemysl2|波 兰 军 马 
+itm_warhorse_przemysl2_pl|波 兰 军 马 
+itm_warhorse_czersk|波 兰 军 马 
+itm_warhorse_czersk_pl|波 兰 军 马 
+itm_warhorse_slask_a|罩 袍 军 马 
+itm_warhorse_slask_a_pl|罩 袍 军 马 
+itm_warhorse_siemowit_a|罩 袍 军 马 
+itm_warhorse_siemowit_a_pl|罩 袍 军 马 
+itm_warhorse_poland_a|波 兰 军 马 
+itm_warhorse_poland_a_pl|波 兰 军 马 
+itm_warhorse_poland_b|波 兰 军 马 
+itm_warhorse_poland_b_pl|波 兰 军 马 
+itm_warhorse_kaliskie_a|波 兰 军 马 
+itm_warhorse_kaliskie_a_pl|波 兰 军 马 
+itm_warhorse_gslask|波 兰 军 马 
+itm_warhorse_gslask_pl|波 兰 军 马 
+itm_warhorse_dslask|波 兰 军 马 
+itm_warhorse_dslask_pl|波 兰 军 马 
+itm_warhorse_swietopelk|波 兰 军 马 
+itm_warhorse_swietopelk_pl|波 兰 军 马 
+itm_warhorse_pol_a|波 兰 军 马 
+itm_warhorse_pol_a_pl|波 兰 军 马 
+itm_warhorse_pol_b|波 兰 军 马 
+itm_warhorse_pol_b_pl|波 兰 军 马 
+itm_warhorse_pol_c|波 兰 军 马 
+itm_warhorse_pol_c_pl|波 兰 军 马 
+itm_warhorse_pol_d|波 兰 军 马 
+itm_warhorse_pol_d_pl|波 兰 军 马 
+itm_warhorse_pol_e|波 兰 军 马 
+itm_warhorse_pol_e_pl|波 兰 军 马 
+itm_warhorse_pol_g|波 兰 军 马 
+itm_warhorse_pol_g_pl|波 兰 军 马 
+itm_warhorse_swidnica|波 兰 军 马 
+itm_warhorse_swidnica_pl|波 兰 军 马 
+itm_teu_warhorse_c|条 顿 军 马 
+itm_teu_warhorse_c_pl|条 顿 军 马 
+itm_teu_warhorse_b|条 顿 军 马 
+itm_teu_warhorse_b_pl|条 顿 军 马 
+itm_teu_warhorse_a|条 顿 军 马 
+itm_teu_warhorse_a_pl|条 顿 军 马 
+itm_mon_lamellar_horse_a|片 甲 军 马 
+itm_mon_lamellar_horse_a_pl|片 甲 军 马 
+itm_mon_lamellar_horse_b|片 甲 军 马 
+itm_mon_lamellar_horse_b_pl|片 甲 军 马 
+itm_mon_lamellar_horse_c|片 甲 军 马 
+itm_mon_lamellar_horse_c_pl|片 甲 军 马 
+itm_kau_montcada_horse|蒙 特 卡 达 军 马 
+itm_kau_montcada_horse_pl|蒙 特 卡 达 军 马 
+itm_kau_alego_horse|阿 勒 戈 军 马 
+itm_kau_alego_horse_pl|阿 勒 戈 军 马 
+itm_kau_cervello_horse|塞 尔 维 伊 欧 军 马 
+itm_kau_cervello_horse_pl|塞 尔 维 伊 欧 军 马 
+itm_kau_cruilles_horse|克 维 耶 斯 军 马
+itm_kau_cruilles_horse_pl|克 维 耶 斯 军 马
+itm_kau_epyres_horse|埃 皮 雷 斯 军 马 
+itm_kau_epyres_horse_pl|埃 皮 雷 斯 军 马 
+itm_kau_luna_horse|卢 纳 军 马 
+itm_kau_luna_horse_pl|卢 纳 军 马 
+itm_kau_reino_horse|雷 诺 军 马 
+itm_kau_reino_horse_pl|雷 诺 军 马 
+itm_kau_urgell_horse|乌 海 尔 军 马 
+itm_kau_urgell_horse_pl|乌 海 尔 军 马 
+itm_templar_warhorse_a|罩 袍 军 马 
+itm_templar_warhorse_a_pl|罩 袍 军 马 
+itm_hospitaller_warhorse_a|罩 袍 军 马 
+itm_hospitaller_warhorse_a_pl|罩 袍 军 马 
+itm_hospitaller_warhorse_b|罩 袍 军 马 
+itm_hospitaller_warhorse_b_pl|罩 袍 军 马 
+itm_warhorse_sarranid|片 甲 战 马 
+itm_warhorse_sarranid_pl|片 甲 战 马 
+itm_warhorse_steppe|片 甲 战 马 
+itm_warhorse_steppe_pl|片 甲 战 马 
+itm_byz_warhorse|片 甲 战 马 
+itm_byz_warhorse_pl|片 甲 战 马 
+itm_jerusalem_horse|罩 袍 军 马 
+itm_jerusalem_horse_pl|罩 袍 军 马 
+itm_tripoli_horse|罩 袍 军 马 
+itm_tripoli_horse_pl|罩 袍 军 马 
+itm_portugal_horse|罩 袍 军 马 
+itm_portugal_horse_pl|罩 袍 军 马 
+itm_castile_horse|罩 袍 军 马 
+itm_castile_horse_pl|罩 袍 军 马 
 itm_arrows|箭 
 itm_arrows_pl|箭 
-itm_khergit_arrows|库 吉 特 箭 
-itm_khergit_arrows_pl|库 吉 特 箭 
+itm_khergit_arrows|蒙 古 箭 
+itm_khergit_arrows_pl|蒙 古 箭 
 itm_barbed_arrows|倒 刺 箭 
 itm_barbed_arrows_pl|倒 刺 箭 
 itm_bodkin_arrows|锥 头 箭 
@@ -416,72 +416,72 @@ itm_splinted_greaves|夹 板 式 护 腿
 itm_splinted_greaves_pl|夹 板 式 护 腿 
 itm_mail_boots|链 甲 靴 
 itm_mail_boots_pl|链 甲 靴 
-itm_khergit_leather_boots|库 吉 特 皮 靴 
-itm_khergit_leather_boots_pl|库 吉 特 皮 靴 
-itm_sarranid_boots_a|萨 兰 德 鞋 
-itm_sarranid_boots_a_pl|萨 兰 德 鞋 
-itm_sarranid_boots_b|萨 兰 德 皮 靴 
-itm_sarranid_boots_b_pl|萨 兰 德 皮 靴 
+itm_khergit_leather_boots|蒙 古 皮 靴 
+itm_khergit_leather_boots_pl|蒙 古 皮 靴 
+itm_sarranid_boots_a|萨 拉 逊 鞋 
+itm_sarranid_boots_a_pl|萨 拉 逊 鞋 
+itm_sarranid_boots_b|萨 拉 逊 皮 靴 
+itm_sarranid_boots_b_pl|萨 拉 逊 皮 靴 
 itm_sarranid_boots_c|覆 板 靴 
 itm_sarranid_boots_c_pl|覆 板 靴 
-itm_sarranid_boots_d|萨 兰 德 链 甲 靴 
-itm_sarranid_boots_d_pl|萨 兰 德 链 甲 靴 
-itm_raf_mail_chausses|Mail Chausses{***}
-itm_raf_mail_chausses_pl|Mail Chausses{***}
-itm_kau_mail_boots_dark|Mail Boots{***}
-itm_kau_mail_boots_dark_pl|Mail Boots{***}
-itm_kau_mail_boots|Mail Boots{***}
-itm_kau_mail_boots_pl|Mail Boots{***}
-itm_rus_boots_a|Rus' Boots{***}
-itm_rus_boots_a_pl|Rus' Boots{***}
-itm_rus_boots_b|Rus' Boots{***}
-itm_rus_boots_b_pl|Rus' Boots{***}
-itm_mamluke_boots|Mameluke Boots{***}
-itm_mamluke_boots_pl|Mameluke Boots{***}
-itm_cuman_boots|Cuman Boots{***}
-itm_cuman_boots_pl|Cuman Boots{***}
-itm_byz_lord_boots|Byzantine Boots{***}
-itm_byz_lord_boots_pl|Byzantine Boots{***}
-itm_peasant_boots_a|Shoes{***}
-itm_peasant_boots_a_pl|Shoes{***}
-itm_peasant_boots_b|Shoes{***}
-itm_peasant_boots_b_pl|Shoes{***}
-itm_lapcie|Eastern Wrapping Shoes{***}
-itm_lapcie_pl|Eastern Wrapping Shoes{***}
-itm_byz_boots_c|Byzantine Leather Boots{***}
-itm_byz_boots_c_pl|Byzantine Leather Boots{***}
-itm_byz_cavalry_boots|Byzantine Leather Boots{***}
-itm_byz_cavalry_boots_pl|Byzantine Leather Boots{***}
-itm_byz_boots_a|Byzantine Leather Boots{***}
-itm_byz_boots_a_pl|Byzantine Leather Boots{***}
-itm_byz_boots_b|Byzantine Leather Boots{***}
-itm_byz_boots_b_pl|Byzantine Leather Boots{***}
+itm_sarranid_boots_d|萨 拉 逊 链 甲 靴 
+itm_sarranid_boots_d_pl|萨 拉 逊 链 甲 靴 
+itm_raf_mail_chausses|链 甲 护 腿 
+itm_raf_mail_chausses_pl|链 甲 护 腿 
+itm_kau_mail_boots_dark|链 甲 靴 
+itm_kau_mail_boots_dark_pl|链 甲 靴 
+itm_kau_mail_boots|链 甲 靴 
+itm_kau_mail_boots_pl|链 甲 靴 
+itm_rus_boots_a|罗 斯 靴 
+itm_rus_boots_a_pl|罗 斯 靴 
+itm_rus_boots_b|罗 斯 靴 
+itm_rus_boots_b_pl|罗 斯 靴 
+itm_mamluke_boots|马 木 鲁 克 靴 
+itm_mamluke_boots_pl|马 木 鲁 克 靴 
+itm_cuman_boots|库 曼 靴 
+itm_cuman_boots_pl|库 曼 靴 
+itm_byz_lord_boots|拜 占 庭 靴 
+itm_byz_lord_boots_pl|拜 占 庭 靴 
+itm_peasant_boots_a|鞋 
+itm_peasant_boots_a_pl|鞋 
+itm_peasant_boots_b|鞋 
+itm_peasant_boots_b_pl|鞋 
+itm_lapcie|东 欧 绑 腿 
+itm_lapcie_pl|东 欧 绑 腿 
+itm_byz_boots_c|拜 占 庭 皮 靴 
+itm_byz_boots_c_pl|拜 占 庭 皮 靴 
+itm_byz_cavalry_boots|拜 占 庭 皮 靴 
+itm_byz_cavalry_boots_pl|拜 占 庭 皮 靴 
+itm_byz_boots_a|拜 占 庭 皮 靴 
+itm_byz_boots_a_pl|拜 占 庭 皮 靴 
+itm_byz_boots_b|拜 占 庭 皮 靴 
+itm_byz_boots_b_pl|拜 占 庭 皮 靴 
 itm_red_dress|红 色 裙 
 itm_red_dress_pl|红 色 裙 
 itm_brown_dress|棕 色 裙 
 itm_brown_dress_pl|棕 色 裙 
 itm_green_dress|绿 色 裙 
 itm_green_dress_pl|绿 色 裙 
-itm_khergit_lady_dress|库 吉 特 连 衣 裙 
-itm_khergit_lady_dress_pl|库 吉 特 连 衣 裙 
-itm_khergit_lady_dress_b|库 吉 特 女 式 皮 裙 
-itm_khergit_lady_dress_b_pl|库 吉 特 女 式 皮 裙 
-itm_sarranid_lady_dress|萨 兰 德 连 衣 裙 
-itm_sarranid_lady_dress_pl|萨 兰 德 连 衣 裙 
-itm_sarranid_lady_dress_b|萨 兰 德 连 衣 裙 
-itm_sarranid_lady_dress_b_pl|萨 兰 德 连 衣 裙 
-itm_sarranid_common_dress|萨 兰 德 裙 
-itm_sarranid_common_dress_pl|萨 兰 德 裙 
-itm_sarranid_common_dress_b|萨 兰 德 裙 
-itm_sarranid_common_dress_b_pl|萨 兰 德 裙 
+itm_khergit_lady_dress|蒙 古 连 衣 裙 
+itm_khergit_lady_dress_pl|蒙 古 连 衣 裙 
+itm_khergit_lady_dress_b|蒙 古 女 式 皮 裙 
+itm_khergit_lady_dress_b_pl|蒙 古 女 式 皮 裙 
+itm_sarranid_lady_dress|萨 拉 逊 连 衣 裙 
+itm_sarranid_lady_dress_pl|萨 拉 逊 连 衣 裙 
+itm_sarranid_lady_dress_b|萨 拉 逊 连 衣 裙 
+itm_sarranid_lady_dress_b_pl|萨 拉 逊 连 衣 裙 
+itm_sarranid_common_dress|萨 拉 逊 裙 
+itm_sarranid_common_dress_pl|萨 拉 逊 裙 
+itm_sarranid_common_dress_b|萨 拉 逊 裙 
+itm_sarranid_common_dress_b_pl|萨 拉 逊 裙 
 itm_courtly_outfit|宫 廷 服 
 itm_courtly_outfit_pl|宫 廷 服 
 itm_nobleman_outfit|贵 族 服 
 itm_nobleman_outfit_pl|贵 族 服 
 itm_nomad_armor|游 牧 甲 
 itm_nomad_armor_pl|游 牧 甲 
-itm_khergit_armor|库 吉 特 甲 
-itm_khergit_armor_pl|库 吉 特 甲 
+itm_khergit_armor|蒙 古 甲 
+itm_khergit_armor_pl|蒙 古 甲 
 itm_leather_jacket|皮 夹 克 
 itm_leather_jacket_pl|皮 夹 克 
 itm_rawhide_coat|生 皮 外 套 
@@ -510,14 +510,14 @@ itm_leather_vest|皮 背 心
 itm_leather_vest_pl|皮 背 心 
 itm_steppe_armor|草 原 甲 
 itm_steppe_armor_pl|草 原 甲 
-itm_gambeson_a|Gambeson{***}
-itm_gambeson_a_pl|Gambeson{***}
-itm_gambeson_b|Gambeson{***}
-itm_gambeson_b_pl|Gambeson{***}
-itm_gambeson_c|Gambeson{***}
-itm_gambeson_c_pl|Gambeson{***}
-itm_gambeson_d|Gambeson{***}
-itm_gambeson_d_pl|Gambeson{***}
+itm_gambeson_a|软 铠 甲 
+itm_gambeson_a_pl|软 铠 甲 
+itm_gambeson_b|软 铠 甲 
+itm_gambeson_b_pl|软 铠 甲 
+itm_gambeson_c|软 铠 甲 
+itm_gambeson_c_pl|软 铠 甲 
+itm_gambeson_d|软 铠 甲 
+itm_gambeson_d_pl|软 铠 甲 
 itm_padded_cloth|铠 衣 
 itm_padded_cloth_pl|铠 衣 
 itm_aketon_green|棉 衣 
@@ -540,8 +540,8 @@ itm_haubergeon|短 链 甲
 itm_haubergeon_pl|短 链 甲 
 itm_lamellar_vest|鳞 甲 背 心 
 itm_lamellar_vest_pl|鳞 甲 背 心 
-itm_lamellar_vest_khergit|库 吉 特 鳞 甲 背 心 
-itm_lamellar_vest_khergit_pl|库 吉 特 鳞 甲 背 心 
+itm_lamellar_vest_khergit|蒙 古 鳞 甲 背 心 
+itm_lamellar_vest_khergit_pl|蒙 古 鳞 甲 背 心 
 itm_mail_with_surcoat|链 甲 带 罩 衫 
 itm_mail_with_surcoat_pl|链 甲 带 罩 衫 
 itm_surcoat_over_mail|带 罩 衫 链 甲 
@@ -556,8 +556,8 @@ itm_coat_of_plates_red|无 袖 板 甲
 itm_coat_of_plates_red_pl|无 袖 板 甲 
 itm_pelt_coat|毛 皮 外 套 
 itm_pelt_coat_pl|毛 皮 外 套 
-itm_bishop_cop|Coat of Plates{***}
-itm_bishop_cop_pl|Coat of Plates{***}
+itm_bishop_cop|无 袖 板 甲 
+itm_bishop_cop_pl|无 袖 板 甲 
 itm_sarranid_cloth_robe|旧 长 袍 
 itm_sarranid_cloth_robe_pl|旧 长 袍 
 itm_sarranid_cloth_robe_b|旧 长 袍 
@@ -566,14 +566,14 @@ itm_skirmisher_armor|游 击 射 手 甲
 itm_skirmisher_armor_pl|游 击 射 手 甲 
 itm_archers_vest|射 手 棉 背 心 
 itm_archers_vest_pl|射 手 棉 背 心 
-itm_sarranid_leather_armor|萨 兰 德 皮 甲 
-itm_sarranid_leather_armor_pl|萨 兰 德 皮 甲 
+itm_sarranid_leather_armor|萨 拉 逊 皮 甲 
+itm_sarranid_leather_armor_pl|萨 拉 逊 皮 甲 
 itm_sarranid_cavalry_robe|骑 兵 长 袍 
 itm_sarranid_cavalry_robe_pl|骑 兵 长 袍 
-itm_arabian_armor_b|萨 兰 德 卫 士 甲 
-itm_arabian_armor_b_pl|萨 兰 德 卫 士 甲 
-itm_sarranid_mail_shirt|萨 兰 德 链 甲 衫 
-itm_sarranid_mail_shirt_pl|萨 兰 德 链 甲 衫 
+itm_arabian_armor_b|萨 拉 逊 卫 士 甲 
+itm_arabian_armor_b_pl|萨 拉 逊 卫 士 甲 
+itm_sarranid_mail_shirt|萨 拉 逊 链 甲 衫 
+itm_sarranid_mail_shirt_pl|萨 拉 逊 链 甲 衫 
 itm_mamluke_mail|马 穆 鲁 克 链 甲 
 itm_mamluke_mail_pl|马 穆 鲁 克 链 甲 
 itm_veteran_surcoat_a|Surcoat over Mail{***}
@@ -594,72 +594,72 @@ itm_arena_outfit_c|Surcoat over Mail{***}
 itm_arena_outfit_c_pl|Surcoat over Mail{***}
 itm_arena_outfit_d|Surcoat over Mail{***}
 itm_arena_outfit_d_pl|Surcoat over Mail{***}
-itm_kau_aragon_knight|Aragonian Mail{***}
-itm_kau_aragon_knight_pl|Aragonian Mail{***}
-itm_kau_aragon_a|Aragonian Mail{***}
-itm_kau_aragon_a_pl|Aragonian Mail{***}
-itm_kau_aragon_b|Aragonian Mail{***}
-itm_kau_aragon_b_pl|Aragonian Mail{***}
-itm_kau_aragon_c|Aragonian Mail{***}
-itm_kau_aragon_c_pl|Aragonian Mail{***}
-itm_kau_montcada_surcoat|Montcada Surcoat{***}
-itm_kau_montcada_surcoat_pl|Montcada Surcoat{***}
-itm_kau_alego_surcoat|Alego Surcoat{***}
-itm_kau_alego_surcoat_pl|Alego Surcoat{***}
-itm_kau_cervello_surcoat|Cervello Surcoat{***}
-itm_kau_cervello_surcoat_pl|Cervello Surcoat{***}
-itm_kau_cruilles_surcoat|Cruilles Surcoat{***}
-itm_kau_cruilles_surcoat_pl|Cruilles Surcoat{***}
+itm_kau_aragon_knight|阿 拉 贡 链 甲 
+itm_kau_aragon_knight_pl|阿 拉 贡 链 甲 
+itm_kau_aragon_a|阿 拉 贡 链 甲 
+itm_kau_aragon_a_pl|阿 拉 贡 链 甲 
+itm_kau_aragon_b|阿 拉 贡 链 甲 
+itm_kau_aragon_b_pl|阿 拉 贡 链 甲 
+itm_kau_aragon_c|阿 拉 贡 链 甲 
+itm_kau_aragon_c_pl|阿 拉 贡 链 甲 
+itm_kau_montcada_surcoat|蒙 特 卡 达 Surcoat{***}
+itm_kau_montcada_surcoat_pl|蒙 特 卡 达 Surcoat{***}
+itm_kau_alego_surcoat|阿 勒 戈 Surcoat{***}
+itm_kau_alego_surcoat_pl|阿 勒 戈 Surcoat{***}
+itm_kau_cervello_surcoat|塞 尔 维 伊 欧 Surcoat{***}
+itm_kau_cervello_surcoat_pl|塞 尔 维 伊 欧 Surcoat{***}
+itm_kau_cruilles_surcoat|克 维 耶 斯 Surcoat{***}
+itm_kau_cruilles_surcoat_pl|克 维 耶 斯 Surcoat{***}
 itm_kau_entenca_surcoat|Entensa Surcoat{***}
 itm_kau_entenca_surcoat_pl|Entensa Surcoat{***}
-itm_kau_epyres_surcoat|Epyres Surcoat{***}
-itm_kau_epyres_surcoat_pl|Epyres Surcoat{***}
-itm_kau_luna_surcoat|Luna Surcoat{***}
-itm_kau_luna_surcoat_pl|Luna Surcoat{***}
+itm_kau_epyres_surcoat|埃 皮 雷 斯 Surcoat{***}
+itm_kau_epyres_surcoat_pl|埃 皮 雷 斯 Surcoat{***}
+itm_kau_luna_surcoat|卢 纳 Surcoat{***}
+itm_kau_luna_surcoat_pl|卢 纳 Surcoat{***}
 itm_kau_pons_surcoat|Pons Surcoat{***}
 itm_kau_pons_surcoat_pl|Pons Surcoat{***}
-itm_kau_urgell_surcoat|Urgell Surcoat{***}
-itm_kau_urgell_surcoat_pl|Urgell Surcoat{***}
-itm_kau_castile_knight|Crown of Castile Mail{***}
-itm_kau_castile_knight_pl|Crown of Castile Mail{***}
-itm_kau_castile_a|Crown of Castile Mail{***}
-itm_kau_castile_a_pl|Crown of Castile Mail{***}
-itm_kau_castile_b|Crown of Castile Mail{***}
-itm_kau_castile_b_pl|Crown of Castile Mail{***}
-itm_kau_castile_c|Crown of Castile Mail{***}
-itm_kau_castile_c_pl|Crown of Castile Mail{***}
-itm_kau_santiago|Santiago Mail{***}
-itm_kau_santiago_pl|Santiago Mail{***}
-itm_kau_portugal_a|Portugese Mail{***}
-itm_kau_portugal_a_pl|Portugese Mail{***}
-itm_kau_portugal_b|Portugese Mail{***}
-itm_kau_portugal_b_pl|Portugese Mail{***}
-itm_kau_portugal_c|Portugese Mail{***}
-itm_kau_portugal_c_pl|Portugese Mail{***}
-itm_kau_portugal_d|Portugese Mail{***}
-itm_kau_portugal_d_pl|Portugese Mail{***}
+itm_kau_urgell_surcoat|乌 海 尔 Surcoat{***}
+itm_kau_urgell_surcoat_pl|乌 海 尔 Surcoat{***}
+itm_kau_castile_knight|卡 斯 提 尔 王 室 链 甲 
+itm_kau_castile_knight_pl|卡 斯 提 尔 王 室 链 甲 
+itm_kau_castile_a|卡 斯 提 尔 王 室 链 甲 
+itm_kau_castile_a_pl|卡 斯 提 尔 王 室 链 甲 
+itm_kau_castile_b|卡 斯 提 尔 王 室 链 甲 
+itm_kau_castile_b_pl|卡 斯 提 尔 王 室 链 甲 
+itm_kau_castile_c|卡 斯 提 尔 王 室 链 甲 
+itm_kau_castile_c_pl|卡 斯 提 尔 王 室 链 甲 
+itm_kau_santiago|圣 地 亚 哥 链 甲 
+itm_kau_santiago_pl|圣 地 亚 哥 链 甲 
+itm_kau_portugal_a|葡 萄 牙 链 甲 
+itm_kau_portugal_a_pl|葡 萄 牙 链 甲 
+itm_kau_portugal_b|葡 萄 牙 链 甲 
+itm_kau_portugal_b_pl|葡 萄 牙 链 甲 
+itm_kau_portugal_c|葡 萄 牙 链 甲 
+itm_kau_portugal_c_pl|葡 萄 牙 链 甲 
+itm_kau_portugal_d|葡 萄 牙 链 甲 
+itm_kau_portugal_d_pl|葡 萄 牙 链 甲 
 itm_kau_papal|Papal Surcoat over Mail{***}
 itm_kau_papal_pl|Papal Surcoat over Mail{***}
-itm_kau_sicily_a|Sicilian Mail{***}
-itm_kau_sicily_a_pl|Sicilian Mail{***}
-itm_kau_sicily_b|Sicilian Mail{***}
-itm_kau_sicily_b_pl|Sicilian Mail{***}
-itm_kau_antioch|Antioch Mail{***}
-itm_kau_antioch_pl|Antioch Mail{***}
-itm_kau_cyprus|Cyprus Mail{***}
-itm_kau_cyprus_pl|Cyprus Mail{***}
-itm_kau_antioch|Antioch Mail{***}
-itm_kau_antioch_pl|Antioch Mail{***}
-itm_kau_jerusalem|Jerusalem Mail{***}
-itm_kau_jerusalem_pl|Jerusalem Mail{***}
-itm_kau_latin_a|Latin Empire Mail{***}
-itm_kau_latin_a_pl|Latin Empire Mail{***}
-itm_kau_latin_b|Latin Empire Mail{***}
-itm_kau_latin_b_pl|Latin Empire Mail{***}
-itm_kau_athens|Latin Empire Mail{***}
-itm_kau_athens_pl|Latin Empire Mail{***}
-itm_kau_courtenay|Latin Empire Mail{***}
-itm_kau_courtenay_pl|Latin Empire Mail{***}
+itm_kau_sicily_a|西 西 里 链 甲 
+itm_kau_sicily_a_pl|西 西 里 链 甲 
+itm_kau_sicily_b|西 西 里 链 甲 
+itm_kau_sicily_b_pl|西 西 里 链 甲 
+itm_kau_antioch|安 条 克 链 甲 
+itm_kau_antioch_pl|安 条 克 链 甲 
+itm_kau_cyprus|塞 普 路 斯 链 甲 
+itm_kau_cyprus_pl|塞 普 路 斯 链 甲 
+itm_kau_antioch|安 条 克 链 甲 
+itm_kau_antioch_pl|安 条 克 链 甲 
+itm_kau_jerusalem|耶 路 撒 冷 链 甲 
+itm_kau_jerusalem_pl|耶 路 撒 冷 链 甲 
+itm_kau_latin_a|拉 丁 帝 国 链 甲 
+itm_kau_latin_a_pl|拉 丁 帝 国 链 甲 
+itm_kau_latin_b|拉 丁 帝 国 链 甲 
+itm_kau_latin_b_pl|拉 丁 帝 国 链 甲 
+itm_kau_athens|拉 丁 帝 国 链 甲 
+itm_kau_athens_pl|拉 丁 帝 国 链 甲 
+itm_kau_courtenay|拉 丁 帝 国 链 甲 
+itm_kau_courtenay_pl|拉 丁 帝 国 链 甲 
 itm_rnd_surcoat_01|Knightly Plated Surcoat with Mail{***}
 itm_rnd_surcoat_01_pl|Knightly Plated Surcoat with Mail{***}
 itm_rnd_surcoat_02|Knightly Plated Surcoat with Mail{***}
@@ -732,8 +732,8 @@ itm_surcoat_hungary_a|Plated Surcoat over Mail{***}
 itm_surcoat_hungary_a_pl|Plated Surcoat over Mail{***}
 itm_surcoat_ireland_a|Plated Surcoat over Mail{***}
 itm_surcoat_ireland_a_pl|Plated Surcoat over Mail{***}
-itm_surcoat_lithuania_a|Scale Armour{***}
-itm_surcoat_lithuania_a_pl|Scale Armour{***}
+itm_surcoat_lithuania_a|鳞 甲 
+itm_surcoat_lithuania_a_pl|鳞 甲 
 itm_surcoat_lithuania_b|Leather Scale Armour{***}
 itm_surcoat_lithuania_b_pl|Leather Scale Armour{***}
 itm_surcoat_norway_a|Plated Surcoat over Mail{***}
@@ -796,10 +796,10 @@ itm_teu_brother_surcoat_e|Teutonic Mail with Surcoat{***}
 itm_teu_brother_surcoat_e_pl|Teutonic Mail with Surcoat{***}
 itm_teu_sariant_mail|Mail with Surcoat{***}
 itm_teu_sariant_mail_pl|Mail with Surcoat{***}
-itm_teu_sergeant|Mail{***}
-itm_teu_sergeant_pl|Mail{***}
-itm_liv_sergeant|Mail{***}
-itm_liv_sergeant_pl|Mail{***}
+itm_teu_sergeant|链 甲 
+itm_teu_sergeant_pl|链 甲 
+itm_liv_sergeant|链 甲 
+itm_liv_sergeant_pl|链 甲 
 itm_teu_postulant_a|Postulant Tunic{***}
 itm_teu_postulant_a_pl|Postulant Tunic{***}
 itm_teu_monk_surcoat_a|Teutonic Monk Mail with Surcoat{***}
@@ -814,34 +814,34 @@ itm_scale_shirt_a|Scale Shirt{***}
 itm_scale_shirt_a_pl|Scale Shirt{***}
 itm_kau_padded_mail_a|Padded Mail{***}
 itm_kau_padded_mail_a_pl|Padded Mail{***}
-itm_kau_mail_a|Mail{***}
-itm_kau_mail_a_pl|Mail{***}
+itm_kau_mail_a|链 甲 
+itm_kau_mail_a_pl|链 甲 
 itm_kau_mail_b|Maille{***}
 itm_kau_mail_b_pl|Maille{***}
-itm_kau_haubergeon_a|Haubergeon{***}
-itm_kau_haubergeon_a_pl|Haubergeon{***}
-itm_kau_mail_shirt_a|Mail Shirt{***}
-itm_kau_mail_shirt_a_pl|Mail Shirt{***}
-itm_kau_mail_shirt_b|Mail Shirt{***}
-itm_kau_mail_shirt_b_pl|Mail Shirt{***}
-itm_kau_mail_shirt_c|Mail Shirt{***}
-itm_kau_mail_shirt_c_pl|Mail Shirt{***}
-itm_kau_mail_shirt_d|Mail Shirt{***}
-itm_kau_mail_shirt_d_pl|Mail Shirt{***}
-itm_kau_rus_a|Eastern Lamellar Armor{***}
-itm_kau_rus_a_pl|Eastern Lamellar Armor{***}
-itm_kau_rus_b|Eastern Scale Armor{***}
-itm_kau_rus_b_pl|Eastern Scale Armor{***}
-itm_kau_rus_d|Eastern Lamellar Armor{***}
-itm_kau_rus_d_pl|Eastern Lamellar Armor{***}
-itm_kau_rus_scale_a|Eastern Nobleman Scale Armor{***}
-itm_kau_rus_scale_a_pl|Eastern Nobleman Scale Armor{***}
-itm_kau_rus_noble_b|Eastern Nobleman Lamellar Armor{***}
-itm_kau_rus_noble_b_pl|Eastern Nobleman Lamellar Armor{***}
-itm_kau_rus_lamellar_vest|Eastern Lamellar Vest{***}
-itm_kau_rus_lamellar_vest_pl|Eastern Lamellar Vest{***}
-itm_kau_rus_noble_a|Eastern Mail{***}
-itm_kau_rus_noble_a_pl|Eastern Mail{***}
+itm_kau_haubergeon_a|短 锁 甲 衫 
+itm_kau_haubergeon_a_pl|短 锁 甲 衫 
+itm_kau_mail_shirt_a|链 甲 衫 
+itm_kau_mail_shirt_a_pl|链 甲 衫 
+itm_kau_mail_shirt_b|链 甲 衫 
+itm_kau_mail_shirt_b_pl|链 甲 衫 
+itm_kau_mail_shirt_c|链 甲 衫 
+itm_kau_mail_shirt_c_pl|链 甲 衫 
+itm_kau_mail_shirt_d|链 甲 衫 
+itm_kau_mail_shirt_d_pl|链 甲 衫 
+itm_kau_rus_a|东 欧 片 甲 
+itm_kau_rus_a_pl|东 欧 片 甲 
+itm_kau_rus_b|东 欧 鳞 甲 
+itm_kau_rus_b_pl|东 欧 鳞 甲 
+itm_kau_rus_d|东 欧 片 甲 
+itm_kau_rus_d_pl|东 欧 片 甲 
+itm_kau_rus_scale_a|东 欧 贵 族 鳞 甲 
+itm_kau_rus_scale_a_pl|东 欧 贵 族 鳞 甲 
+itm_kau_rus_noble_b|东 欧 贵 族 片 甲 
+itm_kau_rus_noble_b_pl|东 欧 贵 族 片 甲 
+itm_kau_rus_lamellar_vest|东 欧 片 甲 背 心 
+itm_kau_rus_lamellar_vest_pl|东 欧 片 甲 背 心 
+itm_kau_rus_noble_a|东 欧 链 甲 
+itm_kau_rus_noble_a_pl|东 欧 链 甲 
 itm_kau_rus_c|Eastern Leather Lamellar Armor with Maille{***}
 itm_kau_rus_c_pl|Eastern Leather Lamellar Armor with Maille{***}
 itm_kau_rus_mail_shirt_a|Mail Shirt{***}
@@ -856,8 +856,8 @@ itm_kau_lit_mail|Mail Shirt{***}
 itm_kau_lit_mail_pl|Mail Shirt{***}
 itm_lit_outfit|Balt Lamellar Vest{***}
 itm_lit_outfit_pl|Balt Lamellar Vest{***}
-itm_balt_gambeson|Balt Gambeson{***}
-itm_balt_gambeson_pl|Balt Gambeson{***}
+itm_balt_gambeson|Linen Gambeson
+itm_balt_gambeson_pl|Linen Gambeson
 itm_kau_rus_tunic_a|Rus' Tunic{***}
 itm_kau_rus_tunic_a_pl|Rus' Tunic{***}
 itm_kau_rus_tunic_b|Rus' Tunic{***}
@@ -898,8 +898,8 @@ itm_arab_banded_c|Saracen Banded Armour{***}
 itm_arab_banded_c_pl|Saracen Banded Armour{***}
 itm_templar_sarjeant_surcoat|Surcoat over Mail{***}
 itm_templar_sarjeant_surcoat_pl|Surcoat over Mail{***}
-itm_templar_sarjeant_mail|Mail Hauberk{***}
-itm_templar_sarjeant_mail_pl|Mail Hauberk{***}
+itm_templar_sarjeant_mail|链 锁 甲 
+itm_templar_sarjeant_mail_pl|链 锁 甲 
 itm_templar_tunic_a|Postulant Tunic{***}
 itm_templar_tunic_a_pl|Postulant Tunic{***}
 itm_templar_knight_a|Teutonic Mail with Surcoat{***}
@@ -908,8 +908,8 @@ itm_templar_knight_b|Teutonic Mail with Surcoat{***}
 itm_templar_knight_b_pl|Teutonic Mail with Surcoat{***}
 itm_templar_knight_c|Teutonic Mail with Surcoat{***}
 itm_templar_knight_c_pl|Teutonic Mail with Surcoat{***}
-itm_templar_gambeson_a|Gambeson{***}
-itm_templar_gambeson_a_pl|Gambeson{***}
+itm_templar_gambeson_a|软 铠 甲 
+itm_templar_gambeson_a_pl|软 铠 甲 
 itm_hospitaller_knight_a|Mail with Surcoat{***}
 itm_hospitaller_knight_a_pl|Mail with Surcoat{***}
 itm_hospitaller_knight_b|Mail with Surcoat{***}
@@ -928,20 +928,20 @@ itm_hospitaller_sarjeant_mail|Mail Hauberk{***}
 itm_hospitaller_sarjeant_mail_pl|Mail Hauberk{***}
 itm_hospitaller_tunic_a|Postulant Tunic{***}
 itm_hospitaller_tunic_a_pl|Postulant Tunic{***}
-itm_hospitaller_gambeson_a|Gambeson{***}
-itm_hospitaller_gambeson_a_pl|Gambeson{***}
+itm_hospitaller_gambeson_a|软 铠 甲 
+itm_hospitaller_gambeson_a_pl|软 铠 甲 
 itm_hospitaller_knight_a|Mail with Surcoat{***}
 itm_hospitaller_knight_a_pl|Mail with Surcoat{***}
-itm_hirdman_a|Coat of Plates{***}
-itm_hirdman_a_pl|Coat of Plates{***}
-itm_arab_mail_a|Mail Shirt{***}
-itm_arab_mail_a_pl|Mail Shirt{***}
-itm_arab_mail_b|Mail Shirt{***}
-itm_arab_mail_b_pl|Mail Shirt{***}
-itm_arab_mail_c|Mail Shirt{***}
-itm_arab_mail_c_pl|Mail Shirt{***}
-itm_arab_mail_d|Mail Shirt{***}
-itm_arab_mail_d_pl|Mail Shirt{***}
+itm_hirdman_a|无 袖 板 甲 
+itm_hirdman_a_pl|无 袖 板 甲 
+itm_arab_mail_a|链 甲 衫 
+itm_arab_mail_a_pl|链 甲 衫 
+itm_arab_mail_b|链 甲 衫 
+itm_arab_mail_b_pl|链 甲 衫 
+itm_arab_mail_c|链 甲 衫 
+itm_arab_mail_c_pl|链 甲 衫 
+itm_arab_mail_d|链 甲 衫 
+itm_arab_mail_d_pl|链 甲 衫 
 itm_cuman_shirt_a|Cuman Tunic{***}
 itm_cuman_shirt_a_pl|Cuman Tunic{***}
 itm_cuman_shirt_b|Cuman Tunic{***}
@@ -996,12 +996,12 @@ itm_peasant_f|Ragged Cloth{***}
 itm_peasant_f_pl|Ragged Cloth{***}
 itm_peasant_g|Linen Tunic{***}
 itm_peasant_g_pl|Linen Tunic{***}
-itm_byz_lord|Byzantine Armour{***}
-itm_byz_lord_pl|Byzantine Armour{***}
-itm_byz_emperor|Byzantine Armour{***}
-itm_byz_emperor_pl|Byzantine Armour{***}
-itm_bishop_a|Bishop Mail{***}
-itm_bishop_a_pl|Bishop Mail{***}
+itm_byz_lord|拜 占 庭 甲 
+itm_byz_lord_pl|拜 占 庭 甲 
+itm_byz_emperor|拜 占 庭 甲 
+itm_byz_emperor_pl|拜 占 庭 甲 
+itm_bishop_a|主 教 链 甲 
+itm_bishop_a_pl|主 教 链 甲 
 itm_varangian_a|Varangian Mail Hauberk{***}
 itm_varangian_a_pl|Varangian Mail Hauberk{***}
 itm_varangian_b|Varangian Lamellar{***}
@@ -1022,26 +1022,26 @@ itm_byz_lamellar_a|Byzantine Lamellar Leather Armour{***}
 itm_byz_lamellar_a_pl|Byzantine Lamellar Leather Armour{***}
 itm_byz_lamellar_b|Byzantine Lamellar Leather Armour{***}
 itm_byz_lamellar_b_pl|Byzantine Lamellar Leather Armour{***}
-itm_byz_leather_a|Byzantine Leather Armour{***}
-itm_byz_leather_a_pl|Byzantine Leather Armour{***}
-itm_byz_leather_b|Byzantine Leather Armour{***}
-itm_byz_leather_b_pl|Byzantine Leather Armour{***}
+itm_byz_leather_a|拜 占 庭 皮 甲 
+itm_byz_leather_a_pl|拜 占 庭 皮 甲 
+itm_byz_leather_b|拜 占 庭 皮 甲 
+itm_byz_leather_b_pl|拜 占 庭 皮 甲 
 itm_byz_padded_leather|Byzantine Padded Leather Armour{***}
 itm_byz_padded_leather_pl|Byzantine Padded Leather Armour{***}
-itm_byz_scale_armor|Byzantine Scale Armor{***}
-itm_byz_scale_armor_pl|Byzantine Scale Armor{***}
-itm_byz_cavalry_a|Byzantine Cavalry Armour{***}
-itm_byz_cavalry_a_pl|Byzantine Cavalry Armour{***}
-itm_byz_cavalry_b|Byzantine Cavalry Armour{***}
-itm_byz_cavalry_b_pl|Byzantine Cavalry Armour{***}
-itm_byz_mail_b|Byzantine Mail{***}
-itm_byz_mail_b_pl|Byzantine Mail{***}
-itm_byz_hcavalry_a|Byzantine Heavy Cavalry Armour{***}
-itm_byz_hcavalry_a_pl|Byzantine Heavy Cavalry Armour{***}
-itm_byz_hcavalry_b|Byzantine Heavy Cavalry Armour{***}
-itm_byz_hcavalry_b_pl|Byzantine Heavy Cavalry Armour{***}
-itm_byz_hcavalry_c|Byzantine Heavy Cavalry Armour{***}
-itm_byz_hcavalry_c_pl|Byzantine Heavy Cavalry Armour{***}
+itm_byz_scale_armor|拜 占 庭 鳞 甲 
+itm_byz_scale_armor_pl|拜 占 庭 鳞 甲 
+itm_byz_cavalry_a|拜 占 庭 骑 兵 甲 
+itm_byz_cavalry_a_pl|拜 占 庭 骑 兵 甲 
+itm_byz_cavalry_b|拜 占 庭 骑 兵 甲 
+itm_byz_cavalry_b_pl|拜 占 庭 骑 兵 甲 
+itm_byz_mail_b|拜 占 庭 链 甲 
+itm_byz_mail_b_pl|拜 占 庭 链 甲 
+itm_byz_hcavalry_a|拜 占 庭 重 骑 兵 甲 
+itm_byz_hcavalry_a_pl|拜 占 庭 重 骑 兵 甲 
+itm_byz_hcavalry_b|拜 占 庭 重 骑 兵 甲 
+itm_byz_hcavalry_b_pl|拜 占 庭 重 骑 兵 甲 
+itm_byz_hcavalry_c|拜 占 庭 重 骑 兵 甲 
+itm_byz_hcavalry_c_pl|拜 占 庭 重 骑 兵 甲 
 itm_byz_psiloi_a|Linen Tunic{***}
 itm_byz_psiloi_a_pl|Linen Tunic{***}
 itm_byz_psiloi_b|Linen Tunic{***}
@@ -1056,10 +1056,10 @@ itm_balt_shirt_a|Shirt{***}
 itm_balt_shirt_a_pl|Shirt{***}
 itm_balt_shirt_b|Shirt{***}
 itm_balt_shirt_b_pl|Shirt{***}
-itm_balt_fur_coat_a|Fur Coat{***}
-itm_balt_fur_coat_a_pl|Fur Coat{***}
-itm_balt_fur_coat_b|Fur Coat{***}
-itm_balt_fur_coat_b_pl|Fur Coat{***}
+itm_balt_fur_coat_a|毛 皮 大 衣 
+itm_balt_fur_coat_a_pl|毛 皮 大 衣 
+itm_balt_fur_coat_b|毛 皮 大 衣 
+itm_balt_fur_coat_b_pl|毛 皮 大 衣 
 itm_mon_lamellar_a|Mongol Lamellar Armor{***}
 itm_mon_lamellar_a_pl|Mongol Lamellar Armor{***}
 itm_mon_lamellar_b|Mongol Lamellar Armor{***}
@@ -1158,72 +1158,72 @@ itm_kettle_hat|锅 盔
 itm_kettle_hat_pl|锅 盔 
 itm_spiked_helmet|锥 顶 头 盔 
 itm_spiked_helmet_pl|锥 顶 头 盔 
-itm_khergit_lady_hat|库 吉 特 女 式 帽 
-itm_khergit_lady_hat_pl|库 吉 特 女 式 帽 
-itm_khergit_lady_hat_b|库 吉 特 女 式 皮 帽 
-itm_khergit_lady_hat_b_pl|库 吉 特 女 式 皮 帽 
-itm_sarranid_felt_hat|萨 兰 德 毡 帽 
-itm_sarranid_felt_hat_pl|萨 兰 德 毡 帽 
-itm_turban_a|Turban{***}
-itm_turban_a_pl|Turban{***}
-itm_turban_b|Turban{***}
-itm_turban_b_pl|Turban{***}
-itm_turban_c|Turban{***}
-itm_turban_c_pl|Turban{***}
+itm_khergit_lady_hat|蒙 古 女 式 帽 
+itm_khergit_lady_hat_pl|蒙 古 女 式 帽 
+itm_khergit_lady_hat_b|蒙 古 女 式 皮 帽 
+itm_khergit_lady_hat_b_pl|蒙 古 女 式 皮 帽 
+itm_sarranid_felt_hat|萨 拉 逊 毡 帽 
+itm_sarranid_felt_hat_pl|萨 拉 逊 毡 帽 
+itm_turban_a|包 头 巾 
+itm_turban_a_pl|包 头 巾 
+itm_turban_b|包 头 巾 
+itm_turban_b_pl|包 头 巾 
+itm_turban_c|包 头 巾 
+itm_turban_c_pl|包 头 巾 
 itm_arab_mail_coif|Saracen Mail Coif{***}
 itm_arab_mail_coif_pl|Saracen Mail Coif{***}
-itm_seljuk_helmet|Seljuk Helmet{***}
-itm_seljuk_helmet_pl|Seljuk Helmet{***}
-itm_arab_helmet_a|Saracen Helm{***}
-itm_arab_helmet_a_pl|Saracen Helm{***}
-itm_arab_helmet_c|Saracen Helm{***}
-itm_arab_helmet_c_pl|Saracen Helm{***}
-itm_sarranid_warrior_cap|萨 兰 德 勇 士 帽 
-itm_sarranid_warrior_cap_pl|萨 兰 德 勇 士 帽 
+itm_seljuk_helmet|塞 尔 柱 盔 
+itm_seljuk_helmet_pl|塞 尔 柱 盔 
+itm_arab_helmet_a|萨 拉 逊 盔 
+itm_arab_helmet_a_pl|萨 拉 逊 盔 
+itm_arab_helmet_c|萨 拉 逊 盔 
+itm_arab_helmet_c_pl|萨 拉 逊 盔 
+itm_sarranid_warrior_cap|萨 拉 逊 勇 士 帽 
+itm_sarranid_warrior_cap_pl|萨 拉 逊 勇 士 帽 
 itm_sarranid_horseman_helmet|骑 手 盔 
 itm_sarranid_horseman_helmet_pl|骑 手 盔 
-itm_sarranid_helmet1|萨 兰 德 头 巾 盔 
-itm_sarranid_helmet1_pl|萨 兰 德 头 巾 盔 
-itm_sarranid_mail_coif|萨 兰 德 链 甲 头 肩 巾 
-itm_sarranid_mail_coif_pl|萨 兰 德 链 甲 头 肩 巾 
-itm_sarranid_veiled_helmet|萨 兰 德 遮 面 盔 
-itm_sarranid_veiled_helmet_pl|萨 兰 德 遮 面 盔 
+itm_sarranid_helmet1|萨 拉 逊 头 巾 盔 
+itm_sarranid_helmet1_pl|萨 拉 逊 头 巾 盔 
+itm_sarranid_mail_coif|萨 拉 逊 链 甲 头 肩 巾 
+itm_sarranid_mail_coif_pl|萨 拉 逊 链 甲 头 肩 巾 
+itm_sarranid_veiled_helmet|萨 拉 逊 遮 面 盔 
+itm_sarranid_veiled_helmet_pl|萨 拉 逊 遮 面 盔 
 itm_vaegir_fur_cap|毛 皮 盔 
 itm_vaegir_fur_cap_pl|毛 皮 盔 
-itm_vaegir_fur_helmet|维 吉 亚 盔 
-itm_vaegir_fur_helmet_pl|维 吉 亚 盔 
+itm_vaegir_fur_helmet|罗 斯 盔 
+itm_vaegir_fur_helmet_pl|罗 斯 盔 
 itm_vaegir_spiked_helmet|锥 顶 帽 
 itm_vaegir_spiked_helmet_pl|锥 顶 帽 
 itm_vaegir_lamellar_helmet|鳞 片 护 甲 盔 
 itm_vaegir_lamellar_helmet_pl|鳞 片 护 甲 盔 
-itm_vaegir_noble_helmet|维 吉 亚 贵 族 盔 
-itm_vaegir_noble_helmet_pl|维 吉 亚 贵 族 盔 
-itm_vaegir_war_helmet|维 吉 亚 战 盔 
-itm_vaegir_war_helmet_pl|维 吉 亚 战 盔 
-itm_vaegir_mask|维 吉 亚 面 具 战 盔 
-itm_vaegir_mask_pl|维 吉 亚 面 具 战 盔 
+itm_vaegir_noble_helmet|罗 斯 贵 族 盔 
+itm_vaegir_noble_helmet_pl|罗 斯 贵 族 盔 
+itm_vaegir_war_helmet|罗 斯 战 盔 
+itm_vaegir_war_helmet_pl|罗 斯 战 盔 
+itm_vaegir_mask|罗 斯 面 具 战 盔 
+itm_vaegir_mask_pl|罗 斯 面 具 战 盔 
 itm_guard_helmet|护 盔 
 itm_guard_helmet_pl|护 盔 
 itm_full_helm|覆 面 盔 
 itm_full_helm_pl|覆 面 盔 
 itm_winged_great_helmet|带 翼 巨 盔 
 itm_winged_great_helmet_pl|带 翼 巨 盔 
-itm_osp_great_helm_a|Great Helm{***}
-itm_osp_great_helm_a_pl|Great Helm{***}
-itm_osp_great_helm_b|Great Helm{***}
-itm_osp_great_helm_b_pl|Great Helm{***}
-itm_kettle_hat_d|Kettle Helm{***}
-itm_kettle_hat_d_pl|Kettle Helm{***}
-itm_kettle_hat_e|Kettle Helm{***}
-itm_kettle_hat_e_pl|Kettle Helm{***}
+itm_osp_great_helm_a|巨 盔 
+itm_osp_great_helm_a_pl|巨 盔 
+itm_osp_great_helm_b|巨 盔 
+itm_osp_great_helm_b_pl|巨 盔 
+itm_kettle_hat_d|锅 盔 
+itm_kettle_hat_d_pl|锅 盔 
+itm_kettle_hat_e|锅 盔 
+itm_kettle_hat_e_pl|锅 盔 
 itm_osp_byzantion_a|Brimmed Helmet{***}
 itm_osp_byzantion_a_pl|Brimmed Helmet{***}
-itm_vik_norman_helmet_a|Norman Helmet{***}
-itm_vik_norman_helmet_a_pl|Norman Helmet{***}
-itm_vik_norman_helmet_b|Norman Helmet{***}
-itm_vik_norman_helmet_b_pl|Norman Helmet{***}
-itm_vik_norman_helmet_c|Norman Helmet{***}
-itm_vik_norman_helmet_c_pl|Norman Helmet{***}
+itm_vik_norman_helmet_a|诺 曼 盔 
+itm_vik_norman_helmet_a_pl|诺 曼 盔 
+itm_vik_norman_helmet_b|诺 曼 盔 
+itm_vik_norman_helmet_b_pl|诺 曼 盔 
+itm_vik_norman_helmet_c|诺 曼 盔 
+itm_vik_norman_helmet_c_pl|诺 曼 盔 
 itm_vik_norman_helmet_e|Plain Helm{***}
 itm_vik_norman_helmet_e_pl|Plain Helm{***}
 itm_vik_spangen_a|Spangen Helm{***}
@@ -1240,38 +1240,38 @@ itm_balt_helmet_b|Balt Helmet{***}
 itm_balt_helmet_b_pl|Balt Helmet{***}
 itm_balt_helmet_c|Balt Helmet{***}
 itm_balt_helmet_c_pl|Balt Helmet{***}
-itm_pol_helm_05|Great Helm{***}
-itm_pol_helm_05_pl|Great Helm{***}
-itm_pol_helm_08|Great Helm{***}
-itm_pol_helm_08_pl|Great Helm{***}
-itm_kettle_hat_f|Kettle Helm{***}
-itm_kettle_hat_f_pl|Kettle Helm{***}
-itm_kettle_hat_g|Kettle Helm{***}
-itm_kettle_hat_g_pl|Kettle Helm{***}
-itm_teu_kettle_hat_a|Kettle Helm{***}
-itm_teu_kettle_hat_a_pl|Kettle Helm{***}
-itm_teu_kettle_hat_b|Kettle Helm{***}
-itm_teu_kettle_hat_b_pl|Kettle Helm{***}
-itm_norway_kettle_hat_a|Kettle Helm{***}
-itm_norway_kettle_hat_a_pl|Kettle Helm{***}
-itm_norway_kettle_hat_b|Kettle Helm{***}
-itm_norway_kettle_hat_b_pl|Kettle Helm{***}
-itm_france_kettle_cloth|Kettle Helm{***}
-itm_france_kettle_cloth_pl|Kettle Helm{***}
-itm_france_kettle_mail|Kettle Helm{***}
-itm_france_kettle_mail_pl|Kettle Helm{***}
-itm_hre_kettle_cloth|Kettle Helm{***}
-itm_hre_kettle_cloth_pl|Kettle Helm{***}
-itm_hre_kettle_mail|Kettle Helm{***}
-itm_hre_kettle_mail_pl|Kettle Helm{***}
-itm_kettle_hat_red_a|Kettle Helm{***}
-itm_kettle_hat_red_a_pl|Kettle Helm{***}
-itm_kettle_hat_blue_a|Kettle Helm{***}
-itm_kettle_hat_blue_a_pl|Kettle Helm{***}
-itm_kettle_hat_yellow_a|Kettle Helm{***}
-itm_kettle_hat_yellow_a_pl|Kettle Helm{***}
-itm_kettle_hat_orange_a|Kettle Helm{***}
-itm_kettle_hat_orange_a_pl|Kettle Helm{***}
+itm_pol_helm_05|巨 盔 
+itm_pol_helm_05_pl|巨 盔 
+itm_pol_helm_08|巨 盔 
+itm_pol_helm_08_pl|巨 盔 
+itm_kettle_hat_f|锅 盔 
+itm_kettle_hat_f_pl|锅 盔 
+itm_kettle_hat_g|锅 盔 
+itm_kettle_hat_g_pl|锅 盔 
+itm_teu_kettle_hat_a|锅 盔 
+itm_teu_kettle_hat_a_pl|锅 盔 
+itm_teu_kettle_hat_b|锅 盔 
+itm_teu_kettle_hat_b_pl|锅 盔 
+itm_norway_kettle_hat_a|锅 盔 
+itm_norway_kettle_hat_a_pl|锅 盔 
+itm_norway_kettle_hat_b|锅 盔 
+itm_norway_kettle_hat_b_pl|锅 盔 
+itm_france_kettle_cloth|锅 盔 
+itm_france_kettle_cloth_pl|锅 盔 
+itm_france_kettle_mail|锅 盔 
+itm_france_kettle_mail_pl|锅 盔 
+itm_hre_kettle_cloth|锅 盔 
+itm_hre_kettle_cloth_pl|锅 盔 
+itm_hre_kettle_mail|锅 盔 
+itm_hre_kettle_mail_pl|锅 盔 
+itm_kettle_hat_red_a|锅 盔 
+itm_kettle_hat_red_a_pl|锅 盔 
+itm_kettle_hat_blue_a|锅 盔 
+itm_kettle_hat_blue_a_pl|锅 盔 
+itm_kettle_hat_yellow_a|锅 盔 
+itm_kettle_hat_yellow_a_pl|锅 盔 
+itm_kettle_hat_orange_a|锅 盔 
+itm_kettle_hat_orange_a_pl|锅 盔 
 itm_slonim|Slonim{***}
 itm_slonim_pl|Slonim{***}
 itm_osp_faceplate|Full Helm{***}
@@ -1282,44 +1282,44 @@ itm_rnd_helm_02|Winged Great Helmet{***}
 itm_rnd_helm_02_pl|Winged Great Helmet{***}
 itm_rnd_helm_03|Winged Great Helmet{***}
 itm_rnd_helm_03_pl|Winged Great Helmet{***}
-itm_rnd_helm_04|Great Helm{***}
-itm_rnd_helm_04_pl|Great Helm{***}
-itm_rnd_helm_05|Great Helm{***}
-itm_rnd_helm_05_pl|Great Helm{***}
-itm_rnd_helm_06|Great Helm{***}
-itm_rnd_helm_06_pl|Great Helm{***}
-itm_kau_montcada_helmet|Aragonese Helmet{***}
-itm_kau_montcada_helmet_pl|Aragonese Helmet{***}
-itm_kau_alego_helmet|Aragonese Helmet{***}
-itm_kau_alego_helmet_pl|Aragonese Helmet{***}
-itm_kau_cervello_helmet|Aragonese Helmet{***}
-itm_kau_cervello_helmet_pl|Aragonese Helmet{***}
-itm_kau_cruilles_helmet|Aragonese Helmet{***}
-itm_kau_cruilles_helmet_pl|Aragonese Helmet{***}
-itm_kau_entenca_helmet|Aragonese Helmet{***}
-itm_kau_entenca_helmet_pl|Aragonese Helmet{***}
-itm_kau_epyres_helmet|Aragonese Helmet{***}
-itm_kau_epyres_helmet_pl|Aragonese Helmet{***}
-itm_kau_luna_helmet|Aragonese Helmet{***}
-itm_kau_luna_helmet_pl|Aragonese Helmet{***}
-itm_kau_pons_helmet|Aragonese Helmet{***}
-itm_kau_pons_helmet_pl|Aragonese Helmet{***}
-itm_kau_reino_helmet|Aragonese Helmet{***}
-itm_kau_reino_helmet_pl|Aragonese Helmet{***}
-itm_kau_urgell_helmet|Aragonese Helmet{***}
-itm_kau_urgell_helmet_pl|Aragonese Helmet{***}
-itm_byz_yoman_a|Byzantine Helmet{***}
-itm_byz_yoman_a_pl|Byzantine Helmet{***}
-itm_byz_yoman_b|Byzantine Helmet{***}
-itm_byz_yoman_b_pl|Byzantine Helmet{***}
-itm_byz_yoman_c|Byzantine Helmet{***}
-itm_byz_yoman_c_pl|Byzantine Helmet{***}
-itm_byz_yoman_d|Byzantine Helmet{***}
-itm_byz_yoman_d_pl|Byzantine Helmet{***}
-itm_templar_kettlehat_a|Kettle Helm{***}
-itm_templar_kettlehat_a_pl|Kettle Helm{***}
-itm_hospitaller_kettlehat_a|Kettle Helm{***}
-itm_hospitaller_kettlehat_a_pl|Kettle Helm{***}
+itm_rnd_helm_04|巨 盔 
+itm_rnd_helm_04_pl|巨 盔 
+itm_rnd_helm_05|巨 盔 
+itm_rnd_helm_05_pl|巨 盔 
+itm_rnd_helm_06|巨 盔 
+itm_rnd_helm_06_pl|巨 盔 
+itm_kau_montcada_helmet|阿 拉 贡 盔 
+itm_kau_montcada_helmet_pl|阿 拉 贡 盔 
+itm_kau_alego_helmet|阿 拉 贡 盔 
+itm_kau_alego_helmet_pl|阿 拉 贡 盔 
+itm_kau_cervello_helmet|阿 拉 贡 盔 
+itm_kau_cervello_helmet_pl|阿 拉 贡 盔 
+itm_kau_cruilles_helmet|阿 拉 贡 盔 
+itm_kau_cruilles_helmet_pl|阿 拉 贡 盔 
+itm_kau_entenca_helmet|阿 拉 贡 盔 
+itm_kau_entenca_helmet_pl|阿 拉 贡 盔 
+itm_kau_epyres_helmet|阿 拉 贡 盔 
+itm_kau_epyres_helmet_pl|阿 拉 贡 盔 
+itm_kau_luna_helmet|阿 拉 贡 盔 
+itm_kau_luna_helmet_pl|阿 拉 贡 盔 
+itm_kau_pons_helmet|阿 拉 贡 盔 
+itm_kau_pons_helmet_pl|阿 拉 贡 盔 
+itm_kau_reino_helmet|阿 拉 贡 盔 
+itm_kau_reino_helmet_pl|阿 拉 贡 盔 
+itm_kau_urgell_helmet|阿 拉 贡 盔 
+itm_kau_urgell_helmet_pl|阿 拉 贡 盔 
+itm_byz_yoman_a|拜 占 庭 盔 
+itm_byz_yoman_a_pl|拜 占 庭 盔 
+itm_byz_yoman_b|拜 占 庭 盔 
+itm_byz_yoman_b_pl|拜 占 庭 盔 
+itm_byz_yoman_c|拜 占 庭 盔 
+itm_byz_yoman_c_pl|拜 占 庭 盔 
+itm_byz_yoman_d|拜 占 庭 盔 
+itm_byz_yoman_d_pl|拜 占 庭 盔 
+itm_templar_kettlehat_a|锅 盔 
+itm_templar_kettlehat_a_pl|锅 盔 
+itm_hospitaller_kettlehat_a|锅 盔 
+itm_hospitaller_kettlehat_a_pl|锅 盔 
 itm_elm1|Skullcap with Ventail{***}
 itm_elm1_pl|Skullcap with Ventail{***}
 itm_elm2|Skullcap with Arming Cap{***}
@@ -1338,38 +1338,38 @@ itm_elm9|Phrygian Helm{***}
 itm_elm9_pl|Phrygian Helm{***}
 itm_elm10|Byzantine Brimmed Helmet{***}
 itm_elm10_pl|Byzantine Brimmed Helmet{***}
-itm_byz_helmet_a|Byzantine Footman's Helmet{***}
-itm_byz_helmet_a_pl|Byzantine Footman's Helmet{***}
+itm_byz_helmet_a|拜 占 庭 步 兵 盔 
+itm_byz_helmet_a_pl|拜 占 庭 步 兵 盔 
 itm_leather_warrior_cap|皮 勇 士 帽 
 itm_leather_warrior_cap_pl|皮 勇 士 帽 
 itm_skullcap|无 边 盔 
 itm_skullcap_pl|无 边 盔 
 itm_raf_spangen|Spangen Helm{***}
 itm_raf_spangen_pl|Spangen Helm{***}
-itm_arab_helmet_a|Saracen Helm{***}
-itm_arab_helmet_a_pl|Saracen Helm{***}
-itm_arab_helmet_b|Saracen Helm{***}
-itm_arab_helmet_b_pl|Saracen Helm{***}
-itm_arab_helmet_c|Saracen Helm{***}
-itm_arab_helmet_c_pl|Saracen Helm{***}
-itm_berber_helmet_a|Berber Helm{***}
-itm_berber_helmet_a_pl|Berber Helm{***}
-itm_maciejowski_helm|Great Helm{***}
-itm_maciejowski_helm_pl|Great Helm{***}
+itm_arab_helmet_a|萨 拉 逊 盔 
+itm_arab_helmet_a_pl|萨 拉 逊 盔 
+itm_arab_helmet_b|萨 拉 逊 盔 
+itm_arab_helmet_b_pl|萨 拉 逊 盔 
+itm_arab_helmet_c|萨 拉 逊 盔 
+itm_arab_helmet_c_pl|萨 拉 逊 盔 
+itm_berber_helmet_a|柏 柏 尔 盔 
+itm_berber_helmet_a_pl|柏 柏 尔 盔 
+itm_maciejowski_helm|巨 盔 
+itm_maciejowski_helm_pl|巨 盔 
 itm_talak_litchina|Litchina Helmet{***}
 itm_talak_litchina_pl|Litchina Helmet{***}
-itm_crown_coif|Crown{***}
-itm_crown_coif_pl|Crown{***}
-itm_aragon_crown|Crown{***}
-itm_aragon_crown_pl|Crown{***}
+itm_crown_coif|王 冠 盔 
+itm_crown_coif_pl|王 冠 盔 
+itm_aragon_crown|王 冠 盔 
+itm_aragon_crown_pl|王 冠 盔 
 itm_talak_crown_ornate|Ornate Crowned Helm{***}
 itm_talak_crown_ornate_pl|Ornate Crowned Helm{***}
-itm_cuman_cap_a|Cuman Hat{***}
-itm_cuman_cap_a_pl|Cuman Hat{***}
-itm_cuman_cap_b|Cuman Hat{***}
-itm_cuman_cap_b_pl|Cuman Hat{***}
-itm_cuman_cap_c|Cuman Hat{***}
-itm_cuman_cap_c_pl|Cuman Hat{***}
+itm_cuman_cap_a|库 曼 帽 
+itm_cuman_cap_a_pl|库 曼 帽 
+itm_cuman_cap_b|库 曼 帽 
+itm_cuman_cap_b_pl|库 曼 帽 
+itm_cuman_cap_c|库 曼 帽 
+itm_cuman_cap_c_pl|库 曼 帽 
 itm_maciejowski_kettle_hat_a|Kettle Hat{***}
 itm_maciejowski_kettle_hat_a_pl|Kettle Hat{***}
 itm_maciejowski_kettle_hat_b|Kettle Hat{***}
@@ -1384,30 +1384,30 @@ itm_norman_coif_b|Norman Helm with Ventail{***}
 itm_norman_coif_b_pl|Norman Helm with Ventail{***}
 itm_rus_helm_a|Rus Helm with Ventail{***}
 itm_rus_helm_a_pl|Rus Helm with Ventail{***}
-itm_rus_helmet_b|Rus Helm{***}
-itm_rus_helmet_b_pl|Rus Helm{***}
-itm_norman_coif_c|Norman Helmet{***}
-itm_norman_coif_c_pl|Norman Helmet{***}
-itm_norman_coif_d|Norman Helmet{***}
-itm_norman_coif_d_pl|Norman Helmet{***}
-itm_norman_coif_e|Norman Helmet{***}
-itm_norman_coif_e_pl|Norman Helmet{***}
-itm_kettle_hat_red_mail|Kettle Helm{***}
-itm_kettle_hat_red_mail_pl|Kettle Helm{***}
-itm_kettle_hat_blue_mail|Kettle Helm{***}
-itm_kettle_hat_blue_mail_pl|Kettle Helm{***}
-itm_kettle_hat_yellow_mail|Kettle Helm{***}
-itm_kettle_hat_yellow_mail_pl|Kettle Helm{***}
-itm_kettle_hat_orange_mail|Kettle Helm{***}
-itm_kettle_hat_orange_mail_pl|Kettle Helm{***}
-itm_kettle_hat_mail|Kettle Helm{***}
-itm_kettle_hat_mail_pl|Kettle Helm{***}
-itm_teu_kettle_hat_a_mail|Kettle Helm{***}
-itm_teu_kettle_hat_a_mail_pl|Kettle Helm{***}
-itm_templar_kettlehat_a_mail|Kettle Helm{***}
-itm_templar_kettlehat_a_mail_pl|Kettle Helm{***}
-itm_hospitaller_kettlehat_a_mail|Kettle Helm{***}
-itm_hospitaller_kettlehat_a_mail_pl|Kettle Helm{***}
+itm_rus_helmet_b|罗 斯 盔 
+itm_rus_helmet_b_pl|罗 斯 盔 
+itm_norman_coif_c|诺 曼 盔 
+itm_norman_coif_c_pl|诺 曼 盔 
+itm_norman_coif_d|诺 曼 盔 
+itm_norman_coif_d_pl|诺 曼 盔 
+itm_norman_coif_e|诺 曼 盔 
+itm_norman_coif_e_pl|诺 曼 盔 
+itm_kettle_hat_red_mail|锅 盔 
+itm_kettle_hat_red_mail_pl|锅 盔 
+itm_kettle_hat_blue_mail|锅 盔 
+itm_kettle_hat_blue_mail_pl|锅 盔 
+itm_kettle_hat_yellow_mail|锅 盔 
+itm_kettle_hat_yellow_mail_pl|锅 盔 
+itm_kettle_hat_orange_mail|锅 盔 
+itm_kettle_hat_orange_mail_pl|锅 盔 
+itm_kettle_hat_mail|锅 盔 
+itm_kettle_hat_mail_pl|锅 盔 
+itm_teu_kettle_hat_a_mail|锅 盔 
+itm_teu_kettle_hat_a_mail_pl|锅 盔 
+itm_templar_kettlehat_a_mail|锅 盔 
+itm_templar_kettlehat_a_mail_pl|锅 盔 
+itm_hospitaller_kettlehat_a_mail|锅 盔 
+itm_hospitaller_kettlehat_a_mail_pl|锅 盔 
 itm_kolpak_mail|Cervilliere{***}
 itm_kolpak_mail_pl|Cervilliere{***}
 itm_mail_coif_b|Decorated Mail Coif{***}
@@ -1418,8 +1418,8 @@ itm_norman_faceplate|Helm with faceplate{***}
 itm_norman_faceplate_pl|Helm with faceplate{***}
 itm_varangian_helm|Varangian Helmet{***}
 itm_varangian_helm_pl|Varangian Helmet{***}
-itm_mamluke_helm|Mamluke Helmet{***}
-itm_mamluke_helm_pl|Mamluke Helmet{***}
+itm_mamluke_helm|马 木 鲁 克 盔 
+itm_mamluke_helm_pl|马 木 鲁 克 盔 
 itm_wooden_stick|木 枝 
 itm_wooden_stick_pl|木 枝 
 itm_cudgel|短 棍 
@@ -1438,8 +1438,8 @@ itm_maul|木 锤
 itm_maul_pl|木 锤 
 itm_sledgehammer|大 锤 
 itm_sledgehammer_pl|大 锤 
-itm_warhammer|巨 锤 
-itm_warhammer_pl|巨 锤 
+itm_warhammer|战 锤 
+itm_warhammer_pl|战 锤 
 itm_pickaxe|鹤 嘴 锄 
 itm_pickaxe_pl|鹤 嘴 锄 
 itm_spiked_club|尖 头 棒 
@@ -1466,46 +1466,46 @@ itm_scimitar|弯 刀
 itm_scimitar_pl|弯 刀 
 itm_scimitar_b|精 锐 弯 刀 
 itm_scimitar_b_pl|精 锐 弯 刀 
-itm_arabian_sword_a|萨 兰 德 剑 
-itm_arabian_sword_a_pl|萨 兰 德 剑 
-itm_arabian_sword_b|萨 兰 德 战 士 剑 
-itm_arabian_sword_b_pl|萨 兰 德 战 士 剑 
-itm_sarranid_cavalry_sword|萨 兰 德 骑 兵 剑 
-itm_sarranid_cavalry_sword_pl|萨 兰 德 骑 兵 剑 
-itm_arabian_sword_d|萨 兰 德 卫 士 剑 
-itm_arabian_sword_d_pl|萨 兰 德 卫 士 剑 
-itm_andalusian_sword|Andalusian Sword{***}
-itm_andalusian_sword_pl|Andalusian Sword{***}
+itm_arabian_sword_a|萨 拉 逊 剑 
+itm_arabian_sword_a_pl|萨 拉 逊 剑 
+itm_arabian_sword_b|萨 拉 逊 战 士 剑 
+itm_arabian_sword_b_pl|萨 拉 逊 战 士 剑 
+itm_sarranid_cavalry_sword|萨 拉 逊 骑 兵 剑 
+itm_sarranid_cavalry_sword_pl|萨 拉 逊 骑 兵 剑 
+itm_arabian_sword_d|萨 拉 逊 卫 士 剑 
+itm_arabian_sword_d_pl|萨 拉 逊 卫 士 剑 
+itm_andalusian_sword|安 达 卢 西 亚 剑 
+itm_andalusian_sword_pl|安 达 卢 西 亚 剑 
 itm_hatchet|短 斧 
 itm_hatchet_pl|短 斧 
-itm_talak_warhammer|Warhammer{***}
-itm_talak_warhammer_pl|Warhammer{***}
-itm_talak_bastard_sword|Hand and a Half Sword{***}
-itm_talak_bastard_sword_pl|Hand and a Half Sword{***}
-itm_talak_mace|Flanged Mace{***}
-itm_talak_mace_pl|Flanged Mace{***}
-itm_raf_one_handed_axe_a|One Handed Axe{***}
-itm_raf_one_handed_axe_a_pl|One Handed Axe{***}
-itm_raf_one_handed_axe_b|One Handed Axe{***}
-itm_raf_one_handed_axe_b_pl|One Handed Axe{***}
-itm_raf_one_handed_axe_c|One Handed Axe{***}
-itm_raf_one_handed_axe_c_pl|One Handed Axe{***}
-itm_raf_one_handed_axe_d|One Handed Axe{***}
-itm_raf_one_handed_axe_d_pl|One Handed Axe{***}
-itm_raf_one_handed_axe_e|One Handed Axe{***}
-itm_raf_one_handed_axe_e_pl|One Handed Axe{***}
-itm_raf_one_handed_axe_f|One Handed Axe{***}
-itm_raf_one_handed_axe_f_pl|One Handed Axe{***}
-itm_raf_one_handed_axe_g|One Handed Axe{***}
-itm_raf_one_handed_axe_g_pl|One Handed Axe{***}
+itm_talak_warhammer|战 锤 
+itm_talak_warhammer_pl|战 锤 
+itm_talak_bastard_sword|手 半 剑 
+itm_talak_bastard_sword_pl|手 半 剑 
+itm_talak_mace|凸 缘 钉 头 锤 
+itm_talak_mace_pl|凸 缘 钉 头 锤 
+itm_raf_one_handed_axe_a|单 手 斧 
+itm_raf_one_handed_axe_a_pl|单 手 斧 
+itm_raf_one_handed_axe_b|单 手 斧 
+itm_raf_one_handed_axe_b_pl|单 手 斧 
+itm_raf_one_handed_axe_c|单 手 斧 
+itm_raf_one_handed_axe_c_pl|单 手 斧 
+itm_raf_one_handed_axe_d|单 手 斧 
+itm_raf_one_handed_axe_d_pl|单 手 斧 
+itm_raf_one_handed_axe_e|单 手 斧 
+itm_raf_one_handed_axe_e_pl|单 手 斧 
+itm_raf_one_handed_axe_f|单 手 斧 
+itm_raf_one_handed_axe_f_pl|单 手 斧 
+itm_raf_one_handed_axe_g|单 手 斧 
+itm_raf_one_handed_axe_g_pl|单 手 斧 
 itm_raf_one_handed_axe_h|Bearded Axe{***}
 itm_raf_one_handed_axe_h_pl|Bearded Axe{***}
-itm_raf_two_handed_axe_a|Two Handed Axe{***}
-itm_raf_two_handed_axe_a_pl|Two Handed Axe{***}
-itm_raf_two_handed_axe_b|Two Handed Axe{***}
-itm_raf_two_handed_axe_b_pl|Two Handed Axe{***}
-itm_raf_two_handed_axe_c|Nordic Axe{***}
-itm_raf_two_handed_axe_c_pl|Nordic Axe{***}
+itm_raf_two_handed_axe_a|双 手 斧 
+itm_raf_two_handed_axe_a_pl|双 手 斧 
+itm_raf_two_handed_axe_b|双 手 斧 
+itm_raf_two_handed_axe_b_pl|双 手 斧 
+itm_raf_two_handed_axe_c|北 欧 战 斧 
+itm_raf_two_handed_axe_c_pl|北 欧 战 斧 
 itm_sarranid_mace_1|铁 杖 
 itm_sarranid_mace_1_pl|铁 杖 
 itm_sarranid_axe_a|铁 战 斗 斧 
@@ -1526,8 +1526,8 @@ itm_sword_type_xiv|Counter Point Series Type XIV Sword{***}
 itm_sword_type_xiv_pl|Counter Point Series Type XIV Sword{***}
 itm_cp391_sword|Counter Point Series Knightly Sword{***}
 itm_cp391_sword_pl|Counter Point Series Knightly Sword{***}
-itm_spatha|Spatha{***}
-itm_spatha_pl|Spatha{***}
+itm_spatha|罗 马 剑 
+itm_spatha_pl|罗 马 剑 
 itm_two_handed_cleaver|直 刃 战 刀 
 itm_two_handed_cleaver_pl|直 刃 战 刀 
 itm_military_cleaver_b|直 刃 士 兵 刀 
@@ -1556,16 +1556,16 @@ itm_hafted_blade_a|宽 刃 刀
 itm_hafted_blade_a_pl|宽 刃 刀 
 itm_shortened_military_scythe|短 柄 军 用 镰 
 itm_shortened_military_scythe_pl|短 柄 军 用 镰 
-itm_sword_viking_1|日 耳 曼 剑 
-itm_sword_viking_1_pl|日 耳 曼 剑 
-itm_sword_viking_2|日 耳 曼 剑 
-itm_sword_viking_2_pl|日 耳 曼 剑 
-itm_sword_viking_2_small|日 耳 曼 短 剑 
-itm_sword_viking_2_small_pl|日 耳 曼 短 剑 
-itm_sword_viking_3|日 耳 曼 战 剑 
-itm_sword_viking_3_pl|日 耳 曼 战 剑 
-itm_sword_viking_3_small|日 耳 曼 短 战 剑 
-itm_sword_viking_3_small_pl|日 耳 曼 短 战 剑 
+itm_sword_viking_1|北 欧 剑 
+itm_sword_viking_1_pl|北 欧 剑 
+itm_sword_viking_2|北 欧 剑 
+itm_sword_viking_2_pl|北 欧 剑 
+itm_sword_viking_2_small|北 欧 短 剑 
+itm_sword_viking_2_small_pl|北 欧 短 剑 
+itm_sword_viking_3|北 欧 战 剑 
+itm_sword_viking_3_pl|北 欧 战 剑 
+itm_sword_viking_3_small|北 欧 短 战 剑 
+itm_sword_viking_3_small_pl|北 欧 短 战 剑 
 itm_sword_khergit_1|游 牧 弯 刀 
 itm_sword_khergit_1_pl|游 牧 弯 刀 
 itm_sword_khergit_2|弯 刀 
@@ -1590,8 +1590,8 @@ itm_long_hafted_knobbed_mace|长 柄 圆 头 杖
 itm_long_hafted_knobbed_mace_pl|长 柄 圆 头 杖 
 itm_long_hafted_spiked_mace|长 柄 尖 头 杖 
 itm_long_hafted_spiked_mace_pl|长 柄 尖 头 杖 
-itm_studded_club|Studded Club{***}
-itm_studded_club_pl|Studded Club{***}
+itm_studded_club|钉 棍 
+itm_studded_club_pl|钉 棍 
 itm_scythe|长 柄 镰 刀 
 itm_scythe_pl|长 柄 镰 刀 
 itm_pitch_fork|耙 子 
@@ -1618,58 +1618,58 @@ itm_heavy_lance|重 型 骑 枪
 itm_heavy_lance_pl|重 型 骑 枪 
 itm_bamboo_spear|竹 矛 
 itm_bamboo_spear_pl|竹 矛 
-itm_spear_a|Spear{***}
-itm_spear_a_pl|Spear{***}
-itm_spear_b|Spear{***}
-itm_spear_b_pl|Spear{***}
-itm_spear_c|Spear{***}
-itm_spear_c_pl|Spear{***}
-itm_spear_d|Spear{***}
-itm_spear_d_pl|Spear{***}
-itm_spear_e|Spear{***}
-itm_spear_e_pl|Spear{***}
-itm_spear_f|Spear{***}
-itm_spear_f_pl|Spear{***}
-itm_spear_g|Spear{***}
-itm_spear_g_pl|Spear{***}
-itm_spear_h|Spear{***}
-itm_spear_h_pl|Spear{***}
-itm_spear_i|Spear{***}
-itm_spear_i_pl|Spear{***}
-itm_spear_j|Spear{***}
-itm_spear_j_pl|Spear{***}
-itm_spear_k|Spear{***}
-itm_spear_k_pl|Spear{***}
-itm_spear_l|Spear{***}
-itm_spear_l_pl|Spear{***}
-itm_spear_m|Spear{***}
-itm_spear_m_pl|Spear{***}
-itm_spear_n|Spear{***}
-itm_spear_n_pl|Spear{***}
-itm_spear_o|Spear{***}
-itm_spear_o_pl|Spear{***}
-itm_spear_p|Spear{***}
-itm_spear_p_pl|Spear{***}
+itm_spear_a|矛 
+itm_spear_a_pl|矛 
+itm_spear_b|短 矛 
+itm_spear_b_pl|短 矛 
+itm_spear_c|矛 
+itm_spear_c_pl|矛 
+itm_spear_d|矛 
+itm_spear_d_pl|矛 
+itm_spear_e|矛 
+itm_spear_e_pl|矛 
+itm_spear_f|矛 
+itm_spear_f_pl|矛 
+itm_spear_g|矛 
+itm_spear_g_pl|矛 
+itm_spear_h|矛 
+itm_spear_h_pl|矛 
+itm_spear_i|矛 
+itm_spear_i_pl|矛 
+itm_spear_j|长 矛 
+itm_spear_j_pl|长 矛 
+itm_spear_k|长 矛 
+itm_spear_k_pl|长 矛 
+itm_spear_l|长 矛 
+itm_spear_l_pl|长 矛 
+itm_spear_m|矛 
+itm_spear_m_pl|矛 
+itm_spear_n|长 矛 
+itm_spear_n_pl|长 矛 
+itm_spear_o|矛 
+itm_spear_o_pl|矛 
+itm_spear_p|矛 
+itm_spear_p_pl|矛 
 itm_wooden_shield|木 盾 
 itm_wooden_shield_pl|木 盾 
-itm_nordic_shield|日 尔 曼 盾 
-itm_nordic_shield_pl|日 尔 曼 盾 
+itm_nordic_shield|北 欧 盾 
+itm_nordic_shield_pl|北 欧 盾 
 itm_leather_covered_round_shield|蒙 皮 圆 盾 
 itm_leather_covered_round_shield_pl|蒙 皮 圆 盾 
 itm_hide_covered_round_shield|兽 皮 圆 盾 
 itm_hide_covered_round_shield_pl|兽 皮 圆 盾 
-itm_tab_shield_round_a|旧 圆 盾 
-itm_tab_shield_round_a_pl|旧 圆 盾 
+itm_tab_shield_round_a|老 式 圆 盾 
+itm_tab_shield_round_a_pl|老 式 圆 盾 
 itm_tab_shield_round_b|简 易 圆 盾 
 itm_tab_shield_round_b_pl|简 易 圆 盾 
 itm_tab_shield_round_c|圆 盾 
 itm_tab_shield_round_c_pl|圆 盾 
-itm_tab_shield_round_d|重 型 圆 盾 
-itm_tab_shield_round_d_pl|重 型 圆 盾 
-itm_tab_shield_round_e|皇 家 侍 卫 圆 盾 
-itm_tab_shield_round_e_pl|皇 家 侍 卫 圆 盾 
-itm_tab_shield_kite_a|旧 筝 形 盾 
-itm_tab_shield_kite_a_pl|旧 筝 形 盾 
+itm_tab_shield_round_d|精 制 圆 盾 
+itm_tab_shield_round_d_pl|精 制 圆 盾 
+itm_tab_shield_round_e|重 型 圆 盾 
+itm_tab_shield_round_e_pl|重 型 圆 盾 
+itm_tab_shield_kite_a|老 式 筝 形 盾 
+itm_tab_shield_kite_a_pl|老 式 筝 形 盾 
 itm_tab_shield_kite_b|简 易 筝 形 盾 
 itm_tab_shield_kite_b_pl|简 易 筝 形 盾 
 itm_tab_shield_kite_c|筝 形 盾 
@@ -1680,8 +1680,8 @@ itm_tab_shield_kite_cav_a|骑 手 筝 形 盾
 itm_tab_shield_kite_cav_a_pl|骑 手 筝 形 盾 
 itm_tab_shield_kite_cav_b|骑 士 筝 形 盾 
 itm_tab_shield_kite_cav_b_pl|骑 士 筝 形 盾 
-itm_tab_shield_heater_a|旧 扇 形 盾 
-itm_tab_shield_heater_a_pl|旧 扇 形 盾 
+itm_tab_shield_heater_a|老 式 扇 形 盾 
+itm_tab_shield_heater_a_pl|老 式 扇 形 盾 
 itm_tab_shield_heater_b|简 易 扇 形 盾 
 itm_tab_shield_heater_b_pl|简 易 扇 形 盾 
 itm_tab_shield_heater_c|扇 形 盾 
@@ -1700,170 +1700,170 @@ itm_tab_shield_small_round_b|圆 骑 兵 盾
 itm_tab_shield_small_round_b_pl|圆 骑 兵 盾 
 itm_tab_shield_small_round_c|精 锐 骑 兵 盾 
 itm_tab_shield_small_round_c_pl|精 锐 骑 兵 盾 
-itm_lit_pavise_a_1|Old Lithuanian Shield{***}
-itm_lit_pavise_a_1_pl|Old Lithuanian Shield{***}
-itm_lit_pavise_b_1|Old Lithuanian Shield{***}
-itm_lit_pavise_b_1_pl|Old Lithuanian Shield{***}
-itm_lit_pavise_c_1|Old Lithuanian Shield{***}
-itm_lit_pavise_c_1_pl|Old Lithuanian Shield{***}
-itm_lit_pavise_d_1|Old Lithuanian Shield{***}
-itm_lit_pavise_d_1_pl|Old Lithuanian Shield{***}
-itm_lit_pavise_e_1|Old Lithuanian Shield{***}
-itm_lit_pavise_e_1_pl|Old Lithuanian Shield{***}
-itm_lit_pavise_f_1|Old Lithuanian Shield{***}
-itm_lit_pavise_f_1_pl|Old Lithuanian Shield{***}
-itm_lit_pavise_g_1|Old Lithuanian Shield{***}
-itm_lit_pavise_g_1_pl|Old Lithuanian Shield{***}
-itm_lit_pavise_h_1|Old Lithuanian Shield{***}
-itm_lit_pavise_h_1_pl|Old Lithuanian Shield{***}
-itm_lit_pavise_a_2|Plain Lithuanian Shield{***}
-itm_lit_pavise_a_2_pl|Plain Lithuanian Shield{***}
-itm_lit_pavise_b_2|Plain Lithuanian Shield{***}
-itm_lit_pavise_b_2_pl|Plain Lithuanian Shield{***}
-itm_lit_pavise_c_2|Plain Lithuanian Shield{***}
-itm_lit_pavise_c_2_pl|Plain Lithuanian Shield{***}
-itm_lit_pavise_d_2|Plain Lithuanian Shield{***}
-itm_lit_pavise_d_2_pl|Plain Lithuanian Shield{***}
-itm_lit_pavise_e_2|Plain Lithuanian Shield{***}
-itm_lit_pavise_e_2_pl|Plain Lithuanian Shield{***}
-itm_lit_pavise_f_2|Plain Lithuanian Shield{***}
-itm_lit_pavise_f_2_pl|Plain Lithuanian Shield{***}
-itm_lit_pavise_g_2|Plain Lithuanian Shield{***}
-itm_lit_pavise_g_2_pl|Plain Lithuanian Shield{***}
-itm_lit_pavise_h_2|Plain Lithuanian Shield{***}
-itm_lit_pavise_h_2_pl|Plain Lithuanian Shield{***}
-itm_lit_pavise_a_3|Lithuanian Shield{***}
-itm_lit_pavise_a_3_pl|Lithuanian Shield{***}
-itm_lit_pavise_b_3|Lithuanian Shield{***}
-itm_lit_pavise_b_3_pl|Lithuanian Shield{***}
-itm_lit_pavise_c_3|Lithuanian Shield{***}
-itm_lit_pavise_c_3_pl|Lithuanian Shield{***}
-itm_lit_pavise_d_3|Lithuanian Shield{***}
-itm_lit_pavise_d_3_pl|Lithuanian Shield{***}
-itm_lit_pavise_e_3|Lithuanian Shield{***}
-itm_lit_pavise_e_3_pl|Lithuanian Shield{***}
-itm_lit_pavise_f_3|Lithuanian Shield{***}
-itm_lit_pavise_f_3_pl|Lithuanian Shield{***}
-itm_lit_pavise_g_3|Lithuanian Shield{***}
-itm_lit_pavise_g_3_pl|Lithuanian Shield{***}
-itm_lit_pavise_h_3|Lithuanian Shield{***}
-itm_lit_pavise_h_3_pl|Lithuanian Shield{***}
-itm_lit_pavise_a_4|Heavy Lithuanian Shield{***}
-itm_lit_pavise_a_4_pl|Heavy Lithuanian Shield{***}
-itm_lit_pavise_b_4|Heavy Lithuanian Shield{***}
-itm_lit_pavise_b_4_pl|Heavy Lithuanian Shield{***}
-itm_lit_pavise_c_4|Heavy Lithuanian Shield{***}
-itm_lit_pavise_c_4_pl|Heavy Lithuanian Shield{***}
-itm_lit_pavise_d_4|Heavy Lithuanian Shield{***}
-itm_lit_pavise_d_4_pl|Heavy Lithuanian Shield{***}
-itm_lit_pavise_e_4|Heavy Lithuanian Shield{***}
-itm_lit_pavise_e_4_pl|Heavy Lithuanian Shield{***}
-itm_lit_pavise_f_4|Heavy Lithuanian Shield{***}
-itm_lit_pavise_f_4_pl|Heavy Lithuanian Shield{***}
-itm_lit_pavise_g_4|Heavy Lithuanian Shield{***}
-itm_lit_pavise_g_4_pl|Heavy Lithuanian Shield{***}
-itm_lit_pavise_h_4|Heavy Lithuanian Shield{***}
-itm_lit_pavise_h_4_pl|Heavy Lithuanian Shield{***}
-itm_byz_shield|Heavy Byzantine Kite Shield{***}
-itm_byz_shield_pl|Heavy Byzantine Kite Shield{***}
-itm_arab_shield_a_1|Old Saracen Round Shield{***}
-itm_arab_shield_a_1_pl|Old Saracen Round Shield{***}
-itm_arab_shield_a_2|Plain Saracen Round Shield{***}
-itm_arab_shield_a_2_pl|Plain Saracen Round Shield{***}
-itm_arab_shield_a_3|Saracen Round Shield{***}
-itm_arab_shield_a_3_pl|Saracen Round Shield{***}
-itm_arab_shield_a_4|Saracen Heavy Round Shield{***}
-itm_arab_shield_a_4_pl|Saracen Heavy Round Shield{***}
-itm_arab_shield_b_1|Old Saracen Round Shield{***}
-itm_arab_shield_b_1_pl|Old Saracen Round Shield{***}
-itm_arab_shield_b_2|Plain Saracen Round Shield{***}
-itm_arab_shield_b_2_pl|Plain Saracen Round Shield{***}
-itm_arab_shield_b_3|Saracen Round Shield{***}
-itm_arab_shield_b_3_pl|Saracen Round Shield{***}
-itm_arab_shield_b_4|Saracen Heavy Round Shield{***}
-itm_arab_shield_b_4_pl|Saracen Heavy Round Shield{***}
-itm_arab_shield_c_1|Old Saracen Round Shield{***}
-itm_arab_shield_c_1_pl|Old Saracen Round Shield{***}
-itm_arab_shield_c_2|Plain Saracen Round Shield{***}
-itm_arab_shield_c_2_pl|Plain Saracen Round Shield{***}
-itm_arab_shield_c_3|Saracen Round Shield{***}
-itm_arab_shield_c_3_pl|Saracen Round Shield{***}
-itm_arab_shield_c_4|Saracen Heavy Round Shield{***}
-itm_arab_shield_c_4_pl|Saracen Heavy Round Shield{***}
-itm_arab_shield_d_1|Old Saracen Round Shield{***}
-itm_arab_shield_d_1_pl|Old Saracen Round Shield{***}
-itm_arab_shield_d_2|Plain Saracen Round Shield{***}
-itm_arab_shield_d_2_pl|Plain Saracen Round Shield{***}
-itm_arab_shield_d_3|Saracen Round Shield{***}
-itm_arab_shield_d_3_pl|Saracen Round Shield{***}
-itm_arab_shield_d_4|Saracen Heavy Round Shield{***}
-itm_arab_shield_d_4_pl|Saracen Heavy Round Shield{***}
-itm_arab_shield_e_1|Old Saracen Round Shield{***}
-itm_arab_shield_e_1_pl|Old Saracen Round Shield{***}
-itm_arab_shield_e_2|Plain Saracen Round Shield{***}
-itm_arab_shield_e_2_pl|Plain Saracen Round Shield{***}
-itm_arab_shield_e_3|Saracen Round Shield{***}
-itm_arab_shield_e_3_pl|Saracen Round Shield{***}
-itm_arab_shield_e_4|Saracen Heavy Round Shield{***}
-itm_arab_shield_e_4_pl|Saracen Heavy Round Shield{***}
-itm_arab_shield_f_1|Old Saracen Round Shield{***}
-itm_arab_shield_f_1_pl|Old Saracen Round Shield{***}
-itm_arab_shield_f_2|Plain Saracen Round Shield{***}
-itm_arab_shield_f_2_pl|Plain Saracen Round Shield{***}
-itm_arab_shield_f_3|Saracen Round Shield{***}
-itm_arab_shield_f_3_pl|Saracen Round Shield{***}
-itm_arab_shield_f_4|Saracen Heavy Round Shield{***}
-itm_arab_shield_f_4_pl|Saracen Heavy Round Shield{***}
-itm_arab_shield_g_1|Old Saracen Round Shield{***}
-itm_arab_shield_g_1_pl|Old Saracen Round Shield{***}
-itm_arab_shield_g_2|Plain Saracen Round Shield{***}
-itm_arab_shield_g_2_pl|Plain Saracen Round Shield{***}
-itm_arab_shield_g_3|Saracen Round Shield{***}
-itm_arab_shield_g_3_pl|Saracen Round Shield{***}
-itm_arab_shield_g_4|Saracen Heavy Round Shield{***}
-itm_arab_shield_g_4_pl|Saracen Heavy Round Shield{***}
-itm_arab_shield_h_1|Old Saracen Round Shield{***}
-itm_arab_shield_h_1_pl|Old Saracen Round Shield{***}
-itm_arab_shield_h_2|Plain Saracen Round Shield{***}
-itm_arab_shield_h_2_pl|Plain Saracen Round Shield{***}
-itm_arab_shield_h_3|Saracen Round Shield{***}
-itm_arab_shield_h_3_pl|Saracen Round Shield{***}
-itm_arab_shield_h_4|Saracen Heavy Round Shield{***}
-itm_arab_shield_h_4_pl|Saracen Heavy Round Shield{***}
-itm_arab_shield_i_1|Old Saracen Round Shield{***}
-itm_arab_shield_i_1_pl|Old Saracen Round Shield{***}
-itm_arab_shield_i_2|Plain Saracen Round Shield{***}
-itm_arab_shield_i_2_pl|Plain Saracen Round Shield{***}
-itm_arab_shield_i_3|Saracen Round Shield{***}
-itm_arab_shield_i_3_pl|Saracen Round Shield{***}
-itm_arab_shield_i_4|Saracen Heavy Round Shield{***}
-itm_arab_shield_i_4_pl|Saracen Heavy Round Shield{***}
-itm_cuman_shield_a_1|Old Cuman Round Shield{***}
-itm_cuman_shield_a_1_pl|Old Cuman Round Shield{***}
-itm_cuman_shield_a_2|Plain Cuman Round Shield{***}
-itm_cuman_shield_a_2_pl|Plain Cuman Round Shield{***}
-itm_cuman_shield_a_3|Cuman Round Shield{***}
-itm_cuman_shield_a_3_pl|Cuman Round Shield{***}
-itm_cuman_shield_a_4|Cuman Heavy Round Shield{***}
-itm_cuman_shield_a_4_pl|Cuman Heavy Round Shield{***}
-itm_cuman_shield_b_1|Old Cuman Round Shield{***}
-itm_cuman_shield_b_1_pl|Old Cuman Round Shield{***}
-itm_cuman_shield_b_2|Plain Cuman Round Shield{***}
-itm_cuman_shield_b_2_pl|Plain Cuman Round Shield{***}
-itm_cuman_shield_b_3|Cuman Round Shield{***}
-itm_cuman_shield_b_3_pl|Cuman Round Shield{***}
-itm_cuman_shield_b_4|Cuman Heavy Round Shield{***}
-itm_cuman_shield_b_4_pl|Cuman Heavy Round Shield{***}
-itm_cuman_shield_c_1|Old Cuman Round Shield{***}
-itm_cuman_shield_c_1_pl|Old Cuman Round Shield{***}
-itm_cuman_shield_c_2|Plain Cuman Round Shield{***}
-itm_cuman_shield_c_2_pl|Plain Cuman Round Shield{***}
-itm_cuman_shield_c_3|Cuman Round Shield{***}
-itm_cuman_shield_c_3_pl|Cuman Round Shield{***}
-itm_cuman_shield_c_4|Cuman Heavy Round Shield{***}
-itm_cuman_shield_c_4_pl|Cuman Heavy Round Shield{***}
-itm_talak_buckler|Buckler{***}
-itm_talak_buckler_pl|Buckler{***}
+itm_lit_pavise_a_1|老 式 立 陶 宛 盾 
+itm_lit_pavise_a_1_pl|老 式 立 陶 宛 盾 
+itm_lit_pavise_b_1|老 式 立 陶 宛 盾 
+itm_lit_pavise_b_1_pl|旧 立 陶 宛 盾 
+itm_lit_pavise_c_1|老 式 立 陶 宛 盾 
+itm_lit_pavise_c_1_pl|老 式 立 陶 宛 盾 
+itm_lit_pavise_d_1|老 式 立 陶 宛 盾 
+itm_lit_pavise_d_1_pl|老 式 立 陶 宛 盾 
+itm_lit_pavise_e_1|老 式 立 陶 宛 盾 
+itm_lit_pavise_e_1_pl|老 式 立 陶 宛 盾 
+itm_lit_pavise_f_1|老 式 立 陶 宛 盾 
+itm_lit_pavise_f_1_pl|老 式 立 陶 宛 盾 
+itm_lit_pavise_g_1|老 式 立 陶 宛 盾 
+itm_lit_pavise_g_1_pl|老 式 立 陶 宛 盾 
+itm_lit_pavise_h_1|老 式 立 陶 宛 盾 
+itm_lit_pavise_h_1_pl|老 式 立 陶 宛 盾 
+itm_lit_pavise_a_2|简 易 立 陶 宛 盾 
+itm_lit_pavise_a_2_pl|简 易 立 陶 宛 盾 
+itm_lit_pavise_b_2|简 易 立 陶 宛 盾 
+itm_lit_pavise_b_2_pl|简 易 立 陶 宛 盾 
+itm_lit_pavise_c_2|简 易 立 陶 宛 盾 
+itm_lit_pavise_c_2_pl|简 易 立 陶 宛 盾 
+itm_lit_pavise_d_2|简 易 立 陶 宛 盾 
+itm_lit_pavise_d_2_pl|简 易 立 陶 宛 盾 
+itm_lit_pavise_e_2|简 易 立 陶 宛 盾 
+itm_lit_pavise_e_2_pl|简 易 立 陶 宛 盾 
+itm_lit_pavise_f_2|简 易 立 陶 宛 盾 
+itm_lit_pavise_f_2_pl|简 易 立 陶 宛 盾 
+itm_lit_pavise_g_2|简 易 立 陶 宛 盾 
+itm_lit_pavise_g_2_pl|简 易 立 陶 宛 盾 
+itm_lit_pavise_h_2|简 易 立 陶 宛 盾 
+itm_lit_pavise_h_2_pl|简 易 立 陶 宛 盾 
+itm_lit_pavise_a_3|立 陶 宛 盾 
+itm_lit_pavise_a_3_pl|立 陶 宛 盾 
+itm_lit_pavise_b_3|立 陶 宛 盾 
+itm_lit_pavise_b_3_pl|立 陶 宛 盾 
+itm_lit_pavise_c_3|立 陶 宛 盾 
+itm_lit_pavise_c_3_pl|立 陶 宛 盾 
+itm_lit_pavise_d_3|立 陶 宛 盾 
+itm_lit_pavise_d_3_pl|立 陶 宛 盾 
+itm_lit_pavise_e_3|立 陶 宛 盾 
+itm_lit_pavise_e_3_pl|立 陶 宛 盾 
+itm_lit_pavise_f_3|立 陶 宛 盾 
+itm_lit_pavise_f_3_pl|立 陶 宛 盾 
+itm_lit_pavise_g_3|立 陶 宛 盾 
+itm_lit_pavise_g_3_pl|立 陶 宛 盾 
+itm_lit_pavise_h_3|立 陶 宛 盾 
+itm_lit_pavise_h_3_pl|立 陶 宛 盾 
+itm_lit_pavise_a_4|重 型 立 陶 宛 盾 
+itm_lit_pavise_a_4_pl|重 型 立 陶 宛 盾 
+itm_lit_pavise_b_4|重 型 立 陶 宛 盾 
+itm_lit_pavise_b_4_pl|重 型 立 陶 宛 盾 
+itm_lit_pavise_c_4|重 型 立 陶 宛 盾 
+itm_lit_pavise_c_4_pl|重 型 立 陶 宛 盾 
+itm_lit_pavise_d_4|重 型 立 陶 宛 盾 
+itm_lit_pavise_d_4_pl|重 型 立 陶 宛 盾 
+itm_lit_pavise_e_4|重 型 立 陶 宛 盾 
+itm_lit_pavise_e_4_pl|重 型 立 陶 宛 盾 
+itm_lit_pavise_f_4|重 型 立 陶 宛 盾 
+itm_lit_pavise_f_4_pl|重 型 立 陶 宛 盾 
+itm_lit_pavise_g_4|重 型 立 陶 宛 盾 
+itm_lit_pavise_g_4_pl|重 型 立 陶 宛 盾 
+itm_lit_pavise_h_4|重 型 立 陶 宛 盾 
+itm_lit_pavise_h_4_pl|重 型 立 陶 宛 盾 
+itm_byz_shield|重 型 拜 占 庭 筝 形 盾 
+itm_byz_shield_pl|重 型 拜 占 庭 筝 形 盾 
+itm_arab_shield_a_1|老 式 萨 拉 逊 圆 盾 
+itm_arab_shield_a_1_pl|老 式 萨 拉 逊 圆 盾 
+itm_arab_shield_a_2|简 易 萨 拉 逊 圆 盾 
+itm_arab_shield_a_2_pl|简 易 萨 拉 逊 圆 盾 
+itm_arab_shield_a_3|萨 拉 逊 圆 盾 
+itm_arab_shield_a_3_pl|萨 拉 逊 圆 盾 
+itm_arab_shield_a_4|萨 拉 逊 重 圆 盾 
+itm_arab_shield_a_4_pl|萨 拉 逊 重 圆 盾 
+itm_arab_shield_b_1|老 式 萨 拉 逊 圆 盾 
+itm_arab_shield_b_1_pl|老 式 萨 拉 逊 圆 盾 
+itm_arab_shield_b_2|简 易 萨 拉 逊 圆 盾 
+itm_arab_shield_b_2_pl|简 易 萨 拉 逊 圆 盾 
+itm_arab_shield_b_3|萨 拉 逊 圆 盾 
+itm_arab_shield_b_3_pl|萨 拉 逊 圆 盾 
+itm_arab_shield_b_4|萨 拉 逊 重 圆 盾 
+itm_arab_shield_b_4_pl|萨 拉 逊 重 圆 盾 
+itm_arab_shield_c_1|老 式 萨 拉 逊 圆 盾 
+itm_arab_shield_c_1_pl|老 式 萨 拉 逊 圆 盾 
+itm_arab_shield_c_2|简 易 萨 拉 逊 圆 盾 
+itm_arab_shield_c_2_pl|简 易 萨 拉 逊 圆 盾 
+itm_arab_shield_c_3|萨 拉 逊 圆 盾 
+itm_arab_shield_c_3_pl|萨 拉 逊 圆 盾 
+itm_arab_shield_c_4|萨 拉 逊 重 圆 盾 
+itm_arab_shield_c_4_pl|萨 拉 逊 重 圆 盾 
+itm_arab_shield_d_1|老 式 萨 拉 逊 圆 盾 
+itm_arab_shield_d_1_pl|老 式 萨 拉 逊 圆 盾 
+itm_arab_shield_d_2|简 易 萨 拉 逊 圆 盾 
+itm_arab_shield_d_2_pl|简 易 萨 拉 逊 圆 盾 
+itm_arab_shield_d_3|萨 拉 逊 圆 盾 
+itm_arab_shield_d_3_pl|萨 拉 逊 圆 盾 
+itm_arab_shield_d_4|萨 拉 逊 重 圆 盾 
+itm_arab_shield_d_4_pl|萨 拉 逊 重 圆 盾 
+itm_arab_shield_e_1|老 式 萨 拉 逊 圆 盾 
+itm_arab_shield_e_1_pl|老 式 萨 拉 逊 圆 盾 
+itm_arab_shield_e_2|简 易 萨 拉 逊 圆 盾 
+itm_arab_shield_e_2_pl|简 易 萨 拉 逊 圆 盾 
+itm_arab_shield_e_3|萨 拉 逊 圆 盾 
+itm_arab_shield_e_3_pl|萨 拉 逊 圆 盾 
+itm_arab_shield_e_4|萨 拉 逊 重 圆 盾 
+itm_arab_shield_e_4_pl|萨 拉 逊 重 圆 盾 
+itm_arab_shield_f_1|老 式 萨 拉 逊 圆 盾 
+itm_arab_shield_f_1_pl|老 式 萨 拉 逊 圆 盾 
+itm_arab_shield_f_2|简 易 萨 拉 逊 圆 盾 
+itm_arab_shield_f_2_pl|简 易 萨 拉 逊 圆 盾 
+itm_arab_shield_f_3|萨 拉 逊 圆 盾 
+itm_arab_shield_f_3_pl|萨 拉 逊 圆 盾 
+itm_arab_shield_f_4|萨 拉 逊 重 圆 盾 
+itm_arab_shield_f_4_pl|萨 拉 逊 重 圆 盾 
+itm_arab_shield_g_1|老 式 萨 拉 逊 圆 盾 
+itm_arab_shield_g_1_pl|老 式 萨 拉 逊 圆 盾 
+itm_arab_shield_g_2|简 易 萨 拉 逊 圆 盾 
+itm_arab_shield_g_2_pl|简 易 萨 拉 逊 圆 盾 
+itm_arab_shield_g_3|萨 拉 逊 圆 盾 
+itm_arab_shield_g_3_pl|萨 拉 逊 圆 盾 
+itm_arab_shield_g_4|萨 拉 逊 重 圆 盾 
+itm_arab_shield_g_4_pl|萨 拉 逊 重 圆 盾 
+itm_arab_shield_h_1|老 式 萨 拉 逊 圆 盾 
+itm_arab_shield_h_1_pl|老 式 萨 拉 逊 圆 盾 
+itm_arab_shield_h_2|简 易 萨 拉 逊 圆 盾 
+itm_arab_shield_h_2_pl|简 易 萨 拉 逊 圆 盾 
+itm_arab_shield_h_3|萨 拉 逊 圆 盾 
+itm_arab_shield_h_3_pl|萨 拉 逊 圆 盾 
+itm_arab_shield_h_4|萨 拉 逊 重 圆 盾 
+itm_arab_shield_h_4_pl|萨 拉 逊 重 圆 盾 
+itm_arab_shield_i_1|老 式 萨 拉 逊 圆 盾 
+itm_arab_shield_i_1_pl|老 式 萨 拉 逊 圆 盾 
+itm_arab_shield_i_2|简 易 萨 拉 逊 圆 盾 
+itm_arab_shield_i_2_pl|简 易 萨 拉 逊 圆 盾 
+itm_arab_shield_i_3|萨 拉 逊 圆 盾 
+itm_arab_shield_i_3_pl|萨 拉 逊 圆 盾 
+itm_arab_shield_i_4|萨 拉 逊 重 圆 盾 
+itm_arab_shield_i_4_pl|萨 拉 逊 重 圆 盾 
+itm_cuman_shield_a_1|老 式 库 曼 圆 盾 
+itm_cuman_shield_a_1_pl|老 式 库 曼 圆 盾 
+itm_cuman_shield_a_2|简 易 库 曼 圆 盾 
+itm_cuman_shield_a_2_pl|简 易 库 曼 圆 盾 
+itm_cuman_shield_a_3|库 曼 圆 盾 
+itm_cuman_shield_a_3_pl|库 曼 圆 盾 
+itm_cuman_shield_a_4|库 曼 重 圆 盾 
+itm_cuman_shield_a_4_pl|库 曼 重 圆 盾 
+itm_cuman_shield_b_1|老 式 库 曼 圆 盾 
+itm_cuman_shield_b_1_pl|老 式 库 曼 圆 盾 
+itm_cuman_shield_b_2|简 易 库 曼 圆 盾 
+itm_cuman_shield_b_2_pl|简 易 库 曼 圆 盾 
+itm_cuman_shield_b_3|库 曼 圆 盾 
+itm_cuman_shield_b_3_pl|库 曼 圆 盾 
+itm_cuman_shield_b_4|库 曼 重 圆 盾 
+itm_cuman_shield_b_4_pl|库 曼 重 圆 盾 
+itm_cuman_shield_c_1|老 式 库 曼 圆 盾 
+itm_cuman_shield_c_1_pl|老 式 库 曼 圆 盾 
+itm_cuman_shield_c_2|简 易 库 曼 圆 盾 
+itm_cuman_shield_c_2_pl|简 易 库 曼 圆 盾 
+itm_cuman_shield_c_3|库 曼 圆 盾 
+itm_cuman_shield_c_3_pl|库 曼 圆 盾 
+itm_cuman_shield_c_4|库 曼 重 圆 盾 
+itm_cuman_shield_c_4_pl|库 曼 重 圆 盾 
+itm_talak_buckler|小 圆 盾 
+itm_talak_buckler_pl|小 圆 盾 
 itm_jarid|短 标 枪 
 itm_jarid_pl|短 标 枪 
 itm_darts|梭 镖 
@@ -1872,12 +1872,12 @@ itm_war_darts|战 镖
 itm_war_darts_pl|战 镖 
 itm_javelin|标 枪 
 itm_javelin_pl|标 枪 
-itm_balt_javelin|Balt Javelins{***}
-itm_balt_javelin_pl|Balt Javelins{***}
+itm_balt_javelin|波 罗 标 枪 
+itm_balt_javelin_pl|波 罗 标 枪 
 itm_throwing_spears|投 矛 
 itm_throwing_spears_pl|投 矛 
-itm_balt_throwing_spears|Throwing Spears{***}
-itm_balt_throwing_spears_pl|Throwing Spears{***}
+itm_balt_throwing_spears|投 矛 
+itm_balt_throwing_spears_pl|投 矛 
 itm_stones|石 子 
 itm_stones_pl|石 子 
 itm_throwing_knives|飞 刀 
@@ -1886,16 +1886,16 @@ itm_throwing_daggers|飞 刀
 itm_throwing_daggers_pl|飞 刀 
 itm_hunting_bow|猎 弓 
 itm_hunting_bow_pl|猎 弓 
-itm_short_bow|短 弓 
-itm_short_bow_pl|短 弓 
-itm_nomad_bow|游 牧 弓 
-itm_nomad_bow_pl|游 牧 弓 
+itm_short_bow|单 体 弓 
+itm_short_bow_pl|单 体 弓 
+itm_nomad_bow|匈 弓 
+itm_nomad_bow_pl|匈 弓 
 itm_long_bow|长 弓 
 itm_long_bow_pl|长 弓 
-itm_khergit_bow|库 吉 特 弓 
-itm_khergit_bow_pl|库 吉 特 弓 
-itm_strong_bow|硬 弓 
-itm_strong_bow_pl|硬 弓 
+itm_khergit_bow|蒙 古 弓 
+itm_khergit_bow_pl|蒙 古 弓 
+itm_strong_bow|复 合 弓 
+itm_strong_bow_pl|复 合 弓 
 itm_hunting_crossbow|猎 弩 
 itm_hunting_crossbow_pl|猎 弩 
 itm_light_crossbow|轻 弩 
@@ -1912,14 +1912,14 @@ itm_lyre|里 拉 琴
 itm_lyre_pl|里 拉 琴 
 itm_lute|鲁 特 琴 
 itm_lute_pl|鲁 特 琴 
-itm_khergit_war_helmet|库 吉 特 战 盔 
-itm_khergit_war_helmet_pl|库 吉 特 战 盔 
-itm_khergit_guard_boots|库 吉 特 护 靴 
-itm_khergit_guard_boots_pl|库 吉 特 护 靴 
-itm_khergit_guard_helmet|库 吉 特 护 盔 
-itm_khergit_guard_helmet_pl|库 吉 特 护 盔 
-itm_khergit_cavalry_helmet|库 吉 特 骑 盔 
-itm_khergit_cavalry_helmet_pl|库 吉 特 骑 盔 
+itm_khergit_war_helmet|蒙 古 战 盔 
+itm_khergit_war_helmet_pl|蒙 古 战 盔 
+itm_khergit_guard_boots|蒙 古 护 靴 
+itm_khergit_guard_boots_pl|蒙 古 护 靴 
+itm_khergit_guard_helmet|蒙 古 护 盔 
+itm_khergit_guard_helmet_pl|蒙 古 护 盔 
+itm_khergit_cavalry_helmet|蒙 古 骑 盔 
+itm_khergit_cavalry_helmet_pl|蒙 古 骑 盔 
 itm_tunic_with_green_cape|绿 色 带 披 风 短 袍 
 itm_tunic_with_green_cape_pl|绿 色 带 披 风 短 袍 
 itm_keys|钥 匙 串 
@@ -1936,56 +1936,56 @@ itm_practice_arrows_2|练 习 箭
 itm_practice_arrows_2_pl|练 习 箭 
 itm_mail_boots_for_tableau|链 甲 靴 
 itm_mail_boots_for_tableau_pl|链 甲 靴 
-itm_heraldic_lance|Heraldic Lance{***}
-itm_heraldic_lance_pl|Heraldic Lance{***}
+itm_heraldic_lance|纹 章 骑 枪 
+itm_heraldic_lance_pl|纹 章 骑 枪 
 itm_almogavar_sword|Almogavar Cleaver{***}
 itm_almogavar_sword_pl|Almogavar Cleaver{***}
 itm_welsh_archer|Welsh Bowman Tunic{***}
 itm_welsh_archer_pl|Welsh Bowman Tunic{***}
-itm_armenian_knight_a|Armenian Knight Mail{***}
-itm_armenian_knight_a_pl|Armenian Knight Mail{***}
-itm_armenian_knight_b|Armenian Knight Mail{***}
-itm_armenian_knight_b_pl|Armenian Knight Mail{***}
-itm_armenian_knight_c|Armenian Knight Mail{***}
-itm_armenian_knight_c_pl|Armenian Knight Mail{***}
+itm_armenian_knight_a|亚 美 尼 亚 骑 士 链 甲 
+itm_armenian_knight_a_pl|亚 美 尼 亚 骑 士 链 甲 
+itm_armenian_knight_b|亚 美 尼 亚 骑 士 链 甲 
+itm_armenian_knight_b_pl|亚 美 尼 亚 骑 士 链 甲 
+itm_armenian_knight_c|亚 美 尼 亚 骑 士 链 甲 
+itm_armenian_knight_c_pl|亚 美 尼 亚 骑 士 链 甲 
 itm_archer_a|Tunic with Hood{***}
 itm_archer_a_pl|Tunic with Hood{***}
 itm_archer_b|Tunic with Hood{***}
 itm_archer_b_pl|Tunic with Hood{***}
 itm_archer_c|Tunic with Hood{***}
 itm_archer_c_pl|Tunic with Hood{***}
-itm_surcoat_a|Gambeson{***}
-itm_surcoat_a_pl|Gambeson{***}
-itm_surcoat_b|Gambeson{***}
-itm_surcoat_b_pl|Gambeson{***}
-itm_surcoat_c|Gambeson{***}
-itm_surcoat_c_pl|Gambeson{***}
-itm_surcoat_d|Gambeson{***}
-itm_surcoat_d_pl|Gambeson{***}
-itm_surcoat_e|Gambeson{***}
-itm_surcoat_e_pl|Gambeson{***}
-itm_surcoat_f|Mail{***}
-itm_surcoat_f_pl|Mail{***}
-itm_surcoat_g|Mail{***}
-itm_surcoat_g_pl|Mail{***}
+itm_surcoat_a|软 铠 甲 
+itm_surcoat_a_pl|软 铠 甲 
+itm_surcoat_b|软 铠 甲 
+itm_surcoat_b_pl|软 铠 甲 
+itm_surcoat_c|软 铠 甲 
+itm_surcoat_c_pl|软 铠 甲 
+itm_surcoat_d|软 铠 甲 
+itm_surcoat_d_pl|软 铠 甲 
+itm_surcoat_e|软 铠 甲 
+itm_surcoat_e_pl|软 铠 甲 
+itm_surcoat_f|链 甲 
+itm_surcoat_f_pl|链 甲 
+itm_surcoat_g|链 甲 
+itm_surcoat_g_pl|链 甲 
 itm_teu_hbrother_a|Halbbrudder Surcoat over Mail{***}
 itm_teu_hbrother_a_pl|Halbbrudder Surcoat over Mail{***}
 itm_teu_hbrother_b|Halbbrudder Surcoat over Mail{***}
 itm_teu_hbrother_b_pl|Halbbrudder Surcoat over Mail{***}
 itm_flat_kettle_hat|Flattop Kettle Hat{***}
 itm_flat_kettle_hat_pl|Flattop Kettle Hat{***}
-itm_seljuk_horse|Seljuk Horse{***}
-itm_seljuk_horse_pl|Seljuk Horse{***}
-itm_seljuk_armour|Seljuk Armour{***}
-itm_seljuk_armour_pl|Seljuk Armour{***}
-itm_seljuk_lamellar_a|Seljuk Lamellar Vest{***}
-itm_seljuk_lamellar_a_pl|Seljuk Lamellar Vest{***}
-itm_seljuk_lamellar_b|Seljuk Lamellar Vest{***}
-itm_seljuk_lamellar_b_pl|Seljuk Lamellar Vest{***}
-itm_andalus_helmet_a|Andalusian Helm{***}
-itm_andalus_helmet_a_pl|Andalusian Helm{***}
-itm_andalus_infantry_helmet|Andalusian Helm{***}
-itm_andalus_infantry_helmet_pl|Andalusian Helm{***}
+itm_seljuk_horse|塞 尔 柱 马 
+itm_seljuk_horse_pl|塞 尔 柱 马 
+itm_seljuk_armour|塞 尔 柱 甲 
+itm_seljuk_armour_pl|塞 尔 柱 甲 
+itm_seljuk_lamellar_a|塞 尔 柱 片 甲 背 心 
+itm_seljuk_lamellar_a_pl|塞 尔 柱 片 甲 背 心 
+itm_seljuk_lamellar_b|塞 尔 柱 片 甲 背 心 
+itm_seljuk_lamellar_b_pl|塞 尔 柱 片 甲 背 心 
+itm_andalus_helmet_a|安 达 卢 西 亚 盔 
+itm_andalus_helmet_a_pl|安 达 卢 西 亚 盔 
+itm_andalus_infantry_helmet|安 达 卢 西 亚 盔 
+itm_andalus_infantry_helmet_pl|安 达 卢 西 亚 盔 
 itm_andalusian_knight|Andalusian Surcoat over Mail{***}
 itm_andalusian_knight_pl|Andalusian Surcoat over Mail{***}
 itm_gaelic_mail_shirt_a|Gaelic Mail Shirt{***}
@@ -2004,10 +2004,10 @@ itm_genoa_padded_b|Padded Armour{***}
 itm_genoa_padded_b_pl|Padded Armour{***}
 itm_genoa_padded_c|Padded Armour{***}
 itm_genoa_padded_c_pl|Padded Armour{***}
-itm_genoa_mail_b|Genoese Mail{***}
-itm_genoa_mail_b_pl|Genoese Mail{***}
-itm_genoa_mail_c|Genoese Mail{***}
-itm_genoa_mail_c_pl|Genoese Mail{***}
+itm_genoa_mail_b|热 那 亚 链 甲 
+itm_genoa_mail_b_pl|热 那 亚 链 甲 
+itm_genoa_mail_c|热 那 亚 链 甲 
+itm_genoa_mail_c_pl|热 那 亚 链 甲 
 itm_andalusian_shield_1|Old Andalusian Shield{***}
 itm_andalusian_shield_1_pl|Old Andalusian Shield{***}
 itm_andalusian_shield_2|Plain Andalusian Shield{***}
@@ -2020,8 +2020,8 @@ itm_andalusian_helmet_a|Andalusian Helmet{***}
 itm_andalusian_helmet_a_pl|Andalusian Helmet{***}
 itm_andalusian_helmet_b|Andalusian Helmet{***}
 itm_andalusian_helmet_b_pl|Andalusian Helmet{***}
-itm_muslim_lance|Heavy Lance{***}
-itm_muslim_lance_pl|Heavy Lance{***}
+itm_muslim_lance|重 型 骑 枪 
+itm_muslim_lance_pl|重 型 骑 枪 
 itm_noble_cloak|Nobleman Outfit{***}
 itm_noble_cloak_pl|Nobleman Outfit{***}
 itm_meghrebi_leather_a|Mehgrebi Leather Armour{***}
@@ -2100,8 +2100,8 @@ itm_galloglass_mail|Gallóglach Mail Armour{***}
 itm_galloglass_mail_pl|Gallóglach Mail Armour{***}
 itm_galloglass_padded|Gallóglach Padded Armour{***}
 itm_galloglass_padded_pl|Gallóglach Padded Armour{***}
-itm_baltic_sword|Baltic Sword{***}
-itm_baltic_sword_pl|Baltic Sword{***}
+itm_baltic_sword|波 罗 的 剑 
+itm_baltic_sword_pl|波 罗 的 剑 
 itm_man_at_arms_a|Cloth over Mail{***}
 itm_man_at_arms_a_pl|Cloth over Mail{***}
 itm_man_at_arms_b|Cloth over Mail{***}
@@ -2134,24 +2134,24 @@ itm_rus_padded|Eastern Padded Mail{***}
 itm_rus_padded_pl|Eastern Padded Mail{***}
 itm_baltic_sword_b|Baltic Sword (Brador){***}
 itm_baltic_sword_b_pl|Baltic Sword (Brador){***}
-itm_mongol_helmet_a|Mongol Helmet{***}
-itm_mongol_helmet_a_pl|Mongol Helmet{***}
-itm_mongol_helmet_b|Mongol Helmet{***}
-itm_mongol_helmet_b_pl|Mongol Helmet{***}
-itm_mongol_helmet_c|Mongol Helmet{***}
-itm_mongol_helmet_c_pl|Mongol Helmet{***}
-itm_steppe_helmet|Steppe Helmet{***}
-itm_steppe_helmet_pl|Steppe Helmet{***}
-itm_priest_cap_1|Cap{***}
-itm_priest_cap_1_pl|Cap{***}
-itm_priest_cap_2|Cap{***}
-itm_priest_cap_2_pl|Cap{***}
-itm_priest_robe_1|Priest Robe{***}
-itm_priest_robe_1_pl|Priest Robe{***}
-itm_priest_robe_2|Priest Robe{***}
-itm_priest_robe_2_pl|Priest Robe{***}
-itm_priest_robe_3|Priest Robe{***}
-itm_priest_robe_3_pl|Priest Robe{***}
+itm_mongol_helmet_a|蒙 古 盔 
+itm_mongol_helmet_a_pl|蒙 古 盔 
+itm_mongol_helmet_b|蒙 古 盔 
+itm_mongol_helmet_b_pl|蒙 古 盔 
+itm_mongol_helmet_c|蒙 古 盔 
+itm_mongol_helmet_c_pl|蒙 古 盔 
+itm_steppe_helmet|草 原 盔 
+itm_steppe_helmet_pl|草 原 盔 
+itm_priest_cap_1|帽 
+itm_priest_cap_1_pl|帽 
+itm_priest_cap_2|帽 
+itm_priest_cap_2_pl|帽 
+itm_priest_robe_1|神 父 袍 
+itm_priest_robe_1_pl|神 父 袍 
+itm_priest_robe_2|神 父 袍 
+itm_priest_robe_2_pl|神 父 袍 
+itm_priest_robe_3|神 父 袍 
+itm_priest_robe_3_pl|神 父 袍 
 itm_surgeon|Surgeon Outfit{***}
 itm_surgeon_pl|Surgeon Outfit{***}
 itm_priest_1_boots|Sandals{***}
@@ -2206,79 +2206,4 @@ itm_rus_shield_b_1|Almond Shield{***}
 itm_rus_shield_b_1_pl|Almond Shield{***}
 itm_rus_shield_c_1|Almond Shield{***}
 itm_rus_shield_c_1_pl|Almond Shield{***}
-itm_rus_shield_d_1|Almond Shield{***}
-itm_rus_shield_d_1_pl|Almond Shield{***}
-itm_cuman_noble_helmet|Cuman Noble Helmet{***}
-itm_cuman_noble_helmet_pl|Cuman Noble Helmet{***}
-itm_ghulam_helmet|Ghulam Helmet{***}
-itm_ghulam_helmet_pl|Ghulam Helmet{***}
-itm_ilkhanate_mongol_helmet|Mongol Helmet{***}
-itm_ilkhanate_mongol_helmet_pl|Mongol Helmet{***}
-itm_polski_helm|Polish Helmet{***}
-itm_polski_helm_pl|Polish Helmet{***}
-itm_mamluke_helm_b|Mamluke Helmet{***}
-itm_mamluke_helm_b_pl|Mamluke Helmet{***}
-itm_mongol_helmet_d|Mongol Leather Helmet{***}
-itm_mongol_helmet_d_pl|Mongol Leather Helmet{***}
-itm_rus_byzantinenoble_kettle|Byzantine Kettle Helm{***}
-itm_rus_byzantinenoble_kettle_pl|Byzantine Kettle Helm{***}
-itm_rus_helmet_a|钢 盔 
-itm_rus_helmet_a_pl|钢 盔 
-itm_rus_infantry_helmet|Eastern Infantry Helmet{***}
-itm_rus_infantry_helmet_pl|Eastern Infantry Helmet{***}
-itm_rus_militia_helmet|Eastern Militia Helmet{***}
-itm_rus_militia_helmet_pl|Eastern Militia Helmet{***}
-itm_rus_noble_helmet|Eastern Noble Helmet{***}
-itm_rus_noble_helmet_pl|Eastern Noble Helmet{***}
-itm_seljuk_archer_cap|Seljuk Cap{***}
-itm_seljuk_archer_cap_pl|Seljuk Cap{***}
-itm_ilkhanate_cap|Mongol Cap{***}
-itm_ilkhanate_cap_pl|Mongol Cap{***}
-itm_cuman_cap_d|Cuman Hat{***}
-itm_cuman_cap_d_pl|Cuman Hat{***}
-itm_anatolian_horseman_lamellar|Anatolian Lamellar Armor{***}
-itm_anatolian_horseman_lamellar_pl|Anatolian Lamellar Armor{***}
-itm_anatolian_leather_lamellar|Anatolian Leather Lamellar Armor{***}
-itm_anatolian_leather_lamellar_pl|Anatolian Leather Lamellar Armor{***}
-itm_anatolian_mail|Anatolian Mail Shirt{***}
-itm_anatolian_mail_pl|Anatolian Mail Shirt{***}
-itm_arab_headcloth|Headcloth{***}
-itm_arab_headcloth_pl|Headcloth{***}
-itm_seljuk_tunic|Seljuk Tunic{***}
-itm_seljuk_tunic_pl|Seljuk Tunic{***}
-itm_seljuk_tunic_b|Seljuk Tunic{***}
-itm_seljuk_tunic_b_pl|Seljuk Tunic{***}
-itm_seljuk_tunic_c|Seljuk Tunic{***}
-itm_seljuk_tunic_c_pl|Seljuk Tunic{***}
-itm_rus_noble_mail|Rus Nobleman Mail{***}
-itm_rus_noble_mail_pl|Rus Nobleman Mail{***}
-itm_rus_mask_helmet|Rus Mask Helmet{***}
-itm_rus_mask_helmet_pl|Rus Mask Helmet{***}
-itm_mamluk_lamellar|Mamluk Lamellar Armour{***}
-itm_mamluk_lamellar_pl|Mamluk Lamellar Armour{***}
-itm_rus_leather_scale|Rus Scale Armour{***}
-itm_rus_leather_scale_pl|Rus Scale Armour{***}
-itm_rus_leather_scale_b|Rus Scale Armour{***}
-itm_rus_leather_scale_b_pl|Rus Scale Armour{***}
-itm_rohatyna|Rohatyna{***}
-itm_rohatyna_pl|Rohatyna{***}
-itm_flat_topped_helmet_a|Flat Topped Helmet{***}
-itm_flat_topped_helmet_a_pl|Flat Topped Helmet{***}
-itm_flat_topped_helmet_b|Flat Topped Helmet{***}
-itm_flat_topped_helmet_b_pl|Flat Topped Helmet{***}
-itm_great_helmet_a|Great Helm{***}
-itm_great_helmet_a_pl|Great Helm{***}
-itm_great_helmet_b|Great Helm{***}
-itm_great_helmet_b_pl|Great Helm{***}
-itm_great_helmet_c|Great Helm{***}
-itm_great_helmet_c_pl|Great Helm{***}
-itm_great_helmet_d|Great Helm{***}
-itm_great_helmet_d_pl|Great Helm{***}
-itm_great_helmet_decorative|Great Helm{***}
-itm_great_helmet_decorative_pl|Great Helm{***}
-itm_bill|Bill{***}
-itm_bill_pl|Bill{***}
-itm_almogavar_helmet|Almoghavar Helmet{***}
-itm_almogavar_helmet_pl|Almoghavar Helmet{***}
-itm_items_end|Items End 
-itm_items_end_pl|Items End 
+itm_rus_shiel
