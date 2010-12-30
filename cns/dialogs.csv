@@ -519,11 +519,11 @@ dlga_dplmc_constable_recruit_amount_select:dplmc_constable_recruit_confirm_ask.4
 dlga_dplmc_constable_recruit_amount_select:dplmc_constable_recruit_confirm_ask.5|50。 
 dlga_dplmc_constable_recruit_confirm_ask:dplmc_constable_recruit_confirm|您 确 定 要 招 募 来 自 {s12} 的 {s6} 名 {s11} 么？ 
 dlga_dplmc_constable_recruit_confirm:dplmc_constable_pretalk|是 的， 我 确 定。 
-dlga_dplmc_constable_recruit_confirm:dplmc_constable_pretalk.1|算 了。 
-dlga_dplmc_constable_recruit_amount_select:dplmc_constable_pretalk|None.{***}
-dlga_dplmc_constable_recruits_and_training:dplmc_constable_pretalk|I changed my mind.{***}
-dlga_dplmc_constable_talk:dplmc_constable_dismiss_confirm_ask|你 被 解 雇 了。 {***}
-dlga_dplmc_constable_dismiss_confirm_ask:dplmc_constable_dismiss_confirm|你 确 定 不 再 需 要 我 了 么？ {***}
+dlga_dplmc_constable_recruit_confirm:dplmc_constable_pretalk.1|不 了。 
+dlga_dplmc_constable_recruit_amount_select:dplmc_constable_pretalk|算 了。 
+dlga_dplmc_constable_recruits_and_training:dplmc_constable_pretalk|我 改 变 主 意 了。 
+dlga_dplmc_constable_talk:dplmc_constable_dismiss_confirm_ask|你 被 解 雇 了。 
+dlga_dplmc_constable_dismiss_confirm_ask:dplmc_constable_dismiss_confirm|你 确 定 不 再 需 要 我 了 么？ 
 dlga_dplmc_constable_dismiss_confirm:dplmc_constable_dismiss_confirm_yes|是 的， 我 确 定。 
 dlga_dplmc_constable_dismiss_confirm_yes:close_window|如 你 所 愿。 
 dlga_dplmc_constable_dismiss_confirm:dplmc_constable_pretalk|不， 我 依 旧 需 要 你。 
@@ -616,7 +616,7 @@ dlga_minister_talk:dplmc_minister_staff_talk_ask|我 希 望 雇 佣 一 个 新
 dlga_dplmc_minister_staff_talk_ask:dplmc_talk_staff|您 希 望 雇 佣 哪 方 面 的 大 臣？ 
 dlga_lord_talk:rafi_lord_go_crusading|{s66}， 我 希 望 前 往 圣 地 和 我 的 兄 弟 们 一 起 为 上 帝 而 战， 我 能 离 开 您 一 段 时 间 么？ 
 dlga_lord_talk:rafi_lord_return_crusading|{s66}， 我 从 圣 地 归 来 并 已 准 备 好 再 次 以 汝 之 名 作 战。 {***}回到你的名下作战
-dlga_rafi_lord_go_crusading:close_window|当 然 可 以， 圣 战 最 高， 发 扬 十 字 军 的 荣 光 并 且 安 全 的 回 来。 {***}大雾。。。
+dlga_rafi_lord_go_crusading:close_window|当 然 可 以， 圣 战 最 高， 发 扬 十 字 军 的 荣 光 并 且 安 全 的 回 来。 {***}超大雾。。。
 dlga_rafi_lord_return_crusading:close_window|欢 迎 回 来， 我 们 听 说 了 你 的 战 功， 你 令 我 们 骄 傲。 
 dlga_lord_talk:dplmc_lord_give_back_fief|{s66}， 我 希 望 放 弃 一 块 您 授 予 的 封 地。 
 dlga_dplmc_lord_give_back_fief:dplmc_lord_give_back_fief_select|哦， 你 确 定 你 无 法 管 理 了 么？ 你 希 望 我 收 回 哪 块 封 地？ 
@@ -760,7 +760,7 @@ dlga_minister_emissary_select:minister_emissary_dispatch|{s11}。
 dlga_minister_emissary_select:minister_pretalk|事 实 上， 我 不 认 为 有 人 能 胜 任。 
 dlga_minister_diplomatic_dispatch_confirm:minister_pretalk|去 安 排 吧。 
 dlga_minister_diplomatic_dispatch_confirm:minister_pretalk.1|先 放 一 放 再 说 吧。 
-dlga_minister_replace:minister_replace_select|Very good. Whom will you appoint in my stead? {***}
+dlga_minister_replace:minister_replace_select|很 好。 你 将 会 安 排 谁 来 顶 替 我 的 位 置？ 
 dlga_minister_replace_select:minister_replace_confirm|{s4}。 
 dlga_minister_replace_select:minister_replace_confirm.1|我 的 妻 子， {s4}。 
 dlga_minister_replace_select:minister_pretalk|先 放 一 放 再 说 吧。 
@@ -772,7 +772,7 @@ dlga_minister_grant_fief_select:minister_pretalk|算 了。
 dlga_minister_grant_fief_select_recipient:minister_grant_fief_select_recipient_choice|谁 将 受 封 这 块 领 土？ 
 dlga_minister_grant_fief_select_recipient_choice:minister_grant_fief_complete|{s1}。 
 dlga_minister_grant_fief_select_recipient_choice:minister_pretalk|算 了。 
-dlga_minister_grant_fief_complete:minister_pretalk|Very well - {s2} shall receive {s1}.{***}
+dlga_minister_grant_fief_complete:minister_pretalk|很 好， {s2} 将 会 受 封 {s1}。 
 dlga_minister_indict:minister_indict_select|真 是 个 令 人 不 愉 快 的 消 息， {陛 下/ 尊 敬 的 女 士}。 您 认 为 谁 正 在 谋 划 背 叛 呢？ 
 dlga_minister_indict_select:minister_indict_confirm|{s11}。 
 dlga_minister_indict_select:minister_pretalk|没 人。 
@@ -783,8 +783,8 @@ dlga_minister_indict_conclude:minister_pretalk|这 块 封 地 已 经 赏 赐 �
 dlga_center_captured_lord_advice:center_captured_lord_advice_2|{s11}。 {s1}。 
 dlga_center_captured_lord_advice:center_captured_lord_advice_2.1|{s12}，我 希 望 将 {s1} 留 给 我 自 己。 (封 地: {s0}) 
 dlga_center_captured_lord_advice:center_captured_lord_advice_2.2|{s66}，你 可 以 保 留 {s1}。 (封 地: {s0}) 
-dlga_center_captured_lord_advice_2:minister_issues|As you wish, {sire/my lady}. {reg6?I:{reg7?You:{s11}}} will be the new {reg3?lady:lord} of {s1}.{***}
-dlga_center_captured_lord_advice_2:close_window|Hmmm. All right, {playername}. I value your counsel highly. {reg6?I:{reg7?You:{s11}}} will be the new {reg3?lady:lord} of {s1}.{***}
+dlga_center_captured_lord_advice_2:minister_issues|如 你 所 愿， {陛 下/ 尊 敬 的 女 士}。 {reg6? 我 :{reg7? 你 :{s11}}} 将 成 为 {s1} 的 新 {reg3? 主 人 :主 人}。 
+dlga_center_captured_lord_advice_2:close_window|嗯， 好 吧， {playername}。 我 很 看 重 你 的 意 见。 {reg6? 我 :{reg7? 你 :{s11}}} 将 会 是 {s1} 的 新 {reg3? 主 人 :主 人}。 
 dlga_event_triggered:companion_quitting|打 扰 一 下， {s5}。 我 有 事 情 要 和 你 谈。 
 dlga_companion_quitting:companion_quitting_2|{s5}。 
 dlga_companion_quitting_2:companion_quitting_response|告 知 你 真 相， {s21}。 
@@ -829,14 +829,14 @@ dlga_rebel_thanks_answer:rebel_thanks_answer_2|很 荣 幸 能 为 了 您 的 �
 dlga_rebel_thanks_answer:rebel_thanks_answer_2.1|我 将 永 远 是 您 忠 诚 的 支 持 者， {reg65? 尊 敬 的 女 士: 先 生}。 
 dlga_rebel_thanks_answer_2:close_window|我 会 想 念 和 你 一 起 冒 险 的 时 光， 但 是 我 还 有 职 责 在 身。 所 以…… 再 会 了， {playername}。 我 希 望 我 能 尽 快 地 再 次 见 到 你。 
 dlga_event_triggered:companion_political_grievance_response|{s21}。 
-dlga_companion_political_grievance_response:close_window|Your opinion is noted.
+dlga_companion_political_grievance_response:close_window|你 的 意 见 我 记 下 了。 
 dlga_event_triggered:companion_rejoin_response.2|你 好，{s21}。 我 现 在 可 以 重 新 加 入 队 伍 么？ 
 dlga_event_triggered:companion_rejoin_response.3|终 于 找 到 您 了， {s21}大 人。我 已 经 在 世 界 的 各 个 角 落 散 播 您 的 所 有 权！ 现 在 ，我 现 在 可 以 重 新 加 入 队 伍 么？ {***}统治权
 dlga_event_triggered:companion_rejoin_response.4|终 于 找 到 您 了， {s21}大 人。 {s11}， 余 下 的 内 容 您 可 以 在 我 的 报 告 中 看 到。 
 dlga_event_triggered:companion_embassy_results|终 于 找 到 您 了， {s21}大 人。 我 刚 完 成 {s31} 的 任 务 归 来。 大 致 上， 我 要 说， {s14}。 
 dlga_companion_embassy_results:companion_rejoin_response|在 这 封 信 上， {s12}尊 称 您 为 {s4}的 {领 主/ 夫 人}， 这 是 默 认 你 作 为 一 个 主 权 独 立 的 君 主 所 存 在。 
 dlga_companion_embassy_results:companion_rejoin_response.1|在 这 封 信 上， {s12}只 是 称 呼 你 为 {playername}， 没 有 任 何 头 衔。 他 并 不 认 可 你 的 统 治 权。 
-dlga_companion_embassy_results:companion_rejoin_response.2|{s12} says that your current truce should suffice.{***}
+dlga_companion_embassy_results:companion_rejoin_response.2|{s12} 表 示 目 前 的 停 战 协 议 令 人 满 意。 
 dlga_companion_embassy_results:companion_rejoin_response.3|{s12} 说 他 不 愿 意 签 订 停 战 协 议。 
 dlga_companion_truce_confirm:companion_rejoin_response|非 常 好， 与 {s4} 签 订 停 战 协 议。 
 dlga_companion_truce_confirm:companion_rejoin_response.1|我 重 新 考 虑 了 下， 这 并 不 符 合 我 们 的 利 益， 我 们 拒 绝 签 订 停 战 协 议。 
@@ -849,7 +849,7 @@ dlga_companion_rejoin_response:companion_rejoin_refused|很 不 幸， 你 现 �
 dlga_companion_rejoin_refused:close_window|如 你 所 愿， 我 先 去 处 理 些 其 他 事 情， 过 一 段 时 间 我 再 来 试 试。 
 dlga_event_triggered:companion_rejoin_response.5|你 希 望 我 重 新 加 入 队 伍 么？ 
 dlga_event_triggered:close_window.2|那 儿！ 我 可 以 看 到 远 处 {s3}的 城 墙。 我 们 安 全 到 达 了 这 里。 这 是 我 承 诺 过 的 {reg3}第 纳 尔。 我 希 望 哪 天 能 再 和 你 结 伴 而 行。 
-dlga_event_triggered:close_window.3|Let's get it on.{***}
+dlga_event_triggered:close_window.3|让 我 们 继 续 赶 路 吧。 
 dlga_start:lord_start|尊 敬 的 女 士， 我 是 如 此 期 待 我 们 的 婚 礼， 只 要 举 办 婚 宴 的 时 机 成 熟， 我 们 便 可 结 为 连 理。 {s12} 
 dlga_start:lord_start.1|尊 敬 的 女 士， 如 果 你 愿 意 和 我 结 婚， 我 们 可 以 在 {s4} 举 行 我 们 的 婚 礼， 当 着 全 王 国 领 主 的 面 交 换 誓 约。 
 dlga_start:lord_start.2|尊 敬 的 女 士， 我 没 有 耐 心 再 等 待 全 王 国 的 领 主 们 集 合 了， 和 我 一 起 去 {s4} 交 换 我 们 的 誓 约 吧。 
@@ -863,7 +863,7 @@ dlga_lord_groom_wedding_complete:close_window|我 们 现 在 是 夫 妻 了，
 dlga_start:close_window.15|很 好， 你 的 观 点 令 我 无 话 可 说。 
 dlga_start:close_window.16|好 吧， {先 生/ 尊 敬 的 女 士}！ 请 你 别 再 费 神 从 地 上 爬 起 来 了， 因 为 那 样 我 还 得 把 你 再 打 趴 下。 如 果 你 保 持 沉 默 我 就 当 你 道 过 歉 了。 祝 你 日 安。 
 dlga_start:close_window.17|很 好，你 表 明 了 你 的 观 点，  我 收 回 我 所 说 的， 希 望 你 能 满 意。 
-dlga_start:close_window.18|Hah! Not so gallant now, are we? Now trouble me no more.{***}
+dlga_start:close_window.18|哈， 不 再 对 我 妻 子 献 殷 勤 了 么？ 那 么 很 好， 我 又 少 了 点 麻 烦。 {***}哈 哈！ 我 们 现 在 也 不 是 很 勇 敢， 不 是 吗？ 以 后 别 再 来 烦 我 了。 
 dlga_start:close_window.19|哼， 你 赢 了， 在 所 有 出 席 的 人 面 前 击 败 了 我， 我 会 放 弃 对 {s10} 的 追 求， 你 这 狠 心 的 杂 种 现 在 满 意 了 吧？ 
 dlga_start:close_window.20|起 来， 让 今 天 所 有 在 场 的 人 证 明 我 打 败 了 你， 而 你 现 在 必 须 放 弃 对 {s10} 的 求 爱。 我 将 允 许 你 最 后 再 见 她 一 次， 告 诉 她 你 们 永 不 再 见。 而 那 之 后， 如 果 你 依 然 试 图 去 见 她， 那 么 每 个 人 都 将 知 道 你 是 个 不 知 羞 耻 的 家 伙。 
 dlga_start:player_siege_castle_commander_1|你 想 要 做 什 么? 
@@ -931,7 +931,7 @@ dlga_pretender_discuss_rebellion_2a:pretender_discuss_rebellion_2|{s11}。
 dlga_pretender_discuss_rebellion_2:pretender_discuss_rebellion_3|我 准 备 好 迎 接 这 个 挑 战 了。 
 dlga_pretender_discuss_rebellion_2:pretender_end|你 说 得 对。 也 许， 我 该 应 该 好 好 考 虑 一 下。 
 dlga_pretender_discuss_rebellion_3:close_window|我 对 你 协 助 我 事 业 的 一 片 忠 心 毫 无 疑 虑， {playername}， 并 且 我 对 此 非 常 感 激。 但 是 我 不 认 为 我 们 有 多 少 成 功 的 可 能。 如 果 你 可 以 在 战 场 上 获 得 声 望 并 且 让 你 以 一 个 伟 大 的 指 挥 官 而 闻 名， 这 样 我 们 的 朋 友 在 加 入 我 们 的 事 业 的 时 候 将 不 会 犹 豫， 并 且 我 们 的 敌 人 将 会 在 和 我 们 动 武 的 时 候 有 所 顾 虑。 当 时 机 成 熟， 我 将 很 乐 意 加 入 你。 但 是 直 到 那 之 前， 聪 明 的 做 法 就 是 别 公 开 挑 战 那 个 篡 位 者， {s11}。 
-dlga_pretender_discuss_rebellion_3:close_window.1|Haven't you already taken up the cause of {s17}? You must have a very strong sense of justice, indeed. But no, thank you. I will not be part of your game.{***}
+dlga_pretender_discuss_rebellion_3:close_window.1|你 还 没 有 加 入 {s17}的 事 业？ 虽 然 你 一 定 有 着 很 强 的 正 义 感， 但 还 是 算 了 吧， 我 不 会 加 入 你 们 的 游 戏。 
 dlga_pretender_discuss_rebellion_3:close_window.2|{playername}, you are already oath-bound to serve {s15}. As such, I cannot allow you to take up my cause, and let my enemies claim that I am but a mere puppet of {s16}. No, if I am to have the throne of {s17}, I must do it due to the righteousness of my cause and the support of my subjects alone. If you want to help me, you must first free yourself of your oath to {s15}.
 dlga_pretender_discuss_rebellion_3:close_window.3|你 是 一 个 拥 有 独 立 主 权 的 君 主， {先 生/ 尊 敬 的 女 士}。 如 果 你 要 支 持 我， 我 将 仅 仅 会 成 为 你 的 傀 儡。 
 dlga_pretender_discuss_rebellion_3:pretender_rebellion_ready|你 是 一 个 能 干 的 战 士， {playername}， 并 且 我 确 信 随 着 你 指 挥 官 的 名 声， 和 我 正 义 的 事 业， 那 些 {s12}的 贵 族 和 好 人 们 将 蜂 拥 而 来 支 持 我 们。 现 在 时 机 成 熟 我 们 该 有 所 行 动！ 我 将 加 入 你， 并 且 一 起， 我 们 将 推 翻 篡 位 者 {s11}并 且 从 他 血 腥 的 双 手 中 夺 回 王 位。 不 过 首 先， 你 必 须 向 我 效 忠 并 且 接 受 我 为 你 的 {reg65?女 王:君 主}。 
@@ -1775,8 +1775,8 @@ dlga_lord_mission_told:lord_mission_rejected|恐 怕 目 前 我 不 能 接 受
 dlga_lord_mission_accepted:close_window|非 常 好！ {playername}， 我 对 你 很 有 信 心！ 
 dlga_lord_mission_rejected:close_window|是 吗？ 我 想 大 概 只 是 你 不 想 做 这 个 任 务 吧…… 我 得 找 个 更 有 胆 识 的 人。 
 dlga_lord_talk:lord_leave_prison|我 必 须 得 走 了。 
-dlga_lord_talk:prisoner_chat_let_go|You are free to go.{***}
-dlga_prisoner_chat_let_go:close_window|{s43}{***}
+dlga_lord_talk:prisoner_chat_let_go|你 现 在 自 由 了， 可 以 去 任 何 想 去 的 地 方 了。 
+dlga_prisoner_chat_let_go:close_window|{s43}。 
 dlga_lord_talk:lord_leave|我 的 话 说 完 了， 我 得 走 了。 
 dlga_lord_talk:lord_leave.1|请 让 我 离 开。 
 dlga_lord_leave:lord_leave_give_quest|你 离 开 之 前， {playername}…… 有 些 事 情 我 得 向 你 说 清 楚。 也 许 我 们 在 战 场 上 是 敌 人， 但 是 我 希 望 你 能 像 我 一 样 明 白。 我 们 相 互 之 间 还 是 应 该 保 持 相 互 的 礼 节。 你 是 否 能 帮 我 做 件 事。 
@@ -2109,13 +2109,13 @@ dlga_prison_guard_players:close_window.1|不， 现 在 不 用。
 dlga_start:prison_guard_talk|嗯？ 你 要 干 什 么？ 
 dlga_prison_guard_talk:prison_guard_ask_prisoners|谁 被 关 在 这 里？ 
 dlga_prison_guard_talk:prison_guard_visit_prison|我 想 和 一 个 犯 人 说 话。 
-dlga_prison_guard_talk:dplmc_prison_guard_talk_ask_prisoner|I want to release a prisoner.{***}
-dlga_dplmc_prison_guard_talk_ask_prisoner:dplmc_prison_guard_talk_prisoner_select|Alright, which prisoner shall I set free?{***}
-dlga_dplmc_prison_guard_talk_prisoner_select:dplmc_prison_guard_exchange_prisoner_ask_confirm|{s10} of {s11}.{***}
-dlga_dplmc_prison_guard_talk_prisoner_select:close_window|No one.{***}
-dlga_dplmc_prison_guard_exchange_prisoner_ask_confirm:dplmc_prison_guard_exchange_prisoner_confirm|As you wish, I will release {s10} of {s11}.{***}
-dlga_dplmc_prison_guard_exchange_prisoner_confirm:close_window|Very well.{***}
-dlga_dplmc_prison_guard_exchange_prisoner_confirm:close_window.1|No, I changed my mind.{***}
+dlga_prison_guard_talk:dplmc_prison_guard_talk_ask_prisoner|我 想 要 释 放 一 个 囚 犯。 
+dlga_dplmc_prison_guard_talk_ask_prisoner:dplmc_prison_guard_talk_prisoner_select|好 的， 你 想 要 释 放 哪 一 个？ 
+dlga_dplmc_prison_guard_talk_prisoner_select:dplmc_prison_guard_exchange_prisoner_ask_confirm|{s11}的 {s10}。 
+dlga_dplmc_prison_guard_talk_prisoner_select:close_window|算 了。 
+dlga_dplmc_prison_guard_exchange_prisoner_ask_confirm:dplmc_prison_guard_exchange_prisoner_confirm|如 你 所 愿， 我 会 释 放 {s11} 的 {s10}。 
+dlga_dplmc_prison_guard_exchange_prisoner_confirm:close_window|很 好。 
+dlga_dplmc_prison_guard_exchange_prisoner_confirm:close_window.1|不， 我 改 变 主 意 了。 
 dlga_prison_guard_ask_prisoners:prison_guard_talk|现 在， {s50}{reg1?被 :被 }关 押 在 这 里。 {s49}
 dlga_prison_guard_visit_prison:close_window|当 然， {先 生/夫 人}。 请 进。 
 dlga_prison_guard_visit_prison:prison_guard_visit_prison_2|你 需 要 从 领 主 那 里 得 到 许 可 来 带 走 犯 人。 
@@ -2246,7 +2246,7 @@ dlga_sacrificed_messenger_3:sacrificed_messenger_cancel|啊！ 我 不 能 这 �
 dlga_sacrificed_messenger_cancel:sacrificed_messenger_cancel_2|你 想 说 什 么 {先 生/夫 人}
 dlga_sacrificed_messenger_cancel_2:sacrificed_messenger_cancel_3|在 镇 子 上 有 个 设 计 好 的 圈 套 在 等 你。 {s3}命 令 我 牺 牲 我 的 一 个 部 下 去 迷 惑 敌 人， 他 得 另 想 一 个 办 法 了。 
 dlga_sacrificed_messenger_cancel_3:close_window|谢 谢 你， {先 生/夫 人}。 我 愿 意 为 你 赴 汤 蹈 火， 但 是 就 这 么 去 送 死 太 不 光 彩 了。 
-dlga_start:close_window.41|Don't worry, {sir/madam}, I'm on my way.{***}
+dlga_start:close_window.41|别 担 心， {先 生/ 女 士}， 我 这 就 上 路。 
 dlga_start:follow_spy_talk|你 好， {先 生/夫 人}。 今 天 天 气 不 错 是 吧？ 如 果 你 不 介 意 的 话 我 要 赶 路 了。 
 dlga_follow_spy_talk:follow_spy_talk_2|以 {s1}的 名 义， 你 被 捕 了！ 
 dlga_follow_spy_talk_2:close_window|你 别 想 活 捉 我！ 
@@ -2283,11 +2283,11 @@ dlga_deserter_paid_talk_2b:close_window|你 在 胡 说 八 道 些 什 么？ �
 dlga_start:deserter_talk|我 们 是 自 由 的 弟 兄。 我 们 现 在 只 为 我 们 自 己 而 战。 要 么 交 钱， 要 么 尝 尝 我 们 手 里 兵 刃 的 滋 味。 
 dlga_deserter_talk:close_window|等 我 了 结 了 你 们， 你 们 会 后 悔 离 开 军 队 的。 
 dlga_deserter_talk:deserter_barter|没 必 要 动 手， 我 已 经 打 算 付 过 路 费 了。 
-dlga_deserter_talk:deserter_recruit|I will give you much money and good protection if you join my party.{***}
-dlga_deserter_recruit:deserter_recruit_2|Anyway you must pay us {reg5} denars, then we will join you.{***}
-dlga_deserter_recruit_2:deserter_recruit_3a|All right here's your {reg5} denars.{***}
-dlga_deserter_recruit_2:deserter_barter_3b|I don't have that much money with me{***}
-dlga_deserter_recruit_3a:close_window|Ok, we are at your service from now on.{***}
+dlga_deserter_talk:deserter_recruit|如 果 你 们 加 入 我 的 队 伍， 你 们 将 获 得 大 量 的 金 钱 和 我 的 庇 护。 
+dlga_deserter_recruit:deserter_recruit_2|如 果 你 愿 意 先 支 付 给 我 们 {reg5} 第 纳 尔， 之 后 我 们 就 将 效 忠 于 你。 
+dlga_deserter_recruit_2:deserter_recruit_3a|好 吧， 这 里 是 你 们 的 {reg5} 第 纳 尔。 
+dlga_deserter_recruit_2:deserter_barter_3b|我 没 有 足 够 的 钱 来 招 募 你 们。 
+dlga_deserter_recruit_3a:close_window|好 的， 现 在 开 始 我 们 将 追 随 你。 
 dlga_deserter_barter:deserter_barter_2|很 好， 你 很 聪 明。 看 你 的 行 李， 我 猜 像 你 这 样 的 家 伙 应 该 能 很 容 易 拿 出 {reg5}第 纳 尔。 我 们 不 打 算 太 贪 心， 是 这 样 的 吧？ 付 给 我 们 钱， 你 就 可 以 走 了。 
 dlga_deserter_barter_2:deserter_barter_3a|好 吧， 这 里 是 你 的 {reg5}第 纳 尔。 
 dlga_deserter_barter_2:deserter_barter_3b|我 没 带 那 么 多 钱。 
@@ -2312,19 +2312,19 @@ dlga_tavernkeeper_job_search:tavernkeeper_job_result|让 我 再 想 想……
 dlga_tavernkeeper_job_result:tavernkeeper_job_search|我 听 说 {s7}{s9}{s10}你 可 以 和 {reg4?她 :他 }谈 谈。 
 dlga_tavernkeeper_job_result:tavernkeeper_job_result_2|你 还 可 以 试 试 别 的 工 作， 领 主 和 镇 长 们 常 常 有 一 些 活 我 们 不 知 道。 周 围 的 村 庄 也 常 常 需 要 帮 助， 不 过 村 民 们 大 多 是 用 温 热 的 奶 酪 和 善 意， 而 不 是 又 冷 又 硬 的 第 纳 尔 来 表 示 感 谢。 
 dlga_tavernkeeper_job_result_2:close_window|我 会 留 意 是 否 有 其 他 机 遇 的， 你 可 以 常 常 来 问 我。 
-dlga_tavernkeeper_talk:tavernkeeper_seek_companions|My party could use a few well trained men and women.  Have you heard of anyone looking to join a party such as mine??{***}
-dlga_tavernkeeper_seek_companions:tavernkeeper_send_messenger|A travelling merchant mentioned someone by the name of {s30}. At the time he was in {s31}.  Keep in mind that people tend to move around quite a bit and {he/she} may not be there in a few days or even hours.{***}
-dlga_tavernkeeper_seek_companions:close_window|Sorry, I heard nothing.  Ask me again in {reg10} hours.{***}
-dlga_tavernkeeper_send_messenger:tavernkeeper_send_or_not|Would you like to send a messenger to {s30} to join your party?{***}
-dlga_tavernkeeper_send_or_not:tavernkeeper_acknowledge_messenger|Yes, please dispatch a messenger.  Here is {reg27} denars to cover the cost.{***}
-dlga_tavernkeeper_send_or_not:close_window|Sorry, I can't afford a messenger right now.{***}
-dlga_tavernkeeper_send_or_not:close_window.1|No, thank you.  I have different plans.{***}
-dlga_tavernkeeper_acknowledge_messenger:tavernekeeper_messenger_sent|Yes, please dispatch a messenger.  Here is {reg27} denars to cover the cost.{***}
-dlga_tavernekeeper_messenger_sent:close_window|Alright, a messenger has been sent to {s30}.  Good day to you.{***}
-dlga_tavernkeeper_seek_companions:close_window.1|I'm sorry, I haven't heard anything.{***}
-dlga_start:raf_messenger_talk|Greetings. Sorry but I don't have time to talk now. I am delivering a very important message.{***}
-dlga_raf_messenger_talk:raf_messenger_talk_farewell|Alright, I don't want to delay you. Godspeed!{***}
-dlga_raf_messenger_talk_farewell:close_window|Thank you. Farewell!{***}
+dlga_tavernkeeper_talk:tavernkeeper_seek_companions|我 们 阵 营 正 需 要 一 些 训 练 有 素 的 战 士， 你 打 听 到 有 什 么 人 想 加 入 像 我 这 样 的 阵 营？ 
+dlga_tavernkeeper_seek_companions:tavernkeeper_send_messenger|一 个 旅 行 商 人 提 到 过 {s30} 的 名 字， 那 时 候 他 还 在 {s31}。 一 段 时 间 内 {他/她} 应 该 还 会 在 那 附 近 吧！ 
+dlga_tavernkeeper_seek_companions:close_window|抱 歉， 我 什 么 都 没 打 听 到。 请 过 {reg10} 小 时 后 再 来。 
+dlga_tavernkeeper_send_messenger:tavernkeeper_send_or_not|你 希 望 派 遣 信 使 邀 请 {s30} 加 入 你 的 阵 营 么？ 
+dlga_tavernkeeper_send_or_not:tavernkeeper_acknowledge_messenger|是 的， 请 派 遣 信 使 吧。 这 是 支 付 费 用 {reg27} 第 纳 尔。 
+dlga_tavernkeeper_send_or_not:close_window|对 不 起， 现 在 没 有 信 使 可 以 派 遣。 
+dlga_tavernkeeper_send_or_not:close_window.1|不， 谢 谢 了。 我 另 有 打 算。 
+dlga_tavernkeeper_acknowledge_messenger:tavernekeeper_messenger_sent|是 的， 请 派 遣 信 使 吧。 这 是 支 付 费 用 {reg27} 第 纳 尔。 
+dlga_tavernekeeper_messenger_sent:close_window|已 经 派 遣 一 名 信 使 和 {s30} 联 系 了， 日 安， 先 生。 
+dlga_tavernkeeper_seek_companions:close_window.1|抱 歉， 我 什 么 都 没 打 听 到。 
+dlga_start:raf_messenger_talk|你 好， 我 现 在 有 重 要 的 事 情 要 做， 没 什 么 时 间 闲 聊。 
+dlga_raf_messenger_talk:raf_messenger_talk_farewell|好 吧， 我 不 耽 误 你 了。 祝 你 好 运。 
+dlga_raf_messenger_talk_farewell:close_window|谢 谢， 再 见。 
 dlga_tavernkeeper_talk:close_window|我 想 我 得 走 了。 
 dlga_start:ransom_broker_intro|欢 迎 你， {先 生/夫 人}。 看 上 去 你 好 像 应 该 认 识 我 一 下。 
 dlga_ransom_broker_intro:ransom_broker_intro_2|为 啥？ 
@@ -2339,10 +2339,10 @@ dlga_ransom_broker_info_talk:ransom_broker_pretalk|我 明 白 了。 谢 谢 �
 dlga_start:ransom_broker_talk|欢 迎。 如 果 你 有 俘 虏， 我 很 乐 意 买 下 他 们。 
 dlga_ransom_broker_pretalk:ransom_broker_talk|不 管 怎 样， 如 果 你 有 俘 虏， 我 很 乐 意 买 下 他 们。 
 dlga_ransom_broker_talk:ransom_broker_sell_prisoners|那 你 最 好 准 备 好 你 的 钱 包， 因 为 我 带 了 一 些 俘 虏 过 来。 
-dlga_ransom_broker_talk:ransom_broker_sell_prisoners_all|I want to sell all prisoners i brought to you.{***}
-dlga_ransom_broker_sell_prisoners_all:ransom_broker_sell_prisoners_all_2|Are you sure?{***}
-dlga_ransom_broker_sell_prisoners_all_2:ransom_broker_sell_prisoners_2|I am sure.{***}
-dlga_ransom_broker_sell_prisoners_all_2:ransom_broker_pretalk|Let me think it again.{***}
+dlga_ransom_broker_talk:ransom_broker_sell_prisoners_all|我 想 把 我 带 来 的 俘 虏 一 次 性 都 卖 给 你。 
+dlga_ransom_broker_sell_prisoners_all:ransom_broker_sell_prisoners_all_2|你 确 定 么？ 
+dlga_ransom_broker_sell_prisoners_all_2:ransom_broker_sell_prisoners_2|我 确 定。 
+dlga_ransom_broker_sell_prisoners_all_2:ransom_broker_pretalk|让 我 再 想 想。 
 dlga_ransom_broker_talk:ransom_broker_intro_2|再 给 我 说 一 遍 你 是 做 什 么 的。 
 dlga_ransom_broker_talk:ransom_broker_ransom_companion|我 想 要 向 你 赎 买 我 的 一 名 同 伴。 
 dlga_ransom_broker_ransom_companion:ransom_broker_ransom_companion_choose|你 打 算 赎 回 谁？ 
@@ -2381,28 +2381,28 @@ dlga_tavern_traveler_pretender_location_ask_2:tavern_traveler_pretender_location
 dlga_tavern_traveler_pretender_location_ask_money:tavern_traveler_pretender_location_tell|好 的， 这 是 30 第 纳 尔。 
 dlga_tavern_traveler_pretender_location_ask_money:tavern_traveler_pretalk|没 事。 
 dlga_tavern_traveler_pretender_location_tell:tavern_traveler_pretalk|{s15}现 在 在 {s11}。 
-dlga_tavern_traveler_talk:tavern_traveler_lord_location_money|I want to know the location of some lord.{***}
-dlga_tavern_traveler_lord_location_money:tavern_traveler_lord_location_money_2|I can reveal this information to you for a small price, let's say 200 denars.{***}
-dlga_tavern_traveler_lord_location_money_2:tavern_traveler_lord_location|All right. Here is 200 denars.{***}
-dlga_tavern_traveler_lord_location_money_2:tavern_traveler_pretalk|Never mind.{***}
-dlga_tavern_traveler_lord_location:tavern_traveler_lord_faction|Well, which faction of the lord that you want to know?{***}
-dlga_tavern_traveler_lord_faction:tavern_traveler_lord|{s1}{***}
-dlga_tavern_traveler_lord:tavern_traveler_lord_2|Which one?{***}
-dlga_tavern_traveler_lord_2:tavern_traveler_lord_3|{s1}{***}
-dlga_tavern_traveler_lord_2:tavern_traveler_pretalk|Never mind.{***}
-dlga_tavern_traveler_lord_3:tavern_traveler_pretalk|{s1}{***}
-dlga_tavern_traveler_talk:tavern_traveler_bookseller_location|I am looking for book merchants...{***}
-dlga_tavern_traveler_bookseller_location:tavern_traveler_pretalk|I am sorry I don't know where they are.{***}
-dlga_tavern_traveler_bookseller_location:tavern_traveler_bookseller_location_ask_money|I know where they are. For 100 denars, I'll tell you.{***}
-dlga_tavern_traveler_bookseller_location_ask_money:tavern_traveler_bookseller_location_tell|All right. Here is 100 denars.{***}
-dlga_tavern_traveler_bookseller_location_ask_money:tavern_traveler_pretalk|Never mind.{***}
-dlga_tavern_traveler_bookseller_location_tell:tavern_traveler_pretalk|You can find them at {s11}.{***}
-dlga_tavern_traveler_talk:tavern_traveler_ransom_broker_location|I am looking for ransom brokers...{***}
-dlga_tavern_traveler_ransom_broker_location:tavern_traveler_pretalk|I am sorry I don't know where they are.{***}
-dlga_tavern_traveler_ransom_broker_location:tavern_traveler_ransom_broker_location_ask_money|I know where they are. For 50 denars, I'll tell you.{***}
-dlga_tavern_traveler_ransom_broker_location_ask_money:tavern_traveler_ransom_broker_location_tell|All right. Here is 50 denars.{***}
-dlga_tavern_traveler_ransom_broker_location_ask_money:tavern_traveler_pretalk|Never mind.{***}
-dlga_tavern_traveler_ransom_broker_location_tell:tavern_traveler_pretalk|You can find them at {s11}.{***}
+dlga_tavern_traveler_talk:tavern_traveler_lord_location_money|我 想 了 解 某 个 领 主 现 在 的 位 置。 
+dlga_tavern_traveler_lord_location_money:tavern_traveler_lord_location_money_2| 可 以 把 相 关 信 息 透 露 给 你， 但 你 需 要 花 点 小 费。 这 么 说 吧， 200第 纳 尔。 
+dlga_tavern_traveler_lord_location_money_2:tavern_traveler_lord_location|好 的， 这 是 200第 纳 尔。 
+dlga_tavern_traveler_lord_location_money_2:tavern_traveler_pretalk|算 了。 
+dlga_tavern_traveler_lord_location:tavern_traveler_lord_faction|你 想 知 道 哪 个 阵 营 的 领 主 信 息？ 
+dlga_tavern_traveler_lord_faction:tavern_traveler_lord|{s1}。 
+dlga_tavern_traveler_lord:tavern_traveler_lord_2|哪 一 位？ 
+dlga_tavern_traveler_lord_2:tavern_traveler_lord_3|{s1}。 
+dlga_tavern_traveler_lord_2:tavern_traveler_pretalk|算 了。 
+dlga_tavern_traveler_lord_3:tavern_traveler_pretalk|{s1}。 
+dlga_tavern_traveler_talk:tavern_traveler_bookseller_location|我 正 在 寻 找 书 籍 商 人。 
+dlga_tavern_traveler_bookseller_location:tavern_traveler_pretalk|抱 歉， 我 不 清 楚 他 们 在 哪 里。 
+dlga_tavern_traveler_bookseller_location:tavern_traveler_bookseller_location_ask_money|我 知 道 他 们 在 哪， 给 我 100 第 纳 尔 我 就 告 诉 你。 
+dlga_tavern_traveler_bookseller_location_ask_money:tavern_traveler_bookseller_location_tell|好 的， 这 是 100 第 纳 尔。 
+dlga_tavern_traveler_bookseller_location_ask_money:tavern_traveler_pretalk|算 了。 
+dlga_tavern_traveler_bookseller_location_tell:tavern_traveler_pretalk|你 可 以 在 {s11} 找 到 他 们。 
+dlga_tavern_traveler_talk:tavern_traveler_ransom_broker_location|我 正 在 寻 找 赎 金 经 纪 人。 
+dlga_tavern_traveler_ransom_broker_location:tavern_traveler_pretalk|抱 歉， 我 不 清 楚 他 们 在 哪 里。 
+dlga_tavern_traveler_ransom_broker_location:tavern_traveler_ransom_broker_location_ask_money|我 知 道 他 们 在 哪， 给 我 50 第 纳 尔 我 就 告 诉 你。 
+dlga_tavern_traveler_ransom_broker_location_ask_money:tavern_traveler_ransom_broker_location_tell|好 的， 这 是 50 第 纳 尔。 
+dlga_tavern_traveler_ransom_broker_location_ask_money:tavern_traveler_pretalk|算 了。 
+dlga_tavern_traveler_ransom_broker_location_tell:tavern_traveler_pretalk|你 可 以 在 {s11} 找 到 他 们。 
 dlga_tavern_traveler_talk:tavern_traveler_companion_location|我 正 在 找 寻 我 的 一 个 同 伴…… 
 dlga_tavern_traveler_companion_location:tavern_traveler_companion_location_ask|也 许 我 能 帮 助 你， 你 在 找 谁？ 
 dlga_tavern_traveler_companion_location_ask:tavern_traveler_companion_location_ask_2|{s11}
@@ -2511,7 +2511,7 @@ dlga_farmer_from_bandit_village_5:farmer_from_bandit_village_barter|为 什 么 
 dlga_farmer_from_bandit_village_accepted:close_window|上 帝 保 佑 你， {先 生/夫 人}。 我 们 的 村 子 是 {s7}。 离 这 里 不 是 很 远。 
 dlga_farmer_from_bandit_village_denied:close_window|如 你 所 言， {先 生/夫 人}。 原 谅 我 们 打 扰 你 了。 
 dlga_farmer_from_bandit_village_barter:farmer_from_bandit_village_5|我 们 只 是 贫 穷 的 农 民， {先 生/夫 人}。 这 些 强 盗 几 乎 夺 走 我 们 在 这 个 世 界 上 的 大 部 分 东 西。 但 是 我 们 很 乐 意 与 你 分 享 任 何 我 们 有 的 东 西。 而 且 如 果 你 帮 助 我 们 的 话， 我 们 会 一 直 感 恩 于 你。 
-dlga_start:close_window.42|Thank you for helping us {sir/madam}. Crush those bandits!{***}
+dlga_start:close_window.42|感 谢 您 为 我 们 击 退 强 盗， {先 生/ 女 士}。 
 dlga_start:mercenary_tavern_talk|你 需 要 雇 佣 军 吗， {先 生/夫 人}？ {reg3?我 和 {reg4?{reg3}个 同 伴 :一 个 同 伴 }:我 }在 找 一 个 雇 主。 付 我 们 {reg5}第 纳 尔 我 们 就 加 入 你。 
 dlga_start:mercenary_after_recruited|什 么 指 示， {先 生/夫 人}？ 
 dlga_mercenary_after_recruited:mercenary_after_recruited_2|做 好 准 备。 我 们 要 开 拔 了。 
@@ -2703,7 +2703,7 @@ dlga_destroy_lair_quest_brief:merchant_quest_track_bandit_lair_choice.2|像 那 
 dlga_destroy_lair_quest_brief:merchant_quest_track_bandit_lair_choice.3|像 那 样 的 强 盗 一 般 把 他 们 的 营 地 建 立 在 森 林 深 处， 经 常 在 沼 泽 当 中。 要 发 现 那 个 位 置 的 最 好 办 法 就 是 找 到 一 群 归 巢 补 给 的 绿 林 强 盗， 然 后 跟 踪 他 们。 
 dlga_destroy_lair_quest_brief:merchant_quest_track_bandit_lair_choice.4|像 那 样 的 强 盗 一 般 把 他 们 的 营 地 建 立 在 草 原 的 林 地 当 中， 可 以 隐 蔽 的 地 方。 要 发 现 那 个 位 置 的 最 好 办 法 就 是 找 到 一 群 归 巢 补 给 的 响 马， 然 后 跟 踪 他 们。 
 dlga_destroy_lair_quest_brief:merchant_quest_track_bandit_lair_choice.5|像 那 样 的 强 盗 一 般 把 他 们 的 营 地 建 立 在 森 林 深 处。 要 发 现 那 个 位 置 的 最 好 办 法 就 是 找 到 一 群 归 巢 补 给 的 雪 原 强 盗， 然 后 跟 踪 他 们。 
-dlga_destroy_lair_quest_brief:merchant_quest_track_bandit_lair_choice.6|Bandits such as these will usually set up their encampments around villages and other populated areas. The best way to discover its location would be to find a group of robber knights who appear to be heading back to their base to resupply, and follow them.{***}
+dlga_destroy_lair_quest_brief:merchant_quest_track_bandit_lair_choice.6|强 盗 会 建 立 他 们 的 营 地。 发 现 他 们 的 营 地 的 最 好 办 法 就 是 跟 踪 那 些 要 返 回 营 地 补 充 物 资 的 强 盗 部 队。 
 dlga_merchant_quest_track_bandit_lair_choice:merchant_quest_destroy_lair_brief|是， 我 会 去 做 这 个。 
 dlga_merchant_quest_track_bandit_lair_choice:lord_pretalk|恐 怕 我 现 在 不 能 帮 你 的 忙。 
 dlga_merchant_quest_destroy_lair_brief:close_window|很 好。 我 们 等 你 成 功 的 好 消 息。 
@@ -2721,8 +2721,8 @@ dlga_merchant_quest_brief:escort_merchant_caravan_quest_brief|我 正 打 算 �
 dlga_escort_merchant_caravan_quest_brief:merchant_quest_taken|好 吧， 我 将 为 商 队 提 供 保 护。 
 dlga_escort_merchant_caravan_quest_brief:merchant_quest_stall|我 很 抱 歉 我 没 有 那 么 多 人。 
 dlga_escort_merchant_caravan_quest_brief:merchant_quest_stall.1|对 不 起， 我 现 在 不 能 做 这 件 事。 
-dlga_start:close_window.43|We can cover the rest of the way ourselves. Thanks.{***}
-dlga_start:close_window.44|Well, we have almost reached {s21}. We can cover the rest of the way ourselves. Here's your pay... {reg14} denars. Thanks for escorting us. Good luck.{***}
+dlga_start:close_window.43|我 们 可 以 自 己 走 完 剩 下 的 路 了， 谢 谢。 
+dlga_start:close_window.44|那 么， 我 们 就 快 抵 达 {s21} 了， 我 们 可 以 自 己 走 完 剩 下 的 路 了。 这 是 你 的 报 酬…… {reg14} 第 纳 尔。 谢 谢 你 给 予 我 们 的 保 护， 祝 你 好 运！ 
 dlga_start:merchant_caravan_intro_1|很 高 兴 见 到 你， 你 一 定 是 我 们 的 护 卫， 对 吧？ 
 dlga_merchant_caravan_intro_1:merchant_caravan_intro_2|是 的， 我 就 是 {playername}。 我 将 把 你 们 护 送 到 {s1}。 
 dlga_merchant_caravan_intro_2:escort_merchant_caravan_talk|那 么， 我 很 高 兴 我 们 不 再 是 孤 独 的 旅 行 了。 你 现 在 想 要 我 们 做 什 么？ 
@@ -2741,7 +2741,7 @@ dlga_merchant_quest_brief:kidnapped_girl_quest_brief|这 些 强 盗 要 的 赎
 dlga_kidnapped_girl_quest_brief:kidnapped_girl_quest_taken|好 的。 我 会 把 赎 金 带 给 那 伙 强 盗， 然 后 赎 回 那 个 女 孩 的。 
 dlga_kidnapped_girl_quest_taken:close_window|好， 我 知 道 你 是 可 以 信 赖 的， 这 里 是 赎 金， {reg12}第 纳 尔。 收 之 前 先 数 好。 还 有， 千 万 不 要 乱 来， 记 住 女 孩 的 安 全 是 最 重 要 的。 
 dlga_kidnapped_girl_quest_brief:merchant_quest_stall|对 不 起， 我 现 在 没 时 间。 
-dlga_start:close_window.45|Thank you so much for bringing me back!  I can't wait to see my family. Good-bye.{***}
+dlga_start:close_window.45|非 常 感 谢 你 把 我 救 回 来！ 我 迫 不 及 待 的 要 去 见 我 的 家 人， 再 见。 
 dlga_kidnapped_girl_liberated_map:kidnapped_girl_liberated_map_2a|是 啊， 跟 我 来， 我 们 回 家。 
 dlga_kidnapped_girl_liberated_map_2a:close_window|真 不 巧， 你 的 队 伍 已 经 满 了。 
 dlga_kidnapped_girl_liberated_map_2a:close_window.1|哦， 是 真 的 吗？ 太 谢 谢 你 了！ 
@@ -2950,12 +2950,12 @@ dlga_arena_master_talk:arena_master_ask_tournaments|这 段 时 间 这 附 近 
 dlga_arena_master_talk:close_window|我 现 在 得 走 了。 再 见。 
 dlga_arena_master_ask_tournaments:arena_master_talk|{reg2?最 近 都 不 会 有 任 何 比 赛。 :在 {s15}， {reg1?比 赛 :一 场 比 赛 }要 开 始 了。 }
 dlga_arena_master_melee_pretalk:arena_master_melee_talk|很 快 就 要 有 比 赛 了。 你 要 参 加 就 要 快 啊。 
-dlga_arena_master_melee_talk:arena_master_melee_weapon_select|Good. That's what I am going to do.{***}
-dlga_arena_master_melee_weapon_select:arena_player_melee_weapon_select|Well, please choose a weapon which you like.{***}
-dlga_arena_player_melee_weapon_select:close_window|Two-handed sword.{***}
-dlga_arena_player_melee_weapon_select:close_window.1|Staff.{***}
-dlga_arena_player_melee_weapon_select:close_window.2|One-handed sword with a shield.{***}
-dlga_arena_player_melee_weapon_select:close_window.3|Bow.{***}
+dlga_arena_master_melee_talk:arena_master_melee_weapon_select|很 好， 那 正 是 我 想 做 的。 
+dlga_arena_master_melee_weapon_select:arena_player_melee_weapon_select|好 的， 请 选 择 你 喜 欢 的 武 器。 
+dlga_arena_player_melee_weapon_select:close_window|双 手 剑。 
+dlga_arena_player_melee_weapon_select:close_window.1|战 斧。 
+dlga_arena_player_melee_weapon_select:close_window.2|单 手 剑 盾。 
+dlga_arena_player_melee_weapon_select:close_window.3|弓。 
 dlga_arena_master_melee_talk:arena_master_melee_reject|谢 谢。 但 是 我 上 次 的 伤 还 没 好 呢。 
 dlga_arena_master_melee_reject:arena_master_pre_talk|好 的， {兄 弟/姑 娘}。 你 真 明 智。 
 dlga_arena_master_melee_talk:arena_training_melee_explain_reward|那 个， 你 能 再 跟 我 说 一 下 报 酬 吗？ 
@@ -2965,14 +2965,14 @@ dlga_galeas_talk:close_window|下 次 再 说， 再 见。
 dlga_galeas_sell_prisoners:galeas_sell_prisoners_2|让 我 看 一 下 你 带 来 的“ 货 物” 吧…… 
 dlga_galeas_sell_prisoners_2:close_window|如 果 你 又 抓 到 俘 虏 了， 把 他 们 带 过 来。 我 不 会 亏 待 你。 
 dlga_start:prisoner_train_talk|你 想 要 干 什 么？ 
-dlga_prisoner_train_talk:prisoner_train_talk_ultimatum|Set those prisoners free now!{***}
-dlga_prisoner_train_talk_ultimatum:prisoner_train_talk_ultimatum_2|Or what? Are you going to attack us?{***}
-dlga_prisoner_train_talk_ultimatum_2:prisoner_train_talk_ultimatum_2a|Yes I will. Consider yourself warned!{***}
-dlga_prisoner_train_talk_ultimatum_2a:close_window|We'll see that.{***}
-dlga_prisoner_train_talk_ultimatum_2:prisoner_train_talk_ultimatum_2b|Attack you? Hell no! I just took pity on those poor souls.{***}
-dlga_prisoner_train_talk_ultimatum_2b:close_window|Find something else to take pity on.{***}
-dlga_prisoner_train_talk:prisoner_train_smalltalk|Better watch those prisoners well. They may try to run away.{***}
-dlga_prisoner_train_smalltalk:close_window|Don't worry. They aren't going anywhere.{***}
+dlga_prisoner_train_talk:prisoner_train_talk_ultimatum|放 了 那 些 囚 犯！ 
+dlga_prisoner_train_talk_ultimatum:prisoner_train_talk_ultimatum_2|怎 么？ 你 是 想 要 和 我 们 战 斗 么？ 
+dlga_prisoner_train_talk_ultimatum_2:prisoner_train_talk_ultimatum_2a|是 的， 我 会 的。 这 是 我 给 你 的 警 告！ 
+dlga_prisoner_train_talk_ultimatum_2a:close_window|我 们 走 着 瞧。 
+dlga_prisoner_train_talk_ultimatum_2:prisoner_train_talk_ultimatum_2b|攻 击 你 吗? 当 然 不! 我 只 是 同 情 那 些 可 怜 的 家 伙。 
+dlga_prisoner_train_talk_ultimatum_2b:close_window|去 可 怜 其 他 东 西 吧。 
+dlga_prisoner_train_talk:prisoner_train_smalltalk|看 好 囚 犯， 别 让 他 们 给 跑 了！ 
+dlga_prisoner_train_smalltalk:close_window|别 担 心， 他 们 哪 都 去 不 了 的！ 
 dlga_bandit_introduce:bandit_talk|{s5}
 dlga_bandit_talk:close_window|除 了 让 你 尝 尝 我 手 里 的 兵 刃 的 滋 味， 我 没 什 么 可 以 给 你 的， 你 这 个 人 渣！ 
 dlga_bandit_talk:bandit_barter|没 必 要 打 架， 我 能 付 得 起 过 路 费。 
@@ -3055,10 +3055,10 @@ dlga_start:player_castle_guard_talk|什 么 事？ {先 生/夫 人}。
 dlga_player_castle_guard_talk:player_castle_guard_talk_2|岗 站 得 怎 么 样 了？ 士 兵。 
 dlga_player_castle_guard_talk_2:player_castle_guard_talk_3|很 安 静， {先 生/夫 人}。 没 什 么 需 要 报 告 的。 
 dlga_player_castle_guard_talk_3:close_window|很 好， 给 我 盯 着 点。 
-dlga_start:close_window.46|Good day, {sir/madame}. Always an honor to have you here in {s10}.{***}
-dlga_start:close_window.47|Mind your manners within the walls and we'll have no trouble.{***}
+dlga_start:close_window.46|日 安， {先 生/ 女 士}。 {s10} 对 于 您 的 到 来 感 到 荣 幸。 
+dlga_start:close_window.47|注 意 你 的 举 止， 别 给 我 惹 麻 烦！ 
 dlga_start:hall_guard_talk|有 什 么 指 示？ {我 的 大 人/尊 敬 的 女 士}？ 
-dlga_start:close_window.48|We are not supposed to talk while on guard, {sir/madam}.{***}
+dlga_start:close_window.48|我 们 在 站 岗 的 时 候 是 不 允 许 交 谈 的， {先 生/ 女 士}。 
 dlga_hall_guard_talk:hall_guard_duty|继 续 站 岗， 如 果 有 人 来 找 我 就 转 告 我 一 声。 
 dlga_hall_guard_duty:close_window|好 的， {我 的 大 人/尊 敬 的 女 士}， 如 你 所 愿。 
 dlga_hall_guard_talk:hall_guard_arrest|我 想 你 去 帮 我 抓 一 个 人， 立 刻 就 去！ 
