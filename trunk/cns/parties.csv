@@ -91,7 +91,7 @@ p_town_28_2|的 黎 波 里
 p_town_29_1|兹 韦 钱 
 p_town_29_2|科 托 尔 
 p_town_30_1|特 尔 诺 沃 
-p_town_30_2|普 罗 夫 迪 夫 
+p_town_30_2|菲 利 波 波 利 
 p_town_31_1|非 斯 
 p_town_31_2|马 拉 喀 什 
 p_town_31_3|瓦 赫 兰 
@@ -444,13 +444,13 @@ p_village_10_30|勒 芒
 p_village_11_1|罗 加 兰 
 p_village_11_2|Freysey{***}
 p_village_11_3|托 尔 斯 港 
-p_village_11_4|Hamarr{***}
+p_village_11_4|哈 马 尔 
 p_village_11_5|博 里 
 p_village_11_6|Véey{***}
-p_village_11_7|凯 于 庞 厄 尔 {***}
-p_village_11_8|Skiða{***}
+p_village_11_7|凯 于 庞 厄 尔 
+p_village_11_8|希 恩 
 p_village_11_9|Konungahella{***}
-p_village_11_10|Suðreyjar{***}
+p_village_11_10|萨 瑟 兰 
 p_village_11_11|奥 克 尼 
 p_village_11_12|斯 泰 恩 谢 尔 
 p_village_12_1|因 弗 内 斯 
@@ -537,52 +537,52 @@ p_village_22_2|尼 科 美 底 亚
 p_village_22_3|萨 迪 斯 
 p_village_22_4|帕 加 马 
 p_village_22_5|劳 迪 西 亚 
-p_village_22_6|Amorion{***}
+p_village_22_6|阿 摩 利 姆 
 p_village_22_7|Arycanda{***}
 p_village_22_8|seliniys{***} 
 p_village_22_9|非 罗 米 林 
 p_village_22_10|赫 拉 克 里 亚 
-p_village_22_11|Kotyaion{***}
+p_village_22_11|科 特 雅 昂 
 p_village_22_12|库 芝 科 斯 
 p_village_22_13|普 里 莱 普 
 p_village_22_14|兹 拉 马 
 p_village_23_1|阿 斯 卡 隆 
-p_village_23_2|Ramleh{***}
-p_village_23_3|Beirut{***}
-p_village_23_4|Tyre{***}
-p_village_23_5|Selimus{***}
-p_village_23_6|Tarlasa{***}
-p_village_23_7|Aleppo{***}
-p_village_23_8|Seleucia{***}
-p_village_23_9|Limassol{***}
-p_village_23_10|Famagusta{***}
-p_village_23_11|Homs{***}
-p_village_23_12|Jaffa{***}
-p_village_23_13|Baalbec{***}
-p_village_24_1|Siracusa{***}
-p_village_24_2|Messina{***}
-p_village_24_3|Tropea{***}
-p_village_24_4|Pescara{***}
-p_village_24_5|Capua{***}
-p_village_24_6|Brindisi{***}
-p_village_24_7|Palerno{***}
-p_village_24_8|Trani{***}
-p_village_25_1|Minuf{***}
-p_village_25_2|Ashmun{***}
-p_village_25_3|Wadi Miftah{***}
-p_village_25_4|Damanhur{***}
-p_village_25_5|Zagazig{***}
-p_village_25_6|Tanta{***}
-p_village_25_7|Abu Hammad{***}
+p_village_23_2|拉 姆 利 
+p_village_23_3|贝 鲁 特 
+p_village_23_4|泰 尔 
+p_village_23_5|塞 利 穆 斯 
+p_village_23_6|塔 尔 拉 萨 
+p_village_23_7|阿 勒 颇 
+p_village_23_8|塞 琉 西 亚 
+p_village_23_9|利 马 索 尔 
+p_village_23_10|法 马 古 斯 塔 
+p_village_23_11|霍 姆 斯 
+p_village_23_12|贾 法 
+p_village_23_13|巴 尔 贝 克 
+p_village_24_1|锡 拉 库 扎 
+p_village_24_2|墨 西 拿 
+p_village_24_3|特 罗 佩 阿 
+p_village_24_4|佩 斯 卡 拉 
+p_village_24_5|卡 普 阿 
+p_village_24_6|布 林 迪 西 
+p_village_24_7|帕 莱 诺 
+p_village_24_8|特 拉 尼 
+p_village_25_1|米 努 夫 
+p_village_25_2|艾 什 蒙 
+p_village_25_3|瓦 迪 -米 夫 塔 赫 
+p_village_25_4|达 曼 胡 尔 
+p_village_25_5|宰 加 济 格 
+p_village_25_6|坦 塔 
+p_village_25_7|阿 布 哈 马 德 
 p_village_25_8|Ballah{***}
-p_village_25_9|Wadi Sidr{***}
+p_village_25_9|瓦 迪 -锡 德 尔 
 p_village_25_10|Marba Dabthan{***}
-p_village_25_11|Suluq{***}
-p_village_25_12|Ma'an{***}
-p_village_25_13|Al Fayyun{***}
+p_village_25_11|苏 卢 格 
+p_village_25_12|马 安 
+p_village_25_13|法 尤 姆 
 p_village_25_14|布 尔 库 什 
 p_village_25_15|基 斯 瓦 
-p_village_26_1|Delcus{***}
+p_village_26_1|代 尔 屈 斯 
 p_village_26_2|罗 多 斯 托 
 p_village_26_3|科 林 斯 
 p_village_26_4|底 比 斯 
@@ -592,22 +592,22 @@ p_village_26_7|Dydimoteichon{***}
 p_village_26_8|加 里 波 利 
 p_village_27_1|克 罗 尼 亚 
 p_village_27_2|埃 尔 祖 鲁 姆 
-p_village_27_3|Aksera{***}
+p_village_27_3|阿 克 塞 拉 
 p_village_27_4|凯 萨 莉 亚 
 p_village_27_5|萨 塔 拉 
 p_village_27_6|Podandus{***}
-p_village_27_7|Karaman{***}
-p_village_27_8|Sivas{***}
-p_village_27_9|Erzerum{***}
-p_village_27_10|Lori{***}
-p_village_27_11|Amid{***}
-p_village_27_12|Tikrit{***}
+p_village_27_7|卡 拉 曼 
+p_village_27_8|锡 瓦 斯 
+p_village_27_9|埃 尔 祖 鲁 姆
+p_village_27_10|洛 里 
+p_village_27_11|阿 米 德 
+p_village_27_12|提 克 里 特 
 p_village_28_1|贝 尼 沃 利 德 堡 
-p_village_28_2|Ksar Hadada{***}
+p_village_28_2|盖 斯 尔 -哈 达 达 
 p_village_28_3|君 士 坦 丁 
 p_village_28_4|博 纳 
 p_village_28_5|塞 提 夫 
-p_village_28_6|El Jemaa{***}
+p_village_28_6|埃 尔 -杰 码 
 p_village_28_7|Dekrnia{***}
 p_village_28_8|马 赫 迪 耶 
 p_village_28_9|梅 德 宁 
