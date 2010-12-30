@@ -856,8 +856,8 @@ itm_kau_lit_mail|Mail Shirt
 itm_kau_lit_mail_pl|Mail Shirt
 itm_lit_outfit|Balt Lamellar Vest
 itm_lit_outfit_pl|Balt Lamellar Vest
-itm_balt_gambeson|Balt Gambeson
-itm_balt_gambeson_pl|Balt Gambeson
+itm_balt_gambeson|Linen Gambeson
+itm_balt_gambeson_pl|Linen Gambeson
 itm_kau_rus_tunic_a|Rus' Tunic
 itm_kau_rus_tunic_a_pl|Rus' Tunic
 itm_kau_rus_tunic_b|Rus' Tunic
@@ -2280,5 +2280,11 @@ itm_bill|Bill
 itm_bill_pl|Bill
 itm_almogavar_helmet|Almoghavar Helmet
 itm_almogavar_helmet_pl|Almoghavar Helmet
+itm_curonian_helmet|Curonian Helmet
+itm_curonian_helmet_pl|Curonian Helmet
+itm_balt_padded_a|Balt Padded Armour
+itm_balt_padded_a_pl|Balt Padded Armour
+itm_balt_padded_b|Balt Padded Armour
+itm_balt_padded_b_pl|Balt Padded Armour
 itm_items_end|Items End
 itm_items_end_pl|Items End

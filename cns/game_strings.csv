@@ -3704,7 +3704,7 @@ str_key_minus|Minus{***}
 str_key_semicolon|Semicolon{***}
 str_key_apostrophe|Apostrophe{***}
 str_key_tilde|Tilde{***}
-str_key_caps_lock|Caps lock{***}
+str_key_caps_lock|Caps lock
 str_key_left_shift|Left shift{***}
 str_key_right_shift|Right shift{***}
 str_key_left_control|Left control{***}
@@ -3719,4 +3719,4 @@ str_your_kingdoms_religion_is_s11|Your kingdom's religion is {s11}{***}
 str_religion_pagan_mongol|Paganism (Mongol){***}
 str_horse_archers|Horse Archers{***}
 str_spearmen|Spearmen{***}
-str_revision|52:164M{***}
+str_revision|170:181M
