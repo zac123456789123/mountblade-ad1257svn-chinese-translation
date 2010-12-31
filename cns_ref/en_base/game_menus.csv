@@ -136,7 +136,6 @@ menu_arena_duel_fight|You and your opponent prepare to duel.
 mno_continue|Continue...
 mno_continue|Continue...
 menu_simple_encounter|{s2} You have {reg10} troops fit for battle against their {reg11}.
-mno_encounter_prepare_battle|Prepare for battle.
 mno_encounter_attack|Charge the enemy.
 mno_encounter_attack|Close in and board the enemy.
 mno_encounter_order_attack|Order your troops to attack without you.
