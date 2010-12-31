@@ -358,7 +358,7 @@ qstr_Bracing_spear_for_ch|架 矛， 抵 御 冲 锋。
 qstr_Battle_lost...|战 斗 失 败 …… 
 qstr_Battle_lost!_Press_t|战 斗 失 败！ 按 Tab键 退 出 …… 
 qstr_You_have_been_knocke|你 被 敌 人 击 倒 了， 你 可 以 选 择 观 看 你 的 士 兵 们 继 续 战 斗， 或 者 按 Tab键 撤 退。 
-qstr_If_you_choose_to_wat|如 果 你 选 择 继 续 观 看 战 斗， 你 可 以 使 用 鼠 标 的 滚 轮 来 调 整 视 野 大 小， 用 ASDW来 自 由 移 动 观 看 位 置。 
+qstr_If_you_choose_to_wat|如 果 你 选 择 继 续 观 看 战 斗， 你 可 以 使 用 鼠 标 的 滚 轮 来 切 换 不 同 部 队 的 视 角， 或 者 用 ASDW来 自 由 移 动 观 看 位 置。 
 qstr_Forming_ranks.|正 在 组 成 阵 型。 
 qstr_You_must_stay_behind|你 必 须 站 在 线 后！ 此 次 攻 击 无 效。 
 qstr_Tutorial|训 练 
