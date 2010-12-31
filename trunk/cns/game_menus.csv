@@ -136,7 +136,6 @@ menu_arena_duel_fight|你 和 你 的 对 手 准 备 决 斗。
 mno_continue|继 续 
 mno_continue|继 续 
 menu_simple_encounter|{s2}你 将 以 {reg10}人 的 部 队 迎 战 对 手 {reg11}人。 
-mno_encounter_prepare_battle|准 备 战 斗 
 mno_encounter_attack|攻 入 敌 阵！ 
 mno_encounter_attack|攻 入 敌 阵！ 
 mno_encounter_order_attack|坐 镇 指 挥， 让 你 的 部 队 攻 击。 
@@ -169,7 +168,7 @@ mno_pre_join_help_defenders|对 {s1}施 以 援 手。
 mno_pre_join_leave|不 卷 入 纷 争。 
 menu_join_battle|你 决 定 帮 助 {s2}对 抗 {s1}， 你 将 有 {reg10}名 士 兵 参 加 战 斗 对 抗 {reg11}个 敌 人。 
 mno_join_attack|攻 入 敌 阵！ 
-mno_join_attack|登 上 敌 船！ 
+mno_join_attack|反 击 敌 人！ 
 mno_join_order_attack|仅 仅 让 你 的 士 兵 加 入 你 的 盟 友。 
 mno_join_leave|离 开。 
 menu_join_order_attack|{s4}^^ 我 军 伤 亡： {s8}^^ 盟 军 伤 亡： {s9}^^ 敌 军 伤 亡： {s10}
