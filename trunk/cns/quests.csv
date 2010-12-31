@@ -1,4 +1,4 @@
-qst_deliver_message|送 信 给 {s13}
+﻿qst_deliver_message|送 信 给 {s13}
 qst_deliver_message_to_enemy_lord|送 信 给 {s13}
 qst_raise_troops|培 养 {reg1}名 {s14}
 qst_escort_lady|护 送 {s13}去 {s14}
@@ -39,8 +39,8 @@ qst_deliver_cattle|筹 集 {reg5}头 牛 给 {s3}
 qst_train_peasants_against_bandits|训 练 农 民 以 对 抗 在 {s13}的 强 盗 
 qst_eliminate_bandits_infesting_village|从 强 盗 手 里 解 救 {s7}村 
 qst_visit_lady|拜 访 女 士 
-qst_formal_marriage_proposal|正 式 求 婚 提 案 
-qst_obtain_liege_blessing|正 式 求 婚 提 案 
+qst_formal_marriage_proposal|正 式 求 婚  
+qst_obtain_liege_blessing|正 式 求 婚  
 qst_wed_betrothed|和 你 的 订 婚 对 象 成 婚 
 qst_wed_betrothed_female|和 你 的 订 婚 对 象 成 婚 
 qst_join_faction|宣 誓 效 忠 于 {s1}
