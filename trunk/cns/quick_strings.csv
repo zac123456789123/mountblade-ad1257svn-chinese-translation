@@ -332,11 +332,11 @@ qstr_{s0}{s1}|{s0}{s1}
 qstr_{reg0}|{reg0}
 qstr_applying_fixes__if_a|applying fixes (if any){***}
 qstr_Faction:_{s21}|阵 营： {s21}
-qstr_ranks|阵 型 
+qstr_ranks|列 阵 
 qstr_shield_wall|盾 墙 
 qstr_wedge|楔 形 阵
 qstr_square|方 阵 
-qstr_up|冲 锋 {***}
+qstr_up|冲 锋 
 qstr_Infantry_forming_{s1|步 兵 排 成 了 {s1}。 
 qstr_Not_enough_infantry_|没 有 足 够 的 步 兵 来 排 列 成 {s1}， 将 原 地 待 命。 
 qstr_Cavalry_forming_{s1}|骑 兵 排 成 了 {s1}。 
