@@ -402,8 +402,8 @@ trp_rus_town_3_2|罗 斯 长 矛 兵
 trp_rus_town_3_2_pl|罗 斯 长 矛 兵 
 trp_rus_town_4_2|罗 斯 重 装 长 矛 兵 
 trp_rus_town_4_2_pl|罗 斯 重 装 长 矛 兵 
-trp_rus_horse_1|罗 斯 征 招 骑 手 
-trp_rus_horse_1_pl|罗 斯 游 牧 骑 手 
+trp_rus_horse_1|罗 斯 征 召 骑 手 
+trp_rus_horse_1_pl|罗 斯 征 召 骑 手 
 trp_rus_horse_2|罗 斯 贵 族 骑 兵 
 trp_rus_horse_2_pl|罗 斯 贵 族 骑 兵 
 trp_rus_horse_3|罗 斯 亲 卫 骑 兵 
@@ -1835,46 +1835,46 @@ trp_knight_18_14|Don Gausfred{***}
 trp_knight_18_14_pl|Gausfred{***}
 trp_knight_18_15|Don Jeroni{***}
 trp_knight_18_15_pl|Jeroni{***}
-trp_knight_20_1|Amir Mohammed Al-Faqih{***}
-trp_knight_20_1_pl|Mohammed Al-Faqih{***}
-trp_knight_20_2|Amir Yusuf Ibn Nasr{***}
-trp_knight_20_2_pl|Yusuf Ibn Nasr{***}
-trp_knight_20_3|Amir Faraj Ibn Nasr{***}
-trp_knight_20_3_pl|Faraj Ibn Nasr{***}
-trp_knight_20_4|Amir Isma'il Ibn Nasr{***}
-trp_knight_20_4_pl|Isma'il Ibn Nasr{***}
-trp_knight_20_5|Amir Ali Ibn Ashqilula{***}
-trp_knight_20_5_pl|Ali Ibn Ashqilula{***}
-trp_knight_20_6|Amir Ibrahim Ibn Ashqilula{***}
-trp_knight_20_6_pl|Ibrahim Ibn Ashqilula{***}
-trp_knight_20_7|Amir Nasr Ibn Mohammed{***}
-trp_knight_20_7_pl|Nasr Ibn Mohammed{***}
-trp_knight_20_8|Amir Yusuf Ibn Mohammed{***}
-trp_knight_20_8_pl|Yusuf Ibn Mohammed{***}
-trp_knight_20_9|Amir Faraj Ibn Mohammed{***}
-trp_knight_20_9_pl|Faraj Ibn Mohammed{***}
-trp_knight_20_10|Amir Abu Said Faraj{***}
-trp_knight_20_10_pl|Abu Said Faraj{***}
-trp_knight_20_11|Amir Abdu'llah{***}
-trp_knight_20_11_pl|Abdu'llah{***}
-trp_knight_20_12|Amir Hammad{***}
-trp_knight_20_12_pl|Hammad{***}
-trp_knight_20_13|Amir Mansur{***}
-trp_knight_20_13_pl|Mansur{***}
-trp_knight_20_14|Amir Umar{***}
-trp_knight_20_14_pl|Umar{***}
-trp_knight_20_15|Amir Attiyah{***}
-trp_knight_20_15_pl|Attiyah{***}
-trp_knight_20_16|Amir Darras{***}
-trp_knight_20_16_pl|Darras{***}
-trp_knight_20_17|Amir Jahhaf{***}
-trp_knight_20_17_pl|Jahhaf{***}
-trp_knight_20_18|Amir Muhammad{***}
-trp_knight_20_18_pl|Muhammad{***}
-trp_knight_20_19|Amir Wasim{***}
-trp_knight_20_19_pl|Wasim{***}
-trp_knight_20_20|Amir Rashid{***}
-trp_knight_20_20_pl|Abu Rashid{***}
+trp_knight_20_1|穆 罕 默 德· 法 基 赫 酋 长 
+trp_knight_20_1_pl|穆 罕 默 德· 法 基 赫 
+trp_knight_20_2|尤 素 夫· 纳 斯 尔 酋 长 
+trp_knight_20_2_pl|尤 素 夫· 纳 斯 尔 
+trp_knight_20_3|法 拉 杰· 纳 斯 尔 酋 长 
+trp_knight_20_3_pl|法 拉 杰· 纳 斯 尔 
+trp_knight_20_4|伊 斯 迈 尔· 纳 斯 尔 酋 长
+trp_knight_20_4_pl|伊 斯 迈 尔· 纳 斯 尔 
+trp_knight_20_5|阿 里· 阿 什 基 鲁 拉 酋 长 
+trp_knight_20_5_pl|阿 里· 阿 什 基 鲁 拉 
+trp_knight_20_6|易 卜 拉 辛· 阿 什 基 鲁 拉 酋 长 
+trp_knight_20_6_pl|易 卜 拉 辛· 阿 什 基 鲁 拉 
+trp_knight_20_7|纳 斯 尔· 穆 罕 默 德 酋 长 
+trp_knight_20_7_pl|纳 斯 尔· 穆 罕 默 德 
+trp_knight_20_8|尤 素 夫· 穆 罕 默 德 酋 长 
+trp_knight_20_8_pl|尤 素 夫· 穆 罕 默 德 
+trp_knight_20_9|法 拉 杰· 穆 罕 默 德 酋 长 
+trp_knight_20_9_pl|法 拉 杰· 穆 罕 默 德 
+trp_knight_20_10|赛 义 德· 法 拉 杰 酋 长  
+trp_knight_20_10_pl|赛 义 德· 法 拉 杰 
+trp_knight_20_11|阿 卜 杜 拉 酋 长 
+trp_knight_20_11_pl|阿 卜 杜 拉 
+trp_knight_20_12|哈 马 德 酋 长
+trp_knight_20_12_pl|哈 马 德 
+trp_knight_20_13|曼 苏 尔 酋 长 
+trp_knight_20_13_pl|曼 苏 尔 
+trp_knight_20_14|奥 马 尔 酋 长 
+trp_knight_20_14_pl|奥 马 尔 
+trp_knight_20_15|阿 蒂 亚 赫 酋 长 
+trp_knight_20_15_pl|阿 蒂 亚 赫 
+trp_knight_20_16|达 拉 斯 酋 长 
+trp_knight_20_16_pl|达 拉 斯 
+trp_knight_20_17|贾 哈 夫 酋 长 
+trp_knight_20_17_pl|贾 哈 夫 
+trp_knight_20_18|默 罕 默 德 酋 长 
+trp_knight_20_18_pl|默 罕 默 德 
+trp_knight_20_19|瓦 西 姆 酋 长 
+trp_knight_20_19_pl|瓦 西 姆 
+trp_knight_20_20|阿 布· 拉 希 德 酋 长 
+trp_knight_20_20_pl|阿 布· 拉 希 德 
 trp_knight_22_1|Michael II Komnenos Doukas, Despot of Epirus{***}
 trp_knight_22_1_pl|Michael II Komnenos Doukas{***}
 trp_knight_22_2|Strategos Michail Palaeologos{***}
@@ -2065,36 +2065,36 @@ trp_knight_27_14|Buqa-Temur Noyan{***}
 trp_knight_27_14_pl|Buqa-Temur{***}
 trp_knight_27_15|Koke-Ilgei Noyan{***}
 trp_knight_27_15_pl|Koke-Ilgei{***}
-trp_knight_28_1|Emir Abbas{***}
-trp_knight_28_1_pl|Abbas{***}
-trp_knight_28_2|Emir Ashraf{***}
-trp_knight_28_2_pl|Ashraf{***}
-trp_knight_28_3|Emir Butrus{***}
-trp_knight_28_3_pl|Butrus{***}
-trp_knight_28_4|Emir Dhakir{***}
-trp_knight_28_4_pl|Dhakir{***}
-trp_knight_28_5|Emir Fakhir{***}
-trp_knight_28_5_pl|Fakhir{***}
-trp_knight_28_6|Emir Falih{***}
-trp_knight_28_6_pl|Falih{***}
-trp_knight_28_7|Emir Fath{***}
-trp_knight_28_7_pl|Fath{***}
-trp_knight_28_8|Emir Gamal{***}
-trp_knight_28_8_pl|Gamal{***}
-trp_knight_28_9|Emir Habbab{***}
-trp_knight_28_9_pl|Habbab{***}
-trp_knight_28_10|Emir Muhammad{***}
-trp_knight_28_10_pl|Muhammad{***}
-trp_knight_28_11|Emir Hanif{***}
-trp_knight_28_11_pl|Hanif{***}
-trp_knight_28_12|Emir Hashim{***}
-trp_knight_28_12_pl|Hashim{***}
-trp_knight_28_13|Emir Hassan{***}
-trp_knight_28_13_pl|Hassan{***}
-trp_knight_28_14|Emir Isma'il{***}
-trp_knight_28_14_pl|Isma'il{***}
-trp_knight_28_15|Emir Jabalah{***}
-trp_knight_28_15_pl|Jabalah{***}
+trp_knight_28_1|阿 巴 斯 酋 长 
+trp_knight_28_1_pl|阿 巴 斯 
+trp_knight_28_2|阿 什 拉 夫 酋 长 
+trp_knight_28_2_pl|阿 什 拉 夫 
+trp_knight_28_3|彼 得 酋 长 
+trp_knight_28_3_pl|彼 得 
+trp_knight_28_4|扎 基 尔 酋 长 
+trp_knight_28_4_pl|扎 基 尔 
+trp_knight_28_5|法 基 尔 酋 长 
+trp_knight_28_5_pl|法 基 尔 
+trp_knight_28_6|法 里 赫 酋 长 
+trp_knight_28_6_pl|法 里 赫 
+trp_knight_28_7|法 特 赫 酋 长 
+trp_knight_28_7_pl|法 特 赫 
+trp_knight_28_8|贾 马 尔 酋 长 
+trp_knight_28_8_pl|贾 马 尔 
+trp_knight_28_9|哈 巴 卜 酋 长 
+trp_knight_28_9_pl|哈 巴 卜 
+trp_knight_28_10|穆 罕 默 德 酋 长 
+trp_knight_28_10_pl|穆 罕 默 德 
+trp_knight_28_11|哈 尼 夫 酋 长 
+trp_knight_28_11_pl|哈 尼 夫 
+trp_knight_28_12|哈 希 姆 酋 长 
+trp_knight_28_12_pl|哈 希 姆 
+trp_knight_28_13|哈 桑 酋 长 
+trp_knight_28_13_pl|哈 桑 
+trp_knight_28_14|伊 斯 迈 尔 酋 长 
+trp_knight_28_14_pl|伊 斯 迈 尔 
+trp_knight_28_15|贾 巴 拉 酋 长 
+trp_knight_28_15_pl|贾 巴 拉 
 trp_knight_29_1|Zhupan Hvalimir{***}
 trp_knight_29_1_pl|Hvalimir{***}
 trp_knight_29_2|Zhupan Dragoslav{***}
@@ -2135,36 +2135,36 @@ trp_knight_30_9|Boyar Dragomir{***}
 trp_knight_30_9_pl|Dragomir{***}
 trp_knight_30_10|Boyar Ilia{***}
 trp_knight_30_10_pl|Ilia{***}
-trp_knight_31_1|Emir Muhammad{***}
-trp_knight_31_1_pl|Muhammad{***}
-trp_knight_31_2|Emir Ahmad{***}
-trp_knight_31_2_pl|Ahmad{***}
-trp_knight_31_3|Emir Ali{***}
-trp_knight_31_3_pl|Ali{***}
-trp_knight_31_4|Emir Ibrahim{***}
-trp_knight_31_4_pl|Ibrahim{***}
-trp_knight_31_5|Emir Yahya{***}
-trp_knight_31_5_pl|Yahya{***}
-trp_knight_31_6|Emir Umar{***}
-trp_knight_31_6_pl|Umar{***}
-trp_knight_31_7|Emir Ishaq{***}
-trp_knight_31_7_pl|Ishaq{***}
-trp_knight_31_8|Emir Said{***}
-trp_knight_31_8_pl|Said{***}
-trp_knight_31_9|Emir Jafar{***}
-trp_knight_31_9_pl|Jafar{***}
-trp_knight_31_10|Emir Abd al-Rahman{***}
-trp_knight_31_10_pl|Abd al-Rahman{***}
-trp_knight_31_11|Emir Ismail{***}
-trp_knight_31_11_pl|Ismail{***}
-trp_knight_31_12|Emir Sulayman{***}
-trp_knight_31_12_pl|Sulayman{***}
-trp_knight_31_13|Emir Yusuf{***}
-trp_knight_31_13_pl|Yusuf{***}
-trp_knight_31_14|Emir Salih{***}
-trp_knight_31_14_pl|Salih{***}
-trp_knight_31_15|Emir Yazid{***}
-trp_knight_31_15_pl|Yazid{***}
+trp_knight_31_1|穆 罕 默 德 酋 长 
+trp_knight_31_1_pl|穆 罕 默 德 
+trp_knight_31_2|艾 哈 迈 德 酋 长 
+trp_knight_31_2_pl|艾 哈 迈 德 
+trp_knight_31_3|阿 里 酋 长 
+trp_knight_31_3_pl|阿 里 
+trp_knight_31_4|易 卜 拉 辛 酋 长 
+trp_knight_31_4_pl|易 卜 拉 辛 
+trp_knight_31_5|叶 哈 雅 酋 长 
+trp_knight_31_5_pl|叶 哈 雅 
+trp_knight_31_6|乌 马 尔 酋 长 
+trp_knight_31_6_pl|乌 马 尔 
+trp_knight_31_7|伊 斯 哈 格 酋 长 
+trp_knight_31_7_pl|伊 斯 哈 格 
+trp_knight_31_8|萨 义 德 酋 长 
+trp_knight_31_8_pl|萨 义 德 
+trp_knight_31_9|贾 法 尔 酋 长 
+trp_knight_31_9_pl|贾 法 尔 
+trp_knight_31_10|阿 卜 杜 勒· 拉 赫 曼 酋 长 
+trp_knight_31_10_pl|阿 卜 杜 勒· 拉 赫 曼 
+trp_knight_31_11|伊 斯 梅 尔 酋 长 
+trp_knight_31_11_pl|伊 斯 梅 尔 
+trp_knight_31_12|苏 莱 曼 酋 长 
+trp_knight_31_12_pl|苏 莱 曼 
+trp_knight_31_13|尤 素 夫 酋 长 
+trp_knight_31_13_pl|尤 素 夫 
+trp_knight_31_14|萨 利 赫 酋 长 
+trp_knight_31_14_pl|萨 利 赫 
+trp_knight_31_15|叶 齐 德 酋 长 
+trp_knight_31_15_pl|叶 齐 德 
 trp_kingdom_2_pretender|Kunigas Daumantas
 trp_kingdom_2_pretender_pl|Daumantas
 trp_kingdom_4_pretender|Danish pretender placeholder
