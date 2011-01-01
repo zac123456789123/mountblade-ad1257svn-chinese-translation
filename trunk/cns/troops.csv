@@ -1415,10 +1415,10 @@ trp_knight_4_9|雅 各 布 森 伯 爵
 trp_knight_4_9_pl|雅 各 布 森 
 trp_knight_4_10|彼 得 伯 爵 
 trp_knight_4_10_pl|彼 得 
-trp_knight_4_11|伊 娃· 帕 格 森 伯 爵 
-trp_knight_4_11_pl|伊 娃· 帕 格 森 
-trp_knight_4_12|伊 娃· 帕 卡 森 伯 爵 
-trp_knight_4_12_pl|伊 娃· 帕 卡 森 
+trp_knight_4_11|伊 瓦· 帕 格 森 伯 爵 
+trp_knight_4_11_pl|伊 瓦· 帕 格 森 
+trp_knight_4_12|伊 瓦· 帕 卡 森 伯 爵 
+trp_knight_4_12_pl|伊 瓦· 帕 卡 森 
 trp_knight_4_13|尼 菲 尔 坡 伯 爵 
 trp_knight_4_13_pl|尼 菲 尔 坡 
 trp_knight_4_14|萨 克 索 伯 爵 
@@ -1525,18 +1525,18 @@ trp_knight_7_14|Balassa Bitter{***}
 trp_knight_7_14_pl|Balassa Bitter{***}
 trp_knight_7_15|Rátót nembeli Roland{***}
 trp_knight_7_15_pl|Rátót Roland{***}
-trp_knight_8_1|Knyaz Vsevolod Yurievich{***}
-trp_knight_8_1_pl|Vsevolod Yurievich{***}
-trp_knight_8_2|Knyaz Bryachislav Vasilkovich{***}
-trp_knight_8_2_pl|Bryachislav Vasilkovich{***}
-trp_knight_8_3|Knyaz Svyatoslav Mstislavich{***}
-trp_knight_8_3_pl|Svyatoslav Mstislavich{***}
-trp_knight_8_4|Knyaz Yuriy Igorevich{***}
-trp_knight_8_4_pl|Yuriy Igorevich{***}
-trp_knight_8_5|Knyaz Mstislav Glebovich{***}
-trp_knight_8_5_pl|Mstislav Glebovich{***}
-trp_knight_9_1|Prince Edward Longshanks{***}
-trp_knight_9_1_pl|Edward Longshanks{***}
+trp_knight_8_1|弗 谢 沃 洛 多· 尤 里 伊 维 奇 亲 王
+trp_knight_8_1_pl|弗 谢 沃 洛 多· 尤 里 伊 维 奇 
+trp_knight_8_2|布 里 亚 奇 斯 拉 夫· 瓦 斯 拉 科 维 奇 亲 王
+trp_knight_8_2_pl|布 里 亚 奇 斯 拉 夫· 瓦 斯 拉 科 维 奇 
+trp_knight_8_3|苏 亚 特 斯 拉 夫· 姆 斯 基 斯 拉 维 奇 亲 王
+trp_knight_8_3_pl|苏 亚 特 斯 拉 夫· 姆 斯 基 斯 拉 维 奇 
+trp_knight_8_4|尤 里· 伊 戈 列 维 奇 亲 王 
+trp_knight_8_4_pl|尤 里· 伊 戈 列 维 奇 
+trp_knight_8_5|姆 斯 基 斯 拉 夫· 格 列 博 维 奇 亲 王 
+trp_knight_8_5_pl|姆 斯 基 斯 拉 夫· 格 列 博 维 奇 
+trp_knight_9_1|爱 德 华 王 子，长 腿 
+trp_knight_9_1_pl|爱 德 华，长 腿 
 trp_knight_9_2|Sir William de Valence, Earl of Wexford and Pembroke{***}
 trp_knight_9_2_pl|William de Valence{***}
 trp_knight_9_3|Lord High Steward Simon V de Montfort, Earl of Leicester{***}
@@ -1725,26 +1725,26 @@ trp_knight_14_14|Folke Algotsson{***}
 trp_knight_14_14_pl|Folke Algotsson{***}
 trp_knight_14_15|Johan Ängel{***}
 trp_knight_14_15_pl|Johan Ängel{***}
-trp_knight_15_1|Knyaz Volodimir Ivan Vasilkovich{***}
-trp_knight_15_1_pl|Volodimir Ivan Vasilkovich{***}
-trp_knight_15_2|Knyaz Vasylko Romanovich{***}
-trp_knight_15_2_pl|Vasylko Romanovich{***}
-trp_knight_15_3|Knyaz Lev Danylovich{***}
-trp_knight_15_3_pl|Lev Danylovich{***}
-trp_knight_15_4|Knyaz Roman Danylovich{***}
-trp_knight_15_4_pl|Roman Danylovich{***}
-trp_knight_15_5|Knyaz Mstislav Danylovich{***}
-trp_knight_15_5_pl|Mstislav Danylovich{***}
-trp_knight_15_6|Knyaz Svarn Danylovich{***}
-trp_knight_15_6_pl|Svarn Danylovich{***}
-trp_knight_15_7|Knyaz Bryachislav Vasilkovich {***}
-trp_knight_15_7_pl|Bryachislav Vasilkovich {***}
-trp_knight_15_8|Knyaz Gleb Mstislavich{***}
-trp_knight_15_8_pl|Gleb Mstislavich{***}
-trp_knight_15_9|Knyaz Roman Vsevolodovich{***}
-trp_knight_15_9_pl|Roman Vsevolodovich{***}
-trp_knight_15_10|Knyaz Andrey Vsevolodovich{***}
-trp_knight_15_10_pl|Andrey Vsevolodovich{***}
+trp_knight_15_1|沃 洛 迪 米 尔· 瓦 西 尔 科 维 奇 亲 王 
+trp_knight_15_1_pl|沃 洛 迪 米 尔· 瓦 西 尔 科 维 奇 
+trp_knight_15_2|瓦 西 尔 科· 罗 曼 诺 维 奇 亲 王 
+trp_knight_15_2_pl|瓦 西 尔 科· 罗 曼 诺 维 奇 
+trp_knight_15_3|列 夫· 达 尼 洛 维 奇 亲 王 
+trp_knight_15_3_pl|列 夫· 达 尼 洛 维 奇 
+trp_knight_15_4|罗 曼· 达 尼 洛 维 奇 亲 王 
+trp_knight_15_4_pl|罗 曼· 达 尼 洛 维 奇 
+trp_knight_15_5|姆 斯 季 斯 拉 夫· 达 尼 洛 维 奇 亲 王 
+trp_knight_15_5_pl|姆 斯 季 斯 拉 夫· 达 尼 洛 维 奇 
+trp_knight_15_6|斯 瓦 恩· 达 尼 洛 维 奇 亲 王 
+trp_knight_15_6_pl|斯 瓦 恩· 达 尼 洛 维 奇 
+trp_knight_15_7|布 里 亚 奇 斯 拉 夫· 瓦 西 尔 科 维 奇 亲 王 
+trp_knight_15_7_pl|布 里 亚 奇 斯 拉 夫· 瓦 西 尔 科 维 奇 
+trp_knight_15_8|格 列 布· 姆 斯 蒂 斯 拉 维 奇 亲 王 
+trp_knight_15_8_pl|格 列 布· 姆 斯 蒂 斯 拉 维 奇 
+trp_knight_15_9|罗 曼· 弗 谢 沃 洛 多 维 奇 亲 王 
+trp_knight_15_9_pl|罗 曼· 弗 谢 沃 洛 多 维 奇 
+trp_knight_15_10|安 德 烈· 弗 谢 沃 洛 多 维 奇 亲 王 
+trp_knight_15_10_pl|安 德 烈· 弗 谢 沃 洛 多 维 奇 
 trp_knight_16_1|Paio Peres Correia, Grandmaster of the Order of Santiago{***}
 trp_knight_16_1_pl|Paio Peres Correia{***}
 trp_knight_16_2|Dom Mendo Alano de Bragança{***}
@@ -1965,56 +1965,56 @@ trp_knight_24_14|Caroccio{***}
 trp_knight_24_14_pl|Caroccio{***}
 trp_knight_24_15|Elvio{***}
 trp_knight_24_15_pl|Elvio{***}
-trp_knight_25_1|Amiir Al-Mansur Ali{***}
-trp_knight_25_1_pl|Al-Mansur Ali{***}
-trp_knight_25_2|Vice-Sultan Saif ad-Din Qutuz{***}
-trp_knight_25_2_pl|Saif ad-Din Qutuz{***}
-trp_knight_25_3|Amiir Faris ad-Din Aktai al-Mostareb{***}
-trp_knight_25_3_pl|Faris ad-Din Aktai al-Mostareb{***}
-trp_knight_25_4|Amiir Aghizluu{***}
-trp_knight_25_4_pl|Aghizluu{***}
-trp_knight_25_5|Amiir Alaabughaa{***}
-trp_knight_25_5_pl|Alaabughaa{***}
-trp_knight_25_6|Amiir Altamur{***}
-trp_knight_25_6_pl|Altamur{***}
-trp_knight_25_7|Amiir Anuuk{***}
-trp_knight_25_7_pl|Anuuk{***}
-trp_knight_25_8|Amiir Aqbughaa{***}
-trp_knight_25_8_pl|Aqbughaa{***}
-trp_knight_25_9|Amiir Aqtamur{***}
-trp_knight_25_9_pl|Aqtamur{***}
-trp_knight_25_10|Amiir Baktamur{***}
-trp_knight_25_10_pl|Baktamur{***}
-trp_knight_25_11|Amiir Balabaan{***}
-trp_knight_25_11_pl|Balabaan{***}
-trp_knight_25_12|Amiir Baltaa{***}
-trp_knight_25_12_pl|Baltaa{***}
-trp_knight_25_13|Amiir Barsbughaa{***}
-trp_knight_25_13_pl|Barsbughaa{***}
-trp_knight_25_14|Amiir Baybujaa{***}
-trp_knight_25_14_pl|Baybujaa{***}
-trp_knight_25_15|Amiir Baydamur{***}
-trp_knight_25_15_pl|Baydamur{***}
-trp_knight_25_16|Amiir Biiliik{***}
-trp_knight_25_16_pl|Biiliik{***}
-trp_knight_25_17|Amiir Duqmaaq{***}
-trp_knight_25_17_pl|Duqmaaq{***}
-trp_knight_25_18|Amiir Ishiqtamur{***}
-trp_knight_25_18_pl|Ishiqtamur{***}
-trp_knight_25_19|Amiir Iyaas{***}
-trp_knight_25_19_pl|Iyaas{***}
-trp_knight_25_20|Amiir Iyaaz{***}
-trp_knight_25_20_pl|Iyaaz{***}
-trp_knight_25_21|Amiir Jaqmaq{***}
-trp_knight_25_21_pl|Jaqmaq{***}
-trp_knight_25_22|Amiir Jaavlii{***}
-trp_knight_25_22_pl|Jaavlii{***}
-trp_knight_25_23|Amiir Julbaan{***}
-trp_knight_25_23_pl|Julbaan{***}
-trp_knight_25_24|Amiir Jumaq{***}
-trp_knight_25_24_pl|Jumaq{***}
-trp_knight_25_25|Amiir Juubaan{***}
-trp_knight_25_25_pl|Juubaan{***}
+trp_knight_25_1|曼 苏 尔· 阿 里 酋 长 
+trp_knight_25_1_pl|曼 苏 尔· 阿 里 
+trp_knight_25_2|赛 义 夫· 库 图 兹 王 储 
+trp_knight_25_2_pl|赛 义 夫· 库 图 兹 
+trp_knight_25_3|法 里 斯· 穆 斯 塔 莱 布 酋 长 
+trp_knight_25_3_pl|法 里 斯· 穆 斯 塔 莱 布 
+trp_knight_25_4|阿 格 兹 鲁 酋 长 
+trp_knight_25_4_pl|阿 格 兹 鲁 
+trp_knight_25_5|阿 拉 布 哈 酋 长 
+trp_knight_25_5_pl|阿 拉 布 哈 
+trp_knight_25_6|阿 尔 塔 穆 尔 酋 长 
+trp_knight_25_6_pl|阿 尔 塔 穆 尔 
+trp_knight_25_7|阿 努 克 酋 长 
+trp_knight_25_7_pl|阿 努 克 
+trp_knight_25_8|阿 克 布 哈 酋 长
+trp_knight_25_8_pl|阿 克 布 哈 
+trp_knight_25_9|阿 克 塔 穆 尔 酋 长 
+trp_knight_25_9_pl|阿 克 塔 穆 尔 
+trp_knight_25_10|巴 克 塔 穆 尔 酋 长 
+trp_knight_25_10_pl|巴 克 塔 穆 尔 
+trp_knight_25_11|巴 拉 班 酋 长 
+trp_knight_25_11_pl|巴 拉 班 
+trp_knight_25_12|巴 尔 塔 酋 长 
+trp_knight_25_12_pl|巴 尔 塔 
+trp_knight_25_13|巴 斯 布 哈 酋 长 
+trp_knight_25_13_pl|巴 斯 布 哈 
+trp_knight_25_14|拜 布 贾 酋 长 
+trp_knight_25_14_pl|拜 布 贾 
+trp_knight_25_15|拜 达 穆 尔 酋 长 
+trp_knight_25_15_pl|拜 达 穆 尔 
+trp_knight_25_16|比 力 克 酋 长 
+trp_knight_25_16_pl|比 力 克 
+trp_knight_25_17|杜 克 马 克 酋 长 
+trp_knight_25_17_pl|杜 克 马 克 
+trp_knight_25_18|伊 西 克 塔 穆 尔 酋 长 
+trp_knight_25_18_pl|伊 西 克 塔 穆 尔 
+trp_knight_25_19|伊 亚 斯 酋 长 
+trp_knight_25_19_pl|伊 亚 斯 
+trp_knight_25_20|伊 亚 兹 酋 长 
+trp_knight_25_20_pl|伊 亚 兹 
+trp_knight_25_21|扎 克 马 克 酋 长 
+trp_knight_25_21_pl|扎 克 马 克 
+trp_knight_25_22|扎 夫 里 酋 长 
+trp_knight_25_22_pl|扎 夫 里 
+trp_knight_25_23|朱 尔 班 酋 长 
+trp_knight_25_23_pl|朱 尔 班 
+trp_knight_25_24|朱 马 克 酋 长 
+trp_knight_25_24_pl|朱 马 克 
+trp_knight_25_25|朱 班 酋 长 
+trp_knight_25_25_pl|朱 班 
 trp_knight_26_1|Philip of Toucy{***}
 trp_knight_26_1_pl|Philip of Toucy{***}
 trp_knight_26_2|Guy I de la Roche, Lord of Athens{***}
