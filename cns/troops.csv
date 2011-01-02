@@ -1227,18 +1227,18 @@ trp_npc30|伊 瓦 伊 洛· 巴 尔 多 科 瓦
 trp_npc30_pl|伊 瓦 伊 洛· 巴 尔 多 科 瓦 
 trp_npc31|阿 里 
 trp_npc31_pl|阿 里 
-trp_kingdom_1_lord|伯 查 德· 冯· 霍 恩 豪 森 团 长 
-trp_kingdom_1_lord_pl|伯 查 德· 冯· 霍 恩 豪 森 
+trp_kingdom_1_lord|霍 恩 豪 森 的 伯 查 德 大 团 长 
+trp_kingdom_1_lord_pl|霍 恩 豪 森 的 伯 查 德  
 trp_kingdom_2_lord|明 道 加 斯 国 王 
 trp_kingdom_2_lord_pl|明 道 加 斯 
 trp_kingdom_3_lord|别 儿 哥 汗 
 trp_kingdom_3_lord_pl|别 儿 哥 
 trp_kingdom_4_lord|克 里 斯 托 弗 一 世 国 王 
 trp_kingdom_4_lord_pl|克 里 斯 托 弗 
-trp_kingdom_5_lord|波 列 斯 瓦 夫 五 世 高 等 公 爵 “贞 洁 者” 
-trp_kingdom_5_lord_pl|波 列 斯 瓦 夫 “贞 洁 者” 
-trp_kingdom_6_lord|理 查 德· 冯· 康 沃 尔 皇 帝 "罗 马 的 皇 帝" 
-trp_kingdom_6_lord_pl|理 查 德· 冯· 康 沃 尔 
+trp_kingdom_5_lord|波 列 斯 瓦 夫 五 世 高 等 公 爵“贞 洁 者” 
+trp_kingdom_5_lord_pl|波 列 斯 瓦 夫“贞 洁 者” 
+trp_kingdom_6_lord|罗 马 皇 帝，康 沃 尔 的 理 查 德 
+trp_kingdom_6_lord_pl|康 沃 尔 的 理 查 德  
 trp_kingdom_7_lord|贝 拉 四 世 国 王 
 trp_kingdom_7_lord_pl|贝 拉 
 trp_kingdom_8_lord|亚 历 山 大· 涅 夫 斯 基 大 公 
@@ -1259,8 +1259,8 @@ trp_kingdom_15_lord|丹 尼 尔· 罗 曼 诺 维 奇 国 王
 trp_kingdom_15_lord_pl|丹 尼 尔· 罗 曼 诺 维 奇 
 trp_kingdom_16_lord|阿 方 索 三 世 国 王 
 trp_kingdom_16_lord_pl|阿 方 索 三 世 
-trp_kingdom_17_lord|海 梅 一 世 国 王 “征 服 者” 
-trp_kingdom_17_lord_pl|海 梅 一 世 “征 服 者” 
+trp_kingdom_17_lord|海 梅 一 世 国 王“征 服 者” 
+trp_kingdom_17_lord_pl|海 梅 一 世“征 服 者” 
 trp_kingdom_18_lord|阿 方 索 十 世 国 王 
 trp_kingdom_18_lord_pl|阿 方 索 十 世 
 trp_kingdom_20_lord|穆 罕 默 德 一 世· 伊 本 纳 斯 苏 丹 
@@ -1367,8 +1367,8 @@ trp_knight_3_10|布 合 台 那 颜
 trp_knight_3_10_pl|布 合 台 
 trp_knight_3_11|拜 答 儿· 不 剌 那 颜 
 trp_knight_3_11_pl|拜 答 儿· 不 剌 
-trp_knight_3_12|唐 古 拉· 忽 都 鲁 那 颜 
-trp_knight_3_12_pl|唐 古 拉· 忽 都 鲁 
+trp_knight_3_12|唐 古 特· 忽 都 鲁 那 颜 
+trp_knight_3_12_pl|唐 古 特· 忽 都 鲁 
 trp_knight_3_13|乞 班 那 颜 
 trp_knight_3_13_pl|乞 班 
 trp_knight_3_14|勃 哥 察 那 颜 
@@ -1387,8 +1387,8 @@ trp_knight_3_20|锡 巴 黑 那 颜
 trp_knight_3_20_pl|锡 巴 黑 
 trp_knight_3_21|勃 斥 儿· 巴 特 尔 那 颜 
 trp_knight_3_21_pl|勃 斥 儿· 巴 特 尔 
-trp_knight_3_22|唐 古 拉 点 那 颜 
-trp_knight_3_22_pl|唐 古 拉 
+trp_knight_3_22|唐 古 特 点 那 颜 
+trp_knight_3_22_pl|唐 古 特 
 trp_knight_3_23|勃 哈 儿 那 颜 
 trp_knight_3_23_pl|勃 哈 儿 
 trp_knight_3_24|明 客 都 那 颜 
@@ -1435,16 +1435,16 @@ trp_knight_5_4|博 来 斯 瓦 夫 公 爵
 trp_knight_5_4_pl|博 来 斯 瓦 夫 
 trp_knight_5_5|瓦 迪 斯 瓦 夫 公 爵
 trp_knight_5_5_pl|瓦 迪 斯 瓦 夫
-trp_knight_5_6|亨 利·怀 特 公 爵
-trp_knight_5_6_pl|亨 利
+trp_knight_5_6|亨 利· 怀 特 公 爵
+trp_knight_5_6_pl|亨 利· 怀 特 
 trp_knight_5_7|“ 波 美 拉 尼 亚 大 公” 瑟 维 多 比 克 二 世
 trp_knight_5_7_pl|瑟 维 多 比 克
 trp_knight_5_8|博 列 科 公 爵
 trp_knight_5_8_pl|博 列 科
 trp_knight_5_9|玛 斯 齐 沃 公 爵
 trp_knight_5_9_pl|玛 斯 齐 沃
-trp_knight_5_10|瑞 斯 博·彼 洛 加 斯 基 亲 王
-trp_knight_5_10_pl|瑞 斯 博·彼 洛 加 斯 基
+trp_knight_5_10|瑞 斯 博· 彼 洛 加 斯 基 亲 王
+trp_knight_5_10_pl|瑞 斯 博· 彼 洛 加 斯 基
 trp_knight_5_11|普 热 梅 希 尔 公 爵
 trp_knight_5_11_pl|普 热 梅 希 尔
 trp_knight_5_12|萨 姆 波 公 爵
@@ -1465,7 +1465,7 @@ trp_knight_6_4|“ 勃 兰 登 堡 侯 爵” 奥 托 三 世， 虔 诚 者
 trp_knight_6_4_pl|奥 托 三 世， 虔 诚 者 
 trp_knight_6_5|“ 下 巴 伐 利 亚 公 爵” 海 因 里 希 八 世 
 trp_knight_6_5_pl|海 因 里 希 八 世
-trp_knight_6_6|“布 拉 班 特 公 爵” 海 因 里 希 三 世， 善 人 
+trp_knight_6_6|“ 布 拉 班 特 公 爵” 海 因 里 希 三 世， 善 人 
 trp_knight_6_6_pl|海 因 里 希 三 世， 善 人 
 trp_knight_6_7|“ 布 伦 瑞 克 和 吕 内 堡” 约 翰 一 世 
 trp_knight_6_7_pl|约 翰 一 世 
@@ -1475,8 +1475,8 @@ trp_knight_6_9|“ 科 隆 大 主 教” 霍 赫 斯 塔 顿 的 康 拉 德 �
 trp_knight_6_9_pl|霍 赫 斯 塔 顿 的 康 拉 德 一 世 
 trp_knight_6_10|“ 美 因 茨 大 主 教” 多 恩 的 格 哈 德 一 世 
 trp_knight_6_10_pl|多 恩 的 格 哈 德 一 世 
-trp_knight_6_11|Arnold II of Isenburg, Archbishop of Trier
-trp_knight_6_11_pl|Arnold II of Isenburg
+trp_knight_6_11|“ 特 里 尔 大 主 教” 伊 森 堡 的 阿 诺 德 二 世 
+trp_knight_6_11_pl|伊 森 堡 的 阿 诺 德 二 世 
 trp_knight_6_12|Ulrich III of Spanheim, Duke of Carinthia and Lord of Krain
 trp_knight_6_12_pl|Ulrich III of Spanheim
 trp_knight_6_13|Friedrich III, Duke of Lorraine
@@ -1537,44 +1537,44 @@ trp_knight_8_5|姆 斯 基 斯 拉 夫· 格 列 博 维 奇 亲 王
 trp_knight_8_5_pl|姆 斯 基 斯 拉 夫· 格 列 博 维 奇 
 trp_knight_9_1|爱 德 华 王 子，长 腿 
 trp_knight_9_1_pl|爱 德 华，长 腿 
-trp_knight_9_2|Sir William de Valence, Earl of Wexford and Pembroke{***}
-trp_knight_9_2_pl|William de Valence{***}
-trp_knight_9_3|Lord High Steward Simon V de Montfort, Earl of Leicester{***}
-trp_knight_9_3_pl|Simon de Montfort{***}
-trp_knight_9_4|Count Peter II of Savoy, Earl of Richmond{***}
-trp_knight_9_4_pl|Peter II of Savoy{***}
-trp_knight_9_5|Sir Richard de Clare, Earl of Hertford and Gloucester{***}
-trp_knight_9_5_pl|Richard de Clare{***}
-trp_knight_9_6|Baron Roger Mortimer{***}
-trp_knight_9_6_pl|Roger Mortimer{***}
-trp_knight_9_7|Prince Bishop Walter of Durham{***}
-trp_knight_9_7_pl|Walter of Durham{***}
-trp_knight_9_8|Lord Marshal Roger Bigod, Earl of Norfolk{***}
-trp_knight_9_8_pl|Roger Bigod{***}
-trp_knight_9_9|Archbishop Boniface of Canterbury{***}
-trp_knight_9_9_pl|Boniface of Canterbury{***}
-trp_knight_9_10|Sir John de Warenne, Earl of Surrey{***}
-trp_knight_9_10_pl|John de Warenne{***}
-trp_knight_9_11|Sir William Maudit, Earl of Warick{***}
-trp_knight_9_11_pl|William Maudit{***}
-trp_knight_9_12|Sir Baldwin de Redvers, Earl of Devon and Lord of the Isle{***}
-trp_knight_9_12_pl|Baldwin de Redvers{***}
-trp_knight_9_13|Sir Roger de Northwode, Warden of the Cinque Ports{***}
-trp_knight_9_13_pl|Roger de Northwode{***}
-trp_knight_9_14|Lord High Constable Humphrey de Bohun, Earl of Hereford and Essex{***}
-trp_knight_9_14_pl|Humphrey de Bohun{***}
-trp_knight_9_15|Sir Edmund de Lacy, Earl of Lincoln and Baron of Halton{***}
-trp_knight_9_15_pl|Edmund de Lacy{***}
-trp_knight_9_16|Sir Hugh de Vere, Earl of Oxford{***}
-trp_knight_9_16_pl|Hugh de Vere{***}
-trp_knight_9_17|Sir John FitzAlan, Earl of Arundel{***}
-trp_knight_9_17_pl|John FitzAlan{***}
-trp_knight_9_18|Archbishop Sewal of York{***}
-trp_knight_9_18_pl|Sewal{***}
-trp_knight_9_19|Prince Henry of Almain{***}
-trp_knight_9_19_pl|Henry of Almain{***}
-trp_knight_9_20|Secretary Sir John Maunsell{***}
-trp_knight_9_20_pl|John Maunsell{***}
+trp_knight_9_2|“ 威 克 斯 福 德 和 彭 布 罗 克 伯 爵” 瓦 朗 斯 的 威 廉 
+trp_knight_9_2_pl|瓦 朗 斯 的 威 廉 
+trp_knight_9_3|“ 莱 切 斯 特 伯 爵，王 室 事 务 长” 蒙 特 福 特 的 西 蒙 五 世 
+trp_knight_9_3_pl|蒙 特 福 特 的 西 蒙 五 世 
+trp_knight_9_4|“ 里 士 满 伯 爵” 萨 沃 伊 的 彼 得 二 世 
+trp_knight_9_4_pl|萨 沃 伊 的 彼 得 二 世 
+trp_knight_9_5|“ 赫 特 福 德 和 格 洛 斯 特 伯 爵” 克 莱 尔 的 理 查 德 
+trp_knight_9_5_pl|克 莱 尔 的 理 查 德 
+trp_knight_9_6|罗 杰· 莫 蒂 默 男 爵 
+trp_knight_9_6_pl|罗 杰· 莫 蒂 默 
+trp_knight_9_7|“ 枢 机 主 教” 达 拉 姆 的 沃 尔 特 
+trp_knight_9_7_pl|达 拉 姆 的 沃 尔 特 
+trp_knight_9_8|“ 诺 福 克 伯 爵” 罗 杰· 比 戈 德 元 帅 
+trp_knight_9_8_pl|罗 杰· 比 戈 德 
+trp_knight_9_9|坎 特 伯 雷 的 博 尼 费 斯 大 主 教 
+trp_knight_9_9_pl|坎 特 伯 雷 的 博 尼 费 斯 
+trp_knight_9_10|“ 萨 里 伯 爵” 瓦 伦 的 约 翰 
+trp_knight_9_10_pl|瓦 伦 的 约 翰 
+trp_knight_9_11|“ 华 维 克 伯 爵” 威 廉· 马 迪 特 
+trp_knight_9_11_pl|威 廉· 马 迪 特 
+trp_knight_9_12|“ 德 文 伯 爵 和 怀 特 岛 领 主” 雷 德 弗 斯 的 鲍 德 温 
+trp_knight_9_12_pl|雷 德 弗 斯 的 鲍 德 温 
+trp_knight_9_13|“ 五 港 总 督” 诺 思 伍 德 的 罗 杰 
+trp_knight_9_13_pl|诺 思 伍 德 的 罗 杰 
+trp_knight_9_14|“ 赫 里 福 德 和 埃 塞 克 斯 伯 爵，宫 廷 长 官” 波 鸿 的 汉 弗 雷 
+trp_knight_9_14_pl|波 鸿 的 汉 弗 雷 
+trp_knight_9_15|“ 林 肯 郡 伯 爵，霍 尔 顿 男 爵” 拉 齐 的 埃 德 蒙 
+trp_knight_9_15_pl|拉 齐 的 埃 德 蒙 
+trp_knight_9_16|“ 牛 津 伯 爵” 维 拉 的 休  
+trp_knight_9_16_pl|维 拉 的 休  
+trp_knight_9_17|“ 阿 伦 德 尔 伯 爵” 约 翰· 菲 茨 阿 伦 
+trp_knight_9_17_pl|约 翰· 菲 茨 阿 伦 
+trp_knight_9_18|约 克 的 休 厄 尔 大 主 教 
+trp_knight_9_18_pl|休 厄 尔 
+trp_knight_9_19|阿 尔 曼 的 亨 利 亲 王 
+trp_knight_9_19_pl|阿 尔 曼 的 亨 利 
+trp_knight_9_20|“ 王 室 大 臣” 约 翰· 曼 赛 尔 
+trp_knight_9_20_pl|约 翰· 曼 赛 尔 
 trp_knight_10_1|Alphonse de Poitiers, comte de Poitiers, de Saintonge et de Toulouse{***}
 trp_knight_10_1_pl|Alphonse de Poitiers{***}
 trp_knight_10_2|Charles Ier d'Anjou, Comte d’Anjou du Maine, de Provence et de Forcalquier{***}
@@ -1745,96 +1745,96 @@ trp_knight_15_9|罗 曼· 弗 谢 沃 洛 多 维 奇 亲 王
 trp_knight_15_9_pl|罗 曼· 弗 谢 沃 洛 多 维 奇 
 trp_knight_15_10|安 德 烈· 弗 谢 沃 洛 多 维 奇 亲 王 
 trp_knight_15_10_pl|安 德 烈· 弗 谢 沃 洛 多 维 奇 
-trp_knight_16_1|Paio Peres Correia, Grandmaster of the Order of Santiago{***}
-trp_knight_16_1_pl|Paio Peres Correia{***}
-trp_knight_16_2|Dom Mendo Alano de Bragança{***}
-trp_knight_16_2_pl|Mendo Alano de Bragança{***}
-trp_knight_16_3|Don Vaasco{***}
-trp_knight_16_3_pl|Vaasco{***}
-trp_knight_16_4|Don Meen{***}
-trp_knight_16_4_pl|Meen{***}
-trp_knight_16_5|Don Vermuu{***}
-trp_knight_16_5_pl|Vermuu{***}
-trp_knight_16_6|Don Gonsaluu{***}
-trp_knight_16_6_pl|Gonsaluu{***}
-trp_knight_16_7|Don Martio{***}
-trp_knight_16_7_pl|Martio{***}
-trp_knight_16_8|Don Martim{***}
-trp_knight_16_8_pl|Martim{***}
-trp_knight_16_9|Don Stepham{***}
-trp_knight_16_9_pl|Stepham{***}
-trp_knight_16_10|Don Iohannes{***}
-trp_knight_16_10_pl|Iohannes{***}
-trp_knight_16_11|Don Menendus{***}
-trp_knight_16_11_pl|Menendus{***}
-trp_knight_16_12|Don Sanchez{***}
-trp_knight_16_12_pl|Sanchez{***}
-trp_knight_16_13|Don Sancho{***}
-trp_knight_16_13_pl|Sancho{***}
-trp_knight_16_14|Don Laurencius{***}
-trp_knight_16_14_pl|Laurencius{***}
-trp_knight_16_15|Don Fernãdiç{***}
-trp_knight_16_15_pl|Fernãdiç{***}
-trp_knight_17_1|Archbishop Arnau de Peralta{***}
-trp_knight_17_1_pl|Arnau de Peralta{***}
-trp_knight_17_2|Seneschal Pere Ramon de Montcada{***}
-trp_knight_17_2_pl|Pere Ramon de Montcada{***}
-trp_knight_17_3|Count Álvar d'Urgell{***}
-trp_knight_17_3_pl|Álvar d'Urgell{***}
-trp_knight_17_4|Count Pons d'Empúries{***}
-trp_knight_17_4_pl|Pons d'Empúries{***}
-trp_knight_17_5|Count Arnau Roger de Pallars{***}
-trp_knight_17_5_pl|Arnau Roger de Pallars{***}
-trp_knight_17_6|Don Lope Ferrench de Luna {***}
-trp_knight_17_6_pl|Lope Ferrench de Luna {***}
-trp_knight_17_7|Don Pero Cornel{***}
-trp_knight_17_7_pl|Pero Cornel{***}
-trp_knight_17_8|Viscount Gaston de Montcada{***}
-trp_knight_17_8_pl|Gaston de Montcada{***}
-trp_knight_17_9|Don Jaume de Montagut{***}
-trp_knight_17_9_pl|Jaume de Montagut{***}
-trp_knight_17_10|Don Berenguer d'Entensa{***}
-trp_knight_17_10_pl|Berenguer d'Entensa{***}
-trp_knight_17_11|Count Artal de Luna{***}
-trp_knight_17_11_pl|Artal de Luna{***}
-trp_knight_17_12|Infant Pere{***}
-trp_knight_17_12_pl|Infant Pere{***}
-trp_knight_17_13|Don Álvar Perez de Azagra{***}
-trp_knight_17_13_pl|Álvar Perez de Azagra{***}
-trp_knight_17_14|Viscount Ramon Folch de Cardona{***}
-trp_knight_17_14_pl|Ramon Folch de Cardona{***}
-trp_knight_17_15|Baron Berenguer d'Entensa{***}
-trp_knight_17_15_pl|Berenguer d'Entensa{***}
-trp_knight_18_1|Infante Felipe de Castilla{***}
-trp_knight_18_1_pl|Infante Felipe de Castilla{***}
-trp_knight_18_2|Don Fernando Gutierrez de Castro{***}
-trp_knight_18_2_pl|Fernando Gutierrez de Castro{***}
-trp_knight_18_3|Don Lope Diaz de Haro{***}
-trp_knight_18_3_pl|Lope Diaz de Haro{***}
-trp_knight_18_4|Infante Fernando de la Cerda{***}
-trp_knight_18_4_pl|Fernando de la Cerda{***}
-trp_knight_18_5|Don Nuno Gonzalez de Lara{***}
-trp_knight_18_5_pl|Nuno Gonzalez de Lara{***}
-trp_knight_18_6|Don Pedro Núñez de Guzmán{***}
-trp_knight_18_6_pl|Pedro Núñez de Guzmán{***}
-trp_knight_18_7|Infante Fadrique{***}
-trp_knight_18_7_pl|Fadrique{***}
-trp_knight_18_8|Don Ramón de Bonifaz{***}
-trp_knight_18_8_pl|Ramón de Bonifaz{***}
-trp_knight_18_9|Don Andreu{***}
-trp_knight_18_9_pl|Andreu{***}
-trp_knight_18_10|Don Bartomeu{***}
-trp_knight_18_10_pl|Bartomeu{***}
-trp_knight_18_11|Don Calvet{***}
-trp_knight_18_11_pl|Calvet{***}
-trp_knight_18_12|Don Domenech{***}
-trp_knight_18_12_pl|Domenech{***}
-trp_knight_18_13|Don Francesc{***}
-trp_knight_18_13_pl|Francesc{***}
-trp_knight_18_14|Don Gausfred{***}
-trp_knight_18_14_pl|Gausfred{***}
-trp_knight_18_15|Don Jeroni{***}
-trp_knight_18_15_pl|Jeroni{***}
+trp_knight_16_1|圣 地 亚 哥 骑 士 团 大 团 长，派 奥· 佩 雷 斯· 科 雷 亚 
+trp_knight_16_1_pl|派 奥· 佩 雷 斯· 科 雷 亚 
+trp_knight_16_2|布 拉 干 萨 的 门 多· 阿 拉 诺 爵 士 
+trp_knight_16_2_pl|布 拉 干 萨 的 门 多· 阿 拉 诺 
+trp_knight_16_3|巴 斯 科 爵 士 
+trp_knight_16_3_pl|巴 斯 科 
+trp_knight_16_4|梅 恩 爵 士 
+trp_knight_16_4_pl|梅 恩 
+trp_knight_16_5|贝 尔 姆 爵 士 
+trp_knight_16_5_pl|贝 尔 姆 
+trp_knight_16_6|贡 萨 鲁 爵 士 
+trp_knight_16_6_pl|贡 萨 鲁 
+trp_knight_16_7|马 蒂 奥 爵 士 
+trp_knight_16_7_pl|马 蒂 奥 
+trp_knight_16_8|马 蒂 姆 爵 士 
+trp_knight_16_8_pl|马 蒂 姆 
+trp_knight_16_9|斯 特 法 姆 爵 士 
+trp_knight_16_9_pl|斯 特 法 姆 
+trp_knight_16_10|伊 奥 尼 斯 爵 士 
+trp_knight_16_10_pl|伊 奥 尼 斯 
+trp_knight_16_11|梅 嫩 德 斯 爵 士 
+trp_knight_16_11_pl|梅 嫩 德 斯 
+trp_knight_16_12|桑 切 斯 爵 士 
+trp_knight_16_12_pl|桑 切 斯 
+trp_knight_16_13|桑 乔 爵 士 
+trp_knight_16_13_pl|桑 乔 
+trp_knight_16_14|劳 伦 修 斯 爵 士 
+trp_knight_16_14_pl|劳 伦 修 斯 
+trp_knight_16_15|费 尔 南 迪 克 爵 士 
+trp_knight_16_15_pl|费 尔 南 迪 克 
+trp_knight_17_1|佩 拉 尔 塔 的 阿 尔 瑙 大 主 教 
+trp_knight_17_1_pl|佩 拉 尔 塔 的 阿 尔 瑙 
+trp_knight_17_2|蒙 特 卡 达 的 佩 雷· 拉 蒙 王 室 总 管 
+trp_knight_17_2_pl|蒙 特 卡 达 的 佩 雷· 拉 蒙 
+trp_knight_17_3|阿 尔 瓦· 迪 乌 赫 尔 伯 爵 
+trp_knight_17_3_pl|阿 尔 瓦· 迪 乌 赫 尔 
+trp_knight_17_4|庞 斯· 迪 安 普 里 亚 斯 伯 爵 
+trp_knight_17_4_pl|庞 斯· 迪 安 普 里 亚 斯 
+trp_knight_17_5|帕 拉 斯 的 阿 瑙 尔· 罗 杰 伯 爵 
+trp_knight_17_5_pl|帕 拉 斯 的 阿 瑙 尔· 罗 杰 
+trp_knight_17_6|卢 纳 的 洛 佩· 费 伦 赫 爵 士 
+trp_knight_17_6_pl|卢 纳 的 洛 佩· 费 伦 赫 
+trp_knight_17_7|佩 罗· 科 尔 内 尔 爵 士 
+trp_knight_17_7_pl|佩 罗· 科 尔 内 尔 
+trp_knight_17_8|蒙 特 卡 达 的 加 斯 顿 子 爵 
+trp_knight_17_8_pl|蒙 特 卡 达 的 加 斯 顿 
+trp_knight_17_9|蒙 塔 古 特 的 豪 梅 爵 士 
+trp_knight_17_9_pl|蒙 塔 古 特 的 豪 梅 
+trp_knight_17_10|贝 伦 古 尔· 迪 恩 滕 萨 爵 士 
+trp_knight_17_10_pl|贝 伦 古 尔· 迪 恩 滕 萨 
+trp_knight_17_11|卢 纳 的 阿 塔 尔 伯 爵 
+trp_knight_17_11_pl|卢 纳 的 阿 塔 尔 
+trp_knight_17_12|因 方 特· 佩 雷 
+trp_knight_17_12_pl|因 方 特· 佩 雷
+trp_knight_17_13|阿 萨 格 拉 的 阿 尔 瓦· 佩 雷 斯 爵 士 
+trp_knight_17_13_pl|阿 萨 格 拉 的 阿 尔 瓦· 佩 雷 斯 
+trp_knight_17_14|卡 尔 多 纳 的 拉 蒙· 弗 尔 赫 子 爵 
+trp_knight_17_14_pl|卡 尔 多 纳 的 拉 蒙· 弗 尔 赫 
+trp_knight_17_15|贝 伦 古 尔· 迪 恩 滕 萨 男 爵 
+trp_knight_17_15_pl|贝 伦 古 尔· 迪 恩 滕 萨 
+trp_knight_18_1|卡 斯 提 尔 的 费 利 佩 亲 王 
+trp_knight_18_1_pl|卡 斯 提 尔 的 费 利 佩 
+trp_knight_18_2|卡 斯 特 罗 的 费 尔 南 多· 古 铁 雷 斯 爵 士 
+trp_knight_18_2_pl|卡 斯 特 罗 的 费 尔 南 多· 古 铁 雷 斯 
+trp_knight_18_3|阿 罗 的 洛 佩· 迪 亚 斯 爵 士 
+trp_knight_18_3_pl|阿 罗 的 洛 佩· 迪 亚 斯 
+trp_knight_18_4|拉· 塞 尔 达 的 费 尔 南 多 亲 王 
+trp_knight_18_4_pl|拉· 塞 尔 达 的 费 尔 南 多 
+trp_knight_18_5|拉 腊 的 努 诺· 冈 萨 雷 斯 爵 士 
+trp_knight_18_5_pl|拉 腊 的 努 诺· 冈 萨 雷 斯 
+trp_knight_18_6|古 斯 曼 的 佩 德 罗· 努 涅 斯 爵 士 
+trp_knight_18_6_pl|古 斯 曼 的 佩 德 罗· 努 涅 斯 
+trp_knight_18_7|法 德 里 克 亲 王 
+trp_knight_18_7_pl|法 德 里 克 
+trp_knight_18_8|博 尼 法 斯 的 拉 蒙 爵 士 
+trp_knight_18_8_pl|博 尼 法 斯 的 拉 蒙 
+trp_knight_18_9|安 德 鲁 爵 士 
+trp_knight_18_9_pl|安 德 鲁 
+trp_knight_18_10|巴 托 梅 乌 爵 士 
+trp_knight_18_10_pl|巴 托 梅 乌 
+trp_knight_18_11|卡 尔 贝 特 爵 士 
+trp_knight_18_11_pl|卡 尔 贝 特 
+trp_knight_18_12|多 梅 内 克 爵 士 
+trp_knight_18_12_pl|多 梅 内 克 
+trp_knight_18_13|弗 朗 西 斯 克 爵 士 
+trp_knight_18_13_pl|弗 朗 西 斯 克 
+trp_knight_18_14|高 斯 弗 雷 德 爵 士 
+trp_knight_18_14_pl|高 斯 弗 雷 德 
+trp_knight_18_15|赫 罗 尼 爵 士 
+trp_knight_18_15_pl|赫 罗 尼 
 trp_knight_20_1|穆 罕 默 德· 法 基 赫 酋 长 
 trp_knight_20_1_pl|穆 罕 默 德· 法 基 赫 
 trp_knight_20_2|尤 素 夫· 纳 斯 尔 酋 长 
@@ -1935,36 +1935,36 @@ trp_knight_23_14|Julian Grenier, Count of Sidon{***}
 trp_knight_23_14_pl|Julian Grenier{***}
 trp_knight_23_15|Simon Mancel, Constable of Antioch{***}
 trp_knight_23_15_pl|Simon Mancel{***}
-trp_knight_24_1|Provenzano Salvani{***}
-trp_knight_24_1_pl|Provenzano Salvani{***}
-trp_knight_24_2|Farinata degli Uberti{***}
-trp_knight_24_2_pl|Farinata degli Uberti{***}
-trp_knight_24_3|Guido da Montefeltro{***}
-trp_knight_24_3_pl|Guido da Montefeltro{***}
-trp_knight_24_4|Mastino della Scala{***}
-trp_knight_24_4_pl|Mastino della Scala{***}
-trp_knight_24_5|Ottone Visconti{***}
-trp_knight_24_5_pl|Ottone Visconti{***}
-trp_knight_24_6|Aretino{***}
-trp_knight_24_6_pl|Aretino{***}
-trp_knight_24_7|Aringo{***}
-trp_knight_24_7_pl|Aringo{***}
-trp_knight_24_8|Aronne{***}
-trp_knight_24_8_pl|Aronne{***}
-trp_knight_24_9|Benicio{***}
-trp_knight_24_9_pl|Benicio{***}
-trp_knight_24_10|Bivigliano{***}
-trp_knight_24_10_pl|Bivigliano{***}
-trp_knight_24_11|Calderino{***}
-trp_knight_24_11_pl|Calderino{***}
-trp_knight_24_12|Dego{***}
-trp_knight_24_12_pl|Dego{***}
-trp_knight_24_13|Biligiardo{***}
-trp_knight_24_13_pl|Biligiardo{***}
-trp_knight_24_14|Caroccio{***}
-trp_knight_24_14_pl|Caroccio{***}
-trp_knight_24_15|Elvio{***}
-trp_knight_24_15_pl|Elvio{***}
+trp_knight_24_1|普 罗 文 扎 诺· 萨 尔 瓦 尼 
+trp_knight_24_1_pl|普 罗 文 扎 诺· 萨 尔 瓦 尼 
+trp_knight_24_2|法 里 纳 塔· 代 戈 里· 乌 博 蒂 
+trp_knight_24_2_pl|法 里 纳 塔· 代 戈 里· 乌 博 蒂 
+trp_knight_24_3|吉 多· 达· 蒙 特 费 尔 特 罗 
+trp_knight_24_3_pl|吉 多· 达· 蒙 特 费 尔 特 罗 
+trp_knight_24_4|马 斯 蒂 诺· 德 拉· 斯 卡 拉 
+trp_knight_24_4_pl|马 斯 蒂 诺· 德 拉· 斯 卡 拉 
+trp_knight_24_5|奥 托 内· 维 斯 康 蒂 
+trp_knight_24_5_pl|奥 托 内· 维 斯 康 蒂 
+trp_knight_24_6|阿 雷 蒂 诺 
+trp_knight_24_6_pl|阿 雷 蒂 诺 
+trp_knight_24_7|阿 林 戈 
+trp_knight_24_7_pl|阿 林 戈 
+trp_knight_24_8|艾 洛 尼 
+trp_knight_24_8_pl|艾 洛 尼 
+trp_knight_24_9|本 尼 奇 奥 
+trp_knight_24_9_pl|本 尼 奇 奥 
+trp_knight_24_10|比 维 里 亚 诺 
+trp_knight_24_10_pl|比 维 里 亚 诺 
+trp_knight_24_11|卡 尔 德 里 诺 
+trp_knight_24_11_pl|卡 尔 德 里 诺 
+trp_knight_24_12|代 戈  
+trp_knight_24_12_pl|代 戈  
+trp_knight_24_13|比 利 吉 亚 尔 多 
+trp_knight_24_13_pl|比 利 吉 亚 尔 多 
+trp_knight_24_14|卡 罗 西 奥 
+trp_knight_24_14_pl|卡 罗 西 奥 
+trp_knight_24_15|埃 尔 维 奥 
+trp_knight_24_15_pl|埃 尔 维 奥 
 trp_knight_25_1|曼 苏 尔· 阿 里 酋 长 
 trp_knight_25_1_pl|曼 苏 尔· 阿 里 
 trp_knight_25_2|赛 义 夫· 库 图 兹 王 储 
