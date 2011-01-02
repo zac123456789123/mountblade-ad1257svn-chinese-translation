@@ -795,22 +795,22 @@ str_npc28_payment_response|Gamal the Arab - payment response{***}
 str_npc29_payment_response|Dragoslav the Serbian - payment response{***}
 str_npc30_payment_response|Kyril the Bulgarian - payment response{***}
 str_npc31_payment_response|Ali the Berber - payment response{***}
-str_npc1_morality_speech|Sir I am unhappy with {s21}. Those that cannot defend themselves do not deserves to be treated as pawns within our power struggles.
+str_npc1_morality_speech|先 生， 我 对 {s21}很 不 满。 那 些 在 战 斗 中 连 自 己 都 保 护 不 了 的 小卒 没 有 资 格 成为 我 们 的 一 员。 
 str_npc2_morality_speech|Ligeikis the Balt - morality speech
-str_npc3_morality_speech|Pardon me, captain. It is not good to {s21}. Your first duty is to the men who have taken your salt. The least they can expect is food, pay, the opportunity to loot, and that you not waste their lives needlessly.
-str_npc4_morality_speech|I signed up with your company Jarl because I thought you were a person of honour. I do not enjoy {s21}.
+str_npc3_morality_speech|对 不 起， 队 长， 这 对 {s21}不 太 好。 你 首 先 需 要 对 从 你 那 儿 得 到 盐 的 人 负 责， 他 们 所 期 盼 的 至 少 是 有 食 物， 有 佣 金， 有 掠 夺 财 物 的 机 会， 以 及 你 不 会 让 他 们 白 白 送 死。 
+str_npc4_morality_speech|我 加 入 了 你 的 团 队 是 因 为 我 认 为 你 是 一 个 注 重 荣 誉 的 人， 不 过 我 不 欣 赏 {s21}。 
 str_npc5_morality_speech|Bolko the Pole - morality speech
-str_npc6_morality_speech|{Sir/My lady} {s21} upsets me deeply.  I just mention this because I know that the price of this action is a hard winter for this whole village.  So we can enrich ourselves by a few coppers?  Please refrain from this action in future.
+str_npc6_morality_speech|{先 生/女 士}， {s21}让 我 感 到 很 心 烦。 这 是 因 为 我 知 道 这 次 行 动 带 来 的 代 价 是 整 个 村 庄 难 熬 的 严 冬， 但 这 样 我 们 能 攒 几 个 铜 板 呢？ 我 希 望 能 避 免 这 种 事 情 发 生。 
 str_npc7_morality_speech|Istvan the Hungarian - morality speech
 str_npc8_morality_speech|Yuriy of Novgorod - morality speech
-str_npc9_morality_speech|I hope you don't mind my saying so, but it's a bit hard for me to see us {s21}. Maybe I ought to try to be more of a hardened soldier, but if we could try to exercise a little mercy from time to time, I'd sleep better.
+str_npc9_morality_speech|我 希 望 你 不 介 意 我 这 么 说， 不 过 看 到 {s21}的 确 会 令 我 不 太 爽。 或 许 我 应 该 成 为 一 个 更 坚 强 的 战 士， 但 如 果 我 们 能 更 有 同 情 心 一 点， 我 会 睡 得 更 安 稳 些。 
 str_npc10_morality_speech|Jean the Frenchman - morality speech
 str_npc11_morality_speech|Jon the Norwegian - morality speech
 str_npc12_morality_speech|Uilleam the Scot - morality speech
 str_npc13_morality_speech|Aedh the Irishman - morality speech
 str_npc14_morality_speech|Karl the Swede - morality speech
 str_npc15_morality_speech|Ivan of Galicia - morality speech
-str_npc16_morality_speech|Captain -- I do not like to see us {s21}. I am prepared to be a warrior, but not a brigand. Pray let us try to show a little more compassion.
+str_npc16_morality_speech|队 长— — 我 不 喜 欢 看 到 我 们 {s21}。 我 想 成 为 一 名 战 士， 而 不 是 土 匪。 祈 祷 我 们 能 多 有 点 同 情 心。 
 str_npc17_morality_speech|Jaume of Aragon - morality speech{***}
 str_npc18_morality_speech|Fernando the Castillan - morality speech{***}
 str_npc20_morality_speech|Isma'il the Andalusian - morality speech{***}
@@ -818,18 +818,18 @@ str_npc22_morality_speech|Alexios the Greek - morality speech{***}
 str_npc23_morality_speech|Hugues the Crusader - morality speech{***}
 str_npc24_morality_speech|Dego the Sicilian - morality speech{***}
 str_npc25_morality_speech|Balabaan the Seljuk - morality speech{***}
-str_npc26_morality_speech|Sir I come from a family with a PROUD tradition of facing ones foe regardless of the odds.  Therefore I find {s21} most unpleasent.  I hope you will bare in mind your conduct as our leader reflects badly upon us all in this situation.{***}
+str_npc26_morality_speech|先 生， 我 来 自 一 个 具 有 优 良 传 统 的 家 庭， 就 是 无 论 敌 人 多 么 强 大 都 勇敢 面 对。 但 我 觉 得 {s21}令 我 很 不 愉 快。 我 希 望 你 作 为 团 队 领 袖， 能 注 意 自 己 在 这 件 事 上 对 大 家 不 好 的 影 响。 
 str_npc27_morality_speech|Dilikes defeat{***}
 str_npc28_morality_speech|Gamal the Arab - morality speech{***}
 str_npc29_morality_speech|Dragoslav the Serbian - morality speech{***}
 str_npc30_morality_speech|Kyril the Bulgarian - morality speech{***}
 str_npc31_morality_speech|Ali the Berber - morality speech{***}
 str_npc2_2ary_morality_speech|Ligeikis the Balt - 2ary morality speech
-str_npc4_2ary_morality_speech|Jarl there is nothing wrong with {s21}.Loosing a battle is not a failure. It happens to all great leaders once or twice.
+str_npc4_2ary_morality_speech|{s21}并 没 有 犯 什 么 错 误。 输 掉 一 次 战 役 不 算 失 败， 就 算 在 那 些 伟 大 领 袖 身 上 也 发 生 过 那 么 一 两 次 的。 
 str_npc5_2ary_morality_speech|Bolko the Pole - 2ary morality speech
 str_npc7_2ary_morality_speech|Istvan the Hungarian - 2ary morality speech
 str_npc8_2ary_morality_speech|Yuriy of Novgorod - 2ary morality speech
-str_npc9_2ary_morality_speech|{Sir/Madame} -- I'm not altogether happy that we {s21}. I used to be a brewer, and in business one is bonded by one's word. I don't want a reputation for dishonesty -- that's a reputation that spreads too quickly, {sir/madame}.
+str_npc9_2ary_morality_speech|{先 生/夫 人}- - 我 对 {s21}并 不 是 完 全 满 意。 我 曾 经 是 一 个 酿 酒 师，而 在 做 买 卖 的 时 候 一 个 人 和 他 的 诚 实 程 度 几 乎 是 脱 不 开 关 系 的。 我 不 希 望 弄 得 个 不 诚 实 的 名 声— — 坏 事 传 千 里， {先 生/夫 人}。 
 str_npc10_2ary_morality_speech|Jean the Frenchman - 2ary morality speech
 str_npc11_2ary_morality_speech|Jon the Norwegian - 2ary morality speech
 str_npc12_2ary_morality_speech|Uilleam the Scot - 2ary morality speech
@@ -847,22 +847,22 @@ str_npc28_2ary_morality_speech|Gamal the Arab - 2ary morality speech{***}
 str_npc29_2ary_morality_speech|Dragoslav the Serbian - 2ary morality speech{***}
 str_npc30_2ary_morality_speech|Kyril the Bulgarian - 2ary morality speech{***}
 str_npc31_2ary_morality_speech|Ali the Berber - 2ary morality speech{***}
-str_npc1_personalityclash_speech|I am trying very hard to be tolerant given my position under your leadership. However {s11} keeps talking about Islam around the camp fire.
+str_npc1_personalityclash_speech|在 你 的 领 导 下， 我 已 经 尽 量 的 忍 让 了， 但 受 不 了 的 是 {s11}在 营 火 旁 一 直 谈 论 着 伊 斯 兰 教。 
 str_npc2_personalityclash_speech|Ligeikis the Balt - personalityclash speech
-str_npc3_personalityclash_speech|A moment of your time, captain. {s11} seems to think me a common bandit, just because I have rewarded myself in the past to the legitimate spoils of war from caravans passing through my family's lands.
-str_npc4_personalityclash_speech|Jarl. The high and mighty 'Lord' Jaume of Aragon, is demanding that I bow my head everytime he passes me.
+str_npc3_personalityclash_speech|队 长， 抱 歉 占 用 你 一 点 时 间。 {s11}似 乎 认 定 我 是 一 个 土 匪。 我 以 前 不 就 只 是 从 路 过 我 家 门 口 的 商 队 要 了 点 战 争 的 合 法 战 利 品 嘛。 
+str_npc4_personalityclash_speech|先 生， 这 个 高 大 强 壮 的 阿 拉 贡 的 豪 梅“ 领 主” 要 求 他 每 次 经 过 我 身 旁 时 我 都 要 低 头。 
 str_npc5_personalityclash_speech|Bolko the Pole - personalityclash speech
-str_npc6_personalityclash_speech|{Sir/My lady} I feel I must bring your attention the attitude of {s11} who is intentionally creating a air of fear within the camp.
+str_npc6_personalityclash_speech|{先 生/我 的 夫 人}， 我 觉 得 你 应 当 多 注 意 下 {s11}的 态 度。 他 故 意 在 营 地 里 制 造 恐 惧 的 气 氛。 
 str_npc7_personalityclash_speech|Istvan the Hungarian - personalityclash speech
 str_npc8_personalityclash_speech|Yuriy of Novgorod - personalityclash speech
-str_npc9_personalityclash_speech|{Sir/Madame} -- That man {s11} fancies himself the Lords gift to the battlefield, and he speaks to me as if I were a mere peasant.  I cannot endure this.
+str_npc9_personalityclash_speech|{先 生/夫 人}- - {s11}那 家 伙 幻 想 自 己 是 上 帝 派 到 这 战 场 上 来 的， 他 跟 我 说 话 的 态 度 就 好 像 我 是 臭 农 夫。 我 受 不 了 了。 
 str_npc10_personalityclash_speech|Jean the Frenchman - personalityclash speech
 str_npc11_personalityclash_speech|Jon the Norwegian - personalityclash speech
 str_npc12_personalityclash_speech|Uilleam the Scot - personalityclash speech
 str_npc13_personalityclash_speech|Aedh the Irishman - personalityclash speech
 str_npc14_personalityclash_speech|Karl the Swede - personalityclash speech
 str_npc15_personalityclash_speech|Ivan of Galicia - personalityclash speech
-str_npc16_personalityclash_speech|My lord. The barbarian, {s11}, complained of headaches -- a possible symptom of excess of bloodlust. I thought to apply leeches.
+str_npc16_personalityclash_speech|大 人， {s11}这 个 野 蛮 人 抱 怨 头 痛— — 过 度 嗜 血 已 经 接 近 病 态 了。 我 想 申 请 水 蛭 治 疗 法。 
 str_npc17_personalityclash_speech|Jaume of Aragon - personalityclash speech{***}
 str_npc18_personalityclash_speech|Fernando the Castillan - personalityclash speech{***}
 str_npc20_personalityclash_speech|Isma'il the Andalusian - personalityclash speech{***}
@@ -875,22 +875,22 @@ str_npc28_personalityclash_speech|Gamal the Arab - personalityclash speech{***}
 str_npc29_personalityclash_speech|Dragoslav the Serbian - personalityclash speech{***}
 str_npc30_personalityclash_speech|Kyril the Bulgarian - personalityclash speech{***}
 str_npc31_personalityclash_speech|Ali the Berber - personalityclash speech{***}
-str_npc1_personalityclash_speech_b|I must insist that you intervine in this matter his attitude towards my faith is totally unacceptable.
+str_npc1_personalityclash_speech_b|他 对 我 的 信 仰 不 友 好 的 态 度 我 完 全 不 能 接 受， 我 坚 持 你 出 面 调 解。 
 str_npc2_personalityclash_speech_b|Ligeikis the Balt - personalityclash speech b
-str_npc3_personalityclash_speech_b|I told him that if the warrior's way bothers him so much, that he become a priest or a beggar and so not have to worry about such things. I hope you do not mind that I said such things.
-str_npc4_personalityclash_speech_b|I would not mind showing him some respect but the only time he is in front of me is in camp, in battle he is always behind me! I demand you speak with him and fix his attitude for him.
+str_npc3_personalityclash_speech_b|我 告 诉 他， 如 果 选 择 成 为 战 士 给 你 带 来 这 么 多 困 扰， 你 可 以 选 择 做 一 名 牧 师 或 者 乞 丐， 而 不 必 来 烦 心 这 些 事 情。 我 希 望 你 不 介 意 我 说 的 这 些。 
+str_npc4_personalityclash_speech_b|我 不 介 意 给 他 点 尊 重。 但 他 唯 一 可 能 在 我 前 面 时 只 是 在 营 地， 而 战 斗 的 时 候 他 总 是 躲 在 我 后 面！ 我 希 望 你 和 他 谈 谈， 纠 正 他 的 态 度 问 题。 
 str_npc5_personalityclash_speech_b|Bolko the Pole - personalityclash speech b
-str_npc6_personalityclash_speech_b|He has told us all of the trouble we will be in once he reaches his height of fame and fortune, and threatens to have hunted by his 'justice' commands later on.
+str_npc6_personalityclash_speech_b|他 告 诉 了 我 们 一 旦 达 成 他 追 求的 名 声 与 财 富 后 我 们 会 遇 到 什 么 麻 烦， 并 威 胁 今 后 以 他 所 谓 “正 义” 之 名 来 追 击 我 们。 
 str_npc7_personalityclash_speech_b|Istvan the Hungarian - personalityclash speech b
 str_npc8_personalityclash_speech_b|Yuriy of Novgorod - personalityclash speech b
-str_npc9_personalityclash_speech_b|I don't much care to hear {s11} gloat about the caravans he has looted, or he plans to loot, like he has no respect for civilians.
+str_npc9_personalityclash_speech_b|我 并 不 想 听 到 {s11}炫 耀 他 抢 劫 过 多 少 商 队 或 者 打 算 去 抢 劫 哪 支。 他 从 来 不 懂 得 尊 重 平 民。 
 str_npc10_personalityclash_speech_b|Jean the Frenchman - personalityclash speech b
 str_npc11_personalityclash_speech_b|Jon the Norwegian - personalityclash speech b
 str_npc12_personalityclash_speech_b|Uilleam the Scot - personalityclash speech b
 str_npc13_personalityclash_speech_b|Aedh the Irishman - personalityclash speech b
 str_npc14_personalityclash_speech_b|Karl the Swede - personalityclash speech b
 str_npc15_personalityclash_speech_b|Ivan of Galicia - personalityclash speech b
-str_npc16_personalityclash_speech_b|But when I tried to afix them, he recoiled and struck me, and accused me of witchcraft. Captain, I am deeply tired of attending to the complaints of such an ungrateful and ignorant lot.
+str_npc16_personalityclash_speech_b|当 我 试 图 治 疗 他 们， 他 拒 绝 了， 还 攻 击 我，指 责 我 使 用 的 是 巫 术。 队 长， 和 这 些 忘 恩 负 义 又 无 知 的 家 伙 在 一 起 实 在 是 太 累 了。 
 str_npc17_personalityclash_speech_b|Jaume of Aragon - personalityclash speech b{***}
 str_npc18_personalityclash_speech_b|Fernando the Castillan - personalityclash speech b{***}
 str_npc20_personalityclash_speech_b|Isma'il the Andalusian - personalityclash speech b{***}
@@ -905,7 +905,7 @@ str_npc30_personalityclash_speech_b|Kyril the Bulgarian - personalityclash speec
 str_npc31_personalityclash_speech_b|Ali the Berber - personalityclash speech b{***}
 str_npc1_personalityclash2_speech|Sir, i most protest. {s11} Is spreading the most horrible untruthes about what my Order does in his lands, without any proof of what he says, I am sure he is making up lies!
 str_npc2_personalityclash2_speech|Ligeikis the Balt - personalityclash2 speech
-str_npc3_personalityclash2_speech|Captain. {s11} needs to have his tongue cut out.
+str_npc3_personalityclash2_speech|长 官， {s11}应 该 把 他 的 舌 头 切 掉。 
 str_npc4_personalityclash2_speech|{s11} disgusts me Jarl, he is always walking around the battle field killing those wounded who cannot afford to pay him what he likes to call his dues. The greedy aristrocrat is mearly looking for a fat ransom and butchering the commoners.
 str_npc5_personalityclash2_speech|Bolko the Pole - personalityclash2 speech
 str_npc6_personalityclash2_speech|{Sir/My lady} I am sick of{s11} telling me what his demands are regarding my religious observence, when I choose to pray or follow the religious pratices is my choice.
@@ -1220,22 +1220,22 @@ str_npc28_honorific|Gamal the Arab - honorific{***}
 str_npc29_honorific|Dragoslav the Serbian - honorific{***}
 str_npc30_honorific|Kyril the Bulgarian - honorific{***}
 str_npc31_honorific|Ali the Berber - honorific{***}
-str_npc1_kingsupport_1|那 可 真 是 太 好 了， 老 板。 所 有 这 些 掌 权 的 国 王 啊 、 可 汗 啊 、 贵 族 啊， 用 他 们 的 监 狱 啊 、 绞 刑 架 啊 、 断 头 台 啊， 去 鞭 笞 、 拷 打 、 绞 杀 那 些 也 许 是 仅 仅 为 了 哭 泣 的 孩 子 而 去 偷 取 一 块 面 包， 或 者 是 一 匹 马 的 人 们—— 卡 拉 迪 亚 需 要 一 个 更 好 的 统 治 者。 
-str_npc2_kingsupport_1|好 吧， 队 长—— 我 会 支 持 你。 我 认 为 你 会 给 卡 拉 迪 亚 带 来 这 片 大 陆 一 直 渴 望 的 文 明 统 治。 
-str_npc3_kingsupport_1|好 吧， 我 的 大 人—— 我 会 担 心 你。 历 史 告 诉 我 们 权 力 往 往 导 致 堕 落。 但 话 说 回 来， 我 很 欣 慰 你 在 领 导 我 们 团 队 的 时 候 所 表 现 出 来 的 仁 慈 和 判 断 力。 
-str_npc4_kingsupport_1|好 吧， 队 长， 我 想 你 将 会 成 为 一 个 贵 族 血 统 纯 正 的 {国 王/女 王}， 我 将 唯 你 马 首 是 瞻…… 
-str_npc5_kingsupport_1|好 主 意 啊， 阁 下—— 你 很 善 长 驭 人 之 术。 感 觉 你 对 人 很 公 正， 尽 管…… 
-str_npc6_kingsupport_1|我 不 能 判 断 你 的 主 张 是 否 符 合 法 律 价 值。 不 过， 我 觉 得 和 这 儿 碌 碌 无 为 的 其 他 国 王 不 同， 你 有 统 一 这 片 大 陆 的 能 力—— 而 那 将 终 结 这 场 无 尽 的 战 争， 诸 侯 烽 火 连 天 、 贵 族 尔 虞 我 诈 、 兄 弟 睨 于 墙 内， 实 在 是 让 我 们 在 上 苍 面 前 蒙 羞 啊。 
-str_npc7_kingsupport_1|是！ 听 你 的。 你 知 道 怎 么 去 对 付 强 盗 和 恶 棍。 
-str_npc8_kingsupport_1|贝 约 斯 塔 德 的 传 奇 告 诉 我 们 王 侯 本 无 种， 能 者 居 之。 而 我 觉 得 你 也 是 可 以 夺 得 天 下 的 人。 
-str_npc9_kingsupport_1|很 好， 我 的 大 人。 我 是 维 吉 亚 的 血 统， 但 是 亚 罗 格 尔 克 在 别 人 骗 走 属 于 我 的 遗 产 的 时 候 从 来 不 支 持 我。 所 以 我 也 就 不 欠 他 什 么， 而 且 我 要 说，“ 王 位 应 属 勇 者！” 而 你 就 是 最 合 适 的 人 选， {先 生/尊 敬 的 女 士}。 
-str_npc10_kingsupport_1|好 吧， {兄 弟/姐 们}， 我 觉 得 可 以 有 {国 王/国 王 和 女 王}， 如 果 说 真 的 要 有 {国 王/国 王 和 女 王}， 那 你 就 将 会 是 一 位 比 较 好 的 {国 王/女 王}…… 
-str_npc11_kingsupport_1|啊， 很 好 的 想 法， {老 弟/小 姑 娘}！ 那 么， 我 想 我 得 试 着 习 惯 叫 你“ 吾 王 陛 下” 或 者“ 女 王 陛 下” 了…… 
-str_npc12_kingsupport_1|我 深 信 你 将 成 为 一 个 好 国 王， 队 长。 我 一 直 以 能 看 人 而 自 诩， 而 你 早 就 表 现 出 了 远 远 超 乎 那 些 自 称 君 王 的 家 伙 的 仁 慈。 
-str_npc13_kingsupport_1|那 可 真 是 太 好 了， {先 生/尊 敬 的 女 士}！ 有 许 多 关 于 通 过 自 己 的 勇 猛 而 夺 得 王 位 的 英 雄 的 传 说。 也 许 你 听 说 过 阿 什 塔 比 之 子 安 塔 拉 之 歌， 他 以 一 介 草 民 的 身 份 最 终 成 为 了 达 巴 兰 之 王。 一 个 伟 大 的 传 说！ 
-str_npc14_kingsupport_1|好 吧， 先 生， 上 苍 给 世 间 定 下 身 份 等 级， 而 我 一 般 乐 于 认 命。 不 过 我 也 认 为 这 片 大 陆 的 国 王 们 大 多 暗 弱 无 能， 不 配 称 王， 应 该 让 更 优 秀 的 {人/统 治 者} 来 执 掌 王 位， 比 如 你。 
-str_npc15_kingsupport_1|好 吧， 一 般 来 说， 你 手 头 宽 裕 的 时 候 总 是 准 时 付 给 手 下 薪 水。 在 我 的 字 典 里， 这 是 一 个 王 者 的 最 佳 品 格。 你 赏 罚 分 明。 
-str_npc16_kingsupport_1|为 什 么 不 呢， 队 长？ 我 确 信 你 将 会 是 一 个 好 {国 王/女 王}—— 当 然 我 也 希 望 你 能 记 得 像 我 这 样 为 你 打 下 江 山 的 人。 
+str_npc1_kingsupport_1|Leige, I would offer you my full support. As a man of an holy order I have learned to see the difference between good and evil, selfishness and generousity, and you would in my eyes make a wonderful Leader of a united peoples.
+str_npc2_kingsupport_1|Ligeikis the Balt - kingsupport 1
+str_npc3_kingsupport_1|A fine idea- you have shown that you know how to govern men. Mind that you govern them justly, though...
+str_npc4_kingsupport_1|Jarl, you would make a great leader.  As the Jarl I have come to know very well in the time we have served together you have shown nothing but compassion and understanding for the situation people find themselves in.
+str_npc5_kingsupport_1|Bolko the Pole - kingsupport 1
+str_npc6_kingsupport_1|Johann of the HRE - kingsupport 1
+str_npc7_kingsupport_1|Istvan the Hungarian - kingsupport 1
+str_npc8_kingsupport_1|Yuriy of Novgorod - kingsupport 1
+str_npc9_kingsupport_1|Well, captain -- I'd support you. I think you'd give Europe the kind of enlightened rule which it has long needed.
+str_npc10_kingsupport_1|Jean the Frenchman - kingsupport 1
+str_npc11_kingsupport_1|Jon the Norwegian - kingsupport 1
+str_npc12_kingsupport_1|Uilleam the Scot - kingsupport 1
+str_npc13_kingsupport_1|Aedh the Irishman - kingsupport 1
+str_npc14_kingsupport_1|Karl the Swede - kingsupport 1
+str_npc15_kingsupport_1|Ivan of Galicia - kingsupport 1
+str_npc16_kingsupport_1|I am sure that you would make a fine king, captain. I flatter myself that I am a good judge of character, and you have demonstrated a capacity for compassion that far exceeds that of these others who call themselves monarchs.
 str_npc17_kingsupport_1|Jaume of Aragon - kingsupport 1{***}
 str_npc18_kingsupport_1|Fernando the Castillan - kingsupport 1{***}
 str_npc20_kingsupport_1|Isma'il the Andalusian - kingsupport 1{***}
@@ -1249,22 +1249,22 @@ str_npc28_kingsupport_1|Gamal the Arab - kingsupport 1{***}
 str_npc29_kingsupport_1|Dragoslav the Serbian - kingsupport 1{***}
 str_npc30_kingsupport_1|Kyril the Bulgarian - kingsupport 1{***}
 str_npc31_kingsupport_1|Ali the Berber - kingsupport 1{***}
-str_npc1_kingsupport_2|当 然 了， 老 板。 不 过 让 我 告 诉 你 会 遇 上 的 一 些 其 它 问 题—— 尤 其 是 像 咱 们 穷 人。 听 说 在 以 前， 每 个 新 黄 袍 加 身 的 君 主 会 大 赦 天 下—— 除 了 那 些 关 在 地 牢 里 最 穷 凶 极 恶 的 犯 人， 给 人 们 第 二 次 做 人 的 机 会—— 就 像 你 给 了 我 第 二 次 机 会 那 样， 老 板。 
-str_npc2_kingsupport_2|如 果 你 打 算， 队 长， 我 可 以 花 上 几 周 去 拜 访 我 有 联 系 的 行 会 所 以 及 商 人 旅 馆， 给 他 们 说 明， 在 你 统 治 之 下， 他 们 将 拥 有 一 位 阻 止 那 些 贪 婪 贵 族 的 {国 王/统 治 者}， 以 及 为 了 他 们 发 动 的 战 争 和 宴 会 而 征 收 的， 扼 杀 掉 商 业 的 额 外 关 税 和 税 金。 你 对 此 怎 么 说， 队 长？ 
-str_npc3_kingsupport_2|我 愿 意， {我 的 大 人/尊 敬 的 女 士}。 但 是 我 强 烈 建 议 你 重 新 树 立 一 项 古 老 的 卡 拉 迪 亚 皇 室 传 统—— 上 议 院 和 下 议 院 班 子， 同 时 从 领 地 里 的 贵 族 以 及 有 学 问 的 有 钱 人 中 选 拔， 拥 有 否 决 任 何 你 也 许 感 兴 趣 的 新 名 目 捐 税， 以 及 残 暴 条 令 的 权 利。 这 会 利 于 你 的 统 治， {先 生/尊 敬 的 女 士}。 
-str_npc4_kingsupport_2|当 然， {队 长/尊 敬 的 女 士}。 当 下 的 良 策 是 让 别 人 拥 立 你。 你 知 道， 一 个 人 的 血 统 是 他 个 人 价 值 的 决 定 性 因 素。 也 许 你 是 遗 落 民 间 的 某 个 英 雄 之 后， 只 是 还 没 有 告 诉 我？ 
-str_npc5_kingsupport_2|哎， 阁 下， 我 愿 意。 但 为 了 像 我 这 样 的 草 原 人 的 利 益， 我 得 告 诉 你 一 些 事 情。 听 说 一 个 即 将 成 为 可 汗 的 人， 要 重 新 树 立 一 项 古 老 的 权 利 主 张， 这 对 我 们 意 义 重 大。 在 帝 国 昔 日 的 岁 月 里， 草 原 人 享 有 将 他 们 的 畜 群 驱 往 新 的 牧 地 和 市 场 的 权 利， 这 必 然 包 括 要 穿 越 大 领 主 们 的 领 地。 
-str_npc6_kingsupport_2|我 愿 意。 我 将 告 诉 所 有 关 注 你 所 作 所 为 的 那 些 弱 小 无 助 的 下 层 人 物 的 代 表， 因 为 你 有 率 领 人 们 获 得 巨 大 机 会 和 成 功 的 能 力， 并 且 告 诉 他 们 如 果 你 能 成 为 {国 王/女 王}， 就 会 一 统 天 下 永 久 和 平—— 从 罗 多 克 高 原 到 维 吉 亚 荒 漠， 从 高 地 草 原 到 诺 德 海 滨。 
-str_npc7_kingsupport_2|是， 队 长， 我 愿 意。 一 个 {国 王/女 王} 的 职 责 是 保 护 正 直 的 人 们 一 路 平 安， 让 女 人 们 上 山 砍 柴 或 者 河 边 打 水 的 时 候 不 会 被 无 法 无 天 的 无 赖 、 恶 棍 骚 扰。 总 之， 在 你 的 治 下， 你 将 让 那 些 畜 生 们 的 脑 袋 开 花。 如 果 你 成 为 {国 王/女 王}， 男 人 甚 至 不 敢 多 看 路 上 的 女 人 两 眼。 
-str_npc8_kingsupport_2|我 愿 意—— 但 有 个 条 件。 你 会 在 帕 拉 汶 或 者 萨 哥 斯 或 者 任 何 其 它 你 想 统 治 的 地 方 称 王， 而 我 要 统 治 我 自 己 的 领 地。 并 且 如 果 我 因 为 领 地 、 家 畜 或 者 血 光 而 和 你 的 某 个 封 臣 发 生 矛 盾， 你 得 依 照 古 老 的 方 法， 为 我 们 安 排 一 场 决 斗， 用 刀 剑 说 话， 让 上 天 来 决 定 谁 是 谁 非。 
-str_npc9_kingsupport_2|我 愿 意， {先 生/夫 人}， 而 且 别 人 也 一 样 会。 但 是 我 在 想—— 你 需 要 告 知 那 些 贵 族 领 主 们 你 将 支 持 他 们 旧 时 的 传 统 权 利。 现 在， 卡 拉 迪 亚 一 片 混 乱—— 领 主 拥 有 领 地， 国 王 拥 有 森 林， 城 镇 拥 有 在 城 门 设 卡 征 税 的 权 力， 而 平 民 在 星 期 二 可 以 临 时 使 用 牧 场， 还 得 除 了 日 瓦 车 则—— 那 里 是 星 期 三。 谁 能 记 得 住？ 所 以 我 建 议 你 让 事 情 简 单 化， 就 像 在 昔 日 那 样—— {国 王/君 主} 据 尊， 然 后 是 领 主， 然 后 就 是 其 他 所 有 人。 
-str_npc10_kingsupport_2|当 然， {兄 弟/姐 们}。 但 是 我 得 说 你 要 考 虑 一 下 我 的 一 个 想 法。 如 果 你 成 为 {国 王/女 王}， 我 会 要 求 你 的 朝 廷 对 普 通 大 众 敞 开 大 门， 而 不 仅 仅 是 为 那 些 领 主 和 皇 族 服 务。 我 会 要 求 你 告 知 天 下 任 何 人 都 会 得 到 公 正 的 对 待 和 判 决， 任 何 人 都 有 直 接 向 你 申 诉 的 权 利。 而 现 在， 只 有 领 主 有 这 样 的 权 利—— 我 觉 得 卡 拉 迪 亚 的 任 何 一 个 人 都 应 该 也 有 这 个 权 利。 
-str_npc11_kingsupport_2|当 然， 我 愿 意！ 让 我 看 看 你 的 手， 给 我…… 啊 哈！ 你 有“ 王 者 印 记”。 至 少， 在 我 们 帕 拉 汶 是 这 么 叫 的。 我 在 苏 诺 听 说 这 叫“ 皇 帝 纹”， 不 过 在 那 里 他 们 叫 什 么 东 西 都 和 别 人 两 样 的。 总 之， 你 的 这 条 特 别 长—— 我 要 说 这 意 味 着 你 会 上 位！ 这 是 你 命 中 注 定 的！ 事 实 上， 我 甚 至 能 想 起 关 于 这 个 的 一 个 预 言。 嗯， 那 是 怎 么 说 的 来 着…… 
-str_npc12_kingsupport_2|当 然， 队 长。 但 是， 如 果 说 我 在 周 游 这 片 大 陆 时 学 到 了 点 什 么 的 话， 那 就 是： 卡 拉 迪 亚 是 个 史 无 前 例 的 大 麻 烦。 一 切 都 应 该 依 照 昔 日 帝 国 时 期 的 做 法 去 做—— 虽 然 现 在 不 到 百 分 之 一 的 人 能 读 古 卡 拉 迪 亚 文 到 看 懂 编 年 史 的 程 度！ 维 鲁 加 的 商 人 按 照“ 帝 制” 礼 俗 出 嫁 他 们 的 女 儿。 日 瓦 车 则 的 牧 人 勾 兑“ 帝 制” 黄 油。 而 当 然 了， 每 个 国 王 都 应 该 参 照“ 帝 制” 律 法 来 加 冕。 
-str_npc13_kingsupport_2|当 然， {我 的 大 人/尊 敬 的 女 士}。 同 样， 从 安 塔 拉 的 传 说 中 我 们 了 解 到， 在 称 王 之 路 上， 这 并 不 妨 碍 成 为 传 奇 人 物， 描 述 着 某 人 的 事 迹 在 营 地 的 篝 火 边 和 家 里 的 围 炉 旁 被 吟 咏 着。 你 不 用 怀 疑， 我 自 认 为 我 自 己 还 是 个 不 错 的 诗 人。 
-str_npc14_kingsupport_2|我 当 然 愿 意， 先 生。 我 想 你 能 联 合 这 片 大 陆， 然 后 我 们 就 能 纠 集 一 支 在 卡 拉 迪 亚 数 载 之 内 不 会 有 所 匹 敌 的 军 队—— 斯 瓦 迪 亚 枪 骑 兵， 维 吉 亚 弓 箭 手， 罗 多 克 长 矛 手， 萨 兰 德 剑 手， 诺 德 斧 手， 以 及 库 吉 特 游 击 射 手， 然 后 越 过 群 山 去 征 服 卡 拉 迪 亚 帝 国 曾 经 统 治 过 的 所 有 大 陆。 
-str_npc15_kingsupport_2|我 愿 意。 人 们 也 许 会 说 你 身 上 流 淌 的 没 有 皇 室 的 血 统。 但 是 据 我 所 知， 皇 室 血 统 只 会 让 你 变 得 小 气。 国 王 和 贵 族 们 会 拿 借 款 或 者 佣 金 去 派 用 场， 而 丝 毫 不 考 虑 他 们 是 否 会 偿 还 这 些 佣 金 给 那 些 辛 苦 劳 作 了 一 天 准 备 靠 这 个 去 吃 饭 人 们。 如 果 你 问 我， 我 会 告 诉 你 言 而 有 信 的 人 才 能 当 {国 王/女 王}， 而 不 应 该 是 靠 特 别 的 血 统。 
-str_npc16_kingsupport_2|当 然， 我 的 {大 人/夫 人}。 而 另 外 的， 我 认 为 像 我 这 样 的 女 孩 可 以 在 这 片 大 陆 的 领 主 中 为 你 获 取 他 们 的 支 持 提 供 一 些 帮 助。 常 年 以 来 我 在 他 们 的 计 划 和 密 谋 中 只 担 当 过 小 角 色， 但 是 我 想 我 知 道 他 们 的 企 图。 而 有 了 我 知 道 的 他 们 的 秘 密， 他 们 不 会 阻 挡 我 进 入 他 们 的 大 厅， 现 在 他 们 不 正 是 这 样 吗？ 
+str_npc1_kingsupport_2|However, I would ask that you educated the people and bring them towards the light give them the chance to become free and worthy. Let them advance themselves through hard work and honesty, and not be held back by old traditions and systems of slavery.
+str_npc2_kingsupport_2|Ligeikis the Balt - kingsupport 2
+str_npc3_kingsupport_2|Aye, I would. But there is something I should say, on behalf of the men of the steppes such as myself. It would bring great joy to us, to hear from the lips of one who would be khan, that you would restore an anicent right. From the days of the old emperors, the men of the steppes have enjoyed the right to bring their flocks to new pastures or to market, which necessarily involves the crossing of lands owned by the great lords of this realm.
+str_npc4_kingsupport_2|Then given all that I have said, Jarl, it is important to remember your inner steel and not tread to lighty when dealing with folk.  Respect is still an important tool for a king and dont forget it Jarl.  Without respect you would not be in this position launch your claim.  Remember this and all will be well.
+str_npc5_kingsupport_2|Bolko the Pole - kingsupport 2
+str_npc6_kingsupport_2|Johann of the HRE - kingsupport 2
+str_npc7_kingsupport_2|Istvan the Hungarian - kingsupport 2
+str_npc8_kingsupport_2|Yuriy of Novgorod - kingsupport 2
+str_npc9_kingsupport_2|Most of the lords of this land -- well, let's face it, their priorities are never for the peasantry, are they?  I could convince the simple people, the tanners, the carpenters, the smiths, to lend their support to you.  These are the people who built this land, and they are the ones who can help you build it further.
+str_npc10_kingsupport_2|Jean the Frenchman - kingsupport 2
+str_npc11_kingsupport_2|Jon the Norwegian - kingsupport 2
+str_npc12_kingsupport_2|Uilleam the Scot - kingsupport 2
+str_npc13_kingsupport_2|Aedh the Irishman - kingsupport 2
+str_npc14_kingsupport_2|Karl the Swede - kingsupport 2
+str_npc15_kingsupport_2|Ivan of Galicia - kingsupport 2
+str_npc16_kingsupport_2|Of course, captain.  But if I have learned anything in my travels in this land, it is that tradition matters. Everything must be done as it was done in the days of our forefathers -- even though not more than one in a hundred of them can read enough to understand what that was! Every law is handed down from generation to generation.
 str_npc17_kingsupport_2|Jaume of Aragon - kingsupport 2{***}
 str_npc18_kingsupport_2|Fernando the Castillan - kingsupport 2{***}
 str_npc20_kingsupport_2|Isma'il the Andalusian - kingsupport 2{***}
@@ -1278,22 +1278,22 @@ str_npc28_kingsupport_2|Gamal the Arab - kingsupport 2{***}
 str_npc29_kingsupport_2|Dragoslav the Serbian - kingsupport 2{***}
 str_npc30_kingsupport_2|Kyril the Bulgarian - kingsupport 2{***}
 str_npc31_kingsupport_2|Ali the Berber - kingsupport 2{***}
-str_npc1_kingsupport_2a|请 继 续 说…… 
-str_npc2_kingsupport_2a|请 继 续…… 
-str_npc3_kingsupport_2a|请 继 续…… 
-str_npc4_kingsupport_2a|当 然—— 让 我 告 诉 你 他 所 有 的 事 情。 
-str_npc5_kingsupport_2a|请 继 续 说…… 
-str_npc6_kingsupport_2a|好 极 了 
-str_npc7_kingsupport_2a|好 吧， 是， 我 会 试 着 执 行 命 令…… 
-str_npc8_kingsupport_2a|很 好 
-str_npc9_kingsupport_2a|那 听 起 来 很 明 智…… 
-str_npc10_kingsupport_2a|当 然—— 我 会 把 那 项 权 利 加 入 我 的 计 划 
-str_npc11_kingsupport_2a|看 看 你 是 否 会 想 起 那 预 言。 
-str_npc12_kingsupport_2a|有 趣。 请 继 续 说…… 
-str_npc13_kingsupport_2a|啊， 是， 你 是 啊。 
-str_npc14_kingsupport_2a|请 继 续 说…… 
-str_npc15_kingsupport_2a|说 得 好， 我 的 好 部 下 
-str_npc16_kingsupport_2a|有 趣…… 请 继 续 
+str_npc1_kingsupport_2a|A most enlighten view of the future.
+str_npc2_kingsupport_2a|Ligeikis the Balt - kingsupport 2a
+str_npc3_kingsupport_2a|Please go on...
+str_npc4_kingsupport_2a|Wise words from a man of the sword.
+str_npc5_kingsupport_2a|Bolko the Pole - kingsupport 2a
+str_npc6_kingsupport_2a|Johann of the HRE - kingsupport 2a
+str_npc7_kingsupport_2a|Istvan the Hungarian - kingsupport 2a
+str_npc8_kingsupport_2a|Yuriy of Novgorod - kingsupport 2a
+str_npc9_kingsupport_2a|Please continue...
+str_npc10_kingsupport_2a|Jean the Frenchman - kingsupport 2a
+str_npc11_kingsupport_2a|Jon the Norwegian - kingsupport 2a
+str_npc12_kingsupport_2a|Uilleam the Scot - kingsupport 2a
+str_npc13_kingsupport_2a|Aedh the Irishman - kingsupport 2a
+str_npc14_kingsupport_2a|Karl the Swede - kingsupport 2a
+str_npc15_kingsupport_2a|Ivan of Galicia - kingsupport 2a
+str_npc16_kingsupport_2a|Interesting. Please go on...
 str_npc17_kingsupport_2a|Jaume of Aragon - kingsupport 2a{***}
 str_npc18_kingsupport_2a|Fernando the Castillan - kingsupport 2a{***}
 str_npc20_kingsupport_2a|Isma'il the Andalusian - kingsupport 2a{***}
@@ -1307,22 +1307,22 @@ str_npc28_kingsupport_2a|Gamal the Arab - kingsupport 2a{***}
 str_npc29_kingsupport_2a|Dragoslav the Serbian - kingsupport 2a{***}
 str_npc30_kingsupport_2a|Kyril the Bulgarian - kingsupport 2a{***}
 str_npc31_kingsupport_2a|Ali the Berber - kingsupport 2a{***}
-str_npc1_kingsupport_2b|好 吧。 我 们 来 看 看 那 怎 么 改 变…… 
-str_npc2_kingsupport_2b|我 没 有 寻 求 他 们 的 支 持， 因 为 他 们 无 疑 打 算 在 这 件 事 当 中 获 益。 
-str_npc3_kingsupport_2b|我 对 那 种 会 让 我 陷 入 麻 烦 的 事 情 没 兴 趣。 
-str_npc4_kingsupport_2b|我 不 会 参 与 这 个 
-str_npc5_kingsupport_2b|我 说 我 想 当 {国 王/女 王}， 而 不 是 陷 入 游 牧 民 族 的 琐 事 里 面 
-str_npc6_kingsupport_2b|我 不 确 信 我 能 承 担 那 么 多 重 任 
-str_npc7_kingsupport_2b|我 认 为 也 许 你 关 于 国 王 对 和 平 的 建 议 想 的 太 多 了， 就 是 那 样 
-str_npc8_kingsupport_2b|那 真 是 个 荒 唐 的 条 件 
-str_npc9_kingsupport_2b|我 不 确 信 执 行 你 的 那 些 想 法 会 像 你 想 的 那 么“ 简 单” 
-str_npc10_kingsupport_2b|嗯。 让 我 回 头 再 想 想 这 个。 
-str_npc11_kingsupport_2b|啊…… 请 松 开 我 的 手。 
-str_npc12_kingsupport_2b|够 了， 先 生。 我 不 允 许 你 嘲 笑 我 们 的 传 统 
-str_npc13_kingsupport_2b|嗯。 我 不 确 信 那 个。 
-str_npc14_kingsupport_2b|事 实 上， 我 希 望 能 在 成 为 {国 王/女 王} 之 后 能 消 停 一 段 时 间…… 
-str_npc15_kingsupport_2b|也 许 吧， 一 个 打 工 的 {国 王/女 王}， 别 再 说 了 
-str_npc16_kingsupport_2b|无 意 冒 犯 你， 但 我 不 确 定 我 会 采 用 那 种 手 段 
+str_npc1_kingsupport_2b|I think that your views on 'the rights of the peasantry' are different to my own. We wont discuss this again.
+str_npc2_kingsupport_2b|Ligeikis the Balt - kingsupport 2b
+str_npc3_kingsupport_2b|I said that I wished to be {king/queen}, not that I wished to involve myself in the minutiae of nomadism
+str_npc4_kingsupport_2b|Perhaps we should discuss your thoughts on this issue again, when you have some time to think about it.
+str_npc5_kingsupport_2b|Bolko the Pole - kingsupport 2b
+str_npc6_kingsupport_2b|Johann of the HRE - kingsupport 2b
+str_npc7_kingsupport_2b|Istvan the Hungarian - kingsupport 2b
+str_npc8_kingsupport_2b|Yuriy of Novgorod - kingsupport 2b
+str_npc9_kingsupport_2b|I do not ask for their support, as they would no doubt wish to make a profit on the transaction.
+str_npc10_kingsupport_2b|Jean the Frenchman - kingsupport 2b
+str_npc11_kingsupport_2b|Jon the Norwegian - kingsupport 2b
+str_npc12_kingsupport_2b|Uilleam the Scot - kingsupport 2b
+str_npc13_kingsupport_2b|Aedh the Irishman - kingsupport 2b
+str_npc14_kingsupport_2b|Karl the Swede - kingsupport 2b
+str_npc15_kingsupport_2b|Ivan of Galicia - kingsupport 2b
+str_npc16_kingsupport_2b|Enough, sir. I will not have you mock our traditions.
 str_npc17_kingsupport_2b|Jaume of Aragon - kingsupport 2b{***}
 str_npc18_kingsupport_2b|Fernando the Castillan - kingsupport 2b{***}
 str_npc20_kingsupport_2b|Isma'il the Andalusian - kingsupport 2b{***}
@@ -1336,22 +1336,22 @@ str_npc28_kingsupport_2b|Gamal the Arab - kingsupport 2b{***}
 str_npc29_kingsupport_2b|Dragoslav the Serbian - kingsupport 2b{***}
 str_npc30_kingsupport_2b|Kyril the Bulgarian - kingsupport 2b{***}
 str_npc31_kingsupport_2b|Ali the Berber - kingsupport 2b{***}
-str_npc1_kingsupport_3|如 果 我 能 在 这 片 大 陆 上 走 动 几 个 星 期， 告 诉 大 伙 们 你 将 像 老 帝 国 时 期 那 样 特 赦 他 们 的 亲 属—— 那 么， 他 们 就 会 开 始 把 你 当 作 君 主 而 谈 论， 而 那 会 铺 就 你 通 往 王 座 之 路。 要 我 那 么 做 吗， 老 板？ 
-str_npc2_kingsupport_3|Ligeikis the Balt - kingsupport 3{***}
-str_npc3_kingsupport_3|如 果 你 会 做 这 样 的 承 诺， {先 生/夫 人}， 我 想 那 会 有 助 于 让 这 片 大 陆 的 诸 多 领 主 克 服 他 们 可 能 带 有 的 任 何 不 情 愿。 如 果 你 的 目 标 是 恢 复 旧 卡 拉 迪 亚 体 系， 那 么 毫 无 疑 问， 你 比 起 那 些 后 来 的 篡 位 者 是 要 正 统 的 多 的 {国 王/统 治 者}。 让 我 离 开 几 周， {先 生/夫 人}， 我 就 会 让 这 片 大 陆 上 至 贵 族 大 厅 下 到 商 人 家 里 都 知 道 你 打 算 恢 复 他 们 旧 时 的 传 统 权 利。 
-str_npc4_kingsupport_3|是 的—— 我 想 我 听 说 过 那 条 线， 事 实 上， 我 可 以 想 象 那 整 个 家 族 谱 系。 如 果 你 让 我 离 开，“ 陛 下”， 我 就 会 在 之 后 的 几 周 在 这 个 国 家 的 村 庄 和 城 堡 旅 行， 散 播 关 于 你 那 皇 室 血 统 的 消 息。 当 然， 我 希 望 你 在 分 封 大 陆 的 那 一 天 来 到 时， 还 能 记 得 你 忠 实 的 下 属…… 
-str_npc5_kingsupport_3|总 之， 大 人， 在 而 今 这 个 苦 难 的 时 代， 大 人 物 们 拦 住 了 我 们 的 通 道， 征 收 巨 额 的 过 路 费。 这 对 我 们 这 样 的 老 百 姓 来 说 是 个 沉 重 的 负 担， 阁 下。 如 果 我 可 以 用 上 几 个 星 期 来 告 诉 草 原 上 的 人 们 你 将 支 持 恢 复 我 们 旧 时 的 传 统 权 利， 嗯， 那 么， 我 想 你 将 会 发 现 很 多 人 支 持 你 成 为 可 汗， 而 当 人 们 把 你 当 作 可 汗 来 谈 论， 那 就 将 是 你 称 孤 的 第 一 步。 
-str_npc6_kingsupport_3|很 好。 尽 管 现 在 我 的 家 庭 已 经 不 再 认 我， 我 在 跟 随 你 冒 险 的 日 子 里 去 过 许 多 贵 族 的 大 厅， 而 我 猜 想 我 将 重 新 变 得 受 欢 迎。 我 要 在 这 片 大 陆 上 四 处 走 动， 并 且 告 诉 贵 族 们 当 你 成 为 {国 王/女 王}， 你 将 尽 你 的 最 大 努 力 保 护 弱 小 、 消 灭 不 和， 这 样 就 不 会 有 人 对 他 人 动 粗 而 不 受 惩 罚， 并 且 也 许 有 一 天， 将 不 再 会 有 同 胞 杀 伐 的 丑 行。 
-str_npc7_kingsupport_3|我 得 告 诉 你， 队 长。 给 我 几 个 星 期， 我 将 去 那 些 像 散 发 着 臭 味 的 猪 圈 一 样 的 村 庄， 不 过 我 想 那 段 日 子 里 我 能 照 顾 好 我 自 己。 我 要 告 诉 那 里 的 人 们 一 旦 你 统 一 了 这 片 大 陆， 你 就 会 清 除 那 些 乱 匪 贼 党。 你 将 沿 途 竖 满 绞 刑 架， 将 那 些 不 法 之 徒 们 高 高 吊 起， 让 所 有 经 过 的 人 都 知 道 品 行 不 端 者 只 有 死 路 一 条。 
-str_npc8_kingsupport_3|好 啊！ 那 么 给 我 几 个 星 期， 我 将 奔 走 于 这 片 的 大 陆 的 领 主 之 间， 让 大 家 都 知 道 你 是 一 个 尊 重 领 主 们 以 及 他 们 旧 时 的 传 统 权 利 的 {国 王/统 治 者}。 你 不 用 事 必 躬 亲， 而 卡 拉 迪 亚 还 有 更 需 要 你 做 的 事 情。 
-str_npc9_kingsupport_3|明 智 极 了， {先 生/夫 人}—— 那 样 在 我 们 都 在 为 你 的 王 国 的 荣 耀 而 奋 战 的 时 候， 就 可 以 不 用 见 到 那 些 该 死 的 文 书 、 市 民 的 陈 情 、 以 及 浪 费 你 我 所 有 时 间 的 卷 宗 了。 让 我 离 开 吧， 那 样 我 好 在 这 片 大 陆 的 贵 族 领 主 中 传 播 你 将 恢 复 旧 时 体 制 的 消 息， 到 时 候 我 敢 打 赌 会 有 成 群 的 人 追 随 你 并 为 你 而 战。 
-str_npc10_kingsupport_3|那 么 好 吧， {兄 弟/姐 妹}， 让 我 离 开 几 个 星 期 那 我 就 可 以 在 这 片 大 陆 上 四 处 走 走， 让 老 百 姓 们 知 道 你 将 主 持 公 平 和 正 义， 领 主 犯 法 与 庶 民 同 罪。 人 们 会 把 你 当 作 {国 王/女 王} 来 谈 论， 而 那 就 将 是 你 称 孤 之 路 的 良 好 开 始…… 
-str_npc11_kingsupport_3|我 现 在 想 不 起 来 了， 但 如 果 你 让 我 回 家 去， 我 就 能 找 到 一 位 全 都 记 得 的 老 人。 并 且， 我 会 四 处 传 播 你 手 上 有 王 者 印 记 的 消 息！ 我 经 过 的 许 多 地 方 都 在 寻 求 一 位 公 正 的 统 治 者， 而 某 个 人 的 手 掌 就 可 以 告 诉 他 们 谁 是 传 说 中 那 个 人。 给 我 几 个 星 期， 我 猜 想 那 样 我 就 可 以 对 你 成 为 下 一 个 {国 王/女 王} 多 增 加 一 些 期 望。 
-str_npc12_kingsupport_3|但 是 你 知 道 吗？ 对 大 家 来 说， 没 有 人 会 去 理 会“ 帝 制” 法 律 的 规 定。 有 时 候 君 主 把 皇 位 传 给 他 的 子 嗣。 有 时 候 他 分 封 给 他 的 将 军 们。 有 时 候 君 主 最 后 会 被 谋 杀。 从 来 就 没 有 一 个 合 法 的“ 卡 拉 迪 亚” 称 王 方 式， 那 么 自 然 地， 把 王 位 给 最 适 合 的 统 治 者—— 比 如 你—— 就 很 有 意 义。 给 我 几 个 星 期， 我 要 写 一 份 证 明 你 是 合 适 的 统 治 者 的 纪 录， 然 后 找 个 抄 写 员 把 译 本 张 贴 在 这 片 大 陆 的 每 一 个 城 镇 酒 馆 里。 你 觉 得 这 主 意 怎 么 样， 队 长？ 
-str_npc13_kingsupport_3|那 么 让 我 离 开 几 个 星 期， 尊 贵 的 大 人， 我 去 编 造 一 个 传 闻， 是 那 种 可 以 震 撼 最 迟 钝 的 心 灵， 会 对 你 的 品 德 而 滋 生 钦 佩， 会 为 你 的 困 苦 而 心 生 同 情， 并 且 会 对 阻 挡 你 道 路 的 人 产 生 愤 怒 的。 当 然 了， 我 想， 在 细 节 上 为 了 押 韵 也 可 以 多 违 反 一 些 语 法 规 则？ 
-str_npc14_kingsupport_3|让 我 离 开 几 个 星 期， {先 生/夫 人}， 我 会 让 这 片 大 陆 的 所 有 关 键 人 物 都 知 道 你 不 仅 仅 会 完 成 统 一 卡 拉 迪 亚 的 大 业， 还 会 平 定 卡 拉 迪 亚 之 外 的 其 他 版 图。 如 我 所 想， 除 非 拥 有 统 治 所 有 版 图 的 能 力， 否 则 任 何 人 都 无 法 称 王—— 而 唯 独 你 已 经 证 明 了 你 有 这 种 能 力， 先 生。 
-str_npc15_kingsupport_3|我 很 高 兴 你 这 么 想。 说 一 下 我 的 建 议。 我 认 识 行 会 里 像 我 这 样 的 人， 他 们 会 扎 根 在 那 里 除 非 他 们 什 么 都 得 不 到 了。 我 要 告 诉 他 们—— 你 是 一 个 诚 实 的 人。 你 尊 重 民 众。 你 会 支 付 你 的 债 务。 你 不 会 让 你 的 臣 民 沦 为 乞 丐。 
-str_npc16_kingsupport_3|让 我 离 开 几 个 星 期， 我 会 去 稍 稍 拜 访 一 下 我 以 前 老 板 的 城 堡。 我 会 给 他 们 唱 唱 你 当 上 {国 王/女 王} 会 怎 么 做 的 赞 歌， 是 关 于 你 将 恢 复 所 有 旧 时 的 传 统 特 权 的—— 让 他 们 掠 夺 他 们 的 佃 户， 向 商 人 课 税， 打 他 们 的 仗， 愚 蠢 地 虚 度 光 阴 而 不 用 为 明 天 着 想， 就 像 一 个 贵 族 该 做 的 那 样！ 你 说 怎 么 样， 队 长？ 
+str_npc1_kingsupport_3|It is sad to say that when it comes to the future of a Kingdom nothing would stand in the way of a few greedy men trying to snatch the throne in the enternal power struggle. Therefore I think given your respect for the right of man you would be a better leader of a united land than all of the current leaders. So if you give me a few weeks I will spread your stories of your fitness to rule far and wide in the Christian lands. If that meets your approval?
+str_npc2_kingsupport_3|Ligeikis the Balt - kingsupport 3
+str_npc3_kingsupport_3|Anyway, lord, in these sorry times the men of the great estates have taken to blocking our passage, setting large armies for us to battle. It is a great burden on my people. If I could take a few weeks to let the men of the steppes know that you would support the restoration of our ancient rights, well, then, I think you would find many who would support you as khan, And when men speak of you as khan, that's the first step to becoming one.
+str_npc4_kingsupport_3|Indeed, I should welcome the chance to support your future faction knowing you to be fair with those that serve you faithfully.  It is better than the current bunch of kings who seem to consider kingship to consist of having someone killed daily for amusement.  So I recommend giving me a few weeks off and I will visit every dockside tavern I can find and tell tales about your generousity and fairness,  and before you know it people will be begging you to come and take over there land.  If thats okay with you Jarl?
+str_npc5_kingsupport_3|Bolko the Pole - kingsupport 3
+str_npc6_kingsupport_3|Johann of the HRE - kingsupport 3
+str_npc7_kingsupport_3|Istvan the Hungarian - kingsupport 3
+str_npc8_kingsupport_3|Yuriy of Novgorod - kingsupport 3
+str_npc9_kingsupport_3|If you like, captain, I can take a few weeks to visit the public houses where I have contacts, and explain to them that, in you, they will have a {king/ruler} who will check the rapacious nobles, who, with their tariffs and wars, would strangle the populace out of their sons and their livelihood. What do you say to that, captain?
+str_npc10_kingsupport_3|Jean the Frenchman - kingsupport 3
+str_npc11_kingsupport_3|Jon the Norwegian - kingsupport 3
+str_npc12_kingsupport_3|Uilleam the Scot - kingsupport 3
+str_npc13_kingsupport_3|Aedh the Irishman - kingsupport 3
+str_npc14_kingsupport_3|Karl the Swede - kingsupport 3
+str_npc15_kingsupport_3|Ivan of Galicia - kingsupport 3
+str_npc16_kingsupport_3|But you know what? There is no law when it comes to the crown. Sometimes one emperor handed the empire to his son. Sometimes he split it between his generals. Sometimes one emperor murdered the last. There's no 'right' way to crown a {king/king or queen}, and thus it makes sense that the crown should go to the one most fit to govern -- which would be you, naturally. Give me a couple of weeks, and I'll write a tract which proves it and find a copyist to post a version in every town tavern in the land. What do you say to that idea, captain?
 str_npc17_kingsupport_3|Jaume of Aragon - kingsupport 3{***}
 str_npc18_kingsupport_3|Fernando the Castillan - kingsupport 3{***}
 str_npc20_kingsupport_3|Isma'il the Andalusian - kingsupport 3{***}
@@ -1365,22 +1365,22 @@ str_npc28_kingsupport_3|Gamal the Arab - kingsupport 3{***}
 str_npc29_kingsupport_3|Dragoslav the Serbian - kingsupport 3{***}
 str_npc30_kingsupport_3|Kyril the Bulgarian - kingsupport 3{***}
 str_npc31_kingsupport_3|Ali the Berber - kingsupport 3{***}
-str_npc1_kingsupport_objection|老 板—— 你 让 艾 雷 恩 离 队 去 告 诉 那 些 贵 族 们 他 们 将 获 得 超 过 牧 场 、 市 场 和 林 场 的 权 利？ 我 不 赞 成 那 样。 让 他 这 么 做， 他 就 会 在 大 陆 的 每 个 村 庄 架 上 绞 刑 架， 而 那 上 面 就 会 吊 着 些 像 我 这 样 盘 算 着 拿 张 弓 到 树 林 里 搞 点 野 味 的 倒 霉 鬼。 
-str_npc2_kingsupport_objection|嗯， 队 长。 马 蒂 尔 德 已 经 骑 着 马 去 告 诉 这 片 大 陆 上 的 领 主 们 你 将 用 武 装 和 暴 力 来 平 息 他 们 的 争 吵。 你 知 道 他 们 很 少 会 真 的 相 互 动 武， 对 吗？ 大 部 分 时 间 里， 在 他 们 为 了 鸡 毛 蒜 皮 的 小 事 而 起 的 那 些 争 端 中， 损 失 惨 重 的 是 那 些 不 幸 正 好 路 过 他 们 城 堡 之 间 的 商 人 和 旅 行 者。 任 何 一 个 洗 劫 商 队 的 借 口， 他 们 都 不 会 放 过。 我 真 心 希 望 她 误 解 了 你 的 意 思， 先 生。 
-str_npc3_kingsupport_objection|队 长—— 德 赛 维 已 经 动 身 去 冒 险 了， 她 说 那 是 获 得 你 首 肯 的。 她 说 她 要 去 这 片 大 陆 上 的 那 些 村 庄， 告 诉 那 些 可 怜 的 村 民 们 一 旦 你 成 为 国 王， 你 打 算 绞 死 所 有 的 小 偷 和 强 盗。 {先 生/夫 人}， 我 是 一 个 商 人 的 女 儿， 深 知 匪 盗 的 祸 害。 我 还 知 道 德 赛 维 正 在 铸 下 大 错。 但 是 你 真 的 没 必 要 不 问 青 红 皂 白 地 把 人 给 绞 死。 你 的 王 国 应 该 要 有 仁 慈 的 一 面。 
-str_npc4_kingsupport_objection|队 长， 亚 提 曼 已 经 出 发， 去 向 市 民 们 宣 传“ 你 之 所 以 竞 逐 王 位， 是 因 为 你 懂 得 如 何 平 衡 收 支”。 恕 我 直 言， 这 太 荒 唐 了。 贵 族 和 国 王 应 该 做 的， 是 战 争 和 裁 决。 如 果 把 精 力 用 来 跟 每 个 在 庄 园 里 干 过 一 丁 点 儿 工 作 的 流 浪 汉， 在 工 钱 问 题 上 讨 价 还 价， 那 么 除 了 混 乱 和 无 序， 别 的 什 么 都 不 会 得 到。 
-str_npc5_kingsupport_objection|{playername} 阁 下—— 我 无 意 中 听 到 了 你 跟 雅 米 拉 说 的 话。 不 过 我 在 想—— 如 果 税 收 的 设 置， 是 由 靠 农 场 为 收 入 的 领 主 和 以 贸 易 为 生 的 商 人 来 决 定 的 话， 那 么 谁 会 被 征 税 呢？ 当 然 是 那 些 靠 放 牧 为 生 的 人—— 我 的 那 些 族 人， 生 活 在 草 原 上 的 人 们。 我 不 愿 意 和 这 些 决 定 有 任 何 牵 连， 阁 下—— 在 可 汗 的 统 领 下， 所 有 自 由 的 人 应 该 合 为 一 家， 那 才 算 是 事 情 的 终 结。 
-str_npc6_kingsupport_objection|听 说 你 派 罗 尓 夫 伪 造 了 一 份 关 于 皇 室 血 统 的 声 明。 我 必 须 提 醒 你， {先 生/夫 人}—— 上 天 是 不 会 对 通 过 欺 骗 来 取 得 王 位 的 行 为 加 以 赞 许 的。 
-str_npc7_kingsupport_objection|我 已 经 听 说 了 你 跟 班 达 克 讲 的， 关 于 每 个 普 通 的 犯 人 都 有 权 利 向 {国 王/统 治 者} 申 诉 的 事 情。 我 无 法 赞 同。 强 盗 被 抓 到 之 后 应 该 被 绞 死。 如 果 给 了 他 们 审 判 和 申 诉 的 机 会， 他 们 会 通 过 狡 辩 逃 过 绞 索。 班 达 克 是 个 好 人， 但 没 有 人 能 够 完 全 的 了 解， 那 些 人 面 兽 心 的 家 伙 对 女 人 们 施 加 了 怎 样 的 暴 行。 
-str_npc8_kingsupport_objection|队 长—— 你 已 经 派 法 提 斯 去 知 会 大 陆 上 的 所 有 领 主， 说 你 想 促 成 和 平， 以 后 没 有 人 会 因 为 分 歧 而 刀 兵 相 向。 然 后， 你 是 想 让 我 们 都 安 稳 地 死 在 床 上 吗？ 在 我 的 民 族 看 来， 这 实 在 是 太 丢 人 了。 一 个 {国 王/元 帅} 的 职 责 是 指 挥 战 斗， 而 不 是 教 人 如 何 处 理 争 论 和 分 歧。 
-str_npc9_kingsupport_objection|{先 生/夫 人}—— 我 很 遗 憾， 听 说 你 已 经 让 贝 斯 图 尔 告 诉 他 的 族 人 们， 今 后 允 许 他 们 赶 着 牧 群 经 过 更 好 的 地 方。 真 希 望 是 我 听 错 了， 队 长。 我 们 所 收 取 的 作 为 补 偿 的 钱， 抵 不 过 他 们 对 我 们 牧 群 的 破 坏 以 及 对 水 源 的 污 染。 尊 敬 的 {阁 下/女 士}， 如 果 你 未 来 的 王 国 将 变 成 一 些 游 牧 民 族 的 天 堂 的 话， 我 个 人 绝 不 希 望 如 此。 
-str_npc10_kingsupport_objection|听 说 你 让 尼 扎 编 写 一 些 诗 歌， 来 证 明 你 取 得 王 位 的 正 统 性。 请 恕 我 不 能 苟 同。 如 果 人 们 愿 意 为 一 位 {国 王/元 帅} 而 战， 那 一 定 是 因 为 他 们 能 从 中 得 到 好 处， 而 不 是 出 于 对 某 首 无 聊 诗 歌 的 爱 好。 
-str_npc11_kingsupport_objection|我 听 说 雷 萨 里 特 告 诉 民 众， 你 将 成 为 一 位 {国 王/女 王}， 并 亲 自 领 导 一 支 军 队 翻 山 越 岭。 难 道 这 些 战 争 不 该 有 个 终 结 吗， {年 轻 人/小 姑 娘}？ 我 曾 经 以 为， 如 果 你 当 了 {国 王/女 王}， 说 不 定 能 给 大 家 带 来 一 点 和 平。 不 过 现 在 看 来， 上 天 注 定 要 卡 拉 迪 亚 血 流 成 河， 尸 骨 如 山， 而 且， 天 意 不 可 违。 
-str_npc12_kingsupport_objection|队 长， 听 说 你 多 少 有 些 把 克 雷 斯 当 成 我 们 跟 贵 族 交 涉 的 使 节 的 意 思。 让 这 个 是 非 不 明 的 小 姑 娘 代 表 你 向 别 人 做 出 承 诺， 还 把 那 些 不 合 时 宜 的 宽 容 尊 称 为“ 古 老 的 自 由”， 一 想 到 这 儿 我 就 不 寒 而 栗。 你 这 么 做， 是 戏 弄 了 那 些 对 卡 拉 迪 亚 的 未 来 充 满 希 望 的 人 们， 他 们 憧 憬 着 这 片 大 陆 能 够 远 离 血 腥， 进 入 一 个 祥 和 安 定 、 学 术 繁 荣 的 新 时 代。 够 了， 对 于 我 心 目 中 的 和 平， 我 已 经 说 得 够 多 了。 
-str_npc13_kingsupport_objection|哦， 一 个 勇 士—— 我 听 说 你 准 许 杰 姆 斯 编 写 一 些 措 辞 强 硬 的 文 章， 来 暗 中 破 坏 这 个 大 陆 的 人 民 所 珍 视 的 所 有 东 西， 并 且 指 控 以 前 的 君 主 是 刽 子 手 和 篡 权 者。 队 长—— 作 为 一 个 诗 人， 我 明 白， 人 民 必 须 得 有 可 以 崇 拜 的 英 雄， 有 可 以 指 望 复 兴 的 盛 世。 不 过， 你 愿 意 创 造 一 个 由 犬 儒 和 学 究 来 决 定 我 们 的 信 仰 的 王 国 吗？ 我 找 不 出 比 这 更 蠢 的 事 情 了。 
-str_npc14_kingsupport_objection|我 听 说， 你 已 经 派 波 尔 查 向 整 个 卡 拉 迪 亚 宣 告， 当 你 即 位 之 时， 将 赦 免 所 有 的 罪 犯。 这 简 直 太 荒 唐 了…… 人 民 必 须 接 受 管 理， {先 生/夫 人}—— 如 有 必 要， 你 还 得 用 上 鞭 子 、 镣 铐 和 绞 索。 我 保 证， 在 你 当 上 {国 王/女 王}， 吃 了 苦 头 之 后， 你 一 定 会 明 白 我 所 说 的 道 理。 
-str_npc15_kingsupport_objection|听 说 你 允 许 凯 特 琳 去 散 布 关 于 你 手 上 的 印 记 的 谶 语。 我 只 想 说， 作 为 一 个 受 过 教 育 的 人， 我 很 担 心 你 是 不 是 要 靠 老 妇 人 的 迷 信 来 支 持 你 竞 逐 王 位。 乡 下 的 女 人 们 今 天 信 这 个， 明 天 又 信 那 个。 如 今， 由 一 位 出 自 皇 家 学 院， 声 名 显 赫 的 占 星 家 所 推 演 出 的 占 星 术， 或 许 能 告 诉 你 一 些 有 用 的 信 息， 不 过， 此 前 的 一 段 时 间 里， 这 东 西 可 没 有 被 运 用 过。 
-str_npc16_kingsupport_objection|唉—— 队 长！ 我 听 说 马 尼 德 离 队 去 向 那 些 商 人 大 唱 赞 歌， 说 你 会 把 卡 拉 迪 亚 用 放 银 币 的 大 盘 子 端 到 他 们 面 前， 让 他 们 在 上 面 大 块 朵 颐， 敲 膏 吸 髓。 我 希 望 那 只 是 你 散 布 的 谣 言。 一 个 高 尚 的 领 主 在 举 办 宴 会 的 时 候 起 码 会 给 穷 人 施 舍 两 个 子 儿， 也 会 让 他 的 仆 人 们 吃 饱 了 肚 子 再 回 家。 一 个 商 人 给 他 的 女 儿 举 办 婚 宴 时， 你 在 饭 桌 上 找 到 一 点 残 羹 剩 饭 算 是 你 走 运。 总 之， 那 些 就 是 我 的 经 验。 
+str_npc1_kingsupport_objection|Leige I have heard that you have made Jaume a representive of your thoughts and wishes regarding the future of the kingdom! I never thought I would see you betray your values like this in public. You insult all of us who would of seen you made Leader of this land.
+str_npc2_kingsupport_objection|Ligeikis the Balt - kingsupport objection
+str_npc3_kingsupport_objection|I overhead what you told Hugues. But I wonder -- if the lords who live from farming, and the merchants who earn from trade, are allowed to determine what taxes will be leveed, then who will be taxed? Those who live from flocks, of course -- my people, the people of the steppes. I would have nothing to do with these councils, all free men should be one, under the khan, and that is the end of it.
+str_npc4_kingsupport_objection|Jarl!, why have you made Ulrich your representive in this important matter of your future plans?  He would have the common people treat you with no respect at all, mearly tolerance!  After all that you,we together, have fought for would you sell us out so cheaply to grasp a throne in this land?
+str_npc5_kingsupport_objection|Bolko the Pole - kingsupport objection
+str_npc6_kingsupport_objection|{Sir/My lady} I feeL sending Martio off on a mission to gather support from the people for your cause.  I fear he will do more harm than good, promising the poor unrealistic rewards and threatening the rich with a system that would undermine their wealth.
+str_npc7_kingsupport_objection|Istvan the Hungarian - kingsupport objection
+str_npc8_kingsupport_objection|Yuriy of Novgorod - kingsupport objection
+str_npc9_kingsupport_objection|Um, captain. Jean has ridden off to tell the lords of this land that you'll let them settle their quarrels by force and violence. You know they rarely actually fight each other, right? Most of the time, it's the villages that get clobbered in their petty disputes. Any excuse to pillage and loot, they'll take. I really hope that he misunderstood you, sir.
+str_npc10_kingsupport_objection|Jean the Frenchman - kingsupport objection
+str_npc11_kingsupport_objection|Jon the Norwegian - kingsupport objection
+str_npc12_kingsupport_objection|Uilleam the Scot - kingsupport objection
+str_npc13_kingsupport_objection|Aedh the Irishman - kingsupport objection
+str_npc14_kingsupport_objection|Karl the Swede - kingsupport objection
+str_npc15_kingsupport_objection|Ivan of Galicia - kingsupport objection
+str_npc16_kingsupport_objection|Captain. I hear that you've gone and made Charlotta, of all people, some sort of ambassador to the aristocracy. I shudder to think of what that amoral girl might be promising them on your behalf -- and dignifying all these gross indulgences by calling them 'ancient freedoms.' By doing this, you mock those of us who who had hoped that you would have helped Chritendom escape its bloody past, and move towards a new age of peace and learning. Enough, I have said my peace.
 str_npc17_kingsupport_objection|Jaume of Aragon - kingsupport objection{***}
 str_npc18_kingsupport_objection|Fernando the Castillan - kingsupport objection{***}
 str_npc20_kingsupport_objection|Isma'il the Andalusian - kingsupport objection{***}
@@ -1394,22 +1394,22 @@ str_npc28_kingsupport_objection|Gamal the Arab - kingsupport objection{***}
 str_npc29_kingsupport_objection|Dragoslav the Serbian - kingsupport objection{***}
 str_npc30_kingsupport_objection|Kyril the Bulgarian - kingsupport objection{***}
 str_npc31_kingsupport_objection|Ali the Berber - kingsupport objection{***}
-str_npc1_intel_mission|好 吧， 老 大， 我 碰 巧 有 几 个 亲 戚 在 {s17}， 而 且 不 像 我 家 族 中 的 某 些 人， 他 们 还 算 看 得 起 我。 他 们 作 马 匹 生 意—— 我 曾 经 不 止 一 次 的 用 商 店 存 货 供 应 过 他 们—— 这 样 他 们 就 可 以 打 探 一 些 关 于 {s18}城 堡 的 消 息。 我 可 以 去 走 一 趟， 然 后 回 来 告 诉 你 我 发 现 了 什 么。 
-str_npc2_intel_mission|{大 人/尊 敬 的 女 士}， 如 果 你 对 发 生 在 {s18}的 事 情 感 兴 趣， 我 可 以 和 我 在 {s17}的 旧 生 意 伙 伴 联 系。 他 们 通 常 在 政 治 方 面 消 息 灵 通。 
-str_npc3_intel_mission|队 长， 虽 然 我 不 能 够 回 到 我 在 {s17}的 老 家， 但 我 还 是 可 以 和 我 的 姐 姐 联 系。 她 将 被 获 准 与 闻 大 商 会 的 机 密， 或 许 可 以 告 诉 我 们 一 些 关 于 {s18}的 情 况。 
-str_npc4_intel_mission|队 长， 如 果 你 能 给 我 几 天 的 时 间， 我 就 可 以 去 拜 访 住 在 {s17}的 一 位 老 战 友， 他 率 领 着 一 支 小 规 模 的 部 队， 为 {s18}工 作。 他 是 个 非 常 不 错 的 家 伙， 善 于 倾 听 和 思 考 而 非 夸 夸 其 谈。 而 且 我 确 定 和 他 喝 上 一 两 杯 后 我 将 能 从 他 口 中 套 出 这 一 地 区 的 政 治 状 况 和 走 向。 
-str_npc5_intel_mission|如 果 你 愿 意 的 话， {playername} 阁 下， 我 可 以 花 上 几 天 时 间 去 拜 访 一 下 我 姨 母 的 手 下， 他 们 正 在 {17}的 商 队 工 作， 掌 握 着 很 多 在 整 个 {s18}流 传 的 小 道 消 息。 如 果 你 有 兴 趣， 我 可 以 试 着 从 他 们 口 中 获 得 一 些 关 于 那 些 大 领 主 们 的 世 仇 和 彼 此 抗 争 的 情 报。 
-str_npc6_intel_mission|队 长—— 虽 然 我 在 {S17}不 是 非 常 受 欢 迎， 不 过 我 仍 然 有 办 法 和 那 里 的 一 些 人 取 得 联 系， 他 们 以 前 是 我 在 附 近 的 地 产 的 租 客， 当 我 从 那 里 销 声 匿 迹 前， 我 把 那 些 产 业 的 所 有 权 赠 与 了 他 们， 而 且 现 在 他 们 已 经 在 当 地 社 会 打 下 了 根 基， 获 得 了 良 好 的 地 位。 除 此 以 外， 由 于 利 益 的 关 系， 他 们 更 不 会 像 大 多 数 人 一 样 因 为 我 过 去 的 罪 行 而 针 对 我。 如 果 你 能 给 我 几 天 时 间， 我 有 信 心 从 {s18}获 得 一 些 有 价 值 的 情 报。 
-str_npc7_intel_mission|队 长， 当 我 离 开 我 在 {s17}的 故 居 时， 我 曾 告 诉 自 己， 除 非 是 为 了 向 那 些 伤 害 过 我 的 家 伙 复 仇， 我 永 远 也 不 会 回 到 这 里。 或 许 我 当 时 过 于 轻 率 了， 事 实 上， 我 偶 尔 也 会 想 起 我 的 家 人， 不 知 道 他 们 现 在 过 得 怎 样。 或 许 我 可 以 给 他 们 带 去 一 些 礼 物， 让 他 们 知 道 即 使 离 开 他 们， 我 也 可 以 有 所 成 就！ 不 过， 不 管 怎 么 说， 他 们 只 是 一 些 可 怜 又 可 恨 的 小 老 百 姓， 不 过， 和 所 有 贵 族 们 圈 养 的 哈 巴 狗 一 样， 他 们 的 耳 朵 随 时 都 在 留 意 着 贵 族 们 嘴 里 的 每 一 句 话， 每 一 个 单 词。 如 果 你 能 给 我 几 天 时 间 来 拜 访 他 们， 也 许 我 能 获 得 一 些 关 于 {s18}的 重 要 情 报。 
-str_npc8_intel_mission|如 果 你 对 发 生 在 {s18}的 事 情 感 兴 趣， 我 曾 经 的 一 位 战 友 退 休 后 在 {s17}附 近 经 营 着 一 座 农 场。 他 和 许 多 其 他 的 老 战 士 都 保 持 着 联 系。 我 可 以 去 走 一 趟， 然 后 回 来 告 诉 你 我 发 现 了 什 么。 
-str_npc9_intel_mission|{先 生/尊 敬 的 女 士}—— 距 离 上 一 次 我 去 {s17}找 乐 子 已 经 过 了 很 长 一 段 时 间 了。 在 哪 里， 像 我 这 样 的 名 门 子 弟 常 常 参 与 那 些 富 有 和 慷 慨 的 大 领 主 们 举 办 的 宴 会。 如 果 你 同 意 的 话， 我 很 乐 意 去 那 里 打 探 消 息， 我 有 信 心 从 他 们 的 交 谈 中 获 得 一 些 {s18}的 大 贵 族 们 关 心 在 意 的 话 题。 
-str_npc10_intel_mission|队 长—— 我 想 我 的 一 些 驻 扎 在 {s17}的 老 伙 计 们 会 很 高 兴 看 到 我 去 拜 访 他 们。 他 们 都 是 些 好 小 伙 子， 绝 不 会 背 叛 他 们 的 城 镇， 不 过 和 我 一 样， 他 们 对 那 些 贵 族 也 没 有 什 么 特 别 的 感 情， 这 么 一 来， 我 很 有 可 能 从 他 们 嘴 里 旁 敲 侧 击 出 一 些 关 乎 政 治 和 军 事 的 流 言。 那 些 贵 族 们 常 常 会 因 为 一 些 小 事 而 争 执 不 休， 但 是 那 些 小 伙 子 们 常 常 会 看 出 他 们 间 真 正 的 争 执 和 分 歧 所 在。 
-str_npc11_intel_mission|{老 兄/小 姑 娘}—— 我 想 我 已 经 很 久 没 有 去 拜 访 我 在 {s17}的 亲 戚 了。 他 们 过 去 对 我 很 好， 在 我 贫 穷 的 时 候 帮 助 我 摆 脱 困 境， 所 以 我 觉 得 我 应 该 和 他 们 分 享 一 些 我 新 发 现 的 财 路。 我 还 已 经 从 帕 拉 汶 谷 物 商 人 那 里 进 行 了 足 够 多 次 的 批 发 以 让 他 们 信 任 我。 我 估 计 他 们 会 被 说 服 爆 料 一 些 关 于 发 生 在 {s18}事 件 的 珍 闻， 如 果 你 对 那 些 感 兴 趣 的 话。 
-str_npc12_intel_mission|如 果 你 同 意 的 话， 我 可 以 去 拜 访 一 位 现 在 受 雇 于 {s17}领 主 的 同 窗。 我 曾 对 他 抱 有 很 大 的 期 待， 可 是 最 近 我 听 说 他 热 衷 于 用 甜 瓜 来 治 疗 中 风， 理 由 是 它 冰 冷 的 汁 水 有 助 于 对 易 怒 的 治 疗。 就 医 学 上 来 说， 这 是 一 种 可 笑 且 牵 强 的 理 由， 所 以 我 应 该 去 和 他 好 好 谈 谈 并 矫 正 他 的 错 误。 当 然， 我 还 可 以 向 他 咨 询 一 些 {s18}最 新 的 形 势， 我 想 你 会 对 此 感 兴 趣 的。 
-str_npc13_intel_mission|噢！ 勇 敢 的 大 人！ 在 你 的 允 许 下， 我 认 为 我 或 许 可 以 去 拜 访 一 下 位 于 {s17}的 溪 谷。 我 得 承 认， 我 的 确 是 想 去 看 看 一 位 与 我 交 好 的 美 丽 的 牧 羊 女 现 在 过 得 怎 样。 在 我 去 探 望 她 的 路 上， 我 可 以 尝 试 在 城 堡 中 稍 作 停 留， 而 且 我 有 信 心 靠 我 的 能 力 进 入 领 主 的 大 厅， 这 样 一 来， 我 将 能 给 你 提 供 一 些 来 自 {s18}的 最 新 消 息。 
-str_npc14_intel_mission|队 长…… 你 或 许 已 经 知 道， 我 希 望 去 训 练 {s17}的 驻 军。 他 们 中 的 一 员 在 最 近 和 我 有 过 接 触， 提 议 如 果 我 愿 意 去 他 们 那 里 走 一 趟， 他 们 很 乐 意 提 供 一 些 关 于 {s18}的 情 报。 如 果 你 允 许 的 话， 我 很 乐 意 这 么 做。 虽 说 背 叛 者 是 应 该 被 唾 弃 的， 但 是 只 要 有 效， 我 不 介 意 披 上 背 叛 者 的 伪 装。 
-str_npc15_intel_mission|队 长。 你 也 许 知 道， 我 有 段 时 间 打 算 去 {s17}， 并 且 学 习 石 工—— 古 卡 拉 迪 亚 风 格 的 最 杰 出 典 范 之 一。 如 果 成 行， 我 的 一 名 同 事 现 在 正 在 那 里 忙 着 做 幕 墙 的 修 补 工 作。 而 很 正 值 地， 我 想 他 对 于 职 业 责 任 的 操 守 会 阻 止 他 透 露 给 我 任 何 防 御 上 的 弱 点， 我 猜 想 他 将 不 反 对 贡 献 他 对 于 {s18}总 体 情 况 的 看 法， 如 果 那 让 你 感 兴 趣 的 话。 
-str_npc16_intel_mission|唉， 队 长！ 我 想 去 拜 访 一 下 我 在 {s17}的 老 姑 妈。 就 让 我 们 说 那 里 的 领 主 和 女 士 委 托 我 执 行 一 项 使 命， 而 对 于 报 酬 有 些 拖 沓。 然 而， 某 样 小 姐 拥 有 的 耀 眼 的 小 玩 意 儿 用 来 付 账 是 再 好 不 过 了。 我 知 道 没 必 要 麻 烦 他 们 知 道 我 的 拜 访， 但 是 我 可 以 和 我 的 老 朋 友， 一 个 城 堡 看 守 聊 聊 天， 他 会 让 我 进 去， 聊 聊 关 于 {s18}的 动 静。 
+str_npc1_intel_mission|I think that if you want me to take a look around {s17} I could combine it with a trip to visit some of my old Order freinds. Both things would have to be done quietly reputations need to be maintained for my old order freinds, and I am sure I would not be welcomed with open arms. Still will be nice to visit the old town of {s17} again.
+str_npc2_intel_mission|Ligeikis the Balt - intel mission
+str_npc3_intel_mission|If you like, {playername}, I can take a few days to visit my mother's sister's people. They work in a caravanserie in {s17}, and hear the news from all across the {s18}. They may have some gossip about the feuds and rivaries of the great lords, if that is of interest to you
+str_npc4_intel_mission|Hmmmm well Jarl if you want me to take a look around the {s17}, I think I could manage it if you would give me a few weeks.  Infact it would be rather nice to catch up on the local gossip and find out what I've been missing while I was away.
+str_npc5_intel_mission|Bolko the Pole - intel mission
+str_npc6_intel_mission|Indeed {Sir/My lady} I could indeed visit {s17} again to enhance our knowledge of the area.  Could visit a few of my fathers old building comrades and find out whos been strengthing defenses and what not in the local area.  Will let us find the soft underbelly of the enemy {Sir/My lady}.
+str_npc7_intel_mission|Istvan the Hungarian - intel mission
+str_npc8_intel_mission|Yuriy of Novgorod - intel mission
+str_npc9_intel_mission|{Sir/My lady}, if you're interested in events in {s18}, I can still make contact with my old trading partners in {s17}. They're usually well-informed about political events.
+str_npc10_intel_mission|Jean the Frenchman - intel mission
+str_npc11_intel_mission|Jon the Norwegian - intel mission
+str_npc12_intel_mission|Uilleam the Scot - intel mission
+str_npc13_intel_mission|Aedh the Irishman - intel mission
+str_npc14_intel_mission|Karl the Swede - intel mission
+str_npc15_intel_mission|Ivan of Galicia - intel mission
+str_npc16_intel_mission|If you wish, Captain, I would not mind taking the time to pay a visit to a pupil of mine, now employed by the lord of {s17}. I had great hopes for him, but I have heard that he has lately endorsed the use of muskmelon for the treatment of palsy, on the grounds that its cold essence offsets an abundance of yellow bile. This is a travesty of medicine, and I must journey there swiftly to correct him. While I am there, if you wish, I could question him on the latest trends within the {s17}, a matter which may interest you.
 str_npc17_intel_mission|Jaume of Aragon - intel mission{***}
 str_npc18_intel_mission|Fernando the Castillan - intel mission{***}
 str_npc20_intel_mission|Isma'il the Andalusian - intel mission{***}
@@ -1423,22 +1423,22 @@ str_npc28_intel_mission|Gamal the Arab - intel mission{***}
 str_npc29_intel_mission|Dragoslav the Serbian - intel mission{***}
 str_npc30_intel_mission|Kyril the Bulgarian - intel mission{***}
 str_npc31_intel_mission|Ali the Berber - intel mission{***}
-str_npc1_fief_acceptance|老 大， 你 决 定 把 {s17}分 封 给 我 吗？ 我 想 说， 长 久 以 来， 这 是 别 人 为 我 做 过 的 最 仁 慈 的 事 情 了。 嘿， 我 会 尽 力 而 为 的—— 你 可 以 信 赖 我。 不 过 不 得 不 说—— 我 还 真 不 知 道， 在 得 知 老 波 尔 查 加 入 了 这 个 受 人 尊 重 的 行 列 之 后， 其 他 领 主 会 作 何 反 应。 
-str_npc2_fief_acceptance|把 {s17}作 为 我 的 封 地？ 好 吧， 我 一 直 想 做 的 是 买 卖 货 物， 而 不 是 管 理 其 他 事 情。 不 过 既 然 你 跟 我 提 起 这 个 事 情， 我 敢 说， 我 多 多 少 少 可 以 把 这 儿 变 成 一 个 税 收 的 来 源。 我 感 谢 你， {我 的 大 人/尊 敬 的 女 士}—— 这 的 确 是 你 对 我 做 的 一 件 大 好 事。 
-str_npc3_fief_acceptance|{陛 下/尊 敬 的 女 士}， 你 给 了 我 {s17}， 这 真 是 太 慷 慨 了。 我 很 高 兴 能 收 下 它 们， 以 后 我 会 全 心 全 意 的 努 力 提 升 此 地 居 民 的 生 活 品 质。 
-str_npc4_fief_acceptance|你 能 把 {s17}分 封 给 我， 实 在 是 太 好 了—— 而 且 是 最 恰 当 的。 能 拥 有 罗 尓 夫 男 爵 这 样 的 封 臣， 的 确 是 件 光 荣 的 事 情。 
-str_npc5_fief_acceptance|阁 下—— 非 常 高 兴 我 能 拥 有 {s17}。 我 会 向 着 崇 山 峻 岭， 向 着 所 有 的 亲 族 宣 告： 加 入 你 的 军 队， 在 我 的 手 下 服 役， 光 荣 地 赢 取 富 贵—— 他 们 将 会 群 聚 而 来 为 你 战 斗！ 
-str_npc6_fief_acceptance|{先 生/夫 人}—— 当 我 刚 开 始 学 习 管 理 自 己 的 时 候， 你 就 发 现 了 我 有 管 理 人 民 的 才 能， 这 太 让 我 意 外 了。 不 过， 如 果 你 当 真 希 望 如 此， 我 将 以 你 的 名 义， 无 比 荣 幸 地 治 理 {s17}， 为 保 护 生 活 在 这 里 的 人 们 奉 献 一 生。 
-str_npc7_fief_acceptance|是， 我 将 占 有 {s17}—— 还 会 让 它 的 名 声 令 横 行 在 卡 拉 迪 亚 的 贼 党 匪 帮 从 心 底 里 感 到 害 怕。 谢 谢 你， {陛 下/夫 人}， 给 了 我 这 个 机 会。 
-str_npc8_fief_acceptance|你 让 我 做 领 主？ 好 吧， 我 想 我 可 以 把 要 回 遗 产 的 事 情 推 迟 一 阵 子， 再 把 我 的 大 殿 修 在 {s17}。 也 许 某 一 天， 我 会 漂 洋 过 海， 去 取 回 属 于 我 的 东 西， 不 过 在 那 之 前， 我 将 非 常 乐 意 地 带 领 一 帮 久 经 沙 场 的 诺 德 人， 在 你 的 旗 帜 下 战 斗。 
-str_npc9_fief_acceptance|{陛 下/尊 敬 的 女 士}， 我 生 而 受 到 不 公， 而 今 你 慷 慨 赐 予， 是 我 命 中 伯 乐。 能 为 你 效 劳， 为 你 奋 战， 为 你 守 住 这 片 领 地 将 是 我 最 大 的 荣 耀。 
-str_npc10_fief_acceptance|你 让 我 做 领 主？ 我 不 会 谢 你—— 除 非 你 能 称 呼 我 为“ 护 民 官”——“ 护 民 官” 是 古 时 候 人 民 的 公 仆—— 然 后 我 才 愿 意 帮 你 管 理 {s17}。 我 会 把 食 物 用 来 救 济 饥 民， {兄 弟/姐 妹}， 我 还 会 训 练 一 支 罗 多 克 步 兵 队 来 为 你 作 战。 但 我 不 保 证 那 些 名 门 贵 族 会 觉 得 跟 我 平 起 平 坐 是 件 舒 服 的 事。 
-str_npc11_fief_acceptance|啊！ 你 给 了 老 凯 特 琳 一 个 贵 族 头 衔 ? 呃， 我 曾 经 疯 疯 癫 癫 让 你 失 望， 难 道 现 在 我 不 是 了 ? 天 呐， 人 生 是 多 么 地 曲 里 拐 弯 啊…… 谁 能 想 到 我 这 一 把 老 骨 头 竟 然 也 能 忝 居 卡 拉 迪 亚 诸 国 的 贵 族 之 列。 
-str_npc12_fief_acceptance|好 吧，{陛 下/尊 敬 的 女 士}， 但 我 必 须 让 你 明 白， 我 不 觉 得 分 封 土 地 是 什 么 好 事。 农 民 和 地 主 应 该 在 君 主 的 看 顾 下 各 自 相 安 无 事。 这 就 是 为 什 么， 现 在 卡 拉 迪 亚 的 社 会 秩 序 会 在 无 数 的 流 血 中 颠 倒 紊 乱 了。 把 这 片 土 地 交 给 我 吧， 我 将 为 它 预 备 下 一 个 更 光 明 的 未 来—— 就 算 它 不 会 降 临 在 这 一 代 人 身 上， 也 一 定 会 在 下 一 代 人 身 上 实 现。 
-str_npc13_fief_acceptance|你 是 如 此 的 慷 慨 善 良，{陛 下/尊 敬 的 女 士}。 请 准 许 我 对 你 在 选 择 我 这 件 事 情 上 所 表 现 出 来 的 智 慧 致 以 最 高 的 敬 意。 真 的， 你 的 洞 察 力 已 经 超 过 了 那 位 能 够 从 一 根 头 发 看 出 一 个 人 性 格 的 莱 敏 鲁 国 王。 你 的 判 断 力 已 经 超 越 了 那 个 连 精 灵 都 请 他 裁 决 纠 纷 的 阿 克 姆 巴 大 帝。 无 论 如 何， 我 接 受 了。 
-str_npc14_fief_acceptance|队 长， 你 给 了 我 莫 大 的 荣 耀。 在 格 罗 尼 亚， 像 我 这 样 在 家 族 中 最 小 的 儿 子， 很 少 有 机 会 能 拥 有 自 己 的 领 地。 但 在 这 里， 卡 拉 迪 亚， 一 个 人 仍 然 有 机 会， 用 剑 来 争 取 那 些 曾 被 出 身 所 否 定 的 东 西！ 我 将 作 为 你 的 封 臣， 统 治 {s17}， 并 训 练 一 支 军 队， 为 我 们 共 同 的 荣 誉 而 战。 
-str_npc15_fief_acceptance|好 的，{先 生/尊 敬 的 女 士}， 这 是 一 个 仁 慈 的 举 动， 而 且 让 你 看 上 去 像 是 个 可 以 将 这 片 悲 凉 的 大 陆 从 现 在 那 帮 不 称 职 的 王 侯 手 里 解 救 出 来 的 君 主。 我 怀 疑 这 里 的 许 多 贵 族 领 主 都 认 为 像 我 这 样 的 一 介 平 民 不 适 合 拥 有 一 块 封 地。 很 好， 当 他 们 见 识 到 我 的 所 作 所 为， 还 有 我 所 能 带 来 的 财 富， 他 们 会 改 变 态 度 的！ 
-str_npc16_fief_acceptance|噢， 你 实 在 是 太 慷 慨 了，{陛 下/尊 敬 的 女 士}。 我 无 数 次 出 入 那 些 厅 堂 庄 园—— 虽 然 我 得 说 并 非 每 次 都 是 获 准 入 你 的—— 但 我 从 来 没 想 过 自 己 可 以 拥 有 一 处 那 样 的 地 方。 让 我 想 想…… 等 收 齐 了 第 一 年 的 租 子， 我 该 给 自 己 买 个 什 么 样 的 小 玩 意 戴 戴 ? 
+str_npc1_fief_acceptance|Certainly, if you grant me a fief I turn it into a paradise for the working man, merchant and even the spoiled Nobility. All will be treated equally as long as they respect each other as God would want them to. Otherwise his wrath shall rain down on them, adminstered by my fist...
+str_npc2_fief_acceptance|Ligeikis the Balt - fief acceptance
+str_npc3_fief_acceptance|I would be most pleased to hold {s17}. I will send word to the hills, to my kinsmen, and let them know that there is honorable gold to be earned serving under me in your armies -- and they will come flocking to fight for you!
+str_npc4_fief_acceptance|Jakob the Dane - fief acceptance
+str_npc5_fief_acceptance|Bolko the Pole - fief acceptance
+str_npc6_fief_acceptance|Johann Lord of a fief?  It does have rather a nice ring to it,  although I am not entirely sure how it should be done.  No doubt there will be people to advise me, and doubtless cheat me, but as you have seen I learn fast {Sir/My lady}.  Then they will get there commupence and you will get a well managed fief.
+str_npc7_fief_acceptance|Istvan the Hungarian - fief acceptance
+str_npc8_fief_acceptance|Yuriy of Novgorod - fief acceptance
+str_npc9_fief_acceptance|{s17} as a fief? Well, I've always thought in terms of soldiering, not in terms of governing anything. But now that you mention it, I bet I could rule with balance and justice. I thank you, {my Lord/my lady} -- this is a very kind turn that you have done me.
+str_npc10_fief_acceptance|Jean the Frenchman - fief acceptance
+str_npc11_fief_acceptance|Jon the Norwegian - fief acceptance
+str_npc12_fief_acceptance|Uilleam the Scot - fief acceptance
+str_npc13_fief_acceptance|Aedh the Irishman - fief acceptance
+str_npc14_fief_acceptance|Karl the Swede - fief acceptance
+str_npc15_fief_acceptance|Ivan of Galicia - fief acceptance
+str_npc16_fief_acceptance|Well, {sire/my lady}, I'd have you know that don't believe in the holding of land in fief to the king. Farmers and landholders should govern their own affairs, under the distant watch of the sovereign. That being said, we has seen far too much bloodshed for us to turn the social order on its head right now. Give me that land, and I'll endeavor to prepare it for a brighter future -- if not in this generation, than perhaps in the next.
 str_npc17_fief_acceptance|Jaume of Aragon - fief acceptance{***}
 str_npc18_fief_acceptance|Fernando the Castillan - fief acceptance{***}
 str_npc20_fief_acceptance|Isma'il the Andalusian - fief acceptance{***}
@@ -1452,22 +1452,21 @@ str_npc28_fief_acceptance|Gamal the Arab - fief acceptance{***}
 str_npc29_fief_acceptance|Dragoslav the Serbian - fief acceptance{***}
 str_npc30_fief_acceptance|Kyril the Bulgarian - fief acceptance{***}
 str_npc31_fief_acceptance|Ali the Berber - fief acceptance{***}
-str_npc1_woman_to_woman|Ulrich of the Teutonic Order - woman to woman{***}
-str_npc2_woman_to_woman|Ligeikis the Balt - woman to woman{***}
-str_npc3_woman_to_woman|尊 敬 的 女 士， 如 果 你 不 介 意 的 话—— 我 认 为 你 现 在 已 经 证 明 了 你 是 这 个 国 度 最 伟 大 的 战 士。 但 很 奇 怪， 还 没 有 国 王 打 算 赐 给 你 一 片 封 地。 也 许 因 为 你 是 个 女 子。 没 关 系—— 我 坚 信 你 必 将 成 为 这 个 国 度 的 伟 大 领 主 之 一， 即 使 你 必 须 付 出 双 倍 的 时 间 和 努 力 才 能 获 得 你 应 有 的 东 西！ 
-str_npc4_woman_to_woman|Jakob the Dane - woman to woman{***}
-str_npc5_woman_to_woman|Bolko the Pole - woman to woman{***}
-str_npc6_woman_to_woman|Johann of the HRE - woman to woman{***}
-str_npc7_woman_to_woman|长 官。 如 果 你 不 介 意 的 话， 你 已 经 和 卡 拉 迪 亚 的 那 些 人 渣 们 奋 战 了 很 久 了， 你 的 胜 利， 让 这 片 土 地 更 加 美 好。 你 完 全 应 该 有 一 块 属 于 自 己 的 封 地—— 而 我 很 怀 疑 如 果 你 不 是 一 个 女 子， 早 就 有 国 王 将 领 地 封 赐 给 你 了。 那 就 是 这 片 悲 凉 土 地 上 男 人 们 的 处 事 之 道： 他 们 让 我 们 站 在 战 列 的 最 前 方 抵 挡 敌 人 的 攻 击， 但 到 分 配 战 利 品 的 时 候， 他 们 又 希 望 我 们 转 过 头 去 不 要 看。 
-str_npc8_woman_to_woman|不 好 意 思，{playername}。 我 想 向 你 表 达 我 的 祝 贺—— 看 上 去 你 正 在 让 自 己 变 成 一 个 令 人 畏 惧 的 战 士。 如 果 你 是 个 男 人， 我 怀 疑 这 片 大 陆 上 的 大 小 诸 王 都 会 想 方 设 法 的 请 你 去 做 他 们 的 封 臣。 唉， 在 这 个 世 界 上， 像 我 们 这 样 的 女 人 总 是 要 付 出 双 倍 的 努 力 才 能 获 得 只 有 我 们 才 应 有 的 东 西。 
-str_npc9_woman_to_woman|Simon Brewer the Englishman - woman to woman{***}
-str_npc10_woman_to_woman|Jean the Frenchman - woman to woman{***}
-str_npc11_woman_to_woman|是， 小 姑 娘， 我 时 常 会 去 想 到—— 你 已 经 扬 名 在 外 了， 不 是 吗？ 在 这 片 大 陆 四 处 征 战。 啊， 我 怀 疑 如 果 你 身 为 男 人， 某 个 国 王 会 立 刻 给 你 封 地。 好 吧， 你 可 以 继 续 得 到 你 所 应 得 的—— 只 是 还 需 要 再 证 明 一 点 自 己 的 能 力。 
-str_npc12_woman_to_woman|Uilleam the Scot - woman to woman{***}
-str_npc13_woman_to_woman|Aedh the Irishman - woman to woman{***}
-str_npc14_woman_to_woman|Karl the Swede - woman to woman{***}
-str_npc15_woman_to_woman|Ivan of Galicia - woman to woman{***}
-str_npc16_woman_to_woman|唉， 队 长—— 如 果 你 不 介 意 我 说， 你 最 近 名 声 大 起 啊。 我 怀 疑 如 果 你 身 为 男 人， 某 个 国 王 会 立 刻 给 你 封 地。 但 是 我 们 女 人 就 不 指 望 这 样 的 事 情 了。 男 人 们 会 找 任 何 理 由 来 不 给 我 们 的 辛 苦 以 回 报， 所 以 如 果 我 们 喜 欢 某 处 的 一 点 土 地， 也 许 我 们 应 该 过 去 夺 取 它。 无 论 如 何， 这 就 是 我 对 这 个 世 界 的 看 法。 
+str_npc1_woman_to_woman|Ulrich of the Teutonic Order - woman to woman
+str_npc2_woman_to_woman|Ligeikis the Balt - woman to woman
+str_npc3_woman_to_woman|Kadan the Mongol - woman to woman
+str_npc4_woman_to_woman|Jakob the Dane - woman to woman
+str_npc5_woman_to_woman|Bolko the Pole - woman to woman
+str_npc6_woman_to_woman|Johann of the HRE - woman to woman
+str_npc7_woman_to_woman|Istvan the Hungarian - woman to woman
+str_npc8_woman_to_woman|Yuriy of Novgorod - woman to woman
+str_npc9_woman_to_woman|Simon Brewer the Englishman - woman to woman
+str_npc10_woman_to_woman|Jean the Frenchman - woman to woman
+str_npc11_woman_to_woman|Jon the Norwegian - woman to woman
+str_npc12_woman_to_woman|Uilleam the Scot - woman to woman
+str_npc13_woman_to_woman|Aedh the Irishman - woman to woman
+str_npc14_woman_to_woman|Karl the Swede - woman to woman
+str_npc15_woman_to_woman|Ivan of Galicia - woman to woman
 str_npc17_woman_to_woman|Jaume of Aragon - woman to woman{***}
 str_npc18_woman_to_woman|Fernando the Castillan - woman to woman{***}
 str_npc20_woman_to_woman|Isma'il the Andalusian - woman to woman{***}
@@ -1480,23 +1479,22 @@ str_npc27_woman_to_woman|Taraqai of the Il-khanate - woman to woman{***}
 str_npc28_woman_to_woman|Gamal the Arab - woman to woman{***}
 str_npc29_woman_to_woman|Dragoslav the Serbian - woman to woman{***}
 str_npc30_woman_to_woman|Kyril the Bulgarian - woman to woman{***}
-str_npc31_woman_to_woman|Ali the Berber - woman to woman{***}
-str_npc1_turn_against|我 很 遗 憾 我 们 要 以 这 种 方 式 见 面， 老 大。 擢 拔 之 恩， 我 其 实 未 敢 稍 忘。 而 你 一 定 认 为 我 是 个 忘 恩 负 义 之 辈。 然 而， 人 各 有 命—— 难 道 不 是 如 此 吗 ? 
-str_npc2_turn_against|这 是 个 悲 伤 的 日 子。 我 从 未 想 过 自 己 会 和 老 长 官 沙 场 重 逢。 即 使 最 后 我 获 得 了 胜 利， 那 也 不 会 带 来 任 何 喜 悦。 
-str_npc3_turn_against|噢 {playername}—— 这 是 我 们 人 生 中 一 个 多 么 悲 剧 性 的 转 折！ 我 只 期 盼 这 今 日 让 我 们 为 敌 的 战 争 洪 流， 他 日 能 让 我 们 重 拾 友 情。 
-str_npc4_turn_against|{playername} 阁 下！ 我 拿 了 你 的 盐， 并 且 获 得 了 回 报！ 无 论 如 何， 我 还 是 要 提 醒 你 一 项 古 老 的 事 实—— 尽 管 库 吉 特 人 也 许 是 热 情 的 追 随 者， 忠 诚 的 朋 友， 却 永 远 不 会 成 为 你 的 奴 隶…… 总 之， 我 今 天 是 举 剑 而 来 和 你 为 敌 的。 但 是 我 希 望 有 一 天 我 们 能 相 互 举 杯， 重 新 成 为 朋 友。 
-str_npc5_turn_against|Bolko the Pole - turn against{***}
-str_npc6_turn_against|再 没 有 什 么 能 比 和 你 如 此 重 逢 更 让 我 悲 痛 的 了，{playername}。 我 不 会 把 这 种 场 面 放 在 心 上。 我 只 希 望 有 一 天 我 们 能 重 归 于 好。 
-str_npc7_turn_against|好 吧， 队 长。 是 你 让 我 成 为 了 一 个 了 不 起 的 女 性， 我 对 此 一 直 心 存 感 激。 然 而， 我 并 不 是 属 于 你 的， 现 在 大 势 所 迫， 我 们 不 得 不 战， 但 与 你 沙 场 争 锋， 我 并 无 丝 毫 愧 疚。 我 依 然 期 盼 某 天， 当 时 势 不 同 的 时 候， 我 们 可 以 像 朋 友 那 样 再 会。 
-str_npc8_turn_against|现 在 我 们 以 敌 人 的 身 份 再 会 了， 而 且 可 能 只 有 越 过 彼 此 的 盾 牌 才 会 打 个 照 面。 这 真 是 悲 惨 的 一 天。 有 时 候， 我 们 命 运 的 编 织 者 真 是 富 有 黑 色 幽 默 感。 
-str_npc9_turn_against|我 们 虽 然 反 目 成 仇， 但 时 势 所 迫， 非 我 之 过。 我 希 望 你 明 白 我 的 良 心 是 清 白 的， 虽 然 我 你 心 无 比 沉 重。 
-str_npc10_turn_against|好 吧， 看 上 去 命 运 的 浪 潮 让 我 不 得 不 和 自 己 的 老 长 官 为 敌。 也 许 在 你 成 为 我 君 主 的 那 一 刻 起， 事 情 就 已 经 走 上 了 错 误 的 道 路—— 我 想 大 概 我 从 来 就 不 适 合 臣 服 于 人。 不 管 怎 样， 我 们 已 经 走 到 这 一 步 了。 也 许， 等 到 世 事 变 幻， 再 没 有 什 么 主 人 和 仆 从， 领 主 和 封 臣 的 时 候， 我 们 可 以 像 朋 友 那 样 再 会。 
-str_npc11_turn_against|天 呐，{老 弟/小 姑 娘}。 看 来 现 在 我 们 是 敌 人 了。 我 是 不 是 说 过 人 生 是 多 么 地 曲 里 拐 弯 啊 ? 命 运 有 时 候 有 种 残 忍 的 幽 默 感—— 我 就 说 这 么 多 了。 
-str_npc12_turn_against|那 么， 看 来 我 们 不 得 不 战 了。 我 必 须 让 你 知 道，{先 生/尊 敬 的 女 士}， 我 并 没 有 背 叛 你。 我 不 曾 为 你 效 劳， 只 是 为 那 些 我 以 为 你 所 抱 持 的 信 念 效 劳。 当 你 不 再 保 持 它 们 的 时 候， 我 必 须 尽 我 所 能 的 来 阻 挠 你。 但 我 对 你 并 无 敌 意， 希 望 有 朝 一 日， 我 们 能 像 朋 友 那 样 重 逢。 
-str_npc13_turn_against|以 敌 人 的 身 份 与 你 相 遇 是 多 么 让 人 难 过 的 事 情， 队 长—— 但 另 一 方 面， 能 够 在 战 场 上 与 你 这 样 伟 大 的 战 士 交 手， 实 在 是 难 得 的 荣 耀。 实 话 实 说， 我 们 今 天 的 大 战 将 会 让 全 卡 拉 迪 亚 的 吟 游 诗 人 在 接 下 来 的 几 个 月 里 吃 喝 不 愁， 你 认 为 呢 ? 
-str_npc14_turn_against|好 吧，{playername}。 我 们 以 敌 人 的 身 份 相 会 了。 我 承 认 我 的 你 心 现 在 五 味 杂 陈。 与 你 为 敌 让 我 十 分 难 过， 但 如 果 我 能 够 战 胜 你， 我 就 是 打 败 了 全 卡 拉 迪 亚 最 了 不 起 的 敌 人， 而 且 我 将 会 发 现 自 己 对 战 争 艺 术 的 驾 驭 已 经 炉 火 纯 青！ 
-str_npc15_turn_against|啊…… 我 从 未 期 望 过 这 一 天 的 来 临。 只 是 在 我 看 来， 如 果 你 能 一 直 信 任 我 的 话， 事 情 是 不 会 走 到 这 一 步 的。 但 毫 无 疑 问， 你 并 不 这 样 看。 
-str_npc16_turn_against|你 好， 队 长！ 那 么， 我 想 我 们 现 在 是 敌 人 了！ 一 个 小 小 的 警 告， 如 果 我 们 最 后 还 是 要 打 的 话—— 当 我 处 于 战 斗 的 狂 怒 之 中 时， 我 没 办 法 完 全 管 住 自 己。 只 要 记 住 不 管 我 干 了 什 么， 都 不 是 我 个 人 愿 意 的。 也 许 如 果 我 们 都 能 从 这 里 离 开 的 话， 我 们 还 能 做 回 朋 友？ 
+str_npc1_turn_against|A cruel twist of fates have brought us here today. Perhaps if you had not turned your back upon me, we would not be facing off today across this open field. I am sorry to see that this day has come to pass.
+str_npc2_turn_against|Ligeikis the Balt - turn against
+str_npc3_turn_against|Oh {playername} -- what a tragic turn our lives have taken! I can only hope that the tides of war that have made us enemies, will one day allow us to be friends.
+str_npc4_turn_against|Aye, well.... I'm not sure what to say. If we must fight, let's get it over with.
+str_npc5_turn_against|Bolko the Pole - turn against
+str_npc6_turn_against|You would not let me build my world against yours claiming you needed space....I hope you will not mind if my army intrudes into your space today.
+str_npc7_turn_against|Istvan the Hungarian - turn against
+str_npc8_turn_against|Yuriy of Novgorod - turn against
+str_npc9_turn_against|今 天 真 是 糟 透 了！ 我 从 没 想 到 会 在 战 场 上 遇 到 以 前 的 长 官， 即 使 我 胜 利 了， 也 感 觉 不 到 喜 悦。 
+str_npc10_turn_against|Jean the Frenchman - turn against
+str_npc11_turn_against|Jon the Norwegian - turn against
+str_npc12_turn_against|Uilleam the Scot - turn against
+str_npc13_turn_against|Aedh the Irishman - turn against
+str_npc14_turn_against|Karl the Swede - turn against
+str_npc15_turn_against|Ivan of Galicia - turn against
+str_npc16_turn_against|So, it seems we must fight. I would have you know, {sir/my lady}, that I have not betrayed you. I had never served you as a man, but served the principles which I believed you upheld. As you no longer uphold them, I must do my best to thwart you. But I bear you no ill will, and I hope that we can meet again some day as friends.
 str_npc17_turn_against|Jaume of Aragon - turn against{***}
 str_npc18_turn_against|Fernando the Castillan - turn against{***}
 str_npc20_turn_against|Isma'il the Andalusian - turn against{***}
@@ -1526,7 +1524,7 @@ str_comment_intro_noble_pitiless|我 看 你 带 着 面 贵 族 的 旗 子， 
 str_comment_intro_noble_cunning|我 看 你 带 着 面 贵 族 的 旗 子， 不 过 我 不 认 得 这 个 徽 标。 可 能 有 一 天 你 这 个 {伙 计/姑 娘} 会 证 明 自 己 是 一 个 伟 大 的 战 士， 交 上 这 样 的 朋 友 总 是 很 划 算 的。 
 str_comment_intro_noble_sadistic|我 看 你 带 着 面 贵 族 的 旗 子， 不 过 我 不 认 得 这 个 徽 标。 或 者 你 是 那 个 该 死 的 浑 身 浮 肿 的 偷 牛 贼 的 {儿 子/女 儿}？ 或 者 是 你 偷 了 它 们？ 
 str_comment_intro_noble_goodnatured|我 看 你 带 着 面 贵 族 的 旗 子， 不 过 我 不 认 得 这 个 徽 标。 原 谅 我 的 无 知， {先 生/尊 敬 的 女 士}。 很 高 兴 认 识 你。 
-str_comment_intro_noble_upstanding|我 看 你 带 着 面 贵 族 的 旗 子， 不 过 我 不 认 得 这 个 徽 标。 毫 无 疑 问 你 是 来 卡 拉 迪 亚 大 陆 寻 找 财 富 和 荣 誉。 真 是 这 样 的 话 我 只 请 求 你 对 那 些 战 争 中 无 辜 的 灵 魂 仁 慈 一 些 罢。 
+str_comment_intro_noble_upstanding|我 看 你 带 着 面 贵 族 的 旗 子， 不 过 我 不 认 得 这 个 徽 标。 毫 无 疑 问 你 是 来 欧 洲 大 陆 寻 找 财 富 和 荣 誉。 真 是 这 样 的 话 我 只 请 求 你 对 那 些 战 争 中 无 辜 的 灵 魂 仁 慈 一 些 罢。 
 str_comment_intro_common_liege|也 许 你 的 出 身 很 平 常。 但 你 该 知 道 我 总 在 寻 找 能 为 我 而 战 的 勇 士， 如 果 他 们 能 够 证 明 自 己 值 得 我 信 任 的 话。 
 str_comment_intro_common_martial|也 许 你 的 出 身 很 平 常。 但 是 如 果 你 足 够 勇 猛， 总 有 出 人 头 地 的 一 天 的。 
 str_comment_intro_common_badtempered|有 话 快 说， 我 可 不 想 浪 费 时 间 去 跟 一 名 雇 佣 军 士 兵 扯 淡。 
