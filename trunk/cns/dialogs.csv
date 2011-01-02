@@ -118,36 +118,36 @@ dlga_ramun_ask_about_capturing_7:ramun_pre_talk|谢 谢， 我 会 记 住 的�
 dlga_ramun_talk:ramun_leave|我 该 上 路 了。 
 dlga_ramun_leave:close_window|记 住， 把 俘 虏 都 带 到 我 这 里 来， 我 会 给 你 给 你 个 好 价 钱。 
 dlga_start:close_window.3|我 谦 卑 的 恳 请 大 人 你 能 把 手 放 在 我 看 得 到 的 位 置 上。 
-dlga_start:close_window.4|为 你 效 劳 是 我 的 荣 幸， {陛 下/尊 敬 的 女 士}
+dlga_start:close_window.4|对 不 起， 罗 马 教 廷 正 在 建 设 中， 请 稍 后 回 来 查 看。 {***}
 dlga_start:welsh_intro|你 想 要 干 什 么? 
 dlga_start:welsh_hostile|他 们 是 入 侵 者! 〇
-dlga_start:close_window.5|你 一 准 备 好 我 们 就 可 以 出 发 了。 
+dlga_start:close_window.5|入 侵 者， 去 死 吧！ 
 dlga_welsh_intro:close_window|我 是 {playername}。 我 请 求 离 开。
 dlga_welsh_intro:welsh_hostile|我 在 英 格 兰 国 王 的 庇 护 下 行 走， 你 居 然 敢 拦 下 我 们？ 
 dlga_welsh_hostile:close_window|我 们 不 会…… 进 攻！ 〇
 dlga_start:prussians_intro|你 想 要 干 什 么？ 
 dlga_start:prussians_hostile|你 以 为 你 可 以 从 我 身 边 逃 走 么？ 
-dlga_start:close_window.6|请 不 要 再 浪 费 我 的 时 间 了 {先 生/夫 人}。 也 许 我 们 会 在 旅 行 中 重 逢。 
+dlga_start:close_window.6|入 侵 者， 去 死 吧！ 
 dlga_prussians_intro:prussians_friendly_close|我 是 {playername}。 我 只 是 恰 好 经 过 这 里。 
 dlga_prussians_intro:prussians_hostile|你 的 所 做 所 为 已 令 神 所 厌 恶， 忏 悔 吧， 我 会 让 你 活 着 离 开。 
 dlga_prussians_hostile:close_window|这 里 是 我 们 的 领 土， 你 对 我 们 的 森 林 已 经 破 坏 的 太 长 了。 现 在 去 死 吧！ 
 dlga_prussians_friendly_close:close_window|愿 柏 库 那 斯 与 你 同 在， {playername}。 
 dlga_start:curonians_intro|你 想 要 干 什 么? 
 dlga_start:curonians_hostile|你 以 为 你 可 以 从 我 身 边 逃 走 么？ 
-dlga_start:close_window.7|很 好。 你 说 到 点 子 上 了。 我 无 话 可 说。 
+dlga_start:close_window.7|入 侵 者， 去 死 吧！ 
 dlga_curonians_intro:curonians_friendly_close|我 是 {playername}。 我 只 是 恰 好 经 过 这 里。 
 dlga_curonians_intro:curonians_hostile|你 的 所 做 所 为 已 令 神 所 厌 恶， 忏 悔 吧， 我 会 让 你 活 着 离 开。 
 dlga_curonians_hostile:close_window|这 里 是 我 们 的 领 土， 你 对 我 们 的 森 林 已 经 破 坏 的 太 长 了。 现 在 去 死 吧！ 
 dlga_curonians_friendly_close:close_window|愿 柏 库 那 斯 与 你 同 在， {playername}。 
 dlga_start:samogitians_intro|你 想 要 干 什 么? 
-dlga_start:close_window.8|好 吧， {先 生/尊 敬 的 女 士}！ 请 你 别 再 费 神 从 地 上 爬 起 来 了， 因 为 那 样 我 还 得 把 你 再 打 趴 下。 如 果 你 保 持 沉 默 我 就 当 你 道 过 歉 了。 祝 你 日 安。 
+dlga_start:close_window.8|入 侵 者， 去 死 吧！ 
 dlga_samogitians_intro:samogitians_friendly_close|我 是 {playername}。 我 只 是 恰 好 经 过 这 里。 
 dlga_samogitians_intro:samogitians_hostile|你 的 所 做 所 为 令 神 所 厌 恶， 我 会 让 你 活 着 离 开 并 忏 悔。 
 dlga_samogitians_hostile:close_window|这 里 是 我 们 的 领 土， 你 对 我 们 的 森 林 已 经 破 坏 的 太 长 了。 现 在 去 死 吧！ 
 dlga_samogitians_friendly_close:close_window|愿 柏 库 那 斯 与 你 同 在， {playername}。 
 dlga_start:yotvingians_intro|你 想 要 干 什 么? 
 dlga_start:yotvingians_hostile|你 以 为 你 可 以 从 我 身 边 逃 走 么？ 
-dlga_start:close_window.9|很 好。 你 说 到 点 子 上 了。 我 收 回 我 所 说 的。 希 望 你 能 满 意。 
+dlga_start:close_window.9|入 侵 者， 去 死 吧！ 
 dlga_yotvingians_intro:yotvingians_friendly_close|我 是 {playername}。 我 只 是 恰 好 经 过 这 里。 
 dlga_yotvingians_intro:yotvingians_hostile|你 的 所 做 所 为 已 令 神 所 厌 恶， 忏 悔 吧， 我 会 让 你 活 着 离 开。 
 dlga_yotvingians_hostile:close_window|这 里 是 我 们 的 领 土， 你 对 我 们 的 森 林 已 经 破 坏 的 太 长 了。 现 在 去 死 吧！ 
@@ -166,7 +166,7 @@ dlga_farmer_bandit_information:village_farmer_talk|{s15}
 dlga_village_farmer_talk:close_window|等 我 把 你 的 东 西 都 拿 走 了， 你 才 会 知 道 自 己 到 底 有 多 穷！ 
 dlga_village_farmer_talk:close_window.1|那 就 继 续 吧， 再 见。 
 dlga_start:minister_issues|我 愿 意 为 你 效 劳， {陛 下/尊 敬 的 女 士}。 
-dlga_start:close_window.10|哈 哈！ 我 们 现 在 也 不 是 很 勇 敢， 不 是 吗？ 以 后 别 再 来 烦 我 了。 
+dlga_start:close_window.10|为 你 效 劳 我 感 到 很 荣 幸， {陛 下/尊 敬 的 女 士}。 
 dlga_start:member_castellan_talk|怎 么 了， {playername}我 能 为 你 做 什 么 吗？ 
 dlga_member_castellan_pretalk:member_castellan_talk|还 有 什 么 事 吗？ 
 dlga_member_castellan_talk:member_review_castle_garrison|我 想 看 看 城 堡 的 驻 军。 
@@ -316,8 +316,8 @@ dlga_member_fief_grant_1:member_fief_grant_2|你 想 要 哪 块 封 地？
 dlga_member_fief_grant_2:member_fief_grant_3|{s11}
 dlga_member_fief_grant_2:do_member_trade|别 想 了， 我 没 有 封 地 可 以 给 你。 
 dlga_member_fief_grant_3:close_window|{s5}
-dlga_start:close_window.11|很 好， 你 赢 了， 让 所 有 今 天 出 席 的 人 见 证 了 你 将 我 打 败， 我 会 放 弃 我 对 {s10}的 追 求。 满 意 了 吧， 你 这 个 狠 心 的 杂 种？ 
-dlga_start:close_window.12|起 来。 让 今 天 所 有 在 场 的 人 证 明 我 打 败 了 你， 而 你 现 在 必 须 放 弃 对 {s10}的 求 爱。 我 将 允 许 你 最 后 再 见 她 一 次， 告 诉 她 你 们 永 不 再 见。 而 那 之 后， 如 果 你 依 然 试 图 去 见 她， 那 么 每 个 人 都 将 知 道 你 是 个 不 知 羞 耻 的 家 伙。 
+dlga_start:close_window.11|等 你 准 备 好 了， 我 们 就 出 发 吧。 
+dlga_start:close_window.12|不 要 再 浪 费 我 今 天 的 时 间 了， {先 生/女 士}， 或 许 我 们 在 以 后 的 旅 程 中 还 能 碰 上。 
 dlga_start:companion_recruit_intro_response|{s5}
 dlga_companion_recruit_intro_response:companion_recruit_backstory_a|{s6}
 dlga_companion_recruit_intro_response:close_window|{s7}
@@ -388,8 +388,8 @@ dlga_dplmc_recruiter_talk_4:dplmc_recruiter_talk|是 的， {reg65?女士:先生
 dlga_start:dplmc_messenger_talk|您 好， 对 不 起 我 现 在 没 时 间 跟 你 聊， 我 正 前 往 {s6}带 去 一 个 很 重 要 的 信 息。 
 dlga_dplmc_messenger_talk:dplmc_messenger_talk_farewell|好 的， 我 不 会 耽 误 你， 一 路 顺 风！ 
 dlga_dplmc_messenger_talk_farewell:close_window|谢 谢 你， 再 见！ 
-dlga_start:close_window.13|再 过 一 会 儿 我 们 就 要 结 婚 了， 多 美 好 啊…… 不 过 我 需 要 说 明， 在 剩 下 的 几 天 里， 我 们 不 方 便 在 一 起 说 太 多 的 话。 
-dlga_start:close_window.14|呃， {playername}， 也 许 你 不 熟 悉 我 们 的 婚 礼 习 俗， 我 想 得 有 人 告 诉 你…… 先 去 和 我 的 {s11}， {s4}谈 谈 吧。 
+dlga_start:close_window.13|停 止 前 进！ 我 军 遇 敌， 准 备 冲 锋！ 
+dlga_start:close_window.14|你 好， 朋 友。 
 dlga_start:patrol_talk|你 想 要 干 什 么? 
 dlga_patrol_talk:patrol_talk_ultimatum|向 我 投 降！ 
 dlga_patrol_talk_ultimatum:patrol_talk_ultimatum_2|我 们 正 在 奉 {s25}之 名 巡 逻 这 个 地 区。 你 是 想 自 找 麻 烦 吗？ 
@@ -860,9 +860,9 @@ dlga_lord_groom_vows:female_pc_marriage_vow|尊 敬 的 女 士， 有 此 盛 �
 dlga_female_pc_marriage_vow:lord_groom_wedding_complete|我 宣 誓， 从 此 你 就 是 我 的 丈 夫 了。 
 dlga_female_pc_marriage_vow:close_window|等 一 下， 我 需 要 再 考 虑 考 虑。 
 dlga_lord_groom_wedding_complete:close_window|我 们 现 在 是 夫 妻 了， 开 始 庆 祝 吧！ 
-dlga_start:close_window.15|很 好， 你 的 观 点 令 我 无 话 可 说。 
+dlga_start:close_window.15|很 好， 你 的 话 说 到 点 子 上 了， 我 无 话 可 说。 
 dlga_start:close_window.16|好 吧， {先 生/ 尊 敬 的 女 士}！ 请 你 别 再 费 神 从 地 上 爬 起 来 了， 因 为 那 样 我 还 得 把 你 再 打 趴 下。 如 果 你 保 持 沉 默 我 就 当 你 道 过 歉 了。 祝 你 日 安。 
-dlga_start:close_window.17|很 好，你 表 明 了 你 的 观 点，  我 收 回 我 所 说 的， 希 望 你 能 满 意。 
+dlga_start:close_window.17|很 好， 你 表 明 了 你 的 观 点， 我 收 回 我 所 说 的， 希 望 你 能 满 意。 
 dlga_start:close_window.18|哈， 不 再 对 我 妻 子 献 殷 勤 了 么？ 那 么 很 好， 我 又 少 了 点 麻 烦。 
 dlga_start:close_window.19|哼， 你 赢 了， 在 所 有 出 席 的 人 面 前 击 败 了 我， 我 会 放 弃 对 {s10}的 追 求， 你 这 狠 心 的 杂 种 现 在 满 意 了 吧？ 
 dlga_start:close_window.20|起 来， 让 今 天 所 有 在 场 的 人 证 明 我 打 败 了 你， 而 你 现 在 必 须 放 弃 对 {s10}的 求 爱。 我 将 允 许 你 最 后 再 见 她 一 次， 告 诉 她 你 们 永 不 再 见。 而 那 之 后， 如 果 你 依 然 试 图 去 见 她， 那 么 每 个 人 都 将 知 道 你 是 个 不 知 羞 耻 的 家 伙。 
@@ -1817,17 +1817,17 @@ dlga_spouse_feast_confirm:spouse_feast_confirm_yes|我 们 发 请 柬 吧。
 dlga_spouse_feast_confirm:spouse_pretalk|那 再 等 等 吧。 
 dlga_spouse_feast_confirm_yes:spouse_pretalk|如 此 ，我 将 发 出 话 去， 宣 布 我 们 会 在 国 家 条 件 允 许 的 情 况 下 举 行 一 场 宴 会。 你 最 好 让 我 们 的 储 物 室 更 充 实 一 些， 好 赢 得 待 客 周 到 的 美 名。 
 dlga_spouse_feast_confirm_yes:spouse_pretalk.1|太 好 了。 那 么， 让 我 们 马 上 在 {s9}{reg4?这 儿:}的 大 厅 举 办 宴 会 吧。 你 也 许 还 得 继 续 丰 富 我 们 的 贮 藏， 那 样 我 们 也 许 可 以 不 负 我 们 好 客 的 名 声。 你 随 时 可 以 宣 布 宴 会 结 束， 或 者 通 过 开 始 一 场 战 役， 或 者 让 封 臣 们 知 道 他 们 可 以 回 家 了。 
-dlga_start:close_window.21|在 我 失 去 耐 心 之 前 滚 开， 你 这 个 臭 要 饭 的！ 
-dlga_start:close_window.22|你 来 得 正 好， 让 我 们 一 起 给 我 们 的 敌 人 一 个 教 训。 
-dlga_start:close_window.23|和 我 们 打 仗 是 你 犯 的 一 个 大 错。 
-dlga_start:close_window.24|你 又 一 次 救 了 我 们 的 命， {playername}！ 真 的， 你 是 我 最 好 的 朋 友。 {s43}
+dlga_start:close_window.21|再 过 一 会 儿 我 们 就 要 结 婚 了， 多 美 好 啊…… 不 过 我 需 要 说 明， 在 剩 下 的 几 天 里， 我 们 不 方 便 在 一 起 说 太 多 的 话。 
+dlga_start:close_window.22|呃， {playername}， 也 许 你 不 熟 悉 我 们 的 婚 礼 习 俗， 我 想 得 有 人 告 诉 你…… 先 去 和 我 的 {s11}， {s4}谈 谈 吧。 
+dlga_start:close_window.23|我 不 知 道 如 何 找 到 我 的 {s11}{s10}了， 按 照 我 们 的 习 俗， 他 应 该 主 持 我 们 的 婚 礼。 或 许 我 们 得 等 到 能 找 到 他 为 止……
+dlga_start:close_window.24|尊 敬 的 {s12}已 经 允 许 我 们 回 家 了。 我 们 会 很 快 离 开 的。 
 dlga_start:kingdom_lady_captive|我 太 寂 寞 了！ 真 想 念 我 的 家 人 啊！ 
 dlga_start:kingdom_lady_captive.1|你 是 个 无 赖，{先 生/夫 人}， 居 然 这 样 的 对 待 一 位 小 姐…… 
 dlga_start:kingdom_lady_captive.2|很 奇 怪 ． 有 时 候 你 会 表 现 得 非 常 友 善， 但 是 你 却 把 我 强 行 拘 禁 在 这 儿。 
 dlga_start:kingdom_lady_captive.3|为 什 么 我 的 家 人 还 没 有 付 赎 金？ 尽 管 你 囚 禁 了 我， 但 是 你 好 像 比 我 的 家 人 更 关 心 我！ 
 dlga_lady_stranded_next:close_window|你 好， {先 生/尊 敬 的 女 士}。 因 为 战 局 的 变 化 驱 使 我 待 在 这 座 要 塞 里， 不 过 我 很 快 就 会 离 开 的。 
 dlga_start:lady_talk_refugee|{playername}— — 我 觉 得 像 你 这 样 尊 贵 的 {先 生/女 士}， 将 会 给 予 我 们 这 样 出 身 高 贵 的 女 士 们 回 家 的 权 利， 而 不 是 拿 我 们 去 索 取 赎 金。 
-dlga_start:close_window.25|你 来 的 正 是 时 候！ {playername}。 我 向 你 致 以 最 深 厚 的 感 谢！ {s43}
+dlga_start:close_window.25|我 们 会 很 快 离 开 {s5}。 我 很 高 兴 得 知 这 世 界 上 还 有 人 有 一 丝 荣 誉 感。 
 dlga_lady_talk_refugee:close_window|当 然， 尊 敬 的 女 士 
 dlga_lady_talk_refugee:lady_captive_talk|你 想 错 了， 尊 敬 的 女 士！ 
 dlga_lady_captive_talk:lady_captive_confirm|什 么？！ 怎 么 能 这 么 无 耻？ 
@@ -1835,7 +1835,7 @@ dlga_lady_captive_confirm:close_window|抱 歉— — 你 肯 定 误 会 我 �
 dlga_lady_captive_confirm:close_window.1|联 系 你 的 家 人 让 他 们 准 备 赎 金， 尊 敬 的 女 士 ． 
 dlga_kingdom_lady_captive:close_window|那 就 写 信 给 你 的 家 人， 然 他 们 赶 紧 支 付 赎 金！ 
 dlga_kingdom_lady_captive:close_window.1|我 改 变 主 意 了— — 你 可 以 走 了。 
-dlga_start:close_window.26|你 来 的 正 是 时 候， {playername}。 我 不 会 忘 记 你 的 帮 助 的。 {s43}
+dlga_start:close_window.26|嗯， {playername}— — 你 和 {s10}进 行 了 一 场 决 斗 但 是 输 了。 根 据 我 们 的 荣 誉 和 传 统， 我 不 能 再 接 受 你 了。 再 见 了， {playername}。 
 dlga_start:lady_duel_lost|噢 {playername}— — 我 听 说 你 和 {s10}决 斗 了。 我 希 望 你 没 有 和 他 打 过。 因 为 荣 誉 和 传 统 不 允 许 我 跟 随 一 个 失 败 者， 你 输 给 了 他， 我 们 的 关 系 也 就 断 绝 了。 保 重 {playername}。 
 dlga_lady_duel_lost:close_window|很 好— — 我 们 必 须 尊 重 传 统 办 事…… 再 见， 尊 敬 的 女 士 
 dlga_lady_duel_lost:lady_duel_lost_flaunt_conventions|就 让 荣 誉 和 传 统 到 一 边 去 吧！ 
@@ -1864,7 +1864,7 @@ dlga_rescue_prisoner_succeed_1:lady_pretalk|随 时 为 你 效 劳， {s65}。
 dlga_start:lady_meet_end|你 一 定 是 {playername}。 我 们 有 幸 在 {s8}举 行 的 竞 技 大 赛 上 得 见 你 的 风 采， 你 杰 出 的 表 现 令 人 印 象 深 刻。 
 dlga_start:lady_meet_end.1|你 一 定 是 {playername}。 我 的 {s15}{s16}对 你 有 很 高 的 评 价， 我 很 高 兴 能 认 识 你。 
 dlga_start:lady_premeet|我 想 说， 你 看 起 来 并 不 是 很 面 熟…… 
-dlga_start:close_window.27|很 高 兴 在 这 里 见 到 你， {playername}。 {s43}
+dlga_start:close_window.27|啊， {playername}能 再 次 见 到 你 真 不 错。 不 过 对 不 起， 我 在 别 处 另 有 要 事 要 处 理。 
 dlga_start:lady_start.3|{playername}— — 很 高 兴 能 见 到 你， ( 耳 语：) 我 对 你 的 造 访 有 着 愉 快 的 回 忆。 
 dlga_start:lady_meet_end.2|啊， {playername}。 你 在 最 近 的 竞 技 大 会 上 表 现 得 实 在 是 太 棒 了！ 
 dlga_start:lady_start.4|{s12}
@@ -2051,7 +2051,7 @@ dlga_seneschal_ask_location:seneschal_ask_location_2|没 错， 做 我 这 份 
 dlga_seneschal_ask_location_2:seneschal_ask_location_3|{s1}
 dlga_seneschal_ask_location_2:seneschal_pretalk|没 事。 
 dlga_seneschal_ask_location_3:seneschal_pretalk|{s1}
-dlga_start:close_window.28|{s43}
+dlga_start:close_window.28|那 儿！ 我 可 以 看 到 远 处 {s3}的 城 墙。 我 们 安 全 到 达 了 这 里。 给， 拿 上 我 承 诺 过 的 这 {reg3}第 纳 尔。 我 希 望 哪 天 能 再 和 你 结 伴 而 行。 
 dlga_start:talk_caravan_escort|我 们 已 经 走 了 这 么 远 了…… 前 方 安 全 吗？ 
 dlga_talk_caravan_escort:talk_caravan_escort_2a|周 围 也 许 有 强 盗。 跟 紧 我。 
 dlga_talk_caravan_escort_2a:close_window|相 信 我， {playername}， 我 们 已 经 跟 的 够 紧 了。 开 路 吧。 
@@ -2135,7 +2135,7 @@ dlga_start:castle_guard_players|有 什 么 吩 咐， {大 人/女 士}？
 dlga_castle_guard_players:close_window|把 门 打 开。 我 要 进 去。 
 dlga_castle_guard_players:close_window.1|没 事。 
 dlga_start:castle_guard_sneaked_intro_1|从 我 眼 前 滚 开， 要 饭 的！ 真 恶 心！ 
-dlga_start:close_window.29|{s43}
+dlga_start:close_window.29|在 我 发 火 前 赶 紧 给 我 消 失， 你 这 卑 鄙 的 乞 丐！ 
 dlga_castle_guard_sneaked_intro_1:castle_guard_sneaked_intro_2|我 要 到 大 厅 和 领 主 谈 谈。 
 dlga_castle_guard_sneaked_intro_1:close_window|离 开。 
 dlga_castle_guard_sneaked_intro_2:close_window|你 发 疯 了， {小 子/小 妞}？ 乞 丐 是 不 允 许 进 入 大 厅 的。 快 点 消 失， 否 则 我 就 痛 打 你 一 顿。 
@@ -2167,8 +2167,8 @@ dlga_castle_gate_open:close_window.1|{s2}大 人 现 在 不 在 城 堡 里。 
 dlga_castle_gate_open:close_window.2|请 进。 我 这 就 给 你 开 门。 
 dlga_castle_gate_open:close_window.3|请 进。 但 是 让 你 的 人 在 城 里 放 机 灵 点。 我 的 {s2}大 人 不 想 招 惹 麻 烦。 
 dlga_castle_gate_open:close_window.4|{s2}大 人 不 允 许 你 待 在 这 里。 走 开。 
-dlga_start:close_window.30|多 谢 你 出 手 相 助， {先 生/夫 人}。 你 救 了 {reg1?我 们 :我 }的 命。 
-dlga_start:close_window.31|多 谢 你 出 手 相 助， {先 生/夫 人}。 我 们 刚 刚 状 况 不 妙， 你 的 及 时 出 现 扭 转 了 战 局。 
+dlga_start:close_window.30|你 来 得 正 好， 让 我 们 一 起 给 我 们 的 敌 人 一 个 教 训。 
+dlga_start:close_window.31|和 我 们 打 仗 是 你 犯 的 一 个 大 错。 
 dlga_start:ally_thanks_meet|我 想 我 们 还 没 有 正 式 认 识， 我 的 朋 友。 你 刚 刚 救 了 我 的 命， 但 我 还 不 知 道 你 的 名 字。 
 dlga_start:ally_thanks_meet.1|你 的 出 手 很 受 用， 陌 生 人。 我 叫 {s1}。 可 以 问 下 阁 下 大 名 么？ 
 dlga_start:ally_thanks_meet.2|多 谢 相 助， 陌 生 人。 我 们 还 没 互 相 介 绍 过， 不 是 吗？ 你 叫 什 么 名 字？ 
@@ -2176,15 +2176,15 @@ dlga_ally_thanks_meet:ally_thanks_meet_2|我 的 名 字 是 {playername}。
 dlga_ally_thanks_meet_2:close_window|幸 会 {playername}。 我 的 名 字 是 {s1}我 欠 你 个 人 情。 如 果 有 任 何 需 要 我 帮 助 的， 请 告 诉 我…… 
 dlga_ally_thanks_meet_2:close_window.1|你 好 {playername}。 刚 刚 的 事 算 我 欠 你 一 个 人 情。 希 望 有 一 天 我 能 找 到 机 会 还 你 这 个 人 情。 
 dlga_ally_thanks_meet_2:close_window.2|你 好 {playername}。 我 叫 {s1}。 谢 谢 你 的 援 助， 我 希 望 下 次 我 们 还 能 再 见 面。 
-dlga_start:close_window.32|多 谢 你 出 手 相 助， {先 生/夫 人}。 有 你 相 助 是 一 件 幸 事。 
-dlga_start:close_window.33|没 事， {先 生/夫 人}， 我 会 去 的。 
-dlga_start:close_window.34|谢 谢 你 帮 我 们 对 付 那 些 恶 棍。 
-dlga_start:close_window.35|我 们 可 以 自 己 走 完 剩 下 的 路 了， 谢 谢。 
-dlga_start:close_window.36|那 么， 我 们 就 快 抵 达 {s21}了， 我 们 可 以 自 己 走 完 剩 下 的 路 了。 这 是 你 的 报 酬…… {reg14}第 纳 尔。 谢 谢 你 给 予 我 们 的 保 护， 祝 你 好 运！ 
-dlga_start:close_window.37|非 常 感 谢 你 把 我 救 回 来！ 我 迫 不 及 待 的 要 去 见 我 的 家 人。 再 见。 
-dlga_start:close_window.38|你 好， {先 生/夫 人}。 永 远 对 你 能 来 {s10}这 里 感 到 荣 幸。 
-dlga_start:close_window.39|在 城 里 放 老 实 点， 这 样 你 就 不 会 有 麻 烦。 
-dlga_start:close_window.40|站 岗 的 时 候 我 不 想 与 任 何 人 交 谈， {先 生/夫 人}。 
+dlga_start:close_window.32|你 又 一 次 救 了 我 们 的 命， {playername}！ 真 的， 你 是 我 最 好 的 朋 友。 {s43}
+dlga_start:close_window.33|你 来 的 正 是 时 候！ {playername}。 我 向 你 致 以 最 深 厚 的 感 谢！ {s43}
+dlga_start:close_window.34|你 来 的 正 是 时 候， {playername}。 我 不 会 忘 记 你 的 帮 助 的。 {s43}
+dlga_start:close_window.35|在 这 里 遇 上 你 我 感 到 很 高 兴， {playername}。 {s43}
+dlga_start:close_window.36|{s43}
+dlga_start:close_window.37|{s43}
+dlga_start:close_window.38|多 谢 你 出 手 相 助， {先 生/夫 人}。 你 救 了 {reg1?我 们:我} 的 命。 
+dlga_start:close_window.39|多 谢 你 出 手 相 助， {先 生/夫 人}。 我 们 刚 刚 状 况 不 妙， 你 的 及 时 出 现 扭 转 了 战 局。 
+dlga_start:close_window.40|多 谢 你 出 手 相 助， {先 生/夫 人}。 有 你 在 附 近 真 是 一 种 幸 运。 
 dlga_start:kidnapped_girl_liberated_battle|哦， {先 生/夫 人}， 多 谢 你 救 了 我， 你 会 把 我 带 回 家 吗？ 
 dlga_start:freed_hero_answer|朋 友， 你 解 救 了 我， 我 欠 你 一 份 情。 
 dlga_freed_hero_answer:freed_hero_answer_1|你 哪 都 别 想 去 了。 你 现 在 是 我 的 阶 下 囚 了！ 
@@ -2511,7 +2511,7 @@ dlga_farmer_from_bandit_village_5:farmer_from_bandit_village_barter|为 什 么 
 dlga_farmer_from_bandit_village_accepted:close_window|上 帝 保 佑 你， {先 生/夫 人}。 我 们 的 村 子 是 {s7}。 离 这 里 不 是 很 远。 
 dlga_farmer_from_bandit_village_denied:close_window|如 你 所 言， {先 生/夫 人}。 原 谅 我 们 打 扰 你 了。 
 dlga_farmer_from_bandit_village_barter:farmer_from_bandit_village_5|我 们 只 是 贫 穷 的 农 民， {先 生/夫 人}。 这 些 强 盗 几 乎 夺 走 我 们 在 这 个 世 界 上 的 大 部 分 东 西。 但 是 我 们 很 乐 意 与 你 分 享 任 何 我 们 有 的 东 西。 而 且 如 果 你 帮 助 我 们 的 话， 我 们 会 一 直 感 恩 于 你。 
-dlga_start:close_window.42|感 谢 您 为 我 们 击 退 强 盗， {先 生/ 女 士}。 
+dlga_start:close_window.42|{先 生/女 士}， 感 谢 您 的 帮 助。 粉 碎 那 些 强 盗 吧！ 
 dlga_start:mercenary_tavern_talk|你 需 要 雇 佣 军 吗， {先 生/夫 人}？ {reg3?我 和 {reg4?{reg3}个 同 伴 :一 个 同 伴 }:我 }在 找 一 个 雇 主。 付 我 们 {reg5}第 纳 尔 我 们 就 加 入 你。 
 dlga_start:mercenary_after_recruited|什 么 指 示， {先 生/夫 人}？ 
 dlga_mercenary_after_recruited:mercenary_after_recruited_2|做 好 准 备。 我 们 要 开 拔 了。 

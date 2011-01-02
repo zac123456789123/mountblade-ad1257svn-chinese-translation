@@ -854,10 +854,10 @@ itm_kau_rus_e|东 欧 皮 甲
 itm_kau_rus_e_pl|东 欧 皮 甲 
 itm_kau_lit_mail|链 甲 衫 
 itm_kau_lit_mail_pl|链 甲 衫 
-itm_lit_outfit|波 罗 片 甲 背 心 
-itm_lit_outfit_pl|波 罗 片 甲 背 心 
-itm_balt_gambeson|波 罗 软 铠 甲 
-itm_balt_gambeson_pl|波 罗 软 铠 甲 
+itm_lit_outfit|波 罗 的 海 片 甲 背 心 
+itm_lit_outfit_pl|波 罗 的 海 片 甲 背 心 
+itm_balt_gambeson|波 罗 的 海 软 铠 甲 
+itm_balt_gambeson_pl|波 罗 的 海 软 铠 甲 
 itm_kau_rus_tunic_a|罗 斯 短 袍 
 itm_kau_rus_tunic_a_pl|罗 斯 短 袍 
 itm_kau_rus_tunic_b|罗 斯 短 袍 
@@ -1230,16 +1230,16 @@ itm_vik_spangen_a|Spangen Helm{***}
 itm_vik_spangen_a_pl|Spangen Helm{***}
 itm_vik_spangen_b|Spangen Helm{***}
 itm_vik_spangen_b_pl|Spangen Helm{***}
-itm_balt_spiked_helmet|波 罗 锥 头 帽 
-itm_balt_spiked_helmet_pl|波 罗 锥 头 帽 
-itm_balt_footman_helmet|波 罗 步 兵 盔 
-itm_balt_footman_helmet_pl|波 罗 步 兵 盔 
-itm_balt_helmet_a|波 罗 盔 
-itm_balt_helmet_a_pl|波 罗 盔 
-itm_balt_helmet_b|波 罗 盔 
-itm_balt_helmet_b_pl|波 罗 盔 
-itm_balt_helmet_c|波 罗 盔 
-itm_balt_helmet_c_pl|波 罗 盔 
+itm_balt_spiked_helmet|波 罗 的 海 锥 头 帽 
+itm_balt_spiked_helmet_pl|波 罗 的 海 锥 头 帽 
+itm_balt_footman_helmet|波 罗 的 海 步 兵 盔 
+itm_balt_footman_helmet_pl|波 罗 的 海 步 兵 盔 
+itm_balt_helmet_a|波 罗 的 海 盔 
+itm_balt_helmet_a_pl|波 罗 的 海 盔 
+itm_balt_helmet_b|波 罗 的 海 盔 
+itm_balt_helmet_b_pl|波 罗 的 海 盔 
+itm_balt_helmet_c|波 罗 的 海 盔 
+itm_balt_helmet_c_pl|波 罗 的 海 盔 
 itm_pol_helm_05|巨 盔 
 itm_pol_helm_05_pl|巨 盔 
 itm_pol_helm_08|巨 盔 
@@ -1872,8 +1872,8 @@ itm_war_darts|战 镖
 itm_war_darts_pl|战 镖 
 itm_javelin|标 枪 
 itm_javelin_pl|标 枪 
-itm_balt_javelin|波 罗 标 枪 
-itm_balt_javelin_pl|波 罗 标 枪 
+itm_balt_javelin|波 罗 的 海 标 枪 
+itm_balt_javelin_pl|波 罗 的 海 标 枪 
 itm_throwing_spears|投 矛 
 itm_throwing_spears_pl|投 矛 
 itm_balt_throwing_spears|投 矛 
@@ -2100,8 +2100,8 @@ itm_galloglass_mail|Gallóglach Mail Armour{***}
 itm_galloglass_mail_pl|Gallóglach Mail Armour{***}
 itm_galloglass_padded|Gallóglach Padded Armour{***}
 itm_galloglass_padded_pl|Gallóglach Padded Armour{***}
-itm_baltic_sword|波 罗 的 剑 
-itm_baltic_sword_pl|波 罗 的 剑 
+itm_baltic_sword|波 罗 的 海 剑 
+itm_baltic_sword_pl|波 罗 的 海 剑 
 itm_man_at_arms_a|链 甲 外 套 
 itm_man_at_arms_a_pl|链 甲 外 套 
 itm_man_at_arms_b|链 甲 外 套 
@@ -2126,14 +2126,14 @@ itm_targe_5|轻 型 圆 盾
 itm_targe_5_pl|轻 型 圆 盾 
 itm_targe_6|轻 型 圆 盾 
 itm_targe_6_pl|轻 型 圆 盾 
-itm_balt_lamellar_coat_a|波 罗 的 海 鳞 甲 背 心 
-itm_balt_lamellar_coat_a_pl|波 罗 的 海 鳞 甲 背 心 
-itm_balt_lamellar_coat_b|波 罗 的 海 鳞 甲 背 心 
-itm_balt_lamellar_coat_b_pl|波 罗 的 海 鳞 甲 背 心 
+itm_balt_lamellar_coat_a|鳞 甲 背 心 
+itm_balt_lamellar_coat_a_pl|鳞 甲 背 心 
+itm_balt_lamellar_coat_b|鳞 甲 背 心 
+itm_balt_lamellar_coat_b_pl|鳞 甲 背 心 
 itm_rus_padded|东 欧 布 链 甲 
 itm_rus_padded_pl|东 欧 布 链 甲 
-itm_baltic_sword_b|波 罗 的 剑 
-itm_baltic_sword_b_pl|波 罗 的 剑 
+itm_baltic_sword_b|波 罗 的 海 剑 
+itm_baltic_sword_b_pl|波 罗 的 海 剑 
 itm_mongol_helmet_a|蒙 古 盔 
 itm_mongol_helmet_a_pl|蒙 古 盔 
 itm_mongol_helmet_b|蒙 古 盔 
@@ -2282,13 +2282,15 @@ itm_almogavar_helmet|阿 尔 莫 伽 瓦 盔
 itm_almogavar_helmet_pl|阿 尔 莫 伽 瓦 盔 
 itm_curonian_helmet|Curonian Helmet
 itm_curonian_helmet_pl|Curonian Helmet
-itm_balt_padded_a|Balt Padded Armour
-itm_balt_padded_a_pl|Balt Padded Armour
-itm_balt_padded_b|Balt Padded Armour
-itm_balt_padded_b_pl|Balt Padded Armour
-itm_rus_militia_tunic_a|Eastern Militia Tunic
-itm_rus_militia_tunic_a_pl|Eastern Militia Tunic
-itm_rus_militia_tunic_b|Eastern Militia Tunic
-itm_rus_militia_tunic_b_pl|Eastern Militia Tunic
+itm_balt_padded_a|波 罗 的 海 加 衬 布 甲 
+itm_balt_padded_a_pl|波 罗 的 海 加 衬 布 甲 
+itm_balt_padded_b|波 罗 的 海 加 衬 布 甲 
+itm_balt_padded_b_pl|波 罗 的 海 加 衬 布 甲 
+itm_militia_tunic_a|Militia Tunic
+itm_militia_tunic_a_pl|Militia Tunic
+itm_militia_tunic_b|Militia Tunic
+itm_militia_tunic_b_pl|Militia Tunic
+itm_rus_militia_padded_a|罗 斯 加 衬 布 甲 
+itm_rus_militia_padded_a_pl|罗 斯 加 衬 布 甲 
 itm_items_end|Items End 
 itm_items_end_pl|Items End 
