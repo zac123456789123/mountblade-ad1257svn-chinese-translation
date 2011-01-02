@@ -139,7 +139,6 @@ qstr_ERROR____Towns:_{reg25}_m|ERROR -- Towns: {reg25} merchants: {reg26}
 qstr_ERROR____Towns:_{reg25}_h|ERROR -- Towns: {reg25} horse merchants: {reg26}
 qstr_ERROR____Towns:_{reg25}_a|ERROR -- Towns: {reg25} arena masters: {reg26}
 qstr_ERROR____Towns:_{reg25}_c|ERROR -- Towns: {reg25} craftsmen: {reg26}
-qstr_____DEBUG_____battle|--- DEBUG --- battle preparation phase 1
 qstr_____________________|----------------------------- BATTLE ----------------------------
 qstr_{s26}_[o:_{reg30}_d:|{s26} [o: {reg30} d: {reg29}] vs {s25} [o: {reg28} d: {reg27}]
 qstr_{s26}_deals_{reg26}_|{s26} deals {reg26} to {s25} ----- {s25} deals {reg25} to {s26}
@@ -193,7 +192,6 @@ qstr_Your_opponents_are_r|Your opponents are ready for the fight.
 qstr_Try_to_destroy_as_ma|Try to destroy as many targets as you can. You have two and a half minutes to clear the track.
 qstr_Stay_behind_the_line|Stay behind the line on the ground and shoot the targets. Try not to waste any shots.
 qstr_DEBUG____{s21}_dista|DEBUG -- {s21} distance {reg21}
-qstr_setting_behaviour_fo|setting behaviour for {s20} {reg20}
 qstr_Battle_Advantage_=_{|Battle Advantage = {reg0}.
 qstr_{s9}_wants_you_to_re|{s9} wants you to resume following his army until further notice.
 qstr_{s21}_has_no_fief_we|{s21} has no fief weekly income: {reg21}
@@ -237,6 +235,8 @@ qstr_You_now_owe_{reg2}_d|You now owe {reg2} denars to {s1}.
 qstr_Renown_value_for_thi|Renown value for this battle is {reg8}.
 qstr_You_have_run_into_a_|You have run into a trap!
 qstr_You_are_attacked_by_|You are attacked by a group of bandits!
+qstr_{s1}__{reg0}__reache|{s1} ({reg0}) reached pos
+qstr_{s1}__{reg0}__moving|{s1} ({reg0}) moving to pos {reg20}
 qstr_Holding|Holding
 qstr_Following|Following
 qstr_Charging|Charging
@@ -567,8 +567,6 @@ qstr_{s13}_has_been_taken|{s13} has been taken by the enemy and your recruiter w
 qstr_ERROR_IN_THE_RECRUIT|ERROR IN THE RECRUITER KIT SIMPLE TRIGGERS!
 qstr_A_recruiter_has_brou|A recruiter has brought {reg10} recruits to {s13}.
 qstr_Distance_between_{s1|Distance between {s14} and {s15}: {reg0}
-qstr_Your_caravan_has_bro|Your caravan has brought {s12} to {s13}.
-qstr_Your_caravan_has_los|Your caravan has lost it's way and gave up your mission!
 qstr_Your_messenger_reach|Your messenger reached {s13}.
 qstr_{s14}|{s14}
 qstr_Your_messenger_has_l|Your messenger has lost it's way and gave up your mission!
@@ -638,7 +636,6 @@ qstr_{s4}_{s3}._The_tax_r|{s4} {s3}. The tax rate is {s50}.{s59}{s61}. Overall t
 qstr_Tax_rate_for_{s6}:_{|Tax rate for {s6}: {s11}
 qstr_{playername}_when_we|{playername}, when we started our long walk, few people had the courage to support me. And fewer still would be willing to put their lives at risk for my cause. But you didn't hesitate for a moment in throwing yourself at my enemies. We have gone through a lot together, and there were times I came close to losing all hope. But with God's help, we prevailed. It is now time for me to leave your company and take what's rightfully mine. From now on, I will carry out the great responsibility of ruling {s3}. There still lie many challanges ahead and I count on your help in overcoming those. And of course, you will always remain as my foremost vassal.
 qstr__We_will_of_course_n| We will of course need to wait until the realm is no longer on campaign.
-qstr_____DEBUG_____battle_|--- DEBUG --- battle preparation phase 2
 qstr_I_am_{s4}_the_ruler_|I am {s4}, the ruler of {s6}
 qstr_I_am_{s4}_a_vassal_o|I am {s4}, a vassal of {s6}
 qstr_{s9}{reg5?_and_the_l|{s9}{reg5? and the lord of {s8}.:.
@@ -670,7 +667,6 @@ qstr_{s9}_asked_you_to_le|{s9} asked you to lend your companion {s3} to him for 
 qstr_{s9}_asked_you_to_col|{s9} asked you to collect the debt of {reg4} denars {s3} owes to him. {s3} was at {s4} when you were given this quest.
 qstr_{s11}_gave_you_a_fak|{s11} gave you a fake letter to fool {s13} into banishing his vassal {s16}. You are to go near {s14}, give the letter to one of your {s15} and send him into the town as a messenger, believing his orders to be genuine.
 qstr_{s9}_has_requested_y|{s9} has requested you to bring him {reg1} {s3} as prisoners.
-qstr_____DEBUG_____battle_p|--- DEBUG --- battle preparation phase 0
 qstr_Lend_your_experience|Lend your experienced surgeon {s3} to {s1}.
 qstr_Then_take_it_with_my|Then take it, with my eternal thanks. You are a noble {man/woman}. I will never forget that you helped me in my time of need.
 qstr_Forgive_me_{playerna|Forgive me, {playername}, but I must insist you accept it. The money means little to me, and I owe you so much. Here, take it, and let us speak no more of this.

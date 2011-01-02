@@ -2286,9 +2286,11 @@ itm_balt_padded_a|Balt Padded Armour
 itm_balt_padded_a_pl|Balt Padded Armour
 itm_balt_padded_b|Balt Padded Armour
 itm_balt_padded_b_pl|Balt Padded Armour
-itm_rus_militia_tunic_a|Eastern Militia Tunic
-itm_rus_militia_tunic_a_pl|Eastern Militia Tunic
-itm_rus_militia_tunic_b|Eastern Militia Tunic
-itm_rus_militia_tunic_b_pl|Eastern Militia Tunic
+itm_militia_tunic_a|Militia Tunic
+itm_militia_tunic_a_pl|Militia Tunic
+itm_militia_tunic_b|Militia Tunic
+itm_militia_tunic_b_pl|Militia Tunic
+itm_rus_militia_padded_a|Rus Padded Armour
+itm_rus_militia_padded_a_pl|Rus Padded Armour
 itm_items_end|Items End
 itm_items_end_pl|Items End
