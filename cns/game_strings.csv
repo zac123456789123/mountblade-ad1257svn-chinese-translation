@@ -1,4 +1,4 @@
-str_no_string|NO STRING! 
+﻿str_no_string|NO STRING! 
 str_empty_string| 
 str_yes|是 
 str_no|否 
@@ -399,7 +399,7 @@ str_npc2_intro_response_1|你 好。
 str_npc3_intro_response_1|当 然 可 以， 但 我 想 冒 昧 的 问 下 我 将 和 谁 享 受 这 喝 酒 的 乐 趣 呢？ 
 str_npc4_intro_response_1|哦？ 这 对 我 来 说 太 陌 生 了 吧？ {***}
 str_npc5_intro_response_1|你 的 酒 馆？ 那 酒 吧 后 面 那 家 伙 是 谁？ 
-str_npc6_intro_response_1|Yes boy?是男孩吗？
+str_npc6_intro_response_1|俄， 男 孩， 有 什 么 事 儿 么？
 str_npc7_intro_response_1|Istvan the Hungarian - response 1
 str_npc8_intro_response_1|Yuriy of Novgorod - response 1
 str_npc9_intro_response_1|优 秀 的 战 士 我 一 定 会 雇 佣。 你 是 谁？ 
