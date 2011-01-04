@@ -849,7 +849,6 @@ dlga_companion_rejoin_response:companion_rejoin_refused|Unfortunately, I cannot 
 dlga_companion_rejoin_refused:close_window|As you wish. I will take care of some business, and try again in a few days.
 dlga_event_triggered:companion_rejoin_response.5|Would you have me rejoin you?
 dlga_event_triggered:close_window.2|There! I can see the walls of {s3} in the distance. We've made it safely. Here, take this purse of {reg3} denars, as I promised. I hope we can travel together again someday.
-dlga_event_triggered:close_window.3|Let's get it on.
 dlga_start:lord_start|My lady, I look forward to our marriage, as soon as there is an opportunity to hold a proper feast.{s12}
 dlga_start:lord_start.1|My lady, if you wish to marry, we can proceed to the feast at {s4} to exchange vows before the lords of the realm.
 dlga_start:lord_start.2|My lady, I grow tired of waiting for the lords of this realm to assemble. Come with me to {s4} exchange our vows.
@@ -1459,7 +1458,6 @@ dlga_lord_marriage_proposal_female_pc_confirm_engagement:lord_marriage_proposal_
 dlga_lord_marriage_proposal_female_pc_confirm_engagement:lord_marriage_proposal_female_pc_confirm_engagement_no|Actually, I would like to reconsider.
 dlga_lord_marriage_proposal_female_pc_confirm_engagement_yes:close_window|Very well. Hopefully, a little over a month from now, we shall be wed.{s12}
 dlga_lord_marriage_proposal_female_pc_confirm_engagement_no:close_window|Take whatever time you need, my lady.
-dlga_lord_talk:close_window|Let's get it on.
 dlga_lord_talk:party_encounter_lord_hostile_ultimatum_surrender|I say this only once, {s4}! Surrender or die!
 dlga_party_encounter_lord_hostile_ultimatum_surrender:close_window|{s43}.  We will begin battle preparations immediately!
 dlga_lord_talk:lord_predemand|I'm here to deliver you my demands!

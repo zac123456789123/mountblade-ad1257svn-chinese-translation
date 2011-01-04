@@ -294,46 +294,6 @@ trp_irish_prison_guard|监 狱 看 守
 trp_irish_prison_guard_pl|监 狱 看 守 
 trp_irish_castle_guard|城 堡 守 卫 
 trp_irish_castle_guard_pl|城 堡 守 卫 
-trp_generic_village_recruit|志 愿 兵 
-trp_generic_village_recruit_pl|志 愿 兵 
-trp_generic_town_recruit|城 镇 志 愿 兵 
-trp_generic_town_recruit_pl|城 镇 志 愿 兵 
-trp_generic_town_footman|城 镇 步 兵 
-trp_generic_town_footman_pl|城 镇 步 兵 
-trp_generic_village_footman|步 兵 
-trp_generic_village_footman_pl|步 兵 
-trp_generic_village_skirmisher|散 兵 
-trp_generic_village_skirmisher_pl|散 兵 
-trp_generic_town_skirmisher|城 镇 散 兵 
-trp_generic_town_skirmisher_pl|城 镇 散 兵 
-trp_generic_veteran_swordsman|剑 兵 
-trp_generic_veteran_swordsman_pl|剑 兵 
-trp_generic_swords_sergeant|重 甲 剑 士 
-trp_generic_swords_sergeant_pl|重 甲 剑 士 
-trp_generic_veteran_billman|戟 兵 
-trp_generic_veteran_billman_pl|戟 兵 
-trp_generic_bills_sergeant|长 戟 军 士 
-trp_generic_bills_sergeant_pl|长 戟 军 士 
-trp_generic_veteran_spearman|披 甲 长 矛 手 
-trp_generic_veteran_spearman_pl|披 甲 长 矛 手 
-trp_generic_spears_sergeant|长 矛 军 士 
-trp_generic_spears_sergeant_pl|长 矛 军 士 
-trp_generic_veteran_crossbowman|盾 弩 手 
-trp_generic_veteran_crossbowman_pl|盾 弩 手 
-trp_generic_crossbows_sergeant|强 弩 军 士 
-trp_generic_crossbows_sergeant_pl|强 弩 军 士 
-trp_generic_veteran_archer|熟 练 弓 箭 手 
-trp_generic_veteran_archer_pl|熟 练 弓 箭 手 
-trp_generic_bows_sergeant|精 锐 弓 箭 手 
-trp_generic_bows_sergeant_pl|精 锐 弓 箭 手 
-trp_generic_light_cavalry|轻 骑 兵 
-trp_generic_light_cavalry_pl|轻 骑 兵 
-trp_generic_medium_cavalry|骑 兵 
-trp_generic_medium_cavalry_pl|骑 兵 
-trp_generic_squire|重 骑 兵 
-trp_generic_squire_pl|重 骑 兵 
-trp_generic_knight|帝 国 骑 士 
-trp_generic_knight_pl|帝 国 骑 士 
 trp_balkan_vil_1|巴 尔 干 征 召 民 兵 
 trp_balkan_vil_1_pl|巴 尔 干 征 召 民 兵
 trp_balkan_vil_2_1|巴 尔 干 征 召 平 民 弓 箭 手 
