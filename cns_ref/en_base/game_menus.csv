@@ -26,7 +26,7 @@ menu_start_game_1|Select your character's gender.
 mno_start_male|Male
 mno_start_female|Female
 mno_enable_quickstart|Enable quickstart (this is useful for debugging only)
-mno_enable_quickstart|Disable quickstart (this is useful for debugging only)
+mno_disable_quickstart|Disable quickstart (this is useful for debugging only)
 mno_go_back|Go back
 menu_start_character_1|You were born years ago, in a land far away. Your father was...
 mno_start_noble|An impoverished noble.

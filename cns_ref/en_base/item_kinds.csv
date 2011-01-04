@@ -528,14 +528,8 @@ itm_nomad_vest|Nomad Vest
 itm_nomad_vest_pl|Nomad Vest
 itm_ragged_outfit|Ragged Outfit
 itm_ragged_outfit_pl|Ragged Outfit
-itm_padded_leather|Padded Leather
-itm_padded_leather_pl|Padded Leather
 itm_tribal_warrior_outfit|Tribal Warrior Outfit
 itm_tribal_warrior_outfit_pl|Tribal Warrior Outfit
-itm_nomad_robe|Nomad Studded Leather Armour
-itm_nomad_robe_pl|Nomad Studded Leather Armour
-itm_studded_leather_coat|Studded Leather Coat
-itm_studded_leather_coat_pl|Studded Leather Coat
 itm_haubergeon|Haubergeon
 itm_haubergeon_pl|Haubergeon
 itm_lamellar_vest|Lamellar Vest
@@ -546,10 +540,6 @@ itm_mail_with_surcoat|Mail with Surcoat
 itm_mail_with_surcoat_pl|Mail with Surcoat
 itm_surcoat_over_mail|Surcoat over Mail
 itm_surcoat_over_mail_pl|Surcoat over Mail
-itm_lamellar_armor|Lamellar Armor
-itm_lamellar_armor_pl|Lamellar Armor
-itm_scale_armor|Scale Armor
-itm_scale_armor_pl|Scale Armor
 itm_coat_of_plates|Coat of Plates
 itm_coat_of_plates_pl|Coat of Plates
 itm_coat_of_plates_red|Coat of Plates
@@ -1154,8 +1144,6 @@ itm_segmented_helmet|Segmented Helmet
 itm_segmented_helmet_pl|Segmented Helmet
 itm_helmet_with_neckguard|Helmet with Neckguard
 itm_helmet_with_neckguard_pl|Helmet with Neckguard
-itm_kettle_hat|Kettle Hat
-itm_kettle_hat_pl|Kettle Hat
 itm_spiked_helmet|Spiked Helmet
 itm_spiked_helmet_pl|Spiked Helmet
 itm_khergit_lady_hat|Mongol Lady Hat
@@ -1212,10 +1200,6 @@ itm_osp_great_helm_a|Great Helm
 itm_osp_great_helm_a_pl|Great Helm
 itm_osp_great_helm_b|Great Helm
 itm_osp_great_helm_b_pl|Great Helm
-itm_kettle_hat_d|Kettle Helm
-itm_kettle_hat_d_pl|Kettle Helm
-itm_kettle_hat_e|Kettle Helm
-itm_kettle_hat_e_pl|Kettle Helm
 itm_osp_byzantion_a|Brimmed Helmet
 itm_osp_byzantion_a_pl|Brimmed Helmet
 itm_vik_norman_helmet_a|Norman Helmet
@@ -1244,34 +1228,10 @@ itm_pol_helm_05|Great Helm
 itm_pol_helm_05_pl|Great Helm
 itm_pol_helm_08|Great Helm
 itm_pol_helm_08_pl|Great Helm
-itm_kettle_hat_f|Kettle Helm
-itm_kettle_hat_f_pl|Kettle Helm
-itm_kettle_hat_g|Kettle Helm
-itm_kettle_hat_g_pl|Kettle Helm
 itm_teu_kettle_hat_a|Kettle Helm
 itm_teu_kettle_hat_a_pl|Kettle Helm
 itm_teu_kettle_hat_b|Kettle Helm
 itm_teu_kettle_hat_b_pl|Kettle Helm
-itm_norway_kettle_hat_a|Kettle Helm
-itm_norway_kettle_hat_a_pl|Kettle Helm
-itm_norway_kettle_hat_b|Kettle Helm
-itm_norway_kettle_hat_b_pl|Kettle Helm
-itm_france_kettle_cloth|Kettle Helm
-itm_france_kettle_cloth_pl|Kettle Helm
-itm_france_kettle_mail|Kettle Helm
-itm_france_kettle_mail_pl|Kettle Helm
-itm_hre_kettle_cloth|Kettle Helm
-itm_hre_kettle_cloth_pl|Kettle Helm
-itm_hre_kettle_mail|Kettle Helm
-itm_hre_kettle_mail_pl|Kettle Helm
-itm_kettle_hat_red_a|Kettle Helm
-itm_kettle_hat_red_a_pl|Kettle Helm
-itm_kettle_hat_blue_a|Kettle Helm
-itm_kettle_hat_blue_a_pl|Kettle Helm
-itm_kettle_hat_yellow_a|Kettle Helm
-itm_kettle_hat_yellow_a_pl|Kettle Helm
-itm_kettle_hat_orange_a|Kettle Helm
-itm_kettle_hat_orange_a_pl|Kettle Helm
 itm_slonim|Slonim
 itm_slonim_pl|Slonim
 itm_osp_faceplate|Full Helm
@@ -1392,16 +1352,6 @@ itm_norman_coif_d|Norman Helmet
 itm_norman_coif_d_pl|Norman Helmet
 itm_norman_coif_e|Norman Helmet
 itm_norman_coif_e_pl|Norman Helmet
-itm_kettle_hat_red_mail|Kettle Helm
-itm_kettle_hat_red_mail_pl|Kettle Helm
-itm_kettle_hat_blue_mail|Kettle Helm
-itm_kettle_hat_blue_mail_pl|Kettle Helm
-itm_kettle_hat_yellow_mail|Kettle Helm
-itm_kettle_hat_yellow_mail_pl|Kettle Helm
-itm_kettle_hat_orange_mail|Kettle Helm
-itm_kettle_hat_orange_mail_pl|Kettle Helm
-itm_kettle_hat_mail|Kettle Helm
-itm_kettle_hat_mail_pl|Kettle Helm
 itm_teu_kettle_hat_a_mail|Kettle Helm
 itm_teu_kettle_hat_a_mail_pl|Kettle Helm
 itm_templar_kettlehat_a_mail|Kettle Helm
@@ -2292,5 +2242,13 @@ itm_militia_tunic_b|Militia Tunic
 itm_militia_tunic_b_pl|Militia Tunic
 itm_rus_militia_padded_a|Rus Padded Armour
 itm_rus_militia_padded_a_pl|Rus Padded Armour
+itm_little_samogitian|Žemaitukas
+itm_little_samogitian_pl|Žemaitukas
+itm_kettlehat_a|Kettle Helm
+itm_kettlehat_a_pl|Kettle Helm
+itm_kettlehat_b|Kettle Helm
+itm_kettlehat_b_pl|Kettle Helm
+itm_kettlehat_c|Kettle Helm
+itm_kettlehat_c_pl|Kettle Helm
 itm_items_end|Items End
 itm_items_end_pl|Items End

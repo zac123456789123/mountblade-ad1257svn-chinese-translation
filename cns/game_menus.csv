@@ -25,8 +25,8 @@ mno_continue|继 续
 menu_start_game_1|选 择 你 的 角 色 性 别。 
 mno_start_male|男 
 mno_start_female|女 
-mno_enable_quickstart|使 用 快 速 开 始 模 式（ 测 试 专 用） 
-mno_disable_quickstart|关 闭 快 速 开 始 模 式 
+mno_enable_quickstart|使 用 快 速 开 始 模 式（测 试 专 用）
+mno_disable_quickstart|关 闭 快 速 开 始 模 式（测 试 专 用）
 mno_go_back|后 退。 
 menu_start_character_1|当 你 很 多 年 前 出 生 在 一 片 遥 远 的 大 陆 时， 你 的 父 亲 是…… 
 mno_start_noble|一 位 没 落 的 贵 族。 
@@ -297,7 +297,7 @@ menu_oath_fulfilled|你 已 经 发 誓 为 {s1}服 务 一 段 时 间。 你 �
 mno_renew_oath|继 续 向 {s1}发 誓， 再 服 务 一 个 月。 
 mno_dont_renew_oath|恢 复 自 由 身。 
 menu_siege_started_defender|{s1}正 在 攻 击 {s2}的 城 墙。 你 有 {reg10}人 可 以 参 战 对 抗 敌 人 的 {reg11}人。 你 决 定…… 
-mno_dplmc_negotiate_with_besieger|Negotiate with the besieger.{***}
+mno_dplmc_negotiate_with_besieger|与 攻 城 者 谈 判。 
 mno_siege_defender_join_battle|参 加 战 斗。 
 mno_siege_defender_troops_join_battle|坐 镇 指 挥， 让 你 的 部 队 攻 击。 
 menu_siege_join_defense|{s4}^^ 我 军 伤 亡： {s8}^^ 盟 军 伤 亡： {s9}^^ 敌 军 伤 亡： {s10}
@@ -305,9 +305,9 @@ mno_continue|继 续
 menu_enter_your_own_castle|{s10}
 mno_continue|继 续 
 menu_village|{s10}{s12}^{s11}^{s6}{s7}
-mno_auto_sell|Sell items automatically.{***}
-mno_auto_buy_food|Buy food automatically.{***}
-mno_Meet_with_village_elder|Meet with the elder.{***}
+mno_auto_sell|自 动 出 售 物 品。 
+mno_auto_buy_food|自 动 购 买 食 物。 
+mno_Meet_with_village_elder|与 村 庄 长 者 会 面。 
 mno_village_manage|管 理 这 个 村 庄。 
 mno_recruit_volunteers|征 募 志 愿 兵。 
 mno_village_center|前 往 村 中 心。 
@@ -316,7 +316,7 @@ mno_village_buy_food|向 村 民 购 买 给 养。
 mno_village_attack_bandits|进 攻 强 盗。 
 mno_village_wait|在 这 里 待 一 会 儿。 
 mno_dplmc_village_counter_insurgency|Counter the insurgency.{***}
-mno_dplmc_village_negotiate|Begin negotiations.{***}
+mno_dplmc_village_negotiate|开 始 谈 判。 
 mno_collect_taxes_qst|为 {s1}{reg5? 继 续 征 税 : 征 税}。 
 mno_train_peasants_against_bandits_qst|训 练 这 些 农 民。 
 mno_village_hostile_action|做 一 些 带 有 敌 意 的 事 情。 
@@ -328,8 +328,8 @@ mno_village_loot|抢 劫 这 个 村 子， 然 后 把 它 夷 为 平 地！
 mno_forget_it|算 了。 
 menu_recruit_volunteers|{s18}
 mno_continue|继 续 
-mno_recruit_them|收 编 他 们 （ {reg6}第 纳 尔 ）。 
-mno_recruit_one_of_them|Recruit one of them ({reg7} denars).{***}
+mno_recruit_them|收 编 他 们（{reg6}第 纳 尔）。 
+mno_recruit_one_of_them|收 编 其 中 一 名（{reg7}第 纳 尔）。 
 mno_forget_it|算 了。 
 menu_village_hunt_down_fugitive_defeated|这 个 世 界 在 你 眼 前 一 暗。 当 你 再 次 睁 开 眼 睛 的 时 候， 你 意 识 到 自 己 浸 泡 在 自 己 的 鲜 血 里， 但 幸 运 的 是， 你 没 有 一 处 创 伤 是 致 命 的。 
 mno_continue|继 续 
@@ -402,9 +402,9 @@ mno_town_enterprise|去 你 的 {s3}。
 mno_town_enterprise_door|前 往 你 的 产 业。 
 mno_visit_lady|尝 试 拜 访 一 位 女 士。 
 mno_visit_lady_door|花 园 大 门。 
-mno_meet_with_guild_master|Meet with the guild master.{***}
+mno_meet_with_guild_master|与 行 会 会 长 会 面。 
 mno_trade_with_merchants|去 市 场。 
-mno_walled_center_manage|管 理 这 个 {reg0? 城 镇 : 城 堡}。 
+mno_walled_center_manage|管 理 这 个 {reg0?城 镇:城 堡}。 
 mno_walled_center_move_court|移 都 到 这 里。 
 mno_castle_station_troops|管 理 {s10}驻 军 
 mno_castle_wait|在 这 里 休 息 一 会 儿 {s1}。 
@@ -440,8 +440,8 @@ menu_tournament_withdraw_verify|你 确 认 要 从 竞 技 大 会 中 退 出 
 mno_tournament_withdraw_yes|是 的， 这 是 毫 无 希 望 的 努 力。 
 mno_tournament_withdraw_no|不， 只 要 还 有 一 丝 机 会 胜 利！ 
 menu_tournament_bet|现 在 的 比 率 是 {reg5}比 {reg6}。 {reg1? 你 已 经 在 自 己 身 上 下 了 {reg1}第 纳 尔 的 赌 注， 如 果 你 获 得 优 胜 的 话， 你 将 会 赢 得 {reg2}第 纳 尔。 :}你 还 想 再 赌 多 少？ 
-mno_bet_500_denars|500 denars.{***}
-mno_bet_250_denars|250 denars.{***}
+mno_bet_500_denars|500 第 纳 尔。 
+mno_bet_250_denars|250 第 纳 尔。 
 mno_bet_100_denars|100 第 纳 尔。 
 mno_bet_50_denars|50 第 纳 尔。 
 mno_bet_20_denars|20 第 纳 尔。 
@@ -464,7 +464,7 @@ menu_collect_taxes_failed|你 从 {s3}征 收 了 {reg3}第 纳 尔 的 税 款 
 mno_continue|继 续 
 menu_collect_taxes_revolt_warning|{s3}的 人 们 对 你 要 求 的 高 税 款 表 示 强 烈 的 义 愤。 如 果 你 继 续 压 迫 他 们， 他 们 将 准 备 起 来 反 抗。 
 mno_continue_collecting_taxes|依 然 像 以 前 那 样 征 税。 
-mno_halve_taxes|同 意 减 轻 一 半 的 税 款。 （ {s1}也 许 会 不 满 ）。 
+mno_halve_taxes|同 意 减 轻 一 半 的 税 款。 （{s1}也 许 会 不 满 ）。 
 menu_collect_taxes_revolt|当 你 在 {s3}收 取 税 款 的 时 候， 突 然 看 见 一 大 群 愤 怒 的 {reg9? 农 民 : 居 民}已 经 对 你 提 出 的 高 税 款 忍 无 可 忍， 正 挥 舞 着 火 把 和 武 器 逐 渐 向 你 逼 近。 这 是 要 向 你 开 战！ 
 mno_continue|继 续 
 menu_train_peasants_against_bandits|队 员 中 最 高 训 练 技 能 为 {reg2}级， 由 此 {reg3? 你 预 期 :{s1}预 期}需 要 {reg4}小 时 来 进 行 理 论 讲 解， 使 这 些 农 民 变 成 英 勇 的 战 士。 在 这 期 间 他 们 将 会 学 到 战 斗 的 基 本 知 识 以 及 如 何 去 沉 着 冷 静 地 应 对 一 切 战 斗。 
@@ -490,20 +490,20 @@ mno_reembark_no|不。
 menu_center_reports|镇 名： {s1}^ 租 金 收 入： {reg1}第 纳 尔 ^ 税 收： {reg2}第 纳 尔 ^ 食 物 储 备： 供 应 {reg3}日 
 mno_to_price_and_productions|报 告 价 格 与 产 品。 
 mno_go_back_dot|后 退。 
-menu_price_and_production|产 品 有： ^（ 提 示： 基 础 的/ 原 材 料 加 工 而 来 的/ 材 料 加 工 并 加 以 修 饰 的 )^{s1}^^价 格 因 素 有： ^{s2}
+menu_price_and_production|产 品 有： ^（提 示： 基 础 的/ 原 材 料 加 工 而 来 的/ 材 料 加 工 并 加 以 修 饰 的 )^{s1}^^价 格 因 素 有： ^{s2}
 mno_go_back_dot|后 退。 
 menu_town_trade|你 向 市 场 走 去。 
-mno_auto_sell|Sell items automatically.{***}
+mno_auto_sell|自 动 出 售 物 品。 
 mno_assess_prices|估 价。 
 mno_trade_with_arms_merchant|与 武 器 商 人 交 易。 
 mno_trade_with_armor_merchant|与 盔 甲 商 人 交 易。 
 mno_trade_with_horse_merchant|与 马 匹 贩 子 交 易。 
 mno_trade_with_goods_merchant|与 杂 货 商 人 交 易。 
-mno_auto_buy_food|Buy food automatically.{***}
+mno_auto_buy_food|自 动 购 买 食 物。 
 mno_back_to_town_menu|返 回。 
 menu_trade_auto_sell_begin|Items in the inventory of companions which selected as the type for sell and their prices below {reg1} denars will be sold to {reg2?all merchants:the elder} in current {reg2?town:village} automatically. Specifically foods, trade goods and books will never be sold.^^You can change some settings here freely. 
 mno_continue|继 续 
-mno_change_settings|Change settings.{***}
+mno_change_settings|改 变 设 置。 
 mno_go_back|后 退。 
 menu_trade_auto_buy_food_begin|You will buy any food which you don't have for one portion automatically. Do you want to continue?
 mno_continue|继 续 
@@ -663,19 +663,19 @@ mno_appoint_npc13|任 命 {s10}
 mno_appoint_npc14|任 命 {s10}
 mno_appoint_npc15|任 命 {s10}
 mno_appoint_npc16|任 命 {s10}
-mno_appoint_npc17|Appoint {s10}{***}
-mno_appoint_npc18|Appoint {s10}{***}
-mno_appoint_npc20|Appoint {s10}{***}
-mno_appoint_npc22|Appoint {s10}{***}
-mno_appoint_npc23|Appoint {s10}{***}
-mno_appoint_npc24|Appoint {s10}{***}
-mno_appoint_npc25|Appoint {s10}{***}
-mno_appoint_npc26|Appoint {s10}{***}
-mno_appoint_npc27|Appoint {s10}{***}
-mno_appoint_npc28|Appoint {s10}{***}
-mno_appoint_npc29|Appoint {s10}{***}
-mno_appoint_npc30|Appoint {s10}{***}
-mno_appoint_npc31|Appoint {s10}{***}
+mno_appoint_npc17|任 命 {s10}
+mno_appoint_npc18|任 命 {s10}
+mno_appoint_npc20|任 命 {s10}
+mno_appoint_npc22|任 命 {s10}
+mno_appoint_npc23|任 命 {s10}
+mno_appoint_npc24|任 命 {s10}
+mno_appoint_npc25|任 命 {s10}
+mno_appoint_npc26|任 命 {s10}
+mno_appoint_npc27|任 命 {s10}
+mno_appoint_npc28|任 命 {s10}
+mno_appoint_npc29|任 命 {s10}
+mno_appoint_npc30|任 命 {s10}
+mno_appoint_npc31|任 命 {s10}
 mno_appoint_default|任 命 当 地 的 杰 出 人 才。 
 menu_minister_confirm|{s9}正 在 你 {s12}的 大 厅 里。 你 要 时 时 考 虑 避 免 一 些 未 确 定 的， 会 削 弱 你 的 权 力 的 争 议。 
 mno_continue|继 续 
@@ -752,48 +752,48 @@ mno_continue|继 续
 menu_notification_relieved_as_marshal|{s4}想 要 通 知 你 不 再 需 要 你 继 续 担 当 元 帅 之 职 了。 不 过， 在 过 去 的{reg4} 天 里 你 为 了 国 家 的 利 益 表 现 英 勇， 为 了 表 示 对 你 的 敬 意， {reg8?她:他} 赏 赐 给 你{reg5} 第 纳 尔。 
 mno_continue|继 续 
 menu_export_import_npcs|Please choose an NPC, then press key C to view and export/import this character.^^You choose {reg0?{s0}:none}.
-mno_export_import_back|Go back{***}
-mno_export_import_npc1|{s0}{***}
-mno_export_import_npc2|{s0}{***}
-mno_export_import_npc3|{s0}{***}
-mno_export_import_npc4|{s0}{***}
-mno_export_import_npc5|{s0}{***}
-mno_export_import_npc6|{s0}{***}
-mno_export_import_npc7|{s0}{***}
-mno_export_import_npc8|{s0}{***}
-mno_export_import_next|Next page{***}
+mno_export_import_back|后 退 
+mno_export_import_npc1|{s0}
+mno_export_import_npc2|{s0}
+mno_export_import_npc3|{s0}
+mno_export_import_npc4|{s0}
+mno_export_import_npc5|{s0}
+mno_export_import_npc6|{s0}
+mno_export_import_npc7|{s0}
+mno_export_import_npc8|{s0}
+mno_export_import_next|下 一 页 
 menu_export_import_npcs_2|Please choose an NPC, then press key C to view and export/import this character.^^You choose {reg0?{s0}:none}.
-mno_export_import_prev|Previous page{***}
-mno_export_import_npc9|{s0}{***}
-mno_export_import_npc10|{s0}{***}
-mno_export_import_npc11|{s0}{***}
-mno_export_import_npc12|{s0}{***}
-mno_export_import_npc13|{s0}{***}
-mno_export_import_npc14|{s0}{***}
-mno_export_import_npc15|{s0}{***}
-mno_export_import_npc16|{s0}{***}
-mno_export_import_next|Next page{***}
+mno_export_import_prev|上 一 页 
+mno_export_import_npc9|{s0}
+mno_export_import_npc10|{s0}
+mno_export_import_npc11|{s0}
+mno_export_import_npc12|{s0}
+mno_export_import_npc13|{s0}
+mno_export_import_npc14|{s0}
+mno_export_import_npc15|{s0}
+mno_export_import_npc16|{s0}
+mno_export_import_next|下 一 页 
 menu_export_import_npcs_3|Please choose an NPC, then press key C to view and export/import this character.^^You choose {reg0?{s0}:none}.
-mno_export_import_prev|Previous page{***}
-mno_export_import_npc17|{s0}{***}
-mno_export_import_npc18|{s0}{***}
-mno_export_import_npc19|{s0}{***}
-mno_export_import_npc20|{s0}{***}
-mno_export_import_npc21|{s0}{***}
-mno_export_import_npc22|{s0}{***}
-mno_export_import_npc23|{s0}{***}
-mno_export_import_npc24|{s0}{***}
-mno_export_import_next|Next page{***}
+mno_export_import_prev|上 一 页 
+mno_export_import_npc17|{s0}
+mno_export_import_npc18|{s0}
+mno_export_import_npc19|{s0}
+mno_export_import_npc20|{s0}
+mno_export_import_npc21|{s0}
+mno_export_import_npc22|{s0}
+mno_export_import_npc23|{s0}
+mno_export_import_npc24|{s0}
+mno_export_import_next|下 一 页 
 menu_export_import_npcs_4|Please choose an NPC, then press key C to view and export/import this character.^^You choose {reg0?{s0}:none}.
-mno_export_import_prev|Previous page{***}
-mno_export_import_npc25|{s0}{***}
-mno_export_import_npc26|{s0}{***}
-mno_export_import_npc27|{s0}{***}
-mno_export_import_npc28|{s0}{***}
-mno_export_import_npc29|{s0}{***}
-menu_pick_nation|Whom will you serve?
-mno_serve_noone|No-one{***}
-mno_serve_pick|or select{***}
+mno_export_import_prev|上 一 页 
+mno_export_import_npc25|{s0}
+mno_export_import_npc26|{s0}
+mno_export_import_npc27|{s0}
+mno_export_import_npc28|{s0}
+mno_export_import_npc29|{s0}
+menu_pick_nation|你 想 加 入 哪 个 阵 营？ 
+mno_serve_noone|自 己 单 干 
+mno_serve_pick|或 者 选 择 一 个 阵 营… … 
 mno_go_back|后 退。 
 menu_dplmc_notification_alliance_declared|Alliance Agreement^^{s1} and {s2} have formed an alliance!^{s57}
 mno_dplmc_continue|Continue...{***}

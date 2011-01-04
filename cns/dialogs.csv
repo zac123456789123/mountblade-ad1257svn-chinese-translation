@@ -849,7 +849,6 @@ dlga_companion_rejoin_response:companion_rejoin_refused|很 不 幸， 你 现 �
 dlga_companion_rejoin_refused:close_window|如 你 所 愿， 我 先 去 处 理 些 其 他 事 情， 过 一 段 时 间 我 再 来 试 试。 
 dlga_event_triggered:companion_rejoin_response.5|你 希 望 我 重 新 加 入 队 伍 么？ 
 dlga_event_triggered:close_window.2|那 儿！ 我 可 以 看 到 远 处 {s3}的 城 墙。 我 们 安 全 到 达 了 这 里。 这 是 我 承 诺 过 的 {reg3}第 纳 尔。 我 希 望 哪 天 能 再 和 你 结 伴 而 行。 
-dlga_event_triggered:close_window.3|让 我 们 继 续 赶 路 吧。 
 dlga_start:lord_start|尊 敬 的 女 士， 我 是 如 此 期 待 我 们 的 婚 礼， 只 要 举 办 婚 宴 的 时 机 成 熟， 我 们 便 可 结 为 连 理。 {s12}
 dlga_start:lord_start.1|尊 敬 的 女 士， 如 果 你 愿 意 和 我 结 婚， 我 们 可 以 在 {s4}举 行 我 们 的 婚 礼， 当 着 全 王 国 领 主 的 面 交 换 誓 约。 
 dlga_start:lord_start.2|尊 敬 的 女 士， 我 没 有 耐 心 再 等 待 全 王 国 的 领 主 们 集 合 了， 和 我 一 起 去 {s4}交 换 我 们 的 誓 约 吧。 
@@ -1459,7 +1458,6 @@ dlga_lord_marriage_proposal_female_pc_confirm_engagement:lord_marriage_proposal_
 dlga_lord_marriage_proposal_female_pc_confirm_engagement:lord_marriage_proposal_female_pc_confirm_engagement_no|事 实 上， 我 得 再 想 想。 
 dlga_lord_marriage_proposal_female_pc_confirm_engagement_yes:close_window|很 好。 如 果 一 切 顺 利 的 话， 我 们 将 在 一 个 月 以 后 结 婚。 {s12}
 dlga_lord_marriage_proposal_female_pc_confirm_engagement_no:close_window|别 急， 安 心 慢 慢 准 备 吧， 尊 敬 的 女 士。 
-dlga_lord_talk:close_window|我 们 开 战 吧。 {***}
 dlga_lord_talk:party_encounter_lord_hostile_ultimatum_surrender|我 只 说 一 次， {s4}！ 投 降 或 者 去 死！ 
 dlga_party_encounter_lord_hostile_ultimatum_surrender:close_window|{s43}
 dlga_lord_talk:lord_predemand|我 是 来 提 条 件 的！ 

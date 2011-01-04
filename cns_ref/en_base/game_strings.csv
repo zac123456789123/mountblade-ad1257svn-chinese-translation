@@ -423,35 +423,35 @@ str_npc28_intro_response_1|Gamal the Arab - response 1
 str_npc29_intro_response_1|Dragoslav the Serbian - response 1
 str_npc30_intro_response_1|Kyril the Bulgarian - response 1
 str_npc31_intro_response_1|Ali the Berber - response 1
-str_npc1_intro_response_1|Ah, I must have the wrong building....
-str_npc2_intro_response_1|I think I'd rather we stayed strangers...
-str_npc3_intro_response_1|I have no time for that.
-str_npc4_intro_response_1|Erm, sorry friend I'm not a sailor.
-str_npc5_intro_response_1|Ah a crazy person, please excuse me.
-str_npc6_intro_response_1|Sorry I cant afford to spare any denars.
-str_npc7_intro_response_1|Istvan the Hungarian - response 2
-str_npc8_intro_response_1|Yuriy of Novgorod - response 2
-str_npc9_intro_response_1|No thanks, I have all the archers I need.
-str_npc10_intro_response_1|Jean the Frenchman - response 2
-str_npc11_intro_response_1|Jon the Norwegian - response 2
-str_npc12_intro_response_1|Uilleam the Scot - response 2
-str_npc13_intro_response_1|Aedh the Irishman - response 2
-str_npc14_intro_response_1|Karl the Swede - response 2
-str_npc15_intro_response_1|Ivan of Galicia - response 2
-str_npc16_intro_response_1|Sorry, I am afraid that I am otherwise engaged right now.
-str_npc17_intro_response_1|Jaume of Aragon - response 2
-str_npc18_intro_response_1|Fernando the Castillan - response 2
-str_npc20_intro_response_1|Isma'il the Andalusian - response 2
-str_npc22_intro_response_1|Alexios the Greek - response 2
-str_npc23_intro_response_1|Hugues the Crusader - response 2
-str_npc24_intro_response_1|Dego the Sicilian - response 2
-str_npc25_intro_response_1|Sorry, I am busy to busy to listen to another inflated ego bragging, maybe another time.
-str_npc26_intro_response_1|Do I look as though I have time to swap news with a homeless ruffian?
-str_npc27_intro_response_1|Thats not something that should interest you.
-str_npc28_intro_response_1|Gamal the Arab - response 2
-str_npc29_intro_response_1|Dragoslav the Serbian - response 2
-str_npc30_intro_response_1|Kyril the Bulgarian - response 2
-str_npc31_intro_response_1|Ali the Berber - response 2
+str_npc1_intro_response_2|Ah, I must have the wrong building....
+str_npc2_intro_response_2|I think I'd rather we stayed strangers...
+str_npc3_intro_response_2|I have no time for that.
+str_npc4_intro_response_2|Erm, sorry friend I'm not a sailor.
+str_npc5_intro_response_2|Ah a crazy person, please excuse me.
+str_npc6_intro_response_2|Sorry I cant afford to spare any denars.
+str_npc7_intro_response_2|Istvan the Hungarian - response 2
+str_npc8_intro_response_2|Yuriy of Novgorod - response 2
+str_npc9_intro_response_2|No thanks, I have all the archers I need.
+str_npc10_intro_response_2|Jean the Frenchman - response 2
+str_npc11_intro_response_2|Jon the Norwegian - response 2
+str_npc12_intro_response_2|Uilleam the Scot - response 2
+str_npc13_intro_response_2|Aedh the Irishman - response 2
+str_npc14_intro_response_2|Karl the Swede - response 2
+str_npc15_intro_response_2|Ivan of Galicia - response 2
+str_npc16_intro_response_2|Sorry, I am afraid that I am otherwise engaged right now.
+str_npc17_intro_response_2|Jaume of Aragon - response 2
+str_npc18_intro_response_2|Fernando the Castillan - response 2
+str_npc20_intro_response_2|Isma'il the Andalusian - response 2
+str_npc22_intro_response_2|Alexios the Greek - response 2
+str_npc23_intro_response_2|Hugues the Crusader - response 2
+str_npc24_intro_response_2|Dego the Sicilian - response 2
+str_npc25_intro_response_2|Sorry, I am busy to busy to listen to another inflated ego bragging, maybe another time.
+str_npc26_intro_response_2|Do I look as though I have time to swap news with a homeless ruffian?
+str_npc27_intro_response_2|Thats not something that should interest you.
+str_npc28_intro_response_2|Gamal the Arab - response 2
+str_npc29_intro_response_2|Dragoslav the Serbian - response 2
+str_npc30_intro_response_2|Kyril the Bulgarian - response 2
+str_npc31_intro_response_2|Ali the Berber - response 2
 str_npc1_backstory_a|I hope he watches over you better than he is over me currently. Years of service wasted because of a stroke of ill fortune! Or better put a rival with less honour than I.
 str_npc2_backstory_a|The most sad tale of woe and misfortune you ever could here has brought me here today.
 str_npc3_backstory_a|I am Kadan, son of Azabei, grandson of Badzan. Were you not a barbarian, you would likely know from my lineage that I am a Steppe warrior, of the tribe of Shamir, of the clan of Dulam, of the family of Ubayn, and you might be able to guess why I am so far from home.
@@ -3717,4 +3717,4 @@ str_your_kingdoms_religion_is_s11|Your kingdom's religion is {s11}
 str_religion_pagan_mongol|Paganism (Mongol)
 str_horse_archers|Horse Archers
 str_spearmen|Spearmen
-str_revision|170:186M
+str_revision|170:190M
