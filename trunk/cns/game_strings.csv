@@ -482,7 +482,7 @@ str_npc29_backstory_a|Dragoslav the Serbian - backstory a{***}
 str_npc30_backstory_a|Kyril the Bulgarian - backstory a{***}
 str_npc31_backstory_a|Ali the Berber - backstory a{***}
 str_npc1_backstory_b|I was in line for premotion within the order but then my assistant decided to betray me, all because I had shown humanity to a starving heathen village by letting them collect the harvest. For the chance ,only the chance, of my job he betrayed me! Guess he did not like the idea of playing second fiddle to me. Traitor.
-str_npc2_backstory_b|As I am sure you know the pope recently called a crusade against our baltic state, and in order to help to help our people my town decided to send a unit to join the army the King had assembled, I was marching along as happy as lark when the captain calls me out of formation and tells me to go and find some supplies.  So off I go looking for a bite to eat for me and my chums.
+str_npc2_backstory_b|你 肯 定 知 道 最 近 教 皇 召 集 了 十 字 军 进 攻 我 们 波 罗 的 海 国 家， 为 了 帮 助 我 的 同 胞， 我 所 在 的 城 镇 决 定 派 出 一 支 队 伍 加 入 国 王 所 召 集 的 军 队。 我 在 队 伍 中 行 军 快 乐 的 像 个 云 雀， 这 时 队 长 命 令 我 出 列， 去 找 补 给。 所 以 我 就 去 为 我 和 我 的 战 友 们 找 一 点 吃 的。 
 str_npc3_backstory_b|For as long as any one can remember, our people have feuded with the tribe of Humyan, many of whom have settled in the next valley over. Many men have died in this feud, on both sides, including two of my brothers. The Khan himself has ordered us to cease, to save men for the wars in the west. But I know my rights, and my brothers' blood cries out for vengeance. I waylaid and killed a Humyan on a track over the mountains, and I rode out of our village the same night, without even having had the chance to bid farewell to my father. I will bide my time in this land, for a year or two, then return home when the Khan's men have forgotten. The Humyan will not forget, of course, but such is the price of honour.
 str_npc4_backstory_b|Been a Dane in the fashion of forfathers I was rather looking forward to the adventure and any rough and tumble that may of gone along with it. Anyhow we did not get far before the problems started we'd just left port, 2 days ago or so, when suddenly a storm struck! I of course blamed the captain for not respecting the old gods with a sacrifice before the trip, old land means old gods!
 str_npc5_backstory_b|我 是 一 个 天 生 的 战 士， 出 生 前 就 注 定 要 成 为 伟 大 的 人。 勇 敢 战 士 的 传 统 缔 造 了 我 伟 大 的 祖 国， 波 兰。 而 我， 也 一 样， 会 用 毕 生 时 间 成 为 战 场 上 的 大 师。 
@@ -511,8 +511,8 @@ str_npc29_backstory_b|Dragoslav the Serbian - backstory b{***}
 str_npc30_backstory_b|Kyril the Bulgarian - backstory b{***}
 str_npc31_backstory_b|Ali the Berber - backstory b{***}
 str_npc1_backstory_c|And now as you can see instead of commanding armies and destroying the enemies of god, I am sat here in a common tavern!
-str_npc2_backstory_c|When I came back to my unit, well there was no more unit just thousand upon thousand of hoofprints and alot of dead mates.  Now I dare not not go home for fear of the looks of betrayal I would get in my town.
-str_npc3_backstory_c|In the meantime, any opportunities to earn a living with my sword would be most welcome.
+str_npc2_backstory_c|当 我 回 到 部 队 时， 额， 其 实 那 时 已 经 没 有 部 队 了， 只 有 成 千 上 万 的 蹄 印 和 很 多 尸 体。 现 在 我 不 敢 回 家 ， 因 为 怕 被 看 成 逃 兵， 我 想 回 到 我 的 城 镇。 {***}
+str_npc3_backstory_c|在 此 期 间， 能 用 我 剑 赚 钱 谋 生 的 机 会， 我 都 是 很 欢迎 的。 
 str_npc4_backstory_c|The captain of the vessel then decided to honour the old gods as I had been demanding, and threw me overboard as a sacrifice. I pass out and next thing im washed up penniless on the coastline.
 str_npc5_backstory_c|总 有 一 天， 我 会 找 到 一 位 赏 识 我 能 力 的 君 主， 并 成 为 他 的 封 臣。 我 会 得 到 封 地， 以 贵 族 的 身 份 统 治 我 的 土 地， 并 创 造 流 芳 后 世 的 传 奇。 
 str_npc6_backstory_c|在 失 去 父 亲 之 后， 我 回 到 母 亲 身 边， 使 用 那 些 父 亲 传 授 的 建 筑 技 能 谋 生。 在 城 堡 坍 塌 后， 我 还 从 熟 练 的 医 生 那 学 到 了 一 些 医 术， 现 在 用 来 帮 助 我 所 服 务 的 军 队 对 抗 土 匪。  
@@ -540,8 +540,8 @@ str_npc29_backstory_c|Dragoslav the Serbian - backstory c{***}
 str_npc30_backstory_c|Kyril the Bulgarian - backstory c{***}
 str_npc31_backstory_c|Ali the Berber - backstory c{***}
 str_npc1_backstory_later|My purse which was once overflowing with denars is now boarding on empty. The order was all I had, all I had ever wanted....
-str_npc2_backstory_later|There is no future in been a single survior of a defeat.....   Now I'm unsure what to do with myself to be honest.
-str_npc3_backstory_later|I've been wandering through this war-torn land, looking for a leader who is worth following.
+str_npc2_backstory_later|作 为 战 败 军 队 的 一 个 幸 存 者， 已 经 没 有 前 途 了。 老 实 说 我 不 知 道 下 一 步 该 做 什 么。 
+str_npc3_backstory_later|我 在 这 块 饱 受 战 争 蹂 躏 的 土 地 上 游 荡， 只  为 寻 找 一 个 值 得 跟 随 的 领 袖。 
 str_npc4_backstory_later|Now I'm sat here in this tavern wondering how to get home, and how to explain to my family that I'm a rejected sacrifice. Not exactly the pot of gold success story I was hoping for, as I'm sure you can imagine.
 str_npc5_backstory_later|I have not yet found a commander worthy of hearing my axe blade sing its deathly melody.
 str_npc6_backstory_later|This morning my mother died and now my life appears to be without a real purpose anymore.  All my family is dead, and my friends long left behind when I moved back to support my mother here.
@@ -569,8 +569,8 @@ str_npc29_backstory_later|Dragoslav the Serbian - backstory b{***}
 str_npc30_backstory_later|Kyril the Bulgarian - backstory b{***}
 str_npc31_backstory_later|Ali the Berber - backstory b{***}
 str_npc1_backstory_response_1|Ulrich perhaps there would be an opening for a experienced warrior such as yourself within my forces. If your interested that is?
-str_npc2_backstory_response_1|Would you like to work for me while you think things over?
-str_npc3_backstory_response_1|That's the spirit! I might be able to offer you something.
+str_npc2_backstory_response_1|在 你 思 考 下 一 步 怎 么 做 之 前， 你 在 我 这 干 吧， 怎 么 样？
+str_npc3_backstory_response_1|要 的 就 是 这 种 气 概！ 我 也 许 能 提 供 给 你 点 什 么。 {***}
 str_npc4_backstory_response_1|A Northman with the bloodlust eh? Well there could be a place for you in our band.
 str_npc5_backstory_response_1|I run a mercenary company, and I could certainly use somebody like you.
 str_npc6_backstory_response_1|I could use a man with your talents within my band if you would to try your hand at real healing and fighting.  Perhaps one day you could even have a chance to use those skills your father taught you.
@@ -598,8 +598,8 @@ str_npc29_backstory_response_1|Dragoslav the Serbian - backstory response 1{***}
 str_npc30_backstory_response_1|Kyril the Bulgarian - backstory response 1{***}
 str_npc31_backstory_response_1|Ali the Berber - backstory response 1{***}
 str_npc1_backstory_response_2|Ah, well I am sorry to hear of your situation, but I do not want to risk the anger of the Teutonic Order.
-str_npc2_backstory_response_2|Ah I'm not sure there is a spot in my ranks for a coward.  Goodbye.
-str_npc3_backstory_response_2|Sigh.. So long as you hill clans fight tribe against tribe, you will remain a people with untapped potential, sad really.
+str_npc2_backstory_response_2|我 认 为 我 的 队 伍 里 没 有 懦 夫 的 位 置。 再 见。 
+str_npc3_backstory_response_2|哎， 只 要 你 山 里 的 族 人 还 在 进 行 部 落 间 的 战 争， 你 们 潜 力 就 无 法 发 挥， 这 真 的 很 悲 伤。 
 str_npc4_backstory_response_2|I'm not so sure that I am in a position to accept someone even the gods dont want at their side.
 str_npc5_backstory_response_2|Good luck in your search.  I'm afraid I can't help you.
 str_npc6_backstory_response_2|Go back to your mothers house and keep serving your community boy.  The world needs everyday hereos also.
@@ -619,9 +619,9 @@ str_npc20_backstory_response_2|Isma'il the Andalusian - backstory response 2{***
 str_npc22_backstory_response_2|Alexios the Greek - backstory response 2{***}
 str_npc23_backstory_response_2|Hugues the Crusader - backstory response 2{***}
 str_npc24_backstory_response_2|Dego the Sicilian - backstory response 2{***}
-str_npc25_backstory_response_2|No, sorry. Nothing I can do for you.{***}
+str_npc25_backstory_response_2|对 不 起， 我 帮 不 了 你。 
 str_npc26_backstory_response_2|You seem to carry an unlucky mark with you friend better we part ways here.{***}
-str_npc27_backstory_response_2|Do not worry I am sure you will get an offer of work soon.{***}
+str_npc27_backstory_response_2|别 担 心， 你 肯 定 能 很 快 找 到 一 份 工 作 的。 
 str_npc28_backstory_response_2|Gamal the Arab - backstory response 2{***}
 str_npc29_backstory_response_2|Dragoslav the Serbian - backstory response 2{***}
 str_npc30_backstory_response_2|Kyril the Bulgarian - backstory response 2{***}
@@ -642,7 +642,7 @@ str_npc12_signup|Uilleam the Scot - signup
 str_npc13_signup|Aedh the Irishman - signup
 str_npc14_signup|Karl the Swede - signup
 str_npc15_signup|Ivan of Galicia - signup
-str_npc16_signup|As a soldier?  Hmm...  Well, that certainly is a change, and I do embrace change.  I have skills as a healer that I learned in the monastery.  I've no great experience as a warrior, but I do believe I can tend to your wounded.作为一个军人？嗯...嗯，这当然是一种变化，我也接受改变。我在修道院学会了治疗技能。虽然我没有当战士的经验，但我能为你们治疗伤口。
+str_npc16_signup|作 为 一 个 军 人？ 嗯... 嗯， 这 当 然 是 一 种 变 化， 我 也 接 受 改 变。 我 在 修 道 院 学 会 了 治 疗 技 能。 虽 然 我 没 有 当 战 士 的 经 验， 但 我 能 为 你 们 治 疗 伤 口。
 str_npc17_signup|Jaume of Aragon - signup{***}
 str_npc18_signup|Fernando the Castillan - signup{***}
 str_npc20_signup|Isma'il the Andalusian - signup{***}
@@ -933,7 +933,7 @@ str_npc30_personalityclash2_speech|Kyril the Bulgarian - personalityclash2 speec
 str_npc31_personalityclash2_speech|Ali the Berber - personalityclash2 speech{***}
 str_npc1_personalityclash2_speech_b|I request most urgently that you take him to one side and explain that lies and false rummors he heard from his 2nd cousin are no grounds for spreading falsehoods. Or better have him strung up from the nearest tree for his crimes.
 str_npc2_personalityclash2_speech_b|Ligeikis the Balt - personalityclash2 speech b
-str_npc3_personalityclash2_speech_b|When the loot was piled up after the last battle, I found among the enemy's baggage a very decent cooking pot. Often I had wished to find such a pot, so I could boil some of the stews that my people use to warm their bellies during the winter months. But {s11} grabs the pot, and tells me that I will not be allowed to 'taint' it with heathen food, and that it should properly belong to him. I yielded the pot to him, but I will not tolerate such disrespect in the future.
+str_npc3_personalityclash2_speech_b|上 次 战 斗 之 后， 在 成 堆 的 战 利 品 里， 我 从 敌 人 的 行 李 中 发 现 了 一 个 非 常 好 的 锅。 我 一 直 希 望 弄 到 一 个 好 锅 ， 这 样 我 就 能 炖 些 吃 的 ，我 的 族 人 在 冬 天 经 常 这 样 暖 暖 自 己 的 肚 子。 但 是 {s11} 抢 走 了 锅， 他 告 诉 我， 我 不 能 用 异 教 徒 的 食 物 糟 蹋 了 这 锅， 这 锅 理 所 当 然 是 属 于 他 的。 虽 然 我 把 锅 让 给 了 他， 但 以 后， 我 决 不 允 许 再 出 现 这 种 不 尊 重 我 的 事 情 了。 
 str_npc4_personalityclash2_speech_b|If he the slightest sense of decency he would not be commiting such horrible acts. Jarl you must stop him from ruining your reputation, having a fierce army is one thing butchering the wounded poor is another thing.
 str_npc5_personalityclash2_speech_b|Bolko the Pole - personalityclash2 speech b
 str_npc6_personalityclash2_speech_b|I would beg of you {先 生/女 士}, that you would speak with him and tell him that his attitude to my religious observences is none of his concern.
@@ -960,8 +960,8 @@ str_npc29_personalityclash2_speech_b|Dragoslav the Serbian - personalityclash2 s
 str_npc30_personalityclash2_speech_b|Kyril the Bulgarian - personalityclash2 speech b{***}
 str_npc31_personalityclash2_speech_b|Ali the Berber - personalityclash2 speech b{***}
 str_npc1_personalitymatch_speech|{s11} and I are both shunned by our orders and unlikely though it may seem, a Order Knight and a womenising ex-monk, we have become firm friends.
-str_npc2_personalitymatch_speech|War is a terrible and a great thing, it provides a chance for people to get rich quick or get dead even quicker, {s11}, knows this also.
-str_npc3_personalitymatch_speech|That was a fine battle! {s11} is a good man to have by our side in a fight.
+str_npc2_personalitymatch_speech|战 争 是 一 件 极 可 怕 又 伟 大 的 事。 它 能 让 人 有 机 会 很 快 变 富， 也 能 让 人 甚 至 更 快 变 成 尸 体。 {s11}， 也知道这个。 
+str_npc3_personalitymatch_speech|这 仗 打 的 不 错！ 战 斗 中 能 有 {s11} 在 我 们 这 边 真 是 太 棒 了。 
 str_npc4_personalitymatch_speech|{s11}, is always regaling us with his tales of the wonderful plains of his homeland, and its plentiful bounties, wide plains were horses as fast as the wind.
 str_npc5_personalitymatch_speech|Bolko the Pole - personalitymatch speech
 str_npc6_personalitymatch_speech|{先 生/女 士} I must profess to having a certain amount of respect for {s11} as given his sad circumstances he is ever looking towards the future.
@@ -989,8 +989,8 @@ str_npc29_personalitymatch_speech|Dragoslav the Serbian - personalitymatch speec
 str_npc30_personalitymatch_speech|Kyril the Bulgarian - personalitymatch speech{***}
 str_npc31_personalitymatch_speech|Ali the Berber - personalitymatch speech{***}
 str_npc1_personalitymatch_speech_b|Perhaps because he knows the torment I suffer of been away from my Order.  We have both been rejected although I am with hope of redemption and him without.  God shall see his good heart and welcome him back into his grace one day.
-str_npc2_personalitymatch_speech_b|He because of this knowledge always ensures that he lives life to the full because of it,making him a wonderful camp companion and a trustworthy battle companion.
-str_npc3_personalitymatch_speech_b|As for his other attributes, I question this fine warrior tradition he speaks of, but I have to admire the brazen way he makes that claim.
+str_npc2_personalitymatch_speech_b|因 为 他 的 知 识， 他 总 能 让 自 己 活 得 很 充 实。 所 以 这 让 他成 为 了 一 个 很 棒 的 野 营 伙 伴 (camp companion)， 一 个 值 得 信 任 的 战 斗 伙 伴。 
+str_npc3_personalitymatch_speech_b|至于他的其他方面，我质疑他那所谓的战士的优秀传统。不过我不得不佩服他说起自己主张时的厚颜无耻。
 str_npc4_personalitymatch_speech_b|However much of this he makes up he never fails to cheer me up with his eternal cheerfulness and love of life.  Infact he almost makes me want to give up my heritage and find a yurt somewhere.
 str_npc5_personalitymatch_speech_b|Bolko the Pole - personalitymatch speech b
 str_npc6_personalitymatch_speech_b|indeed {先 生/女 士}, I feel his attitude is uplifting the morale of the whole party.
@@ -1019,7 +1019,7 @@ str_npc30_personalitymatch_speech_b|Kyril the Bulgarian - personalitymatch speec
 str_npc31_personalitymatch_speech_b|Ali the Berber - personalitymatch speech b{***}
 str_npc1_retirement_speech|Noble Lord I have decided now is the time has come were I would like to attempt to rejoin my most holy order. I hope you are understanding to my wishes and allow me to leave without any trouble.
 str_npc2_retirement_speech|Ligeikis the Balt - retirement speech
-str_npc3_retirement_speech|Since I have taken your salt, I have fought for you fiercely, and loyally. But you have not always repayed my service with the kind of leadership that I deserve. So I am going home, in the hope that the Khan's men have forgotten me, to see my father and brothers again.
+str_npc3_retirement_speech|自 从 我 接 受 了 你 的 盐， 我 一 直 为 你 勇 猛、 忠 心 地 作 战。 但 你 却 没 能 用 你 应 有 的 领 导 来 报 偿 我 的 效 忠。 所 以 我 要 回 家 了， 去 看 我 的 父 亲 和 兄 弟， 希 望 Khan 的 人 已 经 忘 记 了 我。 
 str_npc4_retirement_speech|Well, Jarl, I've done well under your orders and I feel now is the time to head home.I have put enough money to one side to be able to afford a small homestead back in my village. Will be interesting seeing old friends again.
 str_npc5_retirement_speech|Bolko the Pole - retirement speech
 str_npc6_retirement_speech|{先 生/女 士} I have decided to retire myself from the military life and return to my roots.  I wish to follow in the footsteps of my father and bring myself to high prominence as a master builder.  I hope you understand the desire of the son to emulate the father.
@@ -1048,7 +1048,7 @@ str_npc30_retirement_speech|Kyril the Bulgarian - retirement speech{***}
 str_npc31_retirement_speech|Ali the Berber - retirement speech{***}
 str_npc1_rehire_speech|Well sir, I arrived back at my Orders headquarters they,the grandmasters, declined to even see me nevermind listen to my pleas. Since then sir I have been once again rolling around from tavern to tavern looking once again for a company of brave warriors who could want some Help. Would you take me back under your command sir?
 str_npc2_rehire_speech|Ligeikis the Balt - rehire speech
-str_npc3_rehire_speech|Your fame grows ever greater -- even as far as my homeland, beyond the mountains. I'd returned there, hoping that the Khan's men had forgotten. Well, they had not -- even before I set foot in my valley, I had word from my family that both the Khan and the Humyan were looking for me. So I came back again, hoping you might forget any harsh words I had spoken, to see if I could fight with you once again.
+str_npc3_rehire_speech|你 的 名 声 真 大， 甚 至 已 经 越 过 了 高 山 到 了 我 的 家 乡。 我 本 想 回 家， 寄 希 望 于 Khan 的 人 忘 了 我。 可 他 们 没 有， 我 还 没 踏 进 我 的 村 庄， 我 家 里 人 就 给 我 传 话， 说 Khan 和 Humyan 正 在 找 我。 所 以 我 又 回 来 了， 看 看 有 没 有 机 会 再 同 你 一 起 战 斗。 希 望 你 已 经 忘 记 了 我 说 过 的 那 些 冒 犯 的 话。
 str_npc4_rehire_speech|Jarl! Wonderful to see you again. Nothing but trouble since I left you, got attacked several times on the way home, which cost me several expensive horses, then when I got back my old freinds were so jealous of my wealth meager as it was, they tied me up and threw me back out of the village minus my belongings, so once again I'm at your mercy. Looking for a beserker again Jarl?
 str_npc5_rehire_speech|Bolko the Pole - rehire speech
 str_npc6_rehire_speech|Hello again {先 生/女 士}.  Am I pleased to see your face again.  My dreams to be a master builder like my father is in ruins, the project I was involved has hit the wall, bankrupt, and to make matters worse the lord I was building for said I stole money from the project...So again I am sat in a tavern contemplating my future, and your face shows up.  Any chance of another term of employment?
@@ -1077,10 +1077,10 @@ str_npc30_rehire_speech|Kyril the Bulgarian - rehire speech{***}
 str_npc31_rehire_speech|Ali the Berber - rehire speech{***}
 str_npc1_home_intro|Sir, we are passing close to the lands I used to control for the Order.
 str_npc2_home_intro|Ligeikis the Balt - home intro
-str_npc3_home_intro|We are nearing Sarai, largest town in the lower steppe. My mother's sister went here to marry a townsman and I thought to seek service with the lord here. That is when I ran into you.
-str_npc4_home_intro|Can you smell it sir?  Thats the smell of the sea we must be close to my old town.
+str_npc3_home_intro|我 们 快 到 萨 莱 了。 那 是 低 地 草 原 上 最 大 的 城 市。 我 的 姨 妈 来 这 嫁 给 了 一 个 城 里 人。 那 会 我 就 想 找 一 个 大 人 效 忠， 就 是 那 时 我 遇 见 了 你。 
+str_npc4_home_intro|长 官， 你 能 闻 到 吗？ 那 是 海 的 味 道， 我 们 肯 定 在 我 家 那 座 古 老 城 镇 附 近。
 str_npc5_home_intro|Bolko the Pole - home intro
-str_npc6_home_intro|We are close to my home town I can smell the difference in the air here.
+str_npc6_home_intro|我 们 快 到 我 的 家 乡 了。 我 能 闻 出 这 里 空 气 不 一 样 的 味 道。 
 str_npc7_home_intro|Istvan the Hungarian - home intro
 str_npc8_home_intro|Yuriy of Novgorod - home intro
 str_npc9_home_intro|We're approaching      .  My old home is not far from here.
@@ -1106,7 +1106,7 @@ str_npc30_home_intro|Kyril the Bulgarian - home intro{***}
 str_npc31_home_intro|Ali the Berber - home intro{***}
 str_npc1_home_description|There is nothing quite like the long winter nights one gets in this part of the land.  It really lets you enjoy those small things in life. A good fire and a warm bed.
 str_npc2_home_description|Ligeikis the Balt - home description
-str_npc3_home_description|Horsemen had always come here, to trade and raid.  But when the Great Horde was united in my grandfather's day, we moved into this region in force. We pushed the Rus back, and made their fortresses our own.
+str_npc3_home_description|游 牧 民 族 总 来 这 里， 不 是 交 易 就 是 抢 劫。 但 在 我 祖 父 那 时， 大 部 落 统 一 了， 我 们 便 通 过 武 力 移 居 到 了 这 里。 我 们 赶 走 了 罗 斯 人， 并 占 用 了 他 们 的 堡 垒。 
 str_npc4_home_description|We used to sit around watching the ocean gentle rythme wondering if there was such a thing as fish can smash your boat in 1 bite, or if dragons really exist, once infact a friend of mine came back from a trip to Greenland and had claimed to have seen a one eyed race of men!  Can you believe it.
 str_npc5_home_description|Bolko the Pole - home description
 str_npc6_home_description|When you see the great town of Stuttgart you see most of the buildings that my father had built in his life.  It is a wonder to see how men can transform what is empty land into stone mountains,  the abilities of the engineers who create these structures seem to know no limits.
@@ -1135,7 +1135,7 @@ str_npc30_home_description|Kyril the Bulgarian - home description{***}
 str_npc31_home_description|Ali the Berber - home description{***}
 str_npc1_home_description_2|I know that if I am ever allowed to return to this most blessed part of the world I will never again complain of the cold, or look upon the long winter nights with distain again.  I am hopeful Sir that one day I will be allowed to return back to the fold.
 str_npc2_home_description_2|Ligeikis the Balt - home description 2
-str_npc3_home_description_2|Of course, you know how things go. My father's generation were hard warriors from the cold lands across the mountains, but this generation all has houses in the town and great estates and spend time as much trading as they do practicing archery. The next generation will grow soft on wine and will lose their lands to the next batch of warriors to come over the mountains, just you watch. The Great Khan will not be able to keep his empire together forever.
+str_npc3_home_description_2|当 然， 你 知 道 事 情 会 怎 么 发 展 的。 我 父 亲 那 一 带 都 是 成 长 在 大 山 那 边 寒 冷 土 地 的 勇 猛 战 士。 但 到 我 这 一 代 却 都 在 城 里 拥 有 房 子 和 地 产， 我 们 用 在 做 生 意  的 时 间 和 练 习 射 箭 的  一 样 多。 等 到 下 一 代，人 被 酒 变 得 更 软 弱， 那 时 他 们 肯 定 会 被 另 一 批 山 那 边 来 的 战 士 从 自 己 的 土 地 上 赶 走。 走 着 瞧 吧， 大 汗 没 有 办 法 永 远 让 帝 国 统 一。 
 str_npc4_home_description_2|Anyhow Jarl, if you ever find yourself wanting for a good conversation, or a fanciful tale of northern legends my town is the perfect place.  Myth legend and reality seem to combine into one in Scandinavia, which is why we are the most fearless and open people in the world.
 str_npc5_home_description_2|Bolko the Pole - home description 2
 str_npc6_home_description_2|Perhaps we should visit there one day together I should know at least 4 tavern owners in the city by now if they have taken the more tradional father, son career path that I have spurned in order to serve with you.
@@ -1164,8 +1164,8 @@ str_npc30_home_description_2|Kyril the Bulgarian - home description 2{***}
 str_npc31_home_description_2|Ali the Berber - home description 2{***}
 str_npc1_home_recap|I am a disgraced Teutonic Order Knight, in search of redemption.
 str_npc2_home_recap|Ligeikis the Balt - home recap
-str_npc3_home_recap|I was born in the high steppes on the other side of the mountains, past the great forests, but I have relatives in {s21}.
-str_npc4_home_recap|I am a Dane, who was thrown overboard from my ship to make the gods happy.
+str_npc3_home_recap|越 过 大 森 林， 山 的 另 一 边 是 高 原， 我 就 在 那 里 出 生。 不 过 我 也 有 亲 戚 在 {s21}。 
+str_npc4_home_recap|我 是 一 个 丹 麦 人， 为 了 取 悦 神， 我 被 从 船 上 了 下 去。 
 str_npc5_home_recap|Bolko the Pole - home recap
 str_npc6_home_recap|我 的 父 亲， 一 个 建 筑 大 师， 还 有 我 的 母 亲， 在 我 18岁 以 前 都 去 世 了。 
 str_npc7_home_recap|Istvan the Hungarian - home recap
