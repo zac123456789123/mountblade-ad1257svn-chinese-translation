@@ -512,7 +512,7 @@ str_npc30_backstory_b|Kyril the Bulgarian - backstory b{***}
 str_npc31_backstory_b|Ali the Berber - backstory b{***}
 str_npc1_backstory_c|And now as you can see instead of commanding armies and destroying the enemies of god, I am sat here in a common tavern!
 str_npc2_backstory_c|当 我 回 到 部 队 时， 额， 其 实 那 时 已 经 没 有 部 队 了， 只 有 成 千 上 万 的 蹄 印 和 很 多 尸 体。 现 在 我 不 敢 回 家 ， 因 为 怕 被 看 成 逃 兵， 我 想 回 到 我 的 城 镇。 {***}
-str_npc3_backstory_c|在 此 期 间， 能 用 我 剑 赚 钱 谋 生 的 机 会， 我 都 是 很 欢迎 的。 
+str_npc3_backstory_c|在 此 期 间， 能 用 我 剑 赚 钱 谋 生 的 机 会， 我 都 是 很 欢 迎 的。 
 str_npc4_backstory_c|The captain of the vessel then decided to honour the old gods as I had been demanding, and threw me overboard as a sacrifice. I pass out and next thing im washed up penniless on the coastline.
 str_npc5_backstory_c|总 有 一 天， 我 会 找 到 一 位 赏 识 我 能 力 的 君 主， 并 成 为 他 的 封 臣。 我 会 得 到 封 地， 以 贵 族 的 身 份 统 治 我 的 土 地， 并 创 造 流 芳 后 世 的 传 奇。 
 str_npc6_backstory_c|在 失 去 父 亲 之 后， 我 回 到 母 亲 身 边， 使 用 那 些 父 亲 传 授 的 建 筑 技 能 谋 生。 在 城 堡 坍 塌 后， 我 还 从 熟 练 的 医 生 那 学 到 了 一 些 医 术， 现 在 用 来 帮 助 我 所 服 务 的 军 队 对 抗 土 匪。  
@@ -990,7 +990,7 @@ str_npc30_personalitymatch_speech|Kyril the Bulgarian - personalitymatch speech{
 str_npc31_personalitymatch_speech|Ali the Berber - personalitymatch speech{***}
 str_npc1_personalitymatch_speech_b|Perhaps because he knows the torment I suffer of been away from my Order.  We have both been rejected although I am with hope of redemption and him without.  God shall see his good heart and welcome him back into his grace one day.
 str_npc2_personalitymatch_speech_b|因 为 他 的 知 识， 他 总 能 让 自 己 活 得 很 充 实。 所 以 这 让 他成 为 了 一 个 很 棒 的 野 营 伙 伴 (camp companion)， 一 个 值 得 信 任 的 战 斗 伙 伴。 
-str_npc3_personalitymatch_speech_b|至于他的其他方面，我质疑他那所谓的战士的优秀传统。不过我不得不佩服他说起自己主张时的厚颜无耻。
+str_npc3_personalitymatch_speech_b|至 于 他 的 其 他 方 面， 我 质 疑 他 那 所 谓 的 战 士 的 优 秀 传 统。 不 过 我 不 得 不 佩 服 他 说 起 自 己 主 张 时 的 厚 颜 无 耻。 
 str_npc4_personalitymatch_speech_b|However much of this he makes up he never fails to cheer me up with his eternal cheerfulness and love of life.  Infact he almost makes me want to give up my heritage and find a yurt somewhere.
 str_npc5_personalitymatch_speech_b|Bolko the Pole - personalitymatch speech b
 str_npc6_personalitymatch_speech_b|indeed {先 生/女 士}, I feel his attitude is uplifting the morale of the whole party.
