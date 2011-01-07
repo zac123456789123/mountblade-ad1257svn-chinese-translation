@@ -39,7 +39,7 @@ dlga_start:fighter_combat_try_again.1|嘿， 这 场 对 战 真 不 赖， 你 
 dlga_start:fighter_talk.2|很 好。 你 已 经 学 会 怎 样 自 如 地 从 任 何 方 向 进 攻 了。 如 果 你 愿 意 我 们 可 以 再 试 一 次 ， 或 者 去 进 行 另 一 个 难 一 点 的 训 练。 
 dlga_start:archer_challenge_2|不 错， 相 当 不 错！ 你 似 乎 已 经 抓 住 箭 术 的 要 领 了。 接 下 来， 试 试 用 弩 来 射 击 吧。 拿 着 这 把 弩， 以 及 放 在 那 边 的 弩 箭， 射 那 三 个 靶 子。 弩 比 弓 更 容 易 掌 握， 不 过 每 一 次 射 击 之 后 需 要 重 新 上 弦。 
 dlga_start:archer_challenge_2.1|很 好。 你 对 弩 的 使 用 也 没 什 么 太 大 的 问 题。 接 下 来 你 要 学 习 如 何 使 用 投 掷 武 器。 拿 上 那 边 的 标 枪， 对 着 那 三 个 靶 子 投 掷。 
-dlga_start:ranged_end|好， 你 已 经 掌 握 了 使 用 三 种 远 程 武 器 的 基 本 技 能， 剩 下 的 就 是 练 习 了， 日 复 一 日 地 练 习， 总 有 一 天 你 会 跟 卡 拉 迪 亚 最 棒 的 神 射 手 一 样 厉 害。 
+dlga_start:ranged_end|好， 你 已 经 掌 握 了 使 用 三 种 远 程 武 器 的 基 本 技 能， 剩 下 的 就 是 练 习 了， 日 复 一 日 地 练 习， 总 有 一 天 你 会 跟 世 界 上 最 棒 的 神 射 手 一 样 厉 害。 
 dlga_ranged_end:close_window|现 在， 如 果 你 还 没 跟 格 斗 士 们 和 骑 术 教 练 见 过 面 的 话， 那 么 去 跟 他 们 谈 谈。 他 们 也 能 教 给 你 一 些 重 要 的 技 能。 
 dlga_start:archer_talk|你 好 啊， 年 轻 人。 我 整 天 都 在 这 里 教 那 些 愿 意 学 习 的 人 怎 么 使 用 远 程 武 器。 如 果 你 需 要 指 导， 只 管 来 找 我， 我 会 教 你 怎 么 使 用 弓， 弩 和 标 枪。 
 dlga_archer_talk:archer_challenge|好 的， 教 我 怎 么 使 用 远 程 武 器 吧。 
@@ -199,7 +199,7 @@ dlga_pretender_quit_rebel_confirm_2:supported_pretender_pretalk|开 个 玩 笑 
 dlga_pretender_quit_rebel_confirm_3:pretender_quit_rebel_confirm_4|你 非 常 确 定 么？ 我 永 远 不 会 原 谅 你 如 果 你 现 在 背 弃 我。 
 dlga_pretender_quit_rebel_confirm_4:pretender_quit_rebel|我 确 定。 
 dlga_pretender_quit_rebel_confirm_4:supported_pretender_pretalk|让 我 再 想 想。 
-dlga_pretender_quit_rebel:close_window|那 就 这 样 吧， 我 的 大 业 就 此 破 灭 了。 除 了 离 开 卡 拉 迪 亚 并 且 永 远 不 再 回 来， 我 已 别 无 选 择 了。 等 我 走 了， 你 也 许 可 以 试 着 与 {s4}谈 和。 
+dlga_pretender_quit_rebel:close_window|那 就 这 样 吧， 我 的 大 业 就 此 破 灭 了。 除 了 离 开 这 里 并 且 永 远 不 再 回 来， 我 已 别 无 选 择 了。 等 我 走 了， 你 也 许 可 以 试 着 与 {s4}谈 和。 
 dlga_supported_pretender_talk:supported_pretender_equip|{reg65?尊 敬 的 女 士:我 的 大 人}， 可 以 允 许 我 看 看 你 的 装 备 么？ 
 dlga_supported_pretender_equip:supported_pretender_pretalk|好 的， 全 部 都 在 这 了。 
 dlga_supported_pretender_talk:pretneder_view_char_requested|如 果 你 乐 意 的 话， 能 告 诉 我 你 都 会 些 什 么 吗？ 
@@ -270,12 +270,12 @@ dlga_rescue_prisoner_succeed_2:lord_pretalk|随 时 为 你 效 劳， {s65}。
 dlga_start_up_quest_1_next:close_window|你 还 好 吗？ 好…… 我 想 你 至 少 还 活 着。 我 不 确 信 别 的 家 伙 是 不 是 也 像 你 一 样。 少 了 一 个 在 晚 上 让 我 们 的 街 道 不 得 安 宁 的 贼 了， 尽 管 天 知 道 他 是 不 是 最 后 一 个…… 总 之， 也 许 你 可 以 帮 我 做 些 事 情。 让 我 们 悄 悄 地 商 量 一 下。 走 吧， 小 心 隔 墙 有 耳。 
 dlga_start:merchant_quest_2a|干 得 好。 你 雇 了 足 够 的 人 手 去 对 付 那 些 强 盗。 现 在— — 去 过 {s9}的 旅 行 者 已 经 告 诉 我 们 那 里 有 一 小 群 盗 贼 潜 伏 在 镇 子 外 面。 我 怀 疑 他 们 就 是 绑 架 了 我 兄 弟 的 那 一 伙 的。 追 踪 并 打 败 他 们， 然 后 找 到 他 们 的 老 巢！ 
 dlga_start:merchant_quest_3a|那 么， 你 已 经 找 到 他 们 把 我 的 兄 弟 藏 在 哪 里 了？ 干 得 好。 我 看 人 从 不 走 眼， 而 你 看 上 去 是 完 成 这 项 任 务 的 合 适 人 选。 现 在， 去 把 他 从 卑 鄙 的 藏 匿 中 拯 救 出 来 吧！ 
-dlga_start:merchant_quest_3b|好 吧…… 我 的 兄 弟 已 经 安 全 回 家 了。 我 都 不 知 道 该 怎 么 处 置 他— — 我 也 许 该 把 他 安 排 去 卡 拉 迪 亚 以 外 的 地 方 去 读 大 学。 那 样 的 话， 如 果 他 在 一 次 街 头 争 吵 中 被 打 破 脑 袋， 就 没 有 人 会 说 是 我 的 过 失 了。 不 过 这 些 都 不 是 你 的 问 题。 这 是 你 余 下 的 报 酬。 够 丰 厚 了。 
+dlga_start:merchant_quest_3b|好 吧…… 我 的 兄 弟 已 经 安 全 回 家 了。 我 都 不 知 道 该 怎 么 处 置 他— — 我 也 许 该 把 他 安 排 去 大 陆 以 外 的 地 方 去 读 大 学。 那 样 的 话， 如 果 他 在 一 次 街 头 争 吵 中 被 打 破 脑 袋， 就 没 有 人 会 说 是 我 的 过 失 了。 不 过 这 些 都 不 是 你 的 问 题。 这 是 你 余 下 的 报 酬。 够 丰 厚 了。 
 dlga_merchant_quest_3b:merchant_quest_4a|钱 总 是 最 受 欢 迎 的， 我 乐 意 为 你 效 劳。 
 dlga_merchant_quest_4a:merchant_quest_4b|好！ 现 在…… 你 有 兴 趣 再 多 挣 点 吗？ 
 dlga_merchant_quest_4b:merchant_quest_4b1|也 许 吧。 你 需 要 我 做 什 么？ 
 dlga_merchant_quest_4b1:merchant_quest_4b2|记 得 我 告 诉 过 你 那 些 强 盗 在 城 里 有 同 党 吗？ 我 想 我 知 道 是 谁— — 正 是 城 镇 哨 兵 的 队 长。 几 个 月 前 这 个 队 长， 看 到 我 们 商 人 从 边 境 贸 易 中 获 得 的 利 润 很 丰 厚， 就 决 定 借 些 钱 办 一 个 商 队。 不 幸 的 是， 就 像 许 多 从 商 的 新 手 那 样， 他 没 有 意 识 到 高 回 报 意 味 着 高 风 险。 他 把 全 部 家 当 都 投 进 了 最 昂 贵 的 商 品 中， 而 他 的 商 队 理 所 当 然 的 就 被 人 俘 获 并 且 洗 劫 一 空， 他 因 此 失 去 了 一 切。 
-dlga_merchant_quest_4b2:merchant_quest_4b3|结 果， 似 乎 我 们 的 队 长 为 了 挽 回 他 的 损 失 而 道 德 败 坏 了。 我 想 如 果 面 对 同 样 的 情 况 我 也 会 做 同 样 的 事 情， 但 愿 这 不 会 发 生 在 我 身 上， 我 也 面 对 过 亏 本 和 破 产。虽 说 现 在 这 世 道， 任 何 一 个 城 镇 哨 兵 队 长 都 会 有 些 小 偷 和 盗 贼 为 他 的 薪 水 买 单， 以 期 望 他 能 够 通 风 报 信， 但 是 我 们 的 队 长 决 定 大 规 模 的 雇 佣 这 些 杂 种 们。 他 把 他 们 带 进 城 镇， 让 他 们 为 所 欲 为， 并 且 和 他 们 分 享 赃 物。 你 听 说 过 猫 鼠 一 窝 吗？ 好 吧， 在 卡 拉 迪 亚 这 片 不 幸 的 大 陆 上， 有 时 候 家 猫 会 变 成 硕 鼠。 幸 运 的 是， 仍 然 还 有 一 些 勇 敢， 正 直 的 灵 魂 留 在 守 卫 的 队 伍 里， 让 我 知 道 了 他 是 怎 么 干 这 些 下 作 勾 当 的。 
+dlga_merchant_quest_4b2:merchant_quest_4b3|结 果， 似 乎 我 们 的 队 长 为 了 挽 回 他 的 损 失 而 道 德 败 坏 了。 我 想 如 果 面 对 同 样 的 情 况 我 也 会 做 同 样 的 事 情， 但 愿 这 不 会 发 生 在 我 身 上， 我 也 面 对 过 亏 本 和 破 产。虽 说 现 在 这 世 道， 任 何 一 个 城 镇 哨 兵 队 长 都 会 有 些 小 偷 和 盗 贼 为 他 的 薪 水 买 单， 以 期 望 他 能 够 通 风 报 信， 但 是 我 们 的 队 长 决 定 大 规 模 的 雇 佣 这 些 杂 种 们。 他 把 他 们 带 进 城 镇， 让 他 们 为 所 欲 为， 并 且 和 他 们 分 享 赃 物。 你 听 说 过 猫 鼠 一 窝 吗？ 好 吧， 在 这 片 不 幸 的 大 陆 上， 有 时 候 家 猫 会 变 成 硕 鼠。 幸 运 的 是， 仍 然 还 有 一 些 勇 敢， 正 直 的 灵 魂 留 在 守 卫 的 队 伍 里， 让 我 知 道 了 他 是 怎 么 干 这 些 下 作 勾 当 的。 
 dlga_merchant_quest_4b3:merchant_quest_4b4|现 在— — 这 是 我 的 计 划。 我 可 以 让 {s4}， 这 座 城 的 领 主， 关 注 这 个， 但 是 那 将 意 味 着 一 次 质 询， 我 和 那 个 队 长 的 对 质， 而 证 人 可 以 收 买， 证 物 则 可 能 被 销 毁， 或 者 如 果 敌 人 这 时 再 次 入 境 的 话 也 许 整 个 事 件 就 都 会 被 忘 记， 而 我 因 为 这 件 事 唯 一 能 得 到 就 是 一 次 暗 杀。 在 战 时， 你 知 道， 国 王 的 目 光 远 离 他 的 领 地， 而 他 的 臣 民 遭 殃。 所 以 我 有 另 一 个 主 意。 我 聚 集 了 一 小 群 市 民， 一 些 是 我 的 雇 员 而 另 一 些 因 为 这 些 强 盗 失 去 过 亲 人， 我 们 会 冲 进 队 长 的 家 把 他 绑 到 {s4}面 前， 希 望 到 时 能 抓 获 一 些 强 盗 来 证 明 这 一 切。 
 dlga_merchant_quest_4b4:merchant_quest_4b5|我 现 在 需 要 的 是 一 个 能 率 领 我 的 小 军 队 去 打 仗 的 人— — 而 我 认 为 你 是 最 好 的 人 选。 怎 么 样， 你 干 不 干？ 
 dlga_merchant_quest_4b5:merchant_quest_4b6|我 怎 样 才 能 知 道 你 对 我 说 的 是 实 话？ 
@@ -304,7 +304,7 @@ dlga_merchant_quest_3:merchant_quest_3a|现 在— — 去 攻 打 那 个 强 �
 dlga_start:close_screen|噢— — 感 谢 上 天…… 感 谢 上 天…… 我 安 全 了 吗？ 
 dlga_start:merchant_closing_statement_2|哈…… {playername}。 事 情 发 展 得 不 如 我 希 望 的 那 样 好。 由 于 他 疏 忽 了 我 的 小 小 暴 动， {s5}没 能 彻 底 发 现。 哦， 他 非 常 感 激 我 除 掉 了 他 不 老 实 的 队 长— — 如 果 价 钱 合 适， 一 个 会 放 强 盗 进 来 的 守 卫 同 样 会 放 敌 军 进 来— — 但 是 他 容 不 得 我 继 续 留 在 这 里， 因 为 我 就 像 是 一 个 不 断 提 醒 他 曾 经 何 等 疏 忽 大 意 的 标 志。 
 dlga_merchant_closing_statement_2:merchant_closing_statement_3|那 好 像 并 不 公 平…… 
-dlga_merchant_closing_statement_3:merchant_closing_statement_4|公 平？ 这 里 是 卡 拉 迪 亚， {我 的 孩 子/尊 敬 的 女 士}！ 国 王 们 为 所 欲 为， 而 我 们 只 能 低 头 顺 从。 他 没 有 把 我 绑 起 来， 而 是 给 我 时 间 去 处 理 我 的 财 产— — 甚 至 还 给 别 的 商 人 捎 话 让 他 们 最 好 付 我 一 个 公 平 的 价 钱。 这 就 已 经 够 慷 慨 的 了， 就 像 国 王 们 所 做 的 一 样— — 而 他 是 一 个 虚 弱 的 君 主， 就 像 这 儿 的 所 有 君 主 一 样， 而 虚 弱 的 君 主 总 是 必 须 先 保 住 他 们 的 威 信， 然 后 才 是 正 义。 我 估 计 如 果 我 在 他 的 那 种 处 境， 我 也 会 这 么 做 的。 
+dlga_merchant_closing_statement_3:merchant_closing_statement_4|公 平？ 这 个 时 代， {我 的 孩 子/尊 敬 的 女 士}！ 国 王 们 为 所 欲 为， 而 我 们 只 能 低 头 顺 从。 他 没 有 把 我 绑 起 来， 而 是 给 我 时 间 去 处 理 我 的 财 产— — 甚 至 还 给 别 的 商 人 捎 话 让 他 们 最 好 付 我 一 个 公 平 的 价 钱。 这 就 已 经 够 慷 慨 的 了， 就 像 国 王 们 所 做 的 一 样— — 而 他 是 一 个 虚 弱 的 君 主， 就 像 这 儿 的 所 有 君 主 一 样， 而 虚 弱 的 君 主 总 是 必 须 先 保 住 他 们 的 威 信， 然 后 才 是 正 义。 我 估 计 如 果 我 在 他 的 那 种 处 境， 我 也 会 这 么 做 的。 
 dlga_merchant_closing_statement_4:close_window|总 之， 我 不 会 在 {s5}面 前 说 出 你 参 与 了 这 件 事— — 但 是 他 注 意 到 你 了， 并 且 认 为 你 还 不 适 合 被 绞 死， 而 有 些 事 情 我 以 后 得 每 天 小 心 对 付。 长 远 来 看， 他 甚 至 会 有 事 情 给 你 做。 或 者， 你 可 以 给 他 的 一 个 对 手 卖 力。 总 之， 我 希 望 你 学 会 了 一 些 可 以 用 来 在 这 片 麻 烦 的 大 陆 安 身 立 命 的 东 西， 并 且 我 想 你 挣 的 那 些 钱 不 会 浪 费。 祝 你 好 运。 
 dlga_merchant_quests_last_word:close_window|我 准 备 要 马 上 离 开 镇 子。 很 荣 幸 认 识 你。 祝 你 好 运。 
 dlga_member_intel_liaison:member_intel_liaison_results|你 发 现 了 什 么？ 
@@ -359,7 +359,7 @@ dlga_start:companion_rehire.3|那 么…… 你 还 要 我 回 来 吗？
 dlga_minister_issues:minister_pretalk|有 件 你 需 要 注 意 的 事 情， {s11}和 {s12}之 间 的 争 执 已 经 逐 渐 达 到 很 不 得 体 的 程 度 了。 如 果 你 介 入， 很 可 能 会 得 罪 其 中 的 一 个 领 主。 但 如 果 你 什 么 都 不 做， 就 很 可 能 显 得 你 无 能。 {陛 下/尊 敬 的 女 士}， 这 些 都 是 作 为 一 个 国 王 所 必 须 承 担 的 责 任。 
 dlga_minister_issues:minister_talk|{s1}现 在 没 有 领 主。 也 许 你 希 望 让 它 就 保 持 现 状， 因 为 领 主 们 有 时 会 被 拥 有 可 分 封 土 地 的 君 主 所 吸 引， 不 过 这 样 一 来， 那 里 就 收 不 到 任 何 税 收 了。 
 dlga_minister_issues:minister_talk.1|在 这 一 点 上， 没 有 特 别 紧 急 的 事 情 需 要 你 来 关 注。 但 是 我 还 是 要 提 出， 阁 下， 我 对 于 政 治 手 段 不 是 很 精 通， 所 以 我 渴 望 能 恢 复 平 静 的 生 活。 如 果 你 只 是 打 算 执 行 那 些 最 基 本 的 指 令， 我 建 议 任 命 一 位 值 得 信 任 的 同 事 来 接 替 我。 其 间 你 还 打 算 做 些 什 么？ 
-dlga_minister_issues:minister_talk.2|如 果 我 可 以 给 你 提 一 条 建 议， 我 的 {大 人/女 士}， 似 乎 你 作 为 一 名 独 立 的 君 主 进 行 的 统 治 没 有 得 到 充 分 的 认 可， 而 这 似 乎 会 给 我 们 进 一 步 的 发 展 带 来 麻 烦。 明 智 之 举 也 许 是 寻 找 另 一 个 和 你 有 相 同 兴 趣 的 王 国， 并 且 能 寻 求 其 认 可， 这 样 才 能 把 你 自 己 置 于 和 卡 拉 迪 亚 的 其 它 国 王 平 起 平 坐 的 地 位。 
+dlga_minister_issues:minister_talk.2|如 果 我 可 以 给 你 提 一 条 建 议， 我 的 {大 人/女 士}， 似 乎 你 作 为 一 名 独 立 的 君 主 进 行 的 统 治 没 有 得 到 充 分 的 认 可， 而 这 似 乎 会 给 我 们 进 一 步 的 发 展 带 来 麻 烦。 明 智 之 举 也 许 是 寻 找 另 一 个 和 你 有 相 同 兴 趣 的 王 国， 并 且 能 寻 求 其 认 可， 这 样 才 能 把 你 自 己 置 于 和 其 它 国 王 平 起 平 坐 的 地 位。 
 dlga_minister_issues:minister_talk.3|现 在 没 有 什 么 特 别 紧 急 的 事 情 需 要 你 去 注 意。 你 还 有 什 么 吩 咐 吗？ 
 dlga_minister_pretalk:minister_talk|你 还 有 什 么 吩 咐 吗？ 
 dlga_minister_talk:combined_political_quests|你 对 于 加 强 我 们 王 国 的 凝 聚 力 方 面 有 什 么 建 议？ 
@@ -1171,7 +1171,7 @@ dlga_lord_spouse_leave_faction:lord_spouse_leave_faction_2|{s9}作 为 君 主 �
 dlga_lord_spouse_leave_faction:lord_spouse_leave_faction_2.1|我 认 为 没 有 理 由 背 弃 {s9}， 但 是 我 会 留 意 你 的 建 议。 你 要 我 们 怎 么 做？ 
 dlga_lord_spouse_leave_faction:lord_spouse_leave_faction_2.2|是 的— — 作 为 一 名 君 主， {s9}实 在 让 人 失 望。 你 要 我 们 怎 么 做？ 
 dlga_lord_spouse_leave_faction_2:lord_spouse_leave_faction_husband_king|我 的 丈 夫， 我 认 为 你 应 该 称 王！ 
-dlga_lord_spouse_leave_faction_2:lord_spouse_leave_faction_proclaim_queen|我 理 应 是 卡 拉 迪 亚 的 女 王。 
+dlga_lord_spouse_leave_faction_2:lord_spouse_leave_faction_proclaim_queen|我 理 应 是 这 个 王 国 的 女 王。 
 dlga_lord_spouse_leave_faction_2:lord_pretalk|没 事 
 dlga_lord_spouse_leave_faction_husband_king:lord_pretalk|也 许 会 有 那 么 一 天 的， 我 的 妻 子— — 但 在 我 称 王 之 前， 我 们 之 中 一 人 应 该 据 有 一 座 城 堡， 作 为 我 们 宫 廷 的 所 在 地。 然 后 我 们 再 公 开 称 王 封 后。 
 dlga_lord_spouse_leave_faction_proclaim_queen:lord_pretalk|我 不 反 对 你 的 说 法， 夫 人， 但 我 们 之 中 一 人 应 该 据 有 一 座 城 堡， 作 为 我 们 宫 廷 的 所 在 地。 然 后 我 们 再 公 开 称 王 封 后。 
@@ -1204,8 +1204,8 @@ dlga_lord_recruit_3_reset_claim:lord_recruit_3_claim|是 的， 没 错。
 dlga_lord_recruit_3_reset_claim:lord_recruit_3_a_reset|我 换 一 种 说 法 吧。 
 dlga_lord_recruit_3_a:lord_recruit_3_b|什 么？ 
 dlga_lord_recruit_3_a_reset:lord_recruit_3_b|什 么？ 
-dlga_lord_recruit_3_b:lord_recruit_3_why|我 需 要 你 支 持 我 成 为 卡 拉 迪 亚 大 陆 的 国 王。 
-dlga_lord_recruit_3_b:lord_recruit_3_why.1|我 要 你 宣 誓 效 忠 于 我 的 君 主 {s45}并 认 同 他 为 整 个 卡 拉 迪 亚 大 陆 的 国 王。 
+dlga_lord_recruit_3_b:lord_recruit_3_why|我 需 要 你 支 持 我 成 为 国 王。 
+dlga_lord_recruit_3_b:lord_recruit_3_why.1|我 要 你 宣 誓 效 忠 于 我 的 君 主 {s45}并 认 同 他 为 {s3}的 国 王。 
 dlga_lord_recruit_3_b:lord_pretalk|没 事 
 dlga_lord_recruit_3_dilemma_1:lord_recruit_3_dilemma_2|{s43}
 dlga_lord_recruit_3_dilemma_2:lord_recruit_3_why|{s43}
@@ -1214,7 +1214,7 @@ dlga_lord_recruit_3_why:lord_recruit_3_d|我 为 什 么 要 支 持 {s44}？
 dlga_lord_recruit_3_d:lord_recruit_3_claim|{s43}
 dlga_lord_recruit_3_d:lord_recruit_3_claim.1|如 果 {s45}成 为 {s47}， {s45}将 会 公 正 的 对 待 每 个 人， 并 保 证 下 层 民 众 的 权 利。 
 dlga_lord_recruit_3_d:lord_recruit_3_claim.2|如 果 {s45}成 为 {s47}， {s45}将 会 保 证 你 作 为 贵 族 世 袭 这 片 土 地 的 权 利。 
-dlga_lord_recruit_3_d:lord_recruit_3_claim.3|因 为 {s45}能 够 统 一 卡 拉 迪 亚 并 且 结 束 战 乱。 
+dlga_lord_recruit_3_d:lord_recruit_3_claim.3|因 为 {s45}能 够 统 一 世 界 并 且 结 束 战 乱。 
 dlga_lord_recruit_3_d:lord_recruit_3_claim.4|因 为 {s45}将 会 赏 赐 你 土 地。 
 dlga_lord_recruit_3_d:lord_pretalk|没 事 
 dlga_lord_recruit_3_claim:lord_recruit_3_claim|你 是 不 是 告 诉 每 一 个 人 你 认 为 他 们 最 喜 欢 听 的 东 西？ {s12}
@@ -1301,7 +1301,7 @@ dlga_lord_ask_pardon_after_renounce_peace:lord_pretalk|非 常 好。 {playernam
 dlga_lord_ask_pardon_terms_rejected:close_window|那 就 滚 出 我 的 视 线 吧， 叛 徒！ 快 滚， 再 也 不 要 回 来 了！ 
 dlga_lord_talk:lord_ask_pardon|我 希 望 与 {s4}和 好。 
 dlga_lord_ask_pardon:lord_pretalk|真 的 吗？ {playername}。 那 就 去 倒 在 你 的 剑 上。 然 后 我 们 就 能 和 平 共 处。 
-dlga_lord_ask_pardon:lord_pretalk.1|{playername}， 你 作 为 一 个 不 效 命 于 任 何 人 的 {领 主/女 士}， 以 你 的 个 人 名 义 占 领 土 地， 无 根 无 据 自 封 国 王。 在 卡 拉 迪 亚 没 有 哪 个 国 王 会 愿 意 与 你 保 持 长 久 的 和 平 的。 
+dlga_lord_ask_pardon:lord_pretalk.1|{playername}， 你 作 为 一 个 不 效 命 于 任 何 人 的 {领 主/女 士}， 以 你 的 个 人 名 义 占 领 土 地， 无 根 无 据 自 封 国 王。 在 这 里 没 有 哪 个 国 王 会 愿 意 与 你 保 持 长 久 的 和 平 的。 
 dlga_lord_ask_pardon:lord_pretalk.2|在 我 有 优 势 的 时 候 谈 和？ 我 才 不 这 么 干。 
 dlga_lord_ask_pardon:lord_pretalk.3|我 觉 得 现 在 和 谈 不 符 合 我 的 利 益。 
 dlga_lord_ask_pardon:lord_truce_offer|对…… 我 已 经 厌 倦 和 你 打 仗 了。 我 可 以 提 供 一 个 四 十 天 的 停 战 协 议， 只 要 你 遵 守 你 的 诺 言 并 且 不 再 侵 略 我 的 领 地 干 扰 我 的 行 程， 我 们 什 么 都 可 以 谈…… 
@@ -1528,8 +1528,8 @@ dlga_lord_enter_service_reject:close_window.1|少 痴 人 说 梦 了！ 你 认
 dlga_lord_ask_enter_service:lord_give_oath_under_oath_already|你 不 是 已 经 对 {s5}宣 誓 效 忠 过 了 吗？ 
 dlga_lord_give_oath_under_oath_already:lord_pretalk|是 的 大 人， {s65}， 请 原 谅 我 散 漫。 
 dlga_lord_ask_enter_service:lord_pretalk|我 只 接 受 能 让 我 信 任 的 人 的 宣 誓。 {playername}。 
-dlga_lord_ask_enter_service:lord_ask_enter_service_female_2|尊 敬 的 女 士， 你 看 起 来 像 一 位 好 的 将 军。 在 卡 拉 迪 亚 拥 有 这 样 才 华 的 女 人 真 非 常 罕 见， 但 也 不 是 没 有。 比 如 说 一 些 贵 族 出 身 的 女 士 经 常 在 她 们 丈 夫 或 父 亲 牺 牲 或 则 被 俘 的 情 况 下 指 挥 军 队 打 仗。 
-dlga_lord_ask_enter_service_female_2:lord_ask_enter_service_female_response|然 而， 我 从 来 没 有 听 过 哪 个 国 王 仅 仅 因 为 需 要 一 个 封 臣 而 给 了 一 个 女 人 一 片 封 地， 无 论 她 多 么 的 勇 敢 无 畏。 如 果 我 给 了 一 片 封 地 给 女 人， 那 么 整 个 卡 拉 迪 亚 大 陆 的 人 都 会 用 异 样 的 眼 神 看 着 我。 男 人 们 将 会 说 我 疯 了， 中 邪 了， 或 者 说 我 要 和 传 统 习 惯 对 着 干。 所 以 我 不 能 给 你 一 片 封 地， 我 真 的 很 遗 憾。 
+dlga_lord_ask_enter_service:lord_ask_enter_service_female_2|尊 敬 的 女 士， 你 看 起 来 像 一 位 好 的 将 军。 在 这 里 拥 有 这 样 才 华 的 女 人 真 非 常 罕 见， 但 也 不 是 没 有。 比 如 说 一 些 贵 族 出 身 的 女 士 经 常 在 她 们 丈 夫 或 父 亲 牺 牲 或 则 被 俘 的 情 况 下 指 挥 军 队 打 仗。 
+dlga_lord_ask_enter_service_female_2:lord_ask_enter_service_female_response|然 而， 我 从 来 没 有 听 过 哪 个 国 王 仅 仅 因 为 需 要 一 个 封 臣 而 给 了 一 个 女 人 一 片 封 地， 无 论 她 多 么 的 勇 敢 无 畏。 如 果 我 给 了 一 片 封 地 给 女 人， 那 么 全 天 下 的 人 都 会 用 异 样 的 眼 神 看 着 我。 男 人 们 将 会 说 我 疯 了， 中 邪 了， 或 者 说 我 要 和 传 统 习 惯 对 着 干。 所 以 我 不 能 给 你 一 片 封 地， 我 真 的 很 遗 憾。 
 dlga_lord_ask_enter_service_female_response:lord_ask_enter_service_female_solution_capture|要 是 我 要 用 武 力 夺 取 你 其 中 一 个 敌 人 的 城 堡 呢？ 
 dlga_lord_ask_enter_service_female_response:lord_ask_enter_service_female_solution_marriage|要 是 我 和 你 的 一 个 领 主 结 婚 呢？ 
 dlga_lord_ask_enter_service_female_response:lord_ask_enter_service_female_solution_competitor|或 许 你 的 某 个 对 手 会 比 你 更 开 明。 
@@ -2330,9 +2330,9 @@ dlga_ransom_broker_intro_2:ransom_broker_info_talk|我 是 个 为 在 这 场 �
 dlga_ransom_broker_info_talk:ransom_broker_families|如 果 他 们 的 家 人 不 肯 付 钱 呢？ 
 dlga_ransom_broker_families:ransom_broker_info_talk|哦， 那 我 就 用 贩 奴 船 上 的 生 活 境 遇 来 激 一 激 他 们。 你 会 发 现， 只 要 有 充 足 的 动 力， 一 个 农 夫 可 以 从 他 的 牛 棚 里 发 掘 出 来， 或 是 从 他 的 同 族 人 那 里 骗 来 的 财 富 让 你 吃 惊。 而 如 果 他 们 最 后 拿 不 出 钱， 那 么 总 有 正 在 寻 找 苦 力 的 奴 隶 贩 子。 你 知 道， 一 个 人 不 能 空 着 钱 包 行 善 事。 
 dlga_ransom_broker_info_talk:ransom_broker_prices|我 从 一 个 俘 虏 那 里 可 以 得 到 多 少？ 
-dlga_ransom_broker_prices:ransom_broker_info_talk|视 情 况 而 定。 我 认 为 我 对 于 评 估 赎 金 方 面 有 天 赋。 有 许 多 特 征 可 以 告 诉 你 一 个 人 是 个 穷 鬼 或 者 是 个 贵 族。 贵 族 们 的 交 易 有 赚 头， 而 如 果 你 打 算 做 我 这 一 行 你 得 掌 握 每 个 卡 拉 迪 亚 大 陆 上 世 家 的 信 息， 他 们 的 财 产， 他 们 的 纹 章， 他 们 的 合 法 后 代 或 者 私 生 子， 当 然， 还 有 他 们 做 生 意 是 不 是 有 信 用。 
+dlga_ransom_broker_prices:ransom_broker_info_talk|视 情 况 而 定。 我 认 为 我 对 于 评 估 赎 金 方 面 有 天 赋。 有 许 多 特 征 可 以 告 诉 你 一 个 人 是 个 穷 鬼 或 者 是 个 贵 族。 贵 族 们 的 交 易 有 赚 头， 而 如 果 你 打 算 做 我 这 一 行 你 得 掌 握 世 界 上 每 个 世 家 的 信 息， 他 们 的 财 产， 他 们 的 纹 章， 他 们 的 合 法 后 代 或 者 私 生 子， 当 然， 还 有 他 们 做 生 意 是 不 是 有 信 用。 
 dlga_ransom_broker_info_talk:ransom_broker_ransom_me|如 果 我 被 俘 虏 了 你 会 赎 回 我 么？ 
-dlga_ransom_broker_ransom_me:ransom_broker_info_talk|当 然。 我 在 卡 拉 迪 亚 的 每 个 王 国 都 很 受 欢 迎。 还 没 几 个 人 能 这 么 说！ 所 以 要 保 证 自 己 随 时 都 藏 有 一 笔 第 纳 尔， 和 一 个 紧 急 时 候 可 以 找 到 这 笔 钱 的 忠 心 仆 人。 
+dlga_ransom_broker_ransom_me:ransom_broker_info_talk|当 然。 我 在 每 个 王 国 都 很 受 欢 迎。 还 没 几 个 人 能 这 么 说！ 所 以 要 保 证 自 己 随 时 都 藏 有 一 笔 第 纳 尔， 和 一 个 紧 急 时 候 可 以 找 到 这 笔 钱 的 忠 心 仆 人。 
 dlga_ransom_broker_info_talk:ransom_broker_pretalk|我 明 白 了。 谢 谢 你。 
 dlga_start:ransom_broker_talk|欢 迎。 如 果 你 有 俘 虏， 我 很 乐 意 买 下 他 们。 
 dlga_ransom_broker_pretalk:ransom_broker_talk|不 管 怎 样， 如 果 你 有 俘 虏， 我 很 乐 意 买 下 他 们。 
@@ -2354,20 +2354,20 @@ dlga_ransom_broker_ransom_companion_refuse:ransom_broker_talk|当 然， 当 然
 dlga_ransom_broker_talk:close_window|下 次 再 说， 再 见。 
 dlga_ransom_broker_sell_prisoners:ransom_broker_sell_prisoners_2|让 我 看 一 下 你 带 来 的“ 货 物” 吧…… 
 dlga_ransom_broker_sell_prisoners_2:close_window|我 会 在 这 里 待 上 几 天。 如 果 你 需 要 我 服 务 的 时 候 就 来 找 我。 
-dlga_start:tavern_traveler_talk|你 好 朋 友。 你 看 上 去 像 是 那 种 认 识 我 对 你 有 好 处 的 {人/人}。 我 在 卡 拉 迪 亚 四 处 旅 行 打 听 消 息。 我 可 以 提 供 你 觉 得 也 许 对 你 有 益 的 消 息 给 你。 当 然 得 付 一 点 点 钱。 
+dlga_start:tavern_traveler_talk|你 好 朋 友。 你 看 上 去 像 是 那 种 认 识 我 对 你 有 好 处 的 {人/人}。 我 在 世 界 上 四 处 旅 行 打 听 消 息。 我 可 以 提 供 你 觉 得 也 许 对 你 有 益 的 消 息 给 你。 当 然 得 付 一 点 点 钱。 
 dlga_start:tavern_traveler_lost_companion_thanks|欢 迎， {playername}。 我 前 些 天 在 {s11}的 酒 馆 见 到 了 你 的 同 伴 {s10}。 我 想 你 也 许 有 兴 趣 了 解 这 个。 
 dlga_tavern_traveler_lost_companion_thanks:tavern_traveler_pretalk|谢 谢。 我 将 去 那 里 找 {reg3?她 :他 }。 
 dlga_tavern_traveler_lost_companion_thanks:tavern_traveler_pretalk.1|谢 谢， 但 是 我 真 的 不 在 乎。 
 dlga_start:tavern_traveler_talk.1|你 好， {playername}。 
 dlga_tavern_traveler_pretalk:tavern_traveler_talk|什 么？ 
 dlga_tavern_traveler_talk:tavern_traveler_tell_kingdoms|你 能 告 诉 我 这 个 大 陆 的 一 些 情 况 吗？ 
-dlga_tavern_traveler_tell_kingdoms:tavern_traveler_tell_kingdoms_2|卡 拉 迪 亚 大 陆 分 为 几 个 相 互 敌 视 的 王 国。 他 们 没 法 与 邻 国 保 持 和 平， 同 时 也 不 能 消 灭 其 他 国 家。 结 果， 战 争 像 瘟 疫 一 样 席 卷 整 个 大 陆， 一 刻 也 没 有 停 止 过， 吸 取 着 鲜 血。 不 过， 对 于 像 你 这 样 的 冒 险 者 来 说， 至 少 有 用 武 之 地 了。 如 果 你 运 气 好 并 且 有 点 能 耐， 你 就 可 以 在 这 里 混 出 名 气， 也 许 还 能 积 累 一 大 笔 财 富， 或 者 争 得 强 大 的 权 力。 如 果 你 敢 于 投 身 去 争 取， 机 会 就 是 源 源 不 断 的， 回 报 也 是 源 源 不 断 的。 
+dlga_tavern_traveler_tell_kingdoms:tavern_traveler_tell_kingdoms_2|世 界 上 大 陆 分 为 几 个 相 互 敌 视 的 王 国。 他 们 没 法 与 邻 国 保 持 和 平， 同 时 也 不 能 消 灭 其 他 国 家。 结 果， 战 争 像 瘟 疫 一 样 席 卷 整 个 大 陆， 一 刻 也 没 有 停 止 过， 吸 取 着 鲜 血。 不 过， 对 于 像 你 这 样 的 冒 险 者 来 说， 至 少 有 用 武 之 地 了。 如 果 你 运 气 好 并 且 有 点 能 耐， 你 就 可 以 在 这 里 混 出 名 气， 也 许 还 能 积 累 一 大 笔 财 富， 或 者 争 得 强 大 的 权 力。 如 果 你 敢 于 投 身 去 争 取， 机 会 就 是 源 源 不 断 的， 回 报 也 是 源 源 不 断 的。 
 dlga_tavern_traveler_tell_kingdoms_2:tavern_traveler_tell_kingdoms_3|再 仔 细 跟 我 谈 谈 这 些 良 机。 
 dlga_tavern_traveler_tell_kingdoms_2:close_window|谢 谢 你， 我 想 了 解 的 东 西 都 了 解 了。 
 dlga_tavern_traveler_tell_kingdoms_3:tavern_traveler_tell_kingdoms_4|很 好， 似 乎 我 告 诉 你 的 东 西 你 都 了 解 了。 你 干 得 不 错。 
 dlga_tavern_traveler_tell_kingdoms_3:tavern_traveler_tell_kingdoms_4a|交 战 中 的 国 家 会 付 给 雇 佣 兵 一 个 好 价 钱。。 如 果 你 干 出 点 小 成 绩， 跟 这 个 国 家 的 任 何 一 个 领 主 对 话， 他 们 也 许 会 提 供 给 你 一 份 雇 佣 合 同。 然 而 获 得 可 观 的 奖 励 还 是 当 你 设 法 成 为 国 王 手 下 的 一 个 封 臣 之 后 才 行。 封 臣 可 以 拥 有 村 子， 城 堡 和 城 镇， 而 且 能 靠 封 地 的 税 金 和 其 他 收 入 获 得 大 量 的 财 富。 通 常 情 况 下， 只 有 王 国 的 贵 族 才 拥 有 获 得 封 地 的 权 利， 但 是 在 战 争 年 代， 一 个 国 王 通 常 毫 不 犹 豫 地 接 受 某 个 在 战 场 上 表 现 卓 越 的 人 做 为 自 己 的 一 个 封 臣， 并 授 予 {他/她}拥 有 土 地 的 权 利。 
-dlga_tavern_traveler_tell_kingdoms_4a:tavern_traveler_tell_kingdoms_4|在 卡 拉 迪 亚， 从 未 听 说 过 有 哪 个 冒 险 者 宣 布 放 弃 效 忠 任 何 一 个 国 王， 选 择 自 立 为 王， 并 以 自 己 的 名 义 占 有 领 地。  这 是 一 条 艰 难 的 道 路。 无 论 如 何， 那 些 家 世 显 赫 的 贵 族， 不 大 可 能 愿 意 接 受 一 个 新 兴 的 领 主 当 他 们 的 国 王。 这 样 的 统 治 者 必 须 在 建 立 王 权 的 过 程 中 慎 之 又 慎， 否 则， 将 会 遭 到 各 方 势 力 的 攻 击。 
-dlga_tavern_traveler_tell_kingdoms_4:tavern_traveler_tell_kingdoms_5|对 你 这 样 的 冒 险 者 来 说， 支 持 一 个 在 位 国 王 的 反 对 者， 也 许 更 容 易 一 些。 卡 拉 迪 亚 有 很 多 这 样 的 王 位 觊 觎 者， 他 们 都 出 身 于 正 当 的 家 族， 终 日 四 处 奔 走， 煽 动 民 众， 说 自 己 比 在 位 的 国 王 更 有 资 格 拥 有 王 权。 如 果 有 势 力 支 持 这 些 人， 他 们 就 能 挑 起 内 战， 甚 至 有 机 会 代 替 现 在 的 国 王。 
+dlga_tavern_traveler_tell_kingdoms_4a:tavern_traveler_tell_kingdoms_4|在 这 个 时 代， 从 未 听 说 过 有 哪 个 冒 险 者 宣 布 放 弃 效 忠 任 何 一 个 国 王， 选 择 自 立 为 王， 并 以 自 己 的 名 义 占 有 领 地。  这 是 一 条 艰 难 的 道 路。 无 论 如 何， 那 些 家 世 显 赫 的 贵 族， 不 大 可 能 愿 意 接 受 一 个 新 兴 的 领 主 当 他 们 的 国 王。 这 样 的 统 治 者 必 须 在 建 立 王 权 的 过 程 中 慎 之 又 慎， 否 则， 将 会 遭 到 各 方 势 力 的 攻 击。 
+dlga_tavern_traveler_tell_kingdoms_4:tavern_traveler_tell_kingdoms_5|对 你 这 样 的 冒 险 者 来 说， 支 持 一 个 在 位 国 王 的 反 对 者， 也 许 更 容 易 一 些。 世 界 上 有 很 多 这 样 的 王 位 觊 觎 者， 他 们 都 出 身 于 正 当 的 家 族， 终 日 四 处 奔 走， 煽 动 民 众， 说 自 己 比 在 位 的 国 王 更 有 资 格 拥 有 王 权。 如 果 有 势 力 支 持 这 些 人， 他 们 就 能 挑 起 内 战， 甚 至 有 机 会 代 替 现 在 的 国 王。 
 dlga_tavern_traveler_tell_kingdoms_5:tavern_traveler_tell_kingdoms_6|很 有 趣。 到 哪 里 我 能 找 到 这 些 要 求 称 王 者？ 
 dlga_tavern_traveler_tell_kingdoms_5:close_window|我 猜 我 了 解 得 足 够 多 了， 谢 谢。 
 dlga_tavern_traveler_tell_kingdoms_6:tavern_traveler_pretalk|要 求 称 王 者 在 他 自 己 的 国 家 内 经 常 是 处 于 危 险 中 的， 所 以 他 们 通 常 呆 在 敌 对 国 家 的 宫 廷 里， 然 后 召 集 支 持 者 并 希 望 某 个 人 能 拥 护 他 们 的 事 业。 我 经 常 可 以 听 到 关 于 他 们 的 一 些 事 情， 也 许 我 能 在 一 定 程 度 上 告 诉 你 他 们 的 位 置。 但 是…… 当 然 了， 我 将 要 求 一 点 小 费。 
@@ -2421,7 +2421,7 @@ dlga_book_trade_completed:bookseller_talk|还 有 什 么 事 吗？
 dlga_bookseller_talk:close_window|没 什 么， 谢 谢。 
 dlga_start:minstrel_1|你 好， {尊 贵 的 先 生/尊 贵 的 夫 人}。
 dlga_minstrel_1:minstrel_job_description|你 这 是 做 什 么？ 
-dlga_minstrel_1:minstrel_courtship_questions|我 有 些 关 于 卡 拉 迪 亚 婚 姻 风 俗 的 问 题 要 问 你。 
+dlga_minstrel_1:minstrel_courtship_questions|我 有 些 关 于 {s3} 的 婚 姻 风 俗 的 问 题 要 问 你。 
 dlga_minstrel_1:minstrel_courtship_poem|你 能 教 我 些 诗 么？ 
 dlga_minstrel_courtship_poem:minstrel_courtship_poem_teach|我 可 以 教 你 《 爱 情 城 堡 之 风 暴 》 这 首 诗， 它 并 不 长， 因 此 很 容 易 学。 而 且 它 还 是 一 首 寓 言 诗， 充 满 了 象 征 和 比 喻。 记 述 了 一 个 勇 敢 但 青 涩 的 战 士 是 如 何 通 过 学 习 骑 士 精 神， 成 为 了 一 个 真 正 高 尚 的 贵 族 骑 士 而 抱 得 美 人 归 的 故 事。 它 的 主 题 就 是 女 性 能 够 激 励 并 开 化 男 人， 因 此 不 少 贵 族 小 姐 们 很 喜 欢 这 首 诗， 当 然， 并 不 是 所 有 人 都 喜 欢。 
 dlga_minstrel_courtship_poem:minstrel_courtship_poem_teach.1|我 可 以 教 你 《 心 中 的 渴 望 》 这 首 诗， 它 是 一 首 非 常 好 的 抒 情 诗， 可 以 很 巧 妙 地 从 肉 体 之 爱 和 精 神 之 爱 双 角 度 来 解 释。 爱 人 通 过 看 到 他 心 爱 之 人 的 身 体 感 受 到 神 般 的 伟 大。 我 确 信 这 首 诗 能 够 打 动 那 些 充 满 少 女 情 怀 的 小 姐 们， 不 过 你 得 知 道， 这 首 诗 也 可 能 让 其 他 人 感 到 反 感 和 枯 燥。 
@@ -2469,17 +2469,17 @@ dlga_minstrel_courtship_prequestions:minstrel_courtship_questions_2|还 有 别 
 dlga_minstrel_courtship_questions_2:minstrel_player_role|我 有 机 会 找 到 一 段 爱 情 吗？ 
 dlga_minstrel_courtship_questions_2:minstrel_player_advice_meet|一 位 追 求 者 要 怎 样 才 能 见 到 他 心 仪 的 小 姐？ 
 dlga_minstrel_courtship_questions_2:minstrel_player_advice_woo|如 愿 见 到 心 仪 的 小 姐 后， 要 怎 样 追 求 她 呢？ 
-dlga_minstrel_courtship_questions_2:minstrel_nobles|请 告 诉 我 一 些 有 关 卡 拉 迪 亚 贵 族 阶 级 婚 姻 和 爱 情 的 事 情。 
-dlga_minstrel_nobles:minstrel_nobles_2|贵 族 们 都 是 些 古 怪 的 家 伙， 在 卡 拉 迪 亚， 女 儿 是 一 件 拿 来 向 有 意 结 盟 的 人 示 好 的 政 治 工 具。 可 是 与 此 同 时， 那 些 最 为 尊 贵 的 家 族 又 不 断 地 向 世 人 昭 示 男 女 间 纯 真 美 好 爱 情 的 可 贵， 我 曾 经 见 过 许 多 坚 强 如 钢 铁 的 战 士 们 因 为 歌 谣 中 萨 辛 拉 和 简 乌 的 故 事 而 泪 流 满 面— — 尽 管 他 那 为 了 牟 利 的 联 姻 计 划 会 把 他 女 儿 的 心 毫 不 留 情 地 撕 成 碎 片。 
-dlga_minstrel_nobles_2:minstrel_nobles_3|当 然， 并 不 是 所 有 人 都 是 这 样。 有 些 卡 拉 迪 亚 的 贵 族 会 让 他 们 的 女 儿 选 择 那 些 讨 她 们 喜 欢 的 人 作 为 结 婚 的 对 象。 可 是， 有 那 么 一 些 人， 认 为 让 自 己 的 女 儿 进 行 任 何 选 择 都 是 对 自 己 权 威 的 损 害， 他 们 坚 持 自 行 决 定 女 儿 的 归 属， 完 全 不 在 乎 女 儿 们 是 否 喜 欢 他 们 选 择 的 新 郎。 
+dlga_minstrel_courtship_questions_2:minstrel_nobles|请 告 诉 我 一 些 有 关 贵 族 阶 级 婚 姻 和 爱 情 的 事 情。 
+dlga_minstrel_nobles:minstrel_nobles_2|贵 族 们 都 是 些 古 怪 的 家 伙， 在 这 个 时 代， 女 儿 是 一 件 拿 来 向 有 意 结 盟 的 人 示 好 的 政 治 工 具。 可 是 与 此 同 时， 那 些 最 为 尊 贵 的 家 族 又 不 断 地 向 世 人 昭 示 男 女 间 纯 真 美 好 爱 情 的 可 贵， 我 曾 经 见 过 许 多 坚 强 如 钢 铁 的 战 士 们 因 为 歌 谣 中 萨 辛 拉 和 简 乌 的 故 事 而 泪 流 满 面— — 尽 管 他 那 为 了 牟 利 的 联 姻 计 划 会 把 他 女 儿 的 心 毫 不 留 情 地 撕 成 碎 片。 
+dlga_minstrel_nobles_2:minstrel_nobles_3|当 然， 并 不 是 所 有 人 都 是 这 样。 有 些 {s3} 的 贵 族 会 让 他 们 的 女 儿 选 择 那 些 讨 她 们 喜 欢 的 人 作 为 结 婚 的 对 象。 可 是， 有 那 么 一 些 人， 认 为 让 自 己 的 女 儿 进 行 任 何 选 择 都 是 对 自 己 权 威 的 损 害， 他 们 坚 持 自 行 决 定 女 儿 的 归 属， 完 全 不 在 乎 女 儿 们 是 否 喜 欢 他 们 选 择 的 新 郎。 
 dlga_minstrel_nobles_3:minstrel_prequestions|不 过， 大 多 数 人 会 选 择 一 种 折 中 的 方 式， 他 们 会 为 自 己 的 女 儿 决 定 新 郎 的 最 终 人 选， 但 也 考 虑 到 了 那 些 小 姐 们 的 喜 好。 说 到 底， 幸 福 的 婚 姻 更 容 易 诞 生 继 承 人， 不 是 吗？ 所 以， 只 要 有 能 力， 你 仍 然 有 机 会 用 你 的 双 手 和 激 情 去 收 获 某 位 贵 族 小 姐 的 芳 心。 
 dlga_minstrel_courtship_questions_2:minstrel_daughter_father|当 一 位 女 士 和 她 父 亲 的 意 见 不 一 致 时 会 出 现 什 么 情 况？ 
 dlga_minstrel_daughter_father:minstrel_daughter_father_2|的 确 有 些 新 娘 会 私 奔。 这 对 她 父 亲 的 名 望 是 个 沉 重 的 打 击， 将 产 生 长 久 的 仇 视。 而 且 有 可 能 爆 发 一 场 战 争， 仅 仅 是 因 为 一 个 女 人。 这 种 事 倒 是 很 适 合 作 为 一 首 歌 的 主 题。 
 dlga_minstrel_daughter_father_2:minstrel_prequestions|不 过 最 终， 大 部 分 的 贵 族 小 姐 在 最 后 都 会 屈 服 于 她 们 父 亲 的 决 定。 毕 竟 对 一 位 贵 族 女 性 来 说， 家 族 和 血 缘 就 是 她 们 的 一 切， 而 很 少 有 勇 敢 的 姑 娘 会 因 为 不 中 意 那 个 她 根 本 不 了 解 的 男 人 而 抗 争。 她 们 也 许 会 倾 心 的 男 子 发 愁， 消 瘦， 但 是 正 如 我 所 说 的， 最 后 她 们 还 是 只 能 接 受 命 运— — 话 说 回 来， 假 如 没 有 了 那 些 悲 惨 的 爱 情， 我 还 有 什 么 可 以 用 来 歌 唱？ 
-dlga_minstrel_player_role:minstrel_player_role_2|卡 拉 迪 亚 的 贵 族 们 当 然 很 重 视 出 身 和 血 统， 但 是 最 终 决 定 他 们 选 择 的 还 是 实 实 在 在 的 土 地 和 财 富 而 非 你 虚 无 的 先 祖。 哪 怕 你 是 一 个 外 来 人， 只 要 你 的 钱 包 够 鼓， 你 仍 然 是 许 多 父 母 心 中 女 婿 的 上 上 之 选。 
+dlga_minstrel_player_role:minstrel_player_role_2|{s3} 的 贵 族 们 当 然 很 重 视 出 身 和 血 统， 但 是 最 终 决 定 他 们 选 择 的 还 是 实 实 在 在 的 土 地 和 财 富 而 非 你 虚 无 的 先 祖。 哪 怕 你 是 一 个 外 来 人， 只 要 你 的 钱 包 够 鼓， 你 仍 然 是 许 多 父 母 心 中 女 婿 的 上 上 之 选。 
 dlga_minstrel_player_role_2:minstrel_player_role_3|你 必 须 与 国 内 其 他 领 主 们 展 开 竞 争， 可 我 不 得 不 说， 他 们 比 你 拥 有 更 大 的 优 势— — 他 们 自 童 年 时 就 已 经 认 识 了 那 些 贵 族 小 姐 们， 常 常 已 经 被 贵 族 小 姐 们 小 心 谨 慎 的 母 亲 或 者 姑 母 内 定 为 理 想 的 新 郎 人 选， 也 许 有 些 贵 族 小 姐 对 陌 生 人 着 迷， 但 她 们 最 终 还 是 会 选 择 熟 悉 的 人。 
 dlga_minstrel_player_role_3:minstrel_prequestions|所 以 你 应 该 了 解， 你 很 可 能 会 为 情 所 伤， 但 是 在 情 场 上 忧 惧 为 爱 情 所 伤 就 好 比 在 战 场 上 惧 怕 被 流 矢 射 中 一 样。 勇 敢 些， 不 要 太 在 意 一 时 的 失 败， 那 么 你 还 是 很 有 可 能 赢 得 爱 情 的 
-dlga_minstrel_player_role:minstrel_female_player_3|请 原 谅 我 的 鲁 莽， 女 士。 但 是 我 必 须 告 诉 你， 卡 拉 迪 亚 的 绝 大 多 数 单 身 领 主 都 在 为 自 己 物 色 端 庄 的 淑 女 作 为 伴 侣， 她 们 有 着 洁 白 的 皮 肤— — 而 你 的 肤 色 却 因 为 日 晒 而 发 黑， 他 们 希 望 自 己 的 伴 侣 说 话 如 银 铃 般 清 脆 可 人— — 你 的 声 音 却 因 为 在 战 场 上 大 声 的 发 布 命 令 而 嘶 哑， 最 重 要 的 事， 虽 然 领 主 们 向 往 充 满 诗 意 的 爱 情， 但 他 们 更 渴 望 一 位 继 承 人， 没 有 多 少 女 人 能 一 边 怀 着 孩 子， 一 边 投 身 在 在 激 烈 的 戎 马 生 涯 中 的。 
+dlga_minstrel_player_role:minstrel_female_player_3|请 原 谅 我 的 鲁 莽， 女 士。 但 是 我 必 须 告 诉 你， 绝 大 多 数 的 单 身 领 主 都 在 为 自 己 物 色 端 庄 的 淑 女 作 为 伴 侣， 她 们 有 着 洁 白 的 皮 肤— — 而 你 的 肤 色 却 因 为 日 晒 而 发 黑， 他 们 希 望 自 己 的 伴 侣 说 话 如 银 铃 般 清 脆 可 人— — 你 的 声 音 却 因 为 在 战 场 上 大 声 的 发 布 命 令 而 嘶 哑， 最 重 要 的 事， 虽 然 领 主 们 向 往 充 满 诗 意 的 爱 情， 但 他 们 更 渴 望 一 位 继 承 人， 没 有 多 少 女 人 能 一 边 怀 着 孩 子， 一 边 投 身 在 在 激 烈 的 戎 马 生 涯 中 的。 
 dlga_minstrel_female_player_3:minstrel_prequestions|不 过， 也 并 不 是 说 所 有 的 领 主 们 都 会 按 照 常 理 来 思 考。 我 们 诗 人 常 常 吟 唱 那 些 巾 帼 英 雄， 那 些 不 仅 坚 持 了 自 己 的 道 路， 也 没 有 牺 牲 自 己 爱 情 的 了 不 起 的 女 士。 我 不 敢 向 你 保 证 你 一 定 能 找 到 一 位 两 心 相 知 的 如 意 郎 君， 但 我 得 说， 可 能 性 毕 竟 是 存 在 的。 
 dlga_minstrel_courtship_questions_2:minstrel_spouse_benefits|找 一 位 真 心 的 {妻 子/丈 夫}有 什 么 好 处 呢？ 
 dlga_minstrel_spouse_benefits:minstrel_wife_benefits_2|啊， 你 真 是 一 个“ 浪 漫” 的 人。 撇 开 爱 情， 伴 侣， 以 及 别 的 一 些“ 家 务 事” 带 来 的 明 显 好 处 不 谈， 和 一 位 贵 族 结 为 伴 侣 能 带 来 许 多 益 处， 你 不 仅 可 以 和 配 偶 的 家 族 结 为 盟 友， 你 的 妻 子 还 能 为 你 在 王 国 的 政 治 斗 争 中 谋 取 不 小 的 利 益。 
@@ -2627,7 +2627,7 @@ dlga_mayor_talk:merchant_quest_last_offered_job|关 于 你 提 出 的 那 个 
 dlga_mayor_talk:merchant_quest_about_job|关 于 你 给 我 的 那 个 工 作…… 
 dlga_mayor_talk:mayor_political_talk|我 有 些 关 于 政 治 形 势 的 问 题。 
 dlga_mayor_talk:mayor_economy_report_1|这 里 的 生 意 怎 么 样？ 
-dlga_mayor_talk:mayor_wealth_comparison_1|和 卡 拉 迪 亚 的 其 他 地 方 相 比， 这 个 地 区 算 得 上 富 有 吗？ 
+dlga_mayor_talk:mayor_wealth_comparison_1|和 世 界 上 的 其 他 地 方 相 比， 这 个 地 区 算 得 上 富 有 吗？ 
 dlga_mayor_talk:mayor_investment_possible|我 打 算 在 这 个 城 镇 买 块 地 来 开 个 产 业。 
 dlga_mayor_investment_possible:mayor_pretalk|你 已 经 在 这 里 开 办 了 {s4}。 也 许 没 有 足 够 的 工 匠 来 开 第 二 处 产 业。 
 dlga_mayor_investment_possible:mayor_pretalk.1|{s9}
@@ -2657,17 +2657,17 @@ dlga_mayor_info_lord:mayor_info_talk|我 们 镇 的 领 主 和 守 护 者 是
 dlga_mayor_info_talk:mayor_pretalk|我 明 白 了。 谢 谢。 
 dlga_mayor_political_talk:mayor_political_questions|政 治？ 我 的 天 啊， 我 们 和 政 治 毫 无 交 集， 我 们 都 是 {s10}忠 诚 的 仆 人。 我 们 仅 仅 做 我 们 该 做 的， 或 者 将 市 民 们 的 意 愿 上 呈 给 我 们 尊 贵 的 主 人， 并 不 时 警 告 市 民 们 远 离 邪 恶 的 诱 惑 而 已。 你 最 好 问 点 别 的， 明 白 吗？ 
 dlga_mayor_prepolitics:mayor_political_questions|我 没 有 说 起 我 们 都 是 {s9}吗？ 也 许 是 我 强 调 的 还 不 够？ 你 还 有 什 么 问 题？ 
-dlga_mayor_political_questions:mayor_war_description_1|我 想 知 道 卡 拉 迪 亚 上 的 战 火 都 是 如 何 燃 起 的？ 
+dlga_mayor_political_questions:mayor_war_description_1|我 想 知 道 世 界 上 的 战 火 都 是 如 何 燃 起 的？ 
 dlga_mayor_war_description_1:mayor_war_description_2|总 的 来 说， 每 一 个 国 家 的 统 治 者 都 宣 称 自 己 才 是 古 卡 拉 德 帝 国 的 正 统 继 承 人。 有 的 声 称 自 己 的 继 承 权 来 自 被 遗 忘 的 政 治 联 姻， 还 有 些 人 的 主 张 则 建 立 在 他 们 含 糊 不 明 的 契 约 上， 比 如 罗 多 克 的 {s22}。 所 以 在 理 论 上， 大 陆 上 的 任 何 一 个 国 家 都 有 权 在 任 何 时 候 向 其 他 国 家 宣 战。 
-dlga_mayor_war_description_2:mayor_war_description_3|实 际 上， 战 争 是 一 件 劳 民 伤 财 的 事， 你 可 以 把 敌 人 的 田 地 化 为 灰 烬， 但 农 作 物 还 是 会 重 新 生 长， 如 果 要 夺 取 敌 人 的 一 座 城 堡 就 更 为 艰 难 了。 所 以 卡 拉 迪 亚 上 的 国 王 间 仅 仅 发 生 小 规 模 的 冲 突， 然 后 就 缔 结 停 战 协 定， 不 久 后 再 发 动 一 次 小 小 的 冲 突， 就 这 样 不 断 继 续 下 去。 当 别 国 进 行 骚 扰 和 挑 拨 时， 迫 于 国 内 那 些 渴 望 在 战 争 中 通 过 勒 索 赎 金 和 抢 劫 而 致 富 的 领 主 们 要 求 报 复 的 呼 声， 国 王 常 常 会 亲 自 出 征。 说 到 底， 战 争 对 国 库 造 成 的 损 失 在 避 免 战 争 给 国 王 的 威 信 和 权 威 造 成 的 损 害 面 前 简 直 不 值 一 提…… 我 绝 对 不 是 在 谈 论 {s10}， 你 明 白 的， 过 去， 现 在 以 及 将 来 都 没 有 人 可 以 质 疑 {reg4?她 :他 }的 权 威。 
-dlga_mayor_war_description_3:mayor_war_description_4|我 必 须 再 次 强 调 我 们 的 指 导 绝 对 和 政 治 无 关， 但 是 如 果 {s10}向 我 询 问 关 于 这 一 方 面 的 建 议， 作 为 一 个 忠 诚 的 人， 我 会 向 {reg4?她 :他 }指 出， {reg4?她 :他 }所 宣 称 的 对 卡 拉 迪 亚 的 一 切 权 利 都 是 正 确 无 误 的。 但 是， 即 使 是 最 为 正 统 的 继 承 人 也 需 要 军 队 和 士 兵 来 保 障 权 益 和 领 土， 而 全 副 武 装， 训 练 有 素 的 军 队 需 要 大 量 的 金 钱 供 养， 金 钱 又 来 源 于 繁 荣 的 贸 易， 可 是 为 了 权 力 和 卡 拉 迪 亚 统 治 权 而 发 动 的 战 争 却 会 在 一 眨 眼 的 功 夫 毁 掉 所 有 的 贸 易。 所 以， 我 认 为 有 时 追 逐 权 力 顶 峰 的 最 好 方 法 就 是 不 去 追 逐 它， 你 明 白 我 的 意 思 吗…… 
+dlga_mayor_war_description_2:mayor_war_description_3|实 际 上， 战 争 是 一 件 劳 民 伤 财 的 事， 你 可 以 把 敌 人 的 田 地 化 为 灰 烬， 但 农 作 物 还 是 会 重 新 生 长， 如 果 要 夺 取 敌 人 的 一 座 城 堡 就 更 为 艰 难 了。 所 以 各 国 的 国 王 间 仅 仅 发 生 小 规 模 的 冲 突， 然 后 就 缔 结 停 战 协 定， 不 久 后 再 发 动 一 次 小 小 的 冲 突， 就 这 样 不 断 继 续 下 去。 当 别 国 进 行 骚 扰 和 挑 拨 时， 迫 于 国 内 那 些 渴 望 在 战 争 中 通 过 勒 索 赎 金 和 抢 劫 而 致 富 的 领 主 们 要 求 报 复 的 呼 声， 国 王 常 常 会 亲 自 出 征。 说 到 底， 战 争 对 国 库 造 成 的 损 失 在 避 免 战 争 给 国 王 的 威 信 和 权 威 造 成 的 损 害 面 前 简 直 不 值 一 提…… 我 绝 对 不 是 在 谈 论 {s10}， 你 明 白 的， 过 去， 现 在 以 及 将 来 都 没 有 人 可 以 质 疑 {reg4?她 :他 }的 权 威。 
+dlga_mayor_war_description_3:mayor_war_description_4|我 必 须 再 次 强 调 我 们 的 指 导 绝 对 和 政 治 无 关， 但 是 如 果 {s10}向 我 询 问 关 于 这 一 方 面 的 建 议， 作 为 一 个 忠 诚 的 人， 我 会 向 {reg4?她 :他 }指 出， {reg4?她 :他 }所 宣 称 的 {s3} 的 一 切 权 利 都 是 正 确 无 误 的。 但 是， 即 使 是 最 为 正 统 的 继 承 人 也 需 要 军 队 和 士 兵 来 保 障 权 益 和 领 土， 而 全 副 武 装， 训 练 有 素 的 军 队 需 要 大 量 的 金 钱 供 养， 金 钱 又 来 源 于 繁 荣 的 贸 易， 可 是 为 了 权 力 和 更 大 领 土 统 治 权 而 发 动 的 战 争 却 会 在 一 眨 眼 的 功 夫 毁 掉 所 有 的 贸 易。 所 以， 我 认 为 有 时 追 逐 权 力 顶 峰 的 最 好 方 法 就 是 不 去 追 逐 它， 你 明 白 我 的 意 思 吗…… 
 dlga_mayor_war_description_4:mayor_prepolitics|如 果 你 有 幸 见 到 {s10}的 话， 别 在 {reg4?她 :他 }面 前 提 到 我 的 名 字， 只 要 说 是 {s4}的 人 民 这 样 告 诉 你 的 就 可 以 了， 在 我 们 看 来， 这 样 确 实 对 {s10}最 有 利， 但 即 使 如 此， 我 们 中 也 没 有 一 个 人 想 过 质 疑 一 位 帝 王 追 求 霸 业 的 权 利。 
-dlga_mayor_political_questions:mayor_politics_assess|{s10}对 卡 拉 迪 亚 上 其 他 的 王 国 采 取 什 么 样 的 政 策？ 
+dlga_mayor_political_questions:mayor_politics_assess|{s10}对 世 界 上 其 他 的 王 国 采 取 什 么 样 的 政 策？ 
 dlga_mayor_politics_assess:mayor_politics_assess_realm|你 想 知 道 对 哪 个 国 家 的 政 策？ 
 dlga_mayor_politics_assess_realm:mayor_politics_give_realm_assessment|{s11}
 dlga_mayor_politics_give_realm_assessment:mayor_prepolitics|{s14}
 dlga_mayor_political_questions:mayor_internal_politics|你 对 王 国 的 政 策 有 什 么 见 解？ 
-dlga_mayor_internal_politics:mayor_internal_politics_2|这 么 说 吧， 在 {s4}， 我 们 团 结 在 对 {s5}的 敬 爱 和 忠 诚 之 下， 我 们 主 张 {reg4?她 :他 }对 整 个 卡 拉 迪 亚 的 合 法 统 治 权。 而 在 其 他 的 国 家， 内 部 的 不 和 却 是 家 常 便 饭。 
+dlga_mayor_internal_politics:mayor_internal_politics_2|这 么 说 吧， 在 {s4}， 我 们 团 结 在 对 {s5}的 敬 爱 和 忠 诚 之 下， 我 们 主 张 {reg4?她 :他 }对 整 个 {s3} 的 合 法 统 治 权。 而 在 其 他 的 国 家， 内 部 的 不 和 却 是 家 常 便 饭。 
 dlga_mayor_internal_politics_2:mayor_internal_politics_3|同 一 个 国 家 的 领 主 们 常 常 在 荣 誉 观 念， 战 略 以 及 贵 族 应 有 的 行 为 上 产 生 巨 大 的 分 歧， 除 此 以 外， 他 们 也 彼 此 竞 争， 不 仅 通 过 自 己 的 良 好 表 现 获 得 他 们 主 君 的 青 睐， 还 在 不 断 地 审 视 盘 算 所 有 人 的 立 场— — 包 括 他 们 自 己 的 立 场， 他 们 的 朋 友 和 家 人 的 立 场， 还 有 他 们 敌 人 的 立 场。 
 dlga_mayor_internal_politics_3:mayor_internal_politics_4|在 这 些 压 力 之 下， 一 个 领 主 很 可 能 会 离 弃 他 的 主 君 并 向 另 一 位 国 王 宣 誓 效 忠， 理 论 上 说， 每 位 领 主 都 立 下 过 对 主 君 忠 实 的 誓 言， 但 实 际 上 他 们 总 能 找 到 理 由 来 为 自 己 的 改 换 门 庭 开 脱。 他 可 能 宣 称 自 己 的 主 君 没 有 按 约 定 给 予 他 保 护 或 公 平 地 对 待 他。 更 有 甚 者， 他 们 宣 称 自 己 的 主 君 是 一 个 可 耻 的 篡 位 者， 王 冠 应 该 戴 在 它 真 正 的 主 人 头 上。 
 dlga_mayor_internal_politics_4:mayor_internal_politics_5|国 王 和 领 主 们 始 终 对 彼 此 抱 有 戒 心。 当 一 位 国 王 确 信 他 的 某 位 封 臣 将 要 投 敌 或 者 叛 乱 的 时 候， 他 会 以 叛 国 罪 指 控 这 位 领 主 并 剥 夺 他 的 所 有 财 产。 同 样， 当 一 位 领 主 有 足 够 的 理 由 担 忧 他 将 被 国 王 提 出 指 控 的 时 候， 他 将 会 叛 乱 以 保 全 自 己。 一 般 来 说， 先 下 手 为 强， 后 下 手 遭 殃 啊。 
@@ -3009,7 +3009,7 @@ dlga_town_merchant_talk:trade_requested_weapons|我 想 买 件 新 武 器。 �
 dlga_town_merchant_talk:trade_requested_armor|我 想 弄 点 新 装 备。 让 我 看 看 你 都 有 些 什 么。 
 dlga_town_merchant_talk:trade_requested_horse|我 想 挑 匹 好 马。 
 dlga_trade_requested_weapons:merchant_trade|是 啊， {先 生/夫 人}。 请 看 看 我 精 挑 细 选 的 商 品。 
-dlga_trade_requested_armor:merchant_trade|当 然 啦， {先 生/夫 人}。 你 在 卡 拉 迪 亚 不 会 找 到 比 我 这 更 好 的 盔 甲 了。 
+dlga_trade_requested_armor:merchant_trade|当 然 啦， {先 生/夫 人}。 你 在 别 处 不 会 找 到 比 我 这 更 好 的 盔 甲 了。 
 dlga_trade_requested_horse:merchant_trade|你 很 了 解 马 啊， {先 生/夫 人}。 你 不 会 找 到 比 我 这 更 好 的 马 了。 
 dlga_merchant_trade:town_merchant_talk|还 有 什 么 事 吗？ 
 dlga_town_merchant_talk:merchant_gossip|告 诉 我， 大 家 最 近 都 在 谈 论 些 什 么？ 
@@ -3087,7 +3087,7 @@ dlga_merchant_finale:close_window|是 的， 是 的…… 现 在， 一 群 �
 dlga_start:merchant_quest_1_prologue_1|{s1}
 dlga_merchant_quest_1_prologue_1:merchant_quest_1_prologue_2|我 们 这 儿 的 山 里 总 是 有 土 匪， 人 们 总 是 因 为 战 争， 债 务 或 者 对 暴 力 的 狂 热 而 落 草 为 寇。 然 而 最 近 他 们 变 得 更 大 胆 了— — 离 开 他 们 野 外 的 营 地 闯 入 城 镇， 寻 找 粗 心 的 猎 物。 城 镇 哨 兵 的 队 长 告 诉 我 们 这 一 切 都 是 因 为 边 境 的 战 斗— — 导 致 市 镇 保 安 的 人 手 减 少 — — 但 是 我 不敢 肯 定 真 的 仅 仅 是 由 于 这 个 原 因 使 得 那 些 强 盗 如 此 猖 狂。 在 我 看 来 最 符 合 逻 辑 的 解 释 是 这 些 强 盗 在 城 里 有 内 应， 帮 助 他 们 悄 悄 地 潜 入 进 来 并 且 帮 助 他 们 确 定 最 诱 人 的 目 标…… 知 道 吗，就 在 上 个 星 期， 他 们 刚 刚 绑 走 了 我 的 兄 弟。 
 dlga_merchant_quest_1_prologue_2:merchant_quest_1_prologue_3|我 不 知 道 我 兄 弟 是 怎 么 想 的— — 一 个 来 自 显 赫 家 庭 的 青 年， 经 常 喝 醉 了 之 后 独 自 外 出， 就 像 这 次 一 样…… 好 吧， 我 想 你 也 一 样， 可 你 是 个 外 来 人， 并 且 不 知 道 这 里 的 情 况 有 多 糟。 而 他 没 有 任 何 借 口。 但 他 是 我 的 亲  人，换 成 你 又 能 怎 么 做？ 如 果 你 保 护 不 了 你 的 亲 人， 人 们 会 开 始 想 你 也 保 护 不 了 你 的 投 资， 而 我 绝 不 能 让 他 们 有 那 种 看 法…… 毫 无 疑 问， 那 些 家 伙 很 快 会 提 出 赎 金 的 消 息， 但 是 我 不 想 付 给 他 们。 
-dlga_merchant_quest_1_prologue_3:merchant_quest_1a|这 就 是 我 要 说 的。 你 看 上 去 像 是 个 会 舞 刀 弄 枪 的 人— — 而 更 重 要 的， 你 一 定 有 所 抱 负， 否 则 你 就 不 会 来 卡 拉 迪 亚 追 寻 你 的 命 运 了。 那 么， 我 要 你 去 做 的 就 是 ： 召 集 一 小 支 部 队， 跟 踪 这 些 强 盗 到 他 们 的 老 巢， 教 训 他 们 一 顿， 让 他 们 永 远 记 住 向 我 动 手 会 有 什 么 后 果， 然 后 把 我 的 兄 弟 安 全 地 带 回 来。 作 为 回 报， 你 会 得 到 我 永 久 的 感 激 和 一 大 笔 报 酬。 你 有 兴 趣 吗？ 
+dlga_merchant_quest_1_prologue_3:merchant_quest_1a|这 就 是 我 要 说 的。 你 看 上 去 像 是 个 会 舞 刀 弄 枪 的 人— — 而 更 重 要 的， 你 一 定 有 所 抱 负， 否 则 你 就 不 会 来 这 里 追 寻 你 的 命 运 了。 那 么， 我 要 你 去 做 的 就 是 ： 召 集 一 小 支 部 队， 跟 踪 这 些 强 盗 到 他 们 的 老 巢， 教 训 他 们 一 顿， 让 他 们 永 远 记 住 向 我 动 手 会 有 什 么 后 果， 然 后 把 我 的 兄 弟 安 全 地 带 回 来。 作 为 回 报， 你 会 得 到 我 永 久 的 感 激 和 一 大 笔 报 酬。 你 有 兴 趣 吗？ 
 dlga_merchant_quest_1a:merchant_quest_1b|我 有 兴 趣。 
 dlga_merchant_quest_1a:close_window|我 对 此 不 感 兴 趣， 我 有 更 重 要 的 事 情 去 做。 
 dlga_merchant_quest_1b:merchant_quest_1c|可 是， 你 没 法 自 己 一 个 人 去 办 这 件 事 情。 如 果 你 打 算 去 单 枪 匹 马 对 付 那 整 伙 人， 我 保 证， 猎 人 反 而 会 被 猎 物 杀 死。 你 首 先 得 去 召 集 一 群 志 愿 兵。 这 附 近 的 村 庄 里 总 是 有 些 小 伙 子， 希 望 能 找 到 比 耕 地 捕 鱼 更 有 趣 的 工 作 去 做。 如 果 你 付 他 们 钱 他 们 就 会 跟 你 走。 那 么…… 带 上 这 包 一 百 个 第 纳 尔。 就 把 它 当 作 你 报 酬 的 预 付 款 去 村 子 里 转 转， 用 这 些 钱 去 招 些 人 手。 我 估 计 你 至 少 需 要 五 个 部 下 才 能 去 对 付 那 些 强 盗。 
@@ -3119,9 +3119,9 @@ dlga_member_give_order_disband_army_verify:member_give_order_disband_army_2|你 
 dlga_member_give_order_disband_army_2:member_give_order_disband_army|是。 我 们 再 也 不 需 要 我 们 所 有 的 军 力 都 集 中 在 这 里。 
 dlga_member_give_order_disband_army_2:member_pretalk|仔 细 想 想， 现 在 把 所 有 人 都 集 中 在 一 块 比 较 好。 
 dlga_member_give_order_disband_army:member_pretalk|好 的。 我 将 告 诉 所 有 人， 他 们 可 以 解 散 了。 
-dlga_mayor_wealth_comparison_1:mayor_wealth_comparison_2|如 果 把 所 有 城 镇 拥 有 的 财 富 数 量 做 一 个 比 较， 卡 拉 迪 亚 最 富 裕 的 城 镇 肯 定 是 {s4}。 至 于 我 们 的 城 镇 {s5}， 一 共 有 {reg4}个 城 镇 的 财 富 超 过 我 们， 有 {reg5}个 城 镇 的 财 富 落 后 于 我 们。 
-dlga_mayor_wealth_comparison_2:mayor_wealth_comparison_3|就 城 镇 的 商 品 出 产 能 力 而 言， 卡 拉 迪 亚 生 产 力 最 发 达 的 城 镇 非 {s4}莫 属， 至 于 我 们 的 城 镇 {s5}， 我 们 的 商 品 生 产 力 低 于 {reg4}个 城 镇， 高 于 {reg5}个 城 镇。 毫 无 疑 问， 城 镇 的 商 品 出 产 能 力 很 大 程 度 上 受 到 它 所 能 获 得 的 生 产 材 料 数 量 影 响， 同 时 也 被 城 镇 的 整 体 繁 荣 度 所 左 右。
-dlga_mayor_wealth_comparison_3:mayor_wealth_comparison_4|就 城 镇 的 周 边 村 庄 产 出 而 言， {s4}周 边 的 物 产 无 疑 是 卡 拉 迪 亚 大 陆 上 最 丰 富 的， 至 于 我 们 {s5}， 有 {reg4}个 城 镇 的 村 庄 产 出 比 我 们 丰 富， 同 时 产 出 少 于 我 们 的 城 镇 有 {reg5}个。 影 响 城 镇 村 庄 产 出 的 最 主 要 因 素 就 是 战 争。 军 队 的 掠 夺 和 洗 劫，领 土 的 不 断 易 主， 都 会 对 城 镇 的 周 边 产 出 造 成 极 大 的 冲 击。 
+dlga_mayor_wealth_comparison_1:mayor_wealth_comparison_2|如 果 把 所 有 城 镇 拥 有 的 财 富 数 量 做 一 个 比 较， 世 界 上 最 富 裕 的 城 镇 肯 定 是 {s4}。 至 于 我 们 的 城 镇 {s5}， 一 共 有 {reg4}个 城 镇 的 财 富 超 过 我 们， 有 {reg5}个 城 镇 的 财 富 落 后 于 我 们。 
+dlga_mayor_wealth_comparison_2:mayor_wealth_comparison_3|就 城 镇 的 商 品 出 产 能 力 而 言， 世 界 上 生 产 力 最 发 达 的 城 镇 非 {s4}莫 属， 至 于 我 们 的 城 镇 {s5}， 我 们 的 商 品 生 产 力 低 于 {reg4}个 城 镇， 高 于 {reg5}个 城 镇。 毫 无 疑 问， 城 镇 的 商 品 出 产 能 力 很 大 程 度 上 受 到 它 所 能 获 得 的 生 产 材 料 数 量 影 响， 同 时 也 被 城 镇 的 整 体 繁 荣 度 所 左 右。
+dlga_mayor_wealth_comparison_3:mayor_wealth_comparison_4|就 城 镇 的 周 边 村 庄 产 出 而 言， {s4}周 边 的 物 产 无 疑 是 世 界 上 最 丰 富 的， 至 于 我 们 {s5}， 有 {reg4}个 城 镇 的 村 庄 产 出 比 我 们 丰 富， 同 时 产 出 少 于 我 们 的 城 镇 有 {reg5}个。 影 响 城 镇 村 庄 产 出 的 最 主 要 因 素 就 是 战 争。 军 队 的 掠 夺 和 洗 劫，领 土 的 不 断 易 主， 都 会 对 城 镇 的 周 边 产 出 造 成 极 大 的 冲 击。 
 dlga_mayor_wealth_comparison_4:mayor_wealth_comparison_5|就 城 镇 的 商 旅 往 来 数 目 而 言， {s4}毫 无 疑 问 是 近 几 个 月 来 当 之 无 愧 的 第 一 名， 而 在 我 们 {s5}做 生 意 的 商 旅 数 量 比 {reg4}个 城 镇 要 少， 有 {reg5}个 城 镇 的 商 旅 数 量 还 在 我 们 之 下。 
 dlga_mayor_wealth_comparison_5:mayor_pretalk|就 往 来 的 旅 人 和 客 商 受 到 攻 击 的 次 数 来 说， 最 危 险 的 城 镇 当 然 是 {s4}， 至 于 我 们 {s5}， 有 {reg4}个 城 镇 遭 受 的 匪 患 比 我 们 要 严 重， 而 遭 受 匪 患 侵 扰 轻 于 我 们 的 城 镇 则 有 {reg5}个。
 dlga_free:close_window|再 见。 
