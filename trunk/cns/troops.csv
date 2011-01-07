@@ -1169,8 +1169,8 @@ trp_npc20|伊 斯 迈 尔
 trp_npc20_pl|伊 斯 迈 尔 
 trp_npc22|阿 历 克 西 奥 斯 
 trp_npc22_pl|阿 历 克 西 奥 斯 
-trp_npc23|雨 格 
-trp_npc23_pl|雨 格 
+trp_npc23|于 格 
+trp_npc23_pl|于 格 
 trp_npc24|代 戈 
 trp_npc24_pl|代 戈 
 trp_npc25|巴 拉 班 
@@ -1535,46 +1535,46 @@ trp_knight_9_19|阿 尔 曼 的 亨 利 亲 王
 trp_knight_9_19_pl|阿 尔 曼 的 亨 利 
 trp_knight_9_20|“王 室 大 臣” 约 翰· 曼 赛 尔 
 trp_knight_9_20_pl|约 翰· 曼 赛 尔 
-trp_knight_10_1|Alphonse de Poitiers, comte de Poitiers, de Saintonge et de Toulouse{***}
-trp_knight_10_1_pl|Alphonse de Poitiers{***}
-trp_knight_10_2|Charles Ier d'Anjou, Comte d’Anjou du Maine, de Provence et de Forcalquier{***}
-trp_knight_10_2_pl|Charles Ier d'Anjou{***}
-trp_knight_10_3|Jean Ier le Roux, Duc de Bretagne{***}
-trp_knight_10_3_pl|Jean Ier le Roux{***}
-trp_knight_10_4|Hugues XII de Lusignan, sire de Lusignan, comte de la Marche et d’Angoulême{***}
-trp_knight_10_4_pl|Hugues XII de Lusignan{***}
-trp_knight_10_5|Robert V, comte d'Auvergne{***}
-trp_knight_10_5_pl|Robert V{***}
-trp_knight_10_6|Robert IVn Comte de Dreux and de Braine{***}
-trp_knight_10_6_pl|Robert IVn{***}
-trp_knight_10_7|Robert II, Comte d'Artois{***}
-trp_knight_10_7_pl|Robert II{***}
-trp_knight_10_8|Hugues IV, duc de Bourgogne{***}
-trp_knight_10_8_pl|Hugues IV{***}
-trp_knight_10_9|Eudes de Bourgogne, comte de Nevers, d'Auxerre et de Tonnerre{***}
-trp_knight_10_9_pl|Eudes de Bourgogne{***}
-trp_knight_10_10|Jean de Bourgogne, sire de Bourbon et comte de Charollais{***}
-trp_knight_10_10_pl|Jean de Bourgogne{***}
-trp_knight_10_11|Guigues VII de Bourgogne, dauphin de Viennois, comte d'Albon, de Grenoble, d'Oisans, de Brianson, d'Embrun et de Gap{***}
-trp_knight_10_11_pl|Guigues VII de Bourgogne{***}
-trp_knight_10_12|Guigues V, comte de Forez{***}
-trp_knight_10_12_pl|Guigues V{***}
-trp_knight_10_13|Gui III, comte de Saint-Pol{***}
-trp_knight_10_13_pl|Gui III{***}
-trp_knight_10_14|Jean de Nesle, seigneur de Falvy et de La Herelle{***}
-trp_knight_10_14_pl|Jean de Nesle{***}
-trp_knight_10_15|Jean de Châtillon, comte de Blois et de Chartres{***}
-trp_knight_10_15_pl|Jean de Châtillon{***}
-trp_knight_10_16|Louis Ier, comte de Sancerre{***}
-trp_knight_10_16_pl|Louis Ier{***}
-trp_knight_10_17|Alain VI, vicomte de Rohan {***}
-trp_knight_10_17_pl|Alain VI{***}
-trp_knight_10_18|Olivier Ier de Clisson{***}
-trp_knight_10_18_pl|Olivier Ier de Clisson{***}
-trp_knight_10_19|Olivier II de Clisson{***}
-trp_knight_10_19_pl|Olivier II de Clisson{***}
-trp_knight_10_20|Hugues IV de Millau, comte de Rodez, vicomte de Carlat, de Creyssel et seigneur de Scorailles{***}
-trp_knight_10_20_pl|Hugues IV de Millau{***}
+trp_knight_10_1|普 瓦 提 埃 伯 爵，阿 尔 封 斯 
+trp_knight_10_1_pl|普 瓦 提 埃 的 阿 尔 封 斯 
+trp_knight_10_2|安 茹 和 曼 恩 伯 爵，安 茹 的 夏 尔 勒 一 世 
+trp_knight_10_2_pl|安 茹 的 夏 尔 勒 一 世 
+trp_knight_10_3|布 列 塔 尼 公 爵，勒 鲁 的 让 一 世 
+trp_knight_10_3_pl|勒 鲁 的 让 一 世 
+trp_knight_10_4|昂 古 莱 姆 伯 爵，吕 西 尼 昂 的 于 格 七 世 
+trp_knight_10_4_pl|吕 西 尼 昂 的 于 格 七 世 
+trp_knight_10_5|奥 弗 涅 公 爵，奥 弗 涅 的 罗 贝 尔 五 世 
+trp_knight_10_5_pl|奥 弗 涅 的 罗 贝 尔 五 世 
+trp_knight_10_6|德 勒 伯 爵，德 勒 的 罗 贝 尔 四 世 
+trp_knight_10_6_pl|德 勒 的 罗 贝 尔 四 世 
+trp_knight_10_7|阿 图 瓦 伯 爵，阿 图 瓦 的 罗 贝 尔 二 世 
+trp_knight_10_7_pl|阿 图 瓦 的 罗 贝 尔 二 世 
+trp_knight_10_8|勃 艮 第 公 爵，勃 艮 第 的 于 格 四 世 
+trp_knight_10_8_pl|勃 艮 第 的 于 格 四 世 
+trp_knight_10_9|讷 韦 尔、奥 塞 尔 和 托 奈 尔 伯 爵，勃 艮 第 的 厄 德 
+trp_knight_10_9_pl|勃 艮 第 的 厄 德 
+trp_knight_10_10|夏 洛 萊 伯 爵，勃 艮 第 的 让 
+trp_knight_10_10_pl|勃 艮 第 的 让 
+trp_knight_10_11|维 恩 的 王 太 子，勃 艮 第 的 居 格 七 世 
+trp_knight_10_11_pl|勃 艮 第 的 居 格 七 世 
+trp_knight_10_12|福 雷 伯 爵，福 雷 的 居 格 五 世 
+trp_knight_10_12_pl|福 雷 的 居 格 五 世 
+trp_knight_10_13|圣 波 勒 伯 爵，刚 达 瓦 恩 的 居 伊 三 世 
+trp_knight_10_13_pl|刚 达 瓦 恩 的 居 伊 三 世 
+trp_knight_10_14|法 勒 维 和 拉 埃 莱 勒 领 主，內 斯 勒 的 让 
+trp_knight_10_14_pl|內 斯 勒 的 让 
+trp_knight_10_15|布 鲁 瓦 和 沙 特 尔 伯 爵，沙 蒂 永 的 让 
+trp_knight_10_15_pl|沙 蒂 永 的 让 
+trp_knight_10_16|桑 塞 尔 伯 爵，桑 塞 尔 的 路 易 一 世 
+trp_knight_10_16_pl|桑 塞 尔 的 路 易 一 世 
+trp_knight_10_17|罗 昂 子 爵，罗 昂 的 阿 兰 六 世 
+trp_knight_10_17_pl|罗 昂 的 阿 兰 六 世 
+trp_knight_10_18|克 利 松 的 奥 利 维 尔 一 世 
+trp_knight_10_18_pl|克 利 松 的 奥 利 维 尔 一 世 
+trp_knight_10_19|克 利 松 的 奥 利 维 尔 二 世 
+trp_knight_10_19_pl|克 利 松 的 奥 利 维 尔 二 世 
+trp_knight_10_20|罗 德 兹 伯 爵，米 约 的 于 格 四 世 
+trp_knight_10_20_pl|米 约 的 于 格 四 世 
 trp_knight_11_1|马 格 努 斯· 哈 康 松 国 王 
 trp_knight_11_1_pl|马 格 努 斯· 哈 康 松 
 trp_knight_11_2|克 努 特· 哈 康 松 首 领 
@@ -1629,8 +1629,8 @@ trp_knight_12_6|Maol Iosa II, Mormaer of Strathearn{***}
 trp_knight_12_6_pl|Maol Iosa II{***}
 trp_knight_12_7|Alaxandair Stewart, High Steward of Scotland{***}
 trp_knight_12_7_pl|Alaxandair Stewart{***}
-trp_knight_12_8|William Longleg, Lord of Douglas{***}
-trp_knight_12_8_pl|William Longleg{***}
+trp_knight_12_8|道 格 拉 斯 领 主，威 廉“长 腿” 
+trp_knight_12_8_pl|威 廉“长 腿” 
 trp_knight_12_9|Uilleam I mac Ferchar, Mormaer of Ross{***}
 trp_knight_12_9_pl|Uilleam I mac Ferchar{***}
 trp_knight_12_10|Patrick III, Earl of Dunbar{***}
@@ -1871,18 +1871,18 @@ trp_knight_23_2|Thomas Bérard, Grandmaster of the Knights Templar{***}
 trp_knight_23_2_pl|Thomas Bérard{***}
 trp_knight_23_3|Bohemond VI of Antioch{***}
 trp_knight_23_3_pl|Bohemond VI{***}
-trp_knight_23_4|塞 浦 路 斯 国 王，吕 西 尼 昂 的 雨 格 二 世 
-trp_knight_23_4_pl|吕 西 尼 昂 的 雨 格 二 世 
+trp_knight_23_4|塞 浦 路 斯 国 王，吕 西 尼 昂 的 于 格 二 世 
+trp_knight_23_4_pl|吕 西 尼 昂 的 于 格 二 世 
 trp_knight_23_5|John d'Aleman, Lord of Caesarea{***}
 trp_knight_23_5_pl|John d'Aleman{***}
-trp_knight_23_6|Anno von Sangerhausen, Grandmaster of the Teutonic Order{***}
-trp_knight_23_6_pl|Anno von Sangerhausen{***}
+trp_knight_23_6|条 顿 骑 士 团 大 团 长，桑 格 豪 森 的 安 诺 
+trp_knight_23_6_pl|桑 格 豪 森 的 安 诺 
 trp_knight_23_7|Baldwin of Ibelin, Seneschal of Cyprus{***}
 trp_knight_23_7_pl|Baldwin of Ibelin{***}
 trp_knight_23_8|Geoffrey de Sargines, Marechal de Jerusalem{***}
 trp_knight_23_8_pl|Geoffrey de Sargines{***}
-trp_knight_23_9|Leon II of Cilicia{***}
-trp_knight_23_9_pl|Leon II of Cilicia{***}
+trp_knight_23_9|奇 里 乞 亚 的 利 昂 二 世 
+trp_knight_23_9_pl|奇 里 乞 亚 的 利 昂 二 世 
 trp_knight_23_10|Thoros of Cilicia{***}
 trp_knight_23_10_pl|Thoros of Cilicia{***}
 trp_knight_23_11|Gilles d'Estrain{***}
@@ -2514,33 +2514,33 @@ trp_kingdom_12_lady_2_pl|马 尔 约 莉
 trp_kingdom_12_lady_3|“门 蒂 斯 女 伯 爵”伊 莎 贝 拉 女 士 
 trp_kingdom_12_lady_3_pl|伊 莎 贝 拉 
 trp_kingdom_12_lady_4|Elen ferch Llywelyn{***}
-trp_kingdom_12_lady_4_pl|Elen ferch Llywelyn{***}
-trp_kingdom_12_lady_5|Lady Marjorie{***}
-trp_kingdom_12_lady_5_pl|Marjorie{***}
-trp_kingdom_12_lady_6|Elisabeth Comyn{***}
-trp_kingdom_12_lady_6_pl|Elisabeth Comyn{***}
-trp_kingdom_12_lady_7|Matilda of Orkney and Caithness {***}
-trp_kingdom_12_lady_7_pl|Matilda{***}
-trp_kingdom_12_lady_8|Jean of Bute{***}
-trp_kingdom_12_lady_8_pl|Jean of Bute{***}
-trp_kingdom_12_lady_9|Marjory de Abernethy{***}
-trp_kingdom_12_lady_9_pl|Marjory de Abernethy{***}
-trp_kingdom_12_lady_10|Johanna Comyn{***}
-trp_kingdom_12_lady_10_pl|Johanna Comyn{***}
-trp_kingdom_13_lady_1|Lady Rayma{***}
-trp_kingdom_13_lady_1_pl|Rayma{***}
-trp_kingdom_13_lady_2|Lady Thanaikha{***}
-trp_kingdom_13_lady_2_pl|Thanaikha{***}
-trp_kingdom_13_lady_3|Lady Sulaha{***}
-trp_kingdom_13_lady_3_pl|Sulaha{***}
-trp_kingdom_13_lady_4|Lady Shatha{***}
-trp_kingdom_13_lady_4_pl|Shatha{***}
-trp_kingdom_13_lady_5|Lady Bawthan{***}
-trp_kingdom_13_lady_5_pl|Bawthan{***}
-trp_kingdom_13_lady_6|Lady Mahayl{***}
-trp_kingdom_13_lady_6_pl|Mahayl{***}
-trp_kingdom_13_lady_7|Lady Isna{***}
-trp_kingdom_13_lady_7_pl|Isna{***}
+trp_kingdom_12_lady_4_pl|艾 伦· 菲 尔 诗· 卢 埃 林 女 士 
+trp_kingdom_12_lady_5|马 乔 里 女 士 
+trp_kingdom_12_lady_5_pl|马 乔 里 
+trp_kingdom_12_lady_6|伊 丽 莎 白· 科 明 女 士 
+trp_kingdom_12_lady_6_pl|伊 丽 莎 白· 科 明 
+trp_kingdom_12_lady_7|奥 克 尼 和 凯 思 内 斯 的 玛 蒂 尔 达 女 士 
+trp_kingdom_12_lady_7_pl|玛 蒂 尔 达 
+trp_kingdom_12_lady_8|比 特 的 吉 恩 女 士 
+trp_kingdom_12_lady_8_pl|比 特 的 吉 恩 
+trp_kingdom_12_lady_9|阿 伯 内 西 的 马 乔 里 女 士 
+trp_kingdom_12_lady_9_pl|阿 伯 内 西 的 马 乔 里 
+trp_kingdom_12_lady_10|约 翰 娜· 科 明 女 士 
+trp_kingdom_12_lady_10_pl|约 翰 娜· 科 明 
+trp_kingdom_13_lady_1|雷 玛 女 士 
+trp_kingdom_13_lady_1_pl|雷 玛 
+trp_kingdom_13_lady_2|查 娜 卡 女 士 
+trp_kingdom_13_lady_2_pl|查 娜 卡 
+trp_kingdom_13_lady_3|舒 拉 哈 女 士 
+trp_kingdom_13_lady_3_pl|舒 拉 哈 
+trp_kingdom_13_lady_4|莎 查 女 士 
+trp_kingdom_13_lady_4_pl|莎 查 
+trp_kingdom_13_lady_5|鲍 桑 女 士 
+trp_kingdom_13_lady_5_pl|鲍 桑 
+trp_kingdom_13_lady_6|马 哈 伊 尔 女 士 
+trp_kingdom_13_lady_6_pl|马 哈 伊 尔 
+trp_kingdom_13_lady_7|伊 丝 娜 女 士 
+trp_kingdom_13_lady_7_pl|伊 丝 娜 
 trp_kingdom_13_lady_8|Lady Siyafan{***}
 trp_kingdom_13_lady_8_pl|Siyafan{***}
 trp_kingdom_13_lady_9|Lady Ifar{***}
