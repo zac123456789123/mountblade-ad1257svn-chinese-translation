@@ -394,7 +394,7 @@ str_npc28_intro|Gamal the Arab{***}
 str_npc29_intro|Dragoslav the Serbian{***}
 str_npc30_intro|Kyril the Bulgarian{***}
 str_npc31_intro|Ali the Berber{***}
-str_npc1_intro_response_1|Interesting choice of phrase my friend.
+str_npc1_intro_response_1|我 的 朋 友， 你 选 择 打 招 呼 的 方 式 很 有 意 思。  
 str_npc2_intro_response_1|你 好。 
 str_npc3_intro_response_1|当 然 可 以， 但 我 想 冒 昧 的 问 下 我 将 和 谁 享 受 这 喝 酒 的 乐 趣 呢？ 
 str_npc4_intro_response_1|哦？ 这 对 我 来 说 太 陌 生 了 吧？ {***}
@@ -452,7 +452,7 @@ str_npc28_intro_response_2|Gamal the Arab - response 2{***}
 str_npc29_intro_response_2|Dragoslav the Serbian - response 2{***}
 str_npc30_intro_response_2|Kyril the Bulgarian - response 2{***}
 str_npc31_intro_response_2|Ali the Berber - response 2{***}
-str_npc1_backstory_a|I hope he watches over you better than he is over me currently. Years of service wasted because of a stroke of ill fortune! Or better put a rival with less honour than I.
+str_npc1_backstory_a|我 希 望 神 多 照 看 照 看 你， 而 不 要 像 现 在 这 样 对 我 照 看 地 这 么 多。 卖 了 这 么 多 年 命， 却 因 为 一 次 不 走 运 全 部 白 费。 我 还 真 不 如 我 那 些 没 有 荣 誉 的 家 伙。 
 str_npc2_backstory_a|您 所 能 听 到 的 最 悲 惨 的 灾 祸 与 不 幸 将 我 带 到 了 这 里。 
 str_npc3_backstory_a|我 是 合 丹， AzabeiI之 子， Badzan之 孙。 如 果 你 不 是 一 个 野 蛮 人， 你 能 从 我 的 血 统 看 出 我 是 一 个 草 原 武 士， 来 自 Shamir部 落， Dulam氏 族， Ubayn 家 族。 你 或 许 还 能 猜 一 猜 我 为 什 么 离 家 这 么 远。 
 str_npc4_backstory_a|大 人， 我 有 一 个 很 有 意 思 的 故 事 告 诉 你， 如 果 你 有 时 间 听 的 话。 我 那 时 正 在 船 上 寻 找 我 们 族 人 传 说 中 的 神 奇 土 地：Vineland。 对， 就 是 Vineland。 
@@ -481,7 +481,7 @@ str_npc28_backstory_a|Gamal the Arab - backstory a{***}
 str_npc29_backstory_a|Dragoslav the Serbian - backstory a{***}
 str_npc30_backstory_a|Kyril the Bulgarian - backstory a{***}
 str_npc31_backstory_a|Ali the Berber - backstory a{***}
-str_npc1_backstory_b|I was in line for premotion within the order but then my assistant decided to betray me, all because I had shown humanity to a starving heathen village by letting them collect the harvest. For the chance ,only the chance, of my job he betrayed me! Guess he did not like the idea of playing second fiddle to me. Traitor.
+str_npc1_backstory_b|在 我 的 助 手 背 叛 我 时， 我 都 快 升 迁 了。 仅 仅 是 因 为 我 同 情 一 个 挨 饿 的 异 教 徒 的 村 庄， 让 他 们 收 割 了 自 己 的 庄 稼。 就 这 么 一 次 机 会， 他 得 到 我 职 位 的 机 会， 他 就 背 叛 了 我。 他 肯 定 不 喜 欢 当 我 的 下 手。 这 个 叛 徒！ 
 str_npc2_backstory_b|你 肯 定 知 道 最 近 教 皇 召 集 了 十 字 军 进 攻 我 们 波 罗 的 海 国 家， 为 了 帮 助 我 的 同 胞， 我 所 在 的 城 镇 决 定 派 出 一 支 队 伍 加 入 国 王 所 召 集 的 军 队。 我 在 队 伍 中 行 军， 快 乐 的 像 个 云 雀， 这 时 队 长 命 令 我 出 列， 去 找 补 给。 所 以 我 就 去 为 我 和 我 的 战 友 们 找 一 点 吃 的。 
 str_npc3_backstory_b|在 所 有 人 的 记 忆 之 前， 我 们 族 人 便 与Humyan部 落 的 人 有 世 仇。Humyan部 落 的 许 多 人 都 住 在 旁 边 的 山 谷。双 方 的 很 多 人 都 由 于 仇 杀 丧 生，其 中 包 括 我 的 兄 弟 们。为 了 能 给 西 边 的 战 争 保 存 实 力， 可 汗 本 人 命 令 我 们 停 止 争 斗。 但 我 知 道 自 己 的 权 利，我 兄 弟 们 的 血 也 呼 喊 着 要 我 复 仇。 我 在 路 上 伏 击 并 杀 死 一 个Humyan， 并 在 当 晚 逃 出 了 村 庄， 甚 至 没 有 来 得 及 和 父 亲 告 别。 我 打 算 这 一 两 年 都 在 这 片 土 地 上 等 待 时 机， 等 到 可 汗 得 人 都 忘 记 了 再 回 家。 但 是Humyan人， 他 们 当 然 不 会 忘。 但 这 就 是 荣 誉 的 代 价。 
 str_npc4_backstory_b|作 为 一 个 丹 麦 人， 我 和 我 的 祖 先 们 一 样， 非 常 期 待 冒 险 以 及 随 之 而 来 的 动 荡 不 安。 可 是 我 们 还 没 离 开 港 口 多 远 麻 烦 就 来 了， 大 概 两 天 前， 我 们 遇 上 了 风 暴！ 我 理 所 当 然 的 抱 怨 船 长， 在 起 航 前 没 有 献 祭， 这 是 对 上 古 之 神 们 的 不 尊 重， old land means old gods! 
@@ -496,7 +496,7 @@ str_npc12_backstory_b|Uilleam the Scot - backstory b
 str_npc13_backstory_b|Aedh the Irishman - backstory b
 str_npc14_backstory_b|Karl the Swede - backstory b
 str_npc15_backstory_b|Ivan of Galicia - backstory b
-str_npc16_backstory_b|I am by training a monk and a scholar, However, not so long ago, I was expelled from my abbey for certain immoral acts which are unbecoming of a man of God.  Bleeding hypocrites, the lot of them!  They'd expel me for knowing women and drink?  Those pigs are no better, it's just an excuse to be off with me.  To the Devil with them and their order and their rules, I've had enough of it all!
+str_npc16_backstory_b|我 一 直 受 到 僧 侣 和 学 者 的 训 练。 然 而， 不 久 以 前， 我 因 为 一 些 让 人 无 法 成 为 神 职 人 员 的 不 道 德 行 为 被 驱 逐 出 了 修 道 院。 那 群 伪 君 子！ 他 们 会 因 为 我 知 道 女 人 和 喝 酒 而 开 除 我？ 那 群 猪！ 那 只 是 一 个 赶 走 我 的 借 口。 让 他 们 所 谓 的 规 则 与 秩 序 下 地 狱 去 吧！ 我 早 就 受 够 了！ 
 str_npc17_backstory_b|Jaume of Aragon - backstory b{***}
 str_npc18_backstory_b|Fernando the Castillan - backstory b{***}
 str_npc20_backstory_b|Isma'il the Andalusian - backstory b{***}
@@ -510,7 +510,7 @@ str_npc28_backstory_b|Gamal the Arab - backstory b{***}
 str_npc29_backstory_b|Dragoslav the Serbian - backstory b{***}
 str_npc30_backstory_b|Kyril the Bulgarian - backstory b{***}
 str_npc31_backstory_b|Ali the Berber - backstory b{***}
-str_npc1_backstory_c|And now as you can see instead of commanding armies and destroying the enemies of god, I am sat here in a common tavern!
+str_npc1_backstory_c|现 在 你 明 白 我 为 什 么 坐 在 这 个 普 通 的 酒 馆 里， 而 不 是 指 挥 军 队 摧 毁 敌 军 了 吧。 
 str_npc2_backstory_c|当 我 回 到 部 队 时， 额， 其 实 那 时 已 经 没 有 部 队 了， 只 有 成 千 上 万 的 蹄 印 和 很 多 尸 体。 现 在 我 不 敢 回 家 ， 因 为 怕 被 看 成 逃 兵， 我 想 回 到 我 的 城 镇。 {***}
 str_npc3_backstory_c|在 此 期 间， 能 用 我 的 剑 赚 钱 谋 生 的 机 会， 我 都 是 很 欢 迎 的。 
 str_npc4_backstory_c|于 是 船 长 如 我 要 求 的， 决 定 孝 敬 神。 而 我 被 当 成 献 祭 品 扔 下 了 船。 我 昏 了 过 去。 等 我 醒 来 时， 我 已 经 被 冲 到 了 海 岸 上， 身 无 分 文。 
@@ -542,12 +542,12 @@ str_npc31_backstory_c|Ali the Berber - backstory c{***}
 str_npc1_backstory_later|My purse which was once overflowing with denars is now boarding on empty. The order was all I had, all I had ever wanted....
 str_npc2_backstory_later|作 为 战 败 军 队 的 一 个 幸 存 者， 已 经 没 有 前 途 了。 老 实 说 我 不 知 道 下 一 步 该 做 什 么。 
 str_npc3_backstory_later|我 在 这 块 饱 受 战 争 蹂 躏 的 土 地 上 游 荡， 只  为 寻 找 一 个 值 得 跟 随 的 领 袖。 
-str_npc4_backstory_later|于是我现在坐在这个旅馆，考虑如何回家，还有如何和我的家里人解释我是一个被拒绝了的献祭品。Now I'm sat here in this tavern wondering how to get home, and how to explain to my family that I'm a rejected sacrifice. Not exactly the pot of gold success story I was hoping for, as I'm sure you can imagine.
-str_npc5_backstory_later|I have not yet found a commander worthy of hearing my axe blade sing its deathly melody.
-str_npc6_backstory_later|This morning my mother died and now my life appears to be without a real purpose anymore.  All my family is dead, and my friends long left behind when I moved back to support my mother here.
+str_npc4_backstory_later|于 是 我 现 在 坐 在 这 个 旅 馆，考 虑 如 何 回 家， 还 有 如 何 和 我 的 家 里 人 解 释 我 是 一 个 被 拒 绝 了 的 献 祭 品。 
+str_npc5_backstory_later|到 目 前 为 止 我 还 没 有 找 到 一 个 配 听 我 战 斧 利 刃 奏 出 的 死 亡 旋 律 的 指 挥 官。 
+str_npc6_backstory_later|今 天 早 上， 我 的 母 亲 死 了， 我 的 生 活 似 乎 没 有 一 个 真 正 的 目 标 了。 我 所 有 的 家 人 都 死 了， 而 我 的 朋 友 在 我 回 家 赡 养 母 亲 之 后 也 都 没 有 了 音 信。 
 str_npc7_backstory_later|Istvan the Hungarian - backstory b
 str_npc8_backstory_later|Yuriy of Novgorod - backstory b
-str_npc9_backstory_later|I still haven't found a captain who will put me in their ranks.
+str_npc9_backstory_later|我 至 今 还 没 找 到 一 个 愿 意 让 我 加 入 他 队 伍 的 队 长。 
 str_npc10_backstory_later|Jean the Frenchman - backstory b
 str_npc11_backstory_later|Jon the Norwegian - backstory b
 str_npc12_backstory_later|Uilleam the Scot - backstory b
@@ -563,17 +563,17 @@ str_npc23_backstory_later|Hugues the Crusader - backstory b{***}
 str_npc24_backstory_later|Dego the Sicilian - backstory b{***}
 str_npc25_backstory_later|I have been wandering through the cities of these lands, leaving a string of love-sick women and cuckolded husbands in my wake. But I grow weary of such simple challenges, and had been thinking of turning myself to more martial pastimes.{***}
 str_npc26_backstory_later|Since that fateful betrayal of fathers last wishes by my oldest brother I have been wondering around homeless and penniless looking for a chance to renew my fortunes.{***}
-str_npc27_backstory_later|You see the horse took a route down a nearly vertical cliff face, and since none of the bandits wanted to follow thats how I escaped. Now I need to find a new lord as soon as possible.{***}
+str_npc27_backstory_later|我 的 马 走 了 一 条 在 几 乎 垂 直 的 悬 崖 上 的 路。 因 为 没 有 土 匪 愿 意 追 我， 所 以 我 就 逃 掉 了。 现 在 我 想 尽 快 的 找 一 个 雇 主。 
 str_npc28_backstory_later|Gamal the Arab - backstory b{***}
 str_npc29_backstory_later|Dragoslav the Serbian - backstory b{***}
 str_npc30_backstory_later|Kyril the Bulgarian - backstory b{***}
 str_npc31_backstory_later|Ali the Berber - backstory b{***}
-str_npc1_backstory_response_1|Ulrich perhaps there would be an opening for a experienced warrior such as yourself within my forces. If your interested that is?
+str_npc1_backstory_response_1|我 的 队 伍 很 欢 迎 你 这 样 有 经 验 的 战 士， 你 感 兴 趣 吗？ 
 str_npc2_backstory_response_1|在 你 思 考 下 一 步 怎 么 做 之 前， 你 在 我 这 干 吧， 怎 么 样？
 str_npc3_backstory_response_1|要 的 就 是 这 种 气 概！ 我 也 许 能 提 供 给 你 点 什 么。 {***}
 str_npc4_backstory_response_1|一 个 嗜 血 的 北 方 人？ 那 我 觉 得 我 的 队 伍 有 你 的 位 置。 
-str_npc5_backstory_response_1|I run a mercenary company, and I could certainly use somebody like you.
-str_npc6_backstory_response_1|I could use a man with your talents within my band if you would to try your hand at real healing and fighting.  Perhaps one day you could even have a chance to use those skills your father taught you.
+str_npc5_backstory_response_1|我 经 营 了 一 个 雇 佣 兵 的 组 织， 我 当 然 会 雇 佣 像 你 这 样 的 人。 
+str_npc6_backstory_response_1|我 是 很 愿 意 雇 佣 拥 有 你 这 样 天 赋 的 人 的， 只 要 你 真 的 愿 意 试 着 学 习 医 疗 和 战 斗。 或 许 某 天 你 还 能 有 机 会 使 用 你 父 亲 教 给 你 的 技 巧 呢。 
 str_npc7_backstory_response_1|Istvan the Hungarian - backstory response 1
 str_npc8_backstory_response_1|Yuriy of Novgorod - backstory response 1
 str_npc9_backstory_response_1|Well, perhaps I could offer you work. You say you can handle a bow?
@@ -590,19 +590,19 @@ str_npc20_backstory_response_1|Isma'il the Andalusian - backstory response 1{***
 str_npc22_backstory_response_1|Alexios the Greek - backstory response 1{***}
 str_npc23_backstory_response_1|Hugues the Crusader - backstory response 1{***}
 str_npc24_backstory_response_1|Dego the Sicilian - backstory response 1{***}
-str_npc25_backstory_response_1|I might be able to use an extra sword in my company.{***}
-str_npc26_backstory_response_1|I could use a gentleman trained in the arts of war in my warband, if your interested.{***}
-str_npc27_backstory_response_1|A tale like that demands that I offer you a place in my troop.{***}
+str_npc25_backstory_response_1|我 很 愿 意 我 的 队 伍 里 再 多 一 把 剑。 
+str_npc26_backstory_response_1|如 果 你 同 意， 我 很 愿 意 在 我 的 战 团 中 有 一 个 深 通 兵 法 的 绅 士。 
+str_npc27_backstory_response_1|你 这 样 的 经 历 让 我 不 得 不 为 你 在 我 的 队 伍 中 提供 一 个 位 置。 
 str_npc28_backstory_response_1|Gamal the Arab - backstory response 1{***}
 str_npc29_backstory_response_1|Dragoslav the Serbian - backstory response 1{***}
 str_npc30_backstory_response_1|Kyril the Bulgarian - backstory response 1{***}
 str_npc31_backstory_response_1|Ali the Berber - backstory response 1{***}
-str_npc1_backstory_response_2|Ah, well I am sorry to hear of your situation, but I do not want to risk the anger of the Teutonic Order.
+str_npc1_backstory_response_2|额， 对 你 的 处 境 我 深 表 同 情。 但 我 不 愿 冒 险 激 怒 条 顿 骑 士 团。 
 str_npc2_backstory_response_2|我 认 为 我 的 队 伍 里 没 有 懦 夫 的 位 置。 再 见。 
 str_npc3_backstory_response_2|哎， 只 要 你 山 里 的 族 人 还 在 进 行 部 落 间 的 战 争， 你 们 潜 力 就 无 法 发 挥， 这 真 的 很 悲 伤。 
 str_npc4_backstory_response_2|我 觉 得 我 不 该 接 受 一 个 甚 至 连 神 都 不 接 受 的 人。 
-str_npc5_backstory_response_2|Good luck in your search.  I'm afraid I can't help you.
-str_npc6_backstory_response_2|Go back to your mothers house and keep serving your community boy.  The world needs everyday hereos also.
+str_npc5_backstory_response_2|祝 你 好 运， 但 很 抱 歉， 我 帮 不 了 你。 
+str_npc6_backstory_response_2|小 子， 回 到 你 母 亲 的 房 子 并 继 续 为 你 的 社 区 服 务 吧。 这 个 世 界 也 需 要 市 井 中 的 英 雄。 
 str_npc7_backstory_response_2|Istvan the Hungarian - backstory response 2
 str_npc8_backstory_response_2|Yuriy of Novgorod - backstory response 2
 str_npc9_backstory_response_2|Hard luck, friend. Good day to you.
@@ -620,13 +620,13 @@ str_npc22_backstory_response_2|Alexios the Greek - backstory response 2{***}
 str_npc23_backstory_response_2|Hugues the Crusader - backstory response 2{***}
 str_npc24_backstory_response_2|Dego the Sicilian - backstory response 2{***}
 str_npc25_backstory_response_2|对 不 起， 我 帮 不 了 你。 
-str_npc26_backstory_response_2|You seem to carry an unlucky mark with you friend better we part ways here.{***}
+str_npc26_backstory_response_2|你 似 乎 有 给 你 朋 友 带 来 厄 运 的 标 记， 我 们 最 好 还 是 走 吧。 
 str_npc27_backstory_response_2|别 担 心， 你 肯 定 能 很 快 找 到 一 份 工 作 的。 
 str_npc28_backstory_response_2|Gamal the Arab - backstory response 2{***}
 str_npc29_backstory_response_2|Dragoslav the Serbian - backstory response 2{***}
 str_npc30_backstory_response_2|Kyril the Bulgarian - backstory response 2{***}
 str_npc31_backstory_response_2|Ali the Berber - backstory response 2{***}
-str_npc1_signup|Interesting offer and certainly better than sitting around in this flithy pit of depravity. Nothing better has been offered to me last days.
+str_npc1_signup|你 的 工 作 很 有 意 思， 当 然 比 我 坐 在 这 个 肮 脏 的 坑 里 堕 落 强。 这 是 我 最 近 找 到 最 好 的 一 个 工 作 了。 
 str_npc2_signup|总 比 坐 在 这 里 自 我 伤 心， 什 么 也 不 做 要 好。 
 str_npc3_signup|为 什 么， 这 是 一 个 很 慷 慨 的 提 议。 
 str_npc4_signup|嗜 血 吗？ 如 果 你 指 的 是 与 贵 族 斗 争， 我 从 不 退 缩。 但 即 使 真 能 找 到 这 种 斗 争， 我 发 誓， 与 那 些 交 易 商 讨 价 还 价 比 战 斗 一 天 还 累。 {***}
@@ -795,7 +795,7 @@ str_npc28_payment_response|Gamal the Arab - payment response{***}
 str_npc29_payment_response|Dragoslav the Serbian - payment response{***}
 str_npc30_payment_response|Kyril the Bulgarian - payment response{***}
 str_npc31_payment_response|Ali the Berber - payment response{***}
-str_npc1_morality_speech|先 生， 我 对 {s21}很 不 满。 那 些 在 战 斗 中 连 自 己 都 保 护 不 了 的 小卒 没 有 资 格 成为 我 们 的 一 员。 
+str_npc1_morality_speech|先 生， 我 对 {s21}很 不 满。 那 些 在 战 斗 中 连 自 己 都 保 护 不 了 的 小卒 没 有 资 格 成 为 我 们 的 一 员。 
 str_npc2_morality_speech|Ligeikis the Balt - morality speech
 str_npc3_morality_speech|对 不 起， 队 长， 这 对 {s21}不 太 好。 你 首 先 需 要 对 从 你 那 儿 得 到 盐 的 人 负 责， 他 们 所 期 盼 的 至 少 是 有 食 物， 有 佣 金， 有 掠 夺 财 物 的 机 会， 以 及 你 不 会 让 他 们 白 白 送 死。 
 str_npc4_morality_speech|我 加 入 了 你 的 团 队 是 因 为 我 认 为 你 是 一 个 注 重 荣 誉 的 人， 不 过 我 不 欣 赏 {s21}。 
@@ -903,7 +903,7 @@ str_npc28_personalityclash_speech_b|Gamal the Arab - personalityclash speech b{*
 str_npc29_personalityclash_speech_b|Dragoslav the Serbian - personalityclash speech b{***}
 str_npc30_personalityclash_speech_b|Kyril the Bulgarian - personalityclash speech b{***}
 str_npc31_personalityclash_speech_b|Ali the Berber - personalityclash speech b{***}
-str_npc1_personalityclash2_speech|Sir, i most protest. {s11} Is spreading the most horrible untruthes about what my Order does in his lands, without any proof of what he says, I am sure he is making up lies!
+str_npc1_personalityclash2_speech|长 官， 我 强 烈 抗 议，{s11}在 散 播 关 于 我 们 骑 士  团 在 他 国 家 做 出 恐 怖 的 事 的 谣 言。 他 没 有 任 何 证 据， 我 敢 肯 定 他 在 撒 谎！ 
 str_npc2_personalityclash2_speech|Ligeikis the Balt - personalityclash2 speech
 str_npc3_personalityclash2_speech|长 官， {s11}应 该 把 他 的 舌 头 切 掉。 
 str_npc4_personalityclash2_speech|我 讨 厌{s11}。 他 经 常 在 战 场 上 杀 掉 那 些 受 伤 了 的， 并 且 无 法 付 给 他 赎 金 的 人。 这 个 贪 婪 的 贵 族 只 是 在 寻 找 丰 富 的 赎 金， 屠 杀 普 通 人。 
@@ -1075,7 +1075,7 @@ str_npc28_rehire_speech|Gamal the Arab - rehire speech{***}
 str_npc29_rehire_speech|Dragoslav the Serbian - rehire speech{***}
 str_npc30_rehire_speech|Kyril the Bulgarian - rehire speech{***}
 str_npc31_rehire_speech|Ali the Berber - rehire speech{***}
-str_npc1_home_intro|Sir, we are passing close to the lands I used to control for the Order.
+str_npc1_home_intro|长 官， 我 们 快 到 我 曾 经 为 骑 士 团 控 制 的 土 地 了。 
 str_npc2_home_intro|Ligeikis the Balt - home intro
 str_npc3_home_intro|我 们 快 到 萨 莱 了。 那 是 低 地 草 原 上 最 大 的 城 市。 我 的 姨 妈 来 这 嫁 给 了 一 个 城 里 人。 那 会 我 就 想 找 一 个 大 人 效 忠， 就 是 那 时 我 遇 见 了 你。 
 str_npc4_home_intro|长 官， 你 能 闻 到 吗？ 那 是 海 的 味 道， 我 们 肯 定 在 我 家 那 座 古 老 城 镇 附 近。
