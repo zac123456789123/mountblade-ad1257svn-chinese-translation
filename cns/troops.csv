@@ -1131,8 +1131,8 @@ trp_kingdom_heroes_including_player_begin|kingdom heroes including player begin
 trp_kingdom_heroes_including_player_begin_pl|kingdom heroes including player begin 
 trp_npc1|乌 尔 里 希 
 trp_npc1_pl|乌 尔 里 希 
-trp_npc2|里 吉 基 斯 
-trp_npc2_pl|里 吉 基 斯 
+trp_npc2|利 盖 基 斯 
+trp_npc2_pl|利 盖 基 斯 
 trp_npc3|合 丹 
 trp_npc3_pl|合 丹 
 trp_npc4|雅 各 布 
@@ -1159,8 +1159,8 @@ trp_npc14|卡 尔
 trp_npc14_pl|卡 尔 
 trp_npc15|伊 米 克 
 trp_npc15_pl|伊 米 克 
-trp_npc16|马 蒂 奥 
-trp_npc16_pl|马 蒂 奥 
+trp_npc16|玛 蒂 奥 
+trp_npc16_pl|玛 蒂 奥 
 trp_npc17|豪 梅 
 trp_npc17_pl|豪 梅 
 trp_npc18|费 尔 南 多 
@@ -1285,8 +1285,8 @@ trp_knight_2_4|厄 尔 德 维 拉 斯 公 爵
 trp_knight_2_4_pl|厄 尔 德 维 拉 斯 
 trp_knight_2_5|比 克 西 斯 公 爵 
 trp_knight_2_5_pl|比 克 西 斯 
-trp_knight_2_6|里 吉 基 斯 公 爵 
-trp_knight_2_6_pl|里 吉 基 斯 
+trp_knight_2_6|利 盖 基 斯 公 爵 
+trp_knight_2_6_pl|利 盖 基 斯 
 trp_knight_2_7|克 里 斯 蒂 约 纳 斯 主 教 
 trp_knight_2_7_pl|克 里 斯 蒂 约 纳 斯 
 trp_knight_2_8|莱 普 里 斯 公 爵 
@@ -2976,36 +2976,36 @@ trp_kingdom_30_lady_9|Lady Zornitza{***}
 trp_kingdom_30_lady_9_pl|Zornitza{***}
 trp_kingdom_30_lady_10|Lady Zoya{***}
 trp_kingdom_30_lady_10_pl|Zoya{***}
-trp_kingdom_31_lady_1|Lubaba{***}
-trp_kingdom_31_lady_1_pl|Lubaba{***}
-trp_kingdom_31_lady_2|Khayra{***}
-trp_kingdom_31_lady_2_pl|Khayra{***}
-trp_kingdom_31_lady_3|Juwayriyyah{***}
-trp_kingdom_31_lady_3_pl|Juwayriyyah{***}
-trp_kingdom_31_lady_4|Jumana{***}
-trp_kingdom_31_lady_4_pl|Jumana{***}
-trp_kingdom_31_lady_5|Dahah{***}
-trp_kingdom_31_lady_5_pl|Dahah{***}
-trp_kingdom_31_lady_6|Durra{***}
-trp_kingdom_31_lady_6_pl|Durra{***}
-trp_kingdom_31_lady_7|Fazila{***}
-trp_kingdom_31_lady_7_pl|Fazila{***}
-trp_kingdom_31_lady_8|Hababah{***}
-trp_kingdom_31_lady_8_pl|Hababah{***}
-trp_kingdom_31_lady_9|Halima{***}
-trp_kingdom_31_lady_9_pl|Halima{***}
-trp_kingdom_31_lady_10|Hind{***}
-trp_kingdom_31_lady_10_pl|Hind{***}
-trp_kingdom_31_lady_11|Husn{***}
-trp_kingdom_31_lady_11_pl|Husn{***}
-trp_kingdom_31_lady_12|Jaida{***}
-trp_kingdom_31_lady_12_pl|Jaida{***}
-trp_kingdom_31_lady_13|Kasif{***}
-trp_kingdom_31_lady_13_pl|Kasif{***}
-trp_kingdom_31_lady_14|Khayra{***}
-trp_kingdom_31_lady_14_pl|Khayra{***}
-trp_kingdom_31_lady_15|Mayy{***}
-trp_kingdom_31_lady_15_pl|Mayy{***}
+trp_kingdom_31_lady_1|露 巴 巴 女 士 
+trp_kingdom_31_lady_1_pl|露 巴 巴 
+trp_kingdom_31_lady_2|凯 拉 女 士 
+trp_kingdom_31_lady_2_pl|凯 拉 
+trp_kingdom_31_lady_3|朱 维 利 娅 赫 女 士 
+trp_kingdom_31_lady_3_pl|朱 维 利 娅 赫 
+trp_kingdom_31_lady_4|朱 玛 娜 女 士 
+trp_kingdom_31_lady_4_pl|朱 玛 娜 
+trp_kingdom_31_lady_5|达 哈 女 士 
+trp_kingdom_31_lady_5_pl|达 哈 
+trp_kingdom_31_lady_6|杜 拉 女 士 
+trp_kingdom_31_lady_6_pl|杜 拉 
+trp_kingdom_31_lady_7|法 奇 拉 女 士 
+trp_kingdom_31_lady_7_pl|法 奇 拉 
+trp_kingdom_31_lady_8|哈 巴 巴 女 士 
+trp_kingdom_31_lady_8_pl|哈 巴 巴 
+trp_kingdom_31_lady_9|哈 莉 玛 女 士 
+trp_kingdom_31_lady_9_pl|哈 莉 玛 
+trp_kingdom_31_lady_10|辛 德 女 士 
+trp_kingdom_31_lady_10_pl|辛 德 
+trp_kingdom_31_lady_11|胡 森 女 士 
+trp_kingdom_31_lady_11_pl|胡 森 
+trp_kingdom_31_lady_12|婕 达 女 士 
+trp_kingdom_31_lady_12_pl|婕 达 
+trp_kingdom_31_lady_13|卡 茜 夫 女 士 
+trp_kingdom_31_lady_13_pl|卡 茜 夫 
+trp_kingdom_31_lady_14|凯 拉 女 士 
+trp_kingdom_31_lady_14_pl|凯 拉 
+trp_kingdom_31_lady_15|玛 依 女 士 
+trp_kingdom_31_lady_15_pl|玛 依 
 trp_town_1_arena_master|竞 技 场 老 板 
 trp_town_2_arena_master|竞 技 场 老 板 
 trp_town_3_arena_master|竞 技 场 老 板 
