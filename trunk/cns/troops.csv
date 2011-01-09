@@ -362,8 +362,8 @@ trp_rus_town_3_2|罗 斯 长 矛 兵
 trp_rus_town_3_2_pl|罗 斯 长 矛 兵 
 trp_rus_town_4_2|罗 斯 重 装 长 矛 兵 
 trp_rus_town_4_2_pl|罗 斯 重 装 长 矛 兵 
-trp_rus_horse_1|罗 斯 轻 装 枪 骑 兵 
-trp_rus_horse_1_pl|罗 斯 轻 装 枪 骑 兵 
+trp_rus_horse_1|罗 斯 骑 射 手 
+trp_rus_horse_1_pl|罗 斯 骑 射 手 
 trp_rus_horse_2|罗 斯 贵 族 枪 骑 兵 
 trp_rus_horse_2_pl|罗 斯 贵 族 枪 骑 兵 
 trp_rus_horse_3|罗 斯 亲 卫 骑 兵 
@@ -700,12 +700,12 @@ trp_andalus_town_xbow_2|安 达 鲁 斯 弩 兵
 trp_andalus_town_xbow_2_pl|安 达 鲁 斯 弩 兵 
 trp_andalus_town_xbow_3|安 达 鲁 斯 持 盾 重 弩 兵 
 trp_andalus_town_xbow_3_pl|安 达 鲁 斯 持 盾 重 弩 兵 
-trp_andalus_horse_1|安 达 鲁 西 亚 轻 骑 兵 
-trp_andalus_horse_1_pl|安 达 鲁 西 亚 轻 骑 兵 
-trp_andalus_horse_2|安 达 鲁 西 亚 骑 兵 
-trp_andalus_horse_2_pl|安 达 鲁 西 亚 骑 兵 
-trp_andalus_horse_3|安 达 鲁 西 亚 重 骑 兵 
-trp_andalus_horse_3_pl|安 达 鲁 西 亚 重 骑 兵 
+trp_andalus_horse_1|安 达 鲁 西 亚 骑 射 手 
+trp_andalus_horse_1_pl|安 达 鲁 西 亚 骑 射 手 
+trp_andalus_horse_2|安 达 鲁 西 亚 枪 骑 兵 
+trp_andalus_horse_2_pl|安 达 鲁 西 亚 枪 骑 兵 
+trp_andalus_horse_3|安 达 鲁 西 亚 骑 士 侍 从 
+trp_andalus_horse_3_pl|安 达 鲁 西 亚 骑 士 侍 从 
 trp_andalus_horse_4|安 达 鲁 西 亚 骑 士 
 trp_andalus_horse_4_pl|安 达 鲁 西 亚 骑 士 
 trp_gaelic_village_recruit|盖 尔 征 召 民 兵 
@@ -742,8 +742,8 @@ trp_gaelic_squire|盖 尔 骑 士 侍 从
 trp_gaelic_squire_pl|盖 尔 骑 士 侍 从 
 trp_gaelic_knight|盖 尔 贵 族 骑 士 
 trp_gaelic_knight_pl|盖 尔 贵 族 骑 士 
-trp_anatolian_recruit|安 纳 托 利 亚 新 兵 
-trp_anatolian_recruit_pl|安 纳 托 利 亚 新 兵 
+trp_anatolian_recruit|安 纳 托 利 亚 民 兵 
+trp_anatolian_recruit_pl|安 纳 托 利 亚 民 兵 
 trp_anatolian_muslim_infantry_1|安 纳 托 利 亚 穆 斯 林 轻 步 兵 
 trp_anatolian_muslim_infantry_1_pl|安 纳 托 利 亚 穆 斯 林 轻 步 兵 
 trp_anatolian_muslim_infantry_2|安 纳 托 利 亚 穆 斯 林 步 兵 
@@ -760,8 +760,8 @@ trp_anatolian_christian_archer_1|安 纳 托 利 亚 基 督 弓 兵
 trp_anatolian_christian_archer_1_pl|安 纳 托 利 亚 基 督 弓 兵 
 trp_anatolian_christian_archer_2|安 纳 托 利 亚 基 督 弓 箭 兵 
 trp_anatolian_christian_archer_2_pl|安 纳 托 利 亚 基 督 弓 箭 兵 
-trp_anatolian_castle_recruit|安 纳 托 利 亚 城 镇 志 愿 者 
-trp_anatolian_castle_recruit_pl|安 纳 托 利 亚 城 镇 志 愿 者 
+trp_anatolian_castle_recruit|安 纳 托 利 亚 新 兵  
+trp_anatolian_castle_recruit_pl|安 纳 托 利 亚 新 兵  
 trp_anatolian_turkoman_1|安 纳 托 利 亚 土 库 曼 骑 手 
 trp_anatolian_turkoman_1_pl|安 纳 托 利 亚 土 库 曼 骑 手 
 trp_anatolian_turkoman_2|安 纳 托 利 亚 土 库 曼 骑 兵 
