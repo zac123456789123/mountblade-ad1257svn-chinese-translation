@@ -3006,10 +3006,24 @@ dlga_prisoner_chat_2:close_window|我 发 誓 我 不 会。
 dlga_start:town_merchant_talk|你 好， {阁 下/尊 敬 的 女 士}。 我 能 为 你 做 什 么？ 
 dlga_start:town_merchant_talk.1|你 好。 我 能 为 你 做 什 么？ 
 dlga_town_merchant_talk:trade_requested_weapons|我 想 买 件 新 武 器。 让 我 看 看 你 都 有 些 什 么。 
+dlga_town_merchant_talk:trade_requested_repair_weapons|我 想 修 理 一 下 我 的 一 些 武 器。 
 dlga_town_merchant_talk:trade_requested_armor|我 想 弄 点 新 装 备。 让 我 看 看 你 都 有 些 什 么。 
+dlga_town_merchant_talk:trade_requested_repair_armor|我 想 修 理 一 下 我 的 一 些 盔 甲。 
 dlga_town_merchant_talk:trade_requested_horse|我 想 挑 匹 好 马。 
 dlga_trade_requested_weapons:merchant_trade|是 啊， {先 生/夫 人}。 请 看 看 我 精 挑 细 选 的 商 品。 
+dlga_trade_requested_repair_weapons:merchant_trade_repair_weapons|啊， 没 问 题， {先 生/夫 人}。 我 来 帮 你 检 查 一 下。 
+dlga_merchant_trade_repair_weapons:merchant_trade_repair_weapons_selected|{s4}
+dlga_merchant_trade_repair_weapons:merchant_trade|我 改 主 意 了。 
+dlga_merchant_trade_repair_weapons_selected:merchant_trade_repair_weapons_selected_prompt|修 理 你 的 {s5}要 收 费 {reg5}第 纳 尔， 你 觉 得 怎 么 样？ 
+dlga_merchant_trade_repair_weapons_selected_prompt:merchant_trade|好 的。 
+dlga_merchant_trade_repair_weapons_selected_prompt:merchant_trade.1|不 用 了。 
 dlga_trade_requested_armor:merchant_trade|当 然 啦， {先 生/夫 人}。 你 在 别 处 不 会 找 到 比 我 这 更 好 的 盔 甲 了。 
+dlga_trade_requested_repair_armor:merchant_trade_repair_armor|啊， 没 问 题， {先 生/夫 人}。 我 来 帮 你 检 查 一 下。 
+dlga_merchant_trade_repair_armor:merchant_trade_repair_armor_selected|{s4}
+dlga_merchant_trade_repair_armor:merchant_trade|我 改 主 意 了。 
+dlga_merchant_trade_repair_armor_selected:merchant_trade_repair_armor_selected_prompt|修 理 你 的 {s5}要 收 费 {reg5}第 纳 尔， 你 觉 得 怎 么 样？ 
+dlga_merchant_trade_repair_armor_selected_prompt:merchant_trade|好 的。 
+dlga_merchant_trade_repair_armor_selected_prompt:merchant_trade.1|不 用 了。 
 dlga_trade_requested_horse:merchant_trade|你 很 了 解 马 啊， {先 生/夫 人}。 你 不 会 找 到 比 我 这 更 好 的 马 了。 
 dlga_merchant_trade:town_merchant_talk|还 有 什 么 事 吗？ 
 dlga_town_merchant_talk:merchant_gossip|告 诉 我， 大 家 最 近 都 在 谈 论 些 什 么？ 

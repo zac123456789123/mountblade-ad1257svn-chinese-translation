@@ -81,6 +81,7 @@ mno_continue|Continue...
 menu_faction_relations_report|{s1}
 mno_continue|Continue...
 menu_camp|You set up camp. What do you want to do?
+mno_camp_action_1|Walk around.
 mno_action_export_import|Export/Import NPCs.
 mno_action_mod_options|Mod Options
 mno_action_faction_colours|Change faction colours
@@ -383,6 +384,7 @@ menu_close|Nothing.
 menu_town|{s10} {s14}^{s11}{s12}{s13}
 mno_castle_castle|Go to the Lord's hall{s1}.
 mno_castle_castle_door|Door to the castle.
+mno_castle_player_sally_out|{s12} is under siege.  Sally out to delay the attackers.
 mno_join_tournament|Join the tournament.
 mno_town_castle|Go to the castle{s1}.
 mno_town_castle_door|Door to the castle.

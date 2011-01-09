@@ -3006,10 +3006,24 @@ dlga_prisoner_chat_2:close_window|No, I swear I won't.
 dlga_start:town_merchant_talk|Greetings, {your lordship/my lady}. How can I serve you today?
 dlga_start:town_merchant_talk.1|Good day. What can I do for you?
 dlga_town_merchant_talk:trade_requested_weapons|I want to buy a new weapon. Show me your wares.
+dlga_town_merchant_talk:trade_requested_repair_weapons|I would like to have some of my weapons repaired.
 dlga_town_merchant_talk:trade_requested_armor|I am looking for some equipment. Show me what you have.
+dlga_town_merchant_talk:trade_requested_repair_armor|I would like to have some of my armour repaired.
 dlga_town_merchant_talk:trade_requested_horse|I am thinking of buying a horse.
 dlga_trade_requested_weapons:merchant_trade|Ah, yes {sir/madam}. These arms are the best you'll find anywhere.
+dlga_trade_requested_repair_weapons:merchant_trade_repair_weapons|Ah, yes {sir/madam}, certainly. Let's have a look.
+dlga_merchant_trade_repair_weapons:merchant_trade_repair_weapons_selected|{s4}
+dlga_merchant_trade_repair_weapons:merchant_trade|I changed my mind.
+dlga_merchant_trade_repair_weapons_selected:merchant_trade_repair_weapons_selected_prompt|The cost to repair your {s5} is {reg5} denars. Is this acceptable?
+dlga_merchant_trade_repair_weapons_selected_prompt:merchant_trade|Yes.
+dlga_merchant_trade_repair_weapons_selected_prompt:merchant_trade.1|No.
 dlga_trade_requested_armor:merchant_trade|Of course, {sir/madam}. You won't find better quality armour than these in all Europe.
+dlga_trade_requested_repair_armor:merchant_trade_repair_armor|Ah, yes {sir/madam}, certainly. Let's have a look.
+dlga_merchant_trade_repair_armor:merchant_trade_repair_armor_selected|{s4}
+dlga_merchant_trade_repair_armor:merchant_trade|I changed my mind.
+dlga_merchant_trade_repair_armor_selected:merchant_trade_repair_armor_selected_prompt|The cost to repair your {s5} is {reg5} denars. Is this acceptable?
+dlga_merchant_trade_repair_armor_selected_prompt:merchant_trade|Yes.
+dlga_merchant_trade_repair_armor_selected_prompt:merchant_trade.1|No.
 dlga_trade_requested_horse:merchant_trade|You have a fine eye for horses, {sir/madam}. You won't find better beasts than these anywhere else.
 dlga_merchant_trade:town_merchant_talk|Anything else?
 dlga_town_merchant_talk:merchant_gossip|Tell me. What are people talking about these days?
