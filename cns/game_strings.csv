@@ -1,4 +1,4 @@
-﻿str_no_string|NO STRING! 
+str_no_string|NO STRING! 
 str_empty_string| 
 str_yes|是 
 str_no|否 
@@ -468,7 +468,7 @@ str_npc13_backstory_a|Aedh the Irishman - backstory a
 str_npc14_backstory_a|Karl the Swede - backstory a
 str_npc15_backstory_a|Ivan of Galicia - backstory a
 str_npc16_backstory_a|我 要 酒… … 或 者 买 酒 的 钱 也 行， 要 买 很 多… … 噢， 不， 这 些 酒 不 全 都 给 我 自 己 的， 我 只 是 买 醉， 我 愿 意 请 这 间 屋 子 里 的 每 个 人 喝 一 杯。 
-Istr_npc17_backstory_a|Jaume of Aragon - backstory a{***}
+str_npc17_backstory_a|Jaume of Aragon - backstory a{***}
 str_npc18_backstory_a|Fernando the Castillan - backstory a{***}
 str_npc20_backstory_a|Isma'il the Andalusian - backstory a{***}
 str_npc22_backstory_a|Alexios the Greek - backstory a{***}
@@ -632,7 +632,6 @@ str_npc3_signup|为 什 么， 这 是 一 个 很 慷 慨 的 提 议。
 str_npc4_signup|嗜 血 吗？ 如 果 你 指 的 是 与 贵 族 斗 争， 我 从 不 退 缩。 但 即 使 真 能 找 到 这 种 斗 争， 我 发 誓， 与 那 些 交 易 商 讨 价 还 价 比 战 斗 一 天 还 累。 {***}
 str_npc5_signup|真 的 吗？ 我 期 待 挥 舞 着 我 的 斧 头 砍 光 你 的 敌 人。 
 str_npc6_signup|一 个 让 我 使 用 了 父 亲 教 我 的 技 能 的 机 会？ 我 想 你 的 意 思 是 毁 灭 而 非 创 造。 但 是 我 父 亲 总 是 说， 拆 房 子 比 建 房 子 容 易 的 多。 
-
 str_npc7_signup|Istvan the Hungarian - signup
 str_npc8_signup|Yuriy of Novgorod - signup
 str_npc9_signup|是 的， 先 生！ 我 是 一 名 相 当 有 名 的 传 奇 射 手。 
@@ -795,7 +794,7 @@ str_npc28_payment_response|Gamal the Arab - payment response{***}
 str_npc29_payment_response|Dragoslav the Serbian - payment response{***}
 str_npc30_payment_response|Kyril the Bulgarian - payment response{***}
 str_npc31_payment_response|Ali the Berber - payment response{***}
-str_npc1_morality_speech|先 生， 我 对 {s21}很 不 满。 那 些 在 战 斗 中 连 自 己 都 保 护 不 了 的 小卒 没 有 资 格 成 为 我 们 的 一 员。 
+str_npc1_morality_speech|先 生， 我 对 {s21}很 不 满。 那 些 在 战 斗 中 连 自 己 都 保 护 不 了 的 小 卒 没 有 资 格 成 为 我 们 的 一 员。 
 str_npc2_morality_speech|Ligeikis the Balt - morality speech
 str_npc3_morality_speech|对 不 起， 队 长， 这 对 {s21}不 太 好。 你 首 先 需 要 对 从 你 那 儿 得 到 盐 的 人 负 责， 他 们 所 期 盼 的 至 少 是 有 食 物， 有 佣 金， 有 掠 夺 财 物 的 机 会， 以 及 你 不 会 让 他 们 白 白 送 死。 
 str_npc4_morality_speech|我 加 入 了 你 的 团 队 是 因 为 我 认 为 你 是 一 个 注 重 荣 誉 的 人， 不 过 我 不 欣 赏 {s21}。 
@@ -890,7 +889,7 @@ str_npc12_personalityclash_speech_b|Uilleam the Scot - personalityclash speech b
 str_npc13_personalityclash_speech_b|Aedh the Irishman - personalityclash speech b
 str_npc14_personalityclash_speech_b|Karl the Swede - personalityclash speech b
 str_npc15_personalityclash_speech_b|Ivan of Galicia - personalityclash speech b
-str_npc16_personalityclash_speech_b|当 我 试 图 治 疗 他 们， 他 拒 绝 了， 还 攻 击 我，指 责 我 使 用 的 是 巫 术。 队 长， 和 这 些 忘 恩 负 义 又 无 知 的 家 伙 在 一 起 实 在 是 太 累 了。 
+str_npc16_personalityclash_speech_b|当 我 试 图 治 疗 他 们， 他 拒 绝 了， 还 攻 击 我， 指 责 我 使 用 的 是 巫 术。 队 长， 和 这 些 忘 恩 负 义 又 无 知 的 家 伙 在 一 起 实 在 是 太 累 了。 
 str_npc17_personalityclash_speech_b|Jaume of Aragon - personalityclash speech b{***}
 str_npc18_personalityclash_speech_b|Fernando the Castillan - personalityclash speech b{***}
 str_npc20_personalityclash_speech_b|Isma'il the Andalusian - personalityclash speech b{***}
@@ -903,7 +902,7 @@ str_npc28_personalityclash_speech_b|Gamal the Arab - personalityclash speech b{*
 str_npc29_personalityclash_speech_b|Dragoslav the Serbian - personalityclash speech b{***}
 str_npc30_personalityclash_speech_b|Kyril the Bulgarian - personalityclash speech b{***}
 str_npc31_personalityclash_speech_b|Ali the Berber - personalityclash speech b{***}
-str_npc1_personalityclash2_speech|长 官， 我 强 烈 抗 议，{s11}在 散 播 关 于 我 们 骑 士  团 在 他 国 家 做 出 恐 怖 的 事 的 谣 言。 他 没 有 任 何 证 据， 我 敢 肯 定 他 在 撒 谎！ 
+str_npc1_personalityclash2_speech|长 官， 我 强 烈 抗 议， {s11}在 散 播 关 于 我 们 骑 士 团 在 他 国 家 做 出 恐 怖 的 事 的 谣 言。 他 没 有 任 何 证 据， 我 敢 肯 定 他 在 撒 谎！ 
 str_npc2_personalityclash2_speech|Ligeikis the Balt - personalityclash2 speech
 str_npc3_personalityclash2_speech|长 官， {s11}应 该 把 他 的 舌 头 切 掉。 
 str_npc4_personalityclash2_speech|我 讨 厌{s11}。 他 经 常 在 战 场 上 杀 掉 那 些 受 伤 了 的， 并 且 无 法 付 给 他 赎 金 的 人。 这 个 贪 婪 的 贵 族 只 是 在 寻 找 丰 富 的 赎 金， 屠 杀 普 通 人。 
@@ -1479,6 +1478,7 @@ str_npc27_woman_to_woman|Taraqai of the Il-khanate - woman to woman{***}
 str_npc28_woman_to_woman|Gamal the Arab - woman to woman{***}
 str_npc29_woman_to_woman|Dragoslav the Serbian - woman to woman{***}
 str_npc30_woman_to_woman|Kyril the Bulgarian - woman to woman{***}
+str_npc31_woman_to_woman|Ali the Berber - woman to woman{***}
 str_npc1_turn_against|A cruel twist of fates have brought us here today. Perhaps if you had not turned your back upon me, we would not be facing off today across this open field. I am sorry to see that this day has come to pass.
 str_npc2_turn_against|Ligeikis the Balt - turn against
 str_npc3_turn_against|噢， {playername}— — 命 运 竟 让 我 们 走 到 了 这 么 悲 剧 的 一 步。 战 争 的 大 潮 让 我 们 成 了 敌 人， 我 只 能 期 待 某 天 它 又 能 让 我 们 重 新 成 为 朋 友。 
@@ -2031,37 +2031,37 @@ str_feast_lengthy_description_3|你 提 供 的 饮 食 足 够 你 那 些 贵 
 str_feast_lengthy_description_4|你 提 供 了 足 够 的 饮 食， 而 且 品 种 丰 富， 这 建 立 起 了 你 的 信 誉。 美 食， 佳 酿， 还 有 席 间 的 欢 笑 都 让 你 的 宾 客 们 开 始 放 松 下 来， 他 们 开 始 毫 无 顾 忌 的 谈 论 国 事， 并 且 对 你 信 任 有 加。 
 str_feast_lengthy_description_5|你 提 供 了 足 够 你 的 贵 族 客 人 和 他 们 随 从 享 用 的 饮 食， 剩 下 的 食 物 都 被 分 给 了 穷 人。 你 的 客 人 们 对 你 的 慷 慨， 还 有 你 对 自 己 社 会 地 位 所 应 当 承 担 的 责 任 如 此 明 了 而 赞 不 绝 口。 饮 宴 之 间， 谈 话 渐 入 佳 境， 气 氛 愉 悦， 拉 近 了 你 与 所 有 在 座 宾 客 之 间 的 距 离。 
 str_feast_lengthy_description_6|在 接 下 来 的 几 个 月 中， 你 宴 会 的 规 模 都 将 会 是 整 个 王 国 的 话 题， 而 且 这 将 会 成 为 以 后 所 有 宴 会 的 标 准。 你 不 仅 让 你 的 贵 族 客 人 和 他 们 的 随 从 们 吃 饱 喝 足， 连 聚 集 在 门 口 的 穷 人 都 吃 了 个 饱。 
-str_kingdom_1_adjective|斯 瓦 迪 亚 
-str_kingdom_2_adjective|维 吉 亚 
-str_kingdom_3_adjective|库 吉 特 
-str_kingdom_4_adjective|诺 德 
-str_kingdom_5_adjective|罗 多 克 
-str_kingdom_6_adjective|萨 兰 德 
-str_kingdom_7_adjective|Hungarian{***}
-str_kingdom_8_adjective|Novgorodian{***}
-str_kingdom_9_adjective|English{***}
-str_kingdom_10_adjective|French{***}
-str_kingdom_11_adjective|Norwegian{***}
-str_kingdom_12_adjective|Scottish{***}
-str_kingdom_13_adjective|Irish{***}
-str_kingdom_14_adjective|Swedish{***}
-str_kingdom_15_adjective|Halychan{***}
-str_kingdom_16_adjective|Portugese{***}
-str_kingdom_17_adjective|Aragonese{***}
-str_kingdom_18_adjective|Castilian{***}
-str_kingdom_19_adjective|Navarrian{***}
-str_kingdom_20_adjective|Granadian{***}
-str_kingdom_21_adjective|Papal{***}
-str_kingdom_22_adjective|Greek{***}
-str_kingdom_23_adjective|Crusader{***}
-str_kingdom_24_adjective|Sicilian{***}
-str_kingdom_25_adjective|Mamluk{***}
-str_kingdom_26_adjective|Latin{***}
-str_kingdom_27_adjective|Ilkhanate Mongol{***}
-str_kingdom_28_adjective|Berber{***}
-str_kingdom_29_adjective|Serbian{***}
-str_kingdom_30_adjective|Bulgarian{***}
-str_kingdom_31_adjective|Moroccan{***}
+str_kingdom_1_adjective|条 顿 骑 士 团 国 的 
+str_kingdom_2_adjective|立 陶 宛 的 
+str_kingdom_3_adjective|金 帐 汗 国 的 
+str_kingdom_4_adjective|丹 麦 的 
+str_kingdom_5_adjective|波 兰 的 
+str_kingdom_6_adjective|神 圣 罗 马 帝 国 的 
+str_kingdom_7_adjective|匈 牙 利 的 
+str_kingdom_8_adjective|诺 夫 哥 罗 德 的 
+str_kingdom_9_adjective|英 格 兰 的 
+str_kingdom_10_adjective|法 兰 西 的 
+str_kingdom_11_adjective|挪 威 的 
+str_kingdom_12_adjective|苏 格 兰 的 
+str_kingdom_13_adjective|盖 尔 的 
+str_kingdom_14_adjective|瑞 典 的 
+str_kingdom_15_adjective|加 利 西 亚 的 
+str_kingdom_16_adjective|葡 萄 牙 的 
+str_kingdom_17_adjective|阿 拉 贡 的 
+str_kingdom_18_adjective|卡 斯 提 尔 的 
+str_kingdom_19_adjective|纳 瓦 拉 的 
+str_kingdom_20_adjective|格 拉 纳 达 王 国 的 
+str_kingdom_21_adjective|教 廷 诸 属 国 的 
+str_kingdom_22_adjective|希 腊 的 
+str_kingdom_23_adjective|十 字 军 诸 国 的 
+str_kingdom_24_adjective|西 西 里 的 
+str_kingdom_25_adjective|马 木 鲁 克 苏 丹 国 的 
+str_kingdom_26_adjective|拉 丁 帝 国 的 
+str_kingdom_27_adjective|伊 儿 汗 国 的 
+str_kingdom_28_adjective|柏 柏 尔 的 
+str_kingdom_29_adjective|塞 尔 维 亚 的 
+str_kingdom_30_adjective|巴 尔 干 的 
+str_kingdom_31_adjective|摩 洛 哥 的 
 str_credits_1|Mount&Blade:Warband Copyright 2008-2010 Taleworlds Entertainment
 str_credits_2|Game design:^Armagan Yavuz^Steve Negus^Cem Cimenbicer 
 str_credits_3|Programming:^Armagan Yavuz^Cem Cimenbicer^Serdar Kocdemir^Ozan Gumus
@@ -3144,71 +3144,71 @@ str_strategy_criticism_rash|我 认 为 这 个 策 略 太 草 率， 没 必 �
 str_strategy_criticism_cautious|我 认 为 这 个 策 略 过 于 谨 慎 了， 会 让 我 们 因 为 没 有 任 何 胜 绩 而 导 致 军 心 涣 散。 
 str_tavernkeeper_invalid_quest|有 些 事 情 在 做， 但 是 我 想 不 起 来 详 细 的 内 容 了。 
 str_faction_title_male_player|领 主 {s0}
-str_faction_title_male_1|{s0}伯 爵 
-str_faction_title_male_2|{s0}波 耶 
+str_faction_title_male_1|教 团 骑 士 {s0}
+str_faction_title_male_2|{s0} 王 子 
 str_faction_title_male_3|那 颜 {s0}
 str_faction_title_male_4|{s0}雅 尔 
-str_faction_title_male_5|{s0}伯 爵 
-str_faction_title_male_6|{s0}酋 长 
-str_faction_title_male_7|Lord {s0}{***}
-str_faction_title_male_8|Boyar {s0}{***}
-str_faction_title_male_9|Sir {s0}{***}
+str_faction_title_male_5|领 主 {s0}
+str_faction_title_male_6|领 主 {s0}
+str_faction_title_male_7|领 主 {s0}
+str_faction_title_male_8|{s0}波 耶 
+str_faction_title_male_9|{s0}爵 士 
 str_faction_title_male_10|Seigneur {s0}{***}
-str_faction_title_male_11|{s0} Jarl{***}
-str_faction_title_male_12|Lord {s0}{***}
-str_faction_title_male_13|Lord {s0}{***}
-str_faction_title_male_14|{s0} Jarl{***}
-str_faction_title_male_15|Boyarin {s0}{***}
-str_faction_title_male_16|Don {s0}{***}
-str_faction_title_male_17|Don {s0}{***}
-str_faction_title_male_18|Don {s0}{***}
-str_faction_title_male_20|Emir {s0}{***}
-str_faction_title_male_22|Strategos {s0}{***}
-str_faction_title_male_23|Lord {s0}{***}
-str_faction_title_male_24|Lord {s0}{***}
-str_faction_title_male_25|Emir {s0}{***}
-str_faction_title_male_26|Lord {s0}{***}
-str_faction_title_male_27|{s0} Noyan{***}
-str_faction_title_male_28|Emir {s0}{***}
+str_faction_title_male_11|{s0}雅 尔 
+str_faction_title_male_12|领 主 {s0}
+str_faction_title_male_13|领 主 {s0}
+str_faction_title_male_14|{s0}雅 尔 
+str_faction_title_male_15|大 贵 族 {s0}
+str_faction_title_male_16|{s0}爵 士 
+str_faction_title_male_17|{s0}爵 士 
+str_faction_title_male_18|{s0}爵 士 
+str_faction_title_male_20|{s0}酋 长 
+str_faction_title_male_22|{s0}将 军 
+str_faction_title_male_23|领 主 {s0}
+str_faction_title_male_24|领 主 {s0}
+str_faction_title_male_25|{s0}酋 长 
+str_faction_title_male_26|领 主 {s0}
+str_faction_title_male_27|那 颜 {s0}
+str_faction_title_male_28|{s0}酋 长 
 str_faction_title_male_29|Zhupan {s0}{***}
-str_faction_title_male_30|Boyar {s0}{***}
-str_faction_title_male_31|Emir {s0}{***}
-str_faction_title_male_crusader|Crusader {s0}{***}
-str_faction_title_male_jihadist|Mujihadeen {s0}{***}
+str_faction_title_male_30|{s0}波 耶 
+str_faction_title_male_31|{s0}酋 长 
+str_faction_title_male_crusader|十 字 军 战 士 {s0}
+str_faction_title_male_jihadist|圣 战 者 {s0}
 str_faction_title_female_player|{s0}夫 人 
-str_faction_title_female_1|{s0}伯 爵 夫 人 
-str_faction_title_female_2|{s0}波 耶 夫 人 
+str_faction_title_female_1|{s0}夫 人 
+str_faction_title_female_2|{s0}夫 人 
 str_faction_title_female_3|{s0}哈 敦 
-str_faction_title_female_4|乔 安 妮 {s0}
-str_faction_title_female_5|{s0}伯 爵 夫 人 
-str_faction_title_female_6|莎 耶 达 {s0}
-str_faction_title_female_7|Lady {s0}{***}
-str_faction_title_female_8|Boyarina {s0}{***}
-str_faction_title_female_9|Lady {s0}{***}
-str_faction_title_female_10|Lady {s0}{***}
-str_faction_title_female_11|Lady {s0}{***}
-str_faction_title_female_12|Lady {s0}{***}
-str_faction_title_female_13|Lady {s0}{***}
-str_faction_title_female_14|Lady {s0}{***}
-str_faction_title_female_15|Boyarina {s0}{***}
-str_faction_title_female_16|Lady {s0}{***}
-str_faction_title_female_17|Lady {s0}{***}
-str_faction_title_female_18|Lady {s0}{***}
-str_faction_title_female_19|Lady {s0}{***}
-str_faction_title_female_20|Amira {s0}{***}
-str_faction_title_female_21|Lady {s0}{***}
-str_faction_title_female_22|Lady {s0}{***}
-str_faction_title_female_23|Lady {s0}{***}
-str_faction_title_female_24|{s0} Hatun{***}
-str_faction_title_female_25|Amira {s0}{***}
-str_faction_title_female_26|Lady {s0}{***}
-str_faction_title_female_27|Lady {s0}{***}
-str_faction_title_female_28|Amira {s0}{***}
-str_faction_title_female_29|Lady {s0}{***}
-str_faction_title_female_30|Lady {s0}{***}
-str_faction_title_female_31|Amira {s0}{***}
-str_faction_title_female_crusader|Crusader {s0}{***}
-str_faction_title_female_jihadist|Mujihadeen {s0}{***}
+str_faction_title_female_4|{s0}夫 人 
+str_faction_title_female_5|{s0}夫 人 
+str_faction_title_female_6|{s0}夫 人 
+str_faction_title_female_7|{s0}夫 人 
+str_faction_title_female_8|{s0}波 耶 夫 人 
+str_faction_title_female_9|{s0}夫 人 
+str_faction_title_female_10|{s0}夫 人 
+str_faction_title_female_11|{s0}夫 人 
+str_faction_title_female_12|{s0}夫 人 
+str_faction_title_female_13|{s0}夫 人 
+str_faction_title_female_14|{s0}夫 人 
+str_faction_title_female_15|{s0}波 耶 夫 人 
+str_faction_title_female_16|{s0}夫 人 
+str_faction_title_female_17|{s0}夫 人 
+str_faction_title_female_18|{s0}夫 人 
+str_faction_title_female_19|{s0}夫 人 
+str_faction_title_female_20|{s0}酋 长 夫 人 
+str_faction_title_female_21|{s0}夫 人 
+str_faction_title_female_22|{s0}夫 人 
+str_faction_title_female_23|{s0}夫 人 
+str_faction_title_female_24|{s0}哈 敦 
+str_faction_title_female_25|{s0}酋 长 夫 人 
+str_faction_title_female_26|{s0}夫 人 
+str_faction_title_female_27|{s0}夫 人 
+str_faction_title_female_28|{s0}酋 长 夫 人 
+str_faction_title_female_29|{s0}夫 人 
+str_faction_title_female_30|{s0}夫 人 
+str_faction_title_female_31|{s0}酋 长 夫 人 
+str_faction_title_female_crusader|十 字 军 战 士 {s0}
+str_faction_title_female_jihadist|圣 战 者 {s0}
 str_name_kingdom_text|你 的 王 国 的 名 字？ 
 str_default_kingdom_name|{s0}王 国 
 str_lord_defects_ordinary|领 主 背 叛 ^^{s1}已 经 放 弃 了 {reg4?她 :他 }对 {s3}的 效 忠， 加 入 了 {s2}
@@ -3276,7 +3276,7 @@ str_my_friend_s15|我 的 朋 友 {s15}
 str_custom_battle|定 制 战 斗 
 str_comment_intro_liege_affiliated_to_player|据 说 你 对 我—— 卡 拉 迪 亚 之 王 的 权 力 和 地 位 提 出 了 质 疑？ 毫 无 疑 问， 我 对 此 极 为 不 快， 但 是 我 是 仁 慈 和 明 理 的 人， 我 们 仍 然 可 以 就 此 谈 谈。 
 str_s21_the_s8_declared_war_out_of_personal_enmity|{s8}{s21}由 于 个 人 恩 怨 而 宣 战 
-str_s21_the_s8_declared_war_due_to_religious_differences|{s21} The {s8} declared war due to religious differences{***}
+str_s21_the_s8_declared_war_due_to_religious_differences|{s21} {s8}因 为 宗 教 原 因 宣 战 
 str_s21_the_s8_declared_war_in_response_to_border_provocations|{s8}{s21}由 于 敌 人 针 对 边 境 的 挑 衅 而 宣 战 
 str_s21_the_s8_declared_war_to_curb_the_other_realms_power|{s8}{s21}为 了 削 弱 其 他 国 家 的 实 力 而 宣 战 
 str_s21_the_s8_declared_war_to_regain_lost_territory|{s8}{s21}为 了 收 复 失 地 而 宣 战 
@@ -3395,7 +3395,7 @@ str_merchant_and_you_call_some_townsmen_and_guards_to_get_ready_and_you_get_out_
 str_town_fight_ended_you_and_citizens_cleaned_town_from_bandits|残 余 的 匪 徒 四 散 逃 亡， 躲 进 了 城 镇 里 那 些 狭 窄 的 巷 子， 结 果 只 能 是 被 愤 怒 的 居 民 们 一 个 一 个 地 捉 住。 你 已 经 取 得 了 完 全 的 胜 利， 而 受 伤 的 人 也 都 得 到 了 治 疗。 确 认 完 这 些 事 之 后， 你 和 商 人 回 到 他 的 房 子 里， 回 顾 起 发 生 的 所 有 事 情。 
 str_town_fight_ended_you_and_citizens_cleaned_town_from_bandits_you_wounded|随 着 最 后 一 击， 你 倒 下 了， 无 法 动 弹， 顽 强 的 意 志 使 你 拼 命 阻 止 自 己 昏 过 去。 不 久， 街 道 上 打 斗 的 声 响 变 成 了 城 镇 居 民 们 的 欢 呼 声， 你 知 道 你 们 这 边 获 胜 了。 不 一 会 儿， 友 好 的 双 臂 把 你 从 地 上 抬 了 起 来， 你 安 心 地 渐 渐 入 睡。 几 个 小 时 过 去， 苏 醒 后 的 你 发 现 自 己 正 躺 在 商 人 的 房 子 里。 
 str_journey_to_reyvadin|你 经 过 了 维 吉 亚 高 地， 一 片 暴 露 在 刺 骨 的 北 风 中 的 高 原。 这 里 的 土 地 在 一 年 之 中 的 大 部 分 时 间 都 被 冻 结， 但 森 林 供 给 人 们 以 丰 富 的 动 物 毛 皮， 河 流 则 运 来 各 种 鱼 类。 这 片 土 地 的 财 富 引 来 了 商 人， 而 商 人 又 引 来 了 土 匪。 偶 尔 你 能 发 现， 一 个 骑 着 毛 发 蓬 乱 的 矮 种 马 的 黑 影， 立 于 积 雪 的 山 脊 之 上， 正 观 察 着 你 队 伍 的 行 进 路 线。 你 很 高 兴， 因 为 穿 过 广 阔 的 波 拉 克 河 流 域， 日 瓦 丁 城 已 经 渐 渐 进 入 你 的 视 线 了。 
-str_journey_to_praven|你 和 你 的 商 队 穿 过 了 卡 拉 迪 亚 的 中 心 地 带。 望 向 那 些 起 伏 的 山 脉， 可 以 看 到 小 麦 、 大 麦 和 燕 麦 的 青 苗 正 冲 出 黑 暗 的 地 下， 旺 盛 地 生 长。 而 在 那 些 积 雪 的 山 峰 下 面 的 山 坡， 成 群 的 牛 羊 正 吃 着 美 味 的 春 草， 有 时， 你 还 能 看 到 象 征 着 斯 瓦 迪 亚 贵 族 的 高 头 战 马。 这 里 无 疑 是 富 饶 的， 但 也 充 满 纷 扰， 偶 尔 能 看 到 的 枯 竭 的 农 田 就 是 很 好 的 证 明。 你 始 终 保 持 自 己 的 营 地 远 离 那 些 森 林， 那 里 是 那 些 走 投 无 路 的 人 们 的 庇 护 所。 你 终 于 松 了 口 气， 伟 大 的 帕 拉 汶 城 已 经 出 现 在 视 线 里 了， 在 夕 阳 的 余 晖 下， 城 市 的 屋 顶 泛 出 一 片 金 光。 
+str_journey_to_praven|你 跟 着 一 支 商 队 穿 过 了 欧 洲 的 中 心 地 带。 望 向 那 些 起 伏 的 山 脉， 可 以 看 到 小 麦 、 大 麦 和 燕 麦 的 青 苗 正 冲 出 黑 暗 的 地 下， 旺 盛 地 生 长。 而 在 那 些 积 雪 的 山 峰 下 面 的 山 坡， 成 群 的 牛 羊 正 吃 着 美 味 的 春 草， 有 时， 你 还 能 看 到 象 征 着 贵 族 的 高 头 战 马。 这 里 无 疑 是 富 饶 的， 但 也 充 满 动 乱， 偶 尔 能 看 到 的 被 烧 毁 的 农 场 就 是 很 好 的 证 明。 你 始 终 保 持 自 己 的 营 地 远 离 那 些 森 林， 那 里 是 那 些 走 投 无 路 的 人 们 的 庇 护 所。 你 终 于 松 了 口 气， 伟 大 的 帕 拉 汶 港 已 经 出 现 在 视 线 里 了， 在 夕 阳 的 余 晖 下， 城 市 的 屋 顶 泛 出 一 片 金 光。 
 str_journey_to_jelkala|你 乘 船 而 来， 沿 着 罗 多 克 高 原 与 海 相 会 的 峭 壁。 大 部 分 的 海 岸 线 都 隐 藏 在 从 河 谷 里 弥 漫 出 来 的 雾 气 中， 但 偶 尔 你 会 看 到 一 座 城 堡 的 瞭 望 塔 刺 破 迷 雾 的 身 影—— 还 有 一 次， 你 看 到 了 因 为 敌 人 来 袭 而 点 燃 的 烽 火。 你 知 道 你 在 这 里 的 海 上 是 相 对 安 全 的， 毕 竟 你 离 那 些 海 寇 肆 虐 的 诺 德 海 岸 很 遥 远， 不 过 在 终 于 抵 达 通 往 杰 尔 喀 拉 港 的 入 口—— 塞 尔 弗 河 口 的 时 候， 还 是 让 人 松 了 口 气， 尤 其 是 你 看 到 了 一 艘 罗 多 克 战 船 正 在 那 里 抛 锚 停 泊， 而 它 的 旗 帜 在 傍 晚 的 清 风 中 徐 徐 飘 扬。
 str_journey_to_sargoth|你 乘 着 一 艘 商 用 长 船， 带 着 从 遥 远 的 极 北 之 地 而 来 的 白 隼， 去 交 换 亚 麻 布 和 羊 毛。 在 这 个 季 节， 这 时 候 出 海 算 是 很 早 了， 但 是 船 长 认 为， 虽 然 要 面 对 浮 冰 和 雪 暴 的 危 险， 但 这 样 能 赶 在 海 寇 出 没 之 前 到 达， 他 们 会 在 四 月 份 的 时 候， 从 小 岛 上 的 据 点 里 驾 船 出 海， 掠 夺 卡 拉 迪 亚 的 各 个 海 岸。 当 船 行 驶 到 维 尔 河 与 波 拉 克 河 之 间 的 三 角 洲 的 时 候， 你 就 可 以 放 轻 松 一 点 了。 因 为 不 久 你 就 能 看 到 萨 哥 斯 城 前 面 的 海 岸 以 及 滩 涂， 那 是 诺 德 领 主—— 那 些 海 寇 的 远 亲—— 的 老 家， 几 代 人 以 前， 他 们 在 这 片 富 饶 而 纷 扰 的 地 方 开 创 了 诺 德 王 国。 
 str_journey_to_tulga|你 跟 随 着 商 队， 穿 过 卡 拉 迪 亚 东 部 和 北 部 的 山 脉， 带 着 从 遥 远 的 地 方 弄 来 的 香 料， 去 交 换 羊 毛 和 盐。 路 依 然 被 雪 封 住， 旅 途 非 常 艰 难， 但 是 最 后 你 登 上 了 山 脊， 眼 前 看 到 的 是 卡 拉 迪 亚 的 草 原。 在 某 些 山 腰 上， 春 天 的 草 已 经 枯 黄， 但 在 更 矮 一 些 的 山 坡 上， 是 一 片 充 满 活 力 的 绿 色， 上 面 流 动 着 成 群 的 羊， 以 及 褐 色 的 草 原 马， 像 是 一 朵 朵 云 彩， 显 示 着 库 吉 特 可 汗 的 富 有。 有 时 候， 会 有 结 队 的 骑 手 远 远 地 跟 着 你 的 商 队， 也 许 是 在 试 探 你 有 没 有 能 力 保 护 自 己 的 财 物。 所 以， 当 你 看 到 图 尔 加 的 高 塔 出 现 在 地 平 线 之 上， 你 会 觉 得 轻 松 不 少。 
@@ -3429,7 +3429,7 @@ str_greetings_playername__it_is_good_to_see_you_i_hope_that_you_have_had_success
 str_minister_advice_select_fief| 也 许 我 该 建 议 你 选 择 {s4}， 就 像 封 臣 们 所 猜 测 的 那 样。
 str_minister_advice_select_fief_wait| 也 许 我 该 建 议 你 等 到 指 定 了 元 帅 之 后 再 做 决 定， 这 样 就 会 给 封 臣 们 一 些 时 间 来 决 定 所 要 支 持 的 对 象。
 str_minister_advice_fief_leading_vassal| 顺便说一句， {s4}已 经 获 得 了 你 封 臣 中 {reg4}的 支 持。
-str_unassigned_center| （ 未 分 封） 
+str_unassigned_center| （未 分 封） 
 str_s43_also_you_should_know_that_an_unprovoked_assault_is_declaration_of_war|{s43} 同 时， 作 为 你 王 国 的 统 治 者， 你 应 当 知 道 这 次 突 袭 将 会 引 起 一 场 战 争。
 str_missing_after_battle|战 斗 后 失 踪 
 str_retrieve_garrison_warning|（ 如 果 要 塞 判 定 给 别 人 部 队 也 许 就 救 不 回 来） 
@@ -3473,144 +3473,144 @@ str_disallow_ranged_weapons|禁 止 远 程 武 器
 str_ranged_weapons_are_disallowed|远 程 武 器 被 禁 止。 
 str_ranged_weapons_are_allowed|远 程 武 器 被 允 许。 
 str_duel_starts_in_reg0_seconds|决 斗 将 在 {reg0} 秒 钟 内 开 始…… 
-str_none|none{***}
-str_item_pool_no_items|There are currently no items in the item pool.{***}
-str_item_pool_one_item|There is one item left in the item pool.{***}
-str_item_pool_many_items|There are {reg20} items left in the item pool.{***}
-str_item_pool_abandon|Let NPCs to collect all the items left and continue.{***}
-str_item_pool_leave|Done.{***}
-str_hero_not_upgrading_armor|not upgrading my armor{***}
-str_hero_upgrading_armor|upgrading my own armor{***}
-str_hero_not_upgrading_horse|not upgrading my horses{***}
-str_hero_upgrading_horse|upgrading my own horses{***}
-str_hero_wpn_slot_none|Keep current({s10}){***}
-str_hero_wpn_slot_horse|Horse{***}
-str_hero_wpn_slot_one_handed|1-handed Wpn{***}
-str_hero_wpn_slot_two_handed|2-handed Wpn{***}
-str_hero_wpn_slot_polearm_all|Polearms{***}
-str_hero_wpn_slot_arrows|Arrows{***}
-str_hero_wpn_slot_bolts|Bolts{***}
-str_hero_wpn_slot_shield|Shield{***}
-str_hero_wpn_slot_bow|Bow{***}
-str_hero_wpn_slot_crossbow|Crossbow{***}
-str_hero_wpn_slot_throwing|Throwing Weapon{***}
-str_hero_wpn_slot_goods|Goods {***}
-str_hero_wpn_slot_head_armor|Head armor {***}
-str_hero_wpn_slot_body_armor|Body armor {***}
-str_hero_wpn_slot_foot_armor|Foot armor {***}
-str_hero_wpn_slot_hand_armor|Hand armor {***}
-str_hero_wpn_slot_pistol|Pistol {***}
-str_hero_wpn_slot_musket|Musket {***}
-str_hero_wpn_slot_bullets|Bullets {***}
-str_hero_wpn_slot_animal|Animal {***}
-str_hero_wpn_slot_book|Book {***}
-str_type_horse|Horse {***}
-str_type_one_handed_wpn|1 handed wpn {***}
-str_type_two_handed_wpn|2 handed wpn {***}
-str_type_polearm|Polearm {***}
-str_type_arrows|Arrows {***}
-str_type_bolts|Bolts {***}
-str_type_shield|Shield {***}
-str_type_bow|Bow {***}
-str_type_crossbow|Crossbow {***}
-str_type_thrown|Thrown {***}
-str_type_goods|Goods {***}
-str_type_head_armor|Head armor {***}
-str_type_body_armor|Body armor {***}
-str_type_foot_armor|Foot armor {***}
-str_type_hand_armor|Hand armor {***}
-str_type_pistol|Pistol {***}
-str_type_musket|Musket{***}
-str_type_bullets|Bullets{***}
-str_type_animal|Animal{***}
-str_type_book|Book {***}
-str_dplmc_gather_information|gather information{***}
-str_dplmc_nearly_no|nearly no{***}
-str_dplmc_less_than_one_hundred|less than one hundred{***}
-str_dplmc_more_than_one_hundred|more than one hundred{***}
-str_dplmc_more_than_two_hundred|more than two hundred{***}
-str_dplmc_more_than_five_hundred|more than five hundred{***}
-str_dplmc_bring_gift|bring the gift{***}
-str_dplmc_exchange_prisoner|to exchange {s10} against {s11}{***}
-str_dplmc_has_been_set_free|{s7} has been set free.{***}
-str_dplmc_tax_very_low|very low{***}
-str_dplmc_tax_low|low{***}
-str_dplmc_tax_normal|normal{***}
-str_dplmc_tax_high|high{***}
-str_dplmc_tax_very_high|very high{***}
-str_dplmc_place_is_occupied_by_insurgents|The place is held by insurgents.{***}
-str_dplmc_relation_mnus_100_ns|He seems to be vengeful towards {s59}.{***}
-str_dplmc_relation_mnus_90_ns|He seems to be vengeful towards {s59}.{***}
-str_dplmc_relation_mnus_80_ns|He seems to be vengeful towards {s59}.{***}
-str_dplmc_relation_mnus_70_ns|He seems to be hateful towards {s59}.{***}
-str_dplmc_relation_mnus_60_ns|He seems to be hateful towards {s59}.{***}
-str_dplmc_relation_mnus_50_ns|He seems to be hostile towards {s59}.{***}
-str_dplmc_relation_mnus_40_ns|He seems to be angry towards {s59}.{***}
-str_dplmc_relation_mnus_30_ns|He seems to be resentful against {s59}.{***}
-str_dplmc_relation_mnus_20_ns|He seems to be grumbling against {s59}.{***}
-str_dplmc_relation_mnus_10_ns|He seems to be suspicious towards {s59}.{***}
-str_dplmc_relation_plus_0_ns|He seems to be indifferent against {s59}.{***}
-str_dplmc_relation_plus_10_ns|He seems to be cooperative towards {s59}.{***}
-str_dplmc_relation_plus_20_ns|He seems to be welcoming towards {s59}.{***}
-str_dplmc_relation_plus_30_ns|He seems to be favorable to {s59}.{***}
-str_dplmc_relation_plus_40_ns|He seems to be supportive to {s59}.{***}
-str_dplmc_relation_plus_50_ns|He seems to be friendly to {s59}.{***}
-str_dplmc_relation_plus_60_ns|He seems to be gracious to {s59}.{***}
-str_dplmc_relation_plus_70_ns|He seems to be fond of {s59}.{***}
-str_dplmc_relation_plus_80_ns|He seems to be loyal to {s59}.{***}
-str_dplmc_relation_plus_90_ns|He seems to be devoted to {s59}.{***}
-str_dplmc_s39_rival| He scents rivals in {s39}{***}
-str_dplmc_s41_s39_rival|{s41}, {s39}{***}
-str_dplmc_s40_love_interest_s39|{s40}. Aside from that his love interest is {s39}.{***}
-str_dplmc_s40_betrothed_s39|{s40}. Aside from that he is betrothed to {s39}.{***}
-str_dplmc_reputation_cheat_mode_only_martial|It is said that {s46} is a martial person.{***}
-str_dplmc_reputation_cheat_mode_only_debauched|It is said that {s46} is a debauched person.{***}
-str_dplmc_reputation_cheat_mode_only_pitiless|It is said that {s46} is a pitiless person.{***}
-str_dplmc_reputation_cheat_mode_only_calculating|It is said that {s46} is a calculating person.{***}
-str_dplmc_reputation_cheat_mode_only_quarrelsome|It is said that {s46} is a quarrelsome person.{***}
-str_dplmc_reputation_cheat_mode_only_goodnatured|It is said that {s46} is a good-natured person.{***}
-str_dplmc_reputation_cheat_mode_only_upstanding|It is said that {s46} is a upstanding person.{***}
-str_dplmc_reputation_cheat_mode_only_conventional|It is said that {s46} is a conventional person.{***}
-str_dplmc_reputation_cheat_mode_only_adventurous|It is said that {s46} is a adventurous person.{***}
-str_dplmc_reputation_cheat_mode_only_romantic|It is said that {s46} is a romantic person.{***}
-str_dplmc_reputation_cheat_mode_only_moralist|It is said that {s46} is a Moralist.{***}
-str_dplmc_reputation_cheat_mode_only_ambitious|It is said that {s46} is a ambitious person.{***}
-str_dplmc_reputation_cheat_mode_only_reg11|It is said that {s46} is a {reg11} person.{***}
-str_dplmc_s21__the_s5_is_bound_by_alliance_not_to_attack_the_s14s18_it_will_expire_in_reg1_days|{s21}^* The {s5} has formed an alliance with the {s14}.{s18} It will degrade into a defensive pact in {reg1} days.{***}
-str_dplmc_s21__the_s5_is_bound_by_defensive_not_to_attack_the_s14s18_it_will_expire_in_reg1_days|{s21}^* The {s5} has agreed to a defensive pact with the {s14}.{s18} It will degrade into a trade agreement in {reg1} days.{***}
-str_dplmc_s21__the_s5_is_bound_by_trade_not_to_attack_the_s14s18_it_will_expire_in_reg1_days|{s21}^* The {s5} has agreed to a trade agreement with the {s14}.{s18} It will degrade into a non-aggression pact in {reg1} days.{***}
-str_dplmc_small|small{***}
-str_dplmc_medium|medium{***}
-str_dplmc_big|big{***}
-str_dplmc_elite|elite{***}
-str_dplmc_very_decentralized|very decentralized{***}
-str_dplmc_quite_decentralized|quite decentralized{***}
-str_dplmc_little_decentralized|a little decentralized{***}
-str_dplmc_neither_centralize_nor_decentralized|neither too centralized nor decentralized{***}
-str_dplmc_little_centralized|a little centralized{***}
-str_dplmc_quite_centralized|quite centralized{***}
-str_dplmc_very_centralized|very centralized{***}
-str_dplmc_very_plutocratic|very plutocratic{***}
-str_dplmc_quite_plutocratic|quite plutocratic{***}
-str_dplmc_little_plutocratic|a little plutocratic{***}
-str_dplmc_neither_aristocratic_nor_plutocratic|neither too aristocratic nor plutocratic{***}
-str_dplmc_little_aristocratic|a little aristocratic{***}
-str_dplmc_quite_aristocratic|quite aristocratic{***}
-str_dplmc_very_aristocratic|very aristocratic{***}
-str_dplmc_all_free|almost all free{***}
-str_dplmc_mostly_free|mostly free{***}
-str_dplmc_usually_free|usually free{***}
-str_dplmc_mixture_serfs|a mixture of serfs and free men{***}
-str_dplmc_usually_serfs|usually serfs{***}
-str_dplmc_mostly_serfs|mostly serfs{***}
-str_dplmc_all_serfs|almost all serfs{***}
-str_dplmc_very_quantity|a vast number of soldiers{***}
-str_dplmc_great_quantity|very many soldiers{***}
-str_dplmc_good_quantity|many soldiers{***}
-str_dplmc_medicore_quality|a mediocre quality{***}
-str_dplmc_good_quality|a good quality{***}
-str_dplmc_great_quality|a great quality{***}
-str_dplmc_very_quality|a very high quality{***}
+str_none|无 {***}
+str_item_pool_no_items|物 品 栏 里 目 前 没 有 装 备。 
+str_item_pool_one_item|物 品 栏 里 还 剩 一 件 装 备。 
+str_item_pool_many_items|物 品 栏 里 还 剩 {reg20}件 装 备。 
+str_item_pool_abandon|让 NPC们 收 集 所 有 剩 下 的 装 备 并 离 开。 
+str_item_pool_leave|完 成。 
+str_hero_not_upgrading_armor|不 升 级 我 的 盔 甲。 
+str_hero_upgrading_armor|升 级 我 的 盔 甲。 
+str_hero_not_upgrading_horse|不 升 级 我 的 马 匹。 
+str_hero_upgrading_horse|升 级 我 的 坐 骑。 
+str_hero_wpn_slot_none|保 持 现 在 的 装 备（{s10}） 
+str_hero_wpn_slot_horse|坐 骑 
+str_hero_wpn_slot_one_handed|单 手 武 器 
+str_hero_wpn_slot_two_handed|双 手 武 器 
+str_hero_wpn_slot_polearm_all|长 杆 武 器 
+str_hero_wpn_slot_arrows|箭 矢 
+str_hero_wpn_slot_bolts|弩 矢 
+str_hero_wpn_slot_shield|盾 牌 
+str_hero_wpn_slot_bow|弓 
+str_hero_wpn_slot_crossbow|弩 
+str_hero_wpn_slot_throwing|投 掷 武 器 
+str_hero_wpn_slot_goods|货 物 
+str_hero_wpn_slot_head_armor|头 盔 
+str_hero_wpn_slot_body_armor|铠 甲 
+str_hero_wpn_slot_foot_armor|足 部 防 具 
+str_hero_wpn_slot_hand_armor|手 部 防 具 
+str_hero_wpn_slot_pistol|手 枪 
+str_hero_wpn_slot_musket|火 枪 
+str_hero_wpn_slot_bullets|子 弹 
+str_hero_wpn_slot_animal|动 物 
+str_hero_wpn_slot_book|书 籍 
+str_type_horse|坐 骑 
+str_type_one_handed_wpn|单 手 武 器 
+str_type_two_handed_wpn|双 手 武 器 
+str_type_polearm|长 杆 武 器 
+str_type_arrows|箭 矢 
+str_type_bolts|弩 矢 
+str_type_shield|盾 牌 
+str_type_bow|弓 
+str_type_crossbow|弩 
+str_type_thrown|投 掷 武 器 
+str_type_goods|货 物 
+str_type_head_armor|头 盔 
+str_type_body_armor|铠 甲 
+str_type_foot_armor|足 部 防 具 
+str_type_hand_armor|手 部 防 具 
+str_type_pistol|手 枪 
+str_type_musket|火 枪 
+str_type_bullets|子 弹 
+str_type_animal|动 物 
+str_type_book|书 籍 
+str_dplmc_gather_information|搜 集 信 息 
+str_dplmc_nearly_no|几 乎 没 有 
+str_dplmc_less_than_one_hundred|少 于 一 百 
+str_dplmc_more_than_one_hundred|多 于 一 百 
+str_dplmc_more_than_two_hundred|多 于 两 百 
+str_dplmc_more_than_five_hundred|多 于 五 百 
+str_dplmc_bring_gift|带 来 礼 物 
+str_dplmc_exchange_prisoner|用 {s10}来 交 换 {s11}
+str_dplmc_has_been_set_free|{s7} 已 经 被 释 放。 
+str_dplmc_tax_very_low|非 常 低 
+str_dplmc_tax_low|低 
+str_dplmc_tax_normal|正 常 
+str_dplmc_tax_high|高 
+str_dplmc_tax_very_high|非 常 高 
+str_dplmc_place_is_occupied_by_insurgents|该 地 区 被 叛 乱 暴 动 者 占 领 。 
+str_dplmc_relation_mnus_100_ns|他 与 {s59}势 同 水 火。 
+str_dplmc_relation_mnus_90_ns|他 与 {s59}势 同 水 火。 
+str_dplmc_relation_mnus_80_ns|他 与 {s59}势 同 水 火。 
+str_dplmc_relation_mnus_70_ns|他 对 {s59}充 满 敌 意。 
+str_dplmc_relation_mnus_60_ns|他 对 {s59}充 满 敌 意。  
+str_dplmc_relation_mnus_50_ns|他 狠 狠 地 盯 着 {s59}。
+str_dplmc_relation_mnus_40_ns|他 非 常 讨 厌 {s59}。 
+str_dplmc_relation_mnus_30_ns|他 开 始 厌 恶 {s59}。
+str_dplmc_relation_mnus_20_ns|他 警 惕 地 看 着 {s59}。 
+str_dplmc_relation_mnus_10_ns|他 意 味 深 长 地 看 着 {s59}。 
+str_dplmc_relation_plus_0_ns|他 面 无 表 情 的 看 着 {s59}。 
+str_dplmc_relation_plus_10_ns|他 开 始 接 受 {s59}。
+str_dplmc_relation_plus_20_ns|他 友 善 地 看 着 {s59}。 
+str_dplmc_relation_plus_30_ns|他 亲 切 地 看 着 {s59}。 
+str_dplmc_relation_plus_40_ns|他 热 切 地 望 着 {s59}。 
+str_dplmc_relation_plus_50_ns|他 友 好 地 望 着 {s59}。 
+str_dplmc_relation_plus_60_ns|他 非 常 支 持 {s59}。 
+str_dplmc_relation_plus_70_ns|他 非 常 尊 敬 {s59}。 
+str_dplmc_relation_plus_80_ns|他 为 {s59}欢 呼。 
+str_dplmc_relation_plus_90_ns|他 对 {s59}忠 心 耿 耿。 
+str_dplmc_s39_rival|他 目 前 和 这 些 领 主 的 关 系 闹 得 很 僵： {s39}。 
+str_dplmc_s41_s39_rival|{s41}， {s39}
+str_dplmc_s40_love_interest_s39|{s40}。 除 此 之 外， 他 还 向 {s39}表 明 过 爱 慕 之 意。 
+str_dplmc_s40_betrothed_s39|{s40}。 除 此 之 外， 他 还 和 {s39}订 婚 了。 
+str_dplmc_reputation_cheat_mode_only_martial|据 说 {s46}是 一 个 严 肃 的 军 人。 
+str_dplmc_reputation_cheat_mode_only_debauched|据 说 {s46}是 一 个 放 荡 的 人。 
+str_dplmc_reputation_cheat_mode_only_pitiless|据 说 {s46}是 一 个 无 情 的 人。 
+str_dplmc_reputation_cheat_mode_only_calculating|据 说 {s46}是 一 个 精 明 的 人。 
+str_dplmc_reputation_cheat_mode_only_quarrelsome|据 说 {s46}是 一 个 好 斗 的 人。 
+str_dplmc_reputation_cheat_mode_only_goodnatured|据 说 {s46}是 一 个 性 情 好 的 人。 
+str_dplmc_reputation_cheat_mode_only_upstanding|据 说 {s46}是 一 个 正 直 的 人。 
+str_dplmc_reputation_cheat_mode_only_conventional|据 说 {s46}是 一 个 很 传 统 的 人。 
+str_dplmc_reputation_cheat_mode_only_adventurous|据 说 {s46}是 一 个 爱 冒 险 的 人。 
+str_dplmc_reputation_cheat_mode_only_romantic|据 说 {s46}是 一 个 浪 漫 的 人。 
+str_dplmc_reputation_cheat_mode_only_moralist|据 说 {s46}是 一 个 品 德 高 尚 的 人。 
+str_dplmc_reputation_cheat_mode_only_ambitious|据 说 {s46}是 一 个 雄 心 勃 勃 的 人。 
+str_dplmc_reputation_cheat_mode_only_reg11|目 前 还 没 有 关 于 {s46}的 信 息 和 传 言。 
+str_dplmc_s21__the_s5_is_bound_by_alliance_not_to_attack_the_s14s18_it_will_expire_in_reg1_days|{s21}^* {s5}与 {s14}达 成 了 联 盟。 {s18} 有 效 期 为 {reg1}天。 
+str_dplmc_s21__the_s5_is_bound_by_defensive_not_to_attack_the_s14s18_it_will_expire_in_reg1_days|{s21}^* {s5}与 {s14} 达 成 了 防 御 协 定。 {s18} 有 效 期 为 {reg1}天。 
+str_dplmc_s21__the_s5_is_bound_by_trade_not_to_attack_the_s14s18_it_will_expire_in_reg1_days|{s21}^* {s5}与 {s14} 达 成 贸 易 协 定。{s18} 在 {reg1}天 后 协 定 终 止 时， 会 转 变 成 互 不 侵 犯 状 态。 
+str_dplmc_small|小 队 
+str_dplmc_medium|中 队 
+str_dplmc_big|大 队 
+str_dplmc_elite|精 锐 
+str_dplmc_very_decentralized|非 常 分 散 
+str_dplmc_quite_decentralized|相 当 分 散 
+str_dplmc_little_decentralized|比 较 分 散 
+str_dplmc_neither_centralize_nor_decentralized|既 不 分 散 也 不 团 结 
+str_dplmc_little_centralized|比 较 团 结 
+str_dplmc_quite_centralized|相 当 团 结 
+str_dplmc_very_centralized|非 常 团 结 
+str_dplmc_very_plutocratic|几 乎 都 是 平 民 出 身 
+str_dplmc_quite_plutocratic|大 部 分 平 民 出 身 
+str_dplmc_little_plutocratic|一 部 分 平 民 出 身 
+str_dplmc_neither_aristocratic_nor_plutocratic|既 不 贵 族 化 也 不 平 民 化 
+str_dplmc_little_aristocratic|一 部 分 贵 族 出 身 
+str_dplmc_quite_aristocratic|大 部 分 贵 族 出 身 
+str_dplmc_very_aristocratic|几 乎 都 是 贵 族 出 身 
+str_dplmc_all_free|几 乎 都 是 自 由 人 
+str_dplmc_mostly_free|大 部 分 都 是 自 由 人 
+str_dplmc_usually_free|通 常 来 说 都 是 自 由 人 
+str_dplmc_mixture_serfs|自 由 人 和 农 奴 的 数 量 差 不 多 
+str_dplmc_usually_serfs|通 常 来 说 都 是 农 奴 
+str_dplmc_mostly_serfs|大 部 分 都 是 农 奴 
+str_dplmc_all_serfs|几 乎 都 是 农 奴 
+str_dplmc_very_quantity|一 大 批 军 人 
+str_dplmc_great_quantity|非 常 多 的 军 人 
+str_dplmc_good_quantity|比 较 多 的 军 人 
+str_dplmc_medicore_quality|一 般 的 战 力 
+str_dplmc_good_quality|不 错 的 战 力 
+str_dplmc_great_quality|很 强 的 战 力 
+str_dplmc_very_quality|惊 人 的 战 力 
 str_key_0|0
 str_key_1|1
 str_key_2|2
@@ -3717,4 +3717,4 @@ str_your_kingdoms_religion_is_s11|你 的 王 国 的 国 教 是 {s1}
 str_religion_pagan_mongol|蒙 古 异 教 徒 
 str_horse_archers|骑 射 手 
 str_spearmen|长 矛 手 
-str_revision|170:190M
+str_revision|170:205M{***}

@@ -81,7 +81,8 @@ mno_continue|继 续
 menu_faction_relations_report|{s1}
 mno_continue|继 续 
 menu_camp|营 地 已 经 建 好 了， 你 想 要 做 什 么？ 
-mno_action_export_import|导 入 /导 出 NPC.
+mno_camp_action_1|四 处 走 走。 
+mno_action_export_import|导 入 /导 出 NPC。 
 mno_action_mod_options|Mod 选 项 
 mno_action_faction_colours|更 改 阵 营 颜 色 
 mno_camp_manage_inventory|管 理 团 队 物 品 
@@ -383,6 +384,7 @@ menu_close|没 事。
 menu_town|{s10}{s14}^{s11}{s12}{s13}
 mno_castle_castle|进 入 领 主 大 厅 {s1}。 
 mno_castle_castle_door|城 堡 大 门。 
+mno_castle_player_sally_out|{s12}正 在 被 围 攻， 集 结 部 队， 阻 击 敌 人。 
 mno_join_tournament|加 入 竞 技 大 会。 
 mno_town_castle|进 入 城 堡 {s1}。 
 mno_town_castle_door|城 堡 大 门。 
@@ -720,7 +722,7 @@ mno_continue|继 续
 mno_continue|继 续 
 menu_garden|{s12}
 mno_enter|进 入 
-mno_nurse|在 泉 水 边 等 待 
+mno_nurse|跟 随 侍 女 离 开 
 mno_nurse|在 泉 水 边 等 待 
 mno_leave|离 开 
 menu_kill_local_merchant_begin|你 探 明 你 的 猎 物 转 弯 走 进 了 一 条 背 街 的 巷 子。 这 将 是 你 袭 击 他 的 最 好 时 机。 

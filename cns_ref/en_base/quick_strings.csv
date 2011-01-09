@@ -123,6 +123,7 @@ qstr_Use_shield_bash__AI_|Use shield bash (AI):
 qstr_Spear_bracing:|Spear bracing:
 qstr_Force_ranged_troops_|Force ranged troops to use their ranged weapons:
 qstr_Disable_NPCs__compla|Disable NPCs' complaints:
+qstr_Show_battle_mini_map|Show battle mini map:
 qstr_Reinforcement_waves:|Reinforcement waves:
 qstr_Probability_of_rain/|Probability of rain/snow (%):
 qstr_Cloud_amount:|Cloud amount:
@@ -202,6 +203,7 @@ qstr__Looted_|(Looted)
 qstr__Under_Siege_|(Under Siege)
 qstr_The_village_of_{s1}_|The village of {s1} has been looted by {s2}.
 qstr_{s3}_is_no_longer_un|{s3} is no longer under siege.
+qstr_enemy_strength_{reg2|enemy strength {reg20}
 qstr_Small_bands_of_enemi|Small bands of enemies spotted near {s1}.
 qstr_Enemy_patrols_spotte|Enemy patrols spotted near {s1}.
 qstr_Medium_sized_group_o|Medium-sized group of enemies spotted near {s1}.
@@ -350,6 +352,8 @@ qstr_Spearmen|Spearmen
 qstr_Horse_Archers|Horse Archers
 qstr_calculate_party_stre|calculate party strength [{s33}] --- offense: {reg0} defense: {reg1} size: {reg2}
 qstr_You_got_keys_of_dung|You got keys of dungeon.
+qstr_Your_{s20}_falls_apa|Your {s20} falls apart!
+qstr_Your_{s20}_cracks!|Your {s20} cracks!
 qstr_Releasing_spear.|Releasing spear.
 qstr_Your_horse_received_|Your horse received {reg1} damage from a braced spear!
 qstr_The_injury_causes_yo|The injury causes your grip on the spear to slip!
@@ -362,6 +366,8 @@ qstr_If_you_choose_to_wat|If you choose to watch the fight you can use the mouse
 qstr_Forming_ranks.|Forming ranks.
 qstr_You_must_stay_behind|You must stay behind the line on the ground! Point is not counted.
 qstr_Tutorial|Tutorial
+qstr_reinforcements_to_en|reinforcements to entry 2
+qstr_reinforcements_to_ent|reinforcements to entry 12
 qstr_You_came_into_the_wo|You came into the world a {reg3?daughter:son} of declining nobility, owning only the house in which they lived. However, despite your family's hardships, they afforded you a good education and trained you from childhood for the rigors of aristocracy and life at court.
 qstr_You_were_born_the_{r|You were born the {reg3?daughter:son} of travelling merchants, always moving from place to place in search of a profit. Although your parents were wealthier than most and educated you as well as they could, you found little opportunity to make friends on the road, living mostly for the moments when you could sell something to somebody.
 qstr_As_a_child_your_fami|As a child, your family scrabbled out a meagre living from your father's wages as a guardsman to the local lord. It was not an easy existence, and you were too poor to get much of an education. You learned mainly how to defend yourself on the streets, with or without a weapon in hand.
@@ -434,10 +440,11 @@ qstr_No_one_accepts_the_o|No one accepts the offer.
 qstr_You_start_reading_{s|You start reading {s2}. After a few pages, you feel you could learn a lot from this book. You decide to keep it close by and read whenever you have the time.
 qstr_You_flip_through_the|You flip through the pages of {s2}, but you find the text confusing and difficult to follow. Try as you might, it soon gives you a headache, and you're forced to give up the attempt.
 qstr_Villagers|Villagers
+qstr_The_garrison|The garrison
 qstr_You_have_encountered|You have encountered {s1}.
 qstr_You_have_engaged_{s1|You have engaged {s1} while they were raiding {s3}.
 qstr_You_were_caught_by_{|You were caught by {s1} while your forces were raiding {s3}.
-qstr____DEBUG____calling_|---DEBUG--- calling total victory from simple encounter
+qstr_You_rally_your_force|You rally your forces and sally against {s1} to defend {s3}.
 qstr_You_were_victorious!|You were victorious!
 qstr_Battle_was_lost._You|Battle was lost. Your forces were utterly crushed.
 qstr_Your_companions_carr|Your companions carry you away from the fighting.
@@ -445,7 +452,6 @@ qstr_You_have_defeated_th|You have defeated the enemy.
 qstr_You_have_retreated_f|You have retreated from the fight.
 qstr_^^Ally_Casualties:{s|^^Ally Casualties:{s0}
 qstr_{s1}_of_{s3}_managed|{s1} of {s3} managed to escape.
-qstr____DEBUG____calling_t|---DEBUG--- calling total victory from slipped away
 qstr_Some_of_your_tendons|Some of your tendons have been damaged in the battle. You lose 1 strength.
 qstr_You_took_a_nasty_wou|You took a nasty wound which will cause you to limp slightly even after it heals. You lose 1 agility.
 qstr_You_have_trouble_thi|You have trouble thinking straight after the battle, perhaps from a particularly hard hit to your head, and frequent headaches now plague your existence. Your intelligence is reduced by 1.
@@ -454,7 +460,6 @@ qstr_Retirement_is_starti|Retirement is starting to sound better and better.
 qstr_No_matter!_I_will_pe|No matter! I will persevere!
 qstr_What_did_I_do_to_des|What did I do to deserve this?
 qstr_I_suppose_it_ll_make|I suppose it'll make for a good story, at least...
-qstr____DEBUG____calling_to|---DEBUG--- calling total victory from join battle
 qstr_{s9}_wants_you_to_fo|{s9} wants you to follow his army until further notice.
 qstr_{s8}_of_{s9}|{s8} of {s9}
 qstr__Your_own_banner_fli| Your own banner flies over the castle gate.
@@ -467,14 +472,12 @@ qstr_You_re_preparing_to_|You're preparing to attack the walls, the work should 
 qstr_Your_forces_are_buil|Your forces are building a siege tower. They estimate another {reg9} hours to complete the build.
 qstr_You_are_ready_to_att|You are ready to attack the walls at any time.
 qstr_The_siege_tower_is_b|The siege tower is built and ready to make an assault.
-qstr____DEBUG____calling_tot|---DEBUG--- calling total victory from castle besiege
 qstr_As_a_last_defensive_|As a last defensive effort, you retreat to the main hall of the keep. You and your remaining soldiers will put up a desperate fight here. If you are defeated, there's no other place to fall back to.
 qstr_You_ve_been_driven_a|You've been driven away from the walls. Now the attackers are pouring into the streets. IF you can defeat them, you can perhaps turn the tide and save the day.
 qstr_You_ve_breached_the_|You've breached the town walls, but the stubborn defenders continue to resist you in the streets! You'll have to deal with them before you can attack the keep at the heart of the town.
 qstr_The_town_centre_is_y|The town centre is yours, but the remaining defenders have retreated to the castle. It must fall before you can complete your victory.
 qstr_The_remaining_defend|The remaining defenders have retreated to the castle as a last defense. You must go in and crush any remaining resistance.
 qstr_However_since_you_ar|However, since you are not a sworn {man/follower} of {s9}, there is no chance he would recognize you as the {lord/lady} of this {reg8?town:castle}.
-qstr____DEBUG____calling_tota|---DEBUG--- calling total victory from siege started defender
 qstr_The_enemy_has_been_f|The enemy has been forced to retreat. The assault is over, but the siege continues.
 qstr_As_you_approach_you_|As you approach, you are spotted by the castle guards, who welcome you and open the gates for their {king/queen}.
 qstr_As_you_approach_you_a|As you approach, you are spotted by the castle guards, who welcome you and open the gates for their {lord/lady}.
@@ -505,6 +508,7 @@ qstr__This_castle_has_no_| This castle has no garrison.
 qstr__This_town_has_no_ga| This town has no garrison.
 qstr__You_have_successful| You have successfully sneaked in.
 qstr_{s13}_A_tournament_w|{s13} A tournament will be held here soon.
+qstr_sally|sally
 qstr_ransom_broker_presen|ransom broker present entry point: {reg20}.
 qstr___{reg1}_denars_per_| ({reg1} denars per night)
 qstr_Moreover_you_earn_{r|Moreover, you earn {reg8} denars from the clever bets you placed on yourself...

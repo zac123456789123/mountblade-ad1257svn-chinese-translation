@@ -1,4 +1,4 @@
-﻿trp_multiplayer_profile_troop_male|联 机 男 性 玩 家 角 色 
+trp_multiplayer_profile_troop_male|联 机 男 性 玩 家 角 色 
 trp_multiplayer_profile_troop_male_pl|联 机 男 性 玩 家 角 色 
 trp_multiplayer_profile_troop_female|联 机 女 性 玩 家 角 色 
 trp_multiplayer_profile_troop_female_pl|联 机 女 性 玩 家 角 色 
@@ -1705,7 +1705,7 @@ trp_knight_15_9|罗 曼· 弗 谢 沃 洛 多 维 奇 亲 王
 trp_knight_15_9_pl|罗 曼· 弗 谢 沃 洛 多 维 奇 
 trp_knight_15_10|安 德 烈· 弗 谢 沃 洛 多 维 奇 亲 王 
 trp_knight_15_10_pl|安 德 烈·  弗 谢 沃 洛 多 维 奇 
-trp_knight_16_1|“圣 地 亚 哥骑 士 团 大 团 长”派 奥· 佩 雷 斯· 科 雷 亚 
+trp_knight_16_1|“圣 地 亚 哥 骑 士 团 大 团 长”派 奥· 佩 雷 斯· 科 雷 亚 
 trp_knight_16_1_pl|派 奥· 佩 雷 斯· 科 雷 亚 
 trp_knight_16_2|布 拉 干 萨 的 门 多· 阿 拉 诺 爵 士 
 trp_knight_16_2_pl|布 拉 干 萨 的 门 多· 阿 拉 诺 
@@ -2316,16 +2316,27 @@ trp_kingdom_6_lady_3_pl|贝 拉
 trp_kingdom_6_lady_4|艾 莉 娜 女 士 
 trp_kingdom_6_lady_4_pl|艾 莉 娜 
 trp_kingdom_6_lady_5|Lady Constanis
+trp_kingdom_6_lady_5_pl|Constanis{***}
 trp_kingdom_6_lady_6|Lady Vera
+trp_kingdom_6_lady_6_pl|Vera{***}
 trp_kingdom_6_lady_7|Lady Auberina
+trp_kingdom_6_lady_7_pl|Auberina{***}
 trp_kingdom_6_lady_8|Lady Tibal
+trp_kingdom_6_lady_8_pl|Tibal{***}
 trp_kingdom_6_lady_9|Lady Magar
+trp_kingdom_6_lady_9_pl|Magar{***}
 trp_kingdom_6_lady_10|Lady Thedosa
+trp_kingdom_6_lady_10_pl|Thedosa{***}
 trp_kingdom_6_lady_11|Lady Melisar
+trp_kingdom_6_lady_11_pl|Melisar{***}
 trp_kingdom_6_lady_12|Lady Irena
+trp_kingdom_6_lady_12_pl|Irena{***}
 trp_kingdom_6_lady_13|Lady Philenna
+trp_kingdom_6_lady_13_pl|Philenna{***}
 trp_kingdom_6_lady_14|Lady Sonadel
+trp_kingdom_6_lady_14_pl|Sonadel{***}
 trp_kingdom_6_lady_15|Lady Boadila
+trp_kingdom_6_lady_15_pl|Boadila{***}
 trp_kingdom_6_lady_16|爱 莉 丝 女 士 
 trp_kingdom_6_lady_16_pl|爱 莉 丝 
 trp_kingdom_6_lady_17|约 翰 娜 女 士 
