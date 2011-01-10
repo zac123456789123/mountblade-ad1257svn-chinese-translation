@@ -11,7 +11,7 @@ str_given_by_s1_at_s2|{s2}的 {s1}给 予
 str_given_by_s1_in_wilderness|野 外 的 {s1}给 予 
 str_s7_raiders|{s7}掠 夺 者 
 str_bandits_eliminated_by_another|难 对 付 的 强 盗 被 别 的 队 伍 消 灭 了。 
-str_msg_battle_won|战 斗 胜 利！  按 TAB 键 离 开… … 
+str_msg_battle_won|战 斗 胜 利！ 按 TAB 键 离 开… … 
 str_tutorial_map1|你 现 在 是 在 地 图 模 式 中。 在 地 图 上 按 左 键 可 以 旅 行/进 入 镇 子/或 与 其 他 队 伍 遭 遇。 如 果 你 的 队 伍 停 止 不 动， 时 间 不 会 流 逝。 如 果 你 想 在 某 处 等 待， 按 住 空 格 键 一 直 不 动 （再 按 住 Ctrl 键 可 以 使 时 间 加 速 流 逝）。 
 str_randomize|随 机 
 str_charge|填 充 
@@ -55,13 +55,13 @@ str_do_you_want_to_retreat|你 确 定 要 撤 退 吗？
 str_give_up_fight|放 弃 战 斗？ 
 str_do_you_wish_to_leave_tutorial|你 想 要 离 开 教 程 吗？ 
 str_do_you_wish_to_surrender|你 想 投 降 吗？ 
-str_can_not_retreat|不 能 撤 退！  附 近 有 敌 人。 
+str_can_not_retreat|不 能 撤 退！ 附 近 有 敌 人。 
 str_s1_joined_battle_enemy|敌 方 {s1}加 入 战 斗。 
 str_s1_joined_battle_friend|我 方 {s1}加 入 战 斗。 
 str_entrance_to_town_forbidden|这 里 的 守 卫 正 在 搜 寻 敌 人， 你 没 法 轻 易 从 大 门 溜 进 去。 
 str_sneaking_to_town_impossible|这 里 的 守 卫 警 惕 性 很 高， 不 管 你 怎 么 伪 装 都 没 法 溜 进 去。 
-str_battle_won|你 赢 得 了 这 场 战 斗！  
-str_battle_lost|你 输 掉 了 这 场 战 斗！  
+str_battle_won|你 赢 得 了 这 场 战 斗！ 
+str_battle_lost|你 输 掉 了 这 场 战 斗！ 
 str_attack_walls_success|在 一 阵 浴 血 战 斗 之 后， 你 士 兵 奋 勇 攻 下 了 城 头。 
 str_attack_walls_failure|你 的 守 城 士 兵 在 一 波 又 一 波 的 攻 击 中 坚 持 到 了 最 后 一 个 人。 
 str_attack_walls_continue|浴 血 的 战 斗 展 现 了 双 方 的 英 勇。 尽 管 你 的 战 士 很 努 力， 城 堡 上 还 是 飘 着 敌 人 的 旗 子。 
@@ -85,7 +85,7 @@ str_party_gained_morale|部 队 的 士 气 加 {reg1}。
 str_party_lost_morale|部 队 的 士 气 减 {reg1}。 
 str_other_party_gained_morale|{s1}获 得 {reg1}士 气。 
 str_other_party_lost_morale|{s1}失 去 {reg1}士 气。 
-str_qst_follow_spy_noticed_you|那 个 间 谍 觉 察 到 你 了， 他 准 备 开 溜 了！  
+str_qst_follow_spy_noticed_you|那 个 间 谍 觉 察 到 你 了， 他 准 备 开 溜 了！ 
 str_father|父 亲 
 str_husband|丈 夫 
 str_wife|妻 子 
@@ -317,7 +317,7 @@ str_number_of_troops_killed_reg1|杀 敌 数： {reg1}
 str_number_of_troops_wounded_reg1|伤 敌 数： {reg1}
 str_number_of_own_troops_killed_reg1|我 方 阵 亡： {reg1}
 str_number_of_own_troops_wounded_reg1|我 方 受 伤： {reg1}
-str_retreat|撤 退！  
+str_retreat|撤 退！ 
 str_siege_continues|继 续 战 斗… … 
 str_casualty_display|我 方 伤 亡： {s10}^ 敌 方 伤 亡： {s11}^{s12}
 str_casualty_display_hp|你 受 到 {reg1}点 伤 害。 
@@ -366,10 +366,10 @@ str_bar_disgruntled|不 满
 str_bar_miserable|害 怕 
 str_here_plus_space|这 里 
 str_npc1_intro|你 好， 愿 主 的 恩 典 时 刻 在 你 身 边。 
-str_npc2_intro|Laba Diena！  或 者 换 种 方 式 说， 陌 生 人 你 好！  
+str_npc2_intro|Laba Diena！ 或 者 换 种 方 式 说， 陌 生 人 你 好！ 
 str_npc3_intro|你 好 啊， 旅 行 者。 我 们 一 起 喝 一 杯 怎 么 样？ 
 str_npc4_intro|咸 水、 泪 水、 汗 水 或 者 海 水 这 些 有 盐 的 东 西 对 于 伤 口 治 疗 很 有 帮 助。 
-str_npc5_intro|欢 迎 来 到 我 的 酒 馆！  我 是 博 尔 科， 一 名 非 凡 的 斧 战 士。 
+str_npc5_intro|欢 迎 来 到 我 的 酒 馆！ 我 是 博 尔 科， 一 名 非 凡 的 斧 战 士。 
 str_npc6_intro|{先 生/女 士} … …
 str_npc7_intro|Istvan the Hungarian
 str_npc8_intro|Yuriy of Novgorod
@@ -481,10 +481,10 @@ str_npc28_backstory_a|Gamal the Arab - backstory a{***}
 str_npc29_backstory_a|Dragoslav the Serbian - backstory a{***}
 str_npc30_backstory_a|Kyril the Bulgarian - backstory a{***}
 str_npc31_backstory_a|Ali the Berber - backstory a{***}
-str_npc1_backstory_b|在 我 的 助 手 背 叛 我 时， 我 都 快 升 迁 了。 仅 仅 是 因 为 我 同 情 一 个 挨 饿 的 异 教 徒 的 村 庄， 让 他 们 收 割 了 自 己 的 庄 稼。 就 这 么 一 次 机 会， 他 得 到 我 职 位 的 机 会， 他 就 背 叛 了 我。 他 肯 定 不 喜 欢 当 我 的 下 手。 这 个 叛 徒！  
+str_npc1_backstory_b|在 我 的 助 手 背 叛 我 时， 我 都 快 升 迁 了。 仅 仅 是 因 为 我 同 情 一 个 挨 饿 的 异 教 徒 的 村 庄， 让 他 们 收 割 了 自 己 的 庄 稼。 就 这 么 一 次 机 会， 他 得 到 我 职 位 的 机 会， 他 就 背 叛 了 我。 他 肯 定 不 喜 欢 当 我 的 下 手。 这 个 叛 徒！ 
 str_npc2_backstory_b|你 肯 定 知 道 最 近 教 皇 召 集 了 十 字 军 进 攻 我 们 波 罗 的 海 国 家， 为 了 帮 助 我 的 同 胞， 我 所 在 的 城 镇 决 定 派 出 一 支 队 伍 加 入 国 王 所 召 集 的 军 队。 我 在 队 伍 中 行 军， 快 乐 的 像 个 云 雀， 这 时 队 长 命 令 我 出 列， 去 找 补 给。 所 以 我 就 去 为 我 和 我 的 战 友 们 找 一 点 吃 的。 
 str_npc3_backstory_b|在 所 有 人 的 记 忆 之 前， 我 们 族 人 便 与Humyan部 落 的 人 有 世 仇。 Humyan部 落 的 许 多 人 都 住 在 旁 边 的 山 谷。 双 方 的 很 多 人 都 由 于 仇 杀 丧 生， 其 中 包 括 我 的 兄 弟 们。 为 了 能 给 西 边 的 战 争 保 存 实 力， 可 汗 本 人 命 令 我 们 停 止 争 斗。 但 我 知 道 自 己 的 权 利， 我 兄 弟 们 的 血 也 呼 喊 着 要 我 复 仇。 我 在 路 上 伏 击 并 杀 死 一 个Humyan， 并 在 当 晚 逃 出 了 村 庄， 甚 至 没 有 来 得 及 和 父 亲 告 别。 我 打 算 这 一 两 年 都 在 这 片 土 地 上 等 待 时 机， 等 到 可 汗 得 人 都 忘 记 了 再 回 家。 但 是Humyan人， 他 们 当 然 不 会 忘。 但 这 就 是 荣 誉 的 代 价。 
-str_npc4_backstory_b|作 为 一 个 丹 麦 人， 我 和 我 的 祖 先 们 一 样， 非 常 期 待 冒 险 以 及 随 之 而 来 的 动 荡 不 安。 可 是 我 们 还 没 离 开 港 口 多 远 麻 烦 就 来 了， 大 概 两 天 前， 我 们 遇 上 了 风 暴！  我 理 所 当 然 的 抱 怨 船 长， 在 起 航 前 没 有 献 祭， 这 是 对 上 古 之 神 们 的 不 尊 重， old land means old gods! 
+str_npc4_backstory_b|作 为 一 个 丹 麦 人， 我 和 我 的 祖 先 们 一 样， 非 常 期 待 冒 险 以 及 随 之 而 来 的 动 荡 不 安。 可 是 我 们 还 没 离 开 港 口 多 远 麻 烦 就 来 了， 大 概 两 天 前， 我 们 遇 上 了 风 暴！ 我 理 所 当 然 的 抱 怨 船 长， 在 起 航 前 没 有 献 祭， 这 是 对 上 古 之 神 们 的 不 尊 重， old land means old gods! 
 str_npc5_backstory_b|我 是 一 个 天 生 的 战 士， 出 生 前 就 注 定 要 成 为 伟 大 的 人。 勇 敢 战 士 的 传 统 缔 造 了 我 伟 大 的 祖 国， 波 兰。 而 我， 也 一 样， 会 用 毕 生 时 间 成 为 战 场 上 的 大 师。 
 str_npc6_backstory_b|我 竭 尽 所 能 地 救 助 生 命， 帮 助 本 地 领 主 雇 佣 的 医 师。 我 用 父 亲 教 我 的 工 程 知 识 解 救 被 困 的 人。 但 我 还 是 没 能 从 倒 塌 的 避 难 所 里 救 出 我 的 父 亲。 之 后 数 周， 我 在 大 脑 一 片 空 白 的 状 态 下 帮 助 当 地 医 师 照 顾 那 些 被 救 出 的 人。 
 str_npc7_backstory_b|Istvan the Hungarian - backstory b
@@ -496,7 +496,7 @@ str_npc12_backstory_b|Uilleam the Scot - backstory b
 str_npc13_backstory_b|Aedh the Irishman - backstory b
 str_npc14_backstory_b|Karl the Swede - backstory b
 str_npc15_backstory_b|Ivan of Galicia - backstory b
-str_npc16_backstory_b|我 一 直 受 到 僧 侣 和 学 者 的 训 练。 然 而， 不 久 以 前， 我 因 为 一 些 让 人 无 法 成 为 神 职 人 员 的 不 道 德 行 为 被 驱 逐 出 了 修 道 院。 那 群 伪 君 子！  他 们 会 因 为 我 知 道 女 人 和 喝 酒 而 开 除 我？ 那 群 猪！  那 只 是 一 个 赶 走 我 的 借 口。 让 他 们 所 谓 的 规 则 与 秩 序 下 地 狱 去 吧！  我 早 就 受 够 了！  
+str_npc16_backstory_b|我 一 直 受 到 僧 侣 和 学 者 的 训 练。 然 而， 不 久 以 前， 我 因 为 一 些 让 人 无 法 成 为 神 职 人 员 的 不 道 德 行 为 被 驱 逐 出 了 修 道 院。 那 群 伪 君 子！ 他 们 会 因 为 我 知 道 女 人 和 喝 酒 而 开 除 我？ 那 群 猪！ 那 只 是 一 个 赶 走 我 的 借 口。 让 他 们 所 谓 的 规 则 与 秩 序 下 地 狱 去 吧！ 我 早 就 受 够 了！ 
 str_npc17_backstory_b|Jaume of Aragon - backstory b{***}
 str_npc18_backstory_b|Fernando the Castillan - backstory b{***}
 str_npc20_backstory_b|Isma'il the Andalusian - backstory b{***}
@@ -525,7 +525,7 @@ str_npc12_backstory_c|Uilleam the Scot - backstory c
 str_npc13_backstory_c|Aedh the Irishman - backstory c
 str_npc14_backstory_c|Karl the Swede - backstory c
 str_npc15_backstory_c|Ivan of Galicia - backstory c
-str_npc16_backstory_c|他 们 关 于 肃 静、 贫 困、 贞 洁 的 空 虚 誓 言， 我 受 够 了！  但 我 不 确 定 下 一 步 我 该 去 哪， 我 必 须 承 认。 
+str_npc16_backstory_c|他 们 关 于 肃 静、 贫 困、 贞 洁 的 空 虚 誓 言， 我 受 够 了！ 但 我 不 确 定 下 一 步 我 该 去 哪， 我 必 须 承 认。 
 str_npc17_backstory_c|Jaume of Aragon - backstory c{***}
 str_npc18_backstory_c|Fernando the Castillan - backstory c{***}
 str_npc20_backstory_c|Isma'il the Andalusian - backstory c{***}
@@ -570,7 +570,7 @@ str_npc30_backstory_later|Kyril the Bulgarian - backstory b{***}
 str_npc31_backstory_later|Ali the Berber - backstory b{***}
 str_npc1_backstory_response_1|我 的 队 伍 很 欢 迎 你 这 样 有 经 验 的 战 士， 你 感 兴 趣 吗？ 
 str_npc2_backstory_response_1|在 你 思 考 下 一 步 怎 么 做 之 前， 你 在 我 这 干 吧， 怎 么 样？
-str_npc3_backstory_response_1|要 的 就 是 这 种 气 概！  我 也 许 能 提 供 给 你 点 什 么。 {***}
+str_npc3_backstory_response_1|要 的 就 是 这 种 气 概！ 我 也 许 能 提 供 给 你 点 什 么。 {***}
 str_npc4_backstory_response_1|一 个 嗜 血 的 北 方 人？ 那 我 觉 得 我 的 队 伍 有 你 的 位 置。 
 str_npc5_backstory_response_1|我 经 营 了 一 个 雇 佣 兵 的 组 织， 我 当 然 会 雇 佣 像 你 这 样 的 人。 
 str_npc6_backstory_response_1|我 是 很 愿 意 雇 佣 拥 有 你 这 样 天 赋 的 人 的， 只 要 你 真 的 愿 意 试 着 学 习 医 疗 和 战 斗。 或 许 某 天 你 还 能 有 机 会 使 用 你 父 亲 教 给 你 的 技 巧 呢。 
@@ -634,7 +634,7 @@ str_npc5_signup|真 的 吗？ 我 期 待 挥 舞 着 我 的 斧 头 砍 光 �
 str_npc6_signup|一 个 让 我 使 用 了 父 亲 教 我 的 技 能 的 机 会？ 我 想 你 的 意 思 是 毁 灭 而 非 创 造。 但 是 我 父 亲 总 是 说， 拆 房 子 比 建 房 子 容 易 的 多。 
 str_npc7_signup|Istvan the Hungarian - signup
 str_npc8_signup|Yuriy of Novgorod - signup
-str_npc9_signup|是 的， 先 生！  我 是 一 名 相 当 有 名 的 传 奇 射 手。 
+str_npc9_signup|是 的， 先 生！ 我 是 一 名 相 当 有 名 的 传 奇 射 手。 
 str_npc10_signup|Jean the Frenchman - signup
 str_npc11_signup|Jon the Norwegian - signup
 str_npc12_signup|Uilleam the Scot - signup
@@ -772,7 +772,7 @@ str_npc1_payment_response|好， 这 是 {reg3}第 纳 尔， 作 为 一 名 �
 str_npc3_payment_response|那 … … 好 吧， 这 是 {reg3}第 纳 尔， 你 的 第 一 笔 佣 金。 
 str_npc4_payment_response|{reg3}第 纳 尔 只 是 我 付 给 狂 战 士 的 一 点 小 代 价 而 已。 
 str_npc5_payment_response|没 问 题， 这 是 {reg3}第 纳 尔。 
-str_npc6_payment_response|这 是 {reg3}第 纳 尔 作 为 预 付 你 的 佣 金。 愿 你 母 亲 安 息！  
+str_npc6_payment_response|这 是 {reg3}第 纳 尔 作 为 预 付 你 的 佣 金。 愿 你 母 亲 安 息！ 
 str_npc7_payment_response|Istvan the Hungarian - payment response
 str_npc8_payment_response|Yuriy of Novgorod - payment response
 str_npc10_payment_response|Jean the Frenchman - payment response
@@ -877,7 +877,7 @@ str_npc31_personalityclash_speech|Ali the Berber - personalityclash speech{***}
 str_npc1_personalityclash_speech_b|他 对 我 信 仰 不 友 好 的 态 度 我 完 全 不 能 接 受， 我 坚 持 你 出 面 调 解。 
 str_npc2_personalityclash_speech_b|Ligeikis the Balt - personalityclash speech b
 str_npc3_personalityclash_speech_b|我 告 诉 他， 如 果 选 择 成 为 战 士 给 你 带 来 这 么 多 困 扰， 你 可 以 选 择 做 一 名 牧 师 或 者 乞 丐， 而 不 必 来 烦 心 这 些 事 情。 我 希 望 你 不 介 意 我 说 的 这 些。 
-str_npc4_personalityclash_speech_b|我 不 介 意 给 他 点 尊 重。 但 他 唯 一 可 能 在 我 前 面 时 只 是 在 营 地， 而 战 斗 的 时 候 他 总 是 躲 在 我 后 面！  我 希 望 你 和 他 谈 谈， 纠 正 他 的 态 度 问 题。 
+str_npc4_personalityclash_speech_b|我 不 介 意 给 他 点 尊 重。 但 他 唯 一 可 能 在 我 前 面 时 只 是 在 营 地， 而 战 斗 的 时 候 他 总 是 躲 在 我 后 面！ 我 希 望 你 和 他 谈 谈， 纠 正 他 的 态 度 问 题。 
 str_npc5_personalityclash_speech_b|Bolko the Pole - personalityclash speech b
 str_npc6_personalityclash_speech_b|他 告 诉 了 我 们 一 旦 达 成 他 追 求的 名 声 与 财 富 后 我 们 会 遇 到 什 么 麻 烦， 并 威 胁 今 后 以 他 所 谓 “正 义” 之 名 来 追 击 我 们。 
 str_npc7_personalityclash_speech_b|Istvan the Hungarian - personalityclash speech b
@@ -902,7 +902,7 @@ str_npc28_personalityclash_speech_b|Gamal the Arab - personalityclash speech b{*
 str_npc29_personalityclash_speech_b|Dragoslav the Serbian - personalityclash speech b{***}
 str_npc30_personalityclash_speech_b|Kyril the Bulgarian - personalityclash speech b{***}
 str_npc31_personalityclash_speech_b|Ali the Berber - personalityclash speech b{***}
-str_npc1_personalityclash2_speech|长 官， 我 强 烈 抗 议， {s11}在 散 播 关 于 我 们 骑 士 团 在 他 国 家 做 出 恐 怖 的 事 的 谣 言。 他 没 有 任 何 证 据， 我 敢 肯 定 他 在 撒 谎！  
+str_npc1_personalityclash2_speech|长 官， 我 强 烈 抗 议， {s11}在 散 播 关 于 我 们 骑 士 团 在 他 国 家 做 出 恐 怖 的 事 的 谣 言。 他 没 有 任 何 证 据， 我 敢 肯 定 他 在 撒 谎！ 
 str_npc2_personalityclash2_speech|Ligeikis the Balt - personalityclash2 speech
 str_npc3_personalityclash2_speech|长 官， {s11}应 该 把 他 的 舌 头 切 掉。 
 str_npc4_personalityclash2_speech|我 讨 厌{s11}。 他 经 常 在 战 场 上 杀 掉 那 些 受 伤 了 的， 并 且 无 法 付 给 他 赎 金 的 人。 这 个 贪 婪 的 贵 族 只 是 在 寻 找 丰 富 的 赎 金， 屠 杀 普 通 人。 
@@ -960,7 +960,7 @@ str_npc30_personalityclash2_speech_b|Kyril the Bulgarian - personalityclash2 spe
 str_npc31_personalityclash2_speech_b|Ali the Berber - personalityclash2 speech b{***}
 str_npc1_personalitymatch_speech|{s11} and I are both shunned by our orders and unlikely though it may seem, a Order Knight and a womenising ex-monk, we have become firm friends.
 str_npc2_personalitymatch_speech|战 争 是 一 件 极 可 怕 又 伟 大 的 事。 它 能 让 人 有 机 会 很 快 变 富， 也 能 让 人 甚 至 更 快 变 成 尸 体。 {s11}， 也知道这个。 
-str_npc3_personalitymatch_speech|这 仗 打 的 不 错！  战 斗 中 能 有{s11} 在 我 们 这 边 真 是 太 棒 了。 
+str_npc3_personalitymatch_speech|这 仗 打 的 不 错！ 战 斗 中 能 有{s11} 在 我 们 这 边 真 是 太 棒 了。 
 str_npc4_personalitymatch_speech|{s11}总 是 告 诉 我 们 他 家 乡 大 平 原 让 人 激 动 的 故 事。 平 原 上 到 处 是 跑 的 像 风 一 样 快 的 马。 
 str_npc5_personalitymatch_speech|Bolko the Pole - personalitymatch speech
 str_npc6_personalitymatch_speech|{先 生/女 士} I must profess to having a certain amount of respect for {s11} as given his sad circumstances he is ever looking towards the future.
@@ -1367,7 +1367,7 @@ str_npc31_kingsupport_3|Ali the Berber - kingsupport 3{***}
 str_npc1_kingsupport_objection|Leige I have heard that you have made Jaume a representive of your thoughts and wishes regarding the future of the kingdom! I never thought I would see you betray your values like this in public. You insult all of us who would of seen you made Leader of this land.
 str_npc2_kingsupport_objection|Ligeikis the Balt - kingsupport objection
 str_npc3_kingsupport_objection|我 听 到 了 你 告 诉 雨 果 的 话。 但 是 我 很 困 惑， 如 果 靠 种 地 谋 生 的 领 主 还 有 靠 交 易 谋 生 的 商 人 能 决 定 征 什 么 税 的 话， 那 到 底 最 后 谁 会 交 税？ 当 然 是 靠 放 牧 生 活 的 人 — — 我 的 族 人， 那 些 生 活 在 草 原 的 人。 那 些 议 会 和 我 毫 不 相 干。 所 有 自 由 的 人 都 应 该 在 可 汗 之 下 团 结 如 一。 
-str_npc4_kingsupport_objection|队 长！  为 什 么 你 让 乌 尔 里 希 在 这 么 重 要 的 事 情 上 代 表 你？ 这 关 系 到 您 将 来 的 计 划。 他 会 让 普 通 人 根 本 不 尊 重 你， 仅 仅 是 忍 耐！  在 一 起 战 斗 了 这 么 长 时 间， 你 怎 么 能 为 了 这 片 土 地 的 王 座 就 这 么 便 宜 的 卖 了 我 们？ 
+str_npc4_kingsupport_objection|队 长！ 为 什 么 你 让 乌 尔 里 希 在 这 么 重 要 的 事 情 上 代 表 你？ 这 关 系 到 您 将 来 的 计 划。 他 会 让 普 通 人 根 本 不 尊 重 你， 仅 仅 是 忍 耐！ 在 一 起 战 斗 了 这 么 长 时 间， 你 怎 么 能 为 了 这 片 土 地 的 王 座 就 这 么 便 宜 的 卖 了 我 们？ 
 str_npc5_kingsupport_objection|Bolko the Pole - kingsupport objection
 str_npc6_kingsupport_objection|{先 生/女 士} I feeL sending Martio off on a mission to gather support from the people for your cause. I fear he will do more harm than good, promising the poor unrealistic rewards and threatening the rich with a system that would undermine their wealth.
 str_npc7_kingsupport_objection|Istvan the Hungarian - kingsupport objection
@@ -1424,7 +1424,7 @@ str_npc30_intel_mission|Kyril the Bulgarian - intel mission{***}
 str_npc31_intel_mission|Ali the Berber - intel mission{***}
 str_npc1_fief_acceptance|Certainly, if you grant me a fief I turn it into a paradise for the working man, merchant and even the spoiled Nobility. All will be treated equally as long as they respect each other as God would want them to. Otherwise his wrath shall rain down on them, adminstered by my fist...
 str_npc2_fief_acceptance|Ligeikis the Balt - fief acceptance
-str_npc3_fief_acceptance|非 常 高 兴 能 受 封 {s17}。 我 会 向 山 中 传 消 息， 给 我 的 亲 属， 让 他 们 知 道 在 您 的 军 队 中 我 的 带 领 下 可 以 有 荣 誉 的 黄 金 可 赚— — 他 们 一 定 会 成 群 结 队 的 来， 为 您 战 斗！  
+str_npc3_fief_acceptance|非 常 高 兴 能 受 封 {s17}。 我 会 向 山 中 传 消 息， 给 我 的 亲 属， 让 他 们 知 道 在 您 的 军 队 中 我 的 带 领 下 可 以 有 荣 誉 的 黄 金 可 赚— — 他 们 一 定 会 成 群 结 队 的 来， 为 您 战 斗！ 
 str_npc4_fief_acceptance|Jakob the Dane - fief acceptance
 str_npc5_fief_acceptance|Bolko the Pole - fief acceptance
 str_npc6_fief_acceptance|Johann Lord of a fief? It does have rather a nice ring to it, although I am not entirely sure how it should be done. No doubt there will be people to advise me, and doubtless cheat me, but as you have seen I learn fast {先 生/女 士}. Then they will get there commupence and you will get a well managed fief.
@@ -1487,7 +1487,7 @@ str_npc5_turn_against|Bolko the Pole - turn against
 str_npc6_turn_against|You would not let me build my world against yours claiming you needed space....I hope you will not mind if my army intrudes into your space today.
 str_npc7_turn_against|Istvan the Hungarian - turn against
 str_npc8_turn_against|Yuriy of Novgorod - turn against
-str_npc9_turn_against|今 天 真 是 糟 透 了！  我 从 没 想 到 会 在 战 场 上 遇 到 以 前 的 长 官， 即 使 我 胜 利 了， 也 感 觉 不 到 喜 悦。 
+str_npc9_turn_against|今 天 真 是 糟 透 了！ 我 从 没 想 到 会 在 战 场 上 遇 到 以 前 的 长 官， 即 使 我 胜 利 了， 也 感 觉 不 到 喜 悦。 
 str_npc10_turn_against|Jean the Frenchman - turn against
 str_npc11_turn_against|Jon the Norwegian - turn against
 str_npc12_turn_against|Uilleam the Scot - turn against
@@ -1509,8 +1509,8 @@ str_npc29_turn_against|Dragoslav the Serbian - turn against{***}
 str_npc30_turn_against|Kyril the Bulgarian - turn against{***}
 str_npc31_turn_against|Ali the Berber - turn against{***}
 str_comment_intro_liege_affiliated|有 人 告 诉 我 你 已 经 向 某 个 质 疑 我 王 位 的 人 起 誓。 但 是 我 们 仍 然 可 以 谈 谈。 
-str_comment_intro_famous_liege|你 的 名 声 来 的 比 你 的 人 快！  也 许 你 该 寻 求 一 个 配 得 上 你 的 英 勇 的 君 主 了。 
-str_comment_intro_famous_martial|你 的 名 声 来 的 比 你 的 人 快！  或 许 我 们 该 在 竞 技 场 上， 或 者 战 场 上 来 较 量 一 下， 看 看 谁 更 勇 猛！  
+str_comment_intro_famous_liege|你 的 名 声 来 的 比 你 的 人 快！ 也 许 你 该 寻 求 一 个 配 得 上 你 的 英 勇 的 君 主 了。 
+str_comment_intro_famous_martial|你 的 名 声 来 的 比 你 的 人 快！ 或 许 我 们 该 在 竞 技 场 上， 或 者 战 场 上 来 较 量 一 下， 看 看 谁 更 勇 猛！ 
 str_comment_intro_famous_badtempered|我 听 说 过 你。 我 不 喜 欢 无 用 的 争 执， 有 什 么 话 你 就 直 说 吧。 
 str_comment_intro_famous_pitiless|我 知 道 你 的 名 字， 它 让 很 多 人 从 心 里 感 到 害 怕。 很 好， 或 许 我 们 该 找 个 时 间 好 好 谈 谈。 
 str_comment_intro_famous_cunning|哈， 我 们 终 于 又 见 面 了， {伙 计/姑 娘}。 让 我 们 好 好 谈 谈 吧。 
@@ -1518,7 +1518,7 @@ str_comment_intro_famous_sadistic|我 知 道 你 的 名 字， 我 担 保 也
 str_comment_intro_famous_goodnatured|早 就 听 说 过 你 了。 总 算 能 够 认 识 你， 还 真 不 赖。 
 str_comment_intro_famous_upstanding|我 听 说 过 你， 他 们 说 你 是 最 英 勇 的 战 士。 我 只 希 望 你 的 荣 誉 和 仁 慈 能 与 你 的 勇 猛 相 配。 
 str_comment_intro_noble_liege|我 看 你 带 着 面 贵 族 的 旗 子， 不 过 我 不 认 得 这 个 徽 标。 你 该 知 道 我 总 在 寻 找 能 为 我 而 战 的 勇 士， 如 果 他 们 能 够 证 明 自 己 值 得 我 信 任 的 话。 
-str_comment_intro_noble_martial|我 看 你 带 着 面 贵 族 的 旗 子， 不 过 我 不 认 得 这 个 徽 标。 没 关 系— — 根 据 传 说， 一 个 勇 敢 的 战 士 当 四 海 为 家！  
+str_comment_intro_noble_martial|我 看 你 带 着 面 贵 族 的 旗 子， 不 过 我 不 认 得 这 个 徽 标。 没 关 系— — 根 据 传 说， 一 个 勇 敢 的 战 士 当 四 海 为 家！ 
 str_comment_intro_noble_badtempered|我 不 认 得 你 旗 子 上 的 这 个 徽 标。 一 定 又 是 个 外 乡 人 到 这 里 来 了， 好 像 这 里 还 不 够 多 似 的。 
 str_comment_intro_noble_pitiless|我 看 你 带 着 面 贵 族 的 旗 子， 不 过 我 不 认 得 这 个 徽 标。 毫 无 疑 问， 又 一 只 秃 鹰 盯 上 了 战 争 的 尸 体。 
 str_comment_intro_noble_cunning|我 看 你 带 着 面 贵 族 的 旗 子， 不 过 我 不 认 得 这 个 徽 标。 可 能 有 一 天 你 这 个 {伙 计/姑 娘} 会 证 明 自 己 是 一 个 伟 大 的 战 士， 交 上 这 样 的 朋 友 总 是 很 划 算 的。 
@@ -1534,7 +1534,7 @@ str_comment_intro_common_sadistic|对 那 些 不 请 自 来 的， 放 肆 无
 str_comment_intro_common_goodnatured|嗯， 你 看 起 来 蛮 像 一 个 好 人。 
 str_comment_intro_common_upstanding|冷 静 下 来， 并 永 远 记 住， 英 勇 也 要 有 与 之 相 称 的 仁 慈， 而 胆 识 要 用 于 磊 落 之 处。 
 str_comment_intro_female_famous_liege|我 听 说 过 很 多 你 的 传 闻。 某 些 男 人 也 许 会 害 怕 武 艺 高 强 的 女 性， 但 我 是 那 种 不 会 拒 绝 一 名 勇 敢 而 又 忠 诚 的 战 士 的 人。 
-str_comment_intro_female_famous_martial|我 听 说 过 很 多 你 的 传 闻。 他 们 说 你 的 强 悍 甚 至 不 输 给 最 勇 敢 的 男 子。 或 许 我 们 该 在 竞 技 场 上， 或 者 战 场 上 来 较 量 一 下， 看 看 谁 更 勇 猛！  
+str_comment_intro_female_famous_martial|我 听 说 过 很 多 你 的 传 闻。 他 们 说 你 的 强 悍 甚 至 不 输 给 最 勇 敢 的 男 子。 或 许 我 们 该 在 竞 技 场 上， 或 者 战 场 上 来 较 量 一 下， 看 看 谁 更 勇 猛！ 
 str_comment_intro_female_famous_badtempered|我 听 说 过 你— — 一 个 会 像 男 人 那 样 战 斗 的 女 子。 
 str_comment_intro_female_famous_pitiless|我 知 道 你 的 名 字， 它 让 很 多 人 从 心 里 感 到 害 怕。 很 好， 或 许 我 们 该 找 个 时 间 好 好 谈 谈。 
 str_comment_intro_female_famous_cunning|哈， 我 们 终 于 见 面 了。 听 说 你 是 个 不 错 的 女 人。 也 许 我 们 该 找 个 时 间 谈 谈。 
@@ -1544,25 +1544,25 @@ str_comment_intro_female_famous_upstanding|我 听 说 过 你， 他 们 说 �
 str_comment_intro_female_noble_liege|有 志 于 指 挥 人 们 战 斗 的 女 性， 并 不 多 见。 不 过， 这 是 个 黑 暗 和 混 乱 的 时 代， 我 的 双 手 将 时 刻 紧 握 剑 柄， 永 远 保 持 勇 敢 和 忠 诚。 
 str_comment_intro_female_noble_martial|我 不 认 得 你 旗 子 上 的 这 个 徽 标， 但 是 很 明 显 你 是 个 有 身 份 的 小 姐。 请 把 我 当 作 你 最 卑 微 的 仆 人。 
 str_comment_intro_female_noble_badtempered|我 不 认 得 你 旗 子 上 的 这 个 徽 标。 一 定 又 是 个 外 乡 人 到 这 里 来 了， 带 着 他 们 奇 怪 的 习 惯。 
-str_comment_intro_female_noble_pitiless|我 看 你 带 着 面 贵 族 的 旗 子， 不 过 我 不 认 得 这 个 徽 标… … 你 得 知 道， 小 姐， 卡 拉 迪 亚 是 男 人 们 驰 骋 厮 杀 的 地 方， 如 果 你 打 算 推 翻 这 个 自 然 规 律， 你 会 看 到 你 漂 亮 的 脑 袋 被 扎 在 枪 上 示 众— — 就 像 其 他 这 么 做 的 贵 族 一 样！  
+str_comment_intro_female_noble_pitiless|我 看 你 带 着 面 贵 族 的 旗 子， 不 过 我 不 认 得 这 个 徽 标… … 你 得 知 道， 小 姐， 卡 拉 迪 亚 是 男 人 们 驰 骋 厮 杀 的 地 方， 如 果 你 打 算 推 翻 这 个 自 然 规 律， 你 会 看 到 你 漂 亮 的 脑 袋 被 扎 在 枪 上 示 众— — 就 像 其 他 这 么 做 的 贵 族 一 样！ 
 str_comment_intro_female_noble_cunning|虽 然 不 是 没 听 说 过， 有 的 女 人 为 了 富 贵， 在 卡 拉 迪 亚 的 战 场 上 厮 杀， 但 这 也 绝 不 常 见。 我 会 对 你 的 冒 险 历 程 很 感 兴 趣 的。 
-str_comment_intro_female_noble_sadistic|你 似 乎 是 贵 族 身 份， 但 是 我 不 认 得 你 的 旗 子。 一 定 又 是 个 外 乡 人 到 这 里 来 了— — 毫 无 疑 问 是 来 自 一 个 男 人 没 用， 女 人 在 战 场 上 厮 杀 的 地 方！  
-str_comment_intro_female_noble_goodnatured|我 看 你 带 着 面 贵 族 的 旗 子， 不 过 我 不 认 得 这 个 徽 标。 原 谅 我 的 无 知， 尊 敬 的 女 士！  很 高 兴 认 识 你。 
+str_comment_intro_female_noble_sadistic|你 似 乎 是 贵 族 身 份， 但 是 我 不 认 得 你 的 旗 子。 一 定 又 是 个 外 乡 人 到 这 里 来 了— — 毫 无 疑 问 是 来 自 一 个 男 人 没 用， 女 人 在 战 场 上 厮 杀 的 地 方！ 
+str_comment_intro_female_noble_goodnatured|我 看 你 带 着 面 贵 族 的 旗 子， 不 过 我 不 认 得 这 个 徽 标。 原 谅 我 的 无 知， 尊 敬 的 女 士！ 很 高 兴 认 识 你。 
 str_comment_intro_female_noble_upstanding|不 是 每 天 都 能 看 到 一 个 全 副 武 装 去 打 仗 的 女 人。 请 别 认 为 这 不 合 适， 尊 敬 的 女 士， 因 为 你 有 权 保 护 自 己。 不 过， 我 也 不 能 违 心 地 表 示 支 持 你 参 与 战 斗。 我 更 希 望 女 人 们 可 以 远 离 战 争， 因 为 我 相 信 女 性 应 该 代 表 着 文 雅 和 温 柔， 尽 管 这 两 样 东 西 我 们 已 经 不 多 了。 
 str_comment_intro_female_admiring_liege|有 志 于 指 挥 人 们 战 斗 的 女 性， 并 不 多 见。 不 过， 这 是 个 黑 暗 和 混 乱 的 时 代， 我 的 双 手 将 时 刻 紧 握 剑 柄， 永 远 保 持 勇 敢 和 忠 诚。 
 str_comment_intro_female_admiring_martial|你 好， 尊 敬 的 女 士。 尽 管 我 从 你 的 举 止 看 出 来 你 不 是 一 个 平 常 女 孩， 我 希 望 你 不 会 拒 绝 来 自 于 我， 你 最 卑 微 的 仆 人 的 仰 慕 之 词。 
 str_comment_intro_female_badtempered_admiring|嘿， 试 想 一 下— — 一 个 女 孩， 全 副 武 装。 好 吧， 这 看 起 来 有 点 怪， 不 过 对 于 你， 我 会 慢 慢 接 受 的。 
 str_comment_intro_female_pitiless_admiring|一 个 女 人 披 挂 整 齐 地 去 参 战， 这 可 不 常 见。 当 心 点， 尊 敬 的 女 士— — 这 是 一 个 残 酷 的 世 界， 看 着 一 个 美 女 被 刀 砍 剑 刺， 可 是 件 遗 憾 的 事。 
 str_comment_intro_female_cunning_admiring|你 好， 尊 敬 的 女 士。 如 果 我 要 说 一 个 女 人 全 副 武 装 去 打 仗 并 不 常 见， 请 别 见 外。 我 希 望 有 朝 一 日 我 的 女 儿 可 以 拥 有 像 你 那 样 勇 气 和 热 情。 
-str_comment_intro_female_sadistic_admiring|看 看 我 们 遇 到 了 谁！  一 个 女 人， 全 副 武 装 去 打 仗！  好 吧， 我 敢 说， 像 你 这 么 漂 亮 的 美 人， 几 乎 可 以 分 给 一 件 长 摆 链 甲 一 些 女 人 味 儿 了。 
-str_comment_intro_female_admiring_goodnatured|尊 敬 的 女 士， 如 果 你 的 武 艺 像 你 的 脸 蛋 那 么 漂 亮， 你 的 敌 人 一 定 怕 你 怕 的 要 死！  
+str_comment_intro_female_sadistic_admiring|看 看 我 们 遇 到 了 谁！ 一 个 女 人， 全 副 武 装 去 打 仗！ 好 吧， 我 敢 说， 像 你 这 么 漂 亮 的 美 人， 几 乎 可 以 分 给 一 件 长 摆 链 甲 一 些 女 人 味 儿 了。 
+str_comment_intro_female_admiring_goodnatured|尊 敬 的 女 士， 如 果 你 的 武 艺 像 你 的 脸 蛋 那 么 漂 亮， 你 的 敌 人 一 定 怕 你 怕 的 要 死！ 
 str_comment_intro_female_admiring_upstanding|你 好， 尊 敬 的 女 士。 即 使 你 的 衣 服 和 鞍 具 上 满 是 征 尘， 我 还 是 可 以 看 出 你 不 乏 贵 族 和 女 性 的 优 雅。 
 str_comment_intro_female_common_liege|有 志 于 指 挥 人 们 战 斗 的 女 性， 并 不 多 见。 不 过， 这 是 个 黑 暗 和 混 乱 的 时 代， 我 的 双 手 将 时 刻 紧 握 剑 柄， 永 远 保 持 勇 敢 和 忠 诚。 
 str_comment_intro_female_common_martial|我 必 须 告 诉 你， 尊 敬 的 女 士— — 骑 马 巡 游 这 片 危 机 四 伏 的 大 陆 的 时 候， 请 务 必 小 心。 如 果 你 想 过 要 寻 找 一 种 更… … 嗯… … 更 安 定 的 生 活 的 话， 我 保 证 可 以 从 我 的 人 当 中 给 你 挑 选 一 个 般 配 的 丈 夫。 
-str_comment_intro_female_common_badtempered|顺 便 说 一 句， 姑 娘— — 你 丈 夫 知 道 你 偷 拿 了 他 的 武 器 和 盔 甲 么？ 我 敢 打 赌， 回 到 家 里 你 免 不 了 不 折 不 扣 挨 上 一 顿 痛 打！  
+str_comment_intro_female_common_badtempered|顺 便 说 一 句， 姑 娘— — 你 丈 夫 知 道 你 偷 拿 了 他 的 武 器 和 盔 甲 么？ 我 敢 打 赌， 回 到 家 里 你 免 不 了 不 折 不 扣 挨 上 一 顿 痛 打！ 
 str_comment_intro_female_common_pitiless|这 真 是 个 堕 落 的 时 代， 连 女 人 都 当 上 了 土 匪， 从 战 争 的 残 骸 里 找 些 值 钱 的 东 西。 
 str_comment_intro_female_common_cunning|虽 然 不 是 没 听 说 过， 有 的 女 人 为 了 富 贵， 在 卡 拉 迪 亚 的 战 场 上 厮 杀， 但 这 也 绝 不 常 见。 我 会 对 你 的 冒 险 历 程 很 感 兴 趣 的。 
-str_comment_intro_female_common_sadistic|一 个 全 副 武 装 去 打 仗 的 女 人！  好 吧， 我 想 你 比 我 手 下 大 部 分 自 称 是 勇 士 的 人 更 像 个 男 人。 
+str_comment_intro_female_common_sadistic|一 个 全 副 武 装 去 打 仗 的 女 人！ 好 吧， 我 想 你 比 我 手 下 大 部 分 自 称 是 勇 士 的 人 更 像 个 男 人。 
 str_comment_intro_female_common_goodnatured|从 你 的 神 情 来 看， 你 有 很 好 的 自 我 控 制 能 力， 不 过， 在 外 面 还 是 得 当 心 点 儿， 尊 敬 的 女 士。 
 str_comment_intro_female_common_upstanding|不 是 每 天 都 能 看 到 一 个 全 副 武 装 去 打 仗 的 女 人。 请 别 认 为 这 不 合 适， 尊 敬 的 女 士， 因 为 你 有 权 保 护 自 己。 不 过， 我 也 不 能 违 心 地 表 示 支 持 你 参 与 战 斗。 我 更 希 望 女 人 们 可 以 远 离 战 争， 因 为 我 相 信 女 性 应 该 代 表 着 文 雅 和 温 柔， 尽 管 这 两 样 东 西 我 们 已 经 不 多 了。 
 str_rejoinder_intro_female_common_badtempered|我 的 武 器 在 战 场 上 所 向 披 靡。 你 敢 和 它 们 比 划 比 划 吗？ 
@@ -1578,17 +1578,17 @@ str_rejoinder_intro_female_common_martial|我 可 以 找 到 比 这 些 狗 �
 str_rejoinder_intro_female_sadistic_admiring|你 可 以 向 一 副 马 具 倾 注 感 情， 就 别 再 打 别 的 主 意 了。 
 str_rejoinder_intro_female_badtempered_admiring|如 果 你 因 为 看 到 我 而 心 神 不 宁， 我 很 乐 意 帮 你 弄 掉 你 的 眼 睛。 
 str_comment_you_raided_my_village_enemy_benevolent|你 竟 然 在 我 保 护 下 的 {s51}村 庄 屠 杀 无 辜 的 平 民。 现 在， 你 将 为 你 的 罪 行 遭 到 惩 罚。 
-str_comment_you_raided_my_village_enemy_spiteful|你 掠 夺 了 我 的 {s51}村 庄， 毁 坏 我 的 产 业 并 杀 害 我 的 租 户。 我 要 你 用 血 来 偿 还！  
+str_comment_you_raided_my_village_enemy_spiteful|你 掠 夺 了 我 的 {s51}村 庄， 毁 坏 我 的 产 业 并 杀 害 我 的 租 户。 我 要 你 用 血 来 偿 还！ 
 str_comment_you_raided_my_village_enemy_coldblooded|你 掠 夺 了 我 的 {s51}村 庄， 毁 坏 我 的 产 业 并 杀 害 我 的 租 户。 在 你 想 再 次 这 样 做 之 前， 我 劝 你 三 思。 
-str_comment_you_raided_my_village_enemy|你 掠 夺 了 我 的 {s51}村 庄， 毁 坏 我 的 产 业 并 杀 害 我 保 护 下 的 租 户。 你 必 须 为 自 己 的 罪 行 付 出 代 价！  
-str_comment_you_raided_my_village_unfriendly_spiteful|你 掠 夺 了 我 的 {s51}村 庄， 如 果 你 再 这 样 我 就 像 收 拾 鱼 那 样 捏 爆 你 的 鱼 泡！  
+str_comment_you_raided_my_village_enemy|你 掠 夺 了 我 的 {s51}村 庄， 毁 坏 我 的 产 业 并 杀 害 我 保 护 下 的 租 户。 你 必 须 为 自 己 的 罪 行 付 出 代 价！ 
+str_comment_you_raided_my_village_unfriendly_spiteful|你 掠 夺 了 我 的 {s51}村 庄， 如 果 你 再 这 样 我 就 像 收 拾 鱼 那 样 捏 爆 你 的 鱼 泡！ 
 str_comment_you_raided_my_village_friendly|你 掠 夺 了 我 的 {s51}村 庄， 彻 底 毁 掉 了 我 们 之 间 的 关 系。 
 str_comment_you_raided_my_village_default|你 掠 夺 了 我 的 {s51}村 庄， 如 果 你 再 这 样， 我 们 真 的 会 打 起 来。 
 str_comment_you_stole_cattles_from_my_village_enemy_benevolent|我 听 说 你 从 {s51}村 那 些 受 我 保 护 的 老 实 村 民 手 中 偷 走 了 不 少 牲 口， 现 在 是 你 为 你 的 罪 行 付 出 代 价 的 时 候 了。 
-str_comment_you_stole_cattles_from_my_village_enemy_spiteful|我 听 说 你 从 属 于 我 的 {s51}村 的 村 民 们 手 中 偷 走 了 不 少 牲 口， 现 在 你 将 为 你 可 耻 的 行 为 付 出 代 价！  
-str_comment_you_stole_cattles_from_my_village_enemy_coldblooded|我 听 说 你 从 属 于 我 的 {s51}村 的 村 民 们 手 中 偷 走 了 不 少 牲 口， 我 给 你 一 个 机 会， 让 你 弥 补 你 再 次 破 坏 我 的 收 入 的 愚 行！  
-str_comment_you_stole_cattles_from_my_village_enemy|我 听 说 你 从 属 于 我 的 {s51}村 的 村 民 们 手 中 偷 走 了 不 少 牲 口， 现 在 你 将 为 你 可 耻 的 行 为 付 出 代 价！  
-str_comment_you_stole_cattles_from_my_village_unfriendly_spiteful|我 听 说 你 从 属 于 我 的 {s51}村 的 村 民 们 手 中 偷 走 了 不 少 牲 口， 如 果 你 敢 再 烦 的 话， 我 发 誓 我 会 把 你 像 鱼 一 样 挂 起 来！  
+str_comment_you_stole_cattles_from_my_village_enemy_spiteful|我 听 说 你 从 属 于 我 的 {s51}村 的 村 民 们 手 中 偷 走 了 不 少 牲 口， 现 在 你 将 为 你 可 耻 的 行 为 付 出 代 价！ 
+str_comment_you_stole_cattles_from_my_village_enemy_coldblooded|我 听 说 你 从 属 于 我 的 {s51}村 的 村 民 们 手 中 偷 走 了 不 少 牲 口， 我 给 你 一 个 机 会， 让 你 弥 补 你 再 次 破 坏 我 的 收 入 的 愚 行！ 
+str_comment_you_stole_cattles_from_my_village_enemy|我 听 说 你 从 属 于 我 的 {s51}村 的 村 民 们 手 中 偷 走 了 不 少 牲 口， 现 在 你 将 为 你 可 耻 的 行 为 付 出 代 价！ 
+str_comment_you_stole_cattles_from_my_village_unfriendly_spiteful|我 听 说 你 从 属 于 我 的 {s51}村 的 村 民 们 手 中 偷 走 了 不 少 牲 口， 如 果 你 敢 再 烦 的 话， 我 发 誓 我 会 把 你 像 鱼 一 样 挂 起 来！ 
 str_comment_you_stole_cattles_from_my_village_friendly|我 听 说 你 从 属 于 我 的 {s51}村 的 村 民 们 手 中 偷 走 了 不 少 牲 口， 这 种 行 为 极 大 的 损 害 了 我 们 的 友 谊。 
 str_comment_you_stole_cattles_from_my_village_default|我 听 说 你 从 属 于 我 的 {s51}村 的 村 民 们 手 中 偷 走 了 不 少 牲 口， 如 果 你 不 停 止 这 种 行 径， 我 们 将 不 得 不 对 你 展 开 攻 击。 
 str_comment_you_robbed_my_village_enemy_coldblooded|你 在 我 的 {s51}村 庄 抢 夺 我 的 租 户， 我 认 为 这 是 对 我 个 人 的 侮 辱。 
@@ -1606,29 +1606,29 @@ str_comment_you_helped_villagers_cruel|我 听 说 你 在 我 的 {s51}村 庄 
 str_comment_you_helped_villagers_default|我 听 说 你 在 我 的 {s51}村 庄 行 善。 世 道 艰 难， 我 也 认 为 你 的 意 图 是 好 的， 但 别 养 成 这 样 的 习 惯。 作 为 领 主 和 保 护 者， 我 不 想 让 他 们 去 盼 望 一 个 陌 生 人 的 帮 助。 
 str_comment_you_give_castle_in_my_control|你 不 会 后 悔 决 定 把 {s51}封 给 我。 我 会 替 你 保 护 它。 
 str_comment_you_captured_a_castle_allied_friendly|我 听 说 你 包 围 并 攻 下 了 {s51}。 这 也 太 突 然 了 吧， 我 很 骄 傲 能 称 你 为 我 的 朋 友。 
-str_comment_you_captured_a_castle_allied_spiteful|我 听 说 你 包 围 并 攻 下 了 {s51}。 干 得 好！  很 快， 我 们 就 能 去 占 他 们 的 城 堡， 抢 他 们 的 财 宝， 还 有 他 们 的 女 人 和 酒… … 哈 哈！  
+str_comment_you_captured_a_castle_allied_spiteful|我 听 说 你 包 围 并 攻 下 了 {s51}。 干 得 好！ 很 快， 我 们 就 能 去 占 他 们 的 城 堡， 抢 他 们 的 财 宝， 还 有 他 们 的 女 人 和 酒… … 哈 哈！ 
 str_comment_you_captured_a_castle_allied_unfriendly_spiteful|我 听 说 你 包 围 并 攻 下 了 {s51}。 你 一 定 交 上 了 狗 屎 运， 这 是 他 们 说 的。 好 好 享 受 吧， 在 你 被 赶 出 来 之 前。 
 str_comment_you_captured_a_castle_allied_unfriendly|我 听 说 你 包 围 并 攻 下 了 {s51}。 不 管 我 们 以 前 有 多 少 分 歧， 我 还 是 奉 上 我 的 祝 贺。 
-str_comment_you_captured_a_castle_allied|我 听 说 你 包 围 并 攻 下 了 {s51}。 我 们 把 他 们 打 跑 了！  
+str_comment_you_captured_a_castle_allied|我 听 说 你 包 围 并 攻 下 了 {s51}。 我 们 把 他 们 打 跑 了！ 
 str_comment_you_captured_my_castle_enemy_spiteful|我 听 说 你 攻 陷 了 我 的 家 乡 {s51}。 我 希 望 你 能 喜 欢 地 牢， 将 来 你 会 在 那 里 待 上 许 多 年。 
 str_comment_you_captured_my_castle_enemy_chivalrous|你 占 领 了 我 的 封 地 {s51}， 希 望 你 能 给 我 机 会 赢 它 回 来。 
 str_comment_you_captured_my_castle_enemy|你 有 些 东 西 是 属 于 我 的— — {s51}。 我 会 让 你 放 弃 它。 
 str_comment_we_defeated_a_lord_unfriendly_spiteful|我 想 你 会 为 我 们 对 {s54}的 胜 利 干 一 杯。 不 过 还 是 省 省 你 的 酒— — 让 我 们 在 你 洗 净 前 耻 之 后 再 喝 吧。 
 str_comment_we_defeated_a_lord_unfriendly|我 不 会 忘 记 当 初 我 们 如 何 并 肩 作 战， 对 抗 {s54}， 但 我 也 不 会 忘 记 那 些 横 在 我 们 之 间 的 过 节。 
-str_comment_we_defeated_a_lord_cruel|{s54}之 战 是 一 场 伟 大 的 胜 利， 对 吧？ 我 们 把 敌 人 的 部 队 变 成 了 一 场 乌 鸦 的 盛 宴！  
+str_comment_we_defeated_a_lord_cruel|{s54}之 战 是 一 场 伟 大 的 胜 利， 对 吧？ 我 们 把 敌 人 的 部 队 变 成 了 一 场 乌 鸦 的 盛 宴！ 
 str_comment_we_defeated_a_lord_quarrelsome|我 不 会 忘 记 我 们 是 如 何 攻 破 {s54}的。 我 很 享 受 那 个。 
 str_comment_we_defeated_a_lord_upstanding|我 不 会 忘 记 我 们 对 {s54}的 胜 利。 让 我 们 再 次 感 谢 上 帝， 并 且 祈 祷 我 们 不 会 变 得 太 骄 傲。 
 str_comment_we_defeated_a_lord_default|那 是 一 个 伟 大 的 胜 利， 不 是 吗？ 和 你 一 起 战 斗 我 感 到 很 荣 耀。 
 str_comment_we_fought_in_siege_unfriendly_spiteful|我 想 你 会 为 我 们 攻 下 {s51}干 一 杯。 不 过 还 是 省 省 你 的 酒— — 让 我 们 在 你 洗 净 前 耻 之 后 再 喝 吧。 
 str_comment_we_fought_in_siege_unfriendly|我 不 会 忘 记 我 们 紧 密 合 作 暴 风 雨 般 的 席 卷 了 {s51}， 不 过， 我 也 不 会 忘 记 我 们 之 间 存 在 的 过 节。 
 str_comment_we_fought_in_siege_cruel|我 不 会 忘 记 我 们 是 如 何 攻 破 {s51}的 城 墙 并 让 守 卫 者 都 倒 在 剑 下 的。 这 是 个 美 好 的 回 忆。 
-str_comment_we_fought_in_siege_quarrelsome|记 得 敌 人 在 我 们 攻 下 {s51}的 城 墙 的 时 候 是 怎 么 尖 叫 的 吗？ 他 们 以 为 很 安 全！  我 们 扇 去 了 他 们 脸 上 自 鸣 得 意 的 笑！  
+str_comment_we_fought_in_siege_quarrelsome|记 得 敌 人 在 我 们 攻 下 {s51}的 城 墙 的 时 候 是 怎 么 尖 叫 的 吗？ 他 们 以 为 很 安 全！ 我 们 扇 去 了 他 们 脸 上 自 鸣 得 意 的 笑！ 
 str_comment_we_fought_in_siege_upstanding|我 不 会 忘 记 我 们 攻 占 了 {s51}。 让 我 们 再 次 感 谢 上 帝， 并 且 祈 祷 我 们 不 会 变 得 太 骄 傲。 
 str_comment_we_fought_in_siege_default|我 不 会 忘 记 我 们 紧 密 合 作 攻 占 了 {s51}。 和 你 一 起 战 斗 我 感 到 荣 耀。 
 str_comment_we_fought_in_major_battle_unfriendly_spiteful|我 想 你 会 为 我 们 在 {s51}附 近 的 伟 大 胜 利 干 杯。 不 过 还 是 省 省 你 的 酒— — 让 我 们 在 你 洗 净 前 耻 之 后 再 喝 吧。 
 str_comment_we_fought_in_major_battle_unfriendly|我 不 会 忘 记 我 们 在 {s51}附 近 的 伟 大 战 役 中 的 紧 密 合 作， 不 过， 我 也 不 会 忘 记 我 们 之 间 存 在 的 过 节。 
 str_comment_we_fought_in_major_battle_cruel|我 不 会 忘 记 在 {s51}附 近 的 伟 大 战 役， 当 我 们 攻 破 敌 人 的 防 线 之 后 他 们 尖 叫 着 在 我 们 面 前 溃 散。 这 是 一 个 美 好 的 回 忆。 
-str_comment_we_fought_in_major_battle_quarrelsome|在 {s51}附 近 的 战 斗 很 棒， 我 们 把 那 些 混 蛋 赶 跑 了！  
+str_comment_we_fought_in_major_battle_quarrelsome|在 {s51}附 近 的 战 斗 很 棒， 我 们 把 那 些 混 蛋 赶 跑 了！ 
 str_comment_we_fought_in_major_battle_upstanding|我 不 会 忘 记 在 {s51}附 近 的 伟 大 战 役 中 我 们 并 肩 战 斗。 让 我 们 再 次 感 谢 上 帝， 并 祈 祷 我 们 不 会 变 得 太 骄 傲。 
 str_comment_we_fought_in_major_battle_default|我 不 会 忘 记 在 {s51}附 近 的 伟 大 战 役 中 我 们 并 肩 战 斗。 和 你 一 起 战 斗 我 感 到 荣 耀。 
 str_comment_you_defeated_a_lord_allied_liege|这 么 说， 你 和 那 个 流 氓 {s54}交 锋 并 获 得 了 胜 利。 我 非 常 高 兴 听 到 这 个 消 息。 
@@ -1636,9 +1636,9 @@ str_comment_you_defeated_a_lord_allied_unfriendly_spiteful|我 听 说 你 击 �
 str_comment_you_defeated_a_lord_allied_spiteful|我 听 说 过 你 击 败 了 狗 娘 养 的 {s54}。 啊， 我 要 是 能 亲 耳 听 到 他 求 饶 就 好 了。 
 str_comment_you_defeated_a_lord_allied_unfriendly_chivalrous|我 听 说 你 击 败 了 {s54}。 我 希 望 你 没 有 使 用 卑 鄙 的 手 段。 
 str_comment_you_defeated_a_lord_allied|我 听 说 你 击 败 了 {s54}。 我 希 望 你 对 胜 利 感 到 高 兴。 
-str_comment_you_defeated_me_enemy_chivalrous|我 不 会 愤 恨 上 次 你 击 败 了 我， 但 是 我 渴 望 下 一 次 交 手！  
+str_comment_you_defeated_me_enemy_chivalrous|我 不 会 愤 恨 上 次 你 击 败 了 我， 但 是 我 渴 望 下 一 次 交 手！ 
 str_comment_you_defeated_me_enemy_spiteful|我 正 期 待 与 你 再 次 见 面。 你 的 小 诡 计 不 会 再 让 我 上 当 了， 我 将 很 享 受 你 的 求 饶。 
-str_comment_you_defeated_me_enemy|当 我 们 上 次 遇 到 的 时 候， {playername}， 你 比 我 强。 但 是 我 保 证 再 也 不 会 出 现 那 种 事 了！  
+str_comment_you_defeated_me_enemy|当 我 们 上 次 遇 到 的 时 候， {playername}， 你 比 我 强。 但 是 我 保 证 再 也 不 会 出 现 那 种 事 了！ 
 str_comment_i_defeated_you_enemy_spiteful|还 没 打 够？ 那 让 我 们 再 干 一 仗， 我 会 用 你 的 肠 子 喂 狗。 
 str_comment_i_defeated_you_enemy_chivalrous|让 我 再 试 试 你 有 多 勇 猛， {playername}？ 
 str_comment_i_defeated_you_enemy_benevolent|你 这 么 快 又 来 了？ 你 在 家 练 习 了 么？ 
@@ -1649,46 +1649,46 @@ str_comment_we_were_defeated_unfriendly|最 后 看 到 你 的 时 候， 你 �
 str_comment_we_were_defeated_cruel|最 后 看 到 你 的 时 候， 你 已 经 被 {s54}的 人 打 倒 了。 不 用 担 心— — 我 们 会 找 到 他， 然 后 让 他 被 自 己 的 胜 利 噎 死。 
 str_comment_we_were_defeated_default|最 后 看 到 你 的 时 候， 你 已 经 被 {s54}的 人 打 倒 了。 很 高 兴 看 到 你 还 活 得 好 好 的。 
 str_comment_you_were_defeated_allied_friendly_spiteful|我 听 说 {s54}让 你 很 难 过。 不 用 担 心， 朋 友— — 我 会 为 你 找 到 他， 并 把 他 的 头 送 给 你 作 礼 物。 
-str_comment_you_were_defeated_allied_unfriendly_cruel|我 听 说 {s54}嘲 笑 你 的 人 都 象 绵 羊。 但 是 你 还 活 生 生 的 站 在 这 里， 真 是 让 人 失 望！  
-str_comment_you_were_defeated_allied_spiteful|我 听 说 {s54}就 像 蚂 蚁 一 样 踩 在 了 脚 下。 哈！  小 孩 子 不 应 该 玩 大 人 的 游 戏， 小 {伙 子/姑 娘}！  
+str_comment_you_were_defeated_allied_unfriendly_cruel|我 听 说 {s54}嘲 笑 你 的 人 都 象 绵 羊。 但 是 你 还 活 生 生 的 站 在 这 里， 真 是 让 人 失 望！ 
+str_comment_you_were_defeated_allied_spiteful|我 听 说 {s54}就 像 蚂 蚁 一 样 踩 在 了 脚 下。 哈！ 小 孩 子 不 应 该 玩 大 人 的 游 戏， 小 {伙 子/姑 娘}！ 
 str_comment_you_were_defeated_allied_pitiless|我 听 说 {s54}打 败 了 你， 击 溃 了 你 的 军 队。 真 让 人 沮 丧… … 
 str_comment_you_were_defeated_allied_unfriendly_upstanding|我 听 说 {s54}打 败 了 你。 也 许 你 应 该 考 虑 你 是 否 忏 悔 过 自 己 的 任 何 罪 过， 这 可 能 是 上 天 用 这 种 方 式 来 惩 罚 你。 
 str_comment_you_were_defeated_allied_unfriendly|我 听 说 {s54}打 败 了 你， 我 说， 不 要 让 我 们 太 多 的 兵 被 干 掉， 好 不 好？ 
-str_comment_you_were_defeated_allied|我 听 说 {s54}打 败 了 你。 但 是 放 宽 心— — 很 快 就 要 时 来 运 转 了！  
+str_comment_you_were_defeated_allied|我 听 说 {s54}打 败 了 你。 但 是 放 宽 心— — 很 快 就 要 时 来 运 转 了！ 
 str_comment_you_helped_my_ally_unfriendly_chivalrous|我 听 说 你 从 一 场 很 危 急 的 战 斗 中 解 救 了 {s54}。 不 管 我 怎 么 看 你 这 个 人， 我 至 少 很 赞 赏 你 做 到 了 这 个。 
 str_comment_you_helped_my_ally_liege|我 听 说 你 很 危 急 的 时 候 解 救 了 我 的 下 属。 
 str_comment_you_helped_my_ally_unfriendly_spiteful|我 听 说 你 拍 马 赶 来 救 了 我 们 可 怜 的 {s54}。 你 是 不 是 认 为 他 是 一 个 悲 惨 的 女 人？ 别 担 心— — 这 不 是 什 么 了 不 起 的 错 误。 
 str_comment_you_helped_my_ally_spiteful|我 听 说 你 把 {s54}从 鞭 打 中 解 救 了 出 来。 你 本 来 应 该 让 他 得 到 教 训， 我 看。 
 str_comment_you_helped_my_ally_chivalrous|我 听 说 你 在 紧 要 关 头 把 {s54}救 了 出 来。 这 真 是 骑 士 风 度。 
-str_comment_you_helped_my_ally_default|我 听 说 你 在 紧 要 关 头 把 {s54}救 了 出 来。 干 的 漂 亮！  
+str_comment_you_helped_my_ally_default|我 听 说 你 在 紧 要 关 头 把 {s54}救 了 出 来。 干 的 漂 亮！ 
 str_comment_you_were_defeated_allied_unfriendly|我 听 说 {s54}打 败 了 你， 我 说， 不 要 让 我 们 太 多 的 兵 被 干 掉， 好 不 好？ 
-str_comment_you_were_defeated_allied|我 听 说 {s54}打 败 了 你。 但 是 放 宽 心— — 很 快 就 要 时 来 运 转 了！  
-str_comment_you_abandoned_us_unfriendly_spiteful|你 这 个 卑 鄙 的 家 伙！  你 让 我 们 单 独 抵 抗 {s54}， 是 不 是？ 我 唾 弃 你。 
+str_comment_you_were_defeated_allied|我 听 说 {s54}打 败 了 你。 但 是 放 宽 心— — 很 快 就 要 时 来 运 转 了！ 
+str_comment_you_abandoned_us_unfriendly_spiteful|你 这 个 卑 鄙 的 家 伙！ 你 让 我 们 单 独 抵 抗 {s54}， 是 不 是？ 我 唾 弃 你。 
 str_comment_you_abandoned_us_unfriendly_pitiless|恩… … 你 在 战 斗 中 把 我 抛 弃 给 {s54}， 是 不 是？ 我 将 看 到 你 的 墓 碑 上 写 着 叛 国 者。 
 str_comment_you_abandoned_us_spiteful|你 在 和 {s54}的 战 斗 中 消 失 了… … 我 希 望 你 有 一 个 好 的 解 释。 是 不 是 你 的 肠 胃 有 了 情 况？ 是 否 因 为 颤 抖 得 太 厉 害 拿 不 住 武 器 了？ 
 str_comment_you_abandoned_us_chivalrous|发 生 什 么 事 了？ 你 在 对 {s54}的 战 斗 中 失 踪 了。 我 只 能 希 望 是 你 受 重 伤 倒 下 了， 因 为 我 会 为 和 胆 小 鬼 一 起 战 斗 而 感 到 羞 愧。 
 str_comment_you_abandoned_us_benefitofdoubt|发 生 什 么 事 了？ 你 在 对 {s54}的 战 斗 中 失 踪 了。 我 估 计 你 一 定 是 受 伤 了， 但 是 现 在 看 起 来 很 可 疑。 
 str_comment_you_abandoned_us_default|发 生 什 么 事 了？ 刚 刚 你 还 和 我 们 一 起 与 {s54}战 斗， 一 会 功 夫 就 找 不 到 你 了？ 
 str_comment_you_ran_from_me_enemy_spiteful|上 次 我 们 遇 到 的 时 候， 你 象 一 条 挨 了 鞭 子 的 狗 从 我 这 里 逃 走 了。 你 现 在 来 是 再 次 向 我 咆 哮， 还 是 请 求 宽 恕？ 
-str_comment_you_ran_from_me_enemy_chivalrous|上 次 我 们 遇 到 的 时 候， 你 逃 跑 了， 要 象 个 绅 士 一 样 不 屈 的 战 斗！  
+str_comment_you_ran_from_me_enemy_chivalrous|上 次 我 们 遇 到 的 时 候， 你 逃 跑 了， 要 象 个 绅 士 一 样 不 屈 的 战 斗！ 
 str_comment_you_ran_from_me_enemy_benevolent|当 上 次 我 们 遇 到 的 时 候 看 到 你 逃 跑， 我 就 希 望 不 再 与 你 战 斗。 
 str_comment_you_ran_from_me_enemy_coldblooded|上 次 我 们 遇 到 的 时 候， 你 逃 跑 了。 这 是 个 英 明 的 决 定。 
 str_comment_you_ran_from_me_enemy|上 次 我 们 遇 到 的 时 候 你 能 够 逃 走， 但 是 下 次 我 怀 疑 你 还 能 那 么 走 运 么。 
 str_comment_you_ran_from_foe_allied_chivalrous|他 们 说 你 从 {s54}那 里 逃 跑 了， 把 你 的 部 下 留 在 后 面。 我 希 望 这 不 是 真 的， 因 为 这 种 行 为 让 我 们 大 家 蒙 羞。 
 str_comment_you_ran_from_foe_allied_upstanding|他 们 说 你 从 {s54}那 里 逃 跑 了， 把 你 的 部 下 留 在 后 面。 我 一 般 是 不 相 信 这 些 谣 言 的， 并 且 我 也 知 道 让 人 绝 望 的 困 境 产 生 让 人 绝 望 的 压 力。 但 是 我 请 求 你 还 是 要 注 意 你 的 好 名 誉， 因 为 如 果 民 众 听 到 我 们 在 战 场 上 抛 弃 他 们， 他 们 就 不 会 为 我 军 而 战。 
-str_comment_you_ran_from_foe_allied_spiteful|顺 便 说 一 下， 他 们 说 你 从 {s54}那 里 象 受 惊 的 小 兔 子 一 样 逃 走 了， 丢 下 你 的 部 下 被 屠 宰。 哈！  多 么 壮 观 的 场 面！  
+str_comment_you_ran_from_foe_allied_spiteful|顺 便 说 一 下， 他 们 说 你 从 {s54}那 里 象 受 惊 的 小 兔 子 一 样 逃 走 了， 丢 下 你 的 部 下 被 屠 宰。 哈！ 多 么 壮 观 的 场 面！ 
 str_comment_you_defeated_my_friend_enemy_pragmatic|你 也 许 可 以 打 败 {s54}， 但 是 你 不 可 能 打 败 我 们 所 有 人。 
 str_comment_you_defeated_my_friend_enemy_chivalrous|我 听 说 你 打 败 了 {s54}， 从 那 时 候 起 他 就 渴 望 与 你 再 次 交 锋。 
 str_comment_you_defeated_my_friend_enemy_spiteful|你 有 点 名 过 其 实， {playername}。 {s54}也 许 败 在 你 的 花 招 之 下， 但 是 如 果 你 跟 我 打， 你 将 发 现 我 是 一 个 更 加 难 对 付 的 对 手。 
 str_comment_you_defeated_my_friend_enemy|听 说 你 打 败 了 {s54}。 而 我 将 会 真 正 测 试 你 的 能 力。 
 str_comment_you_captured_a_lord_allied_friendly_spiteful|我 听 说 你 抓 住 {s54}了。 我 希 望 你 能 从 他 身 上 勒 索 到 每 个 第 纳 尔。 
-str_comment_you_captured_a_lord_allied_unfriendly_spiteful|我 听 说 你 抓 住 {s54}了。 你 的 箱 子 里 现 在 一 定 装 满 了 赎 金。 但 是 很 可 惜 钱 不 能 使 你 从 一 个 低 贱 的 野 狗 变 成 绅 士 的！  
+str_comment_you_captured_a_lord_allied_unfriendly_spiteful|我 听 说 你 抓 住 {s54}了。 你 的 箱 子 里 现 在 一 定 装 满 了 赎 金。 但 是 很 可 惜 钱 不 能 使 你 从 一 个 低 贱 的 野 狗 变 成 绅 士 的！ 
 str_comment_you_captured_a_lord_allied_chivalrous|我 听 说 你 抓 住 {s54}了。 干 得 不 错， 当 然 我 认 为， 他 现 在 应 该 受 到 了 与 他 身 份 相 称 的 待 遇。 
 str_comment_you_captured_a_lord_allied|我 听 说 你 抓 住 {s54}了。 干 得 不 错， 他 的 赎 金 一 定 很 丰 厚。 
 str_comment_you_let_go_a_lord_allied_chivalrous|我 听 说 你 抓 住 {s54}了， 但 是 你 把 他 放 走 了。 这 样 的 骑 士 精 神 对 我 来 说 是 一 种 荣 誉。 
 str_comment_you_let_go_a_lord_allied_upstanding|我 听 说 你 抓 住 {s54}了， 但 是 你 把 他 放 走 了。 很 好， 这 是 一 个 光 荣 的 做 法， 但 是 同 时 也 可 能 是 一 种 危 险 的 做 法。 
 str_comment_you_let_go_a_lord_allied_coldblooded|我 听 说 你 抓 住 {s54}了， 但 是 你 把 他 放 走 了。 对 你 来 说， 这 是 一 件 富 有 骑 士 精 神 的 做 法， 但 是 骑 士 精 神 赢 不 了 战 争。 
-str_comment_you_let_go_a_lord_allied_unfriendly_spiteful|我 听 说 你 抓 住 {s54}了， 但 是 你 把 他 放 走 了。 你 是 多 么 富 有 骑 士 精 神 啊！  不 用 怀 疑 他 遗 留 在 家 的 孤 儿 寡 妇 一 定 想 来 亲 自 称 赞 你。 
+str_comment_you_let_go_a_lord_allied_unfriendly_spiteful|我 听 说 你 抓 住 {s54}了， 但 是 你 把 他 放 走 了。 你 是 多 么 富 有 骑 士 精 神 啊！ 不 用 怀 疑 他 遗 留 在 家 的 孤 儿 寡 妇 一 定 想 来 亲 自 称 赞 你。 
 str_comment_you_let_go_a_lord_allied|我 听 说 你 抓 住 {s54}了， 但 是 你 把 他 放 走 了。 我 不 会 干 涉 你 会 怎 样 处 理 你 自 己 的 俘 虏。 
 str_comment_you_let_me_go_spiteful|我 们 上 次 遇 到 的 时 候， 你 对 我 很 仁 慈， 并 放 我 走 了。 我 希 望 你 喜 欢 跟 我 玩 类 似 猫 捉 老 鼠 的 游 戏， 因 为 很 快 我 将 让 你 乞 求 我 的 仁 慈， 杀 死 或 者 羞 辱 都 由 我 的 想 法 决 定。 
 str_comment_you_let_me_go_enemy_chivalrous|我 们 上 次 遇 到 的 时 候， 你 对 我 很 仁 慈， 并 放 我 走 了。 你 太 有 骑 士 精 神 了， 我 不 会 忘 记 你 的。 但 是 我 同 时 也 必 须 牢 记 我 对 我 的 君 主 发 过 的 誓 言， 而 且 我 们 的 国 家 还 在 交 战 中。 
@@ -1697,7 +1697,7 @@ str_comment_you_let_me_go_enemy|我 们 上 次 遇 到 的 时 候， 你 对 �
 str_comment_you_let_me_go_default|我 们 上 次 遇 到 的 时 候， 你 对 我 很 仁 慈， 并 放 我 走 了。 你 很 仁 慈， 而 且 我 很 高 兴 我 们 的 国 家 不 再 交 战 了。 
 str_comment_pledged_allegiance_allied_martial_unfriendly|我 听 说 你 已 经 发 誓 效 忠 我 们 的 国 王 {s54}了。 祈 祷 你 不 会 表 现 出 懦 弱 的 样 子 而 使 我 们 都 感 到 丢 脸。 
 str_comment_pledged_allegiance_allied_martial|我 听 说 你 已 经 发 誓 效 忠 我 们 的 国 王 {s54}了。 我 一 直 都 想 和 你 并 肩 对 抗 我 们 的 敌 人。 
-str_comment_pledged_allegiance_allied_quarrelsome_unfriendly|我 听 说 你 已 经 发 誓 效 忠 我 们 的 国 王 {s54}了。 呸！  你 就 自 重 吧， 离 我 远 点。 
+str_comment_pledged_allegiance_allied_quarrelsome_unfriendly|我 听 说 你 已 经 发 誓 效 忠 我 们 的 国 王 {s54}了。 呸！ 你 就 自 重 吧， 离 我 远 点。 
 str_comment_pledged_allegiance_allied_quarrelsome|我 听 说 你 已 经 发 誓 效 忠 我 们 的 国 王 {s54}了。 努 力 和 我 们 的 敌 人 战 斗， 尊 敬 你 的 前 辈， 而 且 不 要 妨 碍 我。 这 样 我 们 就 能 和 谐 相 处 了。 
 str_comment_pledged_allegiance_allied_selfrighteous_unfriendly|我 听 说 你 已 经 发 誓 效 忠 我 们 的 国 王 {s54}了。 如 果 我 是 他， 我 就 不 会 信 任 你 能 当 好 火 头 军。 
 str_comment_pledged_allegiance_allied_selfrighteous|我 听 说 你 已 经 发 誓 效 忠 我 们 的 国 王 {s54}了。 勇 敢 地 战 斗， 你 将 会 获 得 更 多 的 报 酬。 背 叛 我 们 的 话， 我 们 会 一 辈 子 记 仇 的。 
@@ -1730,19 +1730,19 @@ str_comment_i_blamed_defeat|众 所 周 知， {s54}对 {s51}的 偏 袒 让 我
 str_comment_i_was_entitled_to_fief|众 所 周 知， 我 对 {s54}接 收 了 {s51}的 领 地 的 事 情 感 到 失 望， 那 里 本 该 是 属 于 我 的。 
 str_comment_i_quarreled_with_troop_over_woman|众 所 周 知， {s51}向 {s54}求 婚 了， 当 时 我 也 在 追 求 她。 他 根 本 配 不 上 她 的 青 睐， 我 打 算 教 训 教 训 他， 让 他 离 {s54}远 点 儿。 
 str_comment_i_quarreled_with_you_over_woman_default|听 说 你 向 {s54}求 婚 了。 我 不 觉 得 你 配 得 上 像 她 那 样 美 丽 的 女 士， 劝 你 还 是 放 弃 追 求 她 吧。 
-str_comment_i_quarreled_with_you_over_woman_derisive|听 说 你 已 经 向 {s54}求 婚 了。 我 告 诉 你— — 我 还 是 个 孩 子 的 时 候 就 看 中 她 了， 那 时 候 她 是 个 小 姑 娘 呢。 她 在 这 个 王 国 里， 生 来 就 拥 有 高 贵 的 血 统， 一 个 粗 鲁 的 外 来 佬 的 追 求 只 能 贬 低 她 的 身 份。 离 她 远 点 儿， 否 则 你 会 付 出 代 价！  
+str_comment_i_quarreled_with_you_over_woman_derisive|听 说 你 已 经 向 {s54}求 婚 了。 我 告 诉 你— — 我 还 是 个 孩 子 的 时 候 就 看 中 她 了， 那 时 候 她 是 个 小 姑 娘 呢。 她 在 这 个 王 国 里， 生 来 就 拥 有 高 贵 的 血 统， 一 个 粗 鲁 的 外 来 佬 的 追 求 只 能 贬 低 她 的 身 份。 离 她 远 点 儿， 否 则 你 会 付 出 代 价！ 
 str_comment_player_suggestion_succeeded|我 听 从 了 你 的 建 议， 这 使 我 受 益 匪 浅。 
 str_comment_player_suggestion_failed|我 听 从 了 你 的 建 议， 结 果 遇 上 了 大 麻 烦， 你 应 该 为 此 负 责。 
 str_comment_you_enfiefed_a_commoner_hesitant|听 说 你 把 {s51}封 给 了 一 个 自 称 是 {s54}的 平 民。 请 三 思 而 后 行。 掌 握 统 治 的 艺 术 并 不 是 件 容 易 的 事， 也 许 父 传 子 承 才 是 最 好 的。 我 建 议 你 别 对 贵 族 的 世 袭 制 度 做 什 么 改 动。 
 str_comment_you_enfiefed_a_commoner_derisive|听 说 你 把 {s51}封 给 了 一 个 自 称 是 {s54}的 平 民。 难 道 古 人 没 有 告 诫 过 我 们， 别 拿 猪 皮 来 做 皇 家 的 长 袍？ 
-str_comment_you_enfiefed_a_commoner_nasty|我 知 道， 你 把 {s51}封 给 了 那 个 自 称 是 {s54}的 平 民。 小 心 点， 狗 也 会 咬 主 人！  
+str_comment_you_enfiefed_a_commoner_nasty|我 知 道， 你 把 {s51}封 给 了 那 个 自 称 是 {s54}的 平 民。 小 心 点， 狗 也 会 咬 主 人！ 
 str_comment_marriage_normal_family|祝 贺 你 跟 我 的 {s11}{s50}结 为 夫 妻。 现 在 你 是 我 们 家 族 的 一 份 子 了。 
 str_comment_marriage_normal|恭 喜 你 跟 {s50}结 为 夫 妻。 这 是 你 们 双 方 的 荣 耀。 
 str_comment_marriage_normal_nasty|好 吧— — 你 跟 {s50}结 婚 了。 毫 无 疑 问， 她 这 样 的 傻 丫 头 总 能 做 出 荒 唐 的 决 定。 
 str_comment_marriage_elopement_family|嗯… … 不 管 怎 样， 我 的 {s11}{s50}还 是 嫁 给 你 了。 不 知 道 你 使 了 什 么 手 段 让 她 接 受 你， 反 正 我 们 的 家 族 绝 不 会 忘 掉 这 桩 婚 姻 带 来 的 耻 辱。 
 str_comment_marriage_elopement_liege|据 说 你 和 {s50}不 顾 她 家 族 的 意 愿 而 私 奔， 这 令 我 很 不 愉 快。 她 的 家 族 是 我 的 王 国 中 最 有 地 位 的 贵 族 之 一， 我 绝 不 想 看 到 他 们 被 人 当 成 蠢 货 般 被 人 愚 弄。 
 str_comment_you_broke_truce_as_my_vassal|听 说 你 攻 击 {s55}破 坏 了 我 签 订 的 停 战 协 定。 你 知 道 人 们 会 怎 么 看 待 我 吗？ 如 果 你 的 行 为 是 我 指 使 的， 那 么 我 失 去 了 信 誉。 如 果 这 是 你 个 人 的 决 定， 那 么 我 失 去 了 威 信。 此 时 此 刻， 我 真 有 点 儿 想 治 你 一 个 叛 国 罪。 
-str_comment_you_attacked_neutral_as_my_vassal|听 说 你 攻 击 了 {s55}。 这 等 于 是 给 了 他 们 攻 击 我 的 借 口， 如 果 他 们 希 望 这 么 做 的 话… … 走 着 瞧 吧。 你 可 真 是 做 了 件 好 事！  
+str_comment_you_attacked_neutral_as_my_vassal|听 说 你 攻 击 了 {s55}。 这 等 于 是 给 了 他 们 攻 击 我 的 借 口， 如 果 他 们 希 望 这 么 做 的 话… … 走 着 瞧 吧。 你 可 真 是 做 了 件 好 事！ 
 str_personality_archetypes|君 主 
 str_martial|好 战 的 
 str_quarrelsome|脾 气 暴 躁 的 
@@ -1754,28 +1754,28 @@ str_upstanding|正 直 的
 str_roguish|无 赖 的 
 str_benevolent|善 良 的 
 str_mercantile|贪 财 的 
-str_surrender_demand_default|投 降 或 者 去 死！  
+str_surrender_demand_default|投 降 或 者 去 死！ 
 str_surrender_demand_martial|今 天 你 的 好 运 到 头 了。 你 可 以 和 我 们 死 拼， 但 是 现 在 就 投 降 一 样 不 是 什 么 耻 辱 的 事 情。 
 str_surrender_demand_quarrelsome|我 已 经 把 你 逼 到 绝 路 了。 投 降 吧， 否 则 我 会 骑 马 把 你 像 条 狗 一 样 碾 过。 
-str_surrender_demand_pitiless|你 赢 不 了 我 的， 你 如 果 想 试 试 的 话， 我 会 好 好 教 训 你 一 顿。 投 降 吧！  
-str_surrender_demand_cunning|你 今 天 输 定 了。 放 弃 吧， 不 为 自 己 着 想， 也 得 为 你 的 部 下 着 想 吧！  
-str_surrender_demand_sadistic|投 降！  不 然 我 会 把 你 当 鱼 一 样 挖 出 你 的 内 脏！  
+str_surrender_demand_pitiless|你 赢 不 了 我 的， 你 如 果 想 试 试 的 话， 我 会 好 好 教 训 你 一 顿。 投 降 吧！ 
+str_surrender_demand_cunning|你 今 天 输 定 了。 放 弃 吧， 不 为 自 己 着 想， 也 得 为 你 的 部 下 着 想 吧！ 
+str_surrender_demand_sadistic|投 降！ 不 然 我 会 把 你 当 鱼 一 样 挖 出 你 的 内 脏！ 
 str_surrender_demand_goodnatured|我 军 有 绝 对 优 势。 投 降 吧， 我 们 优 待 俘 虏。 
 str_surrender_demand_upstanding|你 可 以 和 我 们 死 拼， 但 是 你 的 许 多 部 下 都 将 被 杀 死， 你 也 会 战 败。 投 降， 尽 量 避 免 我 们 双 方 不 必 要 的 流 血 牺 牲 吧。 
-str_surrender_offer_default|停！  我 投 降！  
-str_surrender_offer_martial|停！  我 投 降！  
-str_surrender_offer_quarrelsome|够 了！  今 天 你 赢 了， 混 蛋！  啊， 多 么 耻 辱 啊！  
-str_surrender_offer_pitiless|我 投 降！  你 赢 了。 今 天 见 鬼 了！  
-str_surrender_offer_cunning|我 投 降！  我 向 你 投 降！  
-str_surrender_offer_sadistic|我 投 降！  我 投 降！  叫 你 的 走 狗 停 手 吧！  
-str_surrender_offer_goodnatured|我 投 降！  祝 贺 你， 你 赢 了， {先 生/夫 人}！  
-str_surrender_offer_upstanding|我 投 降！  保 证 我 军 人 的 荣 誉， 也 请 你 遵 守 信 用！  
+str_surrender_offer_default|停！ 我 投 降！ 
+str_surrender_offer_martial|停！ 我 投 降！ 
+str_surrender_offer_quarrelsome|够 了！ 今 天 你 赢 了， 混 蛋！ 啊， 多 么 耻 辱 啊！ 
+str_surrender_offer_pitiless|我 投 降！ 你 赢 了。 今 天 见 鬼 了！ 
+str_surrender_offer_cunning|我 投 降！ 我 向 你 投 降！ 
+str_surrender_offer_sadistic|我 投 降！ 我 投 降！ 叫 你 的 走 狗 停 手 吧！ 
+str_surrender_offer_goodnatured|我 投 降！ 祝 贺 你， 你 赢 了， {先 生/夫 人}！ 
+str_surrender_offer_upstanding|我 投 降！ 保 证 我 军 人 的 荣 誉， 也 请 你 遵 守 信 用！ 
 str_lord_declines_negotiation_offer_default|也 许 吧， 不 过 我 想 跟 你 打 
 str_lord_declines_negotiation_offer_martial|也 许 吧， 不 过 我 有 义 务 跟 你 打 一 仗 
-str_lord_declines_negotiation_offer_quarrelsome|嘿！  我 要 和 你 打 
+str_lord_declines_negotiation_offer_quarrelsome|嘿！ 我 要 和 你 打 
 str_lord_declines_negotiation_offer_pitiless|我 何 必 关 心 这 个 呢？ 我 想 跟 你 打 
 str_lord_declines_negotiation_offer_cunning|哈， 真 不 幸， 你 知 道 吗， 我 想 跟 你 打 
-str_lord_declines_negotiation_offer_sadistic|收 好 你 的 舌 头！  很 快 你 就 会 需 要 用 到 它 的， 当 你 求 饶 的 时 候 
+str_lord_declines_negotiation_offer_sadistic|收 好 你 的 舌 头！ 很 快 你 就 会 需 要 用 到 它 的， 当 你 求 饶 的 时 候 
 str_lord_declines_negotiation_offer_goodnatured|不 好 意 思— — 我 可 不 能 让 你 就 这 么 离 开。 你 不 会 见 怪 吧？ 
 str_lord_declines_negotiation_offer_upstanding|也 许 吧， 不 过 出 于 对 国 王 的 义 务， 我 必 须 和 你 打 
 str_prisoner_released_default|我 很 感 激 你， {先 生/夫 人}， 我 不 会 忘 记 你 的 恩 情 的。 
@@ -1783,7 +1783,7 @@ str_prisoner_released_martial|你 确 实 是 一 个 值 得 尊 敬 的 {人/�
 str_prisoner_released_quarrelsome|我 自 由 了？ 呃… … 那， 再 见 吧。 
 str_prisoner_released_pitiless|谢 谢 你。 当 你 最 终 被 打 败 的 时 候， 我 就 让 你 死 得 痛 快 一 些。 除 非… … 除 非 你 愿 意 加 入 我 们… … 再 见 了。 
 str_prisoner_released_cunning|我？ 你 是 一 个 善 良 的 {人/人}。 我 以 后 会 想 个 方 法 报 答 你 的。 
-str_prisoner_released_sadistic|我？ 你 的 残 酷 表 现 得 多 优 雅 啊， 宁 愿 看 到 我 自 由 并 受 到 羞 辱， 也 不 愿 看 到 我 关 在 枷 锁 里。 你 就 自 己 耀 武 扬 威 吧！  
+str_prisoner_released_sadistic|我？ 你 的 残 酷 表 现 得 多 优 雅 啊， 宁 愿 看 到 我 自 由 并 受 到 羞 辱， 也 不 愿 看 到 我 关 在 枷 锁 里。 你 就 自 己 耀 武 扬 威 吧！ 
 str_prisoner_released_goodnatured|你 确 实 是 一 个 值 得 尊 敬 的 {人/人}， {先 生/夫 人}。 我 不 会 忘 记 你 的 恩 情 的。 
 str_prisoner_released_upstanding|你 确 实 是 一 个 值 得 尊 敬 的 {人/人}， {先 生/夫 人}。 我 不 会 忘 记 你 的 恩 情 的。 
 str_enemy_meet_default|敢 跟 我 较 量， 你 是 谁 啊？ 
@@ -1795,27 +1795,27 @@ str_enemy_meet_sadistic|你 是 谁？ 趁 我 还 没 有 割 掉 你 的 舌 �
 str_enemy_meet_goodnatured|你 叫 什 么 名 字 {先 生/夫 人}？ 如 果 我 们 开 战 了， 我 要 知 道 我 是 和 谁 在 打 仗。 
 str_enemy_meet_upstanding|你 是 谁？ 我 想 知 道 是 谁 想 用 武 力 阻 止 我 们 正 义 的 事 业。 
 str_battle_won_default|今 天， 你 证 明 了 你 自 己 是 一 个 可 靠 的 盟 友。 
-str_battle_won_martial|没 有 什 么 比 在 战 场 上 展 现 个 人 的 勇 武 更 加 有 成 就 感！  
+str_battle_won_martial|没 有 什 么 比 在 战 场 上 展 现 个 人 的 勇 武 更 加 有 成 就 感！ 
 str_battle_won_quarrelsome|啊 哈， 我 们 好 好 教 训 了 这 些 混 蛋 了， 是 吧？ 
-str_battle_won_pitiless|我 们 只 要 联 合 起 来， 就 能 让 敌 人 闻 风 丧 胆！  
+str_battle_won_pitiless|我 们 只 要 联 合 起 来， 就 能 让 敌 人 闻 风 丧 胆！ 
 str_battle_won_cunning|现 在， 我 们 得 保 持 我 们 的 优 势， 那 样 我 们 今 天 的 鲜 血 就 不 算 白 流。 
 str_battle_won_sadistic|现 在 让 我 们 剥 光 这 些 尸 体 丢 去 喂 乌 鸦， 好 让 他 们 知 道 对 抗 我 们 的 人 将 会 是 什 么 下 场。 
-str_battle_won_goodnatured|这 一 仗 打 得 不 错！  没 有 什 么 比 打 了 胜 仗 更 加 令 人 高 兴， 是 吧？ 
+str_battle_won_goodnatured|这 一 仗 打 得 不 错！ 没 有 什 么 比 打 了 胜 仗 更 加 令 人 高 兴， 是 吧？ 
 str_battle_won_upstanding|现 在， 让 我 们 感 谢 上 帝 让 我 们 获 胜， 同 时 让 我 们 也 沉 痛 悼 念 那 些 今 天 在 战 场 上 牺 牲 的 战 友。 
 str_battle_won_grudging_default|今 天， 你 在 战 场 上 帮 忙 扭 转 了 局 势。 不 管 我 怎 么 样 看 你， 不 过 你 的 勇 武 是 无 可 挑 剔 的。 
 str_battle_won_grudging_martial|{playername}， 不 管 你 以 前 做 得 怎 样， 但 是 今 天 你 证 明 了 你 是 一 个 有 价 值 的 {人/人}。 
 str_battle_won_grudging_quarrelsome|哼， 我 通 常 都 不 想 看 到 你 的 那 张 脸， 但 是 我 今 天 还 是 得 感 谢 你 的 帮 忙。 
 str_battle_won_grudging_pitiless|你 今 天 的 帮 忙 很 受 用。 我 完 全 没 有 想 到 你 会 这 么 好 心 地 来 帮 我， 但 是 我 还 是 得 谢 谢 你。 
 str_battle_won_grudging_cunning|你 在 我 最 需 要 帮 忙 的 时 候 来 帮 了 我， 如 果 我 不 感 谢 你， 我 就 显 的 太 不 厚 道 了。 所 以… … 我 很 感 激 你。 
-str_battle_won_grudging_sadistic|啊！  多 么 令 人 感 动 啊！  {playername} 居 然 来 救 我 了。 
-str_battle_won_grudging_goodnatured|{playername}！  我 不 想 说 过 去 我 们 相 处 得 如 何， 但 是 你 今 天 在 战 场 上 的 表 现 不 错。 非 常 感 谢 你！  
+str_battle_won_grudging_sadistic|啊！ 多 么 令 人 感 动 啊！ {playername} 居 然 来 救 我 了。 
+str_battle_won_grudging_goodnatured|{playername}！ 我 不 想 说 过 去 我 们 相 处 得 如 何， 但 是 你 今 天 在 战 场 上 的 表 现 不 错。 非 常 感 谢 你！ 
 str_battle_won_grudging_upstanding|也 许 过 去 我 对 你 有 些 误 解。 你 的 到 来 非 常 及 时。 我 很 感 激 你。 
 str_battle_won_unfriendly_default|你 来 了。 好 吧， 我 认 为 晚 点 来 总 比 不 来 的 好。 
 str_battle_won_unfriendly_martial|我 以 前 对 你 说 了 很 多 难 听 且 尖 锐 的 话， 但 是 现 在， 就 让 我 们 享 受 胜 利 的 喜 悦 吧。 
 str_battle_won_unfriendly_quarrelsome|如 果 你 站 在 这 里 想 等 我 来 感 谢 你， 你 可 以 继 续 等 下 去。 我 们 根 本 不 需 要 你 的 帮 忙， 但 是 我 想 比 起 这 个 你 也 没 有 什 么 别 的 事 情 好 做 了， 是 吧？ 
 str_battle_won_unfriendly_pitiless|你 到 这 里 来 就 像 是 一 头 豺 狼 来 抢 狮 子 的 口 食。 很 好， 你 自 己 拿 吧， 我 不 会 阻 止 你 的。 
 str_battle_won_unfriendly_cunning|{playername}… … 虽 然 我 不 打 算 装 出 一 副 我 很 喜 欢 见 到 你 的 样 子， 但 是 我 认 为 你 的 到 来 没 有 危 害。 
-str_battle_won_unfriendly_sadistic|滚 开， 吃 腐 肉 的 禽 兽！  这 是 我 个 人 的 胜 利， 你 竟 然 想 窃 取 我 的 胜 利 果 实。 
+str_battle_won_unfriendly_sadistic|滚 开， 吃 腐 肉 的 禽 兽！ 这 是 我 个 人 的 胜 利， 你 竟 然 想 窃 取 我 的 胜 利 果 实。 
 str_battle_won_unfriendly_goodnatured|哦， 是 你 啊。 好 吧， 我 认 为 我 应 该 感 谢 你 的 帮 助。 
 str_battle_won_unfriendly_upstanding|谢 谢 你 过 来 帮 忙。 现 在 在 我 要 说 出 一 些 会 令 我 后 悔 的 话 之 前， 我 得 离 开 了。 
 str_troop_train_request_default|我 需 要 像 你 这 样 的 人 把 他 们 训 练 得 像 个 样 子。 
@@ -1826,7 +1826,7 @@ str_troop_train_request_cunning|但 是 人 就 像 剑 一 样， 经 过 火 �
 str_troop_train_request_sadistic|他 们 需 要 有 人 拿 着 铁 鞭 在 他 们 背 后 抽 打 以 激 起 他 们 的 勇 气， 或 者 扼 杀 他 们 的 努 力。 
 str_troop_train_request_goodnatured|他 们 是 不 错 的 小 伙 子， 但 是 我 认 为 现 在 让 他 们 上 战 场 好 像 太 早 了。 
 str_troop_train_request_upstanding|以 他 们 现 在 的 状 况 带 领 他 们 去 打 仗 的 话， 等 于 是 要 我 谋 杀 他 们。 
-str_unprovoked_attack_default|什 么？ 为 什 么 你 要 攻 击 我 们？ 快 讲， 你 这 个 混 蛋！  
+str_unprovoked_attack_default|什 么？ 为 什 么 你 要 攻 击 我 们？ 快 讲， 你 这 个 混 蛋！ 
 str_unprovoked_attack_martial|我 不 反 对 使 用 武 力 解 决 问 题， 但 是 我 要 问 你 为 什 么 攻 击 我 们？ 
 str_unprovoked_attack_quarrelsome|你 犯 了 一 个 大 错 误， {小 伙 子/小 姑 娘}。 你 知 道 你 在 干 什 么 吗？ 
 str_unprovoked_attack_pitiless|是 吗？ 如 果 你 今 天 想 死 的 话， 我 将 很 高 兴 成 全 你。 但 是 我 很 想 了 解 你 到 底 有 何 目 的。 
@@ -1836,23 +1836,23 @@ str_unprovoked_attack_goodnatured|为 什 么 你 要 这 么 做？ 我 们 似
 str_unprovoked_attack_upstanding|我 认 为 这 是 一 个 无 故 的 袭 击， 我 要 向 你 的 国 王 抗 议。 你 为 什 么 要 这 么 做？ 
 str_unnecessary_attack_default|不 是 时 间 紧 的 话， 我 将 毫 不 犹 豫 地 砍 翻 你， 但 是 我 给 你 机 会， 你 现 在 就 从 这 里 消 失。 
 str_unnecessary_attack_martial|我 非 常 渴 望 接 受 你 的 挑 战， {先 生/夫 人}， 然 而 我 还 是 要 给 你 一 分 钟 的 时 候 考 虑 一 下。 
-str_unnecessary_attack_quarrelsome|呸！  今 天 我 没 有 心 情 跟 你 胡 闹， 滚 开。 
+str_unnecessary_attack_quarrelsome|呸！ 今 天 我 没 有 心 情 跟 你 胡 闹， 滚 开。 
 str_unnecessary_attack_pitiless|我 今 天 心 情 很 好， 我 就 装 做 没 有 听 见 你 说 的 话。 
 str_unnecessary_attack_cunning|我 没 有 看 出 你 与 我 为 敌 能 得 到 什 么 好 处。 也 许 你 应 该 骑 着 马 从 我 面 前 走 开。 
 str_unnecessary_attack_sadistic|我 不 想 把 时 间 浪 费 到 你 这 样 的 鼠 辈 上， 滚 开。 
 str_unnecessary_attack_goodnatured|我 没 有 看 出 你 挑 起 战 争 能 得 到 什 么 好 处， {先 生/夫 人}， 你 还 是 走 开 吧。 
 str_unnecessary_attack_upstanding|如 果 你 想 打 的 话， {先 生/夫 人}， 那 我 就 成 全 你， 但 我 还 是 给 你 打 消 这 个 念 头 的 机 会。 
-str_lord_challenged_default|如 你 所 愿， 准 备 去 死 吧！  
-str_lord_challenged_martial|好 吧， 准 备 自 卫 吧！  
-str_lord_challenged_quarrelsome|你， 放 肆 的 家 伙！  我 要 你 将 你 碎 尸 万 段！  
+str_lord_challenged_default|如 你 所 愿， 准 备 去 死 吧！ 
+str_lord_challenged_martial|好 吧， 准 备 自 卫 吧！ 
+str_lord_challenged_quarrelsome|你， 放 肆 的 家 伙！ 我 要 你 将 你 碎 尸 万 段！ 
 str_lord_challenged_pitiless|如 果 你 一 心 要 找 死 的 话， 那 我 也 只 能 成 全 你。 
 str_lord_challenged_cunning|好 吧， 如 果 你 不 给 我 机 会… … 
-str_lord_challenged_sadistic|你 这 个 肮 脏 的 家 伙！  我 会 让 你 希 望 自 己 没 有 出 生 在 这 个 世 界 上。 
+str_lord_challenged_sadistic|你 这 个 肮 脏 的 家 伙！ 我 会 让 你 希 望 自 己 没 有 出 生 在 这 个 世 界 上。 
 str_lord_challenged_goodnatured|很 好。 我 本 希 望 我 们 可 以 避 免 战 斗， 但 是 我 明 白 那 是 不 可 能 的 了。 
 str_lord_challenged_upstanding|就 这 样 吧。 你 不 去 了 解 原 因 令 我 感 到 悲 哀。 
 str_lord_mission_failed_default|好 吧， 我 很 失 望， 但 是 我 确 信 你 以 后 会 有 很 多 机 会 去 弥 补 你 的 过 失。 
 str_lord_mission_failed_martial|试 图 为 你 的 任 务 失 败 找 理 由 是 不 光 荣 的， 但 我 还 是 接 受 你 所 说 的。 
-str_lord_mission_failed_quarrelsome|你 失 败 了？ 呸！  我 早 就 该 猜 到 会 是 这 样 的。 
+str_lord_mission_failed_quarrelsome|你 失 败 了？ 呸！ 我 早 就 该 猜 到 会 是 这 样 的。 
 str_lord_mission_failed_pitiless|你 失 败 了？ 好 吧， 你 令 我 感 到 很 失 望。 你 做 事 太 欠 考 虑 了。 
 str_lord_mission_failed_cunning|好 吧， 我 很 失 望， 但 是 没 有 人 能 保 证 总 是 顺 风 顺 水 的。 
 str_lord_mission_failed_sadistic|真 的 吗？ 那 些 令 我 失 望 的 人， 我 通 常 都 不 会 让 他 们 活 着 为 此 事 后 悔 的。 
@@ -1863,7 +1863,7 @@ str_lord_follow_refusal_martial|也 许 有 一 天 你 能 成 为 一 个 勇 
 str_lord_follow_refusal_quarrelsome|跟 随 像 你 这 样 的 人？ 我 可 不 想 这 么 做。 
 str_lord_follow_refusal_pitiless|像 我 这 样 的 领 主 不 会 跟 随 像 你 这 样 的 人， {先 生/夫 人}。 
 str_lord_follow_refusal_cunning|首 先 你 要 向 我 证 明 一 下 你 不 是 那 种 会 把 我 带 进 灾 难 的 {人/人}， 然 后 我 也 许 会 跟 随 你。 
-str_lord_follow_refusal_sadistic|不 行！  相 反， 你 得 跟 着 我 就 像 条 被 调 教 的 恶 狗 跟 着 它 主 人 一 样。 
+str_lord_follow_refusal_sadistic|不 行！ 相 反， 你 得 跟 着 我 就 像 条 被 调 教 的 恶 狗 跟 着 它 主 人 一 样。 
 str_lord_follow_refusal_goodnatured|呃， 我 现 在 正 好 有 任 务 在 身。 以 后 再 说 吧。 
 str_lord_follow_refusal_upstanding|你 得 先 证 明 你 是 个 好 的 领 导 者， 然 后 我 才 会 跟 着 你。 
 str_lord_insult_default|低 级 混 混 
@@ -1899,7 +1899,7 @@ str_rebellion_dilemma_goodnatured|我 不 知 道 该 说 什 么。 我 向 {s4
 str_rebellion_dilemma_upstanding|很 麻 烦。 宣 布 我 对 {s46}的 效 忠 无 效 且 没 用 是 件 很 严 重 的 事 情， 而 解 除 联 盟 会 让 我 们 的 领 地 从 没 落 成 为 无 政 府 状 态。 我 还 是 保 证 会 支 持 继 承 的 合 法， 而 {s45}依 然 对 王 位 拥 有 有 效 的 主 张。 
 str_rebellion_dilemma_2_martial|另 一 方 面， {s46}曾 经 领 导 着 我 们， 而 我 讨 厌 背 信 弃 义。 
 str_rebellion_dilemma_2_quarrelsome|那 么 告 诉 我， 我 为 什 么 要 对 我 所 认 识 的 {reg3?人:那 杂 种} 倒 戈， 让 我 所 不 认 识 的 {reg3?人:那 杂 种} 获 利？ 
-str_rebellion_dilemma_2_pitiless|被 询 问 我 将 立 谁 为 这 片 领 土 的 {reg3?统 治 者:国 王}， 会 让 我 处 于 一 种 非 常 危 险 的 境 地。 然 而 那 也 将 成 为 大 好 的 时 机， 对 我 来 说 获 取 回 报 也 是 我 的 权 益！  
+str_rebellion_dilemma_2_pitiless|被 询 问 我 将 立 谁 为 这 片 领 土 的 {reg3?统 治 者:国 王}， 会 让 我 处 于 一 种 非 常 危 险 的 境 地。 然 而 那 也 将 成 为 大 好 的 时 机， 对 我 来 说 获 取 回 报 也 是 我 的 权 益！ 
 str_rebellion_dilemma_2_cunning|{s46}已 被 质 疑， 因 此 他 将 不 能 像 那 些 统 治 权 没 有 被 质 疑 的 人 那 样 政 权 稳 定。 然 而 如 果 {s45}用 武 力 取 得 王 位， {reg3?她:他} 将 不 会 像 那 些 和 平 取 得 王 位 的 人 那 样 政 权 稳 定。 
 str_rebellion_dilemma_2_sadistic|如 果 我 在 {reg3?她:他} 还 暗 弱 的 时 候 加 入 {s45}， {reg3?她:他} 将 让 我 发 一 笔， 但 如 果 我 把 你 的 人 头 带 给 {s46}他 将 给 我 更 多 的 回 报。 
 str_rebellion_dilemma_2_goodnatured|{s46}待 我 不 薄， 然 而 他 的 确 对 {s45}做 的 不 对。 我 在 犹 豫 断 绝 我 对 {s46}的 效 忠， 然 而 我 还 是 不 认 为 支 持 非 正 义 的 一 方 是 正 确 的。 
@@ -1955,11 +1955,11 @@ str_rebellion_agree_cunning|对 不 起。 你 没 有 给 我 相 信 你 会 �
 str_rebellion_agree_sadistic|不。 我 不 会 参 与 你 的 小 游 戏。 你 想 夺 取 国 王 的 位 置， 但 我 想 你 只 会 得 到 一 个 断 头 台 的 位 置， 而 我 会 站 在 {s46}的 旁 边 看 着 刽 子 手 的 斧 头 落 下。 
 str_rebellion_agree_goodnatured|对 不 起。 我 不 觉 得 对 {s46}倒 戈 是 正 确 的。 不 久 我 们 就 会 在 战 场 上 相 遇。 
 str_rebellion_agree_upstanding|对 不 起。 {s45}的 主 张 并 不 足 以 让 我 发 动 这 片 领 土 上 可 怜 的 穷 人 进 行 全 民 骚 乱。 我 还 是 会 继 续 支 持 {s46}。 就 算 我 做 错 了 上 天 也 会 原 谅 我。 
-str_talk_later_martial|现 在 不 是 谈 政 治 的 时 候！  我 今 天 带 着 许 多 追 随 我 的 领 主 来， 他 们 都 全 副 武 装 准 备 战 斗。 你 最 好 做 好 准 备 开 始 作 战。 
+str_talk_later_martial|现 在 不 是 谈 政 治 的 时 候！ 我 今 天 带 着 许 多 追 随 我 的 领 主 来， 他 们 都 全 副 武 装 准 备 战 斗。 你 最 好 做 好 准 备 开 始 作 战。 
 str_talk_later_quarrelsome|你 指 望 现 在 和 我 谈 背 叛 我 君 主 的 事 情， 就 在 这 四 周 都 是 他 的 军 队 的 时 候？ 你 当 我 是 什 么？ 一 个 地 道 的 白 痴？ 
-str_talk_later_pitiless|闭 嘴！  现 在 四 周 都 是 我 方 的 军 队， 此 时 此 地， 我 怎 么 会 讨 论 这 件 事。 
+str_talk_later_pitiless|闭 嘴！ 现 在 四 周 都 是 我 方 的 军 队， 此 时 此 地， 我 怎 么 会 讨 论 这 件 事。 
 str_talk_later_cunning|此 时 此 地 完 全 不 适 合 进 行 这 样 一 场 谈 话。 也 许 我 们 可 以 过 一 会 或 者 在 其 它 地 方 再 谈， 但 现 在 我 们 依 然 是 敌 人。 
-str_talk_later_sadistic|你 应 该 闭 上 你 的 鸟 嘴！  你 能 想 像 如 果 其 他 的 封 臣 听 到 我 们 讨 论 叛 国 的 事 情， 那 个 后 果 有 多 严 重 吗？ 
+str_talk_later_sadistic|你 应 该 闭 上 你 的 鸟 嘴！ 你 能 想 像 如 果 其 他 的 封 臣 听 到 我 们 讨 论 叛 国 的 事 情， 那 个 后 果 有 多 严 重 吗？ 
 str_talk_later_goodnatured|你 想 和 我 谈 叛 国 的 事 情 是 吗？ 还 是 等 我 们 未 被 我 君 主 的 军 队 包 围 的 时 候 再 谈 吧， 那 时 候 我 将 听 听 你 要 说 什 么。 
 str_talk_later_upstanding|不 管 我 对 王 位 更 替 的 合 法 性 怎 么 看， 我 也 不 会 在 此 时 此 地 拿 出 来 讨 论。 如 果 我 们 下 次 能 私 下 见 面 的 话， 我 将 好 好 听 听 你 的 想 法。 但 是 现 在， 请 把 我 当 作 是 你 的 敌 人。 
 str_gossip_about_character_default|据 说 {s6}没 什 么 有 趣 的 个 性。 
@@ -1991,7 +1991,7 @@ str_nord_rebellion_pretender_story_1|我 被 称 为 先 知， 是 因 为 我 
 str_rhodok_rebellion_pretender_story_1|罗 多 克 人 是 自 由 之 民， 不 是 任 何 世 袭 君 主 的 奴 隶。 国 王 是 从 主 要 的 几 个 贵 族 家 族 中 产 生， 杰 尔 喀 拉， 维 鲁 加 和 亚 伦 的 大 部 分 贵 族 组 成 议 会 负 责 选 出 国 王。 议 会 在 杰 尔 喀 拉 附 近 的 一 块 平 原 召 开， 评 议 期 间 禁 止 一 切 人 携 带 武 器， 否 则 将 会 被 处 死。 
 str_sarranid_rebellion_pretender_story_1|我 出 生 于 一 片 遥 远 大 陆 上 一 个 地 位 卑 下 的 家 庭， 在 我 还 是 一 个 小 女 孩 的 时 候 成 为 了 奴 隶— — 但 这 没 什 么 好 羞 愧 的， 我 们 许 多 国 王 的 母 亲 都 曾 是 奴 隶。 老 苏 丹， 艾 扎 尔， 在 市 场 中 发 现 了 我 并 被 我 的 美 貌 所 吸 引。 我 就 此 被 收 入 宫 中， 而 后 他 逐 渐 发 现 并 看 重 我 的 才 智。 随 着 他 逐 渐 老 去， 他 准 许 我 治 理 他 的 国 家。 一 开 始 我 还 只 是 管 理 宫 廷 事 务， 后 来 开 始 处 理 国 政。 
 str_swadian_rebellion_pretender_story_2|当 父 亲 驾 崩 后， 他 的 表 亲 哈 劳 斯 对 贵 族 进 行 了 劝 说， 认 为 没 有 一 个 斯 瓦 迪 亚 国 王 会 指 定 女 人 作 为 继 承 人， 他 指 责 父 亲 是 因 为 疯 了 才 任 命 我 为 国 王， 也 因 此 我 的 权 力 并 不 合 法， 在 这 样 的 情 况 下， 他 是 我 父 亲 最 亲 近 的 男 性 亲 戚， 理 应 继 承 王 位。 
-str_vaegir_rebellion_pretender_story_2|我 被 一 个 忠 诚 的 仆 人 偷 偷 带 到 了 国 外， 现 在 我 长 大 了， 我 回 来 夺 回 我 应 有 的 权 力。 贝 尔 勒 克 在 他 背 叛 不 久 后 就 死 了， 毫 无 疑 问， 这 是 天 意！  他 的 儿 子 亚 罗 格 尔 克 现 在 自 封 为 国 王， 但 他 的 声 明 充 满 了 恶 臭， 他 和 他 父 亲 一 样 是 篡 位 者， 而 我 将 推 翻 他 的 统 治。 
+str_vaegir_rebellion_pretender_story_2|我 被 一 个 忠 诚 的 仆 人 偷 偷 带 到 了 国 外， 现 在 我 长 大 了， 我 回 来 夺 回 我 应 有 的 权 力。 贝 尔 勒 克 在 他 背 叛 不 久 后 就 死 了， 毫 无 疑 问， 这 是 天 意！ 他 的 儿 子 亚 罗 格 尔 克 现 在 自 封 为 国 王， 但 他 的 声 明 充 满 了 恶 臭， 他 和 他 父 亲 一 样 是 篡 位 者， 而 我 将 推 翻 他 的 统 治。 
 str_khergit_rebellion_pretender_story_2|根 据 库 吉 特 的 传 统， 当 一 个 男 人 去 世 后， 他 的 遗 产 将 平 均 分 给 他 的 所 有 儿 子， 可 汗 也 是 如 此。 但 我 得 知 父 亲 驾 崩 的 消 息 时， 我 正 在 巡 视 边 境， 这 时 我 立 即 返 回 了 图 尔 加， 准 备 给 予 塞 加 他 应 得 的 部 分， 并 和 他 平 分 汗 国。 但 当 我 到 达 时， 我 得 知 他 已 经 带 领 支 持 者 冲 进 了 宫 廷， 宣 称 他 为 唯 一 的 可 汗。 
 str_nord_rebellion_pretender_story_2|父 亲 驾 崩 时 我 已 经 完 成 了 学 业， 但 我 赶 回 去 继 承 王 位 时， 我 的 船 遭 遇 了 风 暴。 父 亲 手 下 一 个 叫 拉 格 纳 的 领 主 抓 住 了 这 个 机 会， 传 播 我 遇 难 的 谣 言。 他 招 集 了 自 己 的 支 持 者， 宣 称 自 己 为 国 王， 在 过 去 几 年 时 间 不 断 强 化 自 己 的 权 力。 
 str_rhodok_rebellion_pretender_story_2|在 最 后 的 选 举 中 有 两 个 候 选 人， 我 和 葛 瑞 福 斯 领 主。 在 议 会 评 议 时， 葛 瑞 福 斯 手 持 武 器 闯 了 进 来， 告 诉 贵 族 们 一 队 斯 瓦 迪 亚 部 队 正 冲 向 议 会 所 在 地， 老 实 说， 这 是 事 实， 葛 瑞 福 斯 告 诉 贵 族， 如 果 自 己 不 能 当 国 王， 那 么 就 将 率 领 部 队 离 开， 留 下 贵 族 们 面 对 敌 人。 
@@ -1999,14 +1999,14 @@ str_sarranid_rebellion_pretender_story_2|当 艾 扎 尔 苏 丹 去 世 之 后
 str_swadian_rebellion_pretender_story_3|我 得 承 认， 诅 咒 哈 劳 斯 和 听 命 于 他 的 叛 国 者 不 会 起 任 何 作 用， 但 我 同 样 相 信， 任 由 他 操 纵 的 地 方 官 是 被 收 买 了 的。 这 都 无 所 谓， 我 将 召 集 一 支 忠 诚 的 军 队， 以 对 老 国 王 的 怀 念 和 意 志 为 荣 的 军 队。 如 果 任 何 人 怀 疑 女 人 能 行 使 权 力， 那 我 将 会 以 推 翻 哈 劳 斯 的 非 法 王 位 作 为 证 明。 
 str_vaegir_rebellion_pretender_story_3|我 将 忍 受“私 生 子” 的 污 名， 直 到 在 所 有 维 吉 亚 人 面 前 恢 复 我 权 力， 以 此 提 醒 自 己 必 须 坚 持 下 去。 
 str_khergit_rebellion_pretender_story_3|我 的 兄 弟 认 为 库 吉 特 人 只 会 听 命 于 强 者： 一 个 想 要 什 么 就 能 得 到 什 么 的 领 袖。 但 是 我 想 他 曲 解 了 我 的 人 民 的 意 图— — 我 们 钦 佩 一 个 坚 定 的 领 袖， 但 是 我 们 更 需 要 一 个 正 确 的 领 袖， 并 且 我 们 知 道 一 个 不 尊 重 他 兄 弟 的 权 利 的 人 是 不 会 尊 重 他 的 追 随 者 的 权 利 的。 
-str_nord_rebellion_pretender_story_3|所 以 我 仍 被 放 逐 中— — 只 是 现 在 我 不 再 寻 找 遥 远 大 陆 的 贤 人 来 指 导 我 的 智 慧， 而 是 勇 士， 来 和 我 一 起 回 到 诺 德 的 领 地 夺 回 我 的 王 位。 如 果 拉 格 纳 怀 疑 我 管 理 的 才 能， 那 么 让 他 面 对 面 地 和 我 说， 我 们 将 会 在 战 场 上 对 话。 作 为 一 个 战 士 能 成 为 一 个 学 者， 学 者 亦 能 成 为 战 士， 而 我 认 为， 只 有 能 将 二 者 合 二 为 一 的 人 才 是 真 正 的 王 者！  
+str_nord_rebellion_pretender_story_3|所 以 我 仍 被 放 逐 中— — 只 是 现 在 我 不 再 寻 找 遥 远 大 陆 的 贤 人 来 指 导 我 的 智 慧， 而 是 勇 士， 来 和 我 一 起 回 到 诺 德 的 领 地 夺 回 我 的 王 位。 如 果 拉 格 纳 怀 疑 我 管 理 的 才 能， 那 么 让 他 面 对 面 地 和 我 说， 我 们 将 会 在 战 场 上 对 话。 作 为 一 个 战 士 能 成 为 一 个 学 者， 学 者 亦 能 成 为 战 士， 而 我 认 为， 只 有 能 将 二 者 合 二 为 一 的 人 才 是 真 正 的 王 者！ 
 str_rhodok_rebellion_pretender_story_3|很 好， 葛 瑞 福 斯 打 败 了 斯 瓦 迪 亚 人， 作 为 一 个 罗 多 克 人， 我 很 高 兴。 但 我 当 上 国 王 时， 我 会 将 胜 利 花 环 戴 在 他 的 头 上， 之 后， 我 会 将 他 的 头 从 他 肩 膀 上 扭 下 来， 作 为 他 背 叛 罗 多 克 联 邦 和 神 圣 法 规 的 代 价。 
 str_sarranid_rebellion_pretender_story_3|但 不 幸 的 是， 拜 巴 克 很 快 在 一 场 和 库 吉 特 人 的 遭 遇 战 中 阵 亡。 本 来 在 我 知 晓 这 个 噩 耗 的 同 时， 我 就 可 以 准 备 好 抵 御 一 切 可 能 的 背 叛。 可 惜， 我 丈 夫 那 不 怀 好 意 的 侄 子 哈 基 姆 带 着 他 的 手 下 马 不 停 蹄 前 来 逼 宫， 将 我 赶 出 宫 来， 自 封 苏 丹。 就 是 这 样— — 我 要 集 结 起 一 支 我 自 己 的 军 队， 以 报 答 他 的“好 意”。 
 str_swadian_rebellion_monarch_response_1|艾 索 娜 认 为 她 应 该 是 斯 瓦 迪 亚 的 国 王？ 伊 斯 特 瑞 奇 国 王 太 溺 爱 他 的 女 儿 了， 但 一 个 善 良 的 国 王 对 人 民 来 说 是 一 种 灾 难。 艾 索 娜 也 许 告 诉 你 什 么 古 代 女 勇 士 的 故 事， 但 你 也 许 能 记 得， 所 有 的 传 说 都 只 有 一 种 结 局— — 斯 瓦 迪 亚 被 卡 拉 德 帝 国 的 军 队 蹂 躏。 
 str_vaegir_rebellion_monarch_response_1|如 果 维 迪 姆 带 着 和 平 而 来， 我 会 给 他 爵 位 和 荣 誉， 他 会 成 为 我 最 大 的 诸 侯， 而 如 果 他 带 着 军 队 而 来， 我 会 用 铁 链 绑 住 他， 让 他 在 我 面 前 承 认 我 是 合 法 的 君 主， 然 后 割 掉 他 的 舌 头， 让 他 不 能 反 悔。 
 str_khergit_rebellion_monarch_response_1|我 的 兄 弟 达 斯 塔 姆 也 许 告 诉 过 你 他 那 套 将 汗 国 分 割 的 主 张， 他 以 为 这 是 羊 群？ 让 我 告 诉 你 一 些 事， 自 从 库 吉 特 人 在 这 片 土 地 上 定 居 下 来， 所 有 可 汗 去 世 后 只 会 有 一 种 结 果— — 土 地 被 分 割， 可 汗 的 儿 子 们 互 相 残 杀， 最 后 由 最 强 大 的 那 一 个 取 得 所 有 一 切。 我 这 样 做 是 为 了 避 免 内 战。 
-str_nord_rebellion_monarch_response_1|勒 斯 汶 先 知？ 作 家 勒 斯 汶 还 差 不 多。 也 许 你 听 说 过 这 句 话：“国 王 是 小 孩， 人 民 遭 不 幸。 ” 更 不 幸 的 是 国 王 是 个 学 生。 你 想 让 统 治 诺 德 人 的 是 个 嘴 上 无 毛 的 小 子？ 一 个 连 剑 把 都 握 不 紧 的 小 子？ 一 个 还 从 来 都 没 站 在 盾 牌 之 后 的 小 子？ 如 果 勒 斯 汶 当 了 国 王， 他 领 主 们 会 嘲 笑 他 那 张 娃 娃 脸！  
-str_rhodok_rebellion_monarch_response_1|毫 无 疑 问， 凯 斯 托 领 主 告 诉 了 你 一 些 事， 比 如 我 干 扰 了 国 王 选 举， 破 坏 了 神 圣 的 罗 多 克 法 规 之 类。 很 好， 让 我 告 诉 你 城 镇 的 候 选 人 都 干 了 些 什 么， 他 们 拖 着 慢 长 的 语 气 谈 论 我 们 古 老 的 自 由 传 统， 然 后， 选 一 个 呆 在 庄 园， 品 着 好 酒， 答 应 帮 贵 族 们 收 税 的 国 王！  
+str_nord_rebellion_monarch_response_1|勒 斯 汶 先 知？ 作 家 勒 斯 汶 还 差 不 多。 也 许 你 听 说 过 这 句 话：“国 王 是 小 孩， 人 民 遭 不 幸。 ” 更 不 幸 的 是 国 王 是 个 学 生。 你 想 让 统 治 诺 德 人 的 是 个 嘴 上 无 毛 的 小 子？ 一 个 连 剑 把 都 握 不 紧 的 小 子？ 一 个 还 从 来 都 没 站 在 盾 牌 之 后 的 小 子？ 如 果 勒 斯 汶 当 了 国 王， 他 领 主 们 会 嘲 笑 他 那 张 娃 娃 脸！ 
+str_rhodok_rebellion_monarch_response_1|毫 无 疑 问， 凯 斯 托 领 主 告 诉 了 你 一 些 事， 比 如 我 干 扰 了 国 王 选 举， 破 坏 了 神 圣 的 罗 多 克 法 规 之 类。 很 好， 让 我 告 诉 你 城 镇 的 候 选 人 都 干 了 些 什 么， 他 们 拖 着 慢 长 的 语 气 谈 论 我 们 古 老 的 自 由 传 统， 然 后， 选 一 个 呆 在 庄 园， 品 着 好 酒， 答 应 帮 贵 族 们 收 税 的 国 王！ 
 str_sarranid_rebellion_monarch_response_1|我 们 的 学 者 长 久 以 来 都 同 意 政 治 中 有 一 个 首 要 原 则。 人 们 应 当 服 从 统 治 者 的 权 力， 因 为 暴 政 总 好 过 内 乱。 为 此 我 接 受 了 我 原 本 宣 誓 效 忠 的， 属 于 拜 巴 克 和 阿 瓦 尔 两 人 的 权 力。 
 str_swadian_rebellion_monarch_response_2|那 个 哭 述 着 被 王 位 拒 绝 的 斯 瓦 迪 亚 公 主 应 该 有 这 么 一 个 下 场， 她 应 该 去 做 一 个 牧 羊 女， 然 后 被 一 队 维 吉 亚 骑 兵 抓 住， 卖 到 禅 达 的 奴 隶 市 场。 当 我 们 好 战 的 邻 居 挂 了 的 时 候， 你 给 我 讲 讲 女 王 的 往 事， 然 后 我 们 就 和 平 了。 
 str_vaegir_rebellion_monarch_response_2|不 管 我 父 亲 怎 么 获 得 权 力 都 无 所 谓， 现 在 我 继 承 了 王 位 就 足 够 了。 如 果 所 有 过 去 的 事 都 要 翻 出 来， 所 有 继 承 权 都 要 随 时 拿 出 来 讨 论 一 番， 王 位 制 度 也 就 终 结 了， 我 们 面 临 的 将 会 是 一 场 内 战。 
@@ -2177,29 +2177,29 @@ str_yes_wo_dot|可
 str_no_wo_dot|否 
 str_we_resign|我 们 没 有 足 够 的 兵 力 继 续 作 战。 我 们 向 你 投 降， {playername}。 
 str_i_resign|我 还 想 活 下 去。 我 投 降。 
-str_s1_returned_flag|{s1}将 丢 失 的 旗 帜 重 新 夺 回！  
-str_s1_auto_returned_flag|{s1}旗 帜 自 动 回 到 了 他 们 的 基 地！  
-str_s1_captured_flag|{s1}俘 获 敌 军 旗 帜！ ！  
-str_s1_taken_flag|{s1}抢 到 了 敌 军 旗 帜！  
+str_s1_returned_flag|{s1}将 丢 失 的 旗 帜 重 新 夺 回！ 
+str_s1_auto_returned_flag|{s1}旗 帜 自 动 回 到 了 他 们 的 基 地！ 
+str_s1_captured_flag|{s1}俘 获 敌 军 旗 帜！ ！ 
+str_s1_taken_flag|{s1}抢 到 了 敌 军 旗 帜！ 
 str_s1_neutralized_flag_reg0|{s1}已 中 立 化 旗 帜 {reg0}。 
-str_s1_captured_flag_reg0|{s1}占 领 了 旗 帜 {reg0}！  
+str_s1_captured_flag_reg0|{s1}占 领 了 旗 帜 {reg0}！ 
 str_s1_pulling_flag_reg0|{s1}开 始 在 {reg0}旗 区 升 旗。 
-str_s1_destroyed_target_0|{s1}摧 毁 目 标 A！  
-str_s1_destroyed_target_1|{s1}摧 毁 目 标 B！  
-str_s1_destroyed_catapult|{s1}摧 毁 投 石 机！  
-str_s1_destroyed_trebuchet|{s1}摧 毁 投 石 车！  
+str_s1_destroyed_target_0|{s1}摧 毁 目 标 A！ 
+str_s1_destroyed_target_1|{s1}摧 毁 目 标 B！ 
+str_s1_destroyed_catapult|{s1}摧 毁 投 石 机！ 
+str_s1_destroyed_trebuchet|{s1}摧 毁 投 石 车！ 
 str_s1_destroyed_all_targets|{s1}摧 毁 了 所 有 目 标。 
 str_s1_saved_1_target|{s1}保 护 了 一 个 目 标。 
-str_s1_saved_2_targets|{s1}守 住 了 所 有 目 标！  
-str_s1_defended_castle|{s1}守 住 了 城 堡！  
-str_s1_captured_castle|{s1}占 领 城 堡！ ！  
+str_s1_saved_2_targets|{s1}守 住 了 所 有 目 标！ 
+str_s1_defended_castle|{s1}守 住 了 城 堡！ 
+str_s1_captured_castle|{s1}占 领 城 堡！ ！ 
 str_auto_team_balance_in_20_seconds|20 秒 内 将 自 动 调 整 双 方 力 量。 
 str_auto_team_balance_next_round|下 一 回 合 将 自 动 调 整 双 方 力 量。 
 str_auto_team_balance_done|自 动 调 整 双 方 力 量 完 成。 
-str_s1_won_round|{s1}此 回 合 胜！ ！  
+str_s1_won_round|{s1}此 回 合 胜！ ！ 
 str_round_draw|时 间 到， 平 局。 
 str_round_draw_no_one_remained|无 人 幸 存， 平 局。 
-str_death_mode_started|死 亡 时 间 开 始！ ！  
+str_death_mode_started|死 亡 时 间 开 始！ ！ 
 str_reset_to_default|默 认 设 置 
 str_done|完 成 
 str_player_name|玩 家 
@@ -2254,7 +2254,7 @@ str_score|得 分
 str_command|命 令： 
 str_profile_banner_selection_text|给 你 的 角 色 选 定 一 面 旗 帜 
 str_use_default_banner|使 用 国 家 默 认 旗 帜 
-str_party_morale_is_low|一 些 部 队 士 气 低 下！  
+str_party_morale_is_low|一 些 部 队 士 气 低 下！ 
 str_weekly_report|周 报 告 
 str_has_deserted_the_party|逃 离 了 队 伍。 
 str_have_deserted_the_party|逃 离 了 队 伍。 
@@ -2301,7 +2301,7 @@ str_point_gained_from_capturing_flag_is_reg0|获 得 旗 帜 的 奖 励 分 数
 str_map_time_limit_is_reg0|地 图 时 间 限 制 为 {reg0}分 钟。 
 str_team_points_limit_is_reg0|队 伍 分 数 限 制 为 {reg0}。 
 str_defender_spawn_count_limit_is_s1|默 认 重 生 次 数 为 {s1}。 
-str_system_error|系 统 错 误！  
+str_system_error|系 统 错 误！ 
 str_prisoner_granted_parole|战 俘 获 得 释 放 
 str_prisoner_not_offered_parole|战 俘 没 有 被 释 放 
 str__age_reg1_family_|^ 年 龄 ： {reg1}^ 家 族 ： 
@@ -2487,7 +2487,7 @@ str_you_speak_of_giving_me_land_good_i_ask_for_no_more_than_my_due|你 说 要 �
 str_you_speak_of_giving_me_land_unfortunately_you_are_not_wellknown_for_rewarding_those_to_whom_you_have_made_such_offers|你 说 要 给 我 土 地。 不 幸 的 是， 对 于 那 些 你 曾 经 如 此 许 诺 的 人， 你 好 像 并 不 乐 于 将 其 兑 现。 
 str_you_speak_of_unifying_calradia_well_i_believe_that_well_always_be_fighting__its_important_that_we_fight_for_a_rightful_cause|你 声 称 要 统 一 卡 拉 迪 亚。 好 吧， 我 相 信 那 需 要 我 们 不 断 地 奋 战— — 再 没 有 比 师 出 有 名 更 重 要 的 了。 
 str_you_talk_of_claims_to_the_throne_but_i_leave_bickering_about_legalities_to_the_lawyers_and_clerks|你 声 称 王 位 应 属 于 你， 不 过 我 向 来 把 这 类 关 于 法 理 的 争 辩 丢 给 那 些 讼 师 书 吏 处 理。 
-str_you_speak_of_ruling_justly_hah_ill_believe_theres_such_a_thing_as_a_just_king_when_i_see_one|你 说 你 将 会 公 正 地 进 行 统 治。 哈！  在 亲 眼 目 睹 之 前， 我 不 会 相 信 世 上 还 有 公 正 的 国 王 这 种 东 西。 
+str_you_speak_of_ruling_justly_hah_ill_believe_theres_such_a_thing_as_a_just_king_when_i_see_one|你 说 你 将 会 公 正 地 进 行 统 治。 哈！ 在 亲 眼 目 睹 之 前， 我 不 会 相 信 世 上 还 有 公 正 的 国 王 这 种 东 西。 
 str_you_spoke_of_protecting_the_rights_of_the_nobles_if_you_did_youd_be_the_first_king_to_do_so_in_a_very_long_time|你 曾 说 要 保 护 贵 族 的 权 利。 如 果 你 真 这 么 做 了， 你 将 会 是 长 久 以 来 第 一 个 如 此 做 的 国 王。 
 str_you_speak_of_giving_me_land_ay_well_lets_see_if_you_deliver|你 说 要 给 我 土 地。 这 我 赞 成， 好 吧， 让 我 们 来 看 看 你 会 不 会 信 守 承 诺。 
 str_you_speak_of_giving_me_land_bah_youre_not_known_for_delivering_on_your_pledges|你 说 要 给 我 土 地。 省 省 吧。 你 可 不 像 是 信 守 承 诺 的 人。 
@@ -2510,10 +2510,10 @@ str_you_speak_of_giving_me_land_very_good_but_often_i_find_that_when_a_man_makes
 str_you_speak_of_unifying_calradia_well_many_have_said_that_you_might_very_well_be_the_one_to_do_it|你 声 称 要 统 一 卡 拉 迪 亚。 有 很 多 人 都 这 么 说 过 但 最 后 失 败 了。 你 估 计 也 会 变 得 和 他 们 一 样， 
 str_you_speak_of_unifying_calradia_well_all_the_kings_say_that_im_not_sure_that_you_will_succeed_while_they_fail|你 声 称 要 统 一 卡 拉 迪 亚。 很 多 国 王 在 失 败 之 前 都 这 么 说 过， 我 不 认 为 你 和 他 们 有 所 不 同。 
 str_you_speak_of_claims_do_you_think_i_care_for_the_nattering_of_lawyers|说 起 你 的 要 求， 你 认 为 我 会 关 心 这 种 小 事 吗？ 
-str_you_speak_of_protecting_the_commons_how_kind_of_you_i_shall_tell_my_swineherd_all_about_your_sweet_promises_no_doubt_he_will_become_your_most_faithful_vassal|你 说 你 要 保 护 那 些 人 民， 你 可 真 是 有 爱 呀！  我 得 把 你 的 那 些 甜 言 蜜 语 告 诉 我 的 家 奴， 他 肯 定 会 死 心 塌 地 的 跟 着 你 混 的。 
-str_you_speak_of_protecing_the_rights_of_lords_such_sweet_words_but_ill_tell_you_this__the_only_rights_that_are_respected_in_this_world_are_the_rights_to_dominate_whoever_is_weaker_and_to_submit_to_whoever_is_stronger|你 想 保 护 那 些 腐 朽 贵 族 的 利 益， 不 错 不 错！  不 过 我 告 诉 你， 在 这 个 弱 肉 强 食 的 世 界 上 光 有 血 统 是 没 有 任 何 意 义 的， 只 有 武 力 才 能 让 人 们 信 服。 
+str_you_speak_of_protecting_the_commons_how_kind_of_you_i_shall_tell_my_swineherd_all_about_your_sweet_promises_no_doubt_he_will_become_your_most_faithful_vassal|你 说 你 要 保 护 那 些 人 民， 你 可 真 是 有 爱 呀！ 我 得 把 你 的 那 些 甜 言 蜜 语 告 诉 我 的 家 奴， 他 肯 定 会 死 心 塌 地 的 跟 着 你 混 的。 
+str_you_speak_of_protecing_the_rights_of_lords_such_sweet_words_but_ill_tell_you_this__the_only_rights_that_are_respected_in_this_world_are_the_rights_to_dominate_whoever_is_weaker_and_to_submit_to_whoever_is_stronger|你 想 保 护 那 些 腐 朽 贵 族 的 利 益， 不 错 不 错！ 不 过 我 告 诉 你， 在 这 个 弱 肉 强 食 的 世 界 上 光 有 血 统 是 没 有 任 何 意 义 的， 只 有 武 力 才 能 让 人 们 信 服。 
 str_you_speak_of_giving_me_land_yes_very_good__but_you_had_best_deliver|你 说 会 给 我 土 地。 很 好， 不 过 你 最 好 别 食 言。 
-str_you_speak_of_giving_me_land_hah_perhaps_all_those_others_to_whom_you_promised_lands_will_simply_step_aside|你 说 会 给 我 土 地。 呵 呵！  那 么 其 他 那 些 被 你 承 诺 会 给 土 地 的 人 难 道 就 会 退 让 吗？ 
+str_you_speak_of_giving_me_land_hah_perhaps_all_those_others_to_whom_you_promised_lands_will_simply_step_aside|你 说 会 给 我 土 地。 呵 呵！ 那 么 其 他 那 些 被 你 承 诺 会 给 土 地 的 人 难 道 就 会 退 让 吗？ 
 str_you_speak_of_unifying_calradia_you_may_indeed_humble_the_other_kings_of_this_land_and_in_that_case_i_would_hope_that_you_would_remember_me_as_your_faithful_servant|你 声 称 要 统 一 卡 拉 迪 亚。 的 确 这 样 你 就 会 位 居 人 上 了， 不 过 我 希 望 你 能 一 直 记 得 身 为 你 忠 实 仆 人 的 我。 
 str_you_speak_of_unifying_calradia_but_you_are_weak_and_i_think_that_you_will_remain_weak|你 声 称 要 统 一 卡 拉 迪 亚。 不 过 你 太 弱 小 了， 我 不 认 为 你 有 机 会 壮 大。 
 str_you_speak_of_claims_its_good_for_a_king_to_have_a_strong_claim_although_admittedly_im_more_concerned_that_he_rules_just_ly_than_with_legalities_anyway_your_claim_seems_wellfounded_to_me|说 起 你 的 王 位 主 张， 虽 然 老 实 说 我 认 为 应 该 依 靠 法 律 而 不 是 义 务 来 治 国， 不 过 有 一 个 牢 靠 的 王 位 主 张 是 好 事。 总 之， 依 我 看 来 你 的 王 位 主 张 是 有 根 据 的。 
@@ -2538,7 +2538,7 @@ str_the_socalled_s11_s18|所 谓 的 {s11}{s18}
 str_s18_would_cheat_me_of_my_inheritance_by_heaven_i_know_my_rights_and_im_not_going_to_back_down|{s18}想 要 骗 取 我 的 继 承 权。 感 谢 上 帝， 我 了 解 我 的 权 利， 并 且 我 不 会 放 弃。 
 str_s18_once_questioned_my_honour_and_my_bravery_i_long_for_the_day_when_i_can_meet_him_in_battle_and_make_him_retract_his_statement|{s18}曾 质 疑 我 的 勇 气 与 荣 誉， 为 了 在 战 场 上 和 他 交 手 我 已 经 等 了 很 久 了， 我 会 让 他 后 悔 的。 
 str_s18_once_questioned_my_judgment_in_battle_by_heaven_would_he_have_us_shirk_our_duty_to_smite_our_sovereigns_foes|{s18}曾 质 疑 我 在 一 场 战 斗 中 的 判 断， 老 天 呀， 难 道 他 要 我 为 了 击 败 敌 人 而 逃 避 自 己 的 责 任 吗？ 
-str_s18_seems_to_think_he_has_the_right_to_some_of_my_property_well_he_does_not|{s18}认 为 他 对 我 的 一 些 财 产 有 着 所 有 权， 哼， 没 门 儿！  
+str_s18_seems_to_think_he_has_the_right_to_some_of_my_property_well_he_does_not|{s18}认 为 他 对 我 的 一 些 财 产 有 着 所 有 权， 哼， 没 门 儿！ 
 str_s18_once_took_something_i_said_amiss_stubborn_bastard_wont_give_it_up_and_keeps_trying_to_get_me_to_recant_my_words|{s18}曾 经 抓 住 我 的 一 个 口 误 不 放， 总 是 要 我 公 开 承 认 错 误。 
 str_s18_is_a_crafty_weasel_and_i_dont_trust_him_one_bit|{s18}是 个 只 会 推 卸 责 任 的 狡 猾 家 伙， 我 一 点 儿 都 不 信 任 他。 
 str_s18_i_despite_him_he_puts_on_such_a_nauseating_display_of_virtue_and_thinks_nothing_of_insulting_his_betters|{s18}？ 我 很 鄙 视 他。 他 总 是 不 顾 场 合 地 把 自 己 夸 大， 丝 毫 不 为 他 的 长 辈 着 想。 
@@ -2598,7 +2598,7 @@ str_we_are_following_your_direction|我 们 会 听 从 你 的 指 示 的。
 str_i_need_to_make_preparations_for_your_wedding|我 得 为 你 的 婚 礼 做 准 备。 
 str_after_all_i_need_to_make_preparations_for_your_wedding|总 之， 我 得 为 你 的 婚 礼 做 准 备。 
 str_i_am_heading_to_the_site_of_our_wedding|我 现 在 前 往 我 们 的 婚 礼 地 点。 
-str_after_all_we_are_soon_to_be_wed|总 之， 我 们 很 快 就 要 结 婚 了！  
+str_after_all_we_are_soon_to_be_wed|总 之， 我 们 很 快 就 要 结 婚 了！ 
 str_i_am_hosting_a_feast_there|我 正 在 那 里 举 办 宴 会。 
 str_i_have_a_feast_to_host|我 有 一 场 宴 会 要 举 办。 
 str_i_am_to_be_the_bridegroom_there|我 就 是 新 郎。 
@@ -2625,7 +2625,7 @@ str_i_have_a_score_to_settle_with_the_lord_there|我 有 些 事 情 得 和 这
 str_i_am_thinking_of_settling_an_old_score|我 在 考 虑 解 决 一 笔 旧 账。 
 str_i_am_short_of_money_and_i_hear_that_there_is_much_wealth_there|我 有 点 儿 缺 钱， 听 说 那 儿 挺 富 有 的。 
 str_i_need_to_refill_my_purse_preferably_with_the_enemys_money|我 得 弄 些 儿 钱， 最 好 是 从 敌 人 那 儿 弄 来。 
-str_by_striking_at_the_enemys_richest_lands_perhaps_i_can_draw_them_out_to_battle|突 袭 敌 人 最 富 裕 的 地 方， 也 许 可 以 把 他 们 拖 入 战 争！  
+str_by_striking_at_the_enemys_richest_lands_perhaps_i_can_draw_them_out_to_battle|突 袭 敌 人 最 富 裕 的 地 方， 也 许 可 以 把 他 们 拖 入 战 争！ 
 str_i_am_thinking_of_going_on_the_attack|我 计 划 执 行 攻 击。 
 str_perhaps_if_i_strike_one_more_blow_we_may_end_this_war_on_our_terms_|也 许， 如 果 我 们 再 努 力 一 次 的 话 我 们 就 能 结 束 这 场 战 争 了。 
 str_we_may_be_able_to_bring_this_war_to_a_close_with_a_few_more_blows|再 加 把 劲 或 许 我 们 就 能 结 束 这 场 战 争 了。 
@@ -2704,7 +2704,7 @@ str_s12s15_seems_to_be_willing_to_improve_relations_with_s16|{s12}{s15}似 乎 �
 str_s12s15_is_too_far_to_engage_s16|{s12}{s15} is too far to engage in diplomatic relations with {s16}.{***}
 str_s12s15_is_participating_in_a_crusade_against_s16|{s12}{s15}正 在 参 与 一 场 进 攻 {s16}的 十 字 军 东 征。 
 str_excuse_me_how_can_you_possibly_imagine_yourself_worthy_to_marry_into_our_family|你 说 什 么？ 你 是 怎 么 觉 得 你 有 资 格 跟 我 们 家 族 联 姻 的？ 
-str_em_with_regard_to_her_ladyship_we_were_looking_specifically_for_a_groom_of_some_distinction_fight_hard_count_your_dinars_and_perhaps_some_day_in_the_future_we_may_speak_of_such_things_my_good_man|嗯… … 出 于 对 女 士 的 尊 重， 我 们 在 为 她 寻 找 一 位 有 良 好 声 望 的 夫 婿。 多 打 胜 仗， 多 赚 第 纳 尔， 说 不 定 未 来 的 某 一 天 我 们 能 再 谈 谈 这 事 儿， 好 男 人！  
+str_em_with_regard_to_her_ladyship_we_were_looking_specifically_for_a_groom_of_some_distinction_fight_hard_count_your_dinars_and_perhaps_some_day_in_the_future_we_may_speak_of_such_things_my_good_man|嗯… … 出 于 对 女 士 的 尊 重， 我 们 在 为 她 寻 找 一 位 有 良 好 声 望 的 夫 婿。 多 打 胜 仗， 多 赚 第 纳 尔， 说 不 定 未 来 的 某 一 天 我 们 能 再 谈 谈 这 事 儿， 好 男 人！ 
 str_em_with_regard_to_her_ladyship_we_were_looking_specifically_for_a_groom_of_some_distinction|嗯… … 出 于 对 女 士 的 尊 重， 我 们 在 为 她 寻 找 一 位 有 良 好 声 望 的 夫 婿。 
 str_it_is_too_early_for_you_to_be_speaking_of_such_things_you_are_still_making_your_mark_in_the_world|对 你 来 说， 现 在 就 谈 这 个 未 免 太 早 了 点 儿。 你 还 得 在 这 个 世 界 上 多 留 下 点 儿 痕 迹 呢。 
 str_you_dont_serve_the_s4_so_id_say_no_one_day_we_may_be_at_war_and_i_prefer_not_to_have_to_kill_my_inlaws_if_at_all_possible|你 并 没 有 效 力 于 {s4}， 所 以 我 得 说 “不 ”。 如 果 有 一 天 我 们 在 战 场 上 相 遇， 我 可 不 想 杀 了 我 的 姻 亲。 
@@ -2728,23 +2728,23 @@ str_my_lady_you_are_a_woman_of_great_spirit_and_bravery_possessed_of_beauty_grac
 str_my_lady_you_are_a_woman_of_great_spirit_and_bravery_possessed_of_beauty_grace_and_wit_i_would_be_most_honored_were_you_to_become_my_wife|尊 敬 的 女 士， 你 是 一 位 集 勇 气 与 智 慧， 美 貌 与 优 雅 于 一 身 的 女 性。 能 娶 你 为 妻 是 我 莫 大 的 荣 耀。 
 str_ah__kais_and_layali__such_a_sad_tale_many_a_time_has_it_been_recounted_for_my_family_by_the_wandering_poets_who_come_to_our_home_and_it_has_never_failed_to_bring_tears_to_our_eyes|啊— — “凯 斯 和 莱 亚 拉” — — 真 是 个 凄 美 的 传 说。 来 我 们 家 的 吟 游 诗 人 们， 一 次 又 一 次 地 提 起 这 首 诗， 而 每 一 次 我 都 听 得 流 下 眼 泪。 
 str_kais_and_layali_three_hundred_stanzas_of_pathetic_sniveling_if_you_ask_me_if_kais_wanted_to_escape_heartbreak_he_should_have_learned_to_live_within_his_station_and_not_yearn_for_what_he_cannot_have|“凯 斯 和 莱 亚 拉” ？ 就 像 三 百 段 无 聊 的 啜 泣， 如 果 你 要 我 评 价 它 的 话。 如 果 凯 斯 想 要 走 出 悲 伤， 那 么 他 必 须 活 在 现 实 里， 而 不 是 牵 挂 着 那 些 得 不 到 的 东 西。 
-str_kais_and_layali_no_one_should_ever_have_written_such_a_sad_poem_if_it_was_the_destiny_of_kais_and_layali_to_be_together_than_their_love_should_have_conquered_all_obstacles|“凯 斯 和 莱 亚 拉” ？ 谁 也 不 应 该 写 出 如 此 悲 伤 的 诗 歌！  如 果 老 天 注 定 要 让 凯 斯 和 莱 亚 拉 在 一 起， 那 么 他 们 的 爱 情 就 该 冲 破 所 有 的 阻 碍！  
+str_kais_and_layali_no_one_should_ever_have_written_such_a_sad_poem_if_it_was_the_destiny_of_kais_and_layali_to_be_together_than_their_love_should_have_conquered_all_obstacles|“凯 斯 和 莱 亚 拉” ？ 谁 也 不 应 该 写 出 如 此 悲 伤 的 诗 歌！ 如 果 老 天 注 定 要 让 凯 斯 和 莱 亚 拉 在 一 起， 那 么 他 们 的 爱 情 就 该 冲 破 所 有 的 阻 碍！ 
 str_ah_kais_and_layali_a_very_old_standby_but_moving_in_its_way|啊， “凯 斯 和 莱 亚 拉” 很 古 老 的 备 用 文 章， 但 是， 已 经 过 时 了。 
-str_the_saga_of_helgered_and_kara_such_happy_times_in_which_our_ancestors_lived_women_like_kara_could_venture_out_into_the_world_like_men_win_a_name_for_themselves_and_not_linger_in_their_husbands_shadow|“海 格 雷 德 和 凯 拉” 的 传 说？ 我 们 的 祖 先 生 活 在 多 么 幸 福 的 年 代 啊！  像 凯 拉 那 样 的 女 人， 可 以 像 男 人 一 样 外 出 冒 险， 为 自 己 赢 得 名 声， 而 不 是 活 在 丈 夫 的 阴 影 之 下。 
+str_the_saga_of_helgered_and_kara_such_happy_times_in_which_our_ancestors_lived_women_like_kara_could_venture_out_into_the_world_like_men_win_a_name_for_themselves_and_not_linger_in_their_husbands_shadow|“海 格 雷 德 和 凯 拉” 的 传 说？ 我 们 的 祖 先 生 活 在 多 么 幸 福 的 年 代 啊！ 像 凯 拉 那 样 的 女 人， 可 以 像 男 人 一 样 外 出 冒 险， 为 自 己 赢 得 名 声， 而 不 是 活 在 丈 夫 的 阴 影 之 下。 
 str_ah_the_saga_of_helgered_and_kara_now_there_was_a_lady_who_knew_what_she_wanted_and_was_not_afraid_to_obtain_it|啊， “海 格 雷 德 和 凯 拉” 的 传 说。 有 一 个 知 道 自 己 想 追 求 什 么 的 女 士， 并 且 为 了 自 己 的 追 求 无 所 畏 惧。 
 str_the_saga_of_helgered_and_kara_a_terrible_tale__but_it_speaks_of_a_very_great_love_if_she_were_willing_to_make_war_on_her_own_family|“海 格 雷 德 和 凯 拉” 的 传 说？ 虽 然 是 个 糟 糕 的 故 事， 不 过 它 谈 到 了 伟 大 的 爱 情， 如 果 她 愿 意 向 自 己 的 家 族 开 战 的 话。 
 str_the_saga_of_helgered_and_kara_as_i_recall_kara_valued_her_own_base_passions_over_duty_to_her_family_that_she_made_war_on_her_own_father_i_have_no_time_for_a_poem_which_praises_such_a_woman|“海 格 雷 德 和 凯 拉” 的 传 说？ 我 记 得， 凯 拉 把 不 道 德 的 激 情， 看 得 比 家 族 的 责 任 更 重 要， 还 跟 自 己 的 父 亲 开 战 了。 我 可 没 时 间 浪 费 在 一 首 赞 美 这 种 女 人 的 诗 歌 上。 
-str_the_saga_of_helgered_and_kara_how_could_a_woman_don_armor_and_carry_a_sword_how_could_a_man_love_so_ungentle_a_creature|“海 格 雷 德 和 凯 拉” 的 传 说？ 女 人 怎 么 能 穿 上 盔 甲， 拿 起 剑 呢？ 男 人 又 怎 么 会 爱 上 这 么 粗 鲁 的 家 伙！  
+str_the_saga_of_helgered_and_kara_how_could_a_woman_don_armor_and_carry_a_sword_how_could_a_man_love_so_ungentle_a_creature|“海 格 雷 德 和 凯 拉” 的 传 说？ 女 人 怎 么 能 穿 上 盔 甲， 拿 起 剑 呢？ 男 人 又 怎 么 会 爱 上 这 么 粗 鲁 的 家 伙！ 
 str_a_conversation_in_the_garden_i_cannot_understand_the_lady_in_that_poem_if_she_loves_the_man_why_does_she_tease_him_so|“花 园 中 的 谈 话” ？ 我 不 是 很 理 解 诗 歌 中 那 位 女 士 的 想 法， 如 果 她 爱 那 个 男 人， 那 为 什 么 又 要 这 么 捉 弄 他 呢？ 
 str_a_conversation_in_the_garden_let_us_see__it_is_morally_unedifying_it_exalts_deception_it_ends_with_a_maiden_surrendering_to_her_base_passions_and_yet_i_cannot_help_but_find_it_charming_perhaps_because_it_tells_us_that_love_need_not_be_tragic_to_be_memorable|“花 园 中 的 谈 话” ？ 让 我 们 瞧 瞧— — 太 不 光 彩 了， 歌 颂 欺 骗， 最 终 使 一 个 少 女 屈 从 于 她 低 级 的 情 欲… … 不 过 我 还 是 觉 得 它 很 迷 人， 也 许 因 为 它 告 诉 了 我 们 爱 情 不 必 因 为 悲 剧 而 令 人 难 忘。 
-str_a_conversation_in_the_garden_now_that_is_a_tale_every_lady_should_know_by_heart_to_learn_the_subtleties_of_the_politics_she_must_practice|“花 园 中 的 谈 话” ？ 这 是 所 有 女 士 都 需 要 谨 记 于 心 的 故 事， 因 为 她 们 都 将 会 经 历 那 种 微 妙 的 感 觉！  
+str_a_conversation_in_the_garden_now_that_is_a_tale_every_lady_should_know_by_heart_to_learn_the_subtleties_of_the_politics_she_must_practice|“花 园 中 的 谈 话” ？ 这 是 所 有 女 士 都 需 要 谨 记 于 心 的 故 事， 因 为 她 们 都 将 会 经 历 那 种 微 妙 的 感 觉！ 
 str_a_conversation_in_the_garden_it_is_droll_i_suppose__although_there_is_nothing_there_that_truly_stirs_my_soul|“花 园 中 的 谈 话” ？ 我 觉 得 它 很 好 笑— — 不 过 里 面 确 实 没 有 任 何 可 以 触 动 我 灵 魂 的 内 容。 
 str_storming_the_fortress_of_love_ah_yes_the_lady_sits_within_doing_nothing_while_the_man_is_the_one_who_strives_and_achieves_i_have_enough_of_that_in_my_daily_life_why_listen_to_poems_about_it|“爱 情 城 堡 之 风 暴” ？ 啊， 是 的。 男 人 在 努 力 奋 斗 的 时 候， 女 士 只 是 坐 着， 什 么 也 不 做。 我 的 生 活 里 有 太 多 这 样 的 事 了， 为 什 么 还 得 从 诗 歌 里 听 到？ 
 str_storming_the_fortress_of_love_ah_yes_an_uplifting_tribute_to_the_separate_virtues_of_man_and_woman|“爱 情 城 堡 之 风 暴” ？ 啊， 是 的。 一 首 振 奋 人 心， 赞 美 男 人 和 女 人 各 自 的 美 德 的 颂 词。 
-str_storming_the_fortress_of_love_ah_yes_but_although_it_is_a_fine_tale_of_virtues_it_speaks_nothing_of_passion|“爱 情 城 堡 之 风 暴” ？ 啊， 是 的。 尽 管 它 是 一 首 关 于 美 德 的 好 诗， 可 它 完 全 没 有 提 到 激 情！  
+str_storming_the_fortress_of_love_ah_yes_but_although_it_is_a_fine_tale_of_virtues_it_speaks_nothing_of_passion|“爱 情 城 堡 之 风 暴” ？ 啊， 是 的。 尽 管 它 是 一 首 关 于 美 德 的 好 诗， 可 它 完 全 没 有 提 到 激 情！ 
 str_storming_the_fortress_of_love_ah_a_sermon_dressed_up_as_a_love_poem_if_you_ask_me|“爱 情 城 堡 之 风 暴” ？ 啊… … 一 篇 伪 装 成 爱 情 诗 的 说 教， 如 果 你 要 我 评 价 它 的 话。 
-str_a_hearts_desire_ah_such_a_beautiful_account_of_the_perfect_perfect_love_to_love_like_that_must_be_to_truly_know_rapture|“心 中 的 渴 望” ？ 啊， 一 篇 对 最 最 完 美 的 爱 情 的 最 美 的 总 结！  如 果 能 像 诗 歌 里 那 样 去 爱， 毫 无 疑 问， 将 会 是 最 最 幸 福 的！  
-str_a_hearts_desire_silly_if_you_ask_me_if_the_poet_desires_a_lady_then_he_should_endeavor_to_win_her__and_not_dress_up_his_desire_with_a_pretense_of_piety|“心 中 的 渴 望” ？ 很 蠢 的 诗， 如 果 你 要 我 评 价 的 话。 如 果 诗 人 想 追 求 一 个 女 人， 那 么 他 应 该 尽 力 去 赢 得 她 的 芳 心— — 而 不 是 把 自 己 的 欲 望， 用 虚 假 的 虔 诚 包 装 起 来！  
+str_a_hearts_desire_ah_such_a_beautiful_account_of_the_perfect_perfect_love_to_love_like_that_must_be_to_truly_know_rapture|“心 中 的 渴 望” ？ 啊， 一 篇 对 最 最 完 美 的 爱 情 的 最 美 的 总 结！ 如 果 能 像 诗 歌 里 那 样 去 爱， 毫 无 疑 问， 将 会 是 最 最 幸 福 的！ 
+str_a_hearts_desire_silly_if_you_ask_me_if_the_poet_desires_a_lady_then_he_should_endeavor_to_win_her__and_not_dress_up_his_desire_with_a_pretense_of_piety|“心 中 的 渴 望” ？ 很 蠢 的 诗， 如 果 你 要 我 评 价 的 话。 如 果 诗 人 想 追 求 一 个 女 人， 那 么 他 应 该 尽 力 去 赢 得 她 的 芳 心— — 而 不 是 把 自 己 的 欲 望， 用 虚 假 的 虔 诚 包 装 起 来！ 
 str_a_hearts_desire_hmm__it_is_an_interesting_exploration_of_earthly_and_divine_love_it_does_speak_of_the_spiritual_quest_which_brings_out_the_best_in_man_but_i_wonder_if_the_poet_has_not_confused_his_yearning_for_higher_things_with_his_baser_passions|“心 中 的 渴 望” ？ 嗯— — 这 是 对 世 俗 爱 情 与 神 圣 爱 情 的 有 趣 探 究。 它 论 及 对 人 性 中 最 美 好 的 追 求， 不 过 我 想 知 道 这 个 诗 人 是 否 未 尝 出 于 低 级 的 情 欲， 而 使 他 对 更 崇 高 事 物 的 向 往 陷 入 窘 境。 
 str_a_hearts_desire_oh_yes__it_is_very_worthy_and_philosophical_but_if_i_am_to_listen_to_a_bard_strum_a_lute_for_three_hours_i_personally_prefer_there_to_be_a_bit_of_a_story|“心 中 的 渴 望” ？ 哦， 是 的— — 这 首 诗 富 有 哲 理， 值 得 一 读。 不 过， 如 果 要 我 听 吟 游 诗 人 弹 整 整 三 个 钟 头 的 鲁 特 琴， 我 个 人 还 是 倾 向 于 内 容 里 有 那 么 一 点 儿 故 事。 
 str_reg3_units_of_s4_for_reg5_guests_and_retinue|{reg3}个 {s4}给 {reg5}个 客 人 以 及 随 行 人 员 
@@ -2841,12 +2841,12 @@ str_i_trust_that_you_have_comported_yourself_in_a_manner_becoming_a_gentleman_du
 str_it_has_been_many_days_since_you_came_and_i_would_very_much_like_to_see_you_again|自 从 我 上 次 见 到 你 已 经 过 去 很 久 了， 如 果 能 再 见 到 你， 我 会 非 常 高 兴 的。 
 str__you_should_ask_my_s11_s16s_permission_but_i_have_no_reason_to_believe_that_he_will_prevent_you_from_coming_to_see_me|你 应 该 先 征 得 我 {s11}{s16}的 许 可， 可 是 我 没 有 任 何 理 由 相 信 他 会 阻 止 你 来 见 我。 
 str__you_should_first_ask_her_s11_s16s_permission|。 你 应 该 首 先 征 得 她 {s11}{s16}的 许 可 
-str__alas_as_we_know_my_s11_s16_will_not_permit_me_to_see_you_however_i_believe_that_i_can_arrange_away_for_you_to_enter_undetected|唉！ ！  就 如 我 们 所 猜 想 的， 我 的 {s11}{s16}不 会 允 许 我 们 见 面， 但 我 可 以 安 排 和 你 秘 密 约 会 的 方 法。 
+str__alas_as_we_know_my_s11_s16_will_not_permit_me_to_see_you_however_i_believe_that_i_can_arrange_away_for_you_to_enter_undetected|唉！ ！ 就 如 我 们 所 猜 想 的， 我 的 {s11}{s16}不 会 允 许 我 们 见 面， 但 我 可 以 安 排 和 你 秘 密 约 会 的 方 法。 
 str__as_my_s11_s16_has_already_granted_permission_for_you_to_see_me_i_shall_expect_your_imminent_arrival|既 然 我 的 {s11}{s16}已 经 允 许 我 们 相 见， 我 希 望 我 很 快 就 能 再 见 到 你。 
 str_visit_s3_who_was_last_at_s4s18|拜 访 {s3}， 此 人 最 近 出 现 在 {s4}{s18}
 str_the_guards_at_the_gate_have_been_ordered_to_allow_you_through_you_might_be_imagining_things_but_you_think_one_of_them_may_have_given_you_a_wink|大 门 的 守 卫 已 经 接 到 允 许 你 出 入 的 命 令， 而 且 你 看 到 其 中 一 位 守 卫 意 味 深 长 地 向 你 眨 了 眨 眼。 
-str_the_guards_glare_at_you_and_you_know_better_than_to_ask_permission_to_enter_however_as_you_walk_back_towards_your_lodgings_an_elderly_lady_dressed_in_black_approaches_you_i_am_s11s_nurse_she_whispers_urgently_don_this_dress_and_throw_the_hood_over_your_face_i_will_smuggle_you_inside_the_castle_to_meet_her_in_the_guise_of_a_skullery_maid__the_guards_will_not_look_too_carefully_but_i_beg_you_for_all_of_our_sakes_be_discrete|守 卫 怒 视 着 你， 而 你 知 道 还 是 别 去 碰 钉 子 了。 然 而， 当 你 往 回 走 向 你 的 寄 宿 处 的 时 候， 一 个 黑 衣 老 妇 人 走 近 了 你。 “我 是 {s11}的 侍 女， ” 她 快 速 低 语 道。 “穿 上 这 裙 子， 用 这 头 巾 盖 住 你 的 脸。 我 会 把 你 伪 装 成 女 帮 厨 偷 偷 带 进 这 城 堡 去 见 她— — 守 卫 不 会 看 得 很 仔 细。 但 是 我 请 求 你， 为 了 咱 们 的 好 处， 小 心 点！  
-str_the_guards_glare_at_you_and_you_know_better_than_to_ask_permission_to_enter_however_as_you_walk_back_towards_your_lodgings_an_elderly_lady_dressed_in_black_approaches_you_i_am_s11s_nurse_she_whispers_urgently_wait_for_a_while_by_the_spring_outside_the_walls_i_will_smuggle_her_ladyship_out_to_meet_you_dressed_in_the_guise_of_a_shepherdess_but_i_beg_you_for_all_of_our_sakes_be_discrete|守 卫 怒 视 着 你， 而 你 知 道 还 是 别 去 碰 钉 子 了。 然 而， 当 你 往 回 走 向 你 的 寄 宿 处 的 时 候， 一 个 黑 衣 老 妇 人 走 近 了 你。 “我 是 {s11}的 侍 女， ” 她 快 速 低 语 道。 “在 墙 外 的 泉 水 边 等 一 会 儿。 我 会 把 小 姐 阁 下 伪 装 成 牧 羊 女 偷 偷 带 出 来 见 你。 但 是 我 请 求 你， 为 了 咱 们 的 好 处， 小 心 点！  
+str_the_guards_glare_at_you_and_you_know_better_than_to_ask_permission_to_enter_however_as_you_walk_back_towards_your_lodgings_an_elderly_lady_dressed_in_black_approaches_you_i_am_s11s_nurse_she_whispers_urgently_don_this_dress_and_throw_the_hood_over_your_face_i_will_smuggle_you_inside_the_castle_to_meet_her_in_the_guise_of_a_skullery_maid__the_guards_will_not_look_too_carefully_but_i_beg_you_for_all_of_our_sakes_be_discrete|守 卫 怒 视 着 你， 而 你 知 道 还 是 别 去 碰 钉 子 了。 然 而， 当 你 往 回 走 向 你 的 寄 宿 处 的 时 候， 一 个 黑 衣 老 妇 人 走 近 了 你。 “我 是 {s11}的 侍 女， ” 她 快 速 低 语 道。 “穿 上 这 裙 子， 用 这 头 巾 盖 住 你 的 脸。 我 会 把 你 伪 装 成 女 帮 厨 偷 偷 带 进 这 城 堡 去 见 她— — 守 卫 不 会 看 得 很 仔 细。 但 是 我 请 求 你， 为 了 咱 们 的 好 处， 小 心 点！ 
+str_the_guards_glare_at_you_and_you_know_better_than_to_ask_permission_to_enter_however_as_you_walk_back_towards_your_lodgings_an_elderly_lady_dressed_in_black_approaches_you_i_am_s11s_nurse_she_whispers_urgently_wait_for_a_while_by_the_spring_outside_the_walls_i_will_smuggle_her_ladyship_out_to_meet_you_dressed_in_the_guise_of_a_shepherdess_but_i_beg_you_for_all_of_our_sakes_be_discrete|守 卫 怒 视 着 你， 而 你 知 道 还 是 别 去 碰 钉 子 了。 然 而， 当 你 往 回 走 向 你 的 寄 宿 处 的 时 候， 一 个 黑 衣 老 妇 人 走 近 了 你。 “我 是 {s11}的 侍 女， ” 她 快 速 低 语 道。 “在 墙 外 的 泉 水 边 等 一 会 儿。 我 会 把 小 姐 阁 下 伪 装 成 牧 羊 女 偷 偷 带 出 来 见 你。 但 是 我 请 求 你， 为 了 咱 们 的 好 处， 小 心 点！ 
 str_the_guards_glare_at_you_and_you_know_better_than_to_ask_permission_to_enter_however_as_you_walk_back_towards_your_lodgings_an_elderly_lady_dressed_in_black_approaches_you_i_am_s11s_nurse_she_whispers_urgently_her_ladyship_asks_me_to_say_that_yearns_to_see_you_but_that_you_should_bide_your_time_a_bit_her_ladyship_says_that_to_arrange_a_clandestine_meeting_so_soon_after_your_last_encounter_would_be_too_dangerous|守 卫 怒 视 着 你， 你 也 知 道 还 是 别 去 碰 钉 子 了。 然 而， 当 你 往 回 走 向 你 的 寄 宿 处 的 时 候， 一 个 黑 衣 老 妇 人 走 近 了 你。 “我 是 {s11}的 侍 女， ” 她 快 速 低 语 道。 “小 姐 阁 下 说 她 想 见 你， 但 是 你 得 忍 耐 一 段 时 间。 小 姐 阁 下 说 距 离 上 次 碰 面 这 么 短 的 时 间 又 安 排 一 次 秘 密 会 面 太 危 险 了。 ” 
 str_the_guards_glare_at_you_and_you_know_better_than_to_ask_permission_to_enter|守 卫 对 你 怒 目 而 视， 他 的 举 动 让 你 明 白 在 这 里 你 不 会 受 欢 迎。 
 str_party_with_commander_mismatch__check_log_for_details_|部 队 指 挥 官 匹 配 错 误— — 查 看 日 志 文 件 以 获 得 详 细 情 况 
@@ -2857,7 +2857,7 @@ str_s4_ready_to_voice_objection_to_s3s_mission_if_in_party|如 果 在 队 伍 �
 str_strange_that_one_didnt_seem_like_your_ordenary_troublemaker_he_didnt_drink_all_that_much__he_just_stood_there_quietly_and_watched_the_door_you_may_wish_to_consider_whether_you_have_any_enemies_who_know_you_are_in_town_a_pity_that_blood_had_to_be_spilled_in_my_establishment|奇 怪。 那 个 人 不 像 是 个 普 通 的 找 你 麻 烦 的。 他 喝 的 并 不 多— — 他 只 是 站 在 那 里， 安 静 地， 注 视 着 那 扇 门。 你 也 许 要 考 虑 是 否 有 敌 人 知 道 你 在 镇 子 里… … 很 遗 憾 在 我 的 地 盘 上 要 流 血 了… … 
 str_you_never_let_him_draw_his_weapon_still_it_looked_like_he_was_going_to_kill_you_take_his_sword_and_purse_i_suppose_he_was_trouble_but_its_not_good_for_an_establishment_to_get_a_name_as_a_place_where_men_are_killed|你 没 有 给 他 拔 出 武 器 的 机 会… … 他 看 起 来 确 实 是 来 刺 杀 你 的， 长 袍 下 藏 着 他 的 武 器 和 雇 主 用 来 交 换 你 性 命 的 钱 袋。 他 是 个 麻 烦， 但 是， 还 不 至 于 要 让 你 的 地 产 被 扣 上 杀 人 凶 宅 的 恶 名。 
 str_well_id_say_that_he_started_it_that_entitles_you_to_his_sword_and_purse_i_suppose_have_a_drink_on_the_house_as_i_daresay_youve_saved_a_patron_or_two_a_broken_skull_still_i_hope_he_still_has_a_pulse_its_not_good_for_an_establishment_to_get_a_name_as_a_place_where_men_are_killed|好 了… … 我 得 说 是 他 挑 起 事 端 的。 我 觉 得 你 有 权 享 有 他 的 剑 和 钱 包。 到 屋 子 里 来 喝 一 杯， 我 猜 想 你 救 了 这 里 的 一 两 个 顾 客 不 至 于 被 砍 开 脑 壳。 但 是， 我 希 望 那 个 人 还 有 脉 搏。 一 个 店 家 有 人 在 那 里 被 杀 的 名 声 可 不 好。 
-str_stop_no_shooting_no_shooting|住 手！  不 要 射 击！  不 要 射 击！  
+str_stop_no_shooting_no_shooting|住 手！ 不 要 射 击！ 不 要 射 击！ 
 str_em_ill_stay_out_of_this|呃… … 我 不 参 与 这 个。 
 str_the_s12_is_a_labyrinth_of_rivalries_and_grudges_lords_ignore_their_lieges_summons_and_many_are_ripe_to_defect|{s12}是 一 个 充 满 了 恶 意 和 争 夺 的 迷 宫， 领 主 们 将 君 主 的 召 唤 置 之 不 理， 并 且 做 好 了 随 时 改 换 门 庭 的 准 备。 
 str_the_s12_is_shaky_many_lords_do_not_cooperate_with_each_other_and_some_might_be_tempted_to_defect_to_a_liege_that_they_consider_more_worthy|{s12}十 分 脆 弱， 大 多 数 领 主 之 间 毫 无 团 结 可 言， 还 有 一 些 人 很 可 能 会 因 为 诱 惑 而 转 投 向 他 们 认 为 更 值 得 效 忠 的 君 主。 
@@ -2891,13 +2891,13 @@ str_mug_of_kvass|一 罐 淡 啤 酒
 str_cup_of_wine|一 杯 葡 萄 酒 
 str_you_intend_to_challenge_s13_to_force_him_to_retract_an_insult|你 决 定 向 {s13}提 出 挑 战 以 使 他 收 回 他 的 侮 辱。 
 str_youll_have_to_speak_to_me_at_some_other_time_then|我 们 换 个 时 间 再 讨 论 这 个 话 题 吧。 
-str_this_is_no_time_for_words|没 时 间 废 话 了！  
+str_this_is_no_time_for_words|没 时 间 废 话 了！ 
 str_of_course_my_wife|当 然， 我 的 妻 子。 
 str_perhaps_not_our_marriage_has_become_a_bit_strained_dont_you_think|我 不 这 样 认 为， 我 们 的 婚 姻 关 系 变 得 有 点 紧 张， 你 不 觉 得 吗？ 
 str_why_is_that_my_wife_actually_our_marriage_has_become_such_that_i_prefer_to_have_a_witness_for_all_of_our_converations|我 的 妻 子， 为 什 么 会 变 成 这 样 呢？ 当 然， 我 们 的 婚 姻 确 实 变 得 如 此， 以 至 于 我 选 择 找 一 个 证 人 见 证 我 们 所 有 的 谈 话。 
 str_all_right_then_what_do_you_have_to_say_out_with_it|好 吧， 除 了 这 个， 你 还 有 什 么 要 说 的 吗？ 
 str_bah__im_in_no_mood_for_whispering_in_the_corner|呸， 我 对 在 角 落 里 的 窃 窃 私 语 和 密 谋 没 有 兴 趣。 
-str_bah_i_dont_like_you_that_much_im_not_going_to_go_plot_with_you_in_some_corner|呸， 我 对 你 厌 恶 至 极， 我 才 不 会 和 你 在 阴 暗 的 角 落 讨 论 肮 脏 的 阴 谋！  
+str_bah_i_dont_like_you_that_much_im_not_going_to_go_plot_with_you_in_some_corner|呸， 我 对 你 厌 恶 至 极， 我 才 不 会 和 你 在 阴 暗 的 角 落 讨 论 肮 脏 的 阴 谋！ 
 str_well__now_what_do_you_have_to_propose|好 吧， 你 的 计 划 是 什 么？ 
 str_trying_our_hand_at_intrigue_are_we_i_think_not|我 们 要 一 起 为 这 个 阴 谋 冒 险 吗？ 我 才 不 会 呢。 
 str_hah_i_trust_you_as_a_i_would_a_serpent_i_think_not|哈 哈， 我 对 你 的 信 任 不 比 对 全 世 界 任 何 一 条 毒 蛇 更 高， 我 拒 绝。 
@@ -2925,9 +2925,9 @@ str_heh_one_thing_that_ill_say_about_s15_is_that_he_has_a_ripe_batch_of_bastards
 str_well_sometimes_i_have_to_say_that_i_question_s15s_judgment_regarding_those_who_he_keeps_in_his_court|嗯， 有 时 候 由 于 {reg15?她 :他 }留 在 身 边 的 那 些 人， 我 对 {s15}的 判 断 力 产 生 了 质 疑。 
 str_s15_is_a_weak_man_who_too_easily_lends_his_ear_to_evil_council_and_gives_his_protection_to_some_who_have_done_me_wrong|{s15}是 个 意 志 薄 弱 的 统 治 者， 他 很 容 易 相 信 那 些 邪 魔 歪 道， 并 给 予 那 些 带 给 我 痛 苦 和 伤 害 的 家 伙 们 保 护。 
 str_i_will_confess_that_sometimes_i_worry_about_s15s_judgment_particularly_in_the_matter_of_the_counsel_that_he_keeps|我 坦 白 有 时 我 对 {s15}的 判 断 力 感 到 忧 虑， 尤 其 在 {reg15?她 :他 }听 信 的 那 些 进 言 上。 
-str_what_do_i_think_i_think_that_s15_is_a_vile_pretender_a_friend_to_the_flatterer_and_the_hypocrite|我 是 怎 么 认 为 的？ 我 认 为 {s15}是 一 个 卑 劣 的 篡 权 者！  他 的 身 边 尽 是 些 谗 言 媚 上 之 徒 和 伪 君 子！  
+str_what_do_i_think_i_think_that_s15_is_a_vile_pretender_a_friend_to_the_flatterer_and_the_hypocrite|我 是 怎 么 认 为 的？ 我 认 为 {s15}是 一 个 卑 劣 的 篡 权 者！ 他 的 身 边 尽 是 些 谗 言 媚 上 之 徒 和 伪 君 子！ 
 str_well_s15_is_not_like_you_ill_say_that_much|好 吧， {s15}和 你 不 一 样， 我 不 想 多 说 了。 
-str_s15_long_may_he_live|{s15}？ 愿 {reg15?她 :他 }长 寿！  
+str_s15_long_may_he_live|{s15}？ 愿 {reg15?她 :他 }长 寿！ 
 str_he_is_my_liege_that_is_all_that_i_will_say_on_this_matter|{s15}是 我 的 君 主， 在 这 个 问 题 上 我 只 能 说 这 么 多。 
 str_that_you_are_the_rightful_heir_to_the_throne_of_calradia|你 是 卡 拉 迪 亚 王 室 正 统 的 继 承 人 吗？ 
 str_that_s14_is_the_rightful_ruler_of_calradia|{s14}是 卡 拉 迪 亚 合 法 的 统 治 者 吗？ 
@@ -2986,7 +2986,7 @@ str_however_i_have_decided_that_i_must_remain_loyal_to_s14_i_am_sorry|无 论 �
 str_however_i_will_not_let_you_lead_me_into_treason_do_not_talk_to_me_of_this_again|无 论 怎 样， 我 不 愿 听 从 你 的 怂 恿 而 去 叛 国。 别 再 跟 我 说 这 个 事 了。 
 str_its_not_good_to_get_a_reputation_as_one_who_abandons_his_liege_that_is_my_decision_let_us_speak_no_more_of_this_matter|一 个 背 叛 自 己 君 主 的 人， 很 难 有 个 好 名 声。 这 就 是 我 最 后 的 决 定。 我 们 别 再 谈 论 这 个 了。 
 str_ive_decided_to_stick_with_s14_i_dont_want_to_talk_about_this_matter_any_more|我 已 经 决 定 继 续 跟 随 {s14}了。 我 不 想 再 讨 论 这 种 事 情 了。 
-str_you_are_challenging_me_to_a_duel_how_droll_as_you_wish_playername_it_will_be_good_sport_to_bash_your_head_in|你 准 备 向 我 发 起 决 斗？ 开 什 么 玩 笑！  如 你 所 愿， {playername}， 打 爆 你 的 头 将 会 是 非 常 有 意 思 的 事 情。 
+str_you_are_challenging_me_to_a_duel_how_droll_as_you_wish_playername_it_will_be_good_sport_to_bash_your_head_in|你 准 备 向 我 发 起 决 斗？ 开 什 么 玩 笑！ 如 你 所 愿， {playername}， 打 爆 你 的 头 将 会 是 非 常 有 意 思 的 事 情。 
 str_call_me_coward_very_well_you_leave_me_no_choice|说 我 是 懦 夫？ 很 好， 你 让 我 别 无 选 择。 
 str_reg3_hours|{reg3}小 时。 
 str_hour|小 时。 
@@ -3031,7 +3031,7 @@ str_s9_asked_you_to_attack_a_village_or_some_caravans_as_to_provoke_a_war_with_s
 str_s9_asked_you_to_catch_the_three_groups_of_runaway_serfs_and_bring_them_back_to_s4_alive_and_breathing_he_said_that_all_three_groups_are_heading_towards_s3|{s9}要 你 抓 捕 三 群 逃 跑 的 农 奴 到 {s4}。 他 说 那 三 群 农 奴 一 定 是 朝 着 {s3}的 方 向 逃 跑 的。 
 str_you_intend_to_bring_goods_to_s9_in_preparation_for_the_feast_which_will_be_held_as_soon_as_conditions_permit|你 打 算 把 货 物 带 去 {s9}， 用 以 准 备 宴 会。 一 旦 条 件 允 许， 宴 会 就 会 马 上 举 行。 
 str_hello_playername|你 好， {playername} 
-str_ah_my_gentle_playername_how_much_good_it_does_my_heart_to_see_you_again|能 再 见 到 你， 我 的 心 里 是 多 么 的 高 兴 啊！  有 时 候， 我 都 觉 得 冥 冥 中 有 无 形 的 羁 绊 把 我 们 相 连。 
+str_ah_my_gentle_playername_how_much_good_it_does_my_heart_to_see_you_again|能 再 见 到 你， 我 的 心 里 是 多 么 的 高 兴 啊！ 有 时 候， 我 都 觉 得 冥 冥 中 有 无 形 的 羁 绊 把 我 们 相 连。 
 str_playername__i_am_so_glad_to_see_you_again_i_must_say_i_do_envy_your_freedom_to_ride_out_and_experience_the_world|不 得 不 说， 我 真 羡 慕 你 能 在 外 面 自 由 驰 骋， 尽 情 体 验 这 个 世 界。 
 str_playername__i_am_so_glad_to_see_you_i_trust_that_you_have_been_behaving_honorably_since_last_we_met|我 相 信 自 从 我 们 上 一 次 见 面 之 后， 你 的 举 止 已 经 非 常 令 人 尊 敬 了。 
 str_playername__i_am_so_glad_that_you_were_able_to_come|真 高 兴 你 能 来。 
@@ -3043,7 +3043,7 @@ str_although_it_is_kind_of_you_to_pay_me_such_attentions_i_suspect_that_you_migh
 str_as_flattered_as_i_am_by_your_attentions_perhaps_you_should_seek_out_another_lady_of_somewhat_shall_we_say_different_tastes|受 到 你 如 此 的 青 睐 是 我 的 荣 幸， 不 过 你 可 能 得 去 寻 找 另 外 一 位… 这 么 说 吧… 一 位 有 不 同 品 味 的 女 士。 
 str_as_flattered_as_i_am_by_your_attentions_i_am_a_daughter_of_good_family_and_must_be_aware_of_my_reputation_it_is_not_seemly_that_i_converse_too_much_at_one_time_with_one_man_i_am_sure_you_understand_now_if_you_will_excuse_me|受 到 你 的 青 睐 很 是 荣 幸， 不 过 我 出 身 名 门， 所 以 必 须 注 意 自 己 的 声 誉。 跟 一 个 男 人 交 谈 太 久 是 不 合 礼 数 的。 我 知 道 你 能 理 解 的。 现 在 我 只 能 说， 很 抱 歉… 
 str_very_well__i_will_let_you_choose_the_time|很 好， 时 间 由 你 来 定。 
-str_good_i_am_glad_that_you_have_abandoned_the_notion_of_pushing_me_into_marriage_before_i_was_ready|好！  我 很 高 兴， 你 放 弃 了 那 个 在 我 准 备 好 之 前 就 把 我 推 向 婚 姻 的 念 头。 
+str_good_i_am_glad_that_you_have_abandoned_the_notion_of_pushing_me_into_marriage_before_i_was_ready|好！ 我 很 高 兴， 你 放 弃 了 那 个 在 我 准 备 好 之 前 就 把 我 推 向 婚 姻 的 念 头。 
 str_i_am|我 是 
 str_s12_s11_to_s14|{s12}{s14}的 {s11}
 str_s12_i_am_here_for_the_feast|{s12}。 我 在 这 里 参 加 宴 会。 
@@ -3054,12 +3054,12 @@ str_why_thank_you_you_are_most_kind_to_do_so|是 吗， 谢 谢 你。 你 能 �
 str_you_are_most_courteous_and_courtesy_is_a_fine_virtue_|你 太 客 气 了， 谦 恭 有 礼 真 是 一 种 美 德。 
 str_hmm_youre_a_bold_one_but_i_like_that_|嗯， 你 是 个 鲁 莽 大 胆 的 家 伙， 不 过 我 喜 欢。 
 str_ah_well_they_all_say_that_but_no_matter_a_compliment_well_delivered_is_at_least_a_good_start_|呃， 好 吧， 他 们 都 这 么 说。 不 过 没 关 系。 明 确 的 恭 维 最 起 码 是 个 好 的 开 始。 
-str_oh_do_you_mean_that_such_a_kind_thing_to_say|噢！  你 真 是 那 个 意 思？ 你 能 这 么 说 真 是 太 好 了。 
+str_oh_do_you_mean_that_such_a_kind_thing_to_say|噢！ 你 真 是 那 个 意 思？ 你 能 这 么 说 真 是 太 好 了。 
 str_you_are_a_most_gallant_young_man_|你 是 最 会 献 殷 勤 的 一 个。 
 str__do_come_and_see_me_again_soon|请 一 定 尽 快 来 看 我。 
 str_you_intend_to_ask_s12_for_permission_to_marry_s15|你 打 算 就 与 {s15}成 婚 一 事， 征 求 {s12}的 同 意。 
 str_you_intend_to_ask_s12_to_pressure_s10_to_marry_you|你 打 算 请 求 {s12}帮 忙 劝 说 {s10}与 你 成 婚。 
-str_do_be_careful_i_am_so_much_endebted_to_you_for_this|请 务 必 小 心！  在 这 件 事 情 上， 我 真 的 非 常 感 激 你… 
+str_do_be_careful_i_am_so_much_endebted_to_you_for_this|请 务 必 小 心！ 在 这 件 事 情 上， 我 真 的 非 常 感 激 你… 
 str_go_then__we_shall_see_which_of_you_triumphs|去 吧， 那 么， 让 我 们 看 看 你 们 当 中 谁 会 成 功… 
 str_sigh_i_will_never_truly_understand_men_and_their_rash_actions|唉… 我 永 远 不 能 真 正 理 解 男 人， 以 及 他 们 鲁 莽 的 行 为… 
 str_you_intend_to_challenge_s13_to_force_him_to_relinquish_his_suit_of_s11|你 打 算 挑 战 {s13}， 强 迫 他 放 弃 对 {s11}的 求 婚。 
@@ -3087,10 +3087,10 @@ str_castle|城 堡
 str__but_he_is_holding_there_as_a_prisoner_at_dungeon_of_s13|但 是 {reg4?她 :他 }现 在 正 作 为 囚 犯 被 扣 押 在 {s13}的 地 牢 里。 
 str_they_say_that_s9_is_a_most_conventional_maiden__devoted_to_her_family_of_a_kind_and_gentle_temperament_a_lady_in_all_her_way|据 说 {s9}是 一 个 相 当 保 守 而 传 统 的 未 婚 女 子， 忠 实 地 为 家 族 奉 献， 性 格 友 善， 气 质 温 柔， 始 终 如 一。 
 str_they_say_that_s9_is_a_bit_of_a_romantic_a_dreamer__of_a_gentle_temperament_yet_unpredictable_she_is_likely_to_be_led_by_her_passions_and_will_be_trouble_for_her_family_ill_wager|据 说 {s9}是 个 有 点 感 性 而 喜 欢 幻 想 的 人， 气 质 温 柔， 然 而 又 让 人 捉 摸 不 定。 她 很 容 易 受 到 自 己 热 情 的 驱 使， 我 敢 打 赌， 这 会 给 她 的 家 族 带 来 麻 烦。 
-str_they_say_that_s9_is_determined_to_marry_well_and_make_her_mark_in_the_world_she_may_be_a_tremendous_asset_for_her_husband__provided_he_can_satisfy_her_ambition|据 说 {s9}下 决 心 一 定 要 嫁 得 很 好， 并 且 让 自 己 名 满 天 下。 她 也 许 会 是 她 丈 夫 的 一 笔 巨 大 财 富， 不 过 前 提 是 丈 夫 要 能 满 足 她 的 野 心！  
-str_they_say_that_s9_loves_to_hunt_and_ride_maybe_she_wishes_she_were_a_man_whoever_she_marries_will_have_a_tough_job_keeping_the_upper_hand_i_would_say|据 说 {s9}喜 欢 骑 马 打 猎。 也 许 她 希 望 自 己 是 个 男 人 吧！  谁 要 是 娶 了 她， 就 得 花 大 力 气 管 住 她， 反 正 我 是 这 么 认 为 的。 
+str_they_say_that_s9_is_determined_to_marry_well_and_make_her_mark_in_the_world_she_may_be_a_tremendous_asset_for_her_husband__provided_he_can_satisfy_her_ambition|据 说 {s9}下 决 心 一 定 要 嫁 得 很 好， 并 且 让 自 己 名 满 天 下。 她 也 许 会 是 她 丈 夫 的 一 笔 巨 大 财 富， 不 过 前 提 是 丈 夫 要 能 满 足 她 的 野 心！ 
+str_they_say_that_s9_loves_to_hunt_and_ride_maybe_she_wishes_she_were_a_man_whoever_she_marries_will_have_a_tough_job_keeping_the_upper_hand_i_would_say|据 说 {s9}喜 欢 骑 马 打 猎。 也 许 她 希 望 自 己 是 个 男 人 吧！ 谁 要 是 娶 了 她， 就 得 花 大 力 气 管 住 她， 反 正 我 是 这 么 认 为 的。 
 str_they_say_that_s9_is_a_lady_of_the_highest_moral_standards_very_admirable_very_admirable__and_very_hard_to_please_ill_warrant|据 说 {s9}是 一 个 有 着 很 高 的 道 德 标 准 的 女 士。 令 人 钦 佩， 非 常 令 人 钦 佩， 同 时 也 非 常 难 以 取 悦， 我 保 证。 
-str_s9_is_now_betrothed_to_s11_soon_we_believe_there_shall_be_a_wedding|{s9}如 今 和 {s11}订 婚 了。 我 们 相 信 不 久 这 里 将 会 有 一 场 婚 礼！  
+str_s9_is_now_betrothed_to_s11_soon_we_believe_there_shall_be_a_wedding|{s9}如 今 和 {s11}订 婚 了。 我 们 相 信 不 久 这 里 将 会 有 一 场 婚 礼！ 
 str_i_have_not_heard_any_news_about_her|我 还 没 听 到 关 于 她 的 任 何 消 息。 
 str_they_say_that_s9_has_shown_favor_to_s11_perhaps_it_will_not_be_long_until_they_are_betrothed__if_her_family_permits|据 说 {s9}已 经 对 {s11}表 示 过 好 感。 也 许 不 久 之 后 他 们 就 会 订 婚， 如 果 她 的 家 族 允 许 的 话。 
 str_they_say_that_s9_has_been_forced_by_her_family_into_betrothal_with_s11|据 说 {s9}的 家 族 已 经 强 迫 她 与 {s11}订 婚 了。 
@@ -3101,7 +3101,7 @@ str_they_say_that_s11_has_tired_of_pursuing_s9|据 说 {s11}已 经 对 追 求 
 str_they_say_that_s9s_family_has_forced_her_to_renounce_s11_whom_she_much_loved|据 说 {s9}受 家 族 所 迫， 与 深 爱 的 {s11}分 手 了。 
 str_they_say_that_s9_has_run_away_with_s11_causing_her_family_much_grievance|据 说 {s9}跟 {s11}私 奔 了， 这 让 她 的 家 族 非 常 不 满。 
 str_they_say_that_s9_and_s11_have_wed|据 说 {s9}和 {s11}已 经 结 婚 了。 
-str_they_say_that_s9_was_recently_visited_by_s11_who_knows_where_that_might_lead|据 说 {s11}最 近 拜 访 了 {s9}。 谁 知 道 接 下 来 会 怎 样！  
+str_they_say_that_s9_was_recently_visited_by_s11_who_knows_where_that_might_lead|据 说 {s11}最 近 拜 访 了 {s9}。 谁 知 道 接 下 来 会 怎 样！ 
 str_there_is_not_much_to_tell_but_it_is_still_early_in_the_season|没 什 么 可 说 的， 不 过 现 在 离 本 季 结 束 还 早。 
 str_s12there_is_a_feast_of_the_s3_in_progress_at_s4_but_it_has_been_going_on_for_a_couple_of_days_and_is_about_to_end_|{s12}有 一 场 {s3}举 办 的 宴 会 正 在 {s4}进 行， 不 过 已 经 持 续 了 好 几 天， 现 在 快 要 结 束 了。 
 str_s12there_is_a_feast_of_the_s3_in_progress_at_s4_which_should_last_for_at_least_another_day_|{s12}有 一 场 {s3}举 办 的 宴 会 正 在 {s4}进 行， 而 且 至 少 将 持 续 到 明 天。 
@@ -3324,10 +3324,10 @@ str_tutorial_training_ground_warning_shield|你 首 先 要 收 起 你 的 盾 
 str_tutorial_training_ground_warning_melee_with_parry|在 这 个 练 习 里 你 需 要 掌 握 近 战 武 器。 
 str_tutorial_training_ground_warning_melee|上 转 你 的 鼠 标 滚 轮 来 取 出 一 件 武 器。 上 转 滚 轮 可 以 取 出 你 所 装 备 的 下 一 件 武 器 而 下 转 滚 轮 取 出 你 所 装 备 的 下 一 件 盾 牌。 
 str_tutorial_training_ground_attack_training|成 功 攻 击 次 数 ： {reg0}/5^ 失 败 攻 击 次 数 ： {reg1}^{s0}
-str_tutorial_training_ground_attack_training_down|进 行 戳 刺 攻 击！  （按 下 鼠 标 左 键 并 向 下 移 动 你 的 鼠 标） 
-str_tutorial_training_ground_attack_training_up|进 行 上 劈 攻 击！  （按 下 鼠 标 左 键 并 向 上 移 动 你 的 鼠 标） 
-str_tutorial_training_ground_attack_training_left|左 砍 攻 击！  （按 下 鼠 标 左 键 并 向 左 移 动 你 的 鼠 标） 
-str_tutorial_training_ground_attack_training_right|右 砍 攻 击！  （按 下 鼠 标 左 键 并 向 右 移 动 你 的 鼠 标） 
+str_tutorial_training_ground_attack_training_down|进 行 戳 刺 攻 击！ （按 下 鼠 标 左 键 并 向 下 移 动 你 的 鼠 标） 
+str_tutorial_training_ground_attack_training_up|进 行 上 劈 攻 击！ （按 下 鼠 标 左 键 并 向 上 移 动 你 的 鼠 标） 
+str_tutorial_training_ground_attack_training_left|左 砍 攻 击！ （按 下 鼠 标 左 键 并 向 左 移 动 你 的 鼠 标） 
+str_tutorial_training_ground_attack_training_right|右 砍 攻 击！ （按 下 鼠 标 左 键 并 向 右 移 动 你 的 鼠 标） 
 str_tutorial_training_ground_parry_training|成 功 躲 避 次 数 ： {reg0}/5 
 str_tutorial_training_ground_chamber_training|成 功 格 挡 次 数 ： {reg0}/5 
 str_tutorial_training_ground_archer_training|准 确 射 击 次 数 ： {reg0}/3^{s0}
@@ -3340,15 +3340,15 @@ str_tutorial_training_ground_archer_text_5|你 已 击 中 了 所 有 目 标�
 str_tutorial_training_ground_horseman_text_1|走 近 {s0}然 后 按 下 F 键 捡 起 它。 
 str_tutorial_training_ground_horseman_text_2|靠 近 马 匹 然 后 按 F 键 骑 马。 
 str_tutorial_training_ground_horseman_text_3|骑 向 下 一 个 中 点。 
-str_tutorial_training_ground_horseman_text_4|击 打 下 一 个 上 面 有 箭 头 的 假 人！  
-str_tutorial_training_ground_horseman_text_5|射 击 上 面 有 箭 头 的 箭 靶！  
+str_tutorial_training_ground_horseman_text_4|击 打 下 一 个 上 面 有 箭 头 的 假 人！ 
+str_tutorial_training_ground_horseman_text_5|射 击 上 面 有 箭 头 的 箭 靶！ 
 str_tutorial_training_ground_horseman_text_6|你 成 功 地 完 成 了 练 习。 现 在 回 到 教 练 那 儿 去 和 他 谈 谈。 
 str_the_great_lords_of_your_kingdom_plan_to_gather_at_your_hall_in_s10_for_a_feast|你 王 国 的 大 领 主 们 准 备 聚 集 在 你 {s10}的 大 厅 里 举 行 宴 会 
 str_your_previous_court_some_time_ago|你 之 前 的 求 爱 过 了 一 段 时 间， 
 str_awaiting_the_capture_of_a_fortress_which_can_serve_as_your_court|等 待 夺 回 一 座 要 塞 作 为 你 的 宫 殿。 
 str_but_if_this_goes_badly|我 会 重 视 你 的 建 议。 但 如 果 搞 砸 了， 我 要 追 究 你 的 责 任。 
 str_i_realize_that_you_are_on_good_terms_with_s4_but_we_ask_you_to_do_this_for_the_good_of_the_realm|我 了 解 你 和 {s4}关 系 很 好， 但 这 都 是 为 了 国 家 的 利 益 
-str_i_realize_that_you_are_on_good_terms_with_s4_but_the_blow_will_hurt_him_more|我 了 解 你 和 {s4}关 系 很 好— — 但 这 仅 仅 意 味 着 你 对 他 的 打 击 将 更 大！  
+str_i_realize_that_you_are_on_good_terms_with_s4_but_the_blow_will_hurt_him_more|我 了 解 你 和 {s4}关 系 很 好— — 但 这 仅 仅 意 味 着 你 对 他 的 打 击 将 更 大！ 
 str_killed_bandit_at_alley_fight|这 个 商 人 带 你 进 入 了 他 的 房 子。 刚 一 进 去， 他 就 倚 在 门 边， 朝 着 街 道 望 了 一 阵 子。 在 确 认 没 有 被 人 跟 踪 之 后， 他 走 近 你， 说 道… … 
 str_wounded_by_bandit_at_alley_fight|你 被 击 倒 了。 可 是， 在 你 失 去 知 觉 之 前， 你 听 到 喊 叫 声 和 奔 跑 的 脚 步 声… … 你 醒 过 来 发 现 自 己 在 室 内， 虚 弱 但 还 活 着。 
 str_cannot_leave_now|现 在 不 能 离 开。 
@@ -3378,12 +3378,12 @@ str_before_going_offensive_we_should_protect_our_lands_if_there_is_any_threat_so
 str_are_you_all_right|现 在… … 让 我 给 你 说 说 我 的 麻 烦 事 儿 
 str_you_are_awake|哈— — 你 太 弱 了。 看 到 你 还 能 走 路 真 是 太 好 了。 你 真 走 运 我 们 还 能 接 着 前 进。 我 那 时 正 在 和 哨 兵 说 话， 一 听 到 打 斗 声 就 跑 过 来 看 发 生 了 什 么。 我 们 没 能 及 时 赶 到 让 你 不 被 打 倒， 但 是 我 们 也 许 救 了 你 的 性 命… … 现 在… … 也 许 你 能 帮 助 我… … 
 str_save_town_from_bandits|从 强 盗 手 中 救 回 {s9}。 
-str_you_fought_well_at_town_fight_survived|哈！  干 得 好！  我 看 见 你 至 少 干 掉 了 三 个 敌 人。 保 持 这 样 的 表 现， 继 续 战 斗 下 去， 你 一 定 会 在 这 片 大 陆 上 扬 名 立 万 的。 
-str_you_fought_normal_at_town_fight_survived|干 得 好！  我 听 说 你 干 掉 了 一 两 个 混 蛋， 而 自 己 却 毫 发 无 伤。 对 于 一 场 战 斗 来 说， 没 有 什 么 比 这 样 的 结 果 更 好 了… … 
+str_you_fought_well_at_town_fight_survived|哈！ 干 得 好！ 我 看 见 你 至 少 干 掉 了 三 个 敌 人。 保 持 这 样 的 表 现， 继 续 战 斗 下 去， 你 一 定 会 在 这 片 大 陆 上 扬 名 立 万 的。 
+str_you_fought_normal_at_town_fight_survived|干 得 好！ 我 听 说 你 干 掉 了 一 两 个 混 蛋， 而 自 己 却 毫 发 无 伤。 对 于 一 场 战 斗 来 说， 没 有 什 么 比 这 样 的 结 果 更 好 了… … 
 str_you_fought_bad_at_town_fight_survived|嗯， 敌 人 一 命 归 天， 而 你 看 上 去 没 什 么 问 题。 当 你 考 虑 了 所 有 情 况 之 后， 这 才 是 战 斗 最 重 要 的 结 果。 
-str_you_fought_well_at_town_fight|啊！  你 醒 了。 你 被 狠 狠 地 打 了 一 下， 看， 打 在 了 这 个 部 位。 不 过 我 还 有 个 好 消 息， 我 们 击 败 他 们 了。 虽 然 你 倒 下 了， 可 在 此 之 前， 你 确 实 给 了 他 们 沉 重 的 打 击。 要 是 你 没 能 活 过 来， 那 一 切 就 太 糟 糕 了。 我 很 感 激 你… … 
-str_you_wounded_at_town_fight|啊！  你 活 过 来 了。 这 下 我 们 能 宽 慰 一 点 了。 你 被 狠 狠 地 打 了 一 下， 看， 打 在 了 这 个 部 位。 我 不 知 道 你 到 底 干 掉 了 几 个 敌 人， 不 过 谢 天 谢 地， 其 余 的 人 最 终 把 他 们 打 败 了。 我 们 得 为 你 安 排 进 一 步 的 治 疗… … 
-str_you_fought_well_at_town_fight_survived_answer|让 所 有 恶 人 都 为 {playername} 之 名 而 战 栗 吧！  
+str_you_fought_well_at_town_fight|啊！ 你 醒 了。 你 被 狠 狠 地 打 了 一 下， 看， 打 在 了 这 个 部 位。 不 过 我 还 有 个 好 消 息， 我 们 击 败 他 们 了。 虽 然 你 倒 下 了， 可 在 此 之 前， 你 确 实 给 了 他 们 沉 重 的 打 击。 要 是 你 没 能 活 过 来， 那 一 切 就 太 糟 糕 了。 我 很 感 激 你… … 
+str_you_wounded_at_town_fight|啊！ 你 活 过 来 了。 这 下 我 们 能 宽 慰 一 点 了。 你 被 狠 狠 地 打 了 一 下， 看， 打 在 了 这 个 部 位。 我 不 知 道 你 到 底 干 掉 了 几 个 敌 人， 不 过 谢 天 谢 地， 其 余 的 人 最 终 把 他 们 打 败 了。 我 们 得 为 你 安 排 进 一 步 的 治 疗… … 
+str_you_fought_well_at_town_fight_survived_answer|让 所 有 恶 人 都 为 {playername} 之 名 而 战 栗 吧！ 
 str_you_fought_normal_at_town_fight_survived_answer|啊， 好 吧， 我 所 做 的 其 实 很 有 限， 能 够 跟 其 他 人 在 一 起 让 我 觉 得 很 自 豪。 
 str_you_fought_bad_at_town_fight_survived_answer|嗯， 我 正 准 备 干 掉 一 个 家 伙， 就 滑 倒 在 血 水 里 了， 你 懂 的… … 
 str_you_fought_well_at_town_fight_answer|啊， 好 吧。 我 想 我 不 会 介 意 因 为 正 当 理 由 而 挨 上 的 一 击。 
@@ -3467,7 +3467,7 @@ str_s0_offers_a_duel_with_you|{s0} 发 送 了 一 次 决 斗 邀 请 给 你�
 str_your_duel_with_s0_is_cancelled|你 和 {s0} 的 决 斗 已 取 消。 
 str_a_duel_between_you_and_s0_will_start_in_3_seconds|你 和 {s0} 的 决 斗 将 在 三 秒 钟 内 开 始。 
 str_you_have_lost_a_duel|你 输 掉 了 决 斗。 
-str_you_have_won_a_duel|你 在 决 斗 中 获 胜！  
+str_you_have_won_a_duel|你 在 决 斗 中 获 胜！ 
 str_server_s0|[ 服 务 器 ]： {s0}
 str_disallow_ranged_weapons|禁 止 远 程 武 器 
 str_ranged_weapons_are_disallowed|远 程 武 器 被 禁 止。 
