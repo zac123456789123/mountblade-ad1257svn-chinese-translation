@@ -1159,16 +1159,16 @@ trp_npc14|卡 尔
 trp_npc14_pl|卡 尔 
 trp_npc15|伊 米 克 
 trp_npc15_pl|伊 米 克 
-trp_npc16|玛 蒂 奥 
-trp_npc16_pl|玛 蒂 奥 
+trp_npc16|马 蒂 奥 
+trp_npc16_pl|马 蒂 奥 
 trp_npc17|豪 梅 
 trp_npc17_pl|豪 梅 
 trp_npc18|费 尔 南 多 
 trp_npc18_pl|费 尔 南 多 
 trp_npc20|伊 斯 迈 尔 
 trp_npc20_pl|伊 斯 迈 尔 
-trp_npc22|阿 历 克 西 奥 斯 
-trp_npc22_pl|阿 历 克 西 奥 斯 
+trp_npc22|亚 历 克 西 乌 斯 
+trp_npc22_pl|亚 历 克 西 乌 斯 
 trp_npc23|于 格 
 trp_npc23_pl|于 格 
 trp_npc24|代 戈 
@@ -1633,10 +1633,10 @@ trp_knight_12_8|道 格 拉 斯 领 主，威 廉“长 腿”
 trp_knight_12_8_pl|威 廉“长 腿” 
 trp_knight_12_9|Uilleam I mac Ferchar, Mormaer of Ross{***}
 trp_knight_12_9_pl|Uilleam I mac Ferchar{***}
-trp_knight_12_10|Patrick III, Earl of Dunbar{***}
-trp_knight_12_10_pl|Patrick III{***}
-trp_knight_13_1|Finghen mac Carthaigh, King of Desmond{***}
-trp_knight_13_1_pl|Finghen mac Carthaigh{***}
+trp_knight_12_10|邓 巴 伯 爵，帕 特 里 克 三 世 
+trp_knight_12_10_pl|帕 特 里 克 三 世 
+trp_knight_13_1|戴 斯 蒙 德 国 王，芬 亨· 麦 克· 卡 尔 泰 
+trp_knight_13_1_pl|芬 亨· 麦 克· 卡 尔 泰 
 trp_knight_13_2|Conchobar Na Suidaine mac Donnchada, King of Thomond{***}
 trp_knight_13_2_pl|Conchobar Na Suidaine mac Donnchada{***}
 trp_knight_13_3|Tadhg O'Brien, Prince of Thomond{***}
@@ -1865,32 +1865,32 @@ trp_knight_22_14|基 奥 格 斯· 阿 迦 隆 将 军
 trp_knight_22_14_pl|基 奥 格 斯· 阿 迦 隆 
 trp_knight_22_15|尼 科 拉 奥 斯· 阿 普 里 诺 斯 将 军 
 trp_knight_22_15_pl|尼 科 拉 奥 斯· 阿 普 里 诺 斯 
-trp_knight_23_1|Guillaume de Chateauneuf, Grandmaster of the Knights Hospitaller{***}
-trp_knight_23_1_pl|Guillaume de Chateauneuf{***}
-trp_knight_23_2|Thomas Bérard, Grandmaster of the Knights Templar{***}
-trp_knight_23_2_pl|Thomas Bérard{***}
-trp_knight_23_3|Bohemond VI of Antioch{***}
-trp_knight_23_3_pl|Bohemond VI{***}
+trp_knight_23_1|医 院 骑 士 团 大 团 长，查 特 尼 弗 的 吉 尔 多 姆 一 世 
+trp_knight_23_1_pl|查 特 尼 弗 的 吉 尔 多 姆 一 世 
+trp_knight_23_2|圣 殿 骑 士 团 大 团 长，托 马 斯· 贝 拉 尔 
+trp_knight_23_2_pl|托 马 斯· 贝 拉 尔 
+trp_knight_23_3|安 提 阿 的 博 希 蒙 德 六 世 
+trp_knight_23_3_pl|博 希 蒙 德 六 世 
 trp_knight_23_4|塞 浦 路 斯 国 王，吕 西 尼 昂 的 于 格 二 世 
 trp_knight_23_4_pl|吕 西 尼 昂 的 于 格 二 世 
-trp_knight_23_5|John d'Aleman, Lord of Caesarea{***}
-trp_knight_23_5_pl|John d'Aleman{***}
+trp_knight_23_5|凯 撒 里 亚 领 主，阿 莱 曼 的 约 翰 
+trp_knight_23_5_pl|阿 莱 曼 的 约 翰 
 trp_knight_23_6|条 顿 骑 士 团 大 团 长，桑 格 豪 森 的 安 诺 
 trp_knight_23_6_pl|桑 格 豪 森 的 安 诺 
-trp_knight_23_7|Baldwin of Ibelin, Seneschal of Cyprus{***}
-trp_knight_23_7_pl|Baldwin of Ibelin{***}
-trp_knight_23_8|Geoffrey de Sargines, Marechal de Jerusalem{***}
-trp_knight_23_8_pl|Geoffrey de Sargines{***}
+trp_knight_23_7|塞 浦 路 斯 王 室 总 管，伊 贝 林 的 鲍 德 温 
+trp_knight_23_7_pl|伊 贝 林 的 鲍 德 温 
+trp_knight_23_8|耶 路 撒 冷 元 帅，萨 日 讷 的 乔 弗 瓦 
+trp_knight_23_8_pl|萨 日 讷 的 乔 弗 瓦 
 trp_knight_23_9|奇 里 乞 亚 的 利 昂 二 世 
 trp_knight_23_9_pl|奇 里 乞 亚 的 利 昂 二 世 
 trp_knight_23_10|Thoros of Cilicia{***}
 trp_knight_23_10_pl|Thoros of Cilicia{***}
-trp_knight_23_11|Gilles d'Estrain{***}
-trp_knight_23_11_pl|Gilles d'Estrain{***}
+trp_knight_23_11|埃 斯 特 朗 的 吉 尔 
+trp_knight_23_11_pl|埃 斯 特 朗 的 吉 尔 
 trp_knight_23_12|Guy II Embriaco of Gibelet, Lord of Gibelet{***}
 trp_knight_23_12_pl|Guy II Embriaco of Gibelet{***}
-trp_knight_23_13|Philip de Montfort, Lord of Tyre{***}
-trp_knight_23_13_pl|Philip de Montfort{***}
+trp_knight_23_13|Philip de Montfort, Lord of Tyre{***}蒙 福 尔 的 腓 力 
+trp_knight_23_13_pl|蒙 福 尔 的 腓 力 
 trp_knight_23_14|Julian Grenier, Count of Sidon{***}
 trp_knight_23_14_pl|Julian Grenier{***}
 trp_knight_23_15|Simon Mancel, Constable of Antioch{***}
@@ -2589,8 +2589,8 @@ trp_kingdom_15_lady_5|Lady Larissa{***}
 trp_kingdom_15_lady_5_pl|Larissa{***}
 trp_kingdom_15_lady_6|Lady Ludmila{***}
 trp_kingdom_15_lady_6_pl|Ludmila{***}
-trp_kingdom_15_lady_7|Lady Natasha{***}
-trp_kingdom_15_lady_7_pl|Natasha{***}
+trp_kingdom_15_lady_7|娜 塔 莎 女 士 
+trp_kingdom_15_lady_7_pl|娜 塔 莎 
 trp_kingdom_15_lady_8|Lady Svetlana{***}
 trp_kingdom_15_lady_8_pl|Svetlana{***}
 trp_kingdom_15_lady_9|Lady Tatyana{***}
