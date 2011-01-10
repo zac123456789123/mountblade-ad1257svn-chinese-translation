@@ -85,7 +85,7 @@ trp_mercenary_medium_cavalry_pl|雇 佣 枪 骑 兵
 trp_mercenary_squire|将 领 卫 队 
 trp_mercenary_squire_pl|将 领 卫 队 
 trp_mercenary_knight|游 侠 
-trp_mercenary_knight_pl|游 侠
+trp_mercenary_knight_pl|游 侠 
 trp_merc_sicily_foot_archer_1|西 西 里 雇 佣 弓 箭 手 
 trp_merc_sicily_foot_archer_1_pl|西 西 里 雇 佣 弓 箭 手 
 trp_merc_sicily_foot_archer_2|西 西 里 穆 斯 林 弓 箭 手 
@@ -299,9 +299,9 @@ trp_balkan_vil_1_pl|巴 尔 干 征 召 民 兵
 trp_balkan_vil_2_1|巴 尔 干 征 召 平 民 弓 箭 手 
 trp_balkan_vil_2_1_pl|巴 尔 干 征 召 平 民 弓 箭 手
 trp_balkan_vil_3_1|巴 尔 干 征 召 弓 箭 手
-trp_balkan_vil_3_1_pl|巴 尔 干 征 召 弓 箭 手
+trp_balkan_vil_3_1_pl|巴 尔 干 征 召 弓 箭 手 
 trp_balkan_vil_4_1|巴 尔 干 征 召 熟 练 弓 箭 手 
-trp_balkan_vil_4_1_pl|巴 尔 干 征 召 熟 练 弓 箭 手
+trp_balkan_vil_4_1_pl|巴 尔 干 征 召 熟 练 弓 箭 手 
 trp_balkan_vil_2_2|巴 尔 干 征 召 步 兵 
 trp_balkan_vil_2_2_pl|巴 尔 干 征 召 步 兵 
 trp_balkan_vil_3_2_1|巴 尔 干 戟 兵 
@@ -341,7 +341,7 @@ trp_rus_vil_1_pl|罗 斯 征 召 农 奴
 trp_rus_vil_2_1|罗 斯 民 兵 
 trp_rus_vil_2_1_pl|罗 斯 民 兵 
 trp_rus_vil_3_1|罗 斯 青 年 战 士 
-trp_rus_vil_3_1_pl|罗 斯 青 年 战 士
+trp_rus_vil_3_1_pl|罗 斯 青 年 战 士 
 trp_rus_vil_4_1|罗 斯 长 斧 战 士 
 trp_rus_vil_4_1_pl|罗 斯 长 斧 战 士 
 trp_rus_vil_2_2|罗 斯 猎 人 
@@ -452,10 +452,10 @@ trp_balt_medium_cavalry|波 罗 的 海 贵 族 枪 骑 兵
 trp_balt_medium_cavalry_pl|波 罗 的 海 贵 族 枪 骑 兵 
 trp_balt_noble_1|波 罗 的 海 贵 族 步 兵 
 trp_balt_noble_1_pl|波 罗 的 海 贵 族 步 兵 
-trp_balt_noble_2|波 罗 的 海 贵 族 重 步 兵
+trp_balt_noble_2|波 罗 的 海 贵 族 重 步 兵 
 trp_balt_noble_2_pl|波 罗 的 海 贵 族 重 步 兵 
 trp_balt_noble_3|波 罗 的 海 公 爵 亲 卫 
-trp_balt_noble_3_pl|波 罗 的 海 公 爵 亲 卫
+trp_balt_noble_3_pl|波 罗 的 海 公 爵 亲 卫 
 trp_crusader_turkopole|雇 佣 游 牧 骑 手 
 trp_crusader_turkopole_pl|雇 佣 游 牧 骑 手 
 trp_templar_crossbows_sergeant|圣 殿 骑 士 团 重 弩 兵 
@@ -468,24 +468,24 @@ trp_templar_half_brother|圣 殿 骑 士 侍 从
 trp_templar_half_brother_pl|圣 殿 骑 士 侍 从 
 trp_templar_knight|圣 殿 骑 士 
 trp_templar_knight_pl|圣 殿 骑 士 
-trp_templar_deserter|圣 殿 逃 兵 
-trp_templar_deserter_pl|圣 殿 逃 兵 
-trp_templar_prison_guard|圣 殿 监 狱 看 守 
-trp_templar_prison_guard_pl|圣 殿 监 狱 看 守 
-trp_templar_castle_guard|圣 殿 城 堡 守 卫 
-trp_templar_castle_guard_pl|圣 殿 城 堡 守 卫 
+trp_templar_deserter|圣 殿 骑 士 团 逃 兵 
+trp_templar_deserter_pl|圣 殿 骑 士 团 逃 兵 
+trp_templar_prison_guard|圣 殿 骑 士 团 监 狱 看 守 
+trp_templar_prison_guard_pl|圣 殿 骑 士 团 监 狱 看 守 
+trp_templar_castle_guard|圣 殿 骑 士 团 城 堡 守 卫 
+trp_templar_castle_guard_pl|圣 殿 骑 士 团 城 堡 守 卫 
 trp_hospitaller_swords_sergeant|医 院 精 锐 重 步 兵 
 trp_hospitaller_swords_sergeant_pl|医 院 精 锐 种 步 兵 
 trp_hospitaller_spears_sergeant|医 院 长 矛 卫 士 
 trp_hospitaller_spears_sergeant_pl|医 院 长 矛 卫 士 
 trp_hospitaller_crossbows_sergeant|医 院 骑 士 团 重 弩 兵 
 trp_hospitaller_crossbows_sergeant_pl|医 院 骑 士 团 重 弩 兵 
-trp_hospitaller_half_brother|医 院 骑 士 侍 从
-trp_hospitaller_half_brother_pl|医 院 骑 士 侍 从
+trp_hospitaller_half_brother|医 院 骑 士 侍 从 
+trp_hospitaller_half_brother_pl|医 院 骑 士 侍 从 
 trp_hospitaller_knight|医 院 骑 士 
 trp_hospitaller_knight_pl|医 院 骑 士 
-trp_hospitaller_messenger|医 院 信 使 
-trp_hospitaller_messenger_pl|医 院 信 使 
+trp_hospitaller_messenger|医 院 骑 士 团 信 使 
+trp_hospitaller_messenger_pl|医 院 骑 士 团 信 使 
 trp_hospitaller_deserter|医 院 骑 士 团 逃 兵 
 trp_hospitaller_deserter_pl|医 院 骑 士 团 逃 兵 
 trp_hospitaller_prison_guard|医 院 骑 士 团 监 狱 守 卫 
@@ -509,7 +509,7 @@ trp_marinid_light_lancer_pl|阿 拉 伯 轻 装 枪 骑 兵
 trp_marinid_lancer|阿 拉 伯 枪 骑 兵 
 trp_marinid_lancer_pl|阿 拉 伯 枪 骑 兵 
 trp_marinid_skirmishers|阿 拉 伯 掷 矛 民 兵 
-trp_marinid_skirmishers_pl|阿 拉 伯 掷 矛 民 兵
+trp_marinid_skirmishers_pl|阿 拉 伯 掷 矛 民 兵 
 trp_marinid_javelin_infantry|阿 拉 伯 标 枪 兵 
 trp_marinid_javelin_infantry_pl|阿 拉 伯 标 枪 兵 
 trp_marinid_berber_bowman|阿 拉 伯 弓 箭 手 
@@ -527,9 +527,9 @@ trp_marinid_swordsman_pl|阿 拉 伯 精 锐 战 士
 trp_marinid_mounted_skirmisher_1|阿 拉 伯 斥 候 骑 兵 
 trp_marinid_mounted_skirmisher_1_pl|阿 拉 伯 斥 候 骑 兵
 trp_marinid_mounted_skirmisher_2|阿 拉 伯 弓 骑 兵 
-trp_marinid_mounted_skirmisher_2_pl|阿 拉 伯 弓 骑 兵
+trp_marinid_mounted_skirmisher_2_pl|阿 拉 伯 弓 骑 兵 
 trp_marinid_mounted_skirmisher_3|阿 拉 伯 精 锐 弓 骑 兵 
-trp_marinid_mounted_skirmisher_3_pl|阿 拉 伯 精 锐 弓 骑 兵
+trp_marinid_mounted_skirmisher_3_pl|阿 拉 伯 精 锐 弓 骑 兵 
 trp_mamluke_commoner|马 木 鲁 克 民 兵 
 trp_mamluke_commoner_pl|马 木 鲁 克 民 兵 
 trp_mamluke_infantry_1|马 木 鲁 克 轻 步 兵 
@@ -566,16 +566,16 @@ trp_sarranid_prison_guard|马 木 鲁 克 监 狱 守 卫
 trp_sarranid_prison_guard_pl|马 木 鲁 克 监 狱 看 守 
 trp_balt_horseman|波 罗 的 海 轻 骑 兵 
 trp_balt_horseman_pl|波 罗 的 海 轻 骑 兵 
-trp_balt_mounted_spearman|波 罗 的 海 骑 兵
-trp_balt_mounted_spearman_pl|波 罗 的 海 骑 兵
+trp_balt_mounted_spearman|波 罗 的 海 骑 兵 
+trp_balt_mounted_spearman_pl|波 罗 的 海 骑 兵 
 trp_balt_lancer|波 罗 的 海 重 装 枪 骑 兵 
 trp_balt_lancer_pl|波 罗 的 海 重 装 枪 骑 兵 
 trp_french_chevalier|法 兰 西 皇 家 侍 卫 骑 士 
 trp_french_chevalier_pl|法 兰 西 皇 家 侍 卫 骑 士 
-trp_welsh_bowmen|威 尔 士 长 弓 兵
-trp_welsh_bowmen_pl|威 尔 士 长 弓 兵
+trp_welsh_bowmen|威 尔 士 长 弓 兵 
+trp_welsh_bowmen_pl|威 尔 士 长 弓 兵 
 trp_genoese_crossbowman|热 那 亚 巨 盾 弩 兵 
-trp_genoese_crossbowman_pl|热 那 亚 巨 盾 弩 兵
+trp_genoese_crossbowman_pl|热 那 亚 巨 盾 弩 兵 
 trp_varangian_guard|瓦 兰 吉 卫 队 
 trp_varangian_guard_pl|瓦 兰 吉 卫 队 
 trp_scottish_highlander|苏 格 兰 高 地 贵 族 
@@ -651,7 +651,7 @@ trp_iberian_veteran_swordsman_pl|南 欧 重 步 兵
 trp_iberian_swords_sergeant|南 欧 精 锐 重 步 兵 
 trp_iberian_swords_sergeant_pl|南 欧 精 锐 重 步 兵 
 trp_iberian_town_skirmisher|南 欧 持 弩 民 兵 
-trp_iberian_town_skirmisher_pl|南 欧 持 弩 民 兵
+trp_iberian_town_skirmisher_pl|南 欧 持 弩 民 兵 
 trp_iberian_veteran_crossbowman|南 欧 弩 兵 
 trp_iberian_veteran_crossbowman_pl|南 欧 弩 兵 
 trp_iberian_crossbows_sergeant|南 欧 持 盾 重 弩 兵 
@@ -761,7 +761,7 @@ trp_anatolian_christian_archer_1_pl|安 纳 托 利 亚 基 督 弓 兵
 trp_anatolian_christian_archer_2|安 纳 托 利 亚 基 督 弓 箭 兵 
 trp_anatolian_christian_archer_2_pl|安 纳 托 利 亚 基 督 弓 箭 兵 
 trp_anatolian_castle_recruit|安 纳 托 利 亚 新 兵  
-trp_anatolian_castle_recruit_pl|安 纳 托 利 亚 新 兵  
+trp_anatolian_castle_recruit_pl|安 纳 托 利 亚 新 兵 
 trp_anatolian_turkoman_1|安 纳 托 利 亚 土 库 曼 骑 手 
 trp_anatolian_turkoman_1_pl|安 纳 托 利 亚 土 库 曼 骑 手 
 trp_anatolian_turkoman_2|安 纳 托 利 亚 土 库 曼 骑 兵 
@@ -787,19 +787,19 @@ trp_euro_town_recruit_pl|西 欧 城 镇 民 兵
 trp_euro_village_recruit|西 欧 民 兵 
 trp_euro_village_recruit_pl|西 欧 民 兵 
 trp_euro_archer_1|西 欧 弓 箭 民 兵 
-trp_euro_archer_1_pl|西 欧 弓 箭 民 兵
+trp_euro_archer_1_pl|西 欧 弓 箭 民 兵 
 trp_euro_archer_2|西 欧 弓 箭 兵 
 trp_euro_archer_2_pl|西 欧 弓 箭 兵 
 trp_euro_xbow_1|西 欧 持 弩 民 兵 
-trp_euro_xbow_1_pl|西 欧 持 弩 民 兵
+trp_euro_xbow_1_pl|西 欧 持 弩 民 兵 
 trp_euro_xbow_2|西 欧 弩 兵 
-trp_euro_xbow_2_pl|西 欧 弩 兵
+trp_euro_xbow_2_pl|西 欧 弩 兵 
 trp_euro_xbow_3|西 欧 持 盾 重 弩 兵 
 trp_euro_xbow_3_pl|西 欧 持 盾 重 弩 兵 
 trp_euro_spearman_1|西 欧 长 矛 民 兵 
-trp_euro_spearman_1_pl|西 欧 长 矛 民 兵
-trp_euro_spearman_2|西 欧 长 矛 军 士
-trp_euro_spearman_2_pl|西 欧 长 矛 军 士
+trp_euro_spearman_1_pl|西 欧 长 矛 民 兵 
+trp_euro_spearman_2|西 欧 长 矛 军 士 
+trp_euro_spearman_2_pl|西 欧 长 矛 军 士 
 trp_euro_spearman_3|西 欧 重 装 长 矛 军 士 
 trp_euro_spearman_3_pl|西 欧 重 装 长 矛 军 士 
 trp_euro_swordsman_1|西 欧 轻 步 兵 
@@ -1188,7 +1188,7 @@ trp_npc30_pl|伊 瓦 伊 洛· 巴 尔 多 科 瓦
 trp_npc31|阿 里 
 trp_npc31_pl|阿 里 
 trp_kingdom_1_lord|霍 恩 豪 森 的 伯 查 德 大 团 长 
-trp_kingdom_1_lord_pl|霍 恩 豪 森 的 伯 查 德  
+trp_kingdom_1_lord_pl|霍 恩 豪 森 的 伯 查 德 
 trp_kingdom_2_lord|明 道 加 斯 国 王 
 trp_kingdom_2_lord_pl|明 道 加 斯 
 trp_kingdom_3_lord|别 儿 哥 汗 
@@ -1198,7 +1198,7 @@ trp_kingdom_4_lord_pl|克 里 斯 托 弗
 trp_kingdom_5_lord|“高 等 公 爵”波 列 斯 瓦 夫 五 世，贞 洁 者 
 trp_kingdom_5_lord_pl|波 列 斯 瓦 夫，贞 洁 者 
 trp_kingdom_6_lord|“罗 马 皇 帝”康 沃 尔 的 理 查 德 
-trp_kingdom_6_lord_pl|康 沃 尔 的 理 查 德  
+trp_kingdom_6_lord_pl|康 沃 尔 的 理 查 德 
 trp_kingdom_7_lord|贝 拉 四 世 国 王 
 trp_kingdom_7_lord_pl|贝 拉 
 trp_kingdom_8_lord|亚 历 山 大· 涅 夫 斯 基 大 公 
@@ -1393,38 +1393,38 @@ trp_knight_5_3|博 古 米 乌 公 爵
 trp_knight_5_3_pl|博 古 米 乌 
 trp_knight_5_4|博 来 斯 瓦 夫 公 爵 
 trp_knight_5_4_pl|博 来 斯 瓦 夫 
-trp_knight_5_5|瓦 迪 斯 瓦 夫 公 爵
-trp_knight_5_5_pl|瓦 迪 斯 瓦 夫
-trp_knight_5_6|亨 利· 怀 特 公 爵
+trp_knight_5_5|瓦 迪 斯 瓦 夫 公 爵 
+trp_knight_5_5_pl|瓦 迪 斯 瓦 夫 
+trp_knight_5_6|亨 利· 怀 特 公 爵 
 trp_knight_5_6_pl|亨 利· 怀 特 
 trp_knight_5_7|“波 美 拉 尼 亚 大 公”瑟 维 多 比 克 二 世
-trp_knight_5_7_pl|瑟 维 多 比 克
-trp_knight_5_8|博 列 科 公 爵
-trp_knight_5_8_pl|博 列 科
-trp_knight_5_9|玛 斯 齐 沃 公 爵
-trp_knight_5_9_pl|玛 斯 齐 沃
-trp_knight_5_10|瑞 斯 博· 彼 洛 加 斯 基 亲 王
-trp_knight_5_10_pl|瑞 斯 博· 彼 洛 加 斯 基
-trp_knight_5_11|普 热 梅 希 尔 公 爵
-trp_knight_5_11_pl|普 热 梅 希 尔
-trp_knight_5_12|萨 姆 波 公 爵
-trp_knight_5_12_pl|萨 姆 波
-trp_knight_5_13|里 亚 克 公 爵
-trp_knight_5_13_pl|里 亚 克
-trp_knight_5_14|康 德 拉 一 世 公 爵
-trp_knight_5_14_pl|康 德 拉
-trp_knight_5_15|西 摩 梅 尔 斯 公 爵
-trp_knight_5_15_pl|西 摩 梅 尔 斯
-trp_knight_6_1|“波 西 米 亚 国 王 兼 奥 地 利 公 爵”奥 塔 卡 二 世
-trp_knight_6_1_pl|奥 塔 卡 二 世
-trp_knight_6_2|“莱 茵 河 伯 爵 兼 巴 伐 利 亚 公 爵”路 德 维 希 二 世
-trp_knight_6_2_pl|斯 特 恩
-trp_knight_6_3|“萨 克 尼 亚 公 爵”阿 尔 布 雷 希 一 世
-trp_knight_6_3_pl| 阿 尔 布 雷 希
+trp_knight_5_7_pl|瑟 维 多 比 克 
+trp_knight_5_8|博 列 科 公 爵 
+trp_knight_5_8_pl|博 列 科 
+trp_knight_5_9|玛 斯 齐 沃 公 爵 
+trp_knight_5_9_pl|玛 斯 齐 沃 
+trp_knight_5_10|瑞 斯 博· 彼 洛 加 斯 基 亲 王 
+trp_knight_5_10_pl|瑞 斯 博· 彼 洛 加 斯 基 
+trp_knight_5_11|普 热 梅 希 尔 公 爵 
+trp_knight_5_11_pl|普 热 梅 希 尔 
+trp_knight_5_12|萨 姆 波 公 爵 
+trp_knight_5_12_pl|萨 姆 波 
+trp_knight_5_13|里 亚 克 公 爵 
+trp_knight_5_13_pl|里 亚 克 
+trp_knight_5_14|康 德 拉 一 世 公 爵 
+trp_knight_5_14_pl|康 德 拉 
+trp_knight_5_15|西 摩 梅 尔 斯 公 爵 
+trp_knight_5_15_pl|西 摩 梅 尔 斯 
+trp_knight_6_1|“波 西 米 亚 国 王 兼 奥 地 利 公 爵”奥 塔 卡 二 世 
+trp_knight_6_1_pl|奥 塔 卡 二 世 
+trp_knight_6_2|“莱 茵 河 伯 爵 兼 巴 伐 利 亚 公 爵”路 德 维 希 二 世 
+trp_knight_6_2_pl|斯 特 恩 
+trp_knight_6_3|“萨 克 尼 亚 公 爵”阿 尔 布 雷 希 一 世 
+trp_knight_6_3_pl| 阿 尔 布 雷 希 
 trp_knight_6_4|“勃 兰 登 堡 侯 爵”奥 托 三 世，虔 诚 者 
 trp_knight_6_4_pl|奥 托 三 世，虔 诚 者 
 trp_knight_6_5|“下 巴 伐 利 亚 公 爵”海 因 里 希 八 世 
-trp_knight_6_5_pl|海 因 里 希 八 世
+trp_knight_6_5_pl|海 因 里 希 八 世 
 trp_knight_6_6|“布 拉 班 特 公 爵”海 因 里 希 三 世，善 人 
 trp_knight_6_6_pl|海 因 里 希 三 世，善 人 
 trp_knight_6_7|“布 伦 瑞 克 和 吕 内 堡”约 翰 一 世 
@@ -1452,7 +1452,7 @@ trp_knight_6_17_pl|鲁 道 夫 一 世
 trp_knight_6_18|“迈 森 侯 爵，图 林 根 伯 爵”海 因 里 希 三 世，显 赫 者 
 trp_knight_6_18_pl|海 因 里 希 三 世，显 赫 者 
 trp_knight_6_19|“纽 伦 堡 贵 族”康 拉 德 一 世，虔 诚 者 
-trp_knight_6_19_pl|Konrad I the Pious
+trp_knight_6_19_pl|康 拉 德 一 世 
 trp_knight_6_20|罗 马 诺 的 埃 泽 里 诺 领 主 
 trp_knight_6_20_pl|罗 马 诺 的 埃 泽 里 诺 
 trp_knight_7_1|“特 伦 切 尼 城 堡 长 官”查 克· 马 泰 
@@ -1487,9 +1487,9 @@ trp_knight_7_15|拉 托 特· 罗 兰 大 主 教
 trp_knight_7_15_pl|拉 托 特· 罗 兰 
 trp_knight_8_1|弗 谢 沃 洛 多· 尤 里 伊 维 奇 亲 王
 trp_knight_8_1_pl|弗 谢 沃 洛 多· 尤 里 伊 维 奇 
-trp_knight_8_2|布 里 亚 奇 斯 拉 夫· 瓦 斯 拉 科 维 奇 亲 王
+trp_knight_8_2|布 里 亚 奇 斯 拉 夫· 瓦 斯 拉 科 维 奇 亲 王 
 trp_knight_8_2_pl|布 里 亚 奇 斯 拉 夫· 瓦 斯 拉 科 维 奇 
-trp_knight_8_3|苏 亚 特 斯 拉 夫· 姆 斯 基 斯 拉 维 奇 亲 王
+trp_knight_8_3|苏 亚 特 斯 拉 夫· 姆 斯 基 斯 拉 维 奇 亲 王 
 trp_knight_8_3_pl|苏 亚 特 斯 拉 夫· 姆 斯 基 斯 拉 维 奇 
 trp_knight_8_4|尤 里· 伊 戈 列 维 奇 亲 王 
 trp_knight_8_4_pl|尤 里· 伊 戈 列 维 奇 
@@ -1525,7 +1525,7 @@ trp_knight_9_14|“赫 里 福 德 和 埃 塞 克 斯 伯 爵，宫 廷 长 官
 trp_knight_9_14_pl|波 鸿 的 汉 弗 雷 
 trp_knight_9_15|“林 肯 郡 伯 爵，霍 尔 顿 男 爵” 拉 齐 的 埃 德 蒙 
 trp_knight_9_15_pl|拉 齐 的 埃 德 蒙 
-trp_knight_9_16|“牛 津 伯 爵” 维 拉 的 休  
+trp_knight_9_16|“牛 津 伯 爵” 维 拉 的 休 
 trp_knight_9_16_pl|维 拉 的 休  
 trp_knight_9_17|“阿 伦 德 尔 伯 爵” 约 翰· 菲 茨 阿 伦 
 trp_knight_9_17_pl|约 翰· 菲 茨 阿 伦 
