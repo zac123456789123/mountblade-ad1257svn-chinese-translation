@@ -526,10 +526,10 @@ trp_marinid_swordsman|阿 拉 伯 精 锐 战 士
 trp_marinid_swordsman_pl|阿 拉 伯 精 锐 战 士
 trp_marinid_mounted_skirmisher_1|阿 拉 伯 斥 候 骑 兵 
 trp_marinid_mounted_skirmisher_1_pl|阿 拉 伯 斥 候 骑 兵
-trp_marinid_mounted_skirmisher_2|阿 拉 伯 弓 骑 兵 
-trp_marinid_mounted_skirmisher_2_pl|阿 拉 伯 弓 骑 兵 
-trp_marinid_mounted_skirmisher_3|阿 拉 伯 精 锐 弓 骑 兵 
-trp_marinid_mounted_skirmisher_3_pl|阿 拉 伯 精 锐 弓 骑 兵 
+trp_marinid_mounted_skirmisher_2|阿 拉 伯 弓 掷 矛 兵 
+trp_marinid_mounted_skirmisher_2_pl|阿 拉 伯 掷 矛 骑 兵 
+trp_marinid_mounted_skirmisher_3|阿 拉 伯 精 锐 掷 矛 骑 兵 
+trp_marinid_mounted_skirmisher_3_pl|阿 拉 伯 精 锐 掷 矛 骑 兵 
 trp_mamluke_commoner|马 木 鲁 克 民 兵 
 trp_mamluke_commoner_pl|马 木 鲁 克 民 兵 
 trp_mamluke_infantry_1|马 木 鲁 克 轻 步 兵 
@@ -563,7 +563,7 @@ trp_sarranid_messenger_pl|马 木 鲁 克 信 使
 trp_sarranid_deserter|马 木 鲁 克 逃 兵 
 trp_sarranid_deserter_pl|马 木 鲁 克 逃 兵 
 trp_sarranid_prison_guard|马 木 鲁 克 监 狱 守 卫 
-trp_sarranid_prison_guard_pl|马 木 鲁 克 监 狱 看 守 
+trp_sarranid_prison_guard_pl|马 木 鲁 克 监 狱 守 卫 
 trp_balt_horseman|波 罗 的 海 轻 骑 兵 
 trp_balt_horseman_pl|波 罗 的 海 轻 骑 兵 
 trp_balt_mounted_spearman|波 罗 的 海 骑 兵 
@@ -1895,8 +1895,8 @@ trp_knight_23_14|Julian Grenier, Count of Sidon{***}
 trp_knight_23_14_pl|Julian Grenier{***}
 trp_knight_23_15|Simon Mancel, Constable of Antioch{***}
 trp_knight_23_15_pl|Simon Mancel{***}
-trp_knight_24_1|Galvano Lancia, Conte di Salerno, Grand Marshall of Sicily
-trp_knight_24_1_pl|Galvano Lancia
+trp_knight_24_1|西 西 里 大 元 帅，萨 勒 诺 伯 爵，加 尔 瓦 诺· 兰 恰 
+trp_knight_24_1_pl|加 尔 瓦 诺· 兰 恰 
 trp_knight_24_2|法 里 纳 塔· 代 戈 里· 乌 博 蒂 
 trp_knight_24_2_pl|法 里 纳 塔· 代 戈 里· 乌 博 蒂 
 trp_knight_24_3|吉 多· 达· 蒙 特 费 尔 特 罗 
@@ -1911,20 +1911,20 @@ trp_knight_24_7|蒙 费 拉 侯 爵，威 廉 七 世
 trp_knight_24_7_pl|威 廉 七 世 
 trp_knight_24_8|埃 斯 特 的 奥 比 佐 二 世 
 trp_knight_24_8_pl|埃 斯 特 的 奥 比 佐 二 世 
-trp_knight_24_9|马 尔 西 科 伯 爵，Spernaria的 恩 里 科 
-trp_knight_24_9_pl|Spernaria的 恩 里 科 
-trp_knight_24_10|Pietro Ruffo di Calabria
-trp_knight_24_10_pl|Pietro Ruffo di Calabria
-trp_knight_24_11|Otto von Vohburg, Markgraf von Hohenburg
-trp_knight_24_11_pl|Otto von Vohburg
-trp_knight_24_12|Federigo Lancia,Conte di Squillace
-trp_knight_24_12_pl|Federigo Lancia
-trp_knight_24_13|Bonifazio di Anglono
-trp_knight_24_13_pl|Bonifazio di Anglono
-trp_knight_24_14|Federigo Maletta, Conte di Apice
-trp_knight_24_14_pl|Federigo Maletta
-trp_knight_24_15|Provenzano Salvani
-trp_knight_24_15_pl|Provenzano Salvani
+trp_knight_24_9|马 尔 西 科 伯 爵，斯 佩 尔 纳 里 亚 的 恩 里 科 
+trp_knight_24_9_pl|斯 佩 尔 纳 里 亚 的 恩 里 科 
+trp_knight_24_10|卡 拉 布 里 亚 的 彼 得 罗· 鲁 福 
+trp_knight_24_10_pl|卡 拉 布 里 亚 的 彼 得 罗· 鲁 福 
+trp_knight_24_11|霍 恩 堡 边 疆 伯 爵，福 堡 的 奥 托 
+trp_knight_24_11_pl|福 堡 的 奥 托 
+trp_knight_24_12|斯 奎 拉 切 伯 爵，费 代 里 戈· 兰 恰 
+trp_knight_24_12_pl|费 代 里 戈· 兰 恰 
+trp_knight_24_13|安 格 洛 诺 的 博 尼 法 齐 奥 
+trp_knight_24_13_pl|安 格 洛 诺 的 博 尼 法 齐 奥 
+trp_knight_24_14|阿 皮 切 伯 爵，费 代 里 戈· 马 莱 塔 
+trp_knight_24_14_pl|费 代 里 戈· 马 莱 塔 
+trp_knight_24_15|普 罗 文 扎 诺· 萨 尔 瓦 尼  
+trp_knight_24_15_pl|普 罗 文 扎 诺· 萨 尔 瓦 尼 
 trp_knight_25_1|曼 苏 尔· 阿 里 酋 长 
 trp_knight_25_1_pl|曼 苏 尔· 阿 里 
 trp_knight_25_2|赛 义 夫· 库 图 兹 王 储 
