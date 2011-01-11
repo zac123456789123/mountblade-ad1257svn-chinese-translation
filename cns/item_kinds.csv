@@ -554,8 +554,8 @@ itm_sarranid_cloth_robe_b|旧 长 袍
 itm_sarranid_cloth_robe_b_pl|旧 长 袍 
 itm_skirmisher_armor|游 击 射 手 甲 
 itm_skirmisher_armor_pl|游 击 射 手 甲 
-itm_archers_vest|射 手 棉 背 心 
-itm_archers_vest_pl|射 手 棉 背 心 
+itm_archers_vest|射 手 加 衬 背 心 
+itm_archers_vest_pl|射 加 衬 棉 背 心 
 itm_sarranid_leather_armor|萨 拉 逊 加 衬 长 衫 
 itm_sarranid_leather_armor_pl|萨 拉 逊 加 衬 长 衫 
 itm_sarranid_cavalry_robe|骑 兵 长 袍 
@@ -1116,8 +1116,8 @@ itm_nomad_cap_b|游 牧 帽
 itm_nomad_cap_b_pl|游 牧 帽 
 itm_steppe_cap|草 原 帽 
 itm_steppe_cap_pl|草 原 帽 
-itm_padded_coif|头 肩 巾 
-itm_padded_coif_pl|头 肩 巾 
+itm_padded_coif|加 衬 头 巾 
+itm_padded_coif_pl|加 衬 头 巾 
 itm_woolen_cap|羊 毛 帽 
 itm_woolen_cap_pl|羊 毛 帽 
 itm_felt_hat|毡 帽 
@@ -1172,8 +1172,8 @@ itm_sarranid_horseman_helmet|骑 手 盔
 itm_sarranid_horseman_helmet_pl|骑 手 盔 
 itm_sarranid_helmet1|萨 拉 逊 头 巾 盔 
 itm_sarranid_helmet1_pl|萨 拉 逊 头 巾 盔 
-itm_sarranid_mail_coif|萨 拉 逊 链 甲 头 肩 巾 
-itm_sarranid_mail_coif_pl|萨 拉 逊 链 甲 头 肩 巾 
+itm_sarranid_mail_coif|萨 拉 逊 链 甲 链 甲 头 巾 
+itm_sarranid_mail_coif_pl|萨 拉 逊 链 甲 链 甲 头 巾 
 itm_sarranid_veiled_helmet|萨 拉 逊 遮 面 盔 
 itm_sarranid_veiled_helmet_pl|萨 拉 逊 遮 面 盔 
 itm_vaegir_fur_cap|毛 皮 盔 
@@ -1210,10 +1210,10 @@ itm_vik_norman_helmet_c|诺 曼 盔
 itm_vik_norman_helmet_c_pl|诺 曼 盔 
 itm_vik_norman_helmet_e|平 面 盔 
 itm_vik_norman_helmet_e_pl|平 面 盔 
-itm_vik_spangen_a|Spangen Helm{***}
-itm_vik_spangen_a_pl|Spangen Helm{***}
-itm_vik_spangen_b|Spangen Helm{***}
-itm_vik_spangen_b_pl|Spangen Helm{***}
+itm_vik_spangen_a|夹 铁 盔 
+itm_vik_spangen_a_pl|夹 铁 盔 
+itm_vik_spangen_b|夹 铁 盔 
+itm_vik_spangen_b_pl|夹 铁 盔 
 itm_balt_spiked_helmet|波 罗 的 海 锥 头 帽 
 itm_balt_spiked_helmet_pl|波 罗 的 海 锥 头 帽 
 itm_balt_footman_helmet|波 罗 的 海 步 兵 盔 
