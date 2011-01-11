@@ -76,7 +76,7 @@ trp_mercenary_spears_sergeant|雇 佣 重 装 长 矛 军 士
 trp_mercenary_spears_sergeant_pl|雇 佣 重 装 长 矛 军 士 
 trp_mercenary_crossbows_sergeant|雇 佣 持 盾 重 弩 手 
 trp_mercenary_crossbows_sergeant_pl|雇 佣 持 盾 重 弩 手 
-trp_mercenary_bows_sergeant|雇 佣 长 弓 兵  
+trp_mercenary_bows_sergeant|雇 佣 长 弓 兵 
 trp_mercenary_bows_sergeant_pl|雇 佣 长 弓 兵 
 trp_mercenary_light_cavalry|雇 佣 轻 装 枪 骑 兵 
 trp_mercenary_light_cavalry_pl|雇 佣 轻 装 枪 骑 兵 
@@ -760,7 +760,7 @@ trp_anatolian_christian_archer_1|安 纳 托 利 亚 基 督 弓 兵
 trp_anatolian_christian_archer_1_pl|安 纳 托 利 亚 基 督 弓 兵 
 trp_anatolian_christian_archer_2|安 纳 托 利 亚 基 督 弓 箭 兵 
 trp_anatolian_christian_archer_2_pl|安 纳 托 利 亚 基 督 弓 箭 兵 
-trp_anatolian_castle_recruit|安 纳 托 利 亚 新 兵  
+trp_anatolian_castle_recruit|安 纳 托 利 亚 新 兵 
 trp_anatolian_castle_recruit_pl|安 纳 托 利 亚 新 兵 
 trp_anatolian_turkoman_1|安 纳 托 利 亚 土 库 曼 骑 手 
 trp_anatolian_turkoman_1_pl|安 纳 托 利 亚 土 库 曼 骑 手 
@@ -1219,8 +1219,8 @@ trp_kingdom_15_lord|丹 尼 尔· 罗 曼 诺 维 奇 国 王
 trp_kingdom_15_lord_pl|丹 尼 尔· 罗 曼 诺 维 奇 
 trp_kingdom_16_lord|阿 方 索 三 世 国 王 
 trp_kingdom_16_lord_pl|阿 方 索 三 世 
-trp_kingdom_17_lord|海 梅 一 世 国 王“征 服 者” 
-trp_kingdom_17_lord_pl|海 梅 一 世“征 服 者” 
+trp_kingdom_17_lord|海 梅 一 世 国 王 “征 服 者” 
+trp_kingdom_17_lord_pl|海 梅 一 世 “征 服 者” 
 trp_kingdom_18_lord|阿 方 索 十 世 国 王 
 trp_kingdom_18_lord_pl|阿 方 索 十 世 
 trp_kingdom_20_lord|穆 罕 默 德 一 世· 伊 本 纳 斯 苏 丹 
@@ -1526,7 +1526,7 @@ trp_knight_9_14_pl|波 鸿 的 汉 弗 雷
 trp_knight_9_15|“林 肯 郡 伯 爵，霍 尔 顿 男 爵” 拉 齐 的 埃 德 蒙 
 trp_knight_9_15_pl|拉 齐 的 埃 德 蒙 
 trp_knight_9_16|“牛 津 伯 爵” 维 拉 的 休 
-trp_knight_9_16_pl|维 拉 的 休  
+trp_knight_9_16_pl|维 拉 的 休 
 trp_knight_9_17|“阿 伦 德 尔 伯 爵” 约 翰· 菲 茨 阿 伦 
 trp_knight_9_17_pl|约 翰· 菲 茨 阿 伦 
 trp_knight_9_18|约 克 的 休 厄 尔 大 主 教 
@@ -1599,7 +1599,7 @@ trp_knight_11_11|西 古 德· 比 斯 库 普 松
 trp_knight_11_11_pl|西 古 德· 比 斯 库 普 松 
 trp_knight_11_12|巴 德 尔· 赫 斯 特 博 一 世 
 trp_knight_11_12_pl|巴 德 尔· 赫 斯 特 博 一 世 
-trp_knight_11_13|阿恩博恩·波基
+trp_knight_11_13|阿恩博恩· 波基
 trp_knight_11_13_pl|阿 恩 博 恩· 波 基 
 trp_knight_11_14|阿 斯 拉 克· 古 斯 
 trp_knight_11_14_pl|阿 斯 拉 克· 古 斯 
@@ -1629,8 +1629,8 @@ trp_knight_12_6|Maol Iosa II, Mormaer of Strathearn{***}
 trp_knight_12_6_pl|Maol Iosa II{***}
 trp_knight_12_7|Alaxandair Stewart, High Steward of Scotland{***}
 trp_knight_12_7_pl|Alaxandair Stewart{***}
-trp_knight_12_8|道 格 拉 斯 领 主，威 廉“长 腿” 
-trp_knight_12_8_pl|威 廉“长 腿” 
+trp_knight_12_8|道 格 拉 斯 领 主，威 廉 “长 腿” 
+trp_knight_12_8_pl|威 廉 “长 腿” 
 trp_knight_12_9|Uilleam I mac Ferchar, Mormaer of Ross{***}
 trp_knight_12_9_pl|Uilleam I mac Ferchar{***}
 trp_knight_12_10|邓 巴 伯 爵，帕 特 里 克 三 世 
@@ -1704,8 +1704,8 @@ trp_knight_15_8_pl|格 列 布· 姆 斯 蒂 斯 拉 维 奇
 trp_knight_15_9|罗 曼· 弗 谢 沃 洛 多 维 奇 亲 王 
 trp_knight_15_9_pl|罗 曼· 弗 谢 沃 洛 多 维 奇 
 trp_knight_15_10|安 德 烈· 弗 谢 沃 洛 多 维 奇 亲 王 
-trp_knight_15_10_pl|安 德 烈·  弗 谢 沃 洛 多 维 奇 
-trp_knight_16_1|“圣 地 亚 哥 骑 士 团 大 团 长”派 奥· 佩 雷 斯· 科 雷 亚 
+trp_knight_15_10_pl|安 德 烈· 弗 谢 沃 洛 多 维 奇 
+trp_knight_16_1|“圣 地 亚 哥 骑 士 团 大 团 长” 派 奥· 佩 雷 斯· 科 雷 亚 
 trp_knight_16_1_pl|派 奥· 佩 雷 斯· 科 雷 亚 
 trp_knight_16_2|布 拉 干 萨 的 门 多· 阿 拉 诺 爵 士 
 trp_knight_16_2_pl|布 拉 干 萨 的 门 多· 阿 拉 诺 
@@ -1813,7 +1813,7 @@ trp_knight_20_8|尤 素 夫· 穆 罕 默 德 酋 长
 trp_knight_20_8_pl|尤 素 夫· 穆 罕 默 德 
 trp_knight_20_9|法 拉 杰· 穆 罕 默 德 酋 长 
 trp_knight_20_9_pl|法 拉 杰· 穆 罕 默 德 
-trp_knight_20_10|赛 义 德· 法 拉 杰 酋 长  
+trp_knight_20_10|赛 义 德· 法 拉 杰 酋 长 
 trp_knight_20_10_pl|赛 义 德· 法 拉 杰 
 trp_knight_20_11|阿 卜 杜 拉 酋 长 
 trp_knight_20_11_pl|阿 卜 杜 拉 
@@ -1905,8 +1905,8 @@ trp_knight_24_4|马 斯 蒂 诺· 德 拉· 斯 卡 拉
 trp_knight_24_4_pl|马 斯 蒂 诺· 德 拉· 斯 卡 拉 
 trp_knight_24_5|奥 托 内· 维 斯 康 蒂 
 trp_knight_24_5_pl|奥 托 内· 维 斯 康 蒂 
-trp_knight_24_6|马 蒂 诺·德 拉 托 雷 
-trp_knight_24_6_pl|马 蒂 诺·德 拉 托 雷 
+trp_knight_24_6|马 蒂 诺· 德 拉 托 雷 
+trp_knight_24_6_pl|马 蒂 诺· 德 拉 托 雷 
 trp_knight_24_7|蒙 费 拉 侯 爵，威 廉 七 世 
 trp_knight_24_7_pl|威 廉 七 世 
 trp_knight_24_8|埃 斯 特 的 奥 比 佐 二 世 
