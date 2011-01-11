@@ -548,10 +548,10 @@ itm_pelt_coat|毛 皮 外 套
 itm_pelt_coat_pl|毛 皮 外 套 
 itm_bishop_cop|无 袖 板 甲 
 itm_bishop_cop_pl|无 袖 板 甲 
-itm_sarranid_cloth_robe|老 式 长 袍 
-itm_sarranid_cloth_robe_pl|老 式 长 袍 
-itm_sarranid_cloth_robe_b|老 式 长 袍 
-itm_sarranid_cloth_robe_b_pl|老 式 长 袍 
+itm_sarranid_cloth_robe|旧 长 袍 
+itm_sarranid_cloth_robe_pl|旧 长 袍 
+itm_sarranid_cloth_robe_b|旧 长 袍 
+itm_sarranid_cloth_robe_b_pl|旧 长 袍 
 itm_skirmisher_armor|游 击 射 手 甲 
 itm_skirmisher_armor_pl|游 击 射 手 甲 
 itm_archers_vest|射 手 棉 背 心 
@@ -1232,8 +1232,8 @@ itm_teu_kettle_hat_a|锅 盔
 itm_teu_kettle_hat_a_pl|锅 盔 
 itm_teu_kettle_hat_b|锅 盔 
 itm_teu_kettle_hat_b_pl|锅 盔 
-itm_slonim|Slonim{***}
-itm_slonim_pl|Slonim{***}
+itm_slonim|斯 洛 尼 姆 式 头 盔 
+itm_slonim_pl|斯 洛 尼 姆 式 头 盔 
 itm_osp_faceplate|覆 面 盔 
 itm_osp_faceplate_pl|覆 面 盔 
 itm_rnd_helm_01|带 翼 巨 盔 
@@ -1608,8 +1608,8 @@ itm_leather_covered_round_shield|蒙 皮 圆 盾
 itm_leather_covered_round_shield_pl|蒙 皮 圆 盾 
 itm_hide_covered_round_shield|兽 皮 圆 盾 
 itm_hide_covered_round_shield_pl|兽 皮 圆 盾 
-itm_tab_shield_round_a|老 式 圆 盾 
-itm_tab_shield_round_a_pl|老 式 圆 盾 
+itm_tab_shield_round_a|旧 圆 盾 
+itm_tab_shield_round_a_pl|旧 圆 盾 
 itm_tab_shield_round_b|简 易 圆 盾 
 itm_tab_shield_round_b_pl|简 易 圆 盾 
 itm_tab_shield_round_c|圆 盾 
@@ -1618,8 +1618,8 @@ itm_tab_shield_round_d|精 制 圆 盾
 itm_tab_shield_round_d_pl|精 制 圆 盾 
 itm_tab_shield_round_e|重 型 圆 盾 
 itm_tab_shield_round_e_pl|重 型 圆 盾 
-itm_tab_shield_kite_a|老 式 筝 形 盾 
-itm_tab_shield_kite_a_pl|老 式 筝 形 盾 
+itm_tab_shield_kite_a|旧 筝 形 盾 
+itm_tab_shield_kite_a_pl|旧 筝 形 盾 
 itm_tab_shield_kite_b|简 易 筝 形 盾 
 itm_tab_shield_kite_b_pl|简 易 筝 形 盾 
 itm_tab_shield_kite_c|筝 形 盾 
@@ -1630,8 +1630,8 @@ itm_tab_shield_kite_cav_a|骑 手 筝 形 盾
 itm_tab_shield_kite_cav_a_pl|骑 手 筝 形 盾 
 itm_tab_shield_kite_cav_b|骑 士 筝 形 盾 
 itm_tab_shield_kite_cav_b_pl|骑 士 筝 形 盾 
-itm_tab_shield_heater_a|老 式 扇 形 盾 
-itm_tab_shield_heater_a_pl|老 式 扇 形 盾 
+itm_tab_shield_heater_a|旧 扇 形 盾 
+itm_tab_shield_heater_a_pl|旧 扇 形 盾 
 itm_tab_shield_heater_b|简 易 扇 形 盾 
 itm_tab_shield_heater_b_pl|简 易 扇 形 盾 
 itm_tab_shield_heater_c|扇 形 盾 
@@ -1650,22 +1650,22 @@ itm_tab_shield_small_round_b|圆 骑 兵 盾
 itm_tab_shield_small_round_b_pl|圆 骑 兵 盾 
 itm_tab_shield_small_round_c|精 锐 骑 兵 盾 
 itm_tab_shield_small_round_c_pl|精 锐 骑 兵 盾 
-itm_lit_pavise_a_1|老 式 立 陶 宛 盾 
-itm_lit_pavise_a_1_pl|老 式 立 陶 宛 盾 
-itm_lit_pavise_b_1|老 式 立 陶 宛 盾 
-itm_lit_pavise_b_1_pl|老 式 立 陶 宛 盾 
-itm_lit_pavise_c_1|老 式 立 陶 宛 盾 
-itm_lit_pavise_c_1_pl|老 式 立 陶 宛 盾 
-itm_lit_pavise_d_1|老 式 立 陶 宛 盾 
-itm_lit_pavise_d_1_pl|老 式 立 陶 宛 盾 
-itm_lit_pavise_e_1|老 式 立 陶 宛 盾 
-itm_lit_pavise_e_1_pl|老 式 立 陶 宛 盾 
-itm_lit_pavise_f_1|老 式 立 陶 宛 盾 
-itm_lit_pavise_f_1_pl|老 式 立 陶 宛 盾 
-itm_lit_pavise_g_1|老 式 立 陶 宛 盾 
-itm_lit_pavise_g_1_pl|老 式 立 陶 宛 盾 
-itm_lit_pavise_h_1|老 式 立 陶 宛 盾 
-itm_lit_pavise_h_1_pl|老 式 立 陶 宛 盾 
+itm_lit_pavise_a_1|旧 立 陶 宛 盾 
+itm_lit_pavise_a_1_pl|旧 立 陶 宛 盾 
+itm_lit_pavise_b_1|旧 立 陶 宛 盾 
+itm_lit_pavise_b_1_pl|旧 立 陶 宛 盾 
+itm_lit_pavise_c_1|旧 立 陶 宛 盾 
+itm_lit_pavise_c_1_pl|旧 立 陶 宛 盾 
+itm_lit_pavise_d_1|旧 立 陶 宛 盾 
+itm_lit_pavise_d_1_pl|旧 立 陶 宛 盾 
+itm_lit_pavise_e_1|旧 立 陶 宛 盾 
+itm_lit_pavise_e_1_pl|旧 立 陶 宛 盾 
+itm_lit_pavise_f_1|旧 立 陶 宛 盾 
+itm_lit_pavise_f_1_pl|旧 立 陶 宛 盾 
+itm_lit_pavise_g_1|旧 立 陶 宛 盾 
+itm_lit_pavise_g_1_pl|旧 立 陶 宛 盾 
+itm_lit_pavise_h_1|旧 立 陶 宛 盾 
+itm_lit_pavise_h_1_pl|旧 立 陶 宛 盾 
 itm_lit_pavise_a_2|简 易 立 陶 宛 盾 
 itm_lit_pavise_a_2_pl|简 易 立 陶 宛 盾 
 itm_lit_pavise_b_2|简 易 立 陶 宛 盾 
@@ -1716,96 +1716,96 @@ itm_lit_pavise_h_4|重 型 立 陶 宛 盾
 itm_lit_pavise_h_4_pl|重 型 立 陶 宛 盾 
 itm_byz_shield|重 型 拜 占 庭 筝 形 盾 
 itm_byz_shield_pl|重 型 拜 占 庭 筝 形 盾 
-itm_arab_shield_a_1|老 式 萨 拉 逊 圆 盾 
-itm_arab_shield_a_1_pl|老 式 萨 拉 逊 圆 盾 
+itm_arab_shield_a_1|旧 萨 拉 逊 圆 盾 
+itm_arab_shield_a_1_pl|旧 萨 拉 逊 圆 盾 
 itm_arab_shield_a_2|简 易 萨 拉 逊 圆 盾 
 itm_arab_shield_a_2_pl|简 易 萨 拉 逊 圆 盾 
 itm_arab_shield_a_3|萨 拉 逊 圆 盾 
 itm_arab_shield_a_3_pl|萨 拉 逊 圆 盾 
 itm_arab_shield_a_4|萨 拉 逊 重 圆 盾 
 itm_arab_shield_a_4_pl|萨 拉 逊 重 圆 盾 
-itm_arab_shield_b_1|老 式 萨 拉 逊 圆 盾 
-itm_arab_shield_b_1_pl|老 式 萨 拉 逊 圆 盾 
+itm_arab_shield_b_1|旧 萨 拉 逊 圆 盾 
+itm_arab_shield_b_1_pl|旧 萨 拉 逊 圆 盾 
 itm_arab_shield_b_2|简 易 萨 拉 逊 圆 盾 
 itm_arab_shield_b_2_pl|简 易 萨 拉 逊 圆 盾 
 itm_arab_shield_b_3|萨 拉 逊 圆 盾 
 itm_arab_shield_b_3_pl|萨 拉 逊 圆 盾 
 itm_arab_shield_b_4|萨 拉 逊 重 圆 盾 
 itm_arab_shield_b_4_pl|萨 拉 逊 重 圆 盾 
-itm_arab_shield_c_1|老 式 萨 拉 逊 圆 盾 
-itm_arab_shield_c_1_pl|老 式 萨 拉 逊 圆 盾 
+itm_arab_shield_c_1|旧 萨 拉 逊 圆 盾 
+itm_arab_shield_c_1_pl|旧 萨 拉 逊 圆 盾 
 itm_arab_shield_c_2|简 易 萨 拉 逊 圆 盾 
 itm_arab_shield_c_2_pl|简 易 萨 拉 逊 圆 盾 
 itm_arab_shield_c_3|萨 拉 逊 圆 盾 
 itm_arab_shield_c_3_pl|萨 拉 逊 圆 盾 
 itm_arab_shield_c_4|萨 拉 逊 重 圆 盾 
 itm_arab_shield_c_4_pl|萨 拉 逊 重 圆 盾 
-itm_arab_shield_d_1|老 式 萨 拉 逊 圆 盾 
-itm_arab_shield_d_1_pl|老 式 萨 拉 逊 圆 盾 
+itm_arab_shield_d_1|旧 萨 拉 逊 圆 盾 
+itm_arab_shield_d_1_pl|旧 萨 拉 逊 圆 盾 
 itm_arab_shield_d_2|简 易 萨 拉 逊 圆 盾 
 itm_arab_shield_d_2_pl|简 易 萨 拉 逊 圆 盾 
 itm_arab_shield_d_3|萨 拉 逊 圆 盾 
 itm_arab_shield_d_3_pl|萨 拉 逊 圆 盾 
 itm_arab_shield_d_4|萨 拉 逊 重 圆 盾 
 itm_arab_shield_d_4_pl|萨 拉 逊 重 圆 盾 
-itm_arab_shield_e_1|老 式 萨 拉 逊 圆 盾 
-itm_arab_shield_e_1_pl|老 式 萨 拉 逊 圆 盾 
+itm_arab_shield_e_1|旧 萨 拉 逊 圆 盾 
+itm_arab_shield_e_1_pl|旧 萨 拉 逊 圆 盾 
 itm_arab_shield_e_2|简 易 萨 拉 逊 圆 盾 
 itm_arab_shield_e_2_pl|简 易 萨 拉 逊 圆 盾 
 itm_arab_shield_e_3|萨 拉 逊 圆 盾 
 itm_arab_shield_e_3_pl|萨 拉 逊 圆 盾 
 itm_arab_shield_e_4|萨 拉 逊 重 圆 盾 
 itm_arab_shield_e_4_pl|萨 拉 逊 重 圆 盾 
-itm_arab_shield_f_1|老 式 萨 拉 逊 圆 盾 
-itm_arab_shield_f_1_pl|老 式 萨 拉 逊 圆 盾 
+itm_arab_shield_f_1|旧 萨 拉 逊 圆 盾 
+itm_arab_shield_f_1_pl|旧 萨 拉 逊 圆 盾 
 itm_arab_shield_f_2|简 易 萨 拉 逊 圆 盾 
 itm_arab_shield_f_2_pl|简 易 萨 拉 逊 圆 盾 
 itm_arab_shield_f_3|萨 拉 逊 圆 盾 
 itm_arab_shield_f_3_pl|萨 拉 逊 圆 盾 
 itm_arab_shield_f_4|萨 拉 逊 重 圆 盾 
 itm_arab_shield_f_4_pl|萨 拉 逊 重 圆 盾 
-itm_arab_shield_g_1|老 式 萨 拉 逊 圆 盾 
-itm_arab_shield_g_1_pl|老 式 萨 拉 逊 圆 盾 
+itm_arab_shield_g_1|旧 萨 拉 逊 圆 盾 
+itm_arab_shield_g_1_pl|旧 萨 拉 逊 圆 盾 
 itm_arab_shield_g_2|简 易 萨 拉 逊 圆 盾 
 itm_arab_shield_g_2_pl|简 易 萨 拉 逊 圆 盾 
 itm_arab_shield_g_3|萨 拉 逊 圆 盾 
 itm_arab_shield_g_3_pl|萨 拉 逊 圆 盾 
 itm_arab_shield_g_4|萨 拉 逊 重 圆 盾 
 itm_arab_shield_g_4_pl|萨 拉 逊 重 圆 盾 
-itm_arab_shield_h_1|老 式 萨 拉 逊 圆 盾 
-itm_arab_shield_h_1_pl|老 式 萨 拉 逊 圆 盾 
+itm_arab_shield_h_1|旧 萨 拉 逊 圆 盾 
+itm_arab_shield_h_1_pl|旧 萨 拉 逊 圆 盾 
 itm_arab_shield_h_2|简 易 萨 拉 逊 圆 盾 
 itm_arab_shield_h_2_pl|简 易 萨 拉 逊 圆 盾 
 itm_arab_shield_h_3|萨 拉 逊 圆 盾 
 itm_arab_shield_h_3_pl|萨 拉 逊 圆 盾 
 itm_arab_shield_h_4|萨 拉 逊 重 圆 盾 
 itm_arab_shield_h_4_pl|萨 拉 逊 重 圆 盾 
-itm_arab_shield_i_1|老 式 萨 拉 逊 圆 盾 
-itm_arab_shield_i_1_pl|老 式 萨 拉 逊 圆 盾 
+itm_arab_shield_i_1|旧 萨 拉 逊 圆 盾 
+itm_arab_shield_i_1_pl|旧 萨 拉 逊 圆 盾 
 itm_arab_shield_i_2|简 易 萨 拉 逊 圆 盾 
 itm_arab_shield_i_2_pl|简 易 萨 拉 逊 圆 盾 
 itm_arab_shield_i_3|萨 拉 逊 圆 盾 
 itm_arab_shield_i_3_pl|萨 拉 逊 圆 盾 
 itm_arab_shield_i_4|萨 拉 逊 重 圆 盾 
 itm_arab_shield_i_4_pl|萨 拉 逊 重 圆 盾 
-itm_cuman_shield_a_1|老 式 库 曼 圆 盾 
-itm_cuman_shield_a_1_pl|老 式 库 曼 圆 盾 
+itm_cuman_shield_a_1|旧 库 曼 圆 盾 
+itm_cuman_shield_a_1_pl|旧 库 曼 圆 盾 
 itm_cuman_shield_a_2|简 易 库 曼 圆 盾 
 itm_cuman_shield_a_2_pl|简 易 库 曼 圆 盾 
 itm_cuman_shield_a_3|库 曼 圆 盾 
 itm_cuman_shield_a_3_pl|库 曼 圆 盾 
 itm_cuman_shield_a_4|库 曼 重 圆 盾 
 itm_cuman_shield_a_4_pl|库 曼 重 圆 盾 
-itm_cuman_shield_b_1|老 式 库 曼 圆 盾 
-itm_cuman_shield_b_1_pl|老 式 库 曼 圆 盾 
+itm_cuman_shield_b_1|旧 库 曼 圆 盾 
+itm_cuman_shield_b_1_pl|旧 库 曼 圆 盾 
 itm_cuman_shield_b_2|简 易 库 曼 圆 盾 
 itm_cuman_shield_b_2_pl|简 易 库 曼 圆 盾 
 itm_cuman_shield_b_3|库 曼 圆 盾 
 itm_cuman_shield_b_3_pl|库 曼 圆 盾 
 itm_cuman_shield_b_4|库 曼 重 圆 盾 
 itm_cuman_shield_b_4_pl|库 曼 重 圆 盾 
-itm_cuman_shield_c_1|老 式 库 曼 圆 盾 
-itm_cuman_shield_c_1_pl|老 式 库 曼 圆 盾 
+itm_cuman_shield_c_1|旧 库 曼 圆 盾 
+itm_cuman_shield_c_1_pl|旧 库 曼 圆 盾 
 itm_cuman_shield_c_2|简 易 库 曼 圆 盾 
 itm_cuman_shield_c_2_pl|简 易 库 曼 圆 盾 
 itm_cuman_shield_c_3|库 曼 圆 盾 
@@ -1958,8 +1958,8 @@ itm_genoa_mail_b|热 那 亚 链 甲
 itm_genoa_mail_b_pl|热 那 亚 链 甲 
 itm_genoa_mail_c|热 那 亚 链 甲 
 itm_genoa_mail_c_pl|热 那 亚 链 甲 
-itm_andalusian_shield_1|老 式 安 达 卢 西 亚 盾 
-itm_andalusian_shield_1_pl|老 式 安 达 卢 西 亚 盾 
+itm_andalusian_shield_1|旧 安 达 卢 西 亚 盾 
+itm_andalusian_shield_1_pl|旧 安 达 卢 西 亚 盾 
 itm_andalusian_shield_2|简 易 安 达 卢 西 亚 盾 
 itm_andalusian_shield_2_pl|简 易 安 达 卢 西 亚 盾 
 itm_andalusian_shield_3|安 达 卢 西 亚 盾 
@@ -2250,8 +2250,8 @@ itm_kettlehat_b|锅 盔
 itm_kettlehat_b_pl|锅 盔 
 itm_kettlehat_c|锅 盔 
 itm_kettlehat_c_pl|锅 盔 
-itm_tab_shield_iberia_a|老 式 伊 比 利 亚 盾 
-itm_tab_shield_iberia_a_pl|老 式 伊 比 利 亚 盾 
+itm_tab_shield_iberia_a|旧 伊 比 利 亚 盾 
+itm_tab_shield_iberia_a_pl|旧 伊 比 利 亚 盾 
 itm_tab_shield_iberia_b|平 面 伊 比 利 亚 盾 
 itm_tab_shield_iberia_b_pl|平 面 伊 比 利 亚 盾 
 itm_tab_shield_iberia_c|伊 比 利 亚 盾 
@@ -2264,8 +2264,8 @@ itm_berber_shield_3|柏 柏 尔 盾
 itm_berber_shield_3_pl|柏 柏 尔 盾 
 itm_berber_shield_2|平 面 柏 柏 尔 盾 
 itm_berber_shield_2_pl|平 面 柏 柏 尔 盾 
-itm_berber_shield_1|老 式 柏 柏 尔 盾 
-itm_berber_shield_1_pl|老 式 柏 柏 尔 盾 
+itm_berber_shield_1|旧 柏 柏 尔 盾 
+itm_berber_shield_1_pl|旧 柏 柏 尔 盾 
 itm_andalus_marinid_hasfid_elite_a|摩 尔 链 甲 长 袍 
 itm_andalus_marinid_hasfid_elite_a_pl|摩 尔 链 甲 长 袍 
 itm_andalus_marinid_hasfid_elite_b|摩 尔 链 甲 长 袍 
