@@ -370,7 +370,7 @@ str_npc2_intro|Laba Diena！ 或 者 换 种 方 式 说， 陌 生 人 你 好�
 str_npc3_intro|你 好 啊， 旅 行 者。 我 们 一 起 喝 一 杯 怎 么 样？ 
 str_npc4_intro|咸 水、 泪 水、 汗 水 或 者 海 水 这 些 有 盐 的 东 西 对 于 伤 口 治 疗 很 有 帮 助。 
 str_npc5_intro|欢 迎 来 到 我 的 酒 馆！ 我 是 博 尔 科， 一 名 非 凡 的 斧 战 士。 
-str_npc6_intro|{先 生/女 士} … …
+str_npc6_intro|{先 生/女 士}… …
 str_npc7_intro|Istvan the Hungarian
 str_npc8_intro|Yuriy of Novgorod
 str_npc9_intro|你 好， 需 要 雇 佣 弓 箭 手 吗？ 
@@ -423,7 +423,7 @@ str_npc28_intro_response_1|Gamal the Arab - response 2{***}
 str_npc29_intro_response_1|Dragoslav the Serbian - response 2{***}
 str_npc30_intro_response_1|Kyril the Bulgarian - response 2{***}
 str_npc31_intro_response_1|Ali the Berber - response 2{***}
-str_npc1_intro_response_2|啊， 我 是 不 是 走 错 了 地 方 … …
+str_npc1_intro_response_2|啊， 我 是 不 是 走 错 了 地 方… …
 str_npc2_intro_response_2|我 觉 得 我 们 还 是 保 持 点 儿 距 离 比 较 好。 
 str_npc3_intro_response_2|我 没 有 那 个 时 间。 
 str_npc4_intro_response_2|呃， 对 不 起 朋 友， 我 不 是 个 水 手。 
@@ -511,7 +511,7 @@ str_npc29_backstory_b|Dragoslav the Serbian - backstory b{***}
 str_npc30_backstory_b|Kyril the Bulgarian - backstory b{***}
 str_npc31_backstory_b|Ali the Berber - backstory b{***}
 str_npc1_backstory_c|现 在 你 明 白 我 为 什 么 坐 在 这 个 普 通 的 酒 馆 里， 而 不 是 指 挥 军 队 摧 毁 敌 军 了 吧。 
-str_npc2_backstory_c|当 我 回 到 部 队 时， 额， 其 实 那 时 已 经 没 有 部 队 了， 只 有 成 千 上 万 的 蹄 印 和 很 多 尸 体。 现 在 我 不 敢 回 家 ， 因 为 怕 被 看 成 逃 兵， 我 想 回 到 我 的 城 镇。 {***}
+str_npc2_backstory_c|当 我 回 到 部 队 时， 额， 其 实 那 时 已 经 没 有 部 队 了， 只 有 成 千 上 万 的 蹄 印 和 很 多 尸 体。 现 在 我 不 敢 回 家， 因 为 怕 被 看 成 逃 兵， 我 想 回 到 我 的 城 镇。 {***}
 str_npc3_backstory_c|在 此 期 间， 能 用 我 的 剑 赚 钱 谋 生 的 机 会， 我 都 是 很 欢 迎 的。 
 str_npc4_backstory_c|于 是 船 长 如 我 要 求 的， 决 定 孝 敬 神。 而 我 被 当 成 献 祭 品 扔 下 了 船。 我 昏 了 过 去。 等 我 醒 来 时， 我 已 经 被 冲 到 了 海 岸 上， 身 无 分 文。 
 str_npc5_backstory_c|总 有 一 天， 我 会 找 到 一 位 赏 识 我 能 力 的 君 主， 并 成 为 他 的 封 臣。 我 会 得 到 封 地， 以 贵 族 的 身 份 统 治 我 的 土 地， 并 创 造 流 芳 后 世 的 传 奇。 
@@ -736,17 +736,17 @@ str_npc22_signup_response_2|Alexios the Greek - signup response 2{***}
 str_npc23_signup_response_2|Hugues the Crusader - signup response 2{***}
 str_npc24_signup_response_2|Dego the Sicilian - signup response 2{***}
 str_npc25_signup_response_2|事 实 上， 一 名 过 分 急 于 追 求 荣 耀 的 战 士 对 团 队 是 非 常 危 险 的。 
-str_npc26_signup_response_2|嗯 报 复 是 一 种 困 扰， 这 需 要 充 分 的 时 间 思 考 … … 也 许 换 个 时 间 吧。 
+str_npc26_signup_response_2|嗯 报 复 是 一 种 困 扰， 这 需 要 充 分 的 时 间 思 考… … 也 许 换 个 时 间 吧。 
 str_npc27_signup_response_2|Erm,Sorry I'm the one doing you the favour, not the other way round. Don't think this will work out. Goodbye.{***}
 str_npc28_signup_response_2|Gamal the Arab - signup response 2{***}
 str_npc29_signup_response_2|Dragoslav the Serbian - signup response 2{***}
 str_npc30_signup_response_2|Kyril the Bulgarian - signup response 2{***}
 str_npc31_signup_response_2|Ali the Berber - signup response 2{***}
 str_npc1_payment|我 们 离 开 之 前， 你 能 否 先 付 给 我 {reg3}第 纳 尔， 以 证 明 你 不 是 个 想 欺 骗 走 背 运 的 人 的 骗 子。 
-str_npc3_payment|谢 谢。 现 在， 为 了 保 证 我 们 之 间 的 协 议， 我 要 求 你 给 我 {reg3}第 纳 尔。 这 是 我 父 亲 给 我 的 建 议。 他 告 诉 过 我：“合 丹 ， 永 远 不 要 先 替 野 蛮 人 卖 命， 在 {他/她} 付 给 你 和 你 相 称 的 钱 之 前。 ” 
+str_npc3_payment|谢 谢。 现 在， 为 了 保 证 我 们 之 间 的 协 议， 我 要 求 你 给 我 {reg3}第 纳 尔。 这 是 我 父 亲 给 我 的 建 议。 他 告 诉 过 我：“合 丹， 永 远 不 要 先 替 野 蛮 人 卖 命， 在 {他/她} 付 给 你 和 你 相 称 的 钱 之 前。 ” 
 str_npc4_payment|好 的， 大 人。 在 我 的 国 家， 被 雇 者 会 收 到 一 个 臂 环 作 为 服 役 的 标 志， 既 然 你 没 有， 我 觉 得 用 些 钱 可 以 替 代。 {reg3}第 纳 尔 就 够 了 吧。 
 str_npc5_payment|好 极 了。 不 过 在 我 们 离 开 之 前， 我 想 让 你 先 付 我 {reg3}第 纳 尔， 证 明 你 会 履 行 我 们 的 协 议。 
-str_npc6_payment|{先 生/尊 敬 的 女 士} ， 我 需 要 {reg3}第 纳 尔 来 准 备 我 母 亲 的 葬 礼。 我 必 须 安 葬 好 她 前 不 会 离 开。 
+str_npc6_payment|{先 生/尊 敬 的 女 士}， 我 需 要 {reg3}第 纳 尔 来 准 备 我 母 亲 的 葬 礼。 我 必 须 安 葬 好 她 前 不 会 离 开。 
 str_npc7_payment|Istvan the Hungarian - payment
 str_npc8_payment|Yuriy of Novgorod - payment
 str_npc10_payment|Jean the Frenchman - payment
@@ -761,7 +761,7 @@ str_npc20_payment|Isma'il the Andalusian - payment{***}
 str_npc22_payment|Alexios the Greek - payment{***}
 str_npc23_payment|Hugues the Crusader - payment{***}
 str_npc24_payment|Dego the Sicilian - payment{***}
-str_npc25_payment|在 我 签 约 之 前， 有 一 小 笔 我 待 在 这 里 期 间 牵 扯 到 的 费 用 — — {reg3}第 纳 尔。 你 认 为 你 可 以 为 我 代 付 掉 吗， 作 为 一 个 表 示 友 好 的 姿 态？ 
+str_npc25_payment|在 我 签 约 之 前， 有 一 小 笔 我 待 在 这 里 期 间 牵 扯 到 的 费 用— — {reg3}第 纳 尔。 你 认 为 你 可 以 为 我 代 付 掉 吗， 作 为 一 个 表 示 友 好 的 姿 态？ 
 str_npc26_payment|如 果 你 能 帮 我 付 清 账 单 上 的 区 区 {reg3}第 纳 尔。 我 将 不 胜 感 激。 
 str_npc27_payment|不 过， 作 为 一 名 雇 佣 兵， 我 需 要 你 能 证 明 你 能 提 供 给 我 固 定 的 收 入。 付 给 我 {reg3}第 纳 尔 就 足 够 了。 
 str_npc28_payment|Gamal the Arab - payment{***}
@@ -769,7 +769,7 @@ str_npc29_payment|Dragoslav the Serbian - payment{***}
 str_npc30_payment|Kyril the Bulgarian - payment{***}
 str_npc31_payment|Ali the Berber - payment{***}
 str_npc1_payment_response|好， 这 是 {reg3}第 纳 尔， 作 为 一 名 士 兵 向 另 一 名 表 示 友 好 的 方 式。 {***}
-str_npc3_payment_response|那 … … 好 吧， 这 是 {reg3}第 纳 尔， 你 的 第 一 笔 佣 金。 
+str_npc3_payment_response|那… … 好 吧， 这 是 {reg3}第 纳 尔， 你 的 第 一 笔 佣 金。 
 str_npc4_payment_response|{reg3}第 纳 尔 只 是 我 付 给 狂 战 士 的 一 点 小 代 价 而 已。 
 str_npc5_payment_response|没 问 题， 这 是 {reg3}第 纳 尔。 
 str_npc6_payment_response|这 是 {reg3}第 纳 尔 作 为 预 付 你 的 佣 金。 愿 你 母 亲 安 息！ 
@@ -932,7 +932,7 @@ str_npc30_personalityclash2_speech|Kyril the Bulgarian - personalityclash2 speec
 str_npc31_personalityclash2_speech|Ali the Berber - personalityclash2 speech{***}
 str_npc1_personalityclash2_speech_b|I request most urgently that you take him to one side and explain that lies and false rummors he heard from his 2nd cousin are no grounds for spreading falsehoods. Or better have him strung up from the nearest tree for his crimes.
 str_npc2_personalityclash2_speech_b|Ligeikis the Balt - personalityclash2 speech b
-str_npc3_personalityclash2_speech_b|上 次 战 斗 之 后， 在 成 堆 的 战 利 品 里， 我 从 敌 人 的 行 李 中 发 现 了 一 个 非 常 好 的 锅。 我 一 直 希 望 弄 到 一 个 好 锅 ， 这 样 我 就 能 炖 些 吃 的 ， 我 的 族 人 在 冬 天 经 常 这 样 暖 暖 自 己 的 肚 子。 但 是{s11}抢 走 了 锅， 他 告 诉 我， 我 不 能 用 异 教 徒 的 食 物 糟 蹋 了 这 锅， 这 锅 理 所 当 然 是 属 于 他 的。 虽 然 我 把 锅 让 给 了 他， 但 以 后， 我 决 不 允 许 再 出 现 这 种 不 尊 重 我 的 事 情 了。 
+str_npc3_personalityclash2_speech_b|上 次 战 斗 之 后， 在 成 堆 的 战 利 品 里， 我 从 敌 人 的 行 李 中 发 现 了 一 个 非 常 好 的 锅。 我 一 直 希 望 弄 到 一 个 好 锅， 这 样 我 就 能 炖 些 吃 的， 我 的 族 人 在 冬 天 经 常 这 样 暖 暖 自 己 的 肚 子。 但 是{s11}抢 走 了 锅， 他 告 诉 我， 我 不 能 用 异 教 徒 的 食 物 糟 蹋 了 这 锅， 这 锅 理 所 当 然 是 属 于 他 的。 虽 然 我 把 锅 让 给 了 他， 但 以 后， 我 决 不 允 许 再 出 现 这 种 不 尊 重 我 的 事 情 了。 
 str_npc4_personalityclash2_speech_b|哪 怕 有 一 点 点 的 良 心， 他 都 不 会 做 这 样 恐 怖 的 事 情。 队 长， 你 必 须 阻 止 他 这 样 破 坏 您 的 名 声。 拥 有 一 支 勇 猛 的 军 队 是 一 回 事， 但 屠 杀 受 伤 的 穷 人 又 是 另 外 一 回 事。 
 str_npc5_personalityclash2_speech_b|Bolko the Pole - personalityclash2 speech b
 str_npc6_personalityclash2_speech_b|I would beg of you {先 生/女 士}, that you would speak with him and tell him that his attitude to my religious observences is none of his concern.
@@ -1366,7 +1366,7 @@ str_npc30_kingsupport_3|Kyril the Bulgarian - kingsupport 3{***}
 str_npc31_kingsupport_3|Ali the Berber - kingsupport 3{***}
 str_npc1_kingsupport_objection|Leige I have heard that you have made Jaume a representive of your thoughts and wishes regarding the future of the kingdom! I never thought I would see you betray your values like this in public. You insult all of us who would of seen you made Leader of this land.
 str_npc2_kingsupport_objection|Ligeikis the Balt - kingsupport objection
-str_npc3_kingsupport_objection|我 听 到 了 你 告 诉 雨 果 的 话。 但 是 我 很 困 惑， 如 果 靠 种 地 谋 生 的 领 主 还 有 靠 交 易 谋 生 的 商 人 能 决 定 征 什 么 税 的 话， 那 到 底 最 后 谁 会 交 税？ 当 然 是 靠 放 牧 生 活 的 人 — — 我 的 族 人， 那 些 生 活 在 草 原 的 人。 那 些 议 会 和 我 毫 不 相 干。 所 有 自 由 的 人 都 应 该 在 可 汗 之 下 团 结 如 一。 
+str_npc3_kingsupport_objection|我 听 到 了 你 告 诉 雨 果 的 话。 但 是 我 很 困 惑， 如 果 靠 种 地 谋 生 的 领 主 还 有 靠 交 易 谋 生 的 商 人 能 决 定 征 什 么 税 的 话， 那 到 底 最 后 谁 会 交 税？ 当 然 是 靠 放 牧 生 活 的 人— — 我 的 族 人， 那 些 生 活 在 草 原 的 人。 那 些 议 会 和 我 毫 不 相 干。 所 有 自 由 的 人 都 应 该 在 可 汗 之 下 团 结 如 一。 
 str_npc4_kingsupport_objection|队 长！ 为 什 么 你 让 乌 尔 里 希 在 这 么 重 要 的 事 情 上 代 表 你？ 这 关 系 到 您 将 来 的 计 划。 他 会 让 普 通 人 根 本 不 尊 重 你， 仅 仅 是 忍 耐！ 在 一 起 战 斗 了 这 么 长 时 间， 你 怎 么 能 为 了 这 片 土 地 的 王 座 就 这 么 便 宜 的 卖 了 我 们？ 
 str_npc5_kingsupport_objection|Bolko the Pole - kingsupport objection
 str_npc6_kingsupport_objection|{先 生/女 士} I feeL sending Martio off on a mission to gather support from the people for your cause. I fear he will do more harm than good, promising the poor unrealistic rewards and threatening the rich with a system that would undermine their wealth.
@@ -2289,8 +2289,8 @@ str_banning_a_player_is_voteable|可 以 投 票 禁 止 玩 家。
 str_banning_a_player_is_not_voteable|不 能 就 是 否 禁 止 一 名 玩 家 进 行 投 票。 
 str_player_banners_are_allowed|允 许 玩 家 旗 帜。 
 str_player_banners_are_not_allowed|不 允 许 玩 家 旗 帜。 
-str_default_armor_is_forced|默 认 防 具 已 被 强 制 使 用 。 
-str_default_armor_is_not_forced|默 认 防 具 没 有 强 制 使 用 。 
+str_default_armor_is_forced|默 认 防 具 已 被 强 制 使 用。 
+str_default_armor_is_not_forced|默 认 防 具 没 有 强 制 使 用。 
 str_percentage_of_yes_votes_required_for_a_poll_to_get_accepted_is_reg0|达 成 决 议 所 需 的 赞 成 票 比 例 是 {reg0}%。 
 str_auto_team_balance_threshold_is_reg0|自 动 队 伍 平 衡 的 临 界 值 是 {reg0}。 
 str_starting_gold_ratio_is_reg0|初 始 金 钱 比 率 是 {reg0}%。 
@@ -2305,8 +2305,8 @@ str_system_error|系 统 错 误！
 str_prisoner_granted_parole|战 俘 获 得 释 放 
 str_prisoner_not_offered_parole|战 俘 没 有 被 释 放 
 str__age_reg1_family_|^ 年 龄 ： {reg1}^ 家 族 ： 
-str_s49_s12_s11_rel_reg0|{s49}{s12}（{s11}， rel： {reg0}） ， 
-str_s49_s12_s11|{s49}{s12}（{s11}） ， 
+str_s49_s12_s11_rel_reg0|{s49}{s12}（{s11}， rel： {reg0}）， 
+str_s49_s12_s11|{s49}{s12}（{s11}）， 
 str_lord_info_string|{reg6?:{reg4?{s54}是 {s56}的 统 治 者。 ^:{s54}是 {s56}的 {s55}手 下 的 一 位 领 主。 ^} } 声 望:{reg5}。 争 议： {reg15}。 ^{reg9?{reg3?她 :他 }是 {s58}的 {reg3?领 主:领 主}。 :{reg3? 她:他} 没 有 封 地。 } {s59}^{s49}
 str_foreign_relations__|外 交 关 系： ^ 
 str_s21__the_s5_is_at_war_with_the_s14|{s21}^*{s5}与 {s14}正 处 于 战 争 状 态 中。 
@@ -2726,7 +2726,7 @@ str_you_serve_another_realm_i_dont_see_s4_granting_reg4herhis_blessing_to_our_un
 str_madame_my_heart_currently_belongs_to_s4|夫 人， 我 的 心 现 在 属 于 {s4}。 
 str_my_lady_you_are_a_woman_of_great_spirit_and_bravery_possessed_of_beauty_grace_and_wit_i_shall_give_your_proposal_consideration|尊 敬 的 女 士， 你 是 一 位 集 勇 气 与 智 慧， 美 貌 与 优 雅 于 一 身 的 女 性。 我 会 好 好 考 虑 你 的 提 议 的。 
 str_my_lady_you_are_a_woman_of_great_spirit_and_bravery_possessed_of_beauty_grace_and_wit_i_would_be_most_honored_were_you_to_become_my_wife|尊 敬 的 女 士， 你 是 一 位 集 勇 气 与 智 慧， 美 貌 与 优 雅 于 一 身 的 女 性。 能 娶 你 为 妻 是 我 莫 大 的 荣 耀。 
-str_ah__kais_and_layali__such_a_sad_tale_many_a_time_has_it_been_recounted_for_my_family_by_the_wandering_poets_who_come_to_our_home_and_it_has_never_failed_to_bring_tears_to_our_eyes|啊— — “凯 斯 和 莱 亚 拉” — — 真 是 个 凄 美 的 传 说。 来 我 们 家 的 吟 游 诗 人 们， 一 次 又 一 次 地 提 起 这 首 诗， 而 每 一 次 我 都 听 得 流 下 眼 泪。 
+str_ah__kais_and_layali__such_a_sad_tale_many_a_time_has_it_been_recounted_for_my_family_by_the_wandering_poets_who_come_to_our_home_and_it_has_never_failed_to_bring_tears_to_our_eyes|啊— — “凯 斯 和 莱 亚 拉”— — 真 是 个 凄 美 的 传 说。 来 我 们 家 的 吟 游 诗 人 们， 一 次 又 一 次 地 提 起 这 首 诗， 而 每 一 次 我 都 听 得 流 下 眼 泪。 
 str_kais_and_layali_three_hundred_stanzas_of_pathetic_sniveling_if_you_ask_me_if_kais_wanted_to_escape_heartbreak_he_should_have_learned_to_live_within_his_station_and_not_yearn_for_what_he_cannot_have|“凯 斯 和 莱 亚 拉” ？ 就 像 三 百 段 无 聊 的 啜 泣， 如 果 你 要 我 评 价 它 的 话。 如 果 凯 斯 想 要 走 出 悲 伤， 那 么 他 必 须 活 在 现 实 里， 而 不 是 牵 挂 着 那 些 得 不 到 的 东 西。 
 str_kais_and_layali_no_one_should_ever_have_written_such_a_sad_poem_if_it_was_the_destiny_of_kais_and_layali_to_be_together_than_their_love_should_have_conquered_all_obstacles|“凯 斯 和 莱 亚 拉” ？ 谁 也 不 应 该 写 出 如 此 悲 伤 的 诗 歌！ 如 果 老 天 注 定 要 让 凯 斯 和 莱 亚 拉 在 一 起， 那 么 他 们 的 爱 情 就 该 冲 破 所 有 的 阻 碍！ 
 str_ah_kais_and_layali_a_very_old_standby_but_moving_in_its_way|啊， “凯 斯 和 莱 亚 拉” 很 古 老 的 备 用 文 章， 但 是， 已 经 过 时 了。 
@@ -2878,7 +2878,7 @@ str_no_fiefss12|（无 封 地） {s12}
 str_fiefs_s0s12|（封 地： {s0}{s12}） 
 str_please_s65_|请 {s65}， 
 str__s15_is_also_being_held_here_and_you_may_wish_to_see_if_reg4shehe_will_join_us|{s15}已 经 被 我 们 所 控 制， 你 想 试 着 说 服 {reg4?她 :他 }加 入 吗？ 
-str_one_thing_in_our_favor_is_that_s12s_grip_is_very_shaky_he_rules_over_a_labyrinth_of_rivalries_and_grudges_lords_often_fail_to_cooperate_and_many_would_happily_seek_a_better_liege|{s12}的 统 治 非 常 脆 弱， 这 对 我 们 而 言 的 确 是 一 个 好 消 息。 他 治 下 的 领 主 们 彼 此 猜 忌， 充 满 了 争 斗 和 敌 意， 而 且 很 多 人 会 很 高 兴 打 开 城 门 欢 迎 一 个 更 好 的 君 主 。 
+str_one_thing_in_our_favor_is_that_s12s_grip_is_very_shaky_he_rules_over_a_labyrinth_of_rivalries_and_grudges_lords_often_fail_to_cooperate_and_many_would_happily_seek_a_better_liege|{s12}的 统 治 非 常 脆 弱， 这 对 我 们 而 言 的 确 是 一 个 好 消 息。 他 治 下 的 领 主 们 彼 此 猜 忌， 充 满 了 争 斗 和 敌 意， 而 且 很 多 人 会 很 高 兴 打 开 城 门 欢 迎 一 个 更 好 的 君 主。 
 str_thankfully_s12s_grip_is_fairly_shaky_many_lords_do_not_cooperate_with_each_other_and_some_might_be_tempted_to_seek_a_better_liege|幸 运 的 是， {s12}的 统 治 非 常 脆 弱， 领 主 们 缺 乏 合 作， 互 相 猜 忌， 而 且 很 多 人 会 很 高 兴 打 开 城 门 欢 迎 一 个 更 好 的 君 主。 
 str_unfortunately_s12s_grip_is_fairly_strong_until_we_can_shake_it_we_may_have_to_look_long_and_hard_for_allies|不 幸 的 是， {s12}的 统 治 非 常 稳 固。 除 非 我 们 找 到 动 摇 其 统 治 的 手 段， 我 们 必 须 多 观 望 一 段 时 间， 努 力 找 到 在 他 内 部 的 盟 友。 
 str_unfortunately_s12s_grip_is_very_strong_unless_we_can_loosen_it_it_may_be_difficult_to_find_allies|不 幸 的 是， {s12}的 统 治 极 其 稳 固。 除 非 我 们 能 想 办 法 让 他 们 产 生 动 摇， 否 则 我 们 很 难 找 到 内 部 的 盟 友。 
@@ -3283,7 +3283,7 @@ str_s21_the_s8_declared_war_to_regain_lost_territory|{s8}{s21}为 了 收 复 �
 str__family_|^ 家 族 ： 
 str_we_are_conducting_recce|在 决 定 要 做 什 么 之 前， 我 们 必 须 先 仔 细 侦 查 这 个 地 区。 
 str__family_|^ 家 族 ： 
-str_s49_s12_s11_end|{s49}{s12}（{s11}） 。 
+str_s49_s12_s11_end|{s49}{s12}（{s11}）。 
 str_center_party_not_active|并 不 是 我 们 的 目 标， 我 们 没 有 哪 位 领 主 曾 经 占 领 此 处。 
 str_center_is_friendly|不 是 我 们 的 敌 人。 
 str_center_is_already_besieged|正 遭 到 围 攻。 
@@ -3462,7 +3462,7 @@ str_you_are_a_lord_lady_of_s8_s9|你 是 {s8}的 {领 主/夫 人}。 ^{s9}
 str_you_are_king_queen_of_s8_s9|你 是 {s8}的 {国 王/女 王}。 ^{s9}
 str_for_s4|{s4}的 
 str_cancel_fiancee_quest|同 样， 也 请 你 考 虑 其 它 我 交 给 你 的 任 务 已 经 顺 利 完 成 了。 对 我 来 说 把 任 务 委 托 给 你 并 不 合 适。 
-str_a_duel_request_is_sent_to_s0|发 送 决 斗 邀 请 给 {s0} 。 
+str_a_duel_request_is_sent_to_s0|发 送 决 斗 邀 请 给 {s0}。 
 str_s0_offers_a_duel_with_you|{s0} 发 送 了 一 次 决 斗 邀 请 给 你。 
 str_your_duel_with_s0_is_cancelled|你 和 {s0} 的 决 斗 已 取 消。 
 str_a_duel_between_you_and_s0_will_start_in_3_seconds|你 和 {s0} 的 决 斗 将 在 三 秒 钟 内 开 始。 
@@ -3538,7 +3538,7 @@ str_dplmc_tax_low|低
 str_dplmc_tax_normal|正 常 
 str_dplmc_tax_high|高 
 str_dplmc_tax_very_high|非 常 高 
-str_dplmc_place_is_occupied_by_insurgents|该 地 区 被 叛 乱 暴 动 者 占 领 。 
+str_dplmc_place_is_occupied_by_insurgents|该 地 区 被 叛 乱 暴 动 者 占 领。 
 str_dplmc_relation_mnus_100_ns|他 与 {s59}势 同 水 火。 
 str_dplmc_relation_mnus_90_ns|他 与 {s59}势 同 水 火。 
 str_dplmc_relation_mnus_80_ns|他 与 {s59}势 同 水 火。 
