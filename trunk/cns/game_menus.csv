@@ -91,8 +91,8 @@ mno_camp_wait_here|在 这 里 待 一 会 儿。
 mno_camp_cheat|作 弊 菜 单！ 
 mno_resume_travelling|继 续 旅 程。 
 menu_camp_cheat|选 择 作 弊 项 目： 
-mno_camp_cheat_find_item|查 找 项 目 … …
-mno_camp_cheat_find_item|改 变 天 气 … … 
+mno_camp_cheat_find_item|查 找 项 目… …
+mno_camp_cheat_find_item|改 变 天 气… … 
 menu_camp_action|选 择 你 要 做 的 事： 
 mno_camp_recruit_prisoners|从 俘 虏 中 募 兵。 
 mno_action_read_book|选 一 本 书 读。 
@@ -828,7 +828,7 @@ mno_dplmc_demand_4000|索 要 4000 第 纳 尔 战 争 赔 款。
 mno_dplmc_demand_8000|索 要 8000 第 纳 尔 战 争 赔 款。 
 mno_dplmc_demand_castle|要 求 割 让 {s2}。 
 mno_dplmc_go_back|后 退 
-menu_dplmc_deny_terms|{s1}拒 绝 了 你 的 条 款 而 使 谈 判 破 裂 。 
+menu_dplmc_deny_terms|{s1}拒 绝 了 你 的 条 款 而 使 谈 判 破 裂。 
 mno_dplmc_continue|继 续 
 menu_dplmc_village_riot_result|{s9}
 mno_dplmc_continue|继 续 
@@ -836,7 +836,7 @@ menu_dplmc_village_riot_removed|在 血 腥 的 战 斗 中， 你 的 部 队 �
 mno_dplmc_continue|继 续 
 menu_dplmc_town_riot_removed|在 血 腥 的 战 斗 中， 你 的 部 队 屠 杀 了 暴 动 的 民 众 并 重 新 夺 回 了 对 城 镇 的 控 制 权。 
 mno_dplmc_continue|继 续 
-menu_dplmc_riot_negotiate|你 靠 近 愤 怒 的 人 群 并 试 图 谈 判。 义 军 领 袖 要 求 你 支 付 {reg0}第 纳 尔。 如 果 你 同 意 的 话 他 们 会 放 下 武 器 。 
+menu_dplmc_riot_negotiate|你 靠 近 愤 怒 的 人 群 并 试 图 谈 判。 义 军 领 袖 要 求 你 支 付 {reg0}第 纳 尔。 如 果 你 同 意 的 话 他 们 会 放 下 武 器。 
 mno_dplmc_pay_riot_treasury|让 管 家 从 金 库 中 支 付 这 笔 钱。 
 mno_dplmc_pay_riot_cash|支 付 现 金。 
 mno_dplmc_back|后 退 
@@ -859,7 +859,7 @@ menu_dplmc_chancellor_confirm|你 的 总 理 大 臣 可 以 在 你 的 宫 �
 mno_dplmc_continue|继 续 
 menu_dplmc_deserters|Some of your men don't believe that you will pay their wages and desert. Overall you lose: {s11} men.
 mno_dplmc_continue|继 续 
-menu_dplmc_negotiate_besieger|你 打 着 白 旗 出 现 在 城 头。 过 了 一 会 儿 一 名 {s11}的 谈 判 者 接 近 你。 他 要 求 你 献 出 {s6}以 及 所 有 下 辖 村 庄 并 支 付 {reg0}第 纳 尔 作 为 求 和 的 表 现 。 
+menu_dplmc_negotiate_besieger|你 打 着 白 旗 出 现 在 城 头。 过 了 一 会 儿 一 名 {s11}的 谈 判 者 接 近 你。 他 要 求 你 献 出 {s6}以 及 所 有 下 辖 村 庄 并 支 付 {reg0}第 纳 尔 作 为 求 和 的 表 现。 
 mno_dplmc_comply_treasury|接 受 条 件 并 让 管 家 从 金 库 中 支 付 这 笔 钱。 
 mno_dplmc_comply|接 受 条 件 并 支 付 现 金。 
 mno_dplmc_break_off|停 止 谈 判。 
@@ -872,7 +872,7 @@ mno_loot|查 看 战 利 品。
 mno_auto_loot_upgrade_management|调 整 NPC的 装 备 升 级 方 案。 
 mno_auto_loot_leave_with_nothing|让 NPC带 走 所 有 高 于 {reg1}第 纳 尔 的 物 品 并 离 开。 
 mno_auto_loot_leave|{s20}
-menu_auto_loot|你 的 英 雄 会 自 动 的 从 物 品 栏 里 拿 走 他 们 被 提 前 设 定 过 的 所 需 要 的 物 品 。 处 在 部 队 列 表 里 靠 前 面 的 英 雄 会 首 先 选 择 物 品 。 所 有 不 再 需 要 的 装 备 会 放 回 到 战 利 品 中 。 你 确 认 要 这 样 做 吗 ？ 
+menu_auto_loot|你 的 英 雄 会 自 动 的 从 物 品 栏 里 拿 走 他 们 被 提 前 设 定 过 的 所 需 要 的 物 品。 处 在 部 队 列 表 里 靠 前 面 的 英 雄 会 首 先 选 择 物 品。 所 有 不 再 需 要 的 装 备 会 放 回 到 战 利 品 中。 你 确 认 要 这 样 做 吗 ？ 
 mno_No|不， 我 改 主 意 了。 
 mno_Yes|对， 就 这 样 做。 
 menu_pagan_stronghold|你 进 入 密 林， 发 现 了 一 个 要 塞 据 点， 它 属 于 {s21}。 

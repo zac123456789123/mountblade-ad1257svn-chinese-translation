@@ -359,8 +359,8 @@ qstr_Your_horse_received_|你 的 马 受 到 了 架 起 的 长 矛 的 {reg1}
 qstr_The_injury_causes_yo|这 次 受 伤 致 使 你 虎 口 迸 裂， 无 法 再 握 矛 了！ 
 qstr_Spear_wall_dealt_{re|矛 阵 造 成 了 {reg1}点 伤 害！ 
 qstr_Bracing_spear_for_ch|架 矛， 抵 御 冲 锋。 
-qstr_Battle_lost...|战 斗 失 败 … … 
-qstr_Battle_lost!_Press_t|战 斗 失 败！ 按 Tab键 退 出 … … 
+qstr_Battle_lost...|战 斗 失 败… … 
+qstr_Battle_lost!_Press_t|战 斗 失 败！ 按 Tab键 退 出… … 
 qstr_You_have_been_knocke|你 被 敌 人 击 倒 了， 你 可 以 选 择 观 看 你 的 士 兵 们 继 续 战 斗， 或 者 按 Tab键 撤 退。 
 qstr_If_you_choose_to_wat|如 果 你 选 择 继 续 观 看 战 斗， 你 可 以 使 用 鼠 标 的 滚 轮 来 切 换 不 同 部 队 的 视 角， 或 者 用 ASDW来 自 由 移 动 观 看 位 置。 
 qstr_Forming_ranks.|正 在 组 成 阵 型。 
@@ -455,11 +455,11 @@ qstr_{s1}_of_{s3}_managed|{s3}的 {s1}设 法 逃 离。
 qstr_Some_of_your_tendons|你 的 一 些 肌 腱 在 战 斗 中 受 伤 了， 你 失 去 了 1点 力 量。 
 qstr_You_took_a_nasty_wou|你 遭 受 了 一 次 很 讨 厌 的 创 伤 导 致 你 即 使 痊 愈 了 还 是 有 些 跛 足。 你 失 去 了 1点 敏 捷 值。 
 qstr_You_have_trouble_thi|这 场 战 斗 结 束 以 后， 你 发 现 你 思 考 问 题 的 时 候 有 些 困 难， 也 许 是 因 为 战 斗 中 你 的 头 部 挨 了 特 别 重 的 一 击。 而 且 现 在 你 频 繁 地 感 到 头 痛。 你 的 智 力 下 降 1点。 
-qstr_Perhaps_I_m_getting_|也 许 我 的 运 气 在 变 差 … … 
+qstr_Perhaps_I_m_getting_|也 许 我 的 运 气 在 变 差… … 
 qstr_Retirement_is_starti|撤 退 听 起 来 变 得 越 来 越 动 听。 
 qstr_No_matter!_I_will_pe|没 关 系！ 我 将 继 续 坚 持！ 
 qstr_What_did_I_do_to_des|我 该 怎 么 做 才 能 得 到 这 些？ 
-qstr_I_suppose_it_ll_make|我 猜 这 些 至 少 可 以 构 造 出 一 个 很 好 的 故 事 … … 
+qstr_I_suppose_it_ll_make|我 猜 这 些 至 少 可 以 构 造 出 一 个 很 好 的 故 事… … 
 qstr_{s9}_wants_you_to_fo|{s9}希 望 你 能 够 在 接 到 进 一 步 的 指 令 以 前 跟 着 他 的 部 队 前 进。 
 qstr_{s8}_of_{s9}|{s9}的 {s8}
 qstr__Your_own_banner_fli|你 自 己 的 旗 帜 飘 扬 在 城 堡 大 门 上。 
@@ -627,13 +627,13 @@ qstr_villages|村 庄
 qstr_towns|城 镇 
 qstr_castles|城 堡 
 qstr_We_currently_have_an|我 们 目 前 收 入 为 {reg0}第 纳 尔， 但 要 花 费 {reg1}第 纳 尔 支 付 驻 军 和 队 伍 的 军 费。 
-qstr_{s6}_We_are_losing_{|{s6}我 们 因 为 税 收 无 效 损 失 了 {reg0}第 纳 尔， 那 占 我 们 总 税 收 的 {reg1}% 。 
+qstr_{s6}_We_are_losing_{|{s6}我 们 因 为 税 收 无 效 损 失 了 {reg0}第 纳 尔， 那 占 我 们 总 税 收 的 {reg1}%。 
 qstr_{s6}_Overall_this_su|{s6}总 的 来 说 共 计 {reg0}第 纳 尔。 
 qstr_{reg0}_denars|{reg0}第 纳 尔 
 qstr_no|没 有 
 qstr_{s60}_is_currently_o|{s60}正 被 不 法 之 徒 占 领 着， 我 们 应 该 尽 快 派 兵 剿 灭 他 们。 
 qstr__We_are_expecting_{r| 我 们 预 计 会 有 {reg0}第 纳 尔 的 地 租。 
-qstr__The_troop_wages_for| 给 {reg0}人 的 军 队 的 军 饷 会 花 费 我 们 {reg1}第 纳 尔 。 
+qstr__The_troop_wages_for| 给 {reg0}人 的 军 队 的 军 饷 会 花 费 我 们 {reg1}第 纳 尔。 
 qstr_{s61}_and_{reg0}_den|{s61}和 {reg0}第 纳 尔 的 关 税。 
 qstr_Well_{s60}.|好 的， {s60}。 
 qstr_{s4}_{s3}._The_tax_r|{s4}{s3}。 税 率 是 {s50}。 {s59}{s61}。 总 共 加 起 来 是 {s62}第 纳 尔。 
