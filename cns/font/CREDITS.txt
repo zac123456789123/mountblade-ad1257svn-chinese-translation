@@ -1,0 +1,11 @@
+Tool builder: Ma Guokai
+Update: Rubik, Alixyang
+
+Varous language file provider
+http://www.mountblade.com.cn
+
+Original game provider
+http://www.taleworlds.net
+
+Third Party tools
+http://www.anglecode.com
