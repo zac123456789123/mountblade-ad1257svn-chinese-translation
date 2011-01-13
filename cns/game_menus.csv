@@ -384,7 +384,6 @@ menu_close|没 事。
 menu_town|{s10}{s14}^{s11}{s12}{s13}
 mno_castle_castle|进 入 领 主 大 厅 {s1}。 
 mno_castle_castle_door|城 堡 大 门。 
-mno_castle_player_sally_out|{s12}正 在 被 围 攻， 集 结 部 队， 阻 击 敌 人。 
 mno_join_tournament|加 入 竞 技 大 会。 
 mno_town_castle|进 入 城 堡 {s1}。 
 mno_town_castle_door|城 堡 大 门。 
@@ -400,6 +399,7 @@ mno_town_dungeon|永 无 可 能： 进 入 地 牢。
 mno_town_dungeon_door|地 牢 大 门。 
 mno_castle_inspect|视 察 城 堡。 
 mno_castle_inspect_door|去 城 堡 内 部。 
+mno_castle_player_sally_out|{s12}正 在 被 围 攻， 集 结 部 队， 阻 击 敌 人。 
 mno_town_enterprise|去 你 的 {s3}。 
 mno_town_enterprise_door|前 往 你 的 产 业。 
 mno_visit_lady|尝 试 拜 访 一 位 女 士。 

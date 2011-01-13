@@ -10,7 +10,7 @@ str_s5_s_party|{s5}的 部 队
 str_given_by_s1_at_s2|{s2}的 {s1}给 予 
 str_given_by_s1_in_wilderness|野 外 的 {s1}给 予 
 str_s7_raiders|{s7}掠 夺 者 
-str_bandits_eliminated_by_another|难 对 付 的 强 盗 被 别 的 队 伍 消 灭 了。 
+str_bandits_eliminated_by_another|惹 麻 烦 的 土 匪 被 别 的 队 伍 消 灭 了。 
 str_msg_battle_won|战 斗 胜 利！ 按 TAB 键 离 开… … 
 str_tutorial_map1|你 现 在 是 在 地 图 模 式 中。 在 地 图 上 按 左 键 可 以 旅 行/进 入 镇 子/或 与 其 他 队 伍 遭 遇。 如 果 你 的 队 伍 停 止 不 动， 时 间 不 会 流 逝。 如 果 你 想 在 某 处 等 待， 按 住 空 格 键 一 直 不 动 （再 按 住 Ctrl 键 可 以 使 时 间 加 速 流 逝）。 
 str_randomize|随 机 
@@ -3474,14 +3474,14 @@ str_ranged_weapons_are_disallowed|远 程 武 器 被 禁 止。
 str_ranged_weapons_are_allowed|远 程 武 器 被 允 许。 
 str_duel_starts_in_reg0_seconds|决 斗 将 在 {reg0} 秒 钟 内 开 始… … 
 str_none|无 {***}
-str_item_pool_no_items|物 品 栏 里 目 前 没 有 装 备。 
-str_item_pool_one_item|物 品 栏 里 还 剩 一 件 装 备。 
-str_item_pool_many_items|物 品 栏 里 还 剩 {reg20}件 装 备。 
+str_item_pool_no_items|团 队 物 品 栏 里 目 前 没 有 装 备。 
+str_item_pool_one_item|团 队 物 品 栏 里 还 剩 一 件 装 备。 
+str_item_pool_many_items|团 队 物 品 栏 里 还 剩 {reg20}件 装 备。 
 str_item_pool_abandon|让 NPC们 收 集 所 有 剩 下 的 装 备 并 离 开。 
 str_item_pool_leave|完 成。 
 str_hero_not_upgrading_armor|不 升 级 我 的 盔 甲。 
 str_hero_upgrading_armor|升 级 我 的 盔 甲。 
-str_hero_not_upgrading_horse|不 升 级 我 的 马 匹。 
+str_hero_not_upgrading_horse|不 升 级 我 的 坐 骑。 
 str_hero_upgrading_horse|升 级 我 的 坐 骑。 
 str_hero_wpn_slot_none|保 持 现 在 的 装 备（{s10}） 
 str_hero_wpn_slot_horse|坐 骑 

@@ -143,6 +143,7 @@ qstr_ERROR____Towns:_{reg25}_c|ERROR -- Towns: {reg25} craftsmen: {reg26}
 qstr_____________________|----------------------------- BATTLE ----------------------------
 qstr_{s26}_[o:_{reg30}_d:|{s26} [o: {reg30} d: {reg29}] vs {s25} [o: {reg28} d: {reg27}]
 qstr_{s26}_deals_{reg26}_|{s26} deals {reg26} to {s25} ----- {s25} deals {reg25} to {s26}
+qstr______________________|-----------------------------------------------------------------
 qstr_Your_recruiter_who_w|Your recruiter who was commissioned to recruit {reg10} recruits to {s13} has been defeated!
 qstr_Your_caravan_sending|Your caravan sending {s12} to {s13} has been defeated!
 qstr_Your_messenger_on_th|Your messenger on the way to {s13} has been defeated!
@@ -168,6 +169,7 @@ qstr_{s5}_has_been_defeat|{s5} has been defeated!
 qstr___DEBUG___count_of_l|--DEBUG-- count of lords and ladies for {s25} is not equal
 qstr_{s7}_opened_the_gate|{s7} opened the gate
 qstr_{s7}_closed_the_gate|{s7} closed the gate
+qstr_This_item_is_severel|This item is severely damaged!
 qstr_+{reg1}_to_party_mor|+{reg1} to party morale
 qstr_Requires_{reg1}_inte|Requires {reg1} intelligence to read
 qstr_Reading_Progress:_{r|Reading Progress: {reg1}%
@@ -238,7 +240,6 @@ qstr_Renown_value_for_thi|Renown value for this battle is {reg8}.
 qstr_You_have_run_into_a_|You have run into a trap!
 qstr_You_are_attacked_by_|You are attacked by a group of bandits!
 qstr_{s1}__{reg0}__reache|{s1} ({reg0}) reached pos
-qstr_{s1}__{reg0}__moving|{s1} ({reg0}) moving to pos {reg20}
 qstr_Holding|Holding
 qstr_Following|Following
 qstr_Charging|Charging
@@ -364,10 +365,9 @@ qstr_Battle_lost!_Press_t|Battle lost! Press tab key to leave...
 qstr_You_have_been_knocke|You have been knocked out by the enemy. Watch your men continue the fight without you or press Tab to retreat.
 qstr_If_you_choose_to_wat|If you choose to watch the fight you can use the mouse scroll up and down to switch between troop view or AWDS keys for free camera view.
 qstr_Forming_ranks.|Forming ranks.
+qstr_refilling_projectile|refilling projectiles
 qstr_You_must_stay_behind|You must stay behind the line on the ground! Point is not counted.
 qstr_Tutorial|Tutorial
-qstr_reinforcements_to_en|reinforcements to entry 2
-qstr_reinforcements_to_ent|reinforcements to entry 12
 qstr_You_came_into_the_wo|You came into the world a {reg3?daughter:son} of declining nobility, owning only the house in which they lived. However, despite your family's hardships, they afforded you a good education and trained you from childhood for the rigors of aristocracy and life at court.
 qstr_You_were_born_the_{r|You were born the {reg3?daughter:son} of travelling merchants, always moving from place to place in search of a profit. Although your parents were wealthier than most and educated you as well as they could, you found little opportunity to make friends on the road, living mostly for the moments when you could sell something to somebody.
 qstr_As_a_child_your_fami|As a child, your family scrabbled out a meagre living from your father's wages as a guardsman to the local lord. It was not an easy existence, and you were too poor to get much of an education. You learned mainly how to defend yourself on the streets, with or without a weapon in hand.
@@ -508,8 +508,8 @@ qstr__This_castle_has_no_| This castle has no garrison.
 qstr__This_town_has_no_ga| This town has no garrison.
 qstr__You_have_successful| You have successfully sneaked in.
 qstr_{s13}_A_tournament_w|{s13} A tournament will be held here soon.
-qstr_sally|sally
 qstr_ransom_broker_presen|ransom broker present entry point: {reg20}.
+qstr_sally|sally
 qstr___{reg1}_denars_per_| ({reg1} denars per night)
 qstr_Moreover_you_earn_{r|Moreover, you earn {reg8} denars from the clever bets you placed on yourself...
 qstr_Victory_is_yours!_Yo|Victory is yours! You have won this melee, but now you must prepare yourself for the next round. 

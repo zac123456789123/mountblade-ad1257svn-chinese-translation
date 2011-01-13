@@ -24,12 +24,12 @@ qst_scout_waypoints|侦 察 {s13}， {s14}和 {s15}
 qst_rescue_lord_by_replace|从 {s14}解 救 {s13}
 qst_deliver_message_to_prisoner_lord|送 信 给 {s14}的 {s13}
 qst_duel_for_lady|与 {s13}决 斗 
-qst_duel_courtship_rival|与 {s13}决 斗 （ 可 选 择 ） 
+qst_duel_courtship_rival|与 {s13}决 斗（可 选 择） 
 qst_duel_avenge_insult|与 {s13}决 斗 
 qst_move_cattle_herd|赶 牛 到 {s13}
 qst_escort_merchant_caravan|护 送 商 队 去 {s8}
 qst_deliver_wine|捎 带 {reg5}单 位 的 {s6}到 {s4}
-qst_troublesome_bandits|解 决 难 对 付 的 强 盗 
+qst_troublesome_bandits|解 决 惹 麻 烦 的 土 匪 
 qst_kidnapped_girl|从 强 盗 那 儿 赎 回 女 孩 
 qst_persuade_lords_to_make_peace|确 保 两 个 领 主 不 反 对 和 平 
 qst_deal_with_looters|解 决 劫 匪 
@@ -40,7 +40,7 @@ qst_train_peasants_against_bandits|训 练 农 民 以 对 抗 在 {s13}的 强 
 qst_eliminate_bandits_infesting_village|从 强 盗 手 里 解 救 {s7}村 
 qst_visit_lady|拜 访 女 士 
 qst_formal_marriage_proposal|正 式 求 婚  
-qst_obtain_liege_blessing|正 式 求 婚  
+qst_obtain_liege_blessing|正 式 求 婚 
 qst_wed_betrothed|和 你 的 订 婚 对 象 成 婚 
 qst_wed_betrothed_female|和 你 的 订 婚 对 象 成 婚 
 qst_join_faction|宣 誓 效 忠 于 {s1}

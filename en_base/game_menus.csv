@@ -384,7 +384,6 @@ menu_close|Nothing.
 menu_town|{s10} {s14}^{s11}{s12}{s13}
 mno_castle_castle|Go to the Lord's hall{s1}.
 mno_castle_castle_door|Door to the castle.
-mno_castle_player_sally_out|{s12} is under siege.  Sally out to delay the attackers.
 mno_join_tournament|Join the tournament.
 mno_town_castle|Go to the castle{s1}.
 mno_town_castle_door|Door to the castle.
@@ -400,6 +399,7 @@ mno_town_dungeon|Never: Enter the prison.
 mno_town_dungeon_door|Door to the dungeon.
 mno_castle_inspect|Take a walk around the courtyard.
 mno_castle_inspect_door|To the castle courtyard.
+mno_castle_player_sally_out|{s12} is under siege.  Sally out to delay the attackers.
 mno_town_enterprise|Visit your {s3}.
 mno_town_enterprise_door|Door to your enterprise.
 mno_visit_lady|Attempt to visit a lady
