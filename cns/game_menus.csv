@@ -169,7 +169,7 @@ mno_pre_join_help_defenders|对 {s1}施 以 援 手。
 mno_pre_join_leave|不 卷 入 纷 争。 
 menu_join_battle|你 决 定 帮 助 {s2}对 抗 {s1}， 你 将 有 {reg10}名 士 兵 参 加 战 斗 对 抗 {reg11}个 敌 人。 
 mno_join_attack|攻 入 敌 阵！ 
-mno_join_attack|反 击 敌 人！ 
+mno_join_attack|攻 入 敌 阵！ 
 mno_join_order_attack|仅 仅 让 你 的 士 兵 加 入 你 的 盟 友。 
 mno_join_leave|离 开。 
 menu_join_order_attack|{s4}^^ 我 军 伤 亡： {s8}^^ 盟 军 伤 亡： {s9}^^ 敌 军 伤 亡： {s10}

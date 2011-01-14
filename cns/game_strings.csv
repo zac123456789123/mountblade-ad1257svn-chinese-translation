@@ -3473,10 +3473,10 @@ str_disallow_ranged_weapons|禁 止 远 程 武 器
 str_ranged_weapons_are_disallowed|远 程 武 器 被 禁 止。 
 str_ranged_weapons_are_allowed|远 程 武 器 被 允 许。 
 str_duel_starts_in_reg0_seconds|决 斗 将 在 {reg0} 秒 钟 内 开 始… … 
-str_none|无 {***}
-str_item_pool_no_items|团 队 物 品 栏 里 目 前 没 有 装 备。 
-str_item_pool_one_item|团 队 物 品 栏 里 还 剩 一 件 装 备。 
-str_item_pool_many_items|团 队 物 品 栏 里 还 剩 {reg20}件 装 备。 
+str_none|无 
+str_item_pool_no_items|战 利 品 栏 里 目 前 没 有 装 备。 
+str_item_pool_one_item|战 利 品 栏 里 还 剩 一 件 装 备。 
+str_item_pool_many_items|战 利 品 栏 里 还 剩 {reg20}件 装 备。 
 str_item_pool_abandon|让 NPC们 收 集 所 有 剩 下 的 装 备 并 离 开。 
 str_item_pool_leave|完 成。 
 str_hero_not_upgrading_armor|不 升 级 我 的 盔 甲。 
