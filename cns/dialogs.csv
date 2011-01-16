@@ -2648,7 +2648,7 @@ dlga_investment_choose_enterprise:investment_summary.8|一 个 织 布 作 坊�
 dlga_investment_choose_enterprise:mayor_pretalk|没 事 
 dlga_investment_summary:mayor_investment_confirm|很 好， 先 生。 你 可 以 用 来 建 造 你 的 {s3}的 用 地 和 原 料 一 共 要 花 {reg7}第 纳 尔。 眼 下， 你 的 {s3}每 周 出 产 的{s4}的 价 值 是 {reg1}第 纳 尔， 而 需 要 用 来 制 造 那 批 货 的 {s6}是 {reg2}同 时 人 工 和 维 护 需 要 {reg3}。 {s9}我 估 计 你 的 收 益 为 {reg0}第 纳 尔 每 周。 当 然， 这 些 首 先 得 假 设 价 格 能 保 持 不 变， 实 际 上 我 能 向 你 保 证， 价 格 是 不 会 变 的。 你 打 算 开 工 吗？ 
 dlga_mayor_investment_confirm:mayor_investment_purchase|是。 给 你 这 是 买 地 的 钱。 
-dlga_mayor_investment_confirm:mayor_pretalk|不— — 现 在 对 我 来 说 那 样 的 投 资 不 合 适。 
+dlga_mayor_investment_confirm:mayor_investment_advice|不— — 现 在 对 我 来 说 那 样 的 投 资 不 合 适。 
 dlga_mayor_investment_purchase:mayor_pretalk|很 好。 你 的 产 业 会 在 大 约 一 个 星 期 之 内 开 工。 从 你 下 次 造 访 时 起， 你 都 可 以 和 你 的 {s4}聊 聊 怎 么 运 作 那 个 了。 
 dlga_mayor_talk:close_window|离 开。 
 dlga_mayor_info_begin:mayor_info_talk|我 是 {s9}的 镇 长。 你 也 可 以 说 我 是 {s9}的 良 民 的 首 领。 如 果 你 想 找 一 些 正 当 的 工 作， 我 可 以 帮 你 找 一 份。 
