@@ -2319,7 +2319,7 @@ str_s21__the_s5_is_bound_by_truce_not_to_attack_the_s14s18_the_truce_will_expire
 str_s21__the_s5_has_recently_suffered_provocation_by_subjects_of_the_s14_and_there_is_a_risk_of_war|{s21}^* {s5}最 近 收 到 了 {s14}的 挑 衅 很 可 能 会 引 发 一 场 战 争。 
 str_s21__the_s5_has_no_outstanding_issues_with_the_s14|{s21}^* {s5}在 关 于 {s14}的 事 宜 上 没 有 什 么 是 悬 而 未 决 的。 
 str_s21_the_s14_was_recently_provoked_by_subjects_of_the_s5_and_there_is_a_risk_of_war_|{s21}{s14}近 期 遭 到 了 {s5}的 挑 衅， 很 可 能 将 会 爆 发 一 场 战 争。 ^ 
-str_the_s5_is_ruled_by_s6_it_occupies_s8_its_vassals_are_s10_its_religion_is_s11_relation_with_pope_is_reg10__s21_|The {s5} is ruled by {s6}.^It occupies {s8}.^Its vassals are {s10}.^Its religion is: {s11}^Relation with the pope is: {reg10}^^{s21}{***}
+str_the_s5_is_ruled_by_s6_it_occupies_s8_its_vassals_are_s10_its_religion_is_s11_relation_with_pope_is_reg10__s21_|{s5}由 {s6}统 治 着。 ^它 占 领 着 {s8}。 ^它 的 封 臣 有 {s10}。 ^它 的 国 教 是： {s11}^和 教 皇 的 关 系 是： {reg10}^^{s21}
 str_reg4_killed_reg5_wounded_reg6_routed|{reg4}被 杀， {reg5}受 伤， {reg6}逃 走 
 str_reg4_killed_reg5_routed|{reg4}被 杀， {reg5}逃 走 
 str_reg4_killed_reg5_wounded|{reg4}被 杀， {reg5}受 伤 
@@ -2701,7 +2701,7 @@ str_s12s15_wishes_to_be_at_peace_with_s16_so_as_to_pursue_the_war_against_the_s1
 str_s12s15_seems_to_be_intimidated_by_s16_and_would_like_to_avoid_hostilities|{s12}{s15}似 乎 受 到 {s16}的 威 胁， 表 示 愿 意 与 之 停 战。 
 str_s12s15_has_no_particular_reason_to_continue_the_war_with_s16_and_would_probably_make_peace_if_given_the_opportunity|{s12}{s15}已 经 没 有 了 继 续 与 {s16}交 战 的 理 由， 一 旦 时 机 成 熟， 双 方 将 恢 复 和 平。 
 str_s12s15_seems_to_be_willing_to_improve_relations_with_s16|{s12}{s15}似 乎 愿 意 与 {s16}加 深 友 好 关 系。 
-str_s12s15_is_too_far_to_engage_s16|{s12}{s15} is too far to engage in diplomatic relations with {s16}.{***}
+str_s12s15_is_too_far_to_engage_s16|{s12}{s15}和 {s16}的 关 系 太 生 疏， 无 法 作 出 有 关 的 外 交 决 策。 
 str_s12s15_is_participating_in_a_crusade_against_s16|{s12}{s15}正 在 参 与 一 场 进 攻 {s16}的 十 字 军 东 征。 
 str_excuse_me_how_can_you_possibly_imagine_yourself_worthy_to_marry_into_our_family|你 说 什 么？ 你 是 怎 么 觉 得 你 有 资 格 跟 我 们 家 族 联 姻 的？ 
 str_em_with_regard_to_her_ladyship_we_were_looking_specifically_for_a_groom_of_some_distinction_fight_hard_count_your_dinars_and_perhaps_some_day_in_the_future_we_may_speak_of_such_things_my_good_man|嗯… … 出 于 对 女 士 的 尊 重， 我 们 在 为 她 寻 找 一 位 有 良 好 声 望 的 夫 婿。 多 打 胜 仗， 多 赚 第 纳 尔， 说 不 定 未 来 的 某 一 天 我 们 能 再 谈 谈 这 事 儿， 好 男 人！ 

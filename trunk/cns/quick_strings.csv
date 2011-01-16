@@ -197,7 +197,6 @@ qstr_Stay_behind_the_line|站 在 线 后 射 击 目 标。 尽 量 不 要 浪
 qstr_DEBUG____{s21}_dista|DEBUG -- {s21} distance {reg21}
 qstr_Battle_Advantage_=_{|战 场 优 势 为 {reg0}。 
 qstr_{s9}_wants_you_to_re|{s9}希 望 你 能 够 在 接 到 进 一 步 的 指 令 以 前 跟 着 他 的 部 队 前 进。 
-qstr_{s21}_has_no_fief_we|{s21}没 有 封 地 收 入： {reg21}
 qstr_attrition_{s25}___{r|磨 擦 {s25} - {reg25}{***}
 qstr_pt_in_{s11}|pt in {s11}
 qstr__Being_Raided_|（被 掠 夺 中） 
@@ -205,7 +204,7 @@ qstr__Looted_|（已 被 洗 劫）
 qstr__Under_Siege_|（陷 入 包 围） 
 qstr_The_village_of_{s1}_|{s1}村 遭 受 了 {s2}的 掠 夺。 
 qstr_{s3}_is_no_longer_un|{s3}不 再 陷 入 包 围 了。 
-qstr_enemy_strength_{reg2|enemy strength {reg20}{***}
+qstr_enemy_strength_{reg2|敌 军 军 力 {reg20}{***}
 qstr_Small_bands_of_enemi|{s1}附 近 发 现 小 股 敌 军。 
 qstr_Enemy_patrols_spotte|{s1}附 近 发 现 敌 军 巡 逻。 
 qstr_Medium_sized_group_o|{s1}附 近 发 现 敌 军 中 等 规 模 部 队。 

@@ -2648,7 +2648,7 @@ dlga_investment_choose_enterprise:investment_summary.8|A weavery, to make linen 
 dlga_investment_choose_enterprise:mayor_pretalk|Never mind
 dlga_investment_summary:mayor_investment_confirm|Very good, sir. The land and the materials on which you may build your {s3} will cost you {reg7} denars. Right now, your {s3} will produce {s4} worth {reg1} denars each week, while the {s6} needed to manufacture that batch will be {reg2} and labor and upkeep will be {reg3}.{s9} I should guess that your profit would be {reg0} denars a week. This assumes of course that prices remain constant -- which, I can virtually guarantee you, they will not. Do you wish to proceed?
 dlga_mayor_investment_confirm:mayor_investment_purchase|Yes. Here is money for the land.
-dlga_mayor_investment_confirm:mayor_pretalk|No -- that's not economical for me at the moment.
+dlga_mayor_investment_confirm:mayor_investment_advice|No -- that's not economical for me at the moment.
 dlga_mayor_investment_purchase:mayor_pretalk|Very good. Your enterprise should be up and running in about a week. When next you come, and thereafter, you should speak to your {s4} about its operations.
 dlga_mayor_talk:close_window|[Leave]
 dlga_mayor_info_begin:mayor_info_talk|I am the guildmaster of {s9}. You can say I am the leader of the good people of {s9}. I can help you find a job if you are looking for some honest work.

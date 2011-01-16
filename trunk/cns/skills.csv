@@ -1,7 +1,7 @@
 skl_trade|交 易 
 skl_trade_desc|每 点 技 能 减 少 5%%的 交 易 损 失。（队 伍 技 能）
 skl_leadership|统 御 
-skl_leadership_desc|每 点 增 加 部 队 命 令 上 限 5人， 提 高 部 队 士 气， 减 少 部 队 开 销 和 工 资 5%%。（领 袖 技 能）
+skl_leadership_desc|每 点 增 加 部 队 人 数 上 限 5人， 提 高 部 队 士 气， 减 少 部 队 开 销 和 工 资 5%%。（领 袖 技 能）
 skl_prisoner_management|俘 虏 管 理 
 skl_prisoner_management_desc|每 点 增 加 俘 虏 上 限 %d。（领 袖 技 能）
 skl_reserved_1|Reserved Skill 1
