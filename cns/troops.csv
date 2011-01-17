@@ -1153,12 +1153,12 @@ trp_npc11|乔 恩
 trp_npc11_pl|乔 恩 
 trp_npc12|威 廉 
 trp_npc12_pl|威 廉 
-trp_npc13|艾 德 
-trp_npc13_pl|艾 德 
+trp_npc13|阿 伊 达 
+trp_npc13_pl|阿 伊 达 
 trp_npc14|卡 尔 
 trp_npc14_pl|卡 尔 
-trp_npc15|伊 米 克 
-trp_npc15_pl|伊 米 克 
+trp_npc15|伊 梅 克 
+trp_npc15_pl|伊 梅 克 
 trp_npc16|马 蒂 奥 
 trp_npc16_pl|马 蒂 奥 
 trp_npc17|豪 梅 
@@ -1195,9 +1195,9 @@ trp_kingdom_3_lord|别 儿 哥 汗
 trp_kingdom_3_lord_pl|别 儿 哥 
 trp_kingdom_4_lord|克 里 斯 托 弗 一 世 国 王 
 trp_kingdom_4_lord_pl|克 里 斯 托 弗 
-trp_kingdom_5_lord|“高 等 公 爵”波 列 斯 瓦 夫 五 世，贞 洁 者 
-trp_kingdom_5_lord_pl|波 列 斯 瓦 夫，贞 洁 者 
-trp_kingdom_6_lord|“罗 马 皇 帝”康 沃 尔 的 理 查 德 
+trp_kingdom_5_lord|高 等 公 爵，波 列 斯 瓦 夫 五 世，“贞 洁 者” 
+trp_kingdom_5_lord_pl|波 列 斯 瓦 夫，“贞 洁 者” 
+trp_kingdom_6_lord|罗 马 皇 帝，康 沃 尔 的 理 查 德 
 trp_kingdom_6_lord_pl|康 沃 尔 的 理 查 德 
 trp_kingdom_7_lord|贝 拉 四 世 国 王 
 trp_kingdom_7_lord_pl|贝 拉 
@@ -1397,7 +1397,7 @@ trp_knight_5_5|瓦 迪 斯 瓦 夫 公 爵
 trp_knight_5_5_pl|瓦 迪 斯 瓦 夫 
 trp_knight_5_6|亨 利· 怀 特 公 爵 
 trp_knight_5_6_pl|亨 利· 怀 特 
-trp_knight_5_7|“波 美 拉 尼 亚 大 公”瑟 维 多 比 克 二 世
+trp_knight_5_7|波 美 拉 尼 亚 大 公，瑟 维 多 比 克 二 世
 trp_knight_5_7_pl|瑟 维 多 比 克 
 trp_knight_5_8|博 列 科 公 爵 
 trp_knight_5_8_pl|博 列 科 
@@ -1415,49 +1415,49 @@ trp_knight_5_14|康 德 拉 一 世 公 爵
 trp_knight_5_14_pl|康 德 拉 
 trp_knight_5_15|西 摩 梅 尔 斯 公 爵 
 trp_knight_5_15_pl|西 摩 梅 尔 斯 
-trp_knight_6_1|“波 西 米 亚 国 王 兼 奥 地 利 公 爵” 奥 塔 卡 二 世 
+trp_knight_6_1|波 西 米 亚 国 王 兼 奥 地 利 公 爵，奥 塔 卡 二 世 
 trp_knight_6_1_pl|奥 塔 卡 二 世 
-trp_knight_6_2|“莱 茵 河 伯 爵 兼 巴 伐 利 亚 公 爵” 路 德 维 希 二 世 
+trp_knight_6_2|莱 茵 河 伯 爵 兼 巴 伐 利 亚 公 爵，路 德 维 希 二 世 
 trp_knight_6_2_pl|路 德 维 希 二 世 
-trp_knight_6_3|“萨 克 尼 亚 公 爵”阿 尔 布 雷 希 一 世 
+trp_knight_6_3|萨 克 尼 亚 公 爵，阿 尔 布 雷 希 一 世 
 trp_knight_6_3_pl| 阿 尔 布 雷 希 
-trp_knight_6_4|“勃 兰 登 堡 侯 爵”奥 托 三 世，虔 诚 者 
+trp_knight_6_4|勃 兰 登 堡 侯 爵，奥 托 三 世“虔 诚 者” 
 trp_knight_6_4_pl|奥 托 三 世，虔 诚 者 
-trp_knight_6_5|“下 巴 伐 利 亚 公 爵”海 因 里 希 八 世 
+trp_knight_6_5|下 巴 伐 利 亚 公 爵，海 因 里 希 八 世 
 trp_knight_6_5_pl|海 因 里 希 八 世 
-trp_knight_6_6|“布 拉 班 特 公 爵”海 因 里 希 三 世，善 人 
+trp_knight_6_6|布 拉 班 特 公 爵，海 因 里 希 三 世，善 人 
 trp_knight_6_6_pl|海 因 里 希 三 世，善 人 
-trp_knight_6_7|“布 伦 瑞 克 和 吕 内 堡”约 翰 一 世 
+trp_knight_6_7|布 伦 瑞 克 和 吕 内 堡，约 翰 一 世 
 trp_knight_6_7_pl|约 翰 一 世 
-trp_knight_6_8|“林 堡 公 爵”瓦 尔 拉 姆 四 世 
+trp_knight_6_8|林 堡 公 爵，瓦 尔 拉 姆 四 世 
 trp_knight_6_8_pl|瓦 尔 拉 姆 四 世 
-trp_knight_6_9|“科 隆 大 主 教”霍 赫 斯 塔 顿 的 康 拉 德 一 世 
+trp_knight_6_9|科 隆 大 主 教，霍 赫 斯 塔 顿 的 康 拉 德 一 世 
 trp_knight_6_9_pl|霍 赫 斯 塔 顿 的 康 拉 德 一 世 
-trp_knight_6_10|“美 因 茨 大 主 教”多 恩 的 格 哈 德 一 世 
+trp_knight_6_10|美 因 茨 大 主 教，多 恩 的 格 哈 德 一 世 
 trp_knight_6_10_pl|多 恩 的 格 哈 德 一 世 
-trp_knight_6_11|“特 里 尔 大 主 教”伊 森 堡 的 阿 诺 德 二 世 
+trp_knight_6_11|特 里 尔 大 主 教，伊 森 堡 的 阿 诺 德 二 世 
 trp_knight_6_11_pl|伊 森 堡 的 阿 诺 德 二 世 
-trp_knight_6_12|“克 恩 腾 公 爵，克 赖 因 领 主”施 潘 海 姆 的 乌 尔 里 希 三 世 
+trp_knight_6_12|克 恩 腾 公 爵，克 赖 因 领 主，施 潘 海 姆 的 乌 尔 里 希 三 世 
 trp_knight_6_12_pl|施 潘 海 姆 的 乌 尔 里 希 三 世 
-trp_knight_6_13|“洛 林 公 爵”弗 里 德 里 希 三 世 
+trp_knight_6_13|洛 林 公 爵，弗 里 德 里 希 三 世 
 trp_knight_6_13_pl|弗 里 德 里 希 三 世 
-trp_knight_6_14|“波 美 拉 尼 亚 公 爵”巴 尔 尼 姆 一 世 
+trp_knight_6_14|波 美 拉 尼 亚 公 爵，巴 尔 尼 姆 一 世 
 trp_knight_6_14_pl|巴 尔 尼 姆 一 世 
-trp_knight_6_15|“不 莱 梅 和 汉 堡 大 主 教”利 珀 的 格 布 哈 特 二 世 
+trp_knight_6_15|不 莱 梅 和 汉 堡 大 主 教，利 珀 的 格 布 哈 特 二 世 
 trp_knight_6_15_pl|利 珀 的 格 布 哈 特 二 世 
-trp_knight_6_16|“哈 布 斯 堡 伯 爵”鲁 道 夫 四 世 
+trp_knight_6_16|哈 布 斯 堡 伯 爵，鲁 道 夫 四 世 
 trp_knight_6_16_pl|鲁 道 夫 四 世 
-trp_knight_6_17|“巴 登 侯 爵”鲁 道 夫 一 世 
+trp_knight_6_17|巴 登 侯 爵，鲁 道 夫 一 世 
 trp_knight_6_17_pl|鲁 道 夫 一 世 
-trp_knight_6_18|“迈 森 侯 爵，图 林 根 伯 爵”海 因 里 希 三 世，显 赫 者 
+trp_knight_6_18|迈 森 侯 爵，图 林 根 伯 爵，海 因 里 希 三 世“显 赫 者” 
 trp_knight_6_18_pl|海 因 里 希 三 世，显 赫 者 
-trp_knight_6_19|“纽 伦 堡 贵 族”康 拉 德 一 世，虔 诚 者 
+trp_knight_6_19|纽 伦 堡 贵 族，康 拉 德 一 世“虔 诚 者” 
 trp_knight_6_19_pl|康 拉 德 一 世 
 trp_knight_6_20|罗 马 诺 的 埃 泽 里 诺 领 主 
 trp_knight_6_20_pl|罗 马 诺 的 埃 泽 里 诺 
-trp_knight_7_1|“特 伦 切 尼 城 堡 长 官”查 克· 马 泰 
+trp_knight_7_1|特 伦 切 尼 城 堡 长 官，查 克· 马 泰 
 trp_knight_7_1_pl|查 克· 马 泰 
-trp_knight_7_2|“特 伦 切 尼 城 堡 长 官”查 克· 马 克 
+trp_knight_7_2|特 伦 切 尼 城 堡 长 官，查 克· 马 克 
 trp_knight_7_2_pl|查 克· 马 克 
 trp_knight_7_3|贵 族 伊 斯 特 万 大 主 教 
 trp_knight_7_3_pl|贵 族 伊 斯 特 万 
@@ -1497,43 +1497,43 @@ trp_knight_8_5|姆 斯 基 斯 拉 夫· 格 列 博 维 奇 亲 王
 trp_knight_8_5_pl|姆 斯 基 斯 拉 夫· 格 列 博 维 奇 
 trp_knight_9_1|爱 德 华 王 子，长 腿 
 trp_knight_9_1_pl|爱 德 华，长 腿 
-trp_knight_9_2|“威 克 斯 福 德 和 彭 布 罗 克 伯 爵” 瓦 朗 斯 的 威 廉 
+trp_knight_9_2|威 克 斯 福 德 和 彭 布 罗 克 伯 爵，瓦 朗 斯 的 威 廉 
 trp_knight_9_2_pl|瓦 朗 斯 的 威 廉 
-trp_knight_9_3|“莱 切 斯 特 伯 爵，王 室 事 务 长” 蒙 特 福 特 的 西 蒙 五 世 
+trp_knight_9_3|莱 切 斯 特 伯 爵，王 室 事 务 长，蒙 特 福 特 的 西 蒙 五 世 
 trp_knight_9_3_pl|蒙 特 福 特 的 西 蒙 五 世 
-trp_knight_9_4|“里 士 满 伯 爵” 萨 沃 伊 的 彼 得 二 世 
+trp_knight_9_4|里 士 满 伯 爵，萨 沃 伊 的 彼 得 二 世 
 trp_knight_9_4_pl|萨 沃 伊 的 彼 得 二 世 
-trp_knight_9_5|“赫 特 福 德 和 格 洛 斯 特 伯 爵” 克 莱 尔 的 理 查 德 
+trp_knight_9_5|赫 特 福 德 和 格 洛 斯 特 伯 爵，克 莱 尔 的 理 查 德 
 trp_knight_9_5_pl|克 莱 尔 的 理 查 德 
 trp_knight_9_6|罗 杰· 莫 蒂 默 男 爵 
 trp_knight_9_6_pl|罗 杰· 莫 蒂 默 
-trp_knight_9_7|“枢 机 主 教” 达 拉 姆 的 沃 尔 特 
+trp_knight_9_7|枢 机 主 教，达 拉 姆 的 沃 尔 特 
 trp_knight_9_7_pl|达 拉 姆 的 沃 尔 特 
-trp_knight_9_8|“诺 福 克 伯 爵” 罗 杰· 比 戈 德 元 帅 
+trp_knight_9_8|诺 福 克 伯 爵，罗 杰· 比 戈 德 元 帅 
 trp_knight_9_8_pl|罗 杰· 比 戈 德 
 trp_knight_9_9|坎 特 伯 雷 的 博 尼 费 斯 大 主 教 
 trp_knight_9_9_pl|坎 特 伯 雷 的 博 尼 费 斯 
-trp_knight_9_10|“萨 里 伯 爵” 瓦 伦 的 约 翰 
+trp_knight_9_10|萨 里 伯 爵，瓦 伦 的 约 翰 
 trp_knight_9_10_pl|瓦 伦 的 约 翰 
-trp_knight_9_11|“华 维 克 伯 爵” 威 廉· 马 迪 特 
+trp_knight_9_11|华 维 克 伯 爵，威 廉· 马 迪 特 
 trp_knight_9_11_pl|威 廉· 马 迪 特 
-trp_knight_9_12|“德 文 伯 爵 和 怀 特 岛 领 主” 雷 德 弗 斯 的 鲍 德 温 
+trp_knight_9_12|德 文 伯 爵 和 怀 特 岛 领 主，雷 德 弗 斯 的 鲍 德 温 
 trp_knight_9_12_pl|雷 德 弗 斯 的 鲍 德 温 
-trp_knight_9_13|“五 港 总 督” 诺 思 伍 德 的 罗 杰 
+trp_knight_9_13|五 港 总 督，诺 思 伍 德 的 罗 杰 
 trp_knight_9_13_pl|诺 思 伍 德 的 罗 杰 
-trp_knight_9_14|“赫 里 福 德 和 埃 塞 克 斯 伯 爵，宫 廷 长 官” 波 鸿 的 汉 弗 雷 
+trp_knight_9_14|赫 里 福 德 和 埃 塞 克 斯 伯 爵，宫 廷 长 官，波 鸿 的 汉 弗 雷 
 trp_knight_9_14_pl|波 鸿 的 汉 弗 雷 
-trp_knight_9_15|“林 肯 郡 伯 爵，霍 尔 顿 男 爵” 拉 齐 的 埃 德 蒙 
+trp_knight_9_15|林 肯 郡 伯 爵，霍 尔 顿 男 爵，拉 齐 的 埃 德 蒙 
 trp_knight_9_15_pl|拉 齐 的 埃 德 蒙 
-trp_knight_9_16|“牛 津 伯 爵” 维 拉 的 休 
+trp_knight_9_16|牛 津 伯 爵，维 拉 的 休 
 trp_knight_9_16_pl|维 拉 的 休 
-trp_knight_9_17|“阿 伦 德 尔 伯 爵” 约 翰· 菲 茨 阿 伦 
+trp_knight_9_17|阿 伦 德 尔 伯 爵，约 翰· 菲 茨 阿 伦 
 trp_knight_9_17_pl|约 翰· 菲 茨 阿 伦 
 trp_knight_9_18|约 克 的 休 厄 尔 大 主 教 
 trp_knight_9_18_pl|休 厄 尔 
 trp_knight_9_19|阿 尔 曼 的 亨 利 亲 王 
 trp_knight_9_19_pl|阿 尔 曼 的 亨 利 
-trp_knight_9_20|“王 室 大 臣” 约 翰· 曼 赛 尔 
+trp_knight_9_20|王 室 大 臣，约 翰· 曼 赛 尔 
 trp_knight_9_20_pl|约 翰· 曼 赛 尔 
 trp_knight_10_1|普 瓦 提 埃 伯 爵，阿 尔 封 斯 
 trp_knight_10_1_pl|普 瓦 提 埃 的 阿 尔 封 斯 
@@ -1659,8 +1659,8 @@ trp_knight_14_1|瓦 尔 德 马 尔· 比 耶 松 国 王
 trp_knight_14_1_pl|瓦 尔 德 马 尔· 比 耶 松 
 trp_knight_14_2|马 格 努 斯· 比 耶 松 
 trp_knight_14_2_pl|马 格 努 斯· 比 耶 松 
-trp_knight_14_3|乔 汉· 菲 利 普 森 
-trp_knight_14_3_pl|乔 汉· 菲 利 普 森 
+trp_knight_14_3|乔 汉· 菲 利 普 松 
+trp_knight_14_3_pl|乔 汉· 菲 利 普 松 
 trp_knight_14_4|乔 汉· 卡 尔 松 
 trp_knight_14_4_pl|乔 汉· 卡 尔 松 
 trp_knight_14_5|比 耶· 菲 利 普 松 
@@ -1705,7 +1705,7 @@ trp_knight_15_9|罗 曼· 弗 谢 沃 洛 多 维 奇 亲 王
 trp_knight_15_9_pl|罗 曼· 弗 谢 沃 洛 多 维 奇 
 trp_knight_15_10|安 德 烈· 弗 谢 沃 洛 多 维 奇 亲 王 
 trp_knight_15_10_pl|安 德 烈· 弗 谢 沃 洛 多 维 奇 
-trp_knight_16_1|“圣 地 亚 哥 骑 士 团 大 团 长” 派 奥· 佩 雷 斯· 科 雷 亚 
+trp_knight_16_1|圣 地 亚 哥 骑 士 团 大 团 长，派 奥· 佩 雷 斯· 科 雷 亚 
 trp_knight_16_1_pl|派 奥· 佩 雷 斯· 科 雷 亚 
 trp_knight_16_2|布 拉 干 萨 的 门 多· 阿 拉 诺 爵 士 
 trp_knight_16_2_pl|布 拉 干 萨 的 门 多· 阿 拉 诺 
@@ -1835,7 +1835,7 @@ trp_knight_20_19|瓦 西 姆 酋 长
 trp_knight_20_19_pl|瓦 西 姆 
 trp_knight_20_20|阿 布· 拉 希 德 酋 长 
 trp_knight_20_20_pl|阿 布· 拉 希 德 
-trp_knight_22_1|“伊 庇 鲁 斯 君 主”米 哈 伊 尔 二 世· 科 穆 宁· 杜 卡 斯 
+trp_knight_22_1|伊 庇 鲁 斯 君 主，米 哈 伊 尔 二 世· 科 穆 宁· 杜 卡 斯 
 trp_knight_22_1_pl|米 哈 伊 尔 二 世· 科 穆 宁· 杜 卡 斯 
 trp_knight_22_2|米 哈 伊 尔· 帕 列 奥 列 斯 将 军 
 trp_knight_22_2_pl|米 哈 伊 尔· 帕 列 奥 列 斯 
@@ -1977,29 +1977,29 @@ trp_knight_25_25|朱 班 酋 长
 trp_knight_25_25_pl|朱 班 
 trp_knight_26_1|塔 西 的 菲 利 普 
 trp_knight_26_1_pl|塔 西 的 菲 利 普 
-trp_knight_26_2|“雅 典 的 领 主”罗 切 的 古 伊 一 世 
+trp_knight_26_2|雅 典 领 主，罗 切 的 古 伊 一 世 
 trp_knight_26_2_pl|罗 切 的 古 伊 一 世 
-trp_knight_26_3|“阿 凯 亚 亲 王”维 尔 哈 度 因 的 纪 尧 姆 
+trp_knight_26_3|阿 凯 亚 亲 王，维 尔 哈 度 因 的 纪 尧 姆 
 trp_knight_26_3_pl|维 尔 哈 度 因 的 纪 尧 姆 
-trp_knight_26_4|“博 多 尼 萨 侯 爵”乌 贝 蒂 诺· 帕 拉 维 西 尼 
+trp_knight_26_4|博 多 尼 萨 侯 爵，乌 贝 蒂 诺· 帕 拉 维 西 尼 
 trp_knight_26_4_pl|乌 贝 蒂 诺· 帕 拉 维 西 尼 
-trp_knight_26_5|“帕 萨 瓦 男 爵”努 尔 利 的 爱 德 
+trp_knight_26_5|帕 萨 瓦 男 爵，努 尔 利 的 爱 德 
 trp_knight_26_5_pl|努 尔 利 的 爱 德 
-trp_knight_26_6|“马 塔 格 利 丰 男 爵”罗 西 埃 尔 的 高 瑟 
+trp_knight_26_6|马 塔 格 利 丰 男 爵，罗 西 埃 尔 的 高 瑟 
 trp_knight_26_6_pl|罗 西 埃 尔 的 高 瑟 
-trp_knight_26_7|“卡 拉 维 塔 男 爵”陶 奈 的 奥 顿 
+trp_knight_26_7|卡 拉 维 塔 男 爵，陶 奈 的 奥 顿 
 trp_knight_26_7_pl|陶 奈 的 奥 顿 
-trp_knight_26_8|“卡 里 塔 尼 亚 男 爵”布 吕 约 尔 的 高 弗 雷 
+trp_knight_26_8|卡 里 塔 尼 亚 男 爵，布 吕 约 尔 的 高 弗 雷 
 trp_knight_26_8_pl|布 吕 约 尔 的 高 弗 雷 
-trp_knight_26_9|“罗 马 尼 亚 元 帅”奥 诺 伊 亲 王 纪 尧 姆，卑 劣 者 
+trp_knight_26_9|罗 马 尼 亚 元 帅，奥 诺 伊 亲 王 纪 尧 姆，卑 劣 者 
 trp_knight_26_9_pl|奥 诺 伊 亲 王 纪 尧 姆，卑 劣 者 
-trp_knight_26_10|“伯 爵 科 法 罗 尼 亚”马 约· 沃 西 尼 
+trp_knight_26_10|伯 爵 科 法 罗 尼 亚，马 约· 沃 西 尼 
 trp_knight_26_10_pl|马 约· 沃 西 尼 
-trp_knight_27_1|“特 拉 比 松 皇 帝”曼 努 埃 尔 一 世· 美 加 斯· 科 穆 宁 
+trp_knight_27_1|特 拉 比 松 皇 帝，曼 努 埃 尔 一 世· 美 加 斯· 科 穆 宁 
 trp_knight_27_1_pl|曼 努 埃 尔 一 世· 美 加 斯· 科 穆 宁 
-trp_knight_27_2|“亚 美 尼 亚 国 王”海 屯 一 世 
+trp_knight_27_2|亚 美 尼 亚 国 王，海 屯 一 世 
 trp_knight_27_2_pl|海 屯 一 世 
-trp_knight_27_3|“罗 姆 苏 丹 国 的 塞 尔 柱 苏 丹”凯· 卡 兀 思 二 世 
+trp_knight_27_3|罗 姆 苏 丹 国 的 塞 尔 柱 苏 丹，凯· 卡 兀 思 二 世 
 trp_knight_27_3_pl|凯· 卡 兀 思 二 世 
 trp_knight_27_4|阿 八 哈 那 颜 
 trp_knight_27_4_pl|阿 八 哈 
@@ -2055,45 +2055,45 @@ trp_knight_28_14|伊 斯 迈 尔 酋 长
 trp_knight_28_14_pl|伊 斯 迈 尔 
 trp_knight_28_15|贾 巴 拉 酋 长 
 trp_knight_28_15_pl|贾 巴 拉 
-trp_knight_29_1|赫 瓦 利 米 尔 公 爵 
+trp_knight_29_1|赫 瓦 利 米 尔 茹 潘 
 trp_knight_29_1_pl|赫 瓦 利 米 尔 
-trp_knight_29_2|德 拉 格 斯 拉 夫 公 爵 
+trp_knight_29_2|德 拉 格 斯 拉 夫 茹 潘 
 trp_knight_29_2_pl|德 拉 格 斯 拉 夫 
-trp_knight_29_3|斯 维 夫 拉 德 公 爵 
+trp_knight_29_3|斯 维 夫 拉 德 茹 潘 
 trp_knight_29_3_pl|斯 维 夫 拉 德 
-trp_knight_29_4|博 列 斯 拉 夫 公 爵 
+trp_knight_29_4|博 列 斯 拉 夫 茹 潘 
 trp_knight_29_4_pl|博 列 斯 拉 夫 
-trp_knight_29_5|图 盖 米 尔 公 爵 
+trp_knight_29_5|图 盖 米 尔 茹 潘 
 trp_knight_29_5_pl|图 盖 米 尔 
-trp_knight_29_6|佩 特 里 斯 拉 夫 公 爵 
+trp_knight_29_6|佩 特 里 斯 拉 夫 茹 潘 
 trp_knight_29_6_pl|佩 特 里 斯 拉 夫 
-trp_knight_29_7|米 罗 斯 拉 夫 公 爵 
+trp_knight_29_7|米 罗 斯 拉 夫 茹 潘 
 trp_knight_29_7_pl|米 罗 斯 拉 夫 
-trp_knight_29_8|布 拉 尼 斯 拉 夫 公 爵 
+trp_knight_29_8|布 拉 尼 斯 拉 夫 茹 潘 
 trp_knight_29_8_pl|布 拉 尼 斯 拉 夫 
-trp_knight_29_9|拉 多 斯 拉 夫 公 爵 
+trp_knight_29_9|拉 多 斯 拉 夫 茹 潘 
 trp_knight_29_9_pl|拉 多 斯 拉 夫 
-trp_knight_29_10|格 拉 多 斯 拉 夫 公 爵 
+trp_knight_29_10|格 拉 多 斯 拉 夫 茹 潘 
 trp_knight_29_10_pl|格 拉 多 斯 拉 夫 
-trp_knight_30_1|基 里 尔 贵 族 
+trp_knight_30_1|基 里 尔 波 雅 尔 
 trp_knight_30_1_pl|基 里 尔 
-trp_knight_30_2|米 哈 伊 尔 贵 族 
+trp_knight_30_2|米 哈 伊 尔 波 雅 尔 
 trp_knight_30_2_pl|米 哈 伊 尔 
-trp_knight_30_3|阿 塔 纳 斯 贵 族 
+trp_knight_30_3|阿 塔 纳 斯 波 雅 尔 
 trp_knight_30_3_pl|阿 塔 纳 斯 
-trp_knight_30_4|安 东 贵 族 
+trp_knight_30_4|安 东 波 雅 尔 
 trp_knight_30_4_pl|安 东 波 
-trp_knight_30_5|阿 森 贵 族 
+trp_knight_30_5|阿 森 波 雅 尔 
 trp_knight_30_5_pl|阿 森 
-trp_knight_30_6|鲍 里 斯 贵 族 
+trp_knight_30_6|鲍 里 斯 波 雅 尔 
 trp_knight_30_6_pl|鲍 里 斯 
-trp_knight_30_7|鲍 里 斯 拉 夫 贵 族 
+trp_knight_30_7|鲍 里 斯 拉 夫 波 雅 尔 
 trp_knight_30_7_pl|鲍 里 斯 拉 夫 
-trp_knight_30_8|布 拉 尼 米 尔 贵 族 
+trp_knight_30_8|布 拉 尼 米 尔 波 雅 尔 
 trp_knight_30_8_pl|布 拉 尼 米 尔 
-trp_knight_30_9|德 拉 戈 米 尔 贵 族 
+trp_knight_30_9|德 拉 戈 米 尔 波 雅 尔 
 trp_knight_30_9_pl|德 拉 戈 米 尔 
-trp_knight_30_10|伊 利 亚 贵 族 
+trp_knight_30_10|伊 利 亚 波 雅 尔 
 trp_knight_30_10_pl|伊 利 亚 
 trp_knight_31_1|穆 罕 默 德 酋 长 
 trp_knight_31_1_pl|穆 罕 默 德 
