@@ -1974,14 +1974,14 @@ itm_muslim_lance|Heavy Lance
 itm_muslim_lance_pl|Heavy Lance
 itm_noble_cloak|Nobleman Outfit
 itm_noble_cloak_pl|Nobleman Outfit
-itm_meghrebi_leather_a|Mehgrebi Leather Armour
-itm_meghrebi_leather_a_pl|Mehgrebi Leather Armour
-itm_meghrebi_leather_b|Mehgrebi Leather Armour
-itm_meghrebi_leather_b_pl|Mehgrebi Leather Armour
-itm_meghrebi_leather_c|Mehgrebi Leather Armour
-itm_meghrebi_leather_c_pl|Mehgrebi Leather Armour
-itm_meghrebi_vest|Mehgrebi Kaftan
-itm_meghrebi_vest_pl|Mehgrebi Kaftan
+itm_meghrebi_leather_a|Meghrebi Leather Armour
+itm_meghrebi_leather_a_pl|Meghrebi Leather Armour
+itm_meghrebi_leather_b|Meghrebi Leather Armour
+itm_meghrebi_leather_b_pl|Meghrebi Leather Armour
+itm_meghrebi_leather_c|Meghrebi Leather Armour
+itm_meghrebi_leather_c_pl|Meghrebi Leather Armour
+itm_meghrebi_vest|Meghrebi Kaftan
+itm_meghrebi_vest_pl|Meghrebi Kaftan
 itm_buff_leather|Buff Leather Armour
 itm_buff_leather_pl|Buff Leather Armour
 itm_black_guard|Black Guard Robe
@@ -2306,5 +2306,19 @@ itm_moorish_axe|Moorish Axe
 itm_moorish_axe_pl|Moorish Axe
 itm_kettle_cloth|Kettle Helm
 itm_kettle_cloth_pl|Kettle Helm
+itm_rus_helmet_1|Rus Helmet
+itm_rus_helmet_1_pl|Rus Helmet
+itm_rus_helmet_2|Rus Helmet
+itm_rus_helmet_2_pl|Rus Helmet
+itm_rus_helmet_3|Rus Helmet
+itm_rus_helmet_3_pl|Rus Helmet
+itm_balt_rus_cap|Leather Cap
+itm_balt_rus_cap_pl|Leather Cap
+itm_moors_quilted_kaftan_blue|Moorish Padded Kaftan
+itm_moors_quilted_kaftan_blue_pl|Moorish Padded Kaftan
+itm_moors_quilted_kaftan_brown|Moorish Padded Kaftan
+itm_moors_quilted_kaftan_brown_pl|Moorish Padded Kaftan
+itm_czekan|Czekan
+itm_czekan_pl|Czekan
 itm_items_end|Items End
 itm_items_end_pl|Items End
