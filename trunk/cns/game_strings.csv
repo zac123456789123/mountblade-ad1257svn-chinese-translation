@@ -503,7 +503,7 @@ str_npc20_backstory_b|Isma'il the Andalusian - backstory b{***}
 str_npc22_backstory_b|Alexios the Greek - backstory b{***}
 str_npc23_backstory_b|Hugues the Crusader - backstory b{***}
 str_npc24_backstory_b|Dego the Sicilian - backstory b{***}
-str_npc25_backstory_b|I am a warrior by profession. But perhaps you may also have heard of my prowess as a poet, who can move the iciest of maidens to swoon. Or of my prowess in the art of the bedchamber, in which I must confess a modest degree of skill. I confess a modest affection for Christian lands, and for the past several years have visited its towns, castles, and villages, making the most of my talents.{***}
+str_npc25_backstory_b|我 是 一 个 专 业 的 武 士， 或 许 你 从 诗 中 听 到 过 我 那 让 女 士 们 晕 倒 的 威 名， 又 或 许 你 听 说 过 我 在 床 第 之 上 的 厉 害， 我 得 承 认 我 在 这 方 面 也 达 到 了 相 当 的 技 巧。 我 承 认 我 对 基 督 徒 国 家 有 着 一 定 的 感 情。 这 些 年 来， 我 去 过 很 多 基 督 教 国 家 的 城 市、 村 庄， 并 不 断 磨 练 我 的 能 力。 
 str_npc26_backstory_b|作 为 一 个 富 有 贵 族 家 庭 的 次 子， 我 很 难 有 机 会 得 到 我 父 亲 的 遗 产。 然 而 我 作 为 最 小 的 儿 子， 我 一 直 是 父 亲 最 喜 欢 的 孩 子， 这 也 是 我 获 得 父 亲 一 部 分 遗 产 的 唯 一 办 法， 我 做 所 有 事 都 尽 最 大 的 努 力。 这 个 计 划 成 功 了， 在 父 亲 死前 两 月， 我 也 被 写 进 了 遗 嘱。 
 str_npc27_backstory_b|After helping my brothers capture what was a small town from the Latin Empire, I decided in my youthful folly that I had been denied my fair share of the earnings from this conquest, so as any 15 year old would do I started to threaten to leave unless I was given a fair share! Ah the stupidity of youth. So the tribe chief did the sensible thing and threw me out.{***}
 str_npc28_backstory_b|Gamal the Arab - backstory b{***}
@@ -532,7 +532,7 @@ str_npc20_backstory_c|Isma'il the Andalusian - backstory c{***}
 str_npc22_backstory_c|Alexios the Greek - backstory c{***}
 str_npc23_backstory_c|Hugues the Crusader - backstory c{***}
 str_npc24_backstory_c|Dego the Sicilian - backstory c{***}
-str_npc25_backstory_c|这 倒 提 醒 了 我— — 在 城 外 某 处， 我 发 狂 的 丈 夫 正 等 着 我。 我 不 认 为 你 会 帮 我 离 开 这 个 镇 子 吧？ 
+str_npc25_backstory_c|这 倒 提 醒 了 我— — 在 城 外 某 处， 一 个 发 狂 的 丈 夫 正 等 着 我。 你 会 帮 我 离 开 这 个 镇 子 吧？ 
 str_npc26_backstory_c|他 并 没 有 留 给 我 太 多， 只 是 一 点 点 地 产。 足 够 我 养 活 自 己， 并 为 可 能 发 生 的 战 争 购 买 一 些 的 装 备。 但 这 对 于 我 的 兄 弟 来 说 已 经 太 多 了， 我 父 亲 一 死 他 就 想 杀 我。 
 str_npc27_backstory_c| 之 后 我 成 为 了 一 个 雇 佣 兵， 为 了 挣 几 个 第 纳 尔 到 处 奔 波。 最 近 我 和 一 群 朋 友 一 起 工 作， 但 后 来 我 们 被 当 地 的 叛 军 袭 击， 他 们 想 抢 夺 我 们 的 装 备。 多 亏 了 我 聪 明 的 草 原 骏 马 我 才 逃 了 出 来。 
 str_npc28_backstory_c|Gamal the Arab - backstory c{***}
@@ -562,7 +562,7 @@ str_npc22_backstory_later|Alexios the Greek - backstory b{***}
 str_npc23_backstory_later|Hugues the Crusader - backstory b{***}
 str_npc24_backstory_later|Dego the Sicilian - backstory b{***}
 str_npc25_backstory_later|我 在 各 城 市 间 游 荡， 背 后 留 下 了 一 群 爱 我 爱 的 发 狂 的 女 人 和 被 带 了 绿 帽 的 丈 夫 们。 不 过 我 对 这 种 简 单 的 挑 战 已 经 感 到 了 厌 烦， 我 在 想 我 或 许 应 该 加 入 军 队 来 消 遣 消 遣。 
-str_npc26_backstory_later|Since that fateful betrayal of fathers last wishes by my oldest brother I have been wondering around homeless and penniless looking for a chance to renew my fortunes.{***}
+str_npc26_backstory_later|在 我 兄 长 背 叛 我 父 亲 的 最 后 遗 愿 之 后， 我 无 家 可 归， 口 袋 空 空， 到 处 游 荡， 想 找 一 个 恢 复 我 遗 产 的 机 会。 
 str_npc27_backstory_later|我 的 马 走 了 一 条 在 几 乎 垂 直 的 悬 崖 上 的 路。 因 为 没 有 土 匪 愿 意 追 我， 所 以 我 就 逃 掉 了。 现 在 我 想 尽 快 找 一 个 雇 主。 
 str_npc28_backstory_later|Gamal the Arab - backstory b{***}
 str_npc29_backstory_later|Dragoslav the Serbian - backstory b{***}
@@ -1021,7 +1021,7 @@ str_npc2_retirement_speech|Ligeikis the Balt - retirement speech
 str_npc3_retirement_speech|自 从 我 接 受 了 你 的 盐， 我 一 直 为 你 勇 猛、 忠 心 地 作 战。 但 你 却 没 能 用 你 应 有 的 领 导 来 报 偿 我 的 效 忠。 所 以 我 要 回 家 了， 去 看 我 的 父 亲 和 兄 弟， 希 望 可 汗 的 人 已 经 忘 记 了 我。 
 str_npc4_retirement_speech|大 人， 我 觉 得 我 在 您 的 指 挥 下 一 支 干 得 不 错， 不 过 现 在 我 想 回 家 了。 我 已 经 挣 了 足 够 的 钱， 可 以 在 家 乡 给 自 己 弄 一 个 小 家 了。 如 果 将 来 能 再 见 到 老 朋 友， 那 一 定 很 有 意 思。 
 str_npc5_retirement_speech|Bolko the Pole - retirement speech
-str_npc6_retirement_speech|{先 生/女 士} I have decided to retire myself from the military life and return to my roots. I wish to follow in the footsteps of my father and bring myself to high prominence as a master builder. I hope you understand the desire of the son to emulate the father.
+str_npc6_retirement_speech|{先 生/女 士}, I have decided to retire myself from the military life and return to my roots. I wish to follow in the footsteps of my father and bring myself to high prominence as a master builder. I hope you understand the desire of the son to emulate the father.
 str_npc7_retirement_speech|Istvan the Hungarian - retirement speech
 str_npc8_retirement_speech|Yuriy of Novgorod - retirement speech
 str_npc9_retirement_speech|我 有 点 疲 倦 于 战 士 的 生 活 了。 我 想 把 我 挣 来 的 钱 拿 去 买 一 车 货 物— — 皮 毛， 亚 麻 布， 或 许 还 有 天 鹅 绒， 并 带 回 我 的 村 庄。 我 怀 念 我 曾 经 过 的 那 种 平 静 生 活。 也 希 望 最 终 这 种 生 活 能 把 我 带 回 平 静。 
@@ -1082,7 +1082,7 @@ str_npc5_home_intro|Bolko the Pole - home intro
 str_npc6_home_intro|我 们 快 到 我 的 家 乡 了。 我 能 闻 出 这 里 空 气 不 一 样 的 味 道。 
 str_npc7_home_intro|Istvan the Hungarian - home intro
 str_npc8_home_intro|Yuriy of Novgorod - home intro
-str_npc9_home_intro|We're approaching . My old home is not far from here.
+str_npc9_home_intro|我 们 快 到 了。 我 的 老 家 离 这 里 不 远 了。 
 str_npc10_home_intro|Jean the Frenchman - home intro
 str_npc11_home_intro|Jon the Norwegian - home intro
 str_npc12_home_intro|Uilleam the Scot - home intro
@@ -1161,7 +1161,7 @@ str_npc28_home_description_2|Gamal the Arab - home description 2{***}
 str_npc29_home_description_2|Dragoslav the Serbian - home description 2{***}
 str_npc30_home_description_2|Kyril the Bulgarian - home description 2{***}
 str_npc31_home_description_2|Ali the Berber - home description 2{***}
-str_npc1_home_recap|I am a disgraced Teutonic Order Knight, in search of redemption.
+str_npc1_home_recap|我 是 一 个 丢 脸 的 条 顿 骑 士， 寻 找 救 赎。 
 str_npc2_home_recap|Ligeikis the Balt - home recap
 str_npc3_home_recap|越 过 大 森 林， 山 的 另 一 边 是 高 原， 我 就 在 那 里 出 生。 不 过 我 也 有 亲 戚 在 {s21}。 
 str_npc4_home_recap|我 是 一 个 丹 麦 人， 为 了 取 悦 神， 我 被 从 船 上 了 下 去。 
@@ -1219,7 +1219,7 @@ str_npc28_honorific|Gamal the Arab - honorific{***}
 str_npc29_honorific|Dragoslav the Serbian - honorific{***}
 str_npc30_honorific|Kyril the Bulgarian - honorific{***}
 str_npc31_honorific|Ali the Berber - honorific{***}
-str_npc1_kingsupport_1|Leige, I would offer you my full support. As a man of an holy order I have learned to see the difference between good and evil, selfishness and generousity, and you would in my eyes make a wonderful Leader of a united peoples.
+str_npc1_kingsupport_1|大 人， 我 将 全 力 支 持 你。 作 为 神 圣 的 骑 士 团 的 一 员， 我 学 会 了 区 别 善 与 恶， 自 私 与 无 私。 而 你 在 我 的 眼 中 绝 对 是 人 民 优 秀 的 领 袖。 
 str_npc2_kingsupport_1|Ligeikis the Balt - kingsupport 1
 str_npc3_kingsupport_1|不 错 的 主 意。 你 的 表 现 说 明 你 知 道 如 何 统 治 人。 我 提 醒 你 应 该 公 正 地 实 行 统 治， 虽 然... 
 str_npc4_kingsupport_1|大 人， 你 会 是 一 个 出 色 的 领 袖。 我 们 一 起 战 斗 的 这 段 时 间， 我 非 常 清 楚 的 发 现 你 表 现 出 了 对 其 他 人 境 况 的 同 情 和 理 解。 
@@ -1234,7 +1234,7 @@ str_npc12_kingsupport_1|Uilleam the Scot - kingsupport 1
 str_npc13_kingsupport_1|Aedh the Irishman - kingsupport 1
 str_npc14_kingsupport_1|Karl the Swede - kingsupport 1
 str_npc15_kingsupport_1|Ivan of Galicia - kingsupport 1
-str_npc16_kingsupport_1|I am sure that you would make a fine king, captain. I flatter myself that I am a good judge of character, and you have demonstrated a capacity for compassion that far exceeds that of these others who call themselves monarchs.
+str_npc16_kingsupport_1|我 能 肯 定 你 会 是 一 个 好 国 王。 我 必 须 自 夸 一 下， 我 天 生 很 会 判 断。 你 已 经 证 明 了 你 比 所 有 其 他 那 些 自 称 君 主 的 人 都 更 懂 得 怜 悯。 
 str_npc17_kingsupport_1|Jaume of Aragon - kingsupport 1{***}
 str_npc18_kingsupport_1|Fernando the Castillan - kingsupport 1{***}
 str_npc20_kingsupport_1|Isma'il the Andalusian - kingsupport 1{***}
@@ -1256,14 +1256,14 @@ str_npc5_kingsupport_2|Bolko the Pole - kingsupport 2
 str_npc6_kingsupport_2|Johann of the HRE - kingsupport 2
 str_npc7_kingsupport_2|Istvan the Hungarian - kingsupport 2
 str_npc8_kingsupport_2|Yuriy of Novgorod - kingsupport 2
-str_npc9_kingsupport_2|Most of the lords of this land -- well, let's face it, their priorities are never for the peasantry, are they? I could convince the simple people, the tanners, the carpenters, the smiths, to lend their support to you. These are the people who built this land, and they are the ones who can help you build it further.
+str_npc9_kingsupport_2|这 个 世 界 大 多 数 的 领 主， 他 们 的 特 权 从 不 会 为 农 民 牟 利， 难 道 不 是 吗？ 我 可 以 说 服 那 些 下 层 的 人 们， 皮 匠、 铁 匠 又 或 者 木 匠 支 持 你。 他 们 是 这 个 世 界 的 建 设 者， 也 只 有 在 他 们 的 帮 助 下， 你 才 能 建 设 自 己 的 王 国。 
 str_npc10_kingsupport_2|Jean the Frenchman - kingsupport 2
 str_npc11_kingsupport_2|Jon the Norwegian - kingsupport 2
 str_npc12_kingsupport_2|Uilleam the Scot - kingsupport 2
 str_npc13_kingsupport_2|Aedh the Irishman - kingsupport 2
 str_npc14_kingsupport_2|Karl the Swede - kingsupport 2
 str_npc15_kingsupport_2|Ivan of Galicia - kingsupport 2
-str_npc16_kingsupport_2|Of course, captain. But if I have learned anything in my travels in this land, it is that tradition matters. Everything must be done as it was done in the days of our forefathers -- even though not more than one in a hundred of them can read enough to understand what that was! Every law is handed down from generation to generation.
+str_npc16_kingsupport_2|当 然 了， 队 长。 如 果 你 要 问 我 在 旅 途 中 学 到 什 么 的 话， 我 会 说 传 统。 我 们 应 该 按 照 我 们 祖 先 方 式 行事。 虽 然 那 时 能 读 懂 法 律 的 人 可 能 不 超 过 一 百， 但 法 律 还 是 一 代 又 一 代 的 传 了 下 来。 
 str_npc17_kingsupport_2|Jaume of Aragon - kingsupport 2{***}
 str_npc18_kingsupport_2|Fernando the Castillan - kingsupport 2{***}
 str_npc20_kingsupport_2|Isma'il the Andalusian - kingsupport 2{***}
@@ -1285,14 +1285,14 @@ str_npc5_kingsupport_2a|Bolko the Pole - kingsupport 2a
 str_npc6_kingsupport_2a|Johann of the HRE - kingsupport 2a
 str_npc7_kingsupport_2a|Istvan the Hungarian - kingsupport 2a
 str_npc8_kingsupport_2a|Yuriy of Novgorod - kingsupport 2a
-str_npc9_kingsupport_2a|Please continue...
+str_npc9_kingsupport_2a|请 继 续... 
 str_npc10_kingsupport_2a|Jean the Frenchman - kingsupport 2a
 str_npc11_kingsupport_2a|Jon the Norwegian - kingsupport 2a
 str_npc12_kingsupport_2a|Uilleam the Scot - kingsupport 2a
 str_npc13_kingsupport_2a|Aedh the Irishman - kingsupport 2a
 str_npc14_kingsupport_2a|Karl the Swede - kingsupport 2a
 str_npc15_kingsupport_2a|Ivan of Galicia - kingsupport 2a
-str_npc16_kingsupport_2a|Interesting. Please go on...
+str_npc16_kingsupport_2a|很 有 意 思， 请 继 续… 
 str_npc17_kingsupport_2a|Jaume of Aragon - kingsupport 2a{***}
 str_npc18_kingsupport_2a|Fernando the Castillan - kingsupport 2a{***}
 str_npc20_kingsupport_2a|Isma'il the Andalusian - kingsupport 2a{***}
@@ -1306,7 +1306,7 @@ str_npc28_kingsupport_2a|Gamal the Arab - kingsupport 2a{***}
 str_npc29_kingsupport_2a|Dragoslav the Serbian - kingsupport 2a{***}
 str_npc30_kingsupport_2a|Kyril the Bulgarian - kingsupport 2a{***}
 str_npc31_kingsupport_2a|Ali the Berber - kingsupport 2a{***}
-str_npc1_kingsupport_2b|I think that your views on 'the rights of the peasantry' are different to my own. We wont discuss this again.
+str_npc1_kingsupport_2b|我 认 为 你 所 谓“ 农 民 的 权 利” 的 观 点， 和 我 很 不 同。 我 们 以 后 都 不 要 讨 论 这 个 话 题 了。 
 str_npc2_kingsupport_2b|Ligeikis the Balt - kingsupport 2b
 str_npc3_kingsupport_2b|我 想 成 为 {国 王/女 王}， 但 我 可 不 想 卷 进 那 些 游 牧 的 琐 事。 
 str_npc4_kingsupport_2b|或 许 我 们 应 该 再 讨 论 一 下 这 个 话 题， 等 你 有 时 间 再 去 好 好 想 想 之 后。 
@@ -1350,7 +1350,7 @@ str_npc12_kingsupport_3|Uilleam the Scot - kingsupport 3
 str_npc13_kingsupport_3|Aedh the Irishman - kingsupport 3
 str_npc14_kingsupport_3|Karl the Swede - kingsupport 3
 str_npc15_kingsupport_3|Ivan of Galicia - kingsupport 3
-str_npc16_kingsupport_3|But you know what? There is no law when it comes to the crown. Sometimes one emperor handed the empire to his son. Sometimes he split it between his generals. Sometimes one emperor murdered the last. There's no 'right' way to crown a {king/king or queen}, and thus it makes sense that the crown should go to the one most fit to govern -- which would be you, naturally. Give me a couple of weeks, and I'll write a tract which proves it and find a copyist to post a version in every town tavern in the land. What do you say to that idea, captain?
+str_npc16_kingsupport_3|但 是 你 知 道 吗？ 涉 及 王 位 时， 根 本 没 有 所 谓 的 法 律。 有 时 候 王 位 由 父 亲 传 给 他 的 儿 子， 有 时 候 王 国 被 几 个 将 军 分 裂。 有 时 候 现 任 国 王 谋 杀 了 上 任 国 王。 要 成 为 一 个 {国 王/国 王 或 者 女 王}，没 有 所 谓 正 确 的 途 径。 王 位 应 该 传 给 最 适 合 统 治 的 人。 您， 当 然 会 是 这 么 一 个 人。 给 我 几 周 时 间， 我 会 写 一 份 传 单 证 明 这 一 点， 并 把 它 张 贴 在 各 个 酒 馆。 队 长， 你 说 这 个 主 意 如 何？ 
 str_npc17_kingsupport_3|Jaume of Aragon - kingsupport 3{***}
 str_npc18_kingsupport_3|Fernando the Castillan - kingsupport 3{***}
 str_npc20_kingsupport_3|Isma'il the Andalusian - kingsupport 3{***}
