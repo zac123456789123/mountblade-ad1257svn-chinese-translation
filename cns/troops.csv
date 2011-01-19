@@ -1347,7 +1347,7 @@ trp_knight_3_20|锡 巴 黑 那 颜
 trp_knight_3_20_pl|锡 巴 黑 
 trp_knight_3_21|勃 斥 儿· 巴 特 尔 那 颜 
 trp_knight_3_21_pl|勃 斥 儿· 巴 特 尔 
-trp_knight_3_22|唐 古 特 点 那 颜 
+trp_knight_3_22|唐 古 特 那 颜 
 trp_knight_3_22_pl|唐 古 特 
 trp_knight_3_23|勃 哈 儿 那 颜 
 trp_knight_3_23_pl|勃 哈 儿 
@@ -1495,8 +1495,8 @@ trp_knight_8_4|尤 里· 伊 戈 列 维 奇 亲 王
 trp_knight_8_4_pl|尤 里· 伊 戈 列 维 奇 
 trp_knight_8_5|姆 斯 基 斯 拉 夫· 格 列 博 维 奇 亲 王 
 trp_knight_8_5_pl|姆 斯 基 斯 拉 夫· 格 列 博 维 奇 
-trp_knight_9_1|爱 德 华 王 子，长 腿 
-trp_knight_9_1_pl|爱 德 华，长 腿 
+trp_knight_9_1|爱 德 华 王 子，“长 腿” 
+trp_knight_9_1_pl|爱 德 华，“长 腿” 
 trp_knight_9_2|威 克 斯 福 德 和 彭 布 罗 克 伯 爵，瓦 朗 斯 的 威 廉 
 trp_knight_9_2_pl|瓦 朗 斯 的 威 廉 
 trp_knight_9_3|莱 切 斯 特 伯 爵，王 室 事 务 长，蒙 特 福 特 的 西 蒙 五 世 
@@ -2262,21 +2262,21 @@ trp_kingdom_4_lady_6_pl|波 瑞
 trp_kingdom_4_lady_7|伊 瑞 女 士 
 trp_kingdom_4_lady_7_pl|伊 瑞 
 trp_kingdom_4_lady_8|Ingefredr Nielsdotter{***}
-trp_kingdom_4_lady_8_pl|Ingefredr Nielsdotter{***}
+trp_kingdom_4_lady_8_pl|英格芙蕾迪•尼尔斯多特
 trp_kingdom_4_lady_9|辛 德 女 士 
 trp_kingdom_4_lady_9_pl|辛 德 
 trp_kingdom_4_lady_10|Margrettæ aff Pomerania{***}
-trp_kingdom_4_lady_10_pl|Margrettæ aff Pomerania{***}
+trp_kingdom_4_lady_10_pl|波美拉尼亚的玛格瑞特
 trp_kingdom_4_lady_11|赫 亚 丝 女 士 
 trp_kingdom_4_lady_11_pl|赫 亚 丝 
 trp_kingdom_4_lady_12|Cecellie Niellsdotter{***}
-trp_kingdom_4_lady_12_pl|Cecellie Niellsdotter{***}
+trp_kingdom_4_lady_12_pl|瑟希莉•尼尔斯多特
 trp_kingdom_4_lady_13|Ingeburgh aff Holsteinælandæ{***}
-trp_kingdom_4_lady_13_pl|Ingeburgh aff Holsteinælandæ{***}
+trp_kingdom_4_lady_13_pl|荷尔斯泰因的英格博格
 trp_kingdom_4_lady_14|卡 特 丽 女 士 
 trp_kingdom_4_lady_14_pl|卡 特 丽 
 trp_kingdom_4_lady_15|Marianne Petrsdotter Strange{***}
-trp_kingdom_4_lady_15_pl|Marianne Petrsdotter Strange{***}
+trp_kingdom_4_lady_15_pl|佩特尔斯多特的“陌生人”玛丽安妮
 trp_kingdom_5_lady_1|博 格 达 娜 女 士 
 trp_kingdom_5_lady_1_pl|博 格 达 娜 
 trp_kingdom_5_lady_2|博 古 米 娃 女 士 
@@ -2316,27 +2316,27 @@ trp_kingdom_6_lady_3_pl|贝 拉
 trp_kingdom_6_lady_4|艾 莉 娜 女 士 
 trp_kingdom_6_lady_4_pl|艾 莉 娜 
 trp_kingdom_6_lady_5|Lady Constanis
-trp_kingdom_6_lady_5_pl|Constanis{***}
+trp_kingdom_6_lady_5_pl|康斯坦妮丝
 trp_kingdom_6_lady_6|Lady Vera
-trp_kingdom_6_lady_6_pl|Vera{***}
+trp_kingdom_6_lady_6_pl|薇拉
 trp_kingdom_6_lady_7|Lady Auberina
-trp_kingdom_6_lady_7_pl|Auberina{***}
+trp_kingdom_6_lady_7_pl|奥贝丽娜
 trp_kingdom_6_lady_8|Lady Tibal
-trp_kingdom_6_lady_8_pl|Tibal{***}
+trp_kingdom_6_lady_8_pl|蒂芭尔
 trp_kingdom_6_lady_9|Lady Magar
-trp_kingdom_6_lady_9_pl|Magar{***}
+trp_kingdom_6_lady_9_pl|玛佳
 trp_kingdom_6_lady_10|Lady Thedosa
-trp_kingdom_6_lady_10_pl|Thedosa{***}
+trp_kingdom_6_lady_10_pl|塞朵莎
 trp_kingdom_6_lady_11|Lady Melisar
-trp_kingdom_6_lady_11_pl|Melisar{***}
+trp_kingdom_6_lady_11_pl|梅丽莎
 trp_kingdom_6_lady_12|Lady Irena
-trp_kingdom_6_lady_12_pl|Irena{***}
+trp_kingdom_6_lady_12_pl|伊瑞娜
 trp_kingdom_6_lady_13|Lady Philenna
-trp_kingdom_6_lady_13_pl|Philenna{***}
+trp_kingdom_6_lady_13_pl|菲蕾娜
 trp_kingdom_6_lady_14|Lady Sonadel
-trp_kingdom_6_lady_14_pl|Sonadel{***}
+trp_kingdom_6_lady_14_pl|索娜德尔
 trp_kingdom_6_lady_15|Lady Boadila
-trp_kingdom_6_lady_15_pl|Boadila{***}
+trp_kingdom_6_lady_15_pl|鲍迪拉
 trp_kingdom_6_lady_16|爱 莉 丝 女 士 
 trp_kingdom_6_lady_16_pl|爱 莉 丝 
 trp_kingdom_6_lady_17|约 翰 娜 女 士 
@@ -2387,19 +2387,19 @@ trp_knight_8_lady_4|伊 莉 娜 女 士
 trp_knight_8_lady_4_pl|伊 莉 娜 
 trp_kingdom_8_lady_5|拉 丽 莎 女 士 
 trp_kingdom_8_lady_5_pl|拉 丽 莎 
-trp_lord_9_wife|Queen Eleanor of Provence{***}
+trp_lord_9_wife|普 罗 旺 斯 女 王 埃 莉 诺 
 trp_lord_9_wife_pl|lord 9 wife{***}
-trp_knight_9_1_wife|Princess Eleanor of England{***}
+trp_knight_9_1_wife|英 格 兰 公 主 埃 莉 诺 
 trp_knight_9_1_wife_pl|knight 9 1 wife{***}
-trp_knight_9_2_wife|Lady Joan de Munchensy, Countess of Pembroke{***}
+trp_knight_9_2_wife|“彭 布 罗 克 伯 爵 夫 人”慕 尼 黑 的 乔 安 
 trp_knight_9_2_wife_pl|knight 9 2 wife{***}
-trp_knight_9_5_wife|Lady Maud de Lacy{***}
+trp_knight_9_5_wife|莱 西 的 毛 德 女 士 
 trp_knight_9_5_wife_pl|knight 9 5 wife{***}
-trp_knight_9_6_wife|Lady Maud de Braose{***}
+trp_knight_9_6_wife|布 劳 瑟 的 毛 德 女 士 
 trp_knight_9_6_wife_pl|knight 9 6 wife{***}
-trp_knight_9_10_wife|Lady Alice le Brun de Lusignan{***}
+trp_knight_9_10_wife|吕 西 尼 昂 的 爱 丽 丝 女 士 
 trp_knight_9_10_wife_pl|knight 9 10 wife{***}
-trp_knight_9_12_wife|Lady Avita of Savoy{***}
+trp_knight_9_12_wife|萨 伏 伊 的 阿 维 塔 女 士 
 trp_knight_9_12_wife_pl|knight 9 12 wife{***}
 trp_kingdom_9_lady_8|克 莱 拉 女 士 
 trp_kingdom_9_lady_8_pl|克 莱 拉 
@@ -2541,70 +2541,70 @@ trp_kingdom_13_lady_6|马 哈 伊 尔 女 士
 trp_kingdom_13_lady_6_pl|马 哈 伊 尔 
 trp_kingdom_13_lady_7|伊 丝 娜 女 士 
 trp_kingdom_13_lady_7_pl|伊 丝 娜 
-trp_kingdom_13_lady_8|Lady Siyafan{***}
-trp_kingdom_13_lady_8_pl|Siyafan{***}
-trp_kingdom_13_lady_9|Lady Ifar{***}
-trp_kingdom_13_lady_9_pl|Ifar{***}
-trp_kingdom_13_lady_10|Lady Yasmin{***}
-trp_kingdom_13_lady_10_pl|Yasmin{***}
-trp_kingdom_14_lady_1|Lady Rayma{***}
+trp_kingdom_13_lady_8|爱 尔 兰 的 希 娅 梵 女 士 
+trp_kingdom_13_lady_8_pl|爱 尔 兰 的 希 娅 梵 
+trp_kingdom_13_lady_9|伊 法 女 士
+trp_kingdom_13_lady_9_pl|伊 法 
+trp_kingdom_13_lady_10|爱 尔 兰 的 雅 斯 敏 女 士 
+trp_kingdom_13_lady_10_pl|爱 尔 兰 的 雅 斯 敏 
+trp_kingdom_14_lady_1|蕾玛女士
 trp_kingdom_14_lady_1_pl|Rayma{***}
-trp_kingdom_14_lady_2|Lady Thanaikha{***}
+trp_kingdom_14_lady_2|塔奈哈女士
 trp_kingdom_14_lady_2_pl|Thanaikha{***}
-trp_kingdom_14_lady_3|Lady Sulaha{***}
+trp_kingdom_14_lady_3|苏拉哈女士
 trp_kingdom_14_lady_3_pl|Sulaha{***}
-trp_kingdom_14_lady_4|Lady Shatha{***}
+trp_kingdom_14_lady_4|莎塔女士
 trp_kingdom_14_lady_4_pl|Shatha{***}
 trp_kingdom_14_lady_5|Lady Bawthan{***}
-trp_kingdom_14_lady_5_pl|Bawthan{***}
+trp_kingdom_14_lady_5_pl|芭珊
 trp_kingdom_14_lady_6|Lady Mahayl{***}
-trp_kingdom_14_lady_6_pl|Mahayl{***}
+trp_kingdom_14_lady_6_pl|玛哈伊
 trp_kingdom_14_lady_7|Lady Isna{***}
-trp_kingdom_14_lady_7_pl|Isna{***}
+trp_kingdom_14_lady_7_pl|伊丝娜
 trp_kingdom_14_lady_8|Lady Siyafan{***}
-trp_kingdom_14_lady_8_pl|Siyafan{***}
+trp_kingdom_14_lady_8_pl|瑞典的希娅梵{***}
 trp_kingdom_14_lady_9|Lady Ifar{***}
 trp_kingdom_14_lady_9_pl|Ifar{***}
 trp_kingdom_14_lady_10|Lady Yasmin{***}
-trp_kingdom_14_lady_10_pl|Yasmin{***}
+trp_kingdom_14_lady_10_pl|瑞典的雅斯敏{***}
 trp_kingdom_14_lady_11|Lady Dula{***}
-trp_kingdom_14_lady_11_pl|Dula{***}
+trp_kingdom_14_lady_11_pl|杜拉
 trp_kingdom_14_lady_12|Lady Ruwa{***}
-trp_kingdom_14_lady_12_pl|Ruwa{***}
+trp_kingdom_14_lady_12_pl|茹瓦
 trp_kingdom_14_lady_13|Lady Luqa{***}
-trp_kingdom_14_lady_13_pl|Luqa{***}
+trp_kingdom_14_lady_13_pl|露恰
 trp_kingdom_14_lady_14|Lady Zandina{***}
-trp_kingdom_14_lady_14_pl|Zandina{***}
+trp_kingdom_14_lady_14_pl|赞蒂娜
 trp_kingdom_14_lady_15|Lady Lulya{***}
-trp_kingdom_14_lady_15_pl|Lulya{***}
+trp_kingdom_14_lady_15_pl|露雅
 trp_kingdom_15_lady_1|Lady Alyona{***}
-trp_kingdom_15_lady_1_pl|Alyona{***}
+trp_kingdom_15_lady_1_pl|爱尔尤娜
 trp_kingdom_15_lady_2|Lady Alya{***}
-trp_kingdom_15_lady_2_pl|Alya{***}
+trp_kingdom_15_lady_2_pl|艾尔雅
 trp_kingdom_15_lady_3|Lady Galina{***}
-trp_kingdom_15_lady_3_pl|Galina{***}
+trp_kingdom_15_lady_3_pl|嘉丽娜
 trp_kingdom_15_lady_4|Lady Irina{***}
-trp_kingdom_15_lady_4_pl|Irina{***}
+trp_kingdom_15_lady_4_pl|伊琳娜
 trp_kingdom_15_lady_5|Lady Larissa{***}
-trp_kingdom_15_lady_5_pl|Larissa{***}
+trp_kingdom_15_lady_5_pl|拉丽莎
 trp_kingdom_15_lady_6|Lady Ludmila{***}
-trp_kingdom_15_lady_6_pl|Ludmila{***}
+trp_kingdom_15_lady_6_pl|露德米拉
 trp_kingdom_15_lady_7|娜 塔 莎 女 士 
 trp_kingdom_15_lady_7_pl|娜 塔 莎 
 trp_kingdom_15_lady_8|Lady Svetlana{***}
-trp_kingdom_15_lady_8_pl|Svetlana{***}
+trp_kingdom_15_lady_8_pl|斯雯特兰娜
 trp_kingdom_15_lady_9|Lady Tatyana{***}
-trp_kingdom_15_lady_9_pl|Tatyana{***}
+trp_kingdom_15_lady_9_pl|塔提亚娜
 trp_kingdom_15_lady_10|Lady Zoya{***}
-trp_kingdom_15_lady_10_pl|Zoya{***}
+trp_kingdom_15_lady_10_pl|加利西亚的卓娅
 trp_kingdom_16_lady_1|Elvira{***}
-trp_kingdom_16_lady_1_pl|Elvira{***}
+trp_kingdom_16_lady_1_pl|葡萄牙的爱尔薇拉
 trp_kingdom_16_lady_2|Orraca{***}
-trp_kingdom_16_lady_2_pl|Orraca{***}
+trp_kingdom_16_lady_2_pl|奥拉卡
 trp_kingdom_16_lady_3|Violante{***}
-trp_kingdom_16_lady_3_pl|Violante{***}
+trp_kingdom_16_lady_3_pl|薇欧兰特
 trp_kingdom_16_lady_4|Guymar{***}
-trp_kingdom_16_lady_4_pl|Guymar{***}
+trp_kingdom_16_lady_4_pl|古伊玛尔
 trp_kingdom_16_lady_5|伊 莎 贝 尔 女 士 
 trp_kingdom_16_lady_5_pl|伊 莎 贝 尔 
 trp_kingdom_16_lady_6|吉 奥 玛 尔 女 士 
@@ -2627,86 +2627,86 @@ trp_kingdom_16_lady_14|玛 加 丽 达 女 士
 trp_kingdom_16_lady_14_pl|玛 加 丽 达 
 trp_kingdom_16_lady_15|曼 努 埃 拉 女 士 
 trp_kingdom_16_lady_15_pl|曼 努 埃 拉 
-trp_kingdom_17_lady_1|奥 尔 堂 萨 女 士 
-trp_kingdom_17_lady_1_pl|奥 尔 堂 萨 
+trp_kingdom_17_lady_1|奥 尔 堂 莎 女 士 
+trp_kingdom_17_lady_1_pl|奥 尔 堂 莎 
 trp_kingdom_17_lady_2|阿 拉 贡 的 贝 娅 特 丽 兹 女 士 
 trp_kingdom_17_lady_2_pl|阿 拉 贡 的 贝 娅 特 丽 兹 
 trp_kingdom_17_lady_3|Constanza{***}
-trp_kingdom_17_lady_3_pl|Constanza{***}
+trp_kingdom_17_lady_3_pl|康斯坦莎
 trp_kingdom_17_lady_4|Cristina{***}
-trp_kingdom_17_lady_4_pl|Cristina{***}
+trp_kingdom_17_lady_4_pl|克里斯蒂娜
 trp_kingdom_17_lady_5|Elo{***}
-trp_kingdom_17_lady_5_pl|Elo{***}
+trp_kingdom_17_lady_5_pl|爱洛
 trp_kingdom_17_lady_6|Elvira{***}
-trp_kingdom_17_lady_6_pl|Elvira{***}
+trp_kingdom_17_lady_6_pl|阿拉贡的爱尔薇拉
 trp_kingdom_17_lady_7|Enderquina{***}
-trp_kingdom_17_lady_7_pl|Enderquina{***}
+trp_kingdom_17_lady_7_pl|爱德奎娜
 trp_kingdom_17_lady_8|Ermengarda{***}
-trp_kingdom_17_lady_8_pl|Ermengarda{***}
+trp_kingdom_17_lady_8_pl|阿拉贡的爱尔蒙佳达
 trp_kingdom_17_lady_9|Estefania{***}
-trp_kingdom_17_lady_9_pl|Estefania{***}
+trp_kingdom_17_lady_9_pl|爱斯特法妮娅
 trp_kingdom_17_lady_10|Eva{***}
-trp_kingdom_17_lady_10_pl|Eva{***}
+trp_kingdom_17_lady_10_pl|爱娃
 trp_kingdom_17_lady_11|Fronilde{***}
-trp_kingdom_17_lady_11_pl|Fronilde{***}
+trp_kingdom_17_lady_11_pl|芙萝妮尔德
 trp_kingdom_17_lady_12|Guntroda{***}
-trp_kingdom_17_lady_12_pl|Guntroda{***}
+trp_kingdom_17_lady_12_pl|刚特萝达
 trp_kingdom_17_lady_13|Ildaria{***}
-trp_kingdom_17_lady_13_pl|Ildaria{***}
+trp_kingdom_17_lady_13_pl|阿拉贡的伊尔达妮娅
 trp_kingdom_17_lady_14|Ines{***}
-trp_kingdom_17_lady_14_pl|Ines{***}
+trp_kingdom_17_lady_14_pl|伊妮丝
 trp_kingdom_17_lady_15|Jimena{***}
-trp_kingdom_17_lady_15_pl|Jimena{***}
+trp_kingdom_17_lady_15_pl|希梅娜
 trp_kingdom_18_lady_1|Paterna{***}
-trp_kingdom_18_lady_1_pl|Paterna{***}
+trp_kingdom_18_lady_1_pl|帕特娜
 trp_kingdom_18_lady_2|Sancha{***}
-trp_kingdom_18_lady_2_pl|Sancha{***}
+trp_kingdom_18_lady_2_pl|桑恰
 trp_kingdom_18_lady_3|Tegrida{***}
-trp_kingdom_18_lady_3_pl|Tegrida{***}
+trp_kingdom_18_lady_3_pl|特格利达
 trp_kingdom_18_lady_4|Teresa{***}
-trp_kingdom_18_lady_4_pl|Teresa{***}
+trp_kingdom_18_lady_4_pl|卡斯提尔的特蕾莎
 trp_kingdom_18_lady_5|Toda{***}
-trp_kingdom_18_lady_5_pl|Toda{***}
+trp_kingdom_18_lady_5_pl|托达
 trp_kingdom_18_lady_6|Urraca{***}
-trp_kingdom_18_lady_6_pl|Urraca{***}
+trp_kingdom_18_lady_6_pl|乌拉卡
 trp_kingdom_18_lady_7|Ildaria{***}
-trp_kingdom_18_lady_7_pl|Ildaria{***}
+trp_kingdom_18_lady_7_pl|卡斯提尔的伊尔达妮娅
 trp_kingdom_18_lady_8|Ermengarda{***}
-trp_kingdom_18_lady_8_pl|Ermengarda{***}
+trp_kingdom_18_lady_8_pl|卡斯提尔的爱尔蒙佳达
 trp_kingdom_18_lady_9|Ynes{***}
-trp_kingdom_18_lady_9_pl|Ynes{***}
+trp_kingdom_18_lady_9_pl|叶妮
 trp_kingdom_18_lady_10|Beatriz{***}
-trp_kingdom_18_lady_10_pl|Beatriz{***}
+trp_kingdom_18_lady_10_pl|卡斯提尔的贝娅特丽兹
 trp_kingdom_18_lady_11|Francisca{***}
-trp_kingdom_18_lady_11_pl|Francisca{***}
+trp_kingdom_18_lady_11_pl|弗兰西斯卡
 trp_kingdom_18_lady_12|Leonor{***}
-trp_kingdom_18_lady_12_pl|Leonor{***}
+trp_kingdom_18_lady_12_pl|蕾欧诺
 trp_kingdom_18_lady_13|Ana{***}
-trp_kingdom_18_lady_13_pl|Ana{***}
+trp_kingdom_18_lady_13_pl|安娜
 trp_kingdom_18_lady_14|Teresa{***}
-trp_kingdom_18_lady_14_pl|Teresa{***}
+trp_kingdom_18_lady_14_pl|卡斯提尔的特蕾莎
 trp_kingdom_18_lady_15|Mencia{***}
-trp_kingdom_18_lady_15_pl|Mencia{***}
+trp_kingdom_18_lady_15_pl|莫妮西娅
 trp_kingdom_20_lady_1|Amira Fatima{***}
-trp_kingdom_20_lady_1_pl|Fatima{***}
+trp_kingdom_20_lady_1_pl|格拉纳达的法蒂玛女士
 trp_kingdom_20_lady_2|Amira Mu'mina{***}
-trp_kingdom_20_lady_2_pl|Mu'mina{***}
+trp_kingdom_20_lady_2_pl|穆米娅
 trp_kingdom_20_lady_3|Amira Khadija{***}
-trp_kingdom_20_lady_3_pl|Khadija{***}
+trp_kingdom_20_lady_3_pl|卡蒂佳
 trp_kingdom_20_lady_4|Amira Shams{***}
-trp_kingdom_20_lady_4_pl|Shams{***}
+trp_kingdom_20_lady_4_pl|莎穆斯
 trp_kingdom_20_lady_5|Amira Maryem{***}
-trp_kingdom_20_lady_5_pl|Maryem{***}
+trp_kingdom_20_lady_5_pl|玛耶
 trp_kingdom_20_lady_6|Amira Butayna{***}
-trp_kingdom_20_lady_6_pl|Butayna{***}
+trp_kingdom_20_lady_6_pl|布塔伊娜
 trp_kingdom_20_lady_7|Amira Zoraya{***}
-trp_kingdom_20_lady_7_pl|Zoraya{***}
+trp_kingdom_20_lady_7_pl|索拉雅
 trp_kingdom_20_lady_8|Amira Morayma{***}
-trp_kingdom_20_lady_8_pl|Morayma{***}
+trp_kingdom_20_lady_8_pl|莫拉伊玛
 trp_kingdom_20_lady_9|Amira Zubayda{***}
-trp_kingdom_20_lady_9_pl|Zubayda{***}
+trp_kingdom_20_lady_9_pl|祖拜妲
 trp_kingdom_20_lady_10|Amira Butaina{***}
-trp_kingdom_20_lady_10_pl|Butaina{***}
+trp_kingdom_20_lady_10_pl|芭塔伊娜
 trp_kingdom_20_lady_11|Amira Fatima{***}
 trp_kingdom_20_lady_11_pl|Fatima{***}
 trp_kingdom_20_lady_12|Amira Mu'mina{***}
@@ -2728,265 +2728,265 @@ trp_kingdom_20_lady_19_pl|Zubayda{***}
 trp_kingdom_20_lady_10|Amira Butaina{***}
 trp_kingdom_20_lady_10_pl|Butaina{***}
 trp_kingdom_22_lady_1|Maria Laskarina{***}
-trp_kingdom_22_lady_1_pl|Maria Laskarina{***}
+trp_kingdom_22_lady_1_pl|玛丽娅•拉斯卡琳娜
 trp_kingdom_22_lady_2|Theodora Raoulina{***}
-trp_kingdom_22_lady_2_pl|Theodora Raoulina{***}
+trp_kingdom_22_lady_2_pl|塞奥多拉•拉欧丽娜
 trp_kingdom_22_lady_3|Helena Doukaina{***}
-trp_kingdom_22_lady_3_pl|Helena Doukaina{***}
+trp_kingdom_22_lady_3_pl|海伦娜•杜卡伊娜
 trp_kingdom_22_lady_4|Anna Theologitissa{***}
-trp_kingdom_22_lady_4_pl|Anna Theologitissa{***}
+trp_kingdom_22_lady_4_pl|安娜•赛奥洛基蒂萨
 trp_kingdom_22_lady_5|Maria Doukaina{***}
-trp_kingdom_22_lady_5_pl|Maria Doukaina{***}
+trp_kingdom_22_lady_5_pl|玛丽娅•杜卡伊娜
 trp_kingdom_22_lady_6|Eudocia Aprini{***}
-trp_kingdom_22_lady_6_pl|Eudocia Aprini{***}
+trp_kingdom_22_lady_6_pl|尤多希娅•阿普林尼
 trp_kingdom_22_lady_7|Theodora Sparteni{***}
-trp_kingdom_22_lady_7_pl|Theodora Sparteni{***}
+trp_kingdom_22_lady_7_pl|塞奥多拉•斯帕特尼
 trp_kingdom_22_lady_8|Maria Tsaphaina{***}
-trp_kingdom_22_lady_8_pl|Maria Tsaphaina{***}
+trp_kingdom_22_lady_8_pl|玛丽娅•萨菲娜
 trp_kingdom_22_lady_9|Thomais Maniacena{***}
-trp_kingdom_22_lady_9_pl|Thomais Maniacena{***}
+trp_kingdom_22_lady_9_pl|索玛伊斯•玛丽娅希娜
 trp_kingdom_22_lady_10|Zoe Balsamaena{***}
-trp_kingdom_22_lady_10_pl|Zoe Balsamaena{***}
+trp_kingdom_22_lady_10_pl|左伊•瓦萨梅娜
 trp_kingdom_22_lady_11|Anna Paleologina{***}
-trp_kingdom_22_lady_11_pl|Anna Paleologina{***}
+trp_kingdom_22_lady_11_pl|安娜•帕留罗基娜
 trp_kingdom_22_lady_12|Maria{***}
-trp_kingdom_22_lady_12_pl|Maria{***}
+trp_kingdom_22_lady_12_pl|拜占庭的玛丽娅
 trp_kingdom_22_lady_13|Theodora{***}
-trp_kingdom_22_lady_13_pl|Theodora{***}
+trp_kingdom_22_lady_13_pl|塞奥多拉
 trp_kingdom_22_lady_14|Helena{***}
-trp_kingdom_22_lady_14_pl|Helena{***}
+trp_kingdom_22_lady_14_pl|海伦娜
 trp_kingdom_22_lady_15|Anna{***}
-trp_kingdom_22_lady_15_pl|Anna{***}
+trp_kingdom_22_lady_15_pl|安娜
 trp_kingdom_23_lady_1|Lady Isabella{***}
-trp_kingdom_23_lady_1_pl|Isabella{***}
+trp_kingdom_23_lady_1_pl|伊莎贝拉
 trp_kingdom_23_lady_2|Lady Maria{***}
-trp_kingdom_23_lady_2_pl|Maria{***}
+trp_kingdom_23_lady_2_pl|玛丽娅
 trp_kingdom_23_lady_3|Lady Elizabeth{***}
-trp_kingdom_23_lady_3_pl|Elizabeth{***}
+trp_kingdom_23_lady_3_pl|伊丽莎白
 trp_kingdom_23_lady_4|Lady Sybill{***}
-trp_kingdom_23_lady_4_pl|Sybill{***}
+trp_kingdom_23_lady_4_pl|西比尔
 trp_kingdom_23_lady_5|Lady Amabel{***}
-trp_kingdom_23_lady_5_pl|Amabel{***}
+trp_kingdom_23_lady_5_pl|阿玛贝尔
 trp_kingdom_23_lady_6|Lady Clare{***}
-trp_kingdom_23_lady_6_pl|Clare{***}
+trp_kingdom_23_lady_6_pl|克莱拉
 trp_kingdom_23_lady_7|Lady Constance{***}
-trp_kingdom_23_lady_7_pl|Constance{***}
+trp_kingdom_23_lady_7_pl|康斯坦斯
 trp_kingdom_23_lady_8|Lady Donata{***}
-trp_kingdom_23_lady_8_pl|Donata{***}
+trp_kingdom_23_lady_8_pl|多娜塔
 trp_kingdom_23_lady_9|Lady Emily{***}
-trp_kingdom_23_lady_9_pl|Emily{***}
+trp_kingdom_23_lady_9_pl|艾米丽
 trp_kingdom_23_lady_10|Lady Florence{***}
-trp_kingdom_23_lady_10_pl|Florence{***}
+trp_kingdom_23_lady_10_pl|芙萝伦斯
 trp_kingdom_23_lady_11|Lady Juliana{***}
-trp_kingdom_23_lady_11_pl|Juliana{***}
+trp_kingdom_23_lady_11_pl|朱莉安娜
 trp_kingdom_23_lady_12|Lady Levonia{***}
-trp_kingdom_23_lady_12_pl|Levonia{***}
+trp_kingdom_23_lady_12_pl|蕾雯妮娅
 trp_kingdom_23_lady_13|Lady Protasia{***}
-trp_kingdom_23_lady_13_pl|Protasia{***}
+trp_kingdom_23_lady_13_pl|普萝泰西娅
 trp_kingdom_23_lady_14|Lady Sabina{***}
-trp_kingdom_23_lady_14_pl|Sabina{***}
+trp_kingdom_23_lady_14_pl|萨宾娜
 trp_kingdom_23_lady_15|Lady Selina{***}
-trp_kingdom_23_lady_15_pl|Selina{***}
+trp_kingdom_23_lady_15_pl|塞琳娜
 trp_kingdom_24_lady_1|Signora Abriana{***}
-trp_kingdom_24_lady_1_pl|Abriana{***}
+trp_kingdom_24_lady_1_pl|阿布利娅娜
 trp_kingdom_24_lady_2|Signora Agalina{***}
-trp_kingdom_24_lady_2_pl|Agalina{***}
+trp_kingdom_24_lady_2_pl|阿佳莉娜
 trp_kingdom_24_lady_3|Signora Ambra{***}
-trp_kingdom_24_lady_3_pl|Ambra{***}
+trp_kingdom_24_lady_3_pl|安芭拉
 trp_kingdom_24_lady_4|Signora Amina{***}
-trp_kingdom_24_lady_4_pl|Amina{***}
+trp_kingdom_24_lady_4_pl|阿米娜
 trp_kingdom_24_lady_5|Signora Armida{***}
-trp_kingdom_24_lady_5_pl|Armida{***}
+trp_kingdom_24_lady_5_pl|阿米达
 trp_kingdom_24_lady_6|Signora Chola{***}
-trp_kingdom_24_lady_6_pl|Chola{***}
+trp_kingdom_24_lady_6_pl|蔻拉
 trp_kingdom_24_lady_7|Signora Citha{***}
-trp_kingdom_24_lady_7_pl|Citha{***}
+trp_kingdom_24_lady_7_pl|希萨
 trp_kingdom_24_lady_8|Signora Diletta{***}
-trp_kingdom_24_lady_8_pl|Diletta{***}
+trp_kingdom_24_lady_8_pl|蒂蕾妲
 trp_kingdom_24_lady_9|Signora Druda{***}
-trp_kingdom_24_lady_9_pl|Druda{***}
+trp_kingdom_24_lady_9_pl|杜妲
 trp_kingdom_24_lady_10|Signora Etheria{***}
-trp_kingdom_24_lady_10_pl|Etheria{***}
+trp_kingdom_24_lady_10_pl|埃塞丽娜
 trp_kingdom_24_lady_11|Signora Ghinga{***}
-trp_kingdom_24_lady_11_pl|Ghinga{***}
+trp_kingdom_24_lady_11_pl|吉恩佳
 trp_kingdom_24_lady_12|Signora Gilia{***}
-trp_kingdom_24_lady_12_pl|Gilia{***}
+trp_kingdom_24_lady_12_pl|吉莉娅
 trp_kingdom_24_lady_13|Signora Gravina{***}
-trp_kingdom_24_lady_13_pl|Gravina{***}
+trp_kingdom_24_lady_13_pl|格兰维娜
 trp_kingdom_24_lady_14|Signora Lizia{***}
-trp_kingdom_24_lady_14_pl|Lizia{***}
+trp_kingdom_24_lady_14_pl|莉西娅
 trp_kingdom_24_lady_15|Signora Mara{***}
-trp_kingdom_24_lady_15_pl|Mara{***}
+trp_kingdom_24_lady_15_pl|玛拉
 trp_kingdom_25_lady_1|Asul{***}
-trp_kingdom_25_lady_1_pl|Asul{***}
+trp_kingdom_25_lady_1_pl|阿苏尔
 trp_kingdom_25_lady_2|Behiye{***}
-trp_kingdom_25_lady_2_pl|Behiye{***}
+trp_kingdom_25_lady_2_pl|贝西耶
 trp_kingdom_25_lady_3|Canhabibe{***}
-trp_kingdom_25_lady_3_pl|Canhabibe{***}
+trp_kingdom_25_lady_3_pl|坎哈比贝
 trp_kingdom_25_lady_4|Devlet{***}
-trp_kingdom_25_lady_4_pl|Devlet{***}
+trp_kingdom_25_lady_4_pl|蒂弗莱特
 trp_kingdom_25_lady_5|Dilber{***}
-trp_kingdom_25_lady_5_pl|Dilber{***}
+trp_kingdom_25_lady_5_pl|蒂贝尔
 trp_kingdom_25_lady_6|Dur-cihan{***}
-trp_kingdom_25_lady_6_pl|Dur-cihan{***}
+trp_kingdom_25_lady_6_pl|杜•辛罕
 trp_kingdom_25_lady_7|Emine{***}
-trp_kingdom_25_lady_7_pl|Emine{***}
+trp_kingdom_25_lady_7_pl|埃米妮
 trp_kingdom_25_lady_8|Fatima{***}
-trp_kingdom_25_lady_8_pl|Fatima{***}
+trp_kingdom_25_lady_8_pl|马木鲁克苏丹国的法蒂玛
 trp_kingdom_25_lady_9|Gülbahar{***}
-trp_kingdom_25_lady_9_pl|Gülbahar{***}
+trp_kingdom_25_lady_9_pl|古尔芭哈
 trp_kingdom_25_lady_10|Gülfem{***}
-trp_kingdom_25_lady_10_pl|Gülfem{***}
+trp_kingdom_25_lady_10_pl|古尔芬
 trp_kingdom_25_lady_11|Gümüs{***}
-trp_kingdom_25_lady_11_pl|Gümüs{***}
+trp_kingdom_25_lady_11_pl|古穆斯
 trp_kingdom_25_lady_12|Hadice{***}
-trp_kingdom_25_lady_12_pl|Hadice{***}
+trp_kingdom_25_lady_12_pl|哈蒂欣
 trp_kingdom_25_lady_13|Hafza{***}
-trp_kingdom_25_lady_13_pl|Hafza{***}
+trp_kingdom_25_lady_13_pl|哈法萨
 trp_kingdom_25_lady_14|Huban{***}
-trp_kingdom_25_lady_14_pl|Huban{***}
+trp_kingdom_25_lady_14_pl|呼班
 trp_kingdom_25_lady_15|Husni{***}
-trp_kingdom_25_lady_15_pl|Husni{***}
+trp_kingdom_25_lady_15_pl|呼斯妮
 trp_kingdom_25_lady_16|Kadem{***}
-trp_kingdom_25_lady_16_pl|Kadem{***}
+trp_kingdom_25_lady_16_pl|卡丹
 trp_kingdom_25_lady_17|Mansure{***}
-trp_kingdom_25_lady_17_pl|Mansure{***}
+trp_kingdom_25_lady_17_pl|曼苏尔
 trp_kingdom_25_lady_18|Melike{***}
-trp_kingdom_25_lady_18_pl|Melike{***}
+trp_kingdom_25_lady_18_pl|梅丽柯
 trp_kingdom_25_lady_19|Nar{***}
-trp_kingdom_25_lady_19_pl|Nar{***}
+trp_kingdom_25_lady_19_pl|娜尔
 trp_kingdom_25_lady_20|Nefise{***}
-trp_kingdom_25_lady_20_pl|Nefise{***}
+trp_kingdom_25_lady_20_pl|奈菲丝
 trp_kingdom_25_lady_21|Nergis{***}
-trp_kingdom_25_lady_21_pl|Nergis{***}
+trp_kingdom_25_lady_21_pl|奈吉丝
 trp_kingdom_25_lady_22|Neslihan{***}
-trp_kingdom_25_lady_22_pl|Neslihan{***}
+trp_kingdom_25_lady_22_pl|奈丝丽罕
 trp_kingdom_25_lady_23|Rabiye{***}
-trp_kingdom_25_lady_23_pl|Rabiye{***}
+trp_kingdom_25_lady_23_pl|拉比耶
 trp_kingdom_25_lady_24|Safiye{***}
-trp_kingdom_25_lady_24_pl|Safiye{***}
+trp_kingdom_25_lady_24_pl|萨菲耶
 trp_kingdom_25_lady_25|Sara{***}
-trp_kingdom_25_lady_25_pl|Sara{***}
+trp_kingdom_25_lady_25_pl|萨拉
 trp_kingdom_26_lady_1|Lady Gertrude{***}
-trp_kingdom_26_lady_1_pl|Gertrude{***}
+trp_kingdom_26_lady_1_pl|吉尔裘德
 trp_kingdom_26_lady_2|Lady Godiva{***}
-trp_kingdom_26_lady_2_pl|Godiva{***}
+trp_kingdom_26_lady_2_pl|戈蒂瓦
 trp_kingdom_26_lady_3|Lady Adela{***}
-trp_kingdom_26_lady_3_pl|Adela{***}
+trp_kingdom_26_lady_3_pl|阿德拉
 trp_kingdom_26_lady_4|Lady Alice{***}
-trp_kingdom_26_lady_4_pl|Alice{***}
+trp_kingdom_26_lady_4_pl|爱丽丝
 trp_kingdom_26_lady_5|Lady Eleanor{***}
-trp_kingdom_26_lady_5_pl|Eleanor{***}
+trp_kingdom_26_lady_5_pl|艾蕾诺
 trp_kingdom_26_lady_6|Lady Giselle{***}
-trp_kingdom_26_lady_6_pl|Giselle{***}
+trp_kingdom_26_lady_6_pl|吉瑟尔勒
 trp_kingdom_26_lady_7|Lady Maynild{***}
-trp_kingdom_26_lady_7_pl|Maynild{***}
+trp_kingdom_26_lady_7_pl|梅妮尔德
 trp_kingdom_26_lady_8|Lady Rosalind{***}
-trp_kingdom_26_lady_8_pl|Rosalind{***}
+trp_kingdom_26_lady_8_pl|罗莎琳德
 trp_kingdom_26_lady_9|Lady Veneranda{***}
-trp_kingdom_26_lady_9_pl|Veneranda{***}
+trp_kingdom_26_lady_9_pl|维妮兰达
 trp_kingdom_26_lady_10|Lady Ruothilde{***}
-trp_kingdom_26_lady_10_pl|Ruothilde{***}
+trp_kingdom_26_lady_10_pl|萝希尔德
 trp_kingdom_27_lady_1|Aigiarn-khatum{***}
-trp_kingdom_27_lady_1_pl|Aigiarn{***}
+trp_kingdom_27_lady_1_pl|艾佳恩
 trp_kingdom_27_lady_2|Borte-khatum{***}
-trp_kingdom_27_lady_2_pl|Borte{***}
+trp_kingdom_27_lady_2_pl|伯特
 trp_kingdom_27_lady_3|Chabi-khatum{***}
-trp_kingdom_27_lady_3_pl|Chabi{***}
+trp_kingdom_27_lady_3_pl|喀毕
 trp_kingdom_27_lady_4|Conchaka-khatum{***}
-trp_kingdom_27_lady_4_pl|Conchaka{***}
+trp_kingdom_27_lady_4_pl|康察喀
 trp_kingdom_27_lady_5|Doquez-khatum{***}
-trp_kingdom_27_lady_5_pl|Doquez{***}
+trp_kingdom_27_lady_5_pl|朵奎兹
 trp_kingdom_27_lady_6|Ho'elun-khatum{***}
-trp_kingdom_27_lady_6_pl|Ho'elun{***}
+trp_kingdom_27_lady_6_pl|霍厄伦
 trp_kingdom_27_lady_7|Khultulun-khatum{***}
-trp_kingdom_27_lady_7_pl|Khultulun{***}
+trp_kingdom_27_lady_7_pl|库尔土伦
 trp_kingdom_27_lady_8|Kokachin-khatum{***}
-trp_kingdom_27_lady_8_pl|Kokachin{***}
+trp_kingdom_27_lady_8_pl|廓喀钦
 trp_kingdom_27_lady_9|Mandughai-khatum{***}
-trp_kingdom_27_lady_9_pl|Mandughai{***}
+trp_kingdom_27_lady_9_pl|满都亥
 trp_kingdom_27_lady_10|Orqina-khatum{***}
-trp_kingdom_27_lady_10_pl|Orqina{***}
+trp_kingdom_27_lady_10_pl|奥钦娜
 trp_kingdom_27_lady_11|Toregene-khatum{***}
-trp_kingdom_27_lady_11_pl|Toregene{***}
+trp_kingdom_27_lady_11_pl|拖雷噶尼
 trp_kingdom_27_lady_12|Hoelun-khatum{***}
-trp_kingdom_27_lady_12_pl|Hoelun{***}
+trp_kingdom_27_lady_12_pl|霍伦
 trp_kingdom_27_lady_13|Chubei-khatum{***}
-trp_kingdom_27_lady_13_pl|Chubei{***}
+trp_kingdom_27_lady_13_pl|库贝
 trp_kingdom_27_lady_14|Muqa-khatum{***}
-trp_kingdom_27_lady_14_pl|Muqa{***}
+trp_kingdom_27_lady_14_pl|木恰
 trp_kingdom_27_lady_15|Moge-khatum{***}
-trp_kingdom_27_lady_15_pl|Moge{***}
+trp_kingdom_27_lady_15_pl|蒙戈
 trp_kingdom_28_lady_1|Banah{***}
-trp_kingdom_28_lady_1_pl|Banah{***}
+trp_kingdom_28_lady_1_pl|芭娜
 trp_kingdom_28_lady_2|Bushra{***}
-trp_kingdom_28_lady_2_pl|Bushra{***}
+trp_kingdom_28_lady_2_pl|布什娜
 trp_kingdom_28_lady_3|Sakan{***}
-trp_kingdom_28_lady_3_pl|Sakan{***}
+trp_kingdom_28_lady_3_pl|萨堪
 trp_kingdom_28_lady_4|Shifa{***}
-trp_kingdom_28_lady_4_pl|Shifa{***}
+trp_kingdom_28_lady_4_pl|希法
 trp_kingdom_28_lady_5|Mariyah{***}
-trp_kingdom_28_lady_5_pl|Mariyah{***}
+trp_kingdom_28_lady_5_pl|玛丽耶
 trp_kingdom_28_lady_6|Kasif{***}
-trp_kingdom_28_lady_6_pl|Kasif{***}
+trp_kingdom_28_lady_6_pl|卡希芙
 trp_kingdom_28_lady_7|Fatima{***}
-trp_kingdom_28_lady_7_pl|Fatima{***}
+trp_kingdom_28_lady_7_pl|哈夫斯的法蒂玛
 trp_kingdom_28_lady_8|Hullah{***}
-trp_kingdom_28_lady_8_pl|Hullah{***}
+trp_kingdom_28_lady_8_pl|呼兰
 trp_kingdom_28_lady_9|Qaribah{***}
-trp_kingdom_28_lady_9_pl|Qaribah{***}
+trp_kingdom_28_lady_9_pl|卡里芭
 trp_kingdom_28_lady_10|Zulaikha{***}
-trp_kingdom_28_lady_10_pl|Zulaikha{***}
+trp_kingdom_28_lady_10_pl|祖莱卡
 trp_kingdom_28_lady_11|Sanaa{***}
-trp_kingdom_28_lady_11_pl|Sanaa{***}
+trp_kingdom_28_lady_11_pl|萨娜娅
 trp_kingdom_28_lady_12|Maysun{***}
-trp_kingdom_28_lady_12_pl|Maysun{***}
+trp_kingdom_28_lady_12_pl|玛伊苏
 trp_kingdom_28_lady_13|Ghadir{***}
-trp_kingdom_28_lady_13_pl|Ghadir{***}
+trp_kingdom_28_lady_13_pl|佳蒂尔
 trp_kingdom_28_lady_14|Hawwa{***}
-trp_kingdom_28_lady_14_pl|Hawwa {***}
+trp_kingdom_28_lady_14_pl|哈瓦
 trp_kingdom_28_lady_15|Bilqis{***}
-trp_kingdom_28_lady_15_pl|Bilqis{***}
+trp_kingdom_28_lady_15_pl|比绮丝
 trp_kingdom_29_lady_1|Lady Aleksa{***}
-trp_kingdom_29_lady_1_pl|Aleksa{***}
+trp_kingdom_29_lady_1_pl|阿蕾克莎
 trp_kingdom_29_lady_2|Lady Danica{***}
-trp_kingdom_29_lady_2_pl|Danica{***}
+trp_kingdom_29_lady_2_pl|达妮卡
 trp_kingdom_29_lady_3|Lady Ivanka{***}
-trp_kingdom_29_lady_3_pl|Ivanka{***}
+trp_kingdom_29_lady_3_pl|伊凡卡
 trp_kingdom_29_lady_4|Lady Jovanka{***}
-trp_kingdom_29_lady_4_pl|Jovanka{***}
+trp_kingdom_29_lady_4_pl|约凡卡
 trp_kingdom_29_lady_5|Lady Mira{***}
-trp_kingdom_29_lady_5_pl|Mira{***}
+trp_kingdom_29_lady_5_pl|米拉
 trp_kingdom_29_lady_6|Lady Tatijana{***}
-trp_kingdom_29_lady_6_pl|Tatijana{***}
+trp_kingdom_29_lady_6_pl|塔蒂扬娜
 trp_kingdom_29_lady_7|Lady Vesna{***}
-trp_kingdom_29_lady_7_pl|Vesna{***}
+trp_kingdom_29_lady_7_pl|维斯纳
 trp_kingdom_29_lady_8|Lady Biljana{***}
-trp_kingdom_29_lady_8_pl|Biljana{***}
+trp_kingdom_29_lady_8_pl|比扬娜
 trp_kingdom_29_lady_9|Lady Dijana{***}
-trp_kingdom_29_lady_9_pl|Dijana{***}
+trp_kingdom_29_lady_9_pl|迪扬娜
 trp_kingdom_29_lady_10|Lady Mirjana{***}
-trp_kingdom_29_lady_10_pl|Mirjana{***}
+trp_kingdom_29_lady_10_pl|米尔扬娜
 trp_kingdom_30_lady_1|Lady Irina{***}
-trp_kingdom_30_lady_1_pl|Irina{***}
+trp_kingdom_30_lady_1_pl|伊琳娜
 trp_kingdom_30_lady_2|Lady Sofia{***}
-trp_kingdom_30_lady_2_pl|Sofia{***}
+trp_kingdom_30_lady_2_pl|索菲亚
 trp_kingdom_30_lady_3|Lady Ana{***}
-trp_kingdom_30_lady_3_pl|Ana{***}
+trp_kingdom_30_lady_3_pl|安娜
 trp_kingdom_30_lady_4|Lady Teodora{***}
-trp_kingdom_30_lady_4_pl|Teodora{***}
+trp_kingdom_30_lady_4_pl|塞奥多拉
 trp_kingdom_30_lady_5|Lady Rada{***}
-trp_kingdom_30_lady_5_pl|Rada{***}
+trp_kingdom_30_lady_5_pl|拉妲
 trp_kingdom_30_lady_6|Lady Blaga{***}
-trp_kingdom_30_lady_6_pl|Blaga{***}
+trp_kingdom_30_lady_6_pl|布拉佳
 trp_kingdom_30_lady_7|Lady Miroslava{***}
-trp_kingdom_30_lady_7_pl|Miroslava{***}
+trp_kingdom_30_lady_7_pl|米罗斯拉娃
 trp_kingdom_30_lady_8|Lady Lyubomira{***}
-trp_kingdom_30_lady_8_pl|Lyubomira{***}
+trp_kingdom_30_lady_8_pl|琉博米拉
 trp_kingdom_30_lady_9|Lady Zornitza{***}
-trp_kingdom_30_lady_9_pl|Zornitza{***}
+trp_kingdom_30_lady_9_pl|卓尔妮萨
 trp_kingdom_30_lady_10|Lady Zoya{***}
-trp_kingdom_30_lady_10_pl|Zoya{***}
+trp_kingdom_30_lady_10_pl|卓娅
 trp_kingdom_31_lady_1|露 巴 巴 女 士 
 trp_kingdom_31_lady_1_pl|露 巴 巴 
 trp_kingdom_31_lady_2|凯 拉 女 士 
