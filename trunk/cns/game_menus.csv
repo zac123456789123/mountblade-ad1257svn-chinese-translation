@@ -639,9 +639,9 @@ menu_notification_feast_quest_expired|{s10}
 mno_continue|继 续 
 menu_notification_sortie_possible|敌 报： 已 经 在 {s4}的 城 墙 外 发 现 敌 人。 {s5}和 其 他 领 主 正 准 备 出 击。 如 果 愿 意 的 话 你 可 以 加 入 他 们。 
 mno_continue|继 续 
-menu_notification_casus_belli_expired|王 国 没 有 回 应 ^^{s1}没 有 回 应 {s2}的 挑 衅， 这 导 致 {s3}在 {reg4? 她 : 他}手 下 的 好 战 派 中 威 信 扫 地… … ^
+menu_notification_casus_belli_expired|王 国 没 有 回 应 ^^{s1}没 有 回 应 {s2}的 挑 衅， 这 导 致 {s3}在 {reg4?她:他} 手 下 的 好 战 派 中 威 信 扫 地… … ^
 mno_continue|继 续 
-menu_notification_lord_defects|背 叛： {s4}已 经 抛 弃 了 {s5}并 且 加 入 了 {s7}， 带 着 {reg4?她:他}的 封 地 一 起 
+menu_notification_lord_defects|背 叛： {s4}已 经 抛 弃 了 {s5}并 且 加 入 了 {s7}， 带 着 {reg4?她:他} 的 封 地 一 起 
 mno_continue|继 续 
 menu_notification_treason_indictment|叛 国 控 告 ^^{s9}
 mno_continue|继 续 

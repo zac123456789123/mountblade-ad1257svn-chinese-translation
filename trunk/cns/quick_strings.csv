@@ -689,19 +689,19 @@ qstr_A_villager_from_{s7}|一 个 从 {s7}来 的 村 民 恳 求 你， 希 望
 qstr_You_chose_well_{sir/|选 我 们 就 对 了， {先 生/夫 人}。 我 的 伙 计 们 知 道 怎 么 工 作 才 对 得 起 你 付 给 他 们 的 工 资。 
 qstr_Well_done_{sir/madam|干 得 好， {先 生/夫 人}。 继 续 给 我 们 带 来 金 钱 和 美 酒， 你 将 不 会 在 卡 拉 迪 亚 害 怕 遇 到 敌 人。 
 qstr_We_are_at_your_servi|我 们 听 命 于 你， {先 生/夫 人}。 你 所 要 做 的， 仅 仅 是 为 我 们 指 明 攻 击 对 象。 
-qstr_The_Guildmaster_of_{|{s13}的 镇 长 要 你 解 决 村 子 周 围 的 劫 匪， 并 把 夺 回 的 货 物 全 部 带 去 给 他。 
+qstr_The_Guildmaster_of_{|{s13}的 行 会 会 长 要 你 解 决 村 子 周 围 的 劫 匪， 并 把 夺 回 的 货 物 全 部 带 去 给 他。 
 qstr_{s9}_of_{s3}_asked_y|{s3}的 {s9}请 你 在 7 天 内 带 {reg5}单 位 的 {s6}到 {s4}的 酒 馆。 
 qstr_Escort_the_merchant_|护 送 商 人 的 商 队 去 {s8}镇。 
 qstr_Merchant_{s9}_of_{s4|{s4}的 {s9}要 你 消 灭 在 镇 子 附 近 的 惹 麻 烦 的 土 匪。 
-qstr_Guildmaster_of_{s4}_|{s4}的 镇 长 给 你 {reg12}第 纳 尔， 作 为 女 孩 的 赎 金。 你 要 在 {s3}附 近 和 强 盗 会 面， 赎 回 女 孩 并 带 回 {s4}。 
-qstr_Guildmaster_of_{s4}_p|{s4}的 镇 长 答 应 给 你 {reg12}第 纳 尔， 如 果 你 能 使 得 {s12}和 {s13}不 再 对 {s15}和 {s14}的 和 平 形 式 表 现 出 一 种 凶 兆。 要 做 到 这 个， 你 得 说 服 他 们 中 的 一 个 或 者 他 们 都 被 俘 虏 并 且 还 活 着， 直 到 达 成 和 平 协 议。 
-qstr_The_Guildmaster_of_{s|{s14}的 镇 长 要 你 解 决 一 群 游 荡 在 {s14}街 道 上 的 强 盗。 他 们 只 在 晚 上 出 来， 并 且 袭 击 街 上 单 身 的 旅 行 者。 
-qstr_Guildmaster_of_{s10}|{s10}的 镇 长 要 你 把 一 群 牛 赶 到 {s13}去。 你 将 会 挣 得 {reg8}第 纳 尔 的 报 酬。 
+qstr_Guildmaster_of_{s4}_|{s4}的 行 会 会 长 给 你 {reg12}第 纳 尔， 作 为 女 孩 的 赎 金。 你 要 在 {s3}附 近 和 强 盗 会 面， 赎 回 女 孩 并 带 回 {s4}。 
+qstr_Guildmaster_of_{s4}_p|{s4}的 行 会 会 长 答 应 给 你 {reg12}第 纳 尔， 如 果 你 能 使 得 {s12}和 {s13}不 再 对 {s15}和 {s14}的 和 平 形 式 表 现 出 一 种 凶 兆。 要 做 到 这 个， 你 得 说 服 他 们 中 的 一 个 或 者 他 们 都 被 俘 虏 并 且 还 活 着， 直 到 达 成 和 平 协 议。 
+qstr_The_Guildmaster_of_{s|{s14}的 行 会 会 长 要 你 解 决 一 群 游 荡 在 {s14}街 道 上 的 强 盗。 他 们 只 在 晚 上 出 来， 并 且 袭 击 街 上 单 身 的 旅 行 者。 
+qstr_Guildmaster_of_{s10}|{s10}的 行 会 会 长 要 你 把 一 群 牛 赶 到 {s13}去。 你 将 会 挣 得 {reg8}第 纳 尔 的 报 酬。 
 qstr_He_is_not_commanding|他 现 在 什 么 人 也 没 有 指 挥。 
 qstr_He_currently_command|他 现 在 指 挥 了 {reg0}人。 {reg1?其 中 {reg1}人 负 伤。 :} 
-qstr_The_elder_of_the_vil|{s3}村 的 村 长 要 你 搞 到 {reg5}袋 谷 物 给 他。 
-qstr_The_elder_of_the_vill|{s13}村 的 村 长 要 你 训 练 {reg5}个 农 民 以 抵 抗 当 地 的 强 盗。 
-qstr_The_elder_of_the_villa|{s3}村 的 村 长 要 你 搞 到 {reg5}头 牛 给 他。 
+qstr_The_elder_of_the_vil|{s3}村 的 长 者 要 你 搞 到 {reg5}袋 谷 物 给 他。 
+qstr_The_elder_of_the_vill|{s13}村 的 长 者 要 你 训 练 {reg5}个 农 民 以 抵 抗 当 地 的 强 盗。 
+qstr_The_elder_of_the_villa|{s3}村 的 长 者 要 你 搞 到 {reg5}头 牛 给 他。 
 qstr_{s16}_and_{s15}|{s16}和 {s15}
 qstr_I_can_smell_a_fat_pu|我 在 一 英 里 外 就 嗅 到 了 一 个 鼓 鼓 的 钱 包。 我 想 你 想 让 它 变 轻 些， 不 是 吗？ 
 qstr_Why_it_be_another_tr|啊！ 这 又 是 一 个 旅 行 者， 让 我 给 撞 上 了。 我 应 该 警 告 你， 这 里 的 郊 外 对 于 像 你 这 样 的 一 个 好 {人/人} 是 有 点 危 险 的。 但 是 你 要 是 给 我 们 一 点 钱， 我 和 我 的 兄 弟 们 就 可 以 保 证 你 安 全 到 达 你 的 目 的 地， 怎 么 样？ 
@@ -717,4 +717,4 @@ qstr_This_is_the_{reg4?to|这 里 是 {s5}{reg4?镇:村}， {先 生/夫 人}。
 qstr_{s6}_Our_{reg4?town:|{s6}我 们 {reg4?镇 :村 }及 周 围 的 土 地 属 于 你， 我 的 {大 人/夫 人}。 
 qstr_{s6}_Our_{reg4?town:v|{s6}我 们 {reg4?镇 :村 }及 周 围 的 土 地 属 于 {s8}的 {s7}。 
 qstr_{s3}_and_{s5}|{s3}和 {s5}
-qstr_{reg20?We_mostly_pro|{reg20?我 们 这 里 主 要 是 出 产 {s5}:这 些 天 我 们 这 里 几 乎 什 么 都 没 有 出 产}。 如 果 你 想 了 解 更 多 的 情 况， 你 可 以 去 问 我 们 的 {reg4?镇 长:村 长}。 他 就 在 附 近， 看， 就 在 那 边。 
+qstr_{reg20?We_mostly_pro|{reg20?我 们 这 里 主 要 是 出 产 {s5}:这 些 天 我 们 这 里 几 乎 什 么 都 没 有 出 产}。 如 果 你 想 了 解 更 多 的 情 况， 你 可 以 去 问 我 们 的 {reg4?行 会 会 长:长 者}。 他 就 在 附 近， 看， 就 在 那 边。 
