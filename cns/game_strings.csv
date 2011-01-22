@@ -503,7 +503,7 @@ str_npc20_backstory_b|Isma'il the Andalusian - backstory b{***}
 str_npc22_backstory_b|Alexios the Greek - backstory b{***}
 str_npc23_backstory_b|Hugues the Crusader - backstory b{***}
 str_npc24_backstory_b|Dego the Sicilian - backstory b{***}
-str_npc25_backstory_b|我 是 一 个 专 业 的 武 士， 或 许 你 从 诗 中 听 到 过 我 那 让 女 士 们 晕 倒 的 威 名， 又 或 许 你 听 说 过 我 在 床 第 之 上 的 厉 害， 我 得 承 认 我 在 这 方 面 也 达 到 了 相 当 的 技 巧。 我 承 认 我 对 基 督 徒 国 家 有 着 一 定 的 感 情。 这 些 年 来， 我 去 过 很 多 基 督 教 国 家 的 城 市、 村 庄， 并 不 断 磨 练 我 的 能 力。 
+str_npc25_backstory_b|我 是 一 个 专 业 的 武 士， 或 许 你 从 诗 中 听 到 过 我 那 让 女 士 们 晕 倒 的 威 名， 又 或 许 你 听 说 过 我 在 床 笫 之 上 的 厉 害， 我 得 承 认 我 在 这 方 面 也 达 到 了 相 当 的 技 巧。 我 承 认 我 对 基 督 徒 国 家 有 着 一 定 的 感 情。 这 些 年 来， 我 去 过 很 多 基 督 教 国 家 的 城 市、 村 庄， 并 不 断 磨 练 我 的 能 力。 
 str_npc26_backstory_b|作 为 一 个 富 有 贵 族 家 庭 的 次 子， 我 很 难 有 机 会 得 到 我 父 亲 的 遗 产。 然 而 我 作 为 最 小 的 儿 子， 我 一 直 是 父 亲 最 喜 欢 的 孩 子， 这 也 是 我 获 得 父 亲 一 部 分 遗 产 的 唯 一 办 法， 我 做 所 有 事 都 尽 最 大 的 努 力。 这 个 计 划 成 功 了， 在 父 亲 死前 两 月， 我 也 被 写 进 了 遗 嘱。 
 str_npc27_backstory_b|After helping my brothers capture what was a small town from the Latin Empire, I decided in my youthful folly that I had been denied my fair share of the earnings from this conquest, so as any 15 year old would do I started to threaten to leave unless I was given a fair share! Ah the stupidity of youth. So the tribe chief did the sensible thing and threw me out.{***}
 str_npc28_backstory_b|Gamal the Arab - backstory b{***}
@@ -1263,7 +1263,7 @@ str_npc12_kingsupport_2|Uilleam the Scot - kingsupport 2
 str_npc13_kingsupport_2|Aedh the Irishman - kingsupport 2
 str_npc14_kingsupport_2|Karl the Swede - kingsupport 2
 str_npc15_kingsupport_2|Ivan of Galicia - kingsupport 2
-str_npc16_kingsupport_2|当 然 了， 队 长。 如 果 你 要 问 我 在 旅 途 中 学 到 什 么 的 话， 我 会 说 传 统。 我 们 应 该 按 照 我 们 祖 先 方 式 行事。 虽 然 那 时 能 读 懂 法 律 的 人 可 能 不 超 过 一 百， 但 法 律 还 是 一 代 又 一 代 的 传 了 下 来。 
+str_npc16_kingsupport_2|当 然 了， 队 长。 如 果 你 要 问 我 在 旅 途 中 学 到 什 么 的 话， 我 会 说 传 统。 我 们 应 该 按 照 我 们 祖 先 方 式 行 事。 虽 然 那 时 能 读 懂 法 律 的 人 可 能 不 超 过 一 百， 但 法 律 还 是 一 代 又 一 代 的 传 了 下 来。 
 str_npc17_kingsupport_2|Jaume of Aragon - kingsupport 2{***}
 str_npc18_kingsupport_2|Fernando the Castillan - kingsupport 2{***}
 str_npc20_kingsupport_2|Isma'il the Andalusian - kingsupport 2{***}
@@ -1279,20 +1279,20 @@ str_npc30_kingsupport_2|Kyril the Bulgarian - kingsupport 2{***}
 str_npc31_kingsupport_2|Ali the Berber - kingsupport 2{***}
 str_npc1_kingsupport_2a|A most enlighten view of the future.
 str_npc2_kingsupport_2a|Ligeikis the Balt - kingsupport 2a
-str_npc3_kingsupport_2a|请 继 续... 
+str_npc3_kingsupport_2a|请 继 续… … 
 str_npc4_kingsupport_2a|这 是 来 自 武 士 很 睿 智 的 话 语。 
 str_npc5_kingsupport_2a|Bolko the Pole - kingsupport 2a
 str_npc6_kingsupport_2a|Johann of the HRE - kingsupport 2a
 str_npc7_kingsupport_2a|Istvan the Hungarian - kingsupport 2a
 str_npc8_kingsupport_2a|Yuriy of Novgorod - kingsupport 2a
-str_npc9_kingsupport_2a|请 继 续... 
+str_npc9_kingsupport_2a|请 继 续… … 
 str_npc10_kingsupport_2a|Jean the Frenchman - kingsupport 2a
 str_npc11_kingsupport_2a|Jon the Norwegian - kingsupport 2a
 str_npc12_kingsupport_2a|Uilleam the Scot - kingsupport 2a
 str_npc13_kingsupport_2a|Aedh the Irishman - kingsupport 2a
 str_npc14_kingsupport_2a|Karl the Swede - kingsupport 2a
 str_npc15_kingsupport_2a|Ivan of Galicia - kingsupport 2a
-str_npc16_kingsupport_2a|很 有 意 思， 请 继 续… 
+str_npc16_kingsupport_2a|很 有 意 思， 请 继 续… … 
 str_npc17_kingsupport_2a|Jaume of Aragon - kingsupport 2a{***}
 str_npc18_kingsupport_2a|Fernando the Castillan - kingsupport 2a{***}
 str_npc20_kingsupport_2a|Isma'il the Andalusian - kingsupport 2a{***}
@@ -1350,7 +1350,7 @@ str_npc12_kingsupport_3|Uilleam the Scot - kingsupport 3
 str_npc13_kingsupport_3|Aedh the Irishman - kingsupport 3
 str_npc14_kingsupport_3|Karl the Swede - kingsupport 3
 str_npc15_kingsupport_3|Ivan of Galicia - kingsupport 3
-str_npc16_kingsupport_3|但 是 你 知 道 吗？ 涉 及 王 位 时， 根 本 没 有 所 谓 的 法 律。 有 时 候 王 位 由 父 亲 传 给 他 的 儿 子， 有 时 候 王 国 被 几 个 将 军 分 裂。 有 时 候 现 任 国 王 谋 杀 了 上 任 国 王。 要 成 为 一 个 {国 王/国 王 或 者 女 王}，没 有 所 谓 正 确 的 途 径。 王 位 应 该 传 给 最 适 合 统 治 的 人。 您， 当 然 会 是 这 么 一 个 人。 给 我 几 周 时 间， 我 会 写 一 份 传 单 证 明 这 一 点， 并 把 它 张 贴 在 各 个 酒 馆。 队 长， 你 说 这 个 主 意 如 何？ 
+str_npc16_kingsupport_3|但 是 你 知 道 吗？ 涉 及 王 位 时， 根 本 没 有 所 谓 的 法 律。 有 时 候 王 位 由 父 亲 传 给 他 的 儿 子， 有 时 候 王 国 被 几 个 将 军 分 裂。 有 时 候 现 任 国 王 谋 杀 了 上 任 国 王。 要 成 为 一 个 {国 王/国 王 或 者 女 王}， 没 有 所 谓 正 确 的 途 径。 王 位 应 该 传 给 最 适 合 统 治 的 人。 您， 当 然 会 是 这 么 一 个 人。 给 我 几 周 时 间， 我 会 写 一 份 传 单 证 明 这 一 点， 并 把 它 张 贴 在 各 个 酒 馆。 队 长， 你 说 这 个 主 意 如 何？ 
 str_npc17_kingsupport_3|Jaume of Aragon - kingsupport 3{***}
 str_npc18_kingsupport_3|Fernando the Castillan - kingsupport 3{***}
 str_npc20_kingsupport_3|Isma'il the Andalusian - kingsupport 3{***}
@@ -1807,7 +1807,7 @@ str_battle_won_grudging_martial|{playername}， 不 管 你 以 前 做 得 怎 
 str_battle_won_grudging_quarrelsome|哼， 我 通 常 都 不 想 看 到 你 的 那 张 脸， 但 是 我 今 天 还 是 得 感 谢 你 的 帮 忙。 
 str_battle_won_grudging_pitiless|你 今 天 的 帮 忙 很 受 用。 我 完 全 没 有 想 到 你 会 这 么 好 心 地 来 帮 我， 但 是 我 还 是 得 谢 谢 你。 
 str_battle_won_grudging_cunning|你 在 我 最 需 要 帮 忙 的 时 候 来 帮 了 我， 如 果 我 不 感 谢 你， 我 就 显 的 太 不 厚 道 了。 所 以… … 我 很 感 激 你。 
-str_battle_won_grudging_sadistic|啊！ 多 么 令 人 感 动 啊！ {playername} 居 然 来 救 我 了。 
+str_battle_won_grudging_sadistic|啊！ 多 么 令 人 感 动 啊！ {playername}居 然 来 救 我 了。 
 str_battle_won_grudging_goodnatured|{playername}！ 我 不 想 说 过 去 我 们 相 处 得 如 何， 但 是 你 今 天 在 战 场 上 的 表 现 不 错。 非 常 感 谢 你！ 
 str_battle_won_grudging_upstanding|也 许 过 去 我 对 你 有 些 误 解。 你 的 到 来 非 常 及 时。 我 很 感 激 你。 
 str_battle_won_unfriendly_default|你 来 了。 好 吧， 我 认 为 晚 点 来 总 比 不 来 的 好。 
@@ -2639,7 +2639,7 @@ str_i_need_to_spend_some_time_with_my_household|我 得 花 些 时 间 陪 陪 
 str_it_has_been_a_long_time_since_i_have_been_able_to_spend_time_with_my_household|我 好 久 没 和 家 人 一 起 欢 度 快 乐 时 光 了。 
 str_i_am_watching_the_borders|我 在 看 守 边 境。 
 str_i_may_be_needed_to_watch_the_borders|或 许 会 需 要 我 警 戒 边 界。 
-str_i_will_guard_the_areas_near_my_home|我 会 保 卫 我 家 附 近 的 区 域… … 
+str_i_will_guard_the_areas_near_my_home|我 会 去 守 卫 我 家 附 近 的 区 域… … 
 str_i_am_perhaps_needed_most_at_home|我 也 许 应 该 待 在 家 里。 
 str_i_cant_think_of_anything_better_to_do|我 想 不 出 我 还 能 做 什 么… … 
 str_i_am_completing_what_i_have_already_begun|我 会 有 始 有 终 的。 
@@ -2670,7 +2670,7 @@ str_there_is_no_need_to_beat_around_the_borders__we_can_take_one_of_their_import
 str_we_should_exploit_our_success_over_s21_by_seizing_one_of_their_fortresses|我 们 应 当 利 用 我 们 在 {s21}的 胜 利， 乘 势 夺 取 他 们 的 一 个 要 塞。 
 str_we_shall_leave_a_fiery_trail_through_the_heart_of_the_enemys_lands_targeting_the_wealthy_settlements_if_we_can|我 们 应 该 长 驱 直 入， 直 捣 敌 国 的 核 心， 竭 尽 所 能 攻 占 那 些 富 有 的 城 镇。 
 str_the_army_will_be_disbanded_because_we_have_been_waiting_too_long_without_a_target|军 队 将 被 解 散， 因 为 我 们 花 了 太 长 时 间 来 考 虑， 却 还 没 有 一 个 攻 击 的 目 标。 
-str_it_is_time_for_the_feast_to_conclude|该 是 吃 散 伙 饭 的 时 候 了。 
+str_it_is_time_for_the_feast_to_conclude|宴 会 快 要 结 束 了。 
 str_we_should_continue_the_feast_unless_there_is_an_emergency|我 们 应 该 继 续 进 行 宴 会， 除 非 出 了 什 么 意 外。 
 str_you_had_wished_to_hold_a_feast|你 想 过 要 举 办 一 次 宴 会。 
 str_your_wedding_day_approaches_my_lady|你 的 婚 期 已 近， 尊 敬 的 女 士。 
@@ -3256,8 +3256,8 @@ str_tutorial_training_ground_intro_message|在 训 练 场 上 四 处 走 走�
 str_map_basic|地 图 
 str_game_type_basic|游 戏 类 型 
 str_battle|战 场 模 式 
-str_siege_offense|围 城 ( 进 攻 ) 
-str_siege_defense|围 城 ( 防 御 ) 
+str_siege_offense|围 城（进 攻） 
+str_siege_defense|围 城（防 守）
 str_character|角 色 
 str_biography|背 景 
 str_player|玩 家 
@@ -3332,13 +3332,13 @@ str_tutorial_training_ground_parry_training|成 功 躲 避 次 数 ： {reg0}/5
 str_tutorial_training_ground_chamber_training|成 功 格 挡 次 数 ： {reg0}/5 
 str_tutorial_training_ground_archer_training|准 确 射 击 次 数 ： {reg0}/3^{s0}
 str_tutorial_training_ground_ammo_refill|你 的 远 程 弹 药 在 教 程 中 重 新 装 满。 
-str_tutorial_training_ground_archer_text_1|靠 近 {s0}然 后 按 下 F 键 捡 起 它。 
+str_tutorial_training_ground_archer_text_1|靠 近 {s0}然 后 按 下 F键 捡 起 它。 
 str_tutorial_training_ground_archer_text_2|现 在 射 击 目 标。 
 str_tutorial_training_ground_archer_text_3|准 心 的 大 小 代 表 了 你 的 射 击 精 度。 按 下 鼠 标 左 键 不 放 直 到 准 心 聚 拢 到 最 小。 当 准 心 到 达 最 小 时 释 放 鼠 标 左 键。 如 果 你 瞄 准 的 时 间 过 长 准 心 会 再 次 放 大。 
-str_tutorial_training_ground_archer_text_4|按 下 R 键 切 换 到 第 一 人 称 视 角。 第 一 人 称 视 角 更 易 于 远 程 武 器 的 瞄 准。 
+str_tutorial_training_ground_archer_text_4|按 下 R键 切 换 到 第 一 人 称 视 角。 第 一 人 称 视 角 更 易 于 远 程 武 器 的 瞄 准。 
 str_tutorial_training_ground_archer_text_5|你 已 击 中 了 所 有 目 标。 现 在 再 去 和 教 练 交 谈。 
-str_tutorial_training_ground_horseman_text_1|走 近 {s0}然 后 按 下 F 键 捡 起 它。 
-str_tutorial_training_ground_horseman_text_2|靠 近 马 匹 然 后 按 F 键 骑 马。 
+str_tutorial_training_ground_horseman_text_1|走 近 {s0}然 后 按 下 F键 捡 起 它。 
+str_tutorial_training_ground_horseman_text_2|靠 近 马 匹 然 后 按 F键 骑 马。 
 str_tutorial_training_ground_horseman_text_3|骑 向 下 一 个 中 点。 
 str_tutorial_training_ground_horseman_text_4|击 打 下 一 个 上 面 有 箭 头 的 假 人！ 
 str_tutorial_training_ground_horseman_text_5|射 击 上 面 有 箭 头 的 箭 靶！ 
@@ -3352,7 +3352,7 @@ str_i_realize_that_you_are_on_good_terms_with_s4_but_the_blow_will_hurt_him_more
 str_killed_bandit_at_alley_fight|这 个 商 人 带 你 进 入 了 他 的 房 子。 刚 一 进 去， 他 就 倚 在 门 边， 朝 着 街 道 望 了 一 阵 子。 在 确 认 没 有 被 人 跟 踪 之 后， 他 走 近 你， 说 道… … 
 str_wounded_by_bandit_at_alley_fight|你 被 击 倒 了。 可 是， 在 你 失 去 知 觉 之 前， 你 听 到 喊 叫 声 和 奔 跑 的 脚 步 声… … 你 醒 过 来 发 现 自 己 在 室 内， 虚 弱 但 还 活 着。 
 str_cannot_leave_now|现 在 不 能 离 开。 
-str_press_tab_to_exit_from_town|按 下 Tab 键 马 上 离 开。 游 戏 中 你 可 以 通 过 按 Tab 键， 快 速 离 开 任 何 地 方。 
+str_press_tab_to_exit_from_town|按 下 Tab键 马 上 离 开。 游 戏 中 你 可 以 通 过 按 Tab键， 快 速 离 开 任 何 地 方。 
 str_find_the_lair_near_s9_and_free_the_brother_of_the_prominent_s10_merchant|找 到 {s9}附 近 的 匪 巢， 解 救 {s10}的 商 人 的 兄 弟。 
 str_please_sir_my_lady_go_find_some_volunteers_i_do_not_know_how_much_time_we_have|{先 生/尊 敬 的 女 士}， 如 果 你 想 对 得 起 我 给 予 你 的 信 任， 那 么 请 快 一 点 行 动。 赶 紧 去 找 些 帮 手 吧， 我 真 不 知 道 我 们 还 有 多 少 时 间 了。 
 str_you_need_more_men_sir_my_lady|看 吧， 你 需 要 更 多 的 人 手。 目 前 你 的 队 伍 人 数 只 有 {reg0}。 如 果 你 带 领 太 少 的 人 去 进 攻 他 们， 也 许 会 被 困 在 他 们 的 老 巢， 这 不 在 我 们 的 计 划 之 中， 别 冒 险。 去 那 些 村 庄 招 募 更 多 的 人， 然 后 以 其 人 之 道 还 治 其 人 之 身。 
@@ -3361,7 +3361,7 @@ str_do_not_waste_time_go_and_learn_where_my_brother_is|你看， {先 生/尊 �
 str_start_up_quest_message_1|{s9}希 望 你 在 周 边 的 村 庄 至 少 招 募 到 5 个 人， 完 成 之 后， 再 去 找 他 谈 谈。 他 在 {s1}的 酒 馆。 
 str_start_up_quest_message_2|找 到 并 打 败 一 队 出 没 于 {s9}附 近 的 强 盗， 弄 清 楚 你 雇 主 的 兄 弟 被 关 在 哪 里。 
 str_start_up_quest_message_3|从 {s9}附 近 的 匪 巢 救 出 商 人 的 兄 弟。 
-str_start_up_first_quest|你 接 到 了 你 的 第 一 个 任 务。 游 戏 中， 你 可 以 按 Q 键 随 时 查 看 任 务 日 志。 
+str_start_up_first_quest|你 接 到 了 你 的 第 一 个 任 务。 游 戏 中， 你 可 以 按 Q键 随 时 查 看 任 务 日 志。 
 str_reason_1|我 们 现 在 的 目 标 拥 有 巨 大 的 价 值。 
 str_reason_2|对 {s8}的 攻 击 给 我 们 国 家 造 成 了 极 大 的 危 险。 
 str_reason_3|我 们 认 为 {s8}受 到 了 更 严 重 的 威 胁 
