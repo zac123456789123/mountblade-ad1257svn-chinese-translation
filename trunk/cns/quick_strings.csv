@@ -286,16 +286,22 @@ qstr_knights:{reg32}|强 盗 骑 士： {reg32}
 qstr_taiga:{reg33}|雪 原 强 盗： {reg33}
 qstr_Manor|庄 园 
 qstr_A_manor_lets_you_res|有 了 一 个 庄 园， 你 就 可 以 在 村 子 中 休 息， 而 且 在 此 期 间 你 只 用 付 相 当 于 平 时 一 半 的 工 资 给 你 的 部 队。 
+qstr_Fortified_manor_hous|加 盖 防 御 工 事 的 庄 园 
+qstr_A_fortified_manor_ho|加 盖 了 防 御 工 事 的 庄 园 能 提 供 基 本 的 堡 垒 职 能。 
 qstr_Mill|磨 坊 
-qstr_A_mill_increases_vil|有 了 一 个 磨 坊， 就 可 以 使 村 子 的 繁 荣 度 提 升 5%。 
+qstr_A_mill_increases_vil|有 了 一 座 磨 坊， 就 可 以 使 村 子 的 繁 荣 度 提 升 5%。 
 qstr_Watch_Tower|了 望 塔 
 qstr_A_watch_tower_lets_t|有 了 一 个 了 望 塔， 就 可 以 使 村 民 更 早 的 发 出 警 报， 并 延 长 敌 人 掠 夺 这 村 子 的 时 间 50%。 
 qstr_School|学 校 
-qstr_A_shool_increases_th|有 了 一 个 学 校， 就 可 以 使 村 民 对 你 的 忠 诚 度 每 月 提 升 1 点。 
+qstr_A_shool_increases_th|有 了 一 所 学 校， 就 可 以 使 村 民 对 你 的 忠 诚 度 每 月 提 升 1 点。 
 qstr_Messenger_Post|驿 站 
 qstr_A_messenger_post_let|有 了 一 个 驿 站， 就 可 以 使 村 民 在 村 子 旁 发 现 敌 军 时 向 你 汇 报， 不 论 你 离 村 子 有 多 远。 
-qstr_Prison_Tower|监 狱 
-qstr_A_prison_tower_reduc|有 了 一 个 监 狱， 就 可 以 使 被 俘 获 的 领 主 成 功 逃 跑 的 几 率 降 低。 
+qstr_Prison_Tower|囚 犯 塔 
+qstr_A_prison_tower_reduc|有 了 一 座 囚 犯 塔， 就 可 以 使 被 俘 获 的 领 主 成 功 逃 跑 的 几 率 降 低。 
+qstr_Improved_fortificati|初 步 加 固 堡 垒 
+qstr_Surrounds_your_castl|初 步 加 固 堡 垒 能 为 你 的 城 堡 提 供 一 座 外 墙 
+qstr_Improved_fortificatio|再 次 加 固 堡 垒 
+qstr_Surrounds_your_castle|再 次 加 固 堡 垒 能 为 你 的 城 堡 再 提 供 一 座 内 墙 
 qstr_Prosperity_of_{s2}_h|{s2}的 繁 荣 度 从 {s3}变 到 {s4}。 
 qstr_{s10}___home_{s14}_c|{s10} - home {s14} contacts {s15} faction {s16}{***}
 qstr_clash_with:_{s11}_an|clash with: {s11} and {s12} kingdom opponent: {s13}{***}
@@ -495,7 +501,8 @@ qstr_village|村 子
 qstr_town|城 镇 
 qstr_castle|城 堡 
 qstr_The_{s17}_has_no_imp|{s17}没 有 升 级 的 设 施。 
-qstr_The_{s17}_has_the_fo|{s17}有 如 下 升 级 的 设 施 ： {s18}。 
+qstr_The_{s17}_has_the_fo|{s17}有 如 下 升 级 的 设 施： {s18}。 
+qstr_fort_castle_player|fort castle player{***}
 qstr_The_assasins_beat_yo|刺 客 把 你 放 倒， 然 后 让 你 躺 在 地 上 等 死… … 
 qstr_You_have_fallen._The|你 倒 下 了。 强 盗 们 迅 速 从 你 的 身 上 搜 刮 钱 财， 然 后 消 失 在 夜 幕 中。 他 们 仅 仅 是 没 有 杀 了 你。 
 qstr_Luckily_some_of_your|很 幸 运 的 是， 你 的 一 些 同 伴 发 现 你 没 有 回 来 就 出 来 寻 找 你， 并 且 发 现 你 躺 在 路 边。 他 们 急 忙 把 你 抬 带 安 全 的 地 方 并 为 你 包 扎 伤 口。 
@@ -549,6 +556,8 @@ qstr_Party_has_nothing_to|部 队 没 有 东 西 吃 了！
 qstr_{reg1}_{s1}_{reg2?ha|{reg1}个 {s1}{reg2?已 :已 }趁 着 夜 色 逃 离 了 你 的 队 伍。 
 qstr_{s1}_of_{s3}_has_bee|{s3}的 {s1}已 经 从 监 狱 里 释 放 出 来 了。 
 qstr_Building_of_{s0}_in_|{s4}的 建 筑 物 {s0}已 经 完 工 了。 
+qstr_{s10}_Village|{s10}村 
+qstr_{s10}_Castle|{s10}堡 垒 
 qstr_{s1}_has_won_the_tou|{s1}赢 得 了 在 {s2}的 比 赛。 
 qstr_{s1}_is_no_longer_in|{s1}不 再 受 到 夜 间 的 强 盗 侵 扰。 
 qstr_You_pay_for_accommod|你 支 付 了 宿 金。 

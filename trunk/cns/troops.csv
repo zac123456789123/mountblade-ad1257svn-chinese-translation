@@ -534,22 +534,28 @@ trp_mamluke_commoner|马 木 鲁 克 民 兵
 trp_mamluke_commoner_pl|马 木 鲁 克 民 兵 
 trp_mamluke_infantry_1|马 木 鲁 克 轻 步 兵 
 trp_mamluke_infantry_1_pl|马 木 鲁 克 轻 步 兵 
-trp_mamluke_spearman|马 木 鲁 克 精 锐 矛 兵 
-trp_mamluke_spearman_pl|马 木 鲁 克 精 锐 矛 兵 
 trp_mamluke_infantry_2|马 木 鲁 克 苏 丹 卫 队 
 trp_mamluke_infantry_2_pl|马 木 鲁 克 苏 丹 卫 队 
-trp_mamluke_light_lancer|马 木 鲁 克 轻 装 枪 骑 兵 
-trp_mamluke_light_lancer_pl|马 木 鲁 克 轻 装 枪 骑 兵 
-trp_mamluke_medium_horseman|马 木 鲁 克 精 锐 枪 骑 兵 
-trp_mamluke_medium_horseman_pl|马 木 鲁 克 精 锐 枪 骑 兵 
-trp_mamluke_levy_archer|马 木 鲁 克 弓 箭 手 
-trp_mamluke_levy_archer_pl|马 木 鲁 克 弓 箭 手 
-trp_mamluke_archer|马 木 鲁 克 沙 漠 弓 箭 手 
-trp_mamluke_archer_pl|马 木 鲁 克 沙 漠 弓 箭 手 
-trp_mamluke_skirmisher|马 木 鲁 克 标 枪 兵 
-trp_mamluke_skirmisher_pl|马 木 鲁 克 标 枪 兵 
-trp_mamluke_turkoman|马 木 鲁 克 土 库 曼 骑 射 兵 
-trp_mamluke_turkoman_pl|马 木 鲁 克 土 库 曼 骑 射 兵 
+trp_mamluke_infantry_3|马 木 鲁 克 卫 道 者 
+trp_mamluke_infantry_3_pl|马 木 鲁 克 卫 道 者 
+trp_mamluke_spearman_1|马 木 鲁 克 长 矛 手 
+trp_mamluke_spearman_1_pl|马 木 鲁 克 长 矛 手 
+trp_mamluke_spearman_2|马 木 鲁 克 精 锐 长 矛 手 
+trp_mamluke_spearman_2_pl|马 木 鲁 克 精 锐 长 矛 手 
+trp_mamluke_spearman_3|马 木 鲁 克 真 主 勇 士 
+trp_mamluke_spearman_3_pl|马 木 鲁 克 真 主 勇 士 
+trp_mamluke_cav_1|马 木 鲁 克 轻 装 枪 骑 兵 
+trp_mamluke_cav_1_pl|马 木 鲁 克 轻 装 枪 骑 兵 
+trp_mamluke_cav_2|马 木 鲁 克 精 锐 枪 骑 兵 
+trp_mamluke_cav_2_pl|马 木 鲁 克 精 锐 枪 骑 兵 
+trp_mamluke_archer_1|马 木 鲁 克 弓 箭 手 
+trp_mamluke_archer_1_pl|马 木 鲁 克 弓 箭 手 
+trp_mamluke_archer_2|马 木 鲁 克 沙 漠 弓 箭 手 
+trp_mamluke_archer_2_pl|马 木 鲁 克 沙 漠 弓 箭 手 
+trp_mamluke_archer_3|马 木 鲁 克 资 深 沙 漠 弓 箭 手 
+trp_mamluke_archer_3_pl|马 木 鲁 克 资 深 沙 漠 弓 箭 手 
+trp_mamluke_turkoman|马 木 鲁 克 土 库 曼 骑 射 手 
+trp_mamluke_turkoman_pl|马 木 鲁 克 土 库 曼 骑 射 手 
 trp_mamluke_light_horse_archer|马 木 鲁 克 轻 装 骑 射 手 
 trp_mamluke_light_horse_archer_pl|马 木 鲁 克 轻 装 骑 射 手 
 trp_mamluke_medium_horse_archer|马 木 鲁 克 弓 骑 兵 
@@ -742,34 +748,48 @@ trp_gaelic_squire|盖 尔 骑 士 侍 从
 trp_gaelic_squire_pl|盖 尔 骑 士 侍 从 
 trp_gaelic_knight|盖 尔 贵 族 骑 士 
 trp_gaelic_knight_pl|盖 尔 贵 族 骑 士 
-trp_anatolian_recruit|安 纳 托 利 亚 民 兵 
-trp_anatolian_recruit_pl|安 纳 托 利 亚 民 兵 
-trp_anatolian_muslim_infantry_1|安 纳 托 利 亚 穆 斯 林 轻 步 兵 
-trp_anatolian_muslim_infantry_1_pl|安 纳 托 利 亚 穆 斯 林 轻 步 兵 
-trp_anatolian_muslim_infantry_2|安 纳 托 利 亚 穆 斯 林 步 兵 
-trp_anatolian_muslim_infantry_2_pl|安 纳 托 利 亚 穆 斯 林 步 兵 
-trp_anatolian_muslim_archer|安 纳 托 利 亚 穆 斯 林 弓 箭 兵 
-trp_anatolian_muslim_archer_pl|安 纳 托 利 亚 穆 斯 林 弓 箭 兵 
-trp_anatolian_muslim_crossbowman|安 纳 托 利 亚 穆 斯 林 弩 兵 
-trp_anatolian_muslim_crossbowman_pl|安 纳 托 利 亚 穆 斯 林 弩 兵 
+trp_anatolian_village_recruit|安 纳 托 利 亚 民 兵 
+trp_anatolian_village_recruit_pl|安 纳 托 利 亚 民 兵 
+trp_anatolian_town_recruit|安 纳 托 利 亚 城 镇 民 兵 
+trp_anatolian_town_recruit_pl|安 纳 托 利 亚 城 镇 民 兵 
 trp_anatolian_christian_spearman_1|安 纳 托 利 亚 基 督 枪 盾 兵 
 trp_anatolian_christian_spearman_1_pl|安 纳 托 利 亚 基 督 枪 盾 兵 
 trp_anatolian_christian_spearman_2|安 纳 托 利 亚 基 督 枪 盾 军 士 
 trp_anatolian_christian_spearman_2_pl|安 纳 托 利 亚 基 督 枪 盾 军 士 
-trp_anatolian_christian_archer_1|安 纳 托 利 亚 基 督 弓 兵 
-trp_anatolian_christian_archer_1_pl|安 纳 托 利 亚 基 督 弓 兵 
+trp_anatolian_christian_spearman_3|安 纳 托 利 亚 精 锐 基 督 枪 盾 军 士 
+trp_anatolian_christian_spearman_3_pl|安 纳 托 利 亚 精 锐 基 督 枪 盾 军 士 
+trp_anatolian_christian_archer_1|安 纳 托 利 亚 基 督 步 弓 手 
+trp_anatolian_christian_archer_1_pl|安 纳 托 利 亚 基 督 步 弓 手 
 trp_anatolian_christian_archer_2|安 纳 托 利 亚 基 督 弓 箭 兵 
 trp_anatolian_christian_archer_2_pl|安 纳 托 利 亚 基 督 弓 箭 兵 
-trp_anatolian_castle_recruit|安 纳 托 利 亚 新 兵 
-trp_anatolian_castle_recruit_pl|安 纳 托 利 亚 新 兵 
+trp_anatolian_christian_archer_3|安 纳 托 利 亚 精 锐 基 督 弓 箭 兵 
+trp_anatolian_christian_archer_3_pl|安 纳 托 利 亚 精 锐 基 督 弓 箭 兵 
+trp_anatolian_muslim_infantry_1|安 纳 托 利 亚 穆 斯 林 轻 步 兵 
+trp_anatolian_muslim_infantry_1_pl|安 纳 托 利 亚 穆 斯 林 轻 步 兵 
+trp_anatolian_muslim_infantry_2|安 纳 托 利 亚 穆 斯 林 步 兵 
+trp_anatolian_muslim_infantry_2_pl|安 纳 托 利 亚 穆 斯 林 步 兵 
+trp_anatolian_muslim_infantry_3|安 纳 托 利 亚 穆 斯 林 真 主 勇 士 
+trp_anatolian_muslim_infantry_3_pl|安 纳 托 利 亚 穆 斯 林 真 主 勇 士 
+trp_anatolian_muslim_javelineer|安 纳 托 利 亚 穆 斯 林 掠 夺 者 
+trp_anatolian_muslim_javelineer_pl|安 纳 托 利 亚 穆 斯 林 掠 夺 者 
+trp_anatolian_muslim_archer|安 纳 托 利 亚 穆 斯 林 弓 箭 兵 
+trp_anatolian_muslim_archer_pl|安 纳 托 利 亚 穆 斯 林 弓 箭 兵 
+trp_anatolian_muslim_crossbowman|安 纳 托 利 亚 穆 斯 林 弩 兵 
+trp_anatolian_muslim_crossbowman_pl|安 纳 托 利 亚 穆 斯 林 弩 兵 
+trp_anatolian_castle_recruit|安 纳 托 利 亚 见 习 骑 手 
+trp_anatolian_castle_recruit_pl|安 纳 托 利 亚 见 习 骑 手 
 trp_anatolian_turkoman_1|安 纳 托 利 亚 土 库 曼 骑 手 
 trp_anatolian_turkoman_1_pl|安 纳 托 利 亚 土 库 曼 骑 手 
 trp_anatolian_turkoman_2|安 纳 托 利 亚 土 库 曼 骑 兵 
 trp_anatolian_turkoman_2_pl|安 纳 托 利 亚 土 库 曼 骑 兵 
-trp_anatolian_light_cavalry|安 纳 托 利 亚 骑 手 
-trp_anatolian_light_cavalry_pl|安 纳 托 利 亚 骑 手 
-trp_anatolian_medium_cavalry|安 纳 托 利 亚 骑 兵 
-trp_anatolian_medium_cavalry_pl|安 纳 托 利 亚 骑 兵 
+trp_anatolian_turkoman_3|安 纳 托 利 亚 精 锐 土 库 曼 骑 兵 
+trp_anatolian_turkoman_3_pl|安 纳 托 利 亚 精 锐 土 库 曼 骑 兵 
+trp_anatolian_light_cavalry|安 纳 托 利 亚 基 督 轻 骑 兵 
+trp_anatolian_light_cavalry_pl|安 纳 托 利 亚 基 督 轻 骑 兵 
+trp_anatolian_medium_cavalry|安 纳 托 利 亚 基 督 骑 兵 
+trp_anatolian_medium_cavalry_pl|安 纳 托 利 亚 基 督 骑 兵 
+trp_anatolian_heavy_cavalry|安 纳 托 利 亚 基 督 重 骑 兵 
+trp_anatolian_heavy_cavalry_pl|安 纳 托 利 亚 基 督 重 骑 兵 
 trp_scottish_village_recruit|苏 格 兰 民 兵 
 trp_scottish_village_recruit_pl|苏 格 兰 民 兵 
 trp_scottish_forinsec_archer|苏 格 兰 弓 箭 手 
@@ -4244,3 +4264,5 @@ trp_raf_messenger|信 使
 trp_raf_messenger_pl|信 使 
 trp_pope|教 宗 历 山 四 世 
 trp_pope_pl|历 山 四 世 
+trp_broken_items|损 坏 的 物 品 
+trp_broken_items_pl|损 坏 的 物 品 

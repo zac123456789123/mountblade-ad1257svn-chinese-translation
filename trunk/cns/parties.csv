@@ -268,6 +268,7 @@ p_castle_30_2|内 塞 伯 尔
 p_castle_30_3|维 丁 
 p_castle_31_1|丹 吉 尔 
 p_castle_31_2|阿 尔 及 尔 
+p_castle_player|玩 家 的 城 堡 
 p_village_1|维 伦 
 p_village_2|缅 济 热 奇 
 p_village_3|蒂 涅 茨 
@@ -500,7 +501,7 @@ p_village_16_4|萨 尔 堡
 p_village_16_5|贝 雅 
 p_village_16_6|波 塔 莱 格 雷 
 p_village_16_7|布 拉 加 
-p_village_16_8|波 尔 多 
+p_village_16_8|波 尔 图 
 p_village_17_1|塔 拉 戈 纳 
 p_village_17_2|赫 罗 纳 
 p_village_17_3|甘 迪 亚 
@@ -510,7 +511,7 @@ p_village_17_6|莱 里 达
 p_village_17_7|安 普 里 亚 斯 
 p_village_17_8|德 尼 亚 
 p_village_17_9|卡 斯 蒂 略 
-p_village_17_10|卢 娜 
+p_village_17_10|卢 纳 
 p_village_17_11|特 鲁 埃 尔 
 p_village_18_1|昆 卡 
 p_village_18_2|马 德 里 
@@ -633,6 +634,7 @@ p_village_31_5|萨 菲
 p_village_31_6|瓦 尔 扎 扎 特 
 p_village_31_7|得 土 安 
 p_village_31_8|科 索 
+p_village_player|玩 家 的 村 庄 
 p_salt_mine|盐 矿 
 p_four_ways_inn|四 方 客 栈 
 p_test_scene|测 试 场 景 

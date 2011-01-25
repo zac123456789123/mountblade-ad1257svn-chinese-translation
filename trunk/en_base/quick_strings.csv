@@ -286,6 +286,8 @@ qstr_knights:{reg32}|knights:{reg32}
 qstr_taiga:{reg33}|taiga:{reg33}
 qstr_Manor|Manor
 qstr_A_manor_lets_you_res|A manor lets you rest at the village and pay your troops half wages while you rest.
+qstr_Fortified_manor_hous|Fortified manor house
+qstr_A_fortified_manor_ho|A fortified manor house provides basic fortifications.
 qstr_Mill|Mill
 qstr_A_mill_increases_vil|A mill increases village prosperity by 5%.
 qstr_Watch_Tower|Watch Tower
@@ -296,6 +298,10 @@ qstr_Messenger_Post|Messenger Post
 qstr_A_messenger_post_let|A messenger post lets the inhabitants send you a message whenever enemies are nearby, even if you are far away from here.
 qstr_Prison_Tower|Prison Tower
 qstr_A_prison_tower_reduc|A prison tower reduces the chance of captives held here running away successfully.
+qstr_Improved_fortificati|Improved fortifications 1
+qstr_Surrounds_your_castl|Surrounds your castle with walls 1
+qstr_Improved_fortificatio|Improved fortifications 2
+qstr_Surrounds_your_castle|Surrounds your castle with walls 2
 qstr_Prosperity_of_{s2}_h|Prosperity of {s2} has changed from {s3} to {s4}.
 qstr_{s10}___home_{s14}_c|{s10} - home {s14} contacts {s15} faction {s16}
 qstr_clash_with:_{s11}_an|clash with: {s11} and {s12} kingdom opponent: {s13}
@@ -496,6 +502,7 @@ qstr_town|town
 qstr_castle|castle
 qstr_The_{s17}_has_no_imp|The {s17} has no improvements.
 qstr_The_{s17}_has_the_fo|The {s17} has the following improvements:{s18}.
+qstr_fort_castle_player|fort castle player
 qstr_The_assasins_beat_yo|The assasins beat you down and leave you for dead. .
 qstr_You_have_fallen._The|You have fallen. The bandits quickly search your body for every coin they can find, then vanish into the night. They have left you alive, if only barely.
 qstr_Luckily_some_of_your|Luckily some of your companions come to search for you when you do not return, and find you lying by the side of the road. They hurry you to safety and dress your wounds.
@@ -549,6 +556,8 @@ qstr_Party_has_nothing_to|Party has nothing to eat!
 qstr_{reg1}_{s1}_{reg2?ha|{reg1} {s1} {reg2?have:has} escaped from your party during the night.
 qstr_{s1}_of_{s3}_has_bee|{s1} of {s3} has been released from captivity.
 qstr_Building_of_{s0}_in_|Building of {s0} in {s4} has been completed.
+qstr_{s10}_Village|{s10} Village
+qstr_{s10}_Castle|{s10} Castle
 qstr_{s1}_has_won_the_tou|{s1} has won the tournament at {s2}.
 qstr_{s1}_is_no_longer_in|{s1} is no longer infested by bandits (at night).
 qstr_You_pay_for_accommod|You pay for accommodation.

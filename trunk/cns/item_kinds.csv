@@ -636,8 +636,8 @@ itm_kau_sicily_b|西 西 里 链 甲
 itm_kau_sicily_b_pl|西 西 里 链 甲 
 itm_kau_antioch|安 条 克 链 甲 
 itm_kau_antioch_pl|安 条 克 链 甲 
-itm_kau_cyprus|塞 普 路 斯 链 甲 
-itm_kau_cyprus_pl|塞 普 路 斯 链 甲 
+itm_kau_cyprus|塞 浦 路 斯 链 甲 
+itm_kau_cyprus_pl|塞 浦 路 斯 链 甲 
 itm_kau_antioch|安 条 克 链 甲 
 itm_kau_antioch_pl|安 条 克 链 甲 
 itm_kau_jerusalem|耶 路 撒 冷 链 甲 
@@ -2320,5 +2320,15 @@ itm_moors_quilted_kaftan_brown|摩 尔 加 衬 长 衫
 itm_moors_quilted_kaftan_brown_pl|摩 尔 加 衬 长 衫 
 itm_czekan|冰 镐 
 itm_czekan_pl|冰 镐 
+itm_ilkhanate_kaftan|蒙 古 长 衫 
+itm_ilkhanate_kaftan_pl|蒙 古 长 衫 
+itm_turk_kaftan_beige|土 耳 其 长 衫 
+itm_turk_kaftan_beige_pl|土 耳 其 长 衫 
+itm_turk_kaftan_furtrim|土 耳 其 长 衫 
+itm_turk_kaftan_furtrim_pl|土 耳 其 长 衫 
+itm_turk_kaftan_green|土 耳 其 长 衫 
+itm_turk_kaftan_green_pl|土 耳 其 长 衫 
+itm_saracen_mail|萨 拉 逊 链 甲 
+itm_saracen_mail_pl|萨 拉 逊 链 甲 
 itm_items_end|Items End 
 itm_items_end_pl|Items End 
