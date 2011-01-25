@@ -530,34 +530,40 @@ trp_marinid_mounted_skirmisher_2|Murtaziqa Al-Makhzan Faris
 trp_marinid_mounted_skirmisher_2_pl|Murtaziqa Al-Makhzan Faris
 trp_marinid_mounted_skirmisher_3|Sharif Al-Makhzan Khayl
 trp_marinid_mounted_skirmisher_3_pl|Sharif Al-Makhzan Khayl
-trp_mamluke_commoner|Al-Awamm
-trp_mamluke_commoner_pl|Al-Awamm
-trp_mamluke_infantry_1|Harfush Infantry
-trp_mamluke_infantry_1_pl|Harfush Infantry
-trp_mamluke_spearman|Ajnad Al-Arabiyyun
-trp_mamluke_spearman_pl|Ajnad Al-Arabiyyun
-trp_mamluke_infantry_2|Qaba'il Muqatila Infantry
-trp_mamluke_infantry_2_pl|Qaba'il Muqatila Infantry
-trp_mamluke_light_lancer|Qaba'il Al-Arabiyyun Lancer
-trp_mamluke_light_lancer_pl|Qaba'il Al-Arabiyyun Lancers
-trp_mamluke_medium_horseman|Al-Haqla Faris
-trp_mamluke_medium_horseman_pl|Al-Haqla Faris
-trp_mamluke_levy_archer|Harfush Archer
-trp_mamluke_levy_archer_pl|Harfush Archers
-trp_mamluke_archer|Jabaliyun Archer
-trp_mamluke_archer_pl|Jabaliyun Archers
-trp_mamluke_skirmisher|Jabaliyun Skirmisher
-trp_mamluke_skirmisher_pl|Jabaliyun Skirmishers
+trp_mamluke_commoner|Awamm Al Mashriq
+trp_mamluke_commoner_pl|Awamm Al Mashriq
+trp_mamluke_infantry_1|Mutatawwi'a Infantry
+trp_mamluke_infantry_1_pl|Mutatawwi'a Infantry
+trp_mamluke_infantry_2|Fata Al-Futuwwa Infantry
+trp_mamluke_infantry_2_pl|Fityan Al-Futuwwa Infantry
+trp_mamluke_infantry_3|Jund Al-Amir Infantry
+trp_mamluke_infantry_3_pl|Ajnad Al-Umara Infantry
+trp_mamluke_spearman_1|Mutatawwi'a Spearman
+trp_mamluke_spearman_1_pl|Mutatawwi'a Spearmen
+trp_mamluke_spearman_2|Fata Al-Futuwwa Spearman
+trp_mamluke_spearman_2_pl|Fityan Al-Futuwwa Spearmen
+trp_mamluke_spearman_3|Jund Al-Amir Spearman
+trp_mamluke_spearman_3_pl|Ajnad Al-Umara Spearmen
+trp_mamluke_cav_1|Jund Al-Amir Faris
+trp_mamluke_cav_1_pl|Ajnad Al-Umara Fursan
+trp_mamluke_cav_2|Jund Al-Halqa Faris
+trp_mamluke_cav_2_pl|Ajnad Al-Halqa Fursan
+trp_mamluke_archer_1|Mutatawwi'a Archer
+trp_mamluke_archer_1_pl|Mutatawwi'a Archers
+trp_mamluke_archer_2|Fata Al-Futuwwa Archer
+trp_mamluke_archer_2_pl|Fityan Al-Futuwwa Archers
+trp_mamluke_archer_3|Jund Al-Amir Archer
+trp_mamluke_archer_3_pl|Jund Al-Amir Archers
 trp_mamluke_turkoman|Turkoman
 trp_mamluke_turkoman_pl|Turkomans
-trp_mamluke_light_horse_archer|Mamluk Al-Umara
-trp_mamluke_light_horse_archer_pl|Mamluk Al-Umara
-trp_mamluke_medium_horse_archer|Mamluk Al-Mustakhdamun
-trp_mamluke_medium_horse_archer_pl|Mamluk Al-Mustakhdamun
-trp_mamluke_heavy_horse_archer|Mamluk Al-Mushtarawat
-trp_mamluke_heavy_horse_archer_pl|Mamluk Al-Mushtarawat
-trp_mamluke_elite_horse_archer|Mamluk Al-Khassakiyah
-trp_mamluke_elite_horse_archer_pl|Mamluk Al-Khassakiyah
+trp_mamluke_light_horse_archer|Mamluk Al-Sighar Al-Amir
+trp_mamluke_light_horse_archer_pl|Mamalik Al-Sighar Al-Umara
+trp_mamluke_medium_horse_archer|Mamluk Al-Kibar Al-Amir
+trp_mamluke_medium_horse_archer_pl|Mamalik Al-Kibar Al-Umara
+trp_mamluke_heavy_horse_archer|Mamluk Al-Sultaniya
+trp_mamluke_heavy_horse_archer_pl|Mamalik Al-Sultaniya
+trp_mamluke_elite_horse_archer|Mamluk Al-Bahariyya
+trp_mamluke_elite_horse_archer_pl|Mamalik Al-Bahariyya
 trp_sarranid_messenger|Saracen Messenger
 trp_sarranid_messenger_pl|Saracen Messengers
 trp_sarranid_deserter|Saracen Deserter
@@ -742,34 +748,48 @@ trp_gaelic_squire|Teaglach Ritire
 trp_gaelic_squire_pl|Teaglach Ritire
 trp_gaelic_knight|Lucht Tighe Ritire
 trp_gaelic_knight_pl|Lucht Tighe Ritire
-trp_anatolian_recruit|Paroikos Anatolikon
-trp_anatolian_recruit_pl|Paroikoi Anatolikon
-trp_anatolian_muslim_infantry_1|Ayyar Rajjala
-trp_anatolian_muslim_infantry_1_pl|Ayyarun Rajjala
-trp_anatolian_muslim_infantry_2|Fata Rajjala
-trp_anatolian_muslim_infantry_2_pl|Fityan Rajjala
-trp_anatolian_muslim_archer|Ayyar Rumat
-trp_anatolian_muslim_archer_pl|Ayyarun Rumat
-trp_anatolian_muslim_crossbowman|Fata Qaws
-trp_anatolian_muslim_crossbowman_pl|Fityan Qaws
+trp_anatolian_village_recruit|Paroikos Anatolikon
+trp_anatolian_village_recruit_pl|Paroikoi Anatolikon
+trp_anatolian_town_recruit|Polites Anatolikon
+trp_anatolian_town_recruit_pl|Politi Anatolikon
 trp_anatolian_christian_spearman_1|Hai Ramik Nizagamartik †
 trp_anatolian_christian_spearman_1_pl|Hayasdan Ramik Nizagamartik
-trp_anatolian_christian_spearman_2|Hai Azat Nizagamartik †
-trp_anatolian_christian_spearman_2_pl|Hayasdan Azat Nizagamartik
+trp_anatolian_christian_spearman_2|Hai Vahani-Bernakir Nizagamartik †
+trp_anatolian_christian_spearman_2_pl|Hayasdan Vahani-Bernakir Nizagamartik
+trp_anatolian_christian_spearman_3|Hai Krtser-Azat Nizagamartik †
+trp_anatolian_christian_spearman_3_pl|Hayasdan Krtser-Azat Nizagamartik
 trp_anatolian_christian_archer_1|Hai Ramik Netadzik †
 trp_anatolian_christian_archer_1_pl|Hayasdan Ramik Netadzik
-trp_anatolian_christian_archer_2|Hai Ramik Azat Netadzik †
-trp_anatolian_christian_archer_2_pl|Hayasdan Ramik Azat Netadzik
-trp_anatolian_castle_recruit|Mourtatoi Anatolikon
-trp_anatolian_castle_recruit_pl|Mourtatos Anatolikon
-trp_anatolian_turkoman_1|Turkoman Al-Asaghir Faris
-trp_anatolian_turkoman_1_pl|Turkoman Al-Asaghir Faris
-trp_anatolian_turkoman_2|Turkoman Al-Asaghir Faris
-trp_anatolian_turkoman_2_pl|Turkoman Al-Asaghir Faris
-trp_anatolian_light_cavalry|Hai Ramikspas †
-trp_anatolian_light_cavalry_pl|Hayasdan Ramikspas
+trp_anatolian_christian_archer_2|Hai Vahani-Bernakir Netadzik †
+trp_anatolian_christian_archer_2_pl|Hayasdan Vahani-Bernakir Netadzik
+trp_anatolian_christian_archer_3|Hai Krtser-Azat Netadzik †
+trp_anatolian_christian_archer_3_pl|Hayasdan Krtser-Azat Netadzik
+trp_anatolian_muslim_infantry_1|Fata Infantry
+trp_anatolian_muslim_infantry_1_pl|Fityan Infantry
+trp_anatolian_muslim_infantry_2|Igdish Infantry
+trp_anatolian_muslim_infantry_2_pl|Igdish Infantry
+trp_anatolian_muslim_infantry_3|Jira Khvar Infantry
+trp_anatolian_muslim_infantry_3_pl|Jira Khvar Infantry
+trp_anatolian_muslim_javelineer|Ghazi Infantry
+trp_anatolian_muslim_javelineer_pl|Ghuzat Infantry
+trp_anatolian_muslim_archer|Jabaliyyun Archer
+trp_anatolian_muslim_archer_pl|Jabaliyyun Archers
+trp_anatolian_muslim_crossbowman|Jira Khvar Crossbowman
+trp_anatolian_muslim_crossbowman_pl|Jira Khvar Crossbowmen
+trp_anatolian_castle_recruit|Mourtatoi Anatolikon Cavallarii
+trp_anatolian_castle_recruit_pl|Mourtatos Anatolikon Cavallarii
+trp_anatolian_turkoman_1|Jira Khvar Faris
+trp_anatolian_turkoman_1_pl|Jira Khvar Faris
+trp_anatolian_turkoman_2|Havashi Khayl
+trp_anatolian_turkoman_2_pl|Havashi Khayl
+trp_anatolian_turkoman_3|Ghulam Al-Jandar
+trp_anatolian_turkoman_3_pl|Ghulam Al-Jandar
+trp_anatolian_light_cavalry|Hai Ramikspas Ayrudzi †
+trp_anatolian_light_cavalry_pl|Hayasdan Ramikspas Ayrudzi
 trp_anatolian_medium_cavalry|Hai Azatugund Ayrudzi †
 trp_anatolian_medium_cavalry_pl|Hayasdan Azatugund Ayrudzi
+trp_anatolian_heavy_cavalry|Hai Aspet †
+trp_anatolian_heavy_cavalry_pl|Hayasdan Aspet
 trp_scottish_village_recruit|Nativi Pedes
 trp_scottish_village_recruit_pl|Nativi Pedes
 trp_scottish_forinsec_archer|Servitium Forensicum Sagittarius
@@ -1879,8 +1899,8 @@ trp_knight_23_6|Anno von Sangerhausen, Grandmaster of the Teutonic Order
 trp_knight_23_6_pl|Anno von Sangerhausen
 trp_knight_23_7|Baldwin of Ibelin, Seneschal of Cyprus
 trp_knight_23_7_pl|Baldwin of Ibelin
-trp_knight_23_8|Geoffrey de Sargines, Marechal de Jerusalem
-trp_knight_23_8_pl|Geoffrey de Sargines
+trp_knight_23_8|Geoffroy de Sergines, Maréchal de Jerusalem
+trp_knight_23_8_pl|Geoffroy de Sergines
 trp_knight_23_9|Leon II of Cilicia
 trp_knight_23_9_pl|Leon II of Cilicia
 trp_knight_23_10|Thoros of Cilicia
@@ -4244,3 +4264,5 @@ trp_raf_messenger|Messenger
 trp_raf_messenger_pl|Messengers
 trp_pope|Pope Alexander IV
 trp_pope_pl|Alexander IV
+trp_broken_items|Broken Items
+trp_broken_items_pl|Broken Items

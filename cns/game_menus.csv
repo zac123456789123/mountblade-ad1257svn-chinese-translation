@@ -341,14 +341,17 @@ mno_village_bandits_defeated_accept|我 接 受 你 们 的 赠 品。
 mno_village_bandits_defeated_cont|你 们 比 我 更 需 要 这 些 东 西。 你 们 的 感 谢 已 经 足 够 了。 
 menu_center_manage|{s19}^{reg6?^^ 你 现 在 正 在 建 造 {s7}。 这 个 建 筑 将 于 {reg8}{reg9? 日 : 日}后 完 成。 :}
 mno_center_build_manor|建 造 一 个 庄 园。 
-mno_center_build_fish_pond|建 造 一 个 磨 坊。 
+mno_center_build_castle_1|为 庄 园 加 盖 防 御 工 事。 
+mno_center_build_fish_pond|建 造 一 座 磨 坊。 
 mno_center_build_watch_tower|建 造 一 个 了 望 塔。 
-mno_center_build_school|建 造 一 个 学 校。 
+mno_center_build_school|建 造 一 所 学 校。 
 mno_center_build_messenger_post|建 造 一 个 驿 站。 
-mno_center_build_prisoner_tower|建 造 一 个 监 狱。 
+mno_center_build_prisoner_tower|建 造 一 座 囚 犯 塔。 
+mno_center_build_fortifications_1|初 步 加 固 堡 垒 的 防 御 工 事。 
+mno_center_build_fortifications_2|再 次 加 固 堡 垒 的 防 御 工 事。 
 mno_go_back_dot|后 退。 
 menu_center_improve|{s19}队 员 中 最 高 工 程 技 能 为 {reg2}级， 由 此 {reg3? 你 预 期 :{s3}预 期}建 造 {s4}要 花 费 {reg5}第 纳 尔， 升 级 需 要 {reg6}日。 
-mno_dplmc_improve_cont|继 续。（从金库支取） 
+mno_dplmc_improve_cont|继 续。（从 金 库 支 取） 
 mno_improve_cont|继 续。 
 mno_forget_it|算 了。 
 mno_improve_not_enough_gold|没 钱。 
@@ -361,13 +364,13 @@ mno_village_steal_cattle_confirm|继 续。
 mno_forget_it|算 了。 
 menu_village_steal_cattle|{s1}
 mno_continue|继 续 
-menu_village_take_food_confirm|强 迫 农 民 们 准 备 好 补 给 品 需 要 花 费 至 少 一 个 小 时。 
-mno_village_take_food_confirm|可 以。 
+menu_village_take_food_confirm|你 发 现 很 难 强 迫 农 民 们 交 出 他 们 珍 贵 的 补 给 物 资。 这 至 少 需 要 花 费 一 个 小 时。 
+mno_village_take_food_confirm|继 续 吧。 
 mno_forget_it|算 了。 
 menu_village_take_food|村 民 们 勉 强 交 出 了 一 些 给 养。 
 mno_take_supplies|带 走。 
 mno_let_them_keep_it|算 了。 
-menu_village_start_attack|一 些 村 民 拿 起 农 具 准 备 抵 抗 你 的 掠 夺。 
+menu_village_start_attack|一 些 愤 怒 的 村 民 拿 起 农 具 准 备 抵 抗 你 的 掠 夺。 
 mno_village_raid_attack|镇 压 他 们。 
 mno_village_raid_leave|离 开。 
 menu_village_loot_no_resist|村 民 们 在 你 的 军 队 前 望 风 而 逃， 村 庄 由 你 控 制 了。 
@@ -725,7 +728,7 @@ mno_enter|进 入
 mno_nurse|跟 随 侍 女 离 开 
 mno_nurse|在 泉 水 边 等 待 
 mno_leave|离 开 
-menu_kill_local_merchant_begin|你 探 明 你 的 猎 物 转 弯 走 进 了 一 条 背 街 的 巷 子。 这 将 是 你 袭 击 他 的 最 好 时 机。 
+menu_kill_local_merchant_begin|你 探 明 你 的 猎 物 转 弯 走 进 了 一 条 偏 僻 的 巷 子。 这 将 是 你 袭 击 他 的 最 好 时 机。 
 mno_continue|继 续 
 menu_debug_alert_from_s65|调 试 警 报： {s65}
 mno_continue|继 续 
@@ -845,19 +848,19 @@ mno_dplmc_continue|继 续
 menu_dplmc_notification_appoint_chamberlain|作 为 拥 有 封 地 的 领 主 你 现 在 可 以 以 每 周 15 第 纳 尔 的 薪 水 雇 佣 一 名 管 家 在 宫 廷 中 伴 随 你 左 右。 他 会 处 理 所 有 的 财 政 事 务， 例 如 收 取 税 金 和 决 定 税 率， 发 放 薪 水 和 管 理 你 的 资 产。 另 外 他 还 可 以 为 监 督 管 理 王 国 之 间 的 金 钱 转 账 以 提 供 给 你 更 多 的 外 交 选 择。 
 mno_dplmc_appoint_default|任 命 当 地 的 杰 出 人 才。 
 mno_dplmc_continue|继 续 
-menu_dplmc_chamberlain_confirm|你 的 管 家 能 在 你 的 宫 廷 中 被 找 到。 如 果 你 想 给 他 提 出 任 何 财 政 方 面 的 建 议 或 者 你 需 要 更 多 金 钱， 你 都 应 该 和 他 商 量。 确 保 你 的 金 库 中 有 充 足 的 钱 应 对 政 治 事 件。 
+menu_dplmc_chamberlain_confirm|你 的 管 家 会 在 你 的 宫 廷 中。 如 果 你 想 给 他 提 出 任 何 财 政 方 面 的 建 议 或 者 你 需 要 更 多 金 钱， 你 都 应 该 和 他 商 量。 确 保 你 的 金 库 中 有 充 足 的 钱 应 对 政 治 事 件。 
 mno_dplmc_continue|继 续 
 menu_dplmc_notification_appoint_constable|作 为 拥 有 封 地 的 领 主 你 现 在 可 以 以 每 周 15 第 纳 尔 的 薪 水 雇 佣 一 名 治 安 官 在 宫 廷 中 伴 随 你 左 右。 他 会 招 募 新 兵 并 提 供 你 的 军 队 的 情 况。 
 mno_dplmc_appoint_default|任 命 当 地 的 杰 出 人 才。 
 mno_dplmc_continue|继 续 
-menu_dplmc_constable_confirm|你 的 治 安 官 可 以 在 你 的 宫 廷 中 被 找 到。 如 果 你 想 招 募 新 兵 或 是 得 到 你 现 有 军 队 的 详 细 情 况， 你 都 应 该 找 他 商 量。 
+menu_dplmc_constable_confirm|你 的 治 安 官 会 在 你 的 宫 廷 中。 如 果 你 想 招 募 新 兵 或 是 得 到 你 现 有 军 队 的 详 细 情 况， 你 都 应 该 找 他 商 量。 
 mno_dplmc_continue|继 续 
 menu_dplmc_notification_appoint_chancellor|作 为 拥 有 封 地 的 领 主 你 现 在 可 以 以 每 周 20 第 纳 尔 的 薪 水 雇 佣 一 名 总 理 大 臣 在 宫 廷 中 伴 随 你 左 右。 他 会 持 有 你 的 印 鉴 并 管 理 你 和 重 要 人 物 之 间 的 书 信 往 来。 
 mno_dplmc_appoint_default|任 命 当 地 的 杰 出 人 才。 
 mno_dplmc_continue|继 续 
-menu_dplmc_chancellor_confirm|你 的 总 理 大 臣 可 以 在 你 的 宫 廷 中 被 找 到。 如 果 你 想 送 信 或 是 送 礼 物， 你 都 应 该 找 他 商 量。 
+menu_dplmc_chancellor_confirm|你 的 总 理 大 臣 会 在 你 的 宫 廷 中。 如 果 你 想 送 信 或 是 送 礼 物， 你 都 应 该 找 他 商 量。 
 mno_dplmc_continue|继 续 
-menu_dplmc_deserters|Some of your men don't believe that you will pay their wages and desert. Overall you lose: {s11} men.
+menu_dplmc_deserters|你 的 一 些 士 兵 认 为 你 不 太 可 能 继 续 支 付 他 们 的 工 资， 于 是 逃 跑 了。 你 一 共 损 失 了 {s11}名 士 兵。 
 mno_dplmc_continue|继 续 
 menu_dplmc_negotiate_besieger|你 打 着 白 旗 出 现 在 城 头。 过 了 一 会 儿 一 名 {s11}的 谈 判 者 接 近 你。 他 要 求 你 献 出 {s6}以 及 所 有 下 辖 村 庄 并 支 付 {reg0}第 纳 尔 作 为 求 和 的 表 现。 
 mno_dplmc_comply_treasury|接 受 条 件 并 让 管 家 从 金 库 中 支 付 这 笔 钱。 
@@ -878,372 +881,3 @@ mno_Yes|对， 就 这 样 做。
 menu_pagan_stronghold|你 进 入 密 林， 发 现 了 一 个 要 塞 据 点， 它 属 于 {s21}。 
 mno_pagan_stronghold_attack|攻 打 要 塞！ 
 mno_pagan_stronghold_leave|离 开。 
-menu_choose_scenes_0|选 择 一 个 场 景： (Page 1 of 22)
-mno_back|后 退 
-mno_next|下 一 页 
-mno_choose_scene_0|acre center: generate
-mno_choose_scene_1|acre walls: generate
-mno_choose_scene_2|camp scene: generate|auto entry points
-mno_choose_scene_3|camp scene horse track: generate|auto entry points
-mno_choose_scene_4|castle interior arab: indoors
-mno_choose_scene_5|castle interior eastern: indoors
-mno_choose_scene_6|castle interior euro: indoors
-mno_choose_scene_7|castle interior iberia: indoors
-mno_choose_scene_8|castle interior italy: indoors
-mno_choose_scene_9|castle interior mongol: indoors
-mno_choose_scene_10|castle interior nordic: indoors
-mno_choose_scene_11|castle prison arab: indoors
-mno_choose_scene_12|castle prison eastern: indoors
-menu_choose_scenes_13|选 择 一 个 场 景： (Page 2 of 22)
-mno_back|后 退 
-mno_next|下 一 页 
-mno_previous|上 一 页 
-mno_choose_scene_13|castle prison euro: indoors
-mno_choose_scene_14|castle prison iberia: indoors
-mno_choose_scene_15|castle prison italy: indoors
-mno_choose_scene_16|castle prison mongol: indoors
-mno_choose_scene_17|castle prison nordic: indoors
-mno_choose_scene_18|castle walls arab: generate
-mno_choose_scene_19|castle walls eastern: generate
-mno_choose_scene_20|castle walls euro: generate
-mno_choose_scene_21|castle walls iberia: generate
-mno_choose_scene_22|castle walls italy: generate
-mno_choose_scene_23|castle walls mongol: generate
-mno_choose_scene_24|castle walls nordic: generate
-mno_choose_scene_25|conversation scene: generate
-menu_choose_scenes_26|选 择 一 个 场 景： (Page 3 of 22)
-mno_back|后 退 
-mno_next|下 一 页 
-mno_previous|上 一 页 
-mno_choose_scene_26|den bosch: generate
-mno_choose_scene_27|dhorak keep: generate
-mno_choose_scene_28|enterprise brewery: indoors
-mno_choose_scene_29|enterprise dyeworks: indoors
-mno_choose_scene_30|enterprise linen weavery: indoors
-mno_choose_scene_31|enterprise mill: indoors
-mno_choose_scene_32|enterprise oil press: indoors
-mno_choose_scene_33|enterprise smithy: indoors
-mno_choose_scene_34|enterprise tannery: generate
-mno_choose_scene_35|enterprise winery: indoors
-mno_choose_scene_36|enterprise wool weavery: indoors
-mno_choose_scene_37|field 1: generate
-mno_choose_scene_38|field 2: generate
-menu_choose_scenes_39|选 择 一 个 场 景： (Page 4 of 22)
-mno_back|后 退 
-mno_next|下 一 页 
-mno_previous|上 一 页 
-mno_choose_scene_39|field 3: generate
-mno_choose_scene_40|field 4: generate
-mno_choose_scene_41|field 5: generate
-mno_choose_scene_42|four ways inn: generate
-mno_choose_scene_43|interior moscow: indoors
-mno_choose_scene_44|interior motte bailey 1: indoors
-mno_choose_scene_45|interior motte bailey 2: indoors
-mno_choose_scene_46|lair desert bandits: generate
-mno_choose_scene_47|lair forest bandits: generate
-mno_choose_scene_48|lair mountain bandits: generate
-mno_choose_scene_49|lair sea raiders: generate
-mno_choose_scene_50|lair steppe bandits: generate
-mno_choose_scene_51|lair taiga bandits: generate
-menu_choose_scenes_52|选 择 一 个 场 景： (Page 5 of 22)
-mno_back|后 退 
-mno_next|下 一 页 
-mno_previous|上 一 页 
-mno_choose_scene_52|meeting scene desert: generate
-mno_choose_scene_53|meeting scene desert forest: generate
-mno_choose_scene_54|meeting scene plain: generate
-mno_choose_scene_55|meeting scene plain forest: generate
-mno_choose_scene_56|meeting scene sea: generate
-mno_choose_scene_57|meeting scene snow: generate
-mno_choose_scene_58|meeting scene snow forest: generate
-mno_choose_scene_59|meeting scene steppe: generate
-mno_choose_scene_60|meeting scene steppe forest: generate
-mno_choose_scene_61|multi scene 1: generate
-mno_choose_scene_62|multi scene 10: generate
-mno_choose_scene_63|multi scene 11: generate
-mno_choose_scene_64|multi scene 12: generate
-menu_choose_scenes_65|选 择 一 个 场 景： (Page 6 of 22)
-mno_back|后 退 
-mno_next|下 一 页 
-mno_previous|上 一 页 
-mno_choose_scene_65|multi scene 13: generate
-mno_choose_scene_66|multi scene 14: generate
-mno_choose_scene_67|multi scene 15: generate
-mno_choose_scene_68|multi scene 16: generate
-mno_choose_scene_69|multi scene 17: generate
-mno_choose_scene_70|multi scene 18: generate|muddy water
-mno_choose_scene_71|multi scene 2: generate
-mno_choose_scene_72|multi scene 3: generate
-mno_choose_scene_73|multi scene 4: generate
-mno_choose_scene_74|multi scene 5: generate
-mno_choose_scene_75|multi scene 6: generate
-mno_choose_scene_76|multi scene 7: generate
-mno_choose_scene_77|multi scene 8: generate
-menu_choose_scenes_78|选 择 一 个 场 景： (Page 7 of 22)
-mno_back|后 退 
-mno_next|下 一 页 
-mno_previous|上 一 页 
-mno_choose_scene_78|multi scene 9: generate
-mno_choose_scene_79|multiplayer maps end: generate
-mno_choose_scene_80|novice ground: indoors
-mno_choose_scene_81|pagan stronghold 1: generate
-mno_choose_scene_82|prison motte bailey 1: indoors
-mno_choose_scene_83|prison motte bailey 2: indoors
-mno_choose_scene_84|quick battle 1: generate
-mno_choose_scene_85|quick battle 2: generate
-mno_choose_scene_86|quick battle 3: generate
-mno_choose_scene_87|quick battle 4: generate
-mno_choose_scene_88|quick battle 5: generate
-mno_choose_scene_89|quick battle 6: generate
-mno_choose_scene_90|quick battle 7: generate
-menu_choose_scenes_91|选 择 一 个 场 景： (Page 8 of 22)
-mno_back|后 退 
-mno_next|下 一 页 
-mno_previous|上 一 页 
-mno_choose_scene_91|quick battle maps end: generate
-mno_choose_scene_92|quick battle scene 1: generate
-mno_choose_scene_93|quick battle scene 2: generate
-mno_choose_scene_94|quick battle scene 3: generate
-mno_choose_scene_95|quick battle scene 4: generate
-mno_choose_scene_96|quick battle scene 5: generate
-mno_choose_scene_97|random multi plain large: generate|auto entry points|randomize
-mno_choose_scene_98|random multi plain medium: generate|auto entry points|randomize
-mno_choose_scene_99|random multi steppe large: generate|auto entry points|randomize
-mno_choose_scene_100|random multi steppe medium: generate|auto entry points|randomize
-mno_choose_scene_101|random scene: generate|auto entry points|randomize
-mno_choose_scene_102|random scene desert: generate|auto entry points|randomize
-mno_choose_scene_103|random scene desert forest: generate|auto entry points|randomize
-menu_choose_scenes_104|选 择 一 个 场 景： (Page 9 of 22)
-mno_back|后 退 
-mno_next|下 一 页 
-mno_previous|上 一 页 
-mno_choose_scene_104|random scene plain: generate|auto entry points|randomize
-mno_choose_scene_105|random scene plain forest: generate|auto entry points|randomize
-mno_choose_scene_106|random scene snow: generate|auto entry points|randomize
-mno_choose_scene_107|random scene snow forest: generate|auto entry points|randomize
-mno_choose_scene_108|random scene steppe: generate|auto entry points|randomize
-mno_choose_scene_109|random scene steppe forest: generate|auto entry points|randomize
-mno_choose_scene_110|reserved10
-mno_choose_scene_111|reserved11
-mno_choose_scene_112|reserved12: indoors
-mno_choose_scene_113|reserved4: generate
-mno_choose_scene_114|reserved5: generate
-mno_choose_scene_115|reserved6: generate
-mno_choose_scene_116|reserved7: generate
-menu_choose_scenes_117|选 择 一 个 场 景： (Page 10 of 22)
-mno_back|后 退 
-mno_next|下 一 页 
-mno_previous|上 一 页 
-mno_choose_scene_117|reserved8: generate
-mno_choose_scene_118|reserved9: indoors
-mno_choose_scene_119|salt mine: generate
-mno_choose_scene_120|scene sea: generate
-mno_choose_scene_121|scene sea player eastern vs generic: generate
-mno_choose_scene_122|scene sea player eastern vs nordic: generate
-mno_choose_scene_123|scene sea player generic vs eastern: generate
-mno_choose_scene_124|scene sea player generic vs nordic: generate
-mno_choose_scene_125|scene sea player nord vs eastern: generate
-mno_choose_scene_126|scene sea player nord vs generic: generate
-mno_choose_scene_127|test2: generate
-mno_choose_scene_128|test3: generate
-mno_choose_scene_129|test scene: generate
-menu_choose_scenes_130|选 择 一 个 场 景： (Page 11 of 22)
-mno_back|后 退 
-mno_next|下 一 页 
-mno_previous|上 一 页 
-mno_choose_scene_130|the happy boar: indoors
-mno_choose_scene_131|town 10 1 room: indoors
-mno_choose_scene_132|town 11 2 room: indoors
-mno_choose_scene_133|town 13 room: indoors
-mno_choose_scene_134|town 14 1 room: indoors
-mno_choose_scene_135|town 1 room: indoors
-mno_choose_scene_136|town 21 room: indoors
-mno_choose_scene_137|town 29 room: indoors
-mno_choose_scene_138|town 30 room: indoors
-mno_choose_scene_139|town 40 room: indoors
-mno_choose_scene_140|town 42 room: indoors
-mno_choose_scene_141|town 4 1 room: indoors
-mno_choose_scene_142|town 5 room: indoors
-menu_choose_scenes_143|选 择 一 个 场 景： (Page 12 of 22)
-mno_back|后 退 
-mno_next|下 一 页 
-mno_previous|上 一 页 
-mno_choose_scene_143|town 6 1 room: indoors
-mno_choose_scene_144|town 9 room: indoors
-mno_choose_scene_145|town arab alley: generate
-mno_choose_scene_146|town arab arena: generate
-mno_choose_scene_147|town arab castle: indoors
-mno_choose_scene_148|town arab center: generate
-mno_choose_scene_149|town arab prison: indoors
-mno_choose_scene_150|town arab store: indoors
-mno_choose_scene_151|town arab tavern: indoors
-mno_choose_scene_152|town arab walls: generate
-mno_choose_scene_153|town baltic alley: generate
-mno_choose_scene_154|town baltic arena: generate
-mno_choose_scene_155|town baltic castle: indoors
-menu_choose_scenes_156|选 择 一 个 场 景： (Page 13 of 22)
-mno_back|后 退 
-mno_next|下 一 页 
-mno_previous|上 一 页 
-mno_choose_scene_156|town baltic center: generate
-mno_choose_scene_157|town baltic prison: indoors
-mno_choose_scene_158|town baltic store: indoors
-mno_choose_scene_159|town baltic tavern: indoors
-mno_choose_scene_160|town baltic walls: generate
-mno_choose_scene_161|town eastern alley: generate
-mno_choose_scene_162|town eastern arena: generate
-mno_choose_scene_163|town eastern castle: indoors
-mno_choose_scene_164|town eastern center: generate
-mno_choose_scene_165|town eastern prison: indoors
-mno_choose_scene_166|town eastern store: indoors
-mno_choose_scene_167|town eastern tavern: indoors
-mno_choose_scene_168|town eastern walls: generate
-menu_choose_scenes_169|选 择 一 个 场 景： (Page 14 of 22)
-mno_back|后 退 
-mno_next|下 一 页 
-mno_previous|上 一 页 
-mno_choose_scene_169|town euro alley: generate
-mno_choose_scene_170|town euro arena: generate
-mno_choose_scene_171|town euro castle: indoors
-mno_choose_scene_172|town euro center: generate
-mno_choose_scene_173|town euro prison: indoors
-mno_choose_scene_174|town euro store: indoors
-mno_choose_scene_175|town euro tavern: indoors
-mno_choose_scene_176|town euro walls: generate
-mno_choose_scene_177|town italy walls: generate
-mno_choose_scene_178|town mongol alley: generate
-mno_choose_scene_179|town mongol arena: generate
-mno_choose_scene_180|town mongol castle: generate
-mno_choose_scene_181|town mongol center: generate
-menu_choose_scenes_182|选 择 一 个 场 景： (Page 15 of 22)
-mno_back|后 退 
-mno_next|下 一 页 
-mno_previous|上 一 页 
-mno_choose_scene_182|town mongol prison: indoors
-mno_choose_scene_183|town mongol room: indoors
-mno_choose_scene_184|town mongol store: indoors
-mno_choose_scene_185|town mongol tavern: indoors
-mno_choose_scene_186|town mongol walls: generate
-mno_choose_scene_187|town nordic alley: generate
-mno_choose_scene_188|town nordic arena: generate
-mno_choose_scene_189|town nordic castle: indoors
-mno_choose_scene_190|town nordic center: generate
-mno_choose_scene_191|town nordic prison: indoors
-mno_choose_scene_192|town nordic store: indoors
-mno_choose_scene_193|town nordic tavern: indoors
-mno_choose_scene_194|town nordic walls: generate
-menu_choose_scenes_195|选 择 一 个 场 景： (Page 16 of 22)
-mno_back|后 退 
-mno_next|下 一 页 
-mno_previous|上 一 页 
-mno_choose_scene_195|training ground: generate
-mno_choose_scene_196|training ground horse track 1: generate
-mno_choose_scene_197|training ground horse track 10: generate
-mno_choose_scene_198|training ground horse track 11: generate
-mno_choose_scene_199|training ground horse track 12: generate
-mno_choose_scene_200|training ground horse track 13: generate
-mno_choose_scene_201|training ground horse track 14: generate
-mno_choose_scene_202|training ground horse track 15: generate
-mno_choose_scene_203|training ground horse track 16: generate
-mno_choose_scene_204|training ground horse track 17: generate
-mno_choose_scene_205|training ground horse track 18: generate
-mno_choose_scene_206|training ground horse track 2: generate
-mno_choose_scene_207|training ground horse track 3: generate
-menu_choose_scenes_208|选 择 一 个 场 景： (Page 17 of 22)
-mno_back|后 退 
-mno_next|下 一 页 
-mno_previous|上 一 页 
-mno_choose_scene_208|training ground horse track 4: generate
-mno_choose_scene_209|training ground horse track 5: generate
-mno_choose_scene_210|training ground horse track 5: generate
-mno_choose_scene_211|training ground horse track 6: generate
-mno_choose_scene_212|training ground horse track 7: generate
-mno_choose_scene_213|training ground horse track 8: generate
-mno_choose_scene_214|training ground horse track 9: generate
-mno_choose_scene_215|training ground ranged melee 1: generate
-mno_choose_scene_216|training ground ranged melee 10: generate
-mno_choose_scene_217|training ground ranged melee 11: generate
-mno_choose_scene_218|training ground ranged melee 12: generate
-mno_choose_scene_219|training ground ranged melee 13: generate
-mno_choose_scene_220|training ground ranged melee 14: generate
-menu_choose_scenes_221|选 择 一 个 场 景： (Page 18 of 22)
-mno_back|后 退 
-mno_next|下 一 页 
-mno_previous|上 一 页 
-mno_choose_scene_221|training ground ranged melee 15: generate
-mno_choose_scene_222|training ground ranged melee 16: generate
-mno_choose_scene_223|training ground ranged melee 17: generate
-mno_choose_scene_224|training ground ranged melee 18: generate
-mno_choose_scene_225|training ground ranged melee 2: generate
-mno_choose_scene_226|training ground ranged melee 3: generate
-mno_choose_scene_227|training ground ranged melee 4: generate
-mno_choose_scene_228|training ground ranged melee 5: generate
-mno_choose_scene_229|training ground ranged melee 6: generate
-mno_choose_scene_230|training ground ranged melee 7: generate
-mno_choose_scene_231|training ground ranged melee 8: generate
-mno_choose_scene_232|training ground ranged melee 9: generate
-mno_choose_scene_233|tutorial 1: indoors
-menu_choose_scenes_234|选 择 一 个 场 景： (Page 19 of 22)
-mno_back|后 退 
-mno_next|下 一 页 
-mno_previous|上 一 页 
-mno_choose_scene_234|tutorial 2: indoors
-mno_choose_scene_235|tutorial 3: indoors
-mno_choose_scene_236|tutorial 4: generate
-mno_choose_scene_237|tutorial 5: generate
-mno_choose_scene_238|tutorial 6: generate
-mno_choose_scene_239|tutorial 7: generate
-mno_choose_scene_240|tutorial 8: generate
-mno_choose_scene_241|tutorial 9: generate
-mno_choose_scene_242|tutorial training ground: generate
-mno_choose_scene_243|village arab: generate
-mno_choose_scene_244|village eastern: generate
-mno_choose_scene_245|village euro: generate
-mno_choose_scene_246|village iberia: generate
-menu_choose_scenes_247|选 择 一 个 场 景： (Page 20 of 22)
-mno_back|后 退 
-mno_next|下 一 页 
-mno_previous|上 一 页 
-mno_choose_scene_247|village italy: generate
-mno_choose_scene_248|village mongol: generate
-mno_choose_scene_249|village nordic: generate
-mno_choose_scene_250|vilnius center: generate
-mno_choose_scene_251|vilnius walls: generate
-mno_choose_scene_252|walls arensburg: generate
-mno_choose_scene_253|walls arwa: generate
-mno_choose_scene_254|walls beaumaris: generate
-mno_choose_scene_255|walls carlisle: generate
-mno_choose_scene_256|walls conwy: generate
-mno_choose_scene_257|walls dorpat: generate
-mno_choose_scene_258|walls generic french: generate
-mno_choose_scene_259|walls hedingham: generate
-menu_choose_scenes_260|选 择 一 个 场 景： (Page 21 of 22)
-mno_back|后 退 
-mno_next|下 一 页 
-mno_previous|上 一 页 
-mno_choose_scene_260|walls kernave: generate
-mno_choose_scene_261|walls krak: generate
-mno_choose_scene_262|walls lemsahl: generate
-mno_choose_scene_263|walls llansteffan: generate
-mno_choose_scene_264|walls lublin: generate
-mno_choose_scene_265|walls mann: generate
-mno_choose_scene_266|walls mansoura: generate
-mno_choose_scene_267|walls marienwerder: generate
-mno_choose_scene_268|walls moscow: generate
-mno_choose_scene_269|walls motte bailey 1: generate
-mno_choose_scene_270|walls motte bailey 2: generate
-mno_choose_scene_271|walls pevensey: generate
-mno_choose_scene_272|walls seiminiskeliai: generate
-menu_choose_scenes_273|选 择 一 个 场 景： (Page 22 of 22)
-mno_back|后 退 
-mno_previous|上 一 页 
-mno_choose_scene_273|walls taurapilis: generate
-mno_choose_scene_274|walls tonbridge: generate
-mno_choose_scene_275|walls treyden: generate
-mno_choose_scene_276|walls wenden: generate
-mno_choose_scene_277|walls york: generate
-mno_choose_scene_278|water{***}
-mno_choose_scene_279|wedding: indoors
-mno_choose_scene_280|zendar arena: generate
-mno_choose_scene_281|zendar center: generate
-mno_choose_scene_282|zendar merchant: indoors

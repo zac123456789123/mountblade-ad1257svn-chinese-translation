@@ -268,6 +268,7 @@ p_castle_30_2|Nesebar
 p_castle_30_3|Vidin
 p_castle_31_1|Tangier
 p_castle_31_2|Algiers
+p_castle_player|Player Castle
 p_village_1|Wieleń
 p_village_2|Miedzyrzecz
 p_village_3|Tyniec
@@ -633,6 +634,7 @@ p_village_31_5|Safi
 p_village_31_6|Ourzazate
 p_village_31_7|Tetuan
 p_village_31_8|Corso
+p_village_player|Corso
 p_salt_mine|Salt Mine
 p_four_ways_inn|Four Ways Inn
 p_test_scene|test scene
