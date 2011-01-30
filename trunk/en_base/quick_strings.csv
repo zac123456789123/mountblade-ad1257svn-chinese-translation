@@ -204,7 +204,6 @@ qstr__Looted_|(Looted)
 qstr__Under_Siege_|(Under Siege)
 qstr_The_village_of_{s1}_|The village of {s1} has been looted by {s2}.
 qstr_{s3}_is_no_longer_un|{s3} is no longer under siege.
-qstr_enemy_strength_{reg2|enemy strength {reg20}
 qstr_Small_bands_of_enemi|Small bands of enemies spotted near {s1}.
 qstr_Enemy_patrols_spotte|Enemy patrols spotted near {s1}.
 qstr_Medium_sized_group_o|Medium-sized group of enemies spotted near {s1}.
@@ -322,7 +321,7 @@ qstr_Best_threat_of_{s4}_|Best threat of {s4} has value level of {reg1}
 qstr_No_center_found_to_d|No center found to defend
 qstr_You_gain_right_to_ru|You gain right to rule.
 qstr_You_lose_right_to_ru|You lose right to rule.
-qstr_ERROR_in_party_conve|ERROR in party conversion script, faction {s21} - replacement is {s28}
+qstr_party_{s29}:_{s26}_r|party {s29}: {s26} replacing {s27} with {s28}
 qstr_No_Troops_Left.|No Troops Left.
 qstr_Selected_Troop:_{s1}|Selected Troop: {s1}
 qstr_Peasants_revolt_in_a|Peasants revolt in areas controlled by the {s25}!

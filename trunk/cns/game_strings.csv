@@ -3145,8 +3145,8 @@ str_strategy_criticism_cautious|我 认 为 这 个 策 略 过 于 谨 慎 了�
 str_tavernkeeper_invalid_quest|有 些 事 情 在 做， 但 是 我 想 不 起 来 详 细 的 内 容 了。 
 str_faction_title_male_player|领 主 {s0}
 str_faction_title_male_1|教 团 骑 士 {s0}
-str_faction_title_male_2|{s0} 王 子 
-str_faction_title_male_3|那 颜 {s0}
+str_faction_title_male_2|{s0}王 子 
+str_faction_title_male_3|{s0}那 颜 
 str_faction_title_male_4|{s0}雅 尔 
 str_faction_title_male_5|领 主 {s0}
 str_faction_title_male_6|领 主 {s0}
@@ -3168,7 +3168,7 @@ str_faction_title_male_23|领 主 {s0}
 str_faction_title_male_24|领 主 {s0}
 str_faction_title_male_25|{s0}酋 长 
 str_faction_title_male_26|领 主 {s0}
-str_faction_title_male_27|那 颜 {s0}
+str_faction_title_male_27|{s0}那 颜 
 str_faction_title_male_28|{s0}酋 长 
 str_faction_title_male_29|{s0}茹 潘 
 str_faction_title_male_30|{s0}波 耶 

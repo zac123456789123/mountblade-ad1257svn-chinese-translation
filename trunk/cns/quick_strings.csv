@@ -204,7 +204,6 @@ qstr__Looted_|（已 被 洗 劫）
 qstr__Under_Siege_|（陷 入 包 围） 
 qstr_The_village_of_{s1}_|{s1}村 遭 受 了 {s2}的 掠 夺。 
 qstr_{s3}_is_no_longer_un|{s3}不 再 陷 入 包 围 了。 
-qstr_enemy_strength_{reg2|敌 军 军 力 {reg20}{***}
 qstr_Small_bands_of_enemi|{s1}附 近 发 现 小 股 敌 军。 
 qstr_Enemy_patrols_spotte|{s1}附 近 发 现 敌 军 巡 逻。 
 qstr_Medium_sized_group_o|{s1}附 近 发 现 敌 军 中 等 规 模 部 队。 
@@ -322,7 +321,7 @@ qstr_Best_threat_of_{s4}_|最 有 威 胁 的 {s4}价 值 等 级 为 {reg1}
 qstr_No_center_found_to_d|没 发 现 防 守 地 点 
 qstr_You_gain_right_to_ru|你 获 得 统 治 权。 
 qstr_You_lose_right_to_ru|你 失 去 统 治 权。 
-qstr_ERROR_in_party_conve|ERROR in party conversion script, faction {s21} - replacement is {s28}
+qstr_party_{s29}:_{s26}_r|party {s29}: {s26} replacing {s27} with {s28}{***}
 qstr_No_Troops_Left.|没 有 剩 余 的 部 队 了。 
 qstr_Selected_Troop:_{s1}|选 中 的 部 队： {s1}
 qstr_Peasants_revolt_in_a|{s25}统 治 下 的 农 民 们 起 义 了！ 

@@ -1496,10 +1496,6 @@ itm_long_axe_b|Long War Axe
 itm_long_axe_b_pl|Long War Axe
 itm_long_axe_b_alt|Long War Axe
 itm_long_axe_b_alt_pl|Long War Axe
-itm_bardiche|Bardiche
-itm_bardiche_pl|Bardiche
-itm_long_bardiche|Long Bardiche
-itm_long_bardiche_pl|Long Bardiche
 itm_hafted_blade_b|Hafted Blade
 itm_hafted_blade_b_pl|Hafted Blade
 itm_hafted_blade_a|Hafted Blade
@@ -2330,5 +2326,7 @@ itm_turk_kaftan_green|Turkic Kaftan
 itm_turk_kaftan_green_pl|Turkic Kaftan
 itm_saracen_mail|Saracen Mail
 itm_saracen_mail_pl|Saracen Mail
+itm_jineta_sword|Jinetta Sword
+itm_jineta_sword_pl|Jinetta Sword
 itm_items_end|Items End
 itm_items_end_pl|Items End
