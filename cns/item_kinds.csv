@@ -1496,10 +1496,6 @@ itm_long_axe_b|长 战 斧
 itm_long_axe_b_pl|长 战 斧 
 itm_long_axe_b_alt|长 战 斧 
 itm_long_axe_b_alt_pl|长 战 斧 
-itm_bardiche|月 刃 斧 
-itm_bardiche_pl|月 刃 斧 
-itm_long_bardiche|长 月 刃 斧 
-itm_long_bardiche_pl|长 月 刃 斧 
 itm_hafted_blade_b|偃 月 刀 
 itm_hafted_blade_b_pl|偃 月 刀 
 itm_hafted_blade_a|宽 刃 刀 
@@ -2330,5 +2326,7 @@ itm_turk_kaftan_green|土 耳 其 长 衫
 itm_turk_kaftan_green_pl|土 耳 其 长 衫 
 itm_saracen_mail|萨 拉 逊 链 甲 
 itm_saracen_mail_pl|萨 拉 逊 链 甲 
+itm_jineta_sword|Jinetta Sword
+itm_jineta_sword_pl|Jinetta Sword
 itm_items_end|Items End 
 itm_items_end_pl|Items End 

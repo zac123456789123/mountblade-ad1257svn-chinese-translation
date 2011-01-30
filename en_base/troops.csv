@@ -128,6 +128,38 @@ trp_cuman_lancer|Cuman Lancer
 trp_cuman_lancer_pl|Cuman Lancers
 trp_cuman_heavy_lancer|Cuman Heavy Lancer
 trp_cuman_heavy_lancer_pl|Cuman Heavy Lancers
+trp_gaelic_merc_spearman|Gall-Gaedhil Hastatus
+trp_gaelic_merc_spearman_pl|Gall-Gaedhil Hastati
+trp_gaelic_merc_swordsman_1|Gall-Gaedhil Spatharius
+trp_gaelic_merc_swordsman_1_pl|Gall-Gaedhil Spathari
+trp_gaelic_merc_axeman_1|Gall-Gaedhil Tuanaghta
+trp_gaelic_merc_axeman_1_pl|Gall-Gaedhil Tuanaghta
+trp_gaelic_merc_swordsman_2|Gall-Oglaich Spatharius
+trp_gaelic_merc_swordsman_2_pl|Gall-Oglaich Spathari
+trp_gaelic_merc_axeman_2|Gall-Oglaich Tuanaghta
+trp_gaelic_merc_axeman_2_pl|Gall-Oglaich Tuanaghta
+trp_crusader_turkopole|Turcopole
+trp_crusader_turkopole_pl|Turcopoles
+trp_templar_crossbows_sergeant|Frater Serviens Balistarius du Temple
+trp_templar_crossbows_sergeant_pl|Frater Servientes Balistari du Temple
+trp_templar_swords_sergeant|Frater Serviens Pedite du Temple
+trp_templar_swords_sergeant_pl|Frater Servientes Pedites du Temple
+trp_templar_spears_sergeant|Frater Serviens Hastatus du Temple
+trp_templar_spears_sergeant_pl|Frater Servientes Hastati du Temple
+trp_templar_half_brother|Frater Serviens Eques du Temple
+trp_templar_half_brother_pl|Frater Servientes Equites du Temple
+trp_templar_knight|Miles Templi
+trp_templar_knight_pl|Milites Templi
+trp_hospitaller_swords_sergeant|Frater Serviens Pedite des Hospitaliers
+trp_hospitaller_swords_sergeant_pl|Frater Servientes Pedites des Hospitaliers
+trp_hospitaller_spears_sergeant|Frater Serviens Hastatus des Hospitaliers
+trp_hospitaller_spears_sergeant_pl|Frater Servientes Hastati des Hospitaliers
+trp_hospitaller_crossbows_sergeant|Frater Serviens Balistarius des Hospitaliers
+trp_hospitaller_crossbows_sergeant_pl|Frater Servientes Balistari des Hospitaliers
+trp_hospitaller_half_brother|Frater Serviens Eques des Hospitaliers
+trp_hospitaller_half_brother_pl|Frater Servientes Equites des Hospitaliers
+trp_hospitaller_knight|Chevalier des Hospitaliers
+trp_hospitaller_knight_pl|Chevaliers des Hospitaliers
 trp_mercenaries_end|mercenaries end
 trp_mercenaries_end_pl|mercenaries end
 trp_teu_village_recruit|Baltischer Dorfbewohner
@@ -456,46 +488,6 @@ trp_balt_noble_2|Didysis Bajoras
 trp_balt_noble_2_pl|Didieji Bajorai
 trp_balt_noble_3|Didžiūnas
 trp_balt_noble_3_pl|Didžiūnai
-trp_crusader_turkopole|Turcopole
-trp_crusader_turkopole_pl|Turcopoles
-trp_templar_crossbows_sergeant|Frater Serviens Balistarius du Temple
-trp_templar_crossbows_sergeant_pl|Frater Servientes Balistari du Temple
-trp_templar_swords_sergeant|Frater Serviens Pedite du Temple
-trp_templar_swords_sergeant_pl|Frater Servientes Pedites du Temple
-trp_templar_spears_sergeant|Frater Serviens Hastatus du Temple
-trp_templar_spears_sergeant_pl|Frater Servientes Hastati du Temple
-trp_templar_half_brother|Frater Serviens Eques du Temple
-trp_templar_half_brother_pl|Frater Servientes Equites du Temple
-trp_templar_knight|Miles Templi
-trp_templar_knight_pl|Milites Templi
-trp_templar_deserter|Templar Deserter
-trp_templar_deserter_pl|Templar Deserters
-trp_templar_prison_guard|Templar Prison Guard
-trp_templar_prison_guard_pl|Templar Prison Guards
-trp_templar_castle_guard|Castle Guard
-trp_templar_castle_guard_pl|Castle Guards
-trp_hospitaller_swords_sergeant|Frater Serviens Pedite des Hospitaliers
-trp_hospitaller_swords_sergeant_pl|Frater Servientes Pedites des Hospitaliers
-trp_hospitaller_spears_sergeant|Frater Serviens Hastatus des Hospitaliers
-trp_hospitaller_spears_sergeant_pl|Frater Servientes Hastati des Hospitaliers
-trp_hospitaller_crossbows_sergeant|Frater Serviens Balistarius des Hospitaliers
-trp_hospitaller_crossbows_sergeant_pl|Frater Servientes Balistari des Hospitaliers
-trp_hospitaller_half_brother|Frater Serviens Eques des Hospitaliers
-trp_hospitaller_half_brother_pl|Frater Servientes Equites des Hospitaliers
-trp_hospitaller_knight|Chevalier des Hospitaliers
-trp_hospitaller_knight_pl|Chevaliers des Hospitaliers
-trp_hospitaller_messenger|Hospitaller Messenger
-trp_hospitaller_messenger_pl|Hospitaller Messengers
-trp_hospitaller_deserter|Hospitaller Deserter
-trp_hospitaller_deserter_pl|Hospitaller Deserters
-trp_hospitaller_prison_guard|Hospitaller Prison Guard
-trp_hospitaller_prison_guard_pl|Hospitaller Prison Guards
-trp_hospitaller_castle_guard|Castle Guard
-trp_hospitaller_castle_guard_pl|Castle Guards
-trp_armenian_knight|Armenian Knight
-trp_armenian_knight_pl|Armenian Knights
-trp_seljuk_horseman|Seljuk Horseman
-trp_seljuk_horseman_pl|Seljuk Horsemen
 trp_marinid_village_rabble|Awamm Al-Magrib Al-Dehat
 trp_marinid_village_rabble_pl|Awamm Al-Magrib Al-Dehat
 trp_marinid_levy_spearman|Husud Al-Barbar Spearman
@@ -730,16 +722,6 @@ trp_gaelic_archer_1|Ceithernach Boghadair
 trp_gaelic_archer_1_pl|Ceithernach Boghadair
 trp_gaelic_archer_2|Ceithern Tigh Boghadair
 trp_gaelic_archer_2_pl|Ceithern Tigh Boghadair
-trp_gaelic_merc_spearman|Gall-Gaedhil Hastatus
-trp_gaelic_merc_spearman_pl|Gall-Gaedhil Hastati
-trp_gaelic_merc_swordsman_1|Gall-Gaedhil Spatharius
-trp_gaelic_merc_swordsman_1_pl|Gall-Gaedhil Spathari
-trp_gaelic_merc_axeman_1|Gall-Gaedhil Tuanaghta
-trp_gaelic_merc_axeman_1_pl|Gall-Gaedhil Tuanaghta
-trp_gaelic_merc_swordsman_2|Gall-Oglaich Spatharius
-trp_gaelic_merc_swordsman_2_pl|Gall-Oglaich Spathari
-trp_gaelic_merc_axeman_2|Gall-Oglaich Tuanaghta
-trp_gaelic_merc_axeman_2_pl|Gall-Oglaich Tuanaghta
 trp_gaelic_light_cavalry|Sgiathadair Ritire
 trp_gaelic_light_cavalry_pl|Sgiathadairi Ritire
 trp_gaelic_medium_cavalry|Ceithernach Ritire
@@ -1515,6 +1497,16 @@ trp_knight_8_4|Knyaz Yuriy Igorevich
 trp_knight_8_4_pl|Yuriy Igorevich
 trp_knight_8_5|Knyaz Mstislav Glebovich
 trp_knight_8_5_pl|Mstislav Glebovich
+trp_knight_8_6|Knyaz Yaroslav Vsevolodovich
+trp_knight_8_6_pl|Yaroslav Vsevolodovich
+trp_knight_8_7|Knyaz Svyatoslav Vsevolodovich
+trp_knight_8_7_pl|Svyatoslav Vsevolodovich
+trp_knight_8_8|Knyaz Daniil Romanovich
+trp_knight_8_8_pl|Daniil Romanovich
+trp_knight_8_9|Knyaz Yuriy Mstislavich
+trp_knight_8_9_pl|Yuriy Mstislavich
+trp_knight_8_10|Knyaz Yuriy Davidovich
+trp_knight_8_10_pl|Yuriy Davidovich
 trp_knight_9_1|Prince Edward Longshanks
 trp_knight_9_1_pl|Edward Longshanks
 trp_knight_9_2|Sir William de Valence, Earl of Wexford and Pembroke
@@ -2407,6 +2399,16 @@ trp_knight_8_lady_4|Lady Irina
 trp_knight_8_lady_4_pl|Irina
 trp_kingdom_8_lady_5|Lady Larissa
 trp_kingdom_8_lady_5_pl|Larissa
+trp_kingdom_8_lady_6|Lady Ludmila
+trp_kingdom_8_lady_6_pl|Ludmila
+trp_kingdom_8_lady_7|Lady Natasha
+trp_kingdom_8_lady_7_pl|Natasha
+trp_kingdom_8_lady_8|Lady Svetlana
+trp_kingdom_8_lady_8_pl|Svetlana
+trp_kingdom_8_lady_9|Lady Tatyana
+trp_kingdom_8_lady_9_pl|Tatyana
+trp_kingdom_8_lady_10|Lady Zoya
+trp_kingdom_8_lady_10_pl|Zoya
 trp_lord_9_wife|Queen Eleanor of Provence
 trp_lord_9_wife_pl|lord 9 wife
 trp_knight_9_1_wife|Princess Eleanor of England

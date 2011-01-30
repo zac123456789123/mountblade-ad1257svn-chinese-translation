@@ -128,8 +128,40 @@ trp_cuman_lancer|库 曼 枪 骑 兵
 trp_cuman_lancer_pl|库 曼 枪 骑 兵 
 trp_cuman_heavy_lancer|库 曼 重 甲 枪 骑 兵 
 trp_cuman_heavy_lancer_pl|库 曼 重 甲 枪 骑 兵 
-trp_mercenaries_end|雇 佣 兵 
-trp_mercenaries_end_pl|雇 佣 兵 
+trp_gaelic_merc_spearman|盖 尔 雇 佣 长 矛 手 
+trp_gaelic_merc_spearman_pl|盖 尔 雇 佣 长 矛 手 
+trp_gaelic_merc_swordsman_1|盖 尔 雇 佣 剑 士 
+trp_gaelic_merc_swordsman_1_pl|盖 尔 雇 佣 剑 士 
+trp_gaelic_merc_axeman_1|盖 尔 雇 佣 长 斧 手 
+trp_gaelic_merc_axeman_1_pl|盖 尔 雇 佣 长 斧 手 
+trp_gaelic_merc_swordsman_2|盖 尔 雇 佣 剑 客 
+trp_gaelic_merc_swordsman_2_pl|盖 尔 雇 佣 剑 客 
+trp_gaelic_merc_axeman_2|盖 尔 雇 佣 长 斧 勇 士 
+trp_gaelic_merc_axeman_2_pl|盖 尔 雇 佣 长 斧 勇 士 
+trp_crusader_turkopole|雇 佣 土 耳 其 骑 射 手 
+trp_crusader_turkopole_pl|雇 佣 土 耳 其 骑 射 手 
+trp_templar_crossbows_sergeant|圣 殿 骑 士 团 重 弩 兵 
+trp_templar_crossbows_sergeant_pl|圣 殿 骑 士 团 重 弩 兵 
+trp_templar_swords_sergeant|圣 殿 精 锐 重 步 兵 
+trp_templar_swords_sergeant_pl|圣 殿 精 锐 重 步 兵 
+trp_templar_spears_sergeant|圣 殿 长 矛 卫 士 
+trp_templar_spears_sergeant_pl|圣 殿 长 矛 卫 士 
+trp_templar_half_brother|圣 殿 骑 士 侍 从 
+trp_templar_half_brother_pl|圣 殿 骑 士 侍 从 
+trp_templar_knight|圣 殿 骑 士 
+trp_templar_knight_pl|圣 殿 骑 士 
+trp_hospitaller_swords_sergeant|医 院 精 锐 重 步 兵 
+trp_hospitaller_swords_sergeant_pl|医 院 精 锐 重 步 兵 
+trp_hospitaller_spears_sergeant|医 院 长 矛 卫 士 
+trp_hospitaller_spears_sergeant_pl|医 院 长 矛 卫 士 
+trp_hospitaller_crossbows_sergeant|医 院 骑 士 团 重 弩 兵 
+trp_hospitaller_crossbows_sergeant_pl|医 院 骑 士 团 重 弩 兵 
+trp_hospitaller_half_brother|医 院 骑 士 侍 从 
+trp_hospitaller_half_brother_pl|医 院 骑 士 侍 从 
+trp_hospitaller_knight|医 院 骑 士 
+trp_hospitaller_knight_pl|医 院 骑 士 
+trp_mercenaries_end|mercenaries end
+trp_mercenaries_end_pl|mercenaries end
 trp_teu_village_recruit|条 顿 征 召 民 兵 
 trp_teu_village_recruit_pl|条 顿 征 召 民 兵 
 trp_teu_balt_1|条 顿 波 罗 的 海 掷 矛 民 兵 
@@ -456,46 +488,6 @@ trp_balt_noble_2|波 罗 的 海 贵 族 重 步 兵
 trp_balt_noble_2_pl|波 罗 的 海 贵 族 重 步 兵 
 trp_balt_noble_3|波 罗 的 海 公 爵 亲 卫 
 trp_balt_noble_3_pl|波 罗 的 海 公 爵 亲 卫 
-trp_crusader_turkopole|雇 佣 游 牧 骑 手 
-trp_crusader_turkopole_pl|雇 佣 游 牧 骑 手 
-trp_templar_crossbows_sergeant|圣 殿 骑 士 团 重 弩 兵 
-trp_templar_crossbows_sergeant_pl|圣 殿 骑 士 团 重 弩 兵 
-trp_templar_swords_sergeant|圣 殿 精 锐 重 步 兵 
-trp_templar_swords_sergeant_pl|圣 殿 精 锐 重 步 兵 
-trp_templar_spears_sergeant|圣 殿 长 矛 卫 士 
-trp_templar_spears_sergeant_pl|圣 殿 长 矛 卫 士 
-trp_templar_half_brother|圣 殿 骑 士 侍 从 
-trp_templar_half_brother_pl|圣 殿 骑 士 侍 从 
-trp_templar_knight|圣 殿 骑 士 
-trp_templar_knight_pl|圣 殿 骑 士 
-trp_templar_deserter|圣 殿 骑 士 团 逃 兵 
-trp_templar_deserter_pl|圣 殿 骑 士 团 逃 兵 
-trp_templar_prison_guard|圣 殿 骑 士 团 监 狱 看 守 
-trp_templar_prison_guard_pl|圣 殿 骑 士 团 监 狱 看 守 
-trp_templar_castle_guard|圣 殿 骑 士 团 城 堡 守 卫 
-trp_templar_castle_guard_pl|圣 殿 骑 士 团 城 堡 守 卫 
-trp_hospitaller_swords_sergeant|医 院 精 锐 重 步 兵 
-trp_hospitaller_swords_sergeant_pl|医 院 精 锐 种 步 兵 
-trp_hospitaller_spears_sergeant|医 院 长 矛 卫 士 
-trp_hospitaller_spears_sergeant_pl|医 院 长 矛 卫 士 
-trp_hospitaller_crossbows_sergeant|医 院 骑 士 团 重 弩 兵 
-trp_hospitaller_crossbows_sergeant_pl|医 院 骑 士 团 重 弩 兵 
-trp_hospitaller_half_brother|医 院 骑 士 侍 从 
-trp_hospitaller_half_brother_pl|医 院 骑 士 侍 从 
-trp_hospitaller_knight|医 院 骑 士 
-trp_hospitaller_knight_pl|医 院 骑 士 
-trp_hospitaller_messenger|医 院 骑 士 团 信 使 
-trp_hospitaller_messenger_pl|医 院 骑 士 团 信 使 
-trp_hospitaller_deserter|医 院 骑 士 团 逃 兵 
-trp_hospitaller_deserter_pl|医 院 骑 士 团 逃 兵 
-trp_hospitaller_prison_guard|医 院 骑 士 团 监 狱 守 卫 
-trp_hospitaller_prison_guard_pl|医 院 骑 士 团 监 狱 守 卫 
-trp_hospitaller_castle_guard|医 院 骑 士 团 城 堡 守 卫 
-trp_hospitaller_castle_guard_pl|医 院 骑 士 团 城 堡 守 卫 
-trp_armenian_knight|亚 美 尼 亚 骑 士 
-trp_armenian_knight_pl|亚 美 尼 亚 骑 士 
-trp_seljuk_horseman|塞 尔 柱 骑 兵 
-trp_seljuk_horseman_pl|塞 尔 柱 骑 兵 
 trp_marinid_village_rabble|阿 拉 伯 民 兵 
 trp_marinid_village_rabble_pl|阿 拉 伯 民 兵 
 trp_marinid_levy_spearman|阿 拉 伯 长 矛 民 兵 
@@ -730,16 +722,6 @@ trp_gaelic_archer_1|盖 尔 战 团 射 手
 trp_gaelic_archer_1_pl|盖 尔 战 团 射 手 
 trp_gaelic_archer_2|盖 尔 战 团 神 射 手 
 trp_gaelic_archer_2_pl|盖 尔 战 团 神 射 手
-trp_gaelic_merc_spearman|盖 尔 雇 佣 矛 兵 
-trp_gaelic_merc_spearman_pl|盖 尔 雇 佣 矛 兵 
-trp_gaelic_merc_swordsman_1|盖 尔 雇 佣 步 兵 
-trp_gaelic_merc_swordsman_1_pl|盖 尔 雇 佣 步 兵 
-trp_gaelic_merc_axeman_1|盖 尔 雇 佣 斧 兵 
-trp_gaelic_merc_axeman_1_pl|盖 尔 雇 佣 斧 兵 
-trp_gaelic_merc_swordsman_2|盖 尔 雇 佣 重 步 兵 
-trp_gaelic_merc_swordsman_2_pl|盖 尔 雇 佣 重 步 兵
-trp_gaelic_merc_axeman_2|盖 尔 雇 佣 战 斧 重 步 兵 
-trp_gaelic_merc_axeman_2_pl|盖 尔 雇 佣 战 斧 重 步 兵
 trp_gaelic_light_cavalry|盖 尔 轻 装 枪 骑 兵 
 trp_gaelic_light_cavalry_pl|盖 尔 轻 装 枪 骑 兵 
 trp_gaelic_medium_cavalry|盖 尔 枪 骑 兵 
@@ -1505,16 +1487,26 @@ trp_knight_7_14|鲍 拉 萨· 比 特
 trp_knight_7_14_pl|鲍 拉 萨· 比 特 
 trp_knight_7_15|拉 托 特· 罗 兰 大 主 教 
 trp_knight_7_15_pl|拉 托 特· 罗 兰 
-trp_knight_8_1|弗 谢 沃 洛 多· 尤 里 伊 维 奇 亲 王
-trp_knight_8_1_pl|弗 谢 沃 洛 多· 尤 里 伊 维 奇 
+trp_knight_8_1|弗 谢 沃 洛 德· 尤 里 耶 维 奇 亲 王 
+trp_knight_8_1_pl|弗 谢 沃 洛 德· 尤 里 耶 维 奇 
 trp_knight_8_2|布 里 亚 奇 斯 拉 夫· 瓦 斯 拉 科 维 奇 亲 王 
 trp_knight_8_2_pl|布 里 亚 奇 斯 拉 夫· 瓦 斯 拉 科 维 奇 
 trp_knight_8_3|苏 亚 特 斯 拉 夫· 姆 斯 基 斯 拉 维 奇 亲 王 
 trp_knight_8_3_pl|苏 亚 特 斯 拉 夫· 姆 斯 基 斯 拉 维 奇 
 trp_knight_8_4|尤 里· 伊 戈 列 维 奇 亲 王 
 trp_knight_8_4_pl|尤 里· 伊 戈 列 维 奇 
-trp_knight_8_5|姆 斯 基 斯 拉 夫· 格 列 博 维 奇 亲 王 
-trp_knight_8_5_pl|姆 斯 基 斯 拉 夫· 格 列 博 维 奇 
+trp_knight_8_5|姆 斯 基 斯 拉 夫· 格 列 波 维 奇 亲 王 
+trp_knight_8_5_pl|姆 斯 基 斯 拉 夫· 格 列 波 维 奇 
+trp_knight_8_6|雅 罗 斯 拉 夫· 弗 谢 沃 洛 多 维 奇 亲 王 
+trp_knight_8_6_pl|雅 罗 斯 拉 夫· 弗 谢 沃 洛 多 维 奇 
+trp_knight_8_7|斯 维 亚 特 斯 拉 夫· 弗 谢 沃 洛 多 维 奇 亲 王 
+trp_knight_8_7_pl|斯 维 亚 特 斯 拉 夫· 弗 谢 沃 洛 多 维 奇 
+trp_knight_8_8|丹 尼 尔· 罗 曼 诺 维 奇 亲 王 
+trp_knight_8_8_pl|丹 尼 尔· 罗 曼 诺 维 奇 
+trp_knight_8_9|尤 里· 姆 斯 季 斯 拉 维 奇 亲 王 
+trp_knight_8_9_pl|尤 里· 姆 斯 季 斯 拉 维 奇 
+trp_knight_8_10|尤 里· 达 维 多 维 奇 亲 王 
+trp_knight_8_10_pl|尤 里· 达 维 多 维 奇 
 trp_knight_9_1|爱 德 华 王 子，“长 腿” 
 trp_knight_9_1_pl|爱 德 华，“长 腿” 
 trp_knight_9_2|威 克 斯 福 德 和 彭 布 罗 克 伯 爵，瓦 朗 斯 的 威 廉 
@@ -1705,8 +1697,8 @@ trp_knight_14_14|福 尔 克· 阿 尔 戈 特 松
 trp_knight_14_14_pl|福 尔 克· 阿 尔 戈 特 松 
 trp_knight_14_15|乔 汉· 安 格 尔 
 trp_knight_14_15_pl|乔 汉· 安 格 尔 
-trp_knight_15_1|沃 洛 迪 米 尔· 瓦 西 尔 科 维 奇 亲 王 
-trp_knight_15_1_pl|沃 洛 迪 米 尔· 瓦 西 尔 科 维 奇 
+trp_knight_15_1|沃 洛 迪 米 尔· 伊 万· 瓦 西 尔 科 维 奇 亲 王 
+trp_knight_15_1_pl|沃 洛 迪 米 尔· 伊 万· 瓦 西 尔 科 维 奇 
 trp_knight_15_2|瓦 西 尔 科· 罗 曼 诺 维 奇 亲 王 
 trp_knight_15_2_pl|瓦 西 尔 科· 罗 曼 诺 维 奇 
 trp_knight_15_3|列 夫· 达 尼 洛 维 奇 亲 王 
@@ -2407,6 +2399,16 @@ trp_knight_8_lady_4|伊 莉 娜 女 士
 trp_knight_8_lady_4_pl|伊 莉 娜 
 trp_kingdom_8_lady_5|拉 丽 莎 女 士 
 trp_kingdom_8_lady_5_pl|拉 丽 莎 
+trp_kingdom_8_lady_6|Lady Ludmila
+trp_kingdom_8_lady_6_pl|Ludmila
+trp_kingdom_8_lady_7|Lady Natasha
+trp_kingdom_8_lady_7_pl|Natasha
+trp_kingdom_8_lady_8|Lady Svetlana
+trp_kingdom_8_lady_8_pl|Svetlana
+trp_kingdom_8_lady_9|Lady Tatyana
+trp_kingdom_8_lady_9_pl|Tatyana
+trp_kingdom_8_lady_10|Lady Zoya
+trp_kingdom_8_lady_10_pl|Zoya
 trp_lord_9_wife|普 罗 旺 斯 女 王 埃 莉 诺 
 trp_lord_9_wife_pl|lord 9 wife{***}
 trp_knight_9_1_wife|英 格 兰 公 主 埃 莉 诺 
