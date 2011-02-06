@@ -2967,7 +2967,7 @@ dlga_prisoner_train_talk:prisoner_train_talk_ultimatum|放 了 那 些 囚 犯�
 dlga_prisoner_train_talk_ultimatum:prisoner_train_talk_ultimatum_2|怎 么？ 你 是 想 要 和 我 们 战 斗 么？ 
 dlga_prisoner_train_talk_ultimatum_2:prisoner_train_talk_ultimatum_2a|是 的， 我 会 的。 这 是 我 给 你 的 警 告！ 
 dlga_prisoner_train_talk_ultimatum_2a:close_window|我 们 走 着 瞧。 
-dlga_prisoner_train_talk_ultimatum_2:prisoner_train_talk_ultimatum_2b|攻 击 你 吗? 当 然 不! 我 只 是 同 情 那 些 可 怜 的 家 伙。 
+dlga_prisoner_train_talk_ultimatum_2:prisoner_train_talk_ultimatum_2b|攻 击 你 吗？ 当 然 不！ 我 只 是 同 情 那 些 可 怜 的 家 伙。 
 dlga_prisoner_train_talk_ultimatum_2b:close_window|去 可 怜 其 他 东 西 吧。 
 dlga_prisoner_train_talk:prisoner_train_smalltalk|看 好 囚 犯， 别 让 他 们 给 跑 了！ 
 dlga_prisoner_train_smalltalk:close_window|别 担 心， 他 们 哪 都 去 不 了 的！ 
@@ -2997,9 +2997,9 @@ dlga_party_encounter_routed_agents_are_caught:party_encounter_routed_agents_are_
 dlga_party_encounter_routed_agents_are_caught:close_window|好 吧， 这 次 我 们 就 发 善 心 放 过 你， 但 是 记 住， 下 一 次 你 就 不 会 有 这 么 好 的 运 气 了。 
 dlga_party_encounter_routed_agents_are_caught2:close_window|你 没 有 一 点 慈 悲 之 心 吗？ 好 吧， 我 们 将 会 拼 死 战 到 最 后 一 人！ 
 dlga_party_encounter_routed_agents_are_caught2:close_window.1|{s1}
-dlga_sell_prisoner_outlaws:sell_prisoner_outlaws|嗯。 每 一 个 劫 匪 我 给 你 10 第 纳 尔， 一 共 就 是 {reg1}第 纳 尔， 这 里 的 {reg0}个 人。 
-dlga_sell_prisoner_outlaws:sell_prisoner_outlaws.1|让 我 看 看。 你 带 来 {reg0}个 强 盗， 20 第 纳 尔 那 么 一 共 {reg1}第 纳 尔。 
-dlga_sell_prisoner_outlaws:sell_prisoner_outlaws.2|嗯 嗯， 你 抓 了 {reg0}个 土 匪。 他 们 每 个 值 30 第 纳 尔， 所 以 我 给 你 一 共 {reg1}第 纳 尔。 
+dlga_sell_prisoner_outlaws:sell_prisoner_outlaws|嗯。 每 一 个 劫 匪 我 给 你 10第 纳 尔， 一 共 就 是 {reg1}第 纳 尔， 这 里 的 {reg0}个 人。 
+dlga_sell_prisoner_outlaws:sell_prisoner_outlaws.1|让 我 看 看。 你 带 来 {reg0}个 强 盗， 20第 纳 尔 那 么 一 共 {reg1}第 纳 尔。 
+dlga_sell_prisoner_outlaws:sell_prisoner_outlaws.2|嗯 嗯， 你 抓 了 {reg0}个 土 匪。 他 们 每 个 值 30第 纳 尔， 所 以 我 给 你 一 共 {reg1}第 纳 尔。 
 dlga_sell_prisoner_outlaws:sell_prisoner_outlaws_finished|我 估 计 这 样 就 可 以 了， 还 有 吗。 
 dlga_prisoner_chat:prisoner_chat_2|不 要 想 逃 跑 或 是 做 别 的 什 么 蠢 事， 我 盯 着 你 呢。 
 dlga_prisoner_chat_2:close_window|我 发 誓 我 不 会。 
