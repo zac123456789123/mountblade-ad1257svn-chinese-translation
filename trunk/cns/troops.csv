@@ -110,8 +110,8 @@ trp_merc_brabantine_guisarm|布 拉 班 特 雇 佣 长 戟 兵
 trp_merc_brabantine_guisarm_pl|布 拉 班 特 雇 佣 长 戟 兵 
 trp_merc_welsh_bowman|威 尔 士 雇 佣 长 弓 兵 
 trp_merc_welsh_bowman_pl|威 尔 士 雇 佣 长 弓 兵 
-trp_merc_kern_infantry|盖 尔 佣 兵 
-trp_merc_kern_infantry_pl|盖 尔 佣 兵 
+trp_merc_kern_infantry|盖 尔 雇 佣 轻 步 兵 
+trp_merc_kern_infantry_pl|盖 尔 雇 佣 轻 步 兵 
 trp_merc_almogabar|雇 佣 掷 矛 手 
 trp_merc_almogabar_pl|雇 佣 掷 矛 手 
 trp_cuman_tribesman|库 曼 族 人 
@@ -614,7 +614,7 @@ trp_byz_castle_1|尼 西 亚 骑 手
 trp_byz_castle_1_pl|尼 西 亚 骑 手 
 trp_byz_castle_2|尼 西 亚 骑 兵 
 trp_byz_castle_2_pl|尼 西 亚 骑 兵 
-trp_byz_castle_3|尼 西 亚 枪 骑 兵
+trp_byz_castle_3|尼 西 亚 枪 骑 兵 
 trp_byz_castle_3_pl|尼 西 亚 枪 骑 兵 
 trp_byz_castle_4|尼 西 亚 铁 甲 圣 骑 兵 
 trp_byz_castle_4_pl|尼 西 亚 铁 甲 圣 骑 兵 
