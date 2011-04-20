@@ -110,7 +110,7 @@ qstr_{s1}^HP:_{reg0}|{s1}^体 力： {reg0}
 qstr_Attributes:|属 性： 
 qstr_{s3}^STR:_{reg1}^INT|{s3}^力 量： {reg1}^智 力： {reg2}^^技 能： 
 qstr_{s3}^Power_Strike:_{|{s3}^强 击： {reg1}^强 弓： {reg2}^强 掷： {reg3}^骑 射： {reg4}^^武器掌握：
-qstr_{s3}^1_Hand_Wpns:_{r|{s3}^1 Hand Wpns: {reg1}^2 Hand Wpns: {reg2}^Polearms: {reg3}{***}
+qstr_{s3}^1_Hand_Wpns:_{r|{s3}^单 手 武 器： {reg1}^双 手 武 器： {reg2}^长 杆： {reg3}
 qstr_{s3}|{s3}
 qstr_{s4}^AGI:_{reg1}^CHA|{s4}^敏 捷： {reg1}^魅 力： {reg2}^^
 qstr_{s4}^Ironflesh:_{reg|{s4}^铁 骨： {reg1}^跑 动： {reg2}^盾 防： {reg3}^骑 术： {reg4}^^
@@ -321,7 +321,7 @@ qstr_Best_threat_of_{s4}_|最 有 威 胁 的 {s4}价 值 等 级 为 {reg1}
 qstr_No_center_found_to_d|没 发 现 防 守 地 点 
 qstr_You_gain_right_to_ru|你 获 得 统 治 权。 
 qstr_You_lose_right_to_ru|你 失 去 统 治 权。 
-qstr_party_{s29}:_{s26}_r|party {s29}: {s26} replacing {s27} with {s28}{***}
+qstr_party_{s29}:_{s26}_r|{s29}： {s26}用 {s27}替 换 了 {s28}
 qstr_No_Troops_Left.|没 有 剩 余 的 部 队 了。 
 qstr_Selected_Troop:_{s1}|选 中 的 部 队： {s1}
 qstr_Peasants_revolt_in_a|{s25}统 治 下 的 农 民 们 起 义 了！ 
@@ -337,7 +337,7 @@ qstr_{s20}_____dest_slot_|{s20} --- dest slot {reg20}{***}
 qstr_#|#
 qstr_{s0}{s1}|{s0}{s1}
 qstr_{reg0}|{reg0}
-qstr_applying_fixes__if_a|applying fixes (if any){***}
+qstr_applying_fixes__if_a|对 存 档 使 用 补 丁 （如 果 需 要 的 话） 
 qstr_Faction:_{s21}|阵 营： {s21}
 qstr_ranks|列 阵 
 qstr_shield_wall|盾 墙 
@@ -509,8 +509,8 @@ qstr_Luckily_some_passing|很 幸 运 的 是， 一 些 路 过 的 镇 民 发
 qstr_You_fail_to_steal_an|你 没 能 偷 到 一 头 牛。 
 qstr_You_drive_away_{reg1|你 从 村 子 的 牛 栏 里 赶 走 了 {reg17}{reg12?头 :头 }牛。 
 qstr_You_are_at_{s2}.|你 在 {s2}。 
-qstr__This_castle_has_no_|这 座 城 堡 没 有 驻 军。 
-qstr__This_town_has_no_ga|这 座 城 镇 没 有 驻 军。 
+qstr__This_castle_has_no_|这 座 城 堡 目 前 无 人 管 辖。 
+qstr__This_town_has_no_ga|这 座 城 镇 目 前 无 人 管 辖。 
 qstr__You_have_successful|你 成 功 潜 入 了。 
 qstr_{s13}_A_tournament_w|{s13}一 场 比 赛 马 上 要 开 始 了。 
 qstr_ransom_broker_presen|赎 金 经 纪 人 出 现 入 口： {reg20}。 {***}
@@ -573,7 +573,7 @@ qstr_Book_Read|读 书
 qstr_{s1}_is_scouted.|{s1}已 经 侦 察 过 了。 
 qstr_{s1}_has_switched_fr|{s1}由 {s2}转 到 {s3}。 
 qstr_Your_party_is_low_on|你 部 队 的 粮 食 快 要 吃 完 了， 只 剩 不 到 48小 时 的 存 量 了。 
-qstr_Converting_parties_t|Converting parties to faction templates.{***}
+qstr_Converting_parties_t|按 代 码 表 转 换 军 队 （不 是 bug） 
 qstr_{s13}_has_been_taken|{s13}被 敌 人 夺 取 了， 你 派 去 招 募 {reg10}名 新 兵 的 征 兵 队 好 像 消 失 得 无 影 无 踪 了！ 
 qstr_ERROR_IN_THE_RECRUIT|ERROR IN THE RECRUITER KIT SIMPLE TRIGGERS!
 qstr_A_recruiter_has_brou|一 支 征 兵 队 带 了 {reg10}名 新 兵 去 了 {s13}。 
@@ -718,7 +718,7 @@ qstr_There_s_a_toll_for_p|交 出 买 路 钱， 不 然 我 就 从 你 的 钱
 qstr_Another_fool_come_to|又 一 个 傻 瓜 过 来 把 {他 的/她 的} 身 体 往 我 剑 上 撞， 是 吗？ 那 好， 放 马 过 来！ 
 qstr_We_re_not_afraid_of_|我 们 不 怕 你， {小 子/小 妞}。 是 时 候 打 暴 某 些 人 的 头 了！ 
 qstr_That_was_a_mistake._|那 是 一 个 错 误。 现 在 我 将 慢 慢 把 你 折 磨 到 死。 
-qstr_Brave_words._Let_s_s|豪 言 壮 语， 让 我 看 看 你 怎 么 用 行 动 来 支 持 它， 坏 蛋！ 
+qstr_Brave_words._Let_s_s|豪 言 壮 语， 让 我 看 看 你 怎 么 用 行 动 来 支 持 它， 杂 种！ 
 qstr_A_{s5}?_Well..._Yes_|{s5}？ 呃… … 是 的， 我 想 是 这 样。 问 了 一 个 多 么 奇 怪 的 问 题 啊。 
 qstr_Eh?_No_it_most_certa|是 吗？ 基 本 可 以 肯 定 那 不 是 一 个 {s5}。 如 果 我 是 你 的 话， 我 就 开 始 怀 疑 自 己 的 视 力 是 否 有 问 题。 
 qstr_This_is_the_{reg4?to|这 里 是 {s5}{reg4?镇:村}， {先 生/夫 人}。 
