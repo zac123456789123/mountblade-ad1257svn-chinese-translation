@@ -270,15 +270,15 @@ mno_continue|继 续
 menu_castle_attack_walls_with_allies_simulate|{s4}^^ 我 军 伤 亡： {s8}^^ 盟 军 伤 亡： {s9}^^ 敌 军 伤 亡： {s10}
 mno_continue|继 续 
 menu_castle_taken_by_friends|这 里 已 经 没 什 么 好 看 的 了。 
-menu_castle_taken|你 的 部 队 攻 陷 了 {s3}， 现 在 你 已 经 完 全 地 掌 控 了 这 个 {reg2? 城 镇 : 城 堡}。 {reg1? 你 可 以 在 这 里 驻 军 以 防 那 些 打 算 重 新 夺 回 它 的 敌 军。 同 时， 你 可 以 选 择 保 留 这 座 {reg2? 城 镇 : 城 堡}给 自 己 或 者 分 封 给 某 个 忠 诚 的 部 下… … :}
+menu_castle_taken|你 的 部 队 攻 陷 了 {s3}， 现 在 你 已 经 完 全 地 掌 控 了 这 个 {reg2? 城 镇:城 堡}。 {reg1? 你 可 以 在 这 里 驻 军 以 防 那 些 打 算 重 新 夺 回 它 的 敌 军。 同 时， 你 可 以 选 择 保 留 这 座 {reg2? 城 镇:城 堡} 给 自 己 或 者 分 封 给 某 个 忠 诚 的 部 下… … :}
 mno_continue|继 续 
 menu_castle_taken_2|你 的 部 队 攻 陷 了 {s3}， 现 在 你 已 经 完 全 地 掌 控 了 这 个 城 堡。 现 在 应 该 把 这 个 胜 利 的 消 息 告 诉 给 {s9}了。 {s5}
 mno_castle_taken_claim|要 求 他 把 {s3}封 给 你。 
 mno_castle_taken_claim_2|要 求 他 把 {s3}封 为 你 的 配 偶。 
 mno_castle_taken_no_claim|什 么 也 不 要 求。 
-menu_requested_castle_granted_to_player|你 从 你 的 国 王 {s3}那 里 得 到 通 知。 ^^ {reg4? 她 : 他}决 定 将 {s2}{reg3? 和 附 近 的 {s4}村 :}封 给 你， 附 带 那 里 所 有 的 收 入 和 权 益， 条 件 是 在 这 期 间 你 要 保 持 宣 誓 效 忠 于 {reg4? 她 : 他}的 名 下。 
+menu_requested_castle_granted_to_player|你 从 你 的 国 王 {s3}那 里 得 到 通 知。 ^^ {reg4? 她:他} 决 定 将 {s2}{reg3? 和 附 近 的 {s4}村 :}封 给 你， 附 带 那 里 所 有 的 收 入 和 权 益， 条 件 是 在 这 期 间 你 要 保 持 宣 誓 效 忠 于 {reg4? 她:他} 的 名 下。 
 mno_continue|继 续 
-menu_requested_castle_granted_to_player_husband|你 从 你 的 国 王 {s3}那 里 得 到 通 知。 ^^ {reg4? 她 : 他}决 定 将 {s2}{reg3? 和 附 近 的 {s4}村 :}封 给 你 的 丈 夫， ｛ s7 ｝。 
+menu_requested_castle_granted_to_player_husband|你 从 你 的 国 王 {s3}那 里 得 到 通 知。 ^^ {reg4? 她:他} 决 定 将 {s2}{reg3? 和 附 近 的 {s4}村 :}封 给 你 的 丈 夫， ｛ s7 ｝。 
 mno_continue|继 续 
 menu_requested_castle_granted_to_another|你 从 你 的 国 王 {s3}那 里 得 到 通 知。 ^^ 我 听 说 你 很 英 勇 地 战 斗 并 把 {s2}给 攻 下 来 了。 你 的 胜 利 极 大 的 鼓 舞 了 我 们。 你 说 过 你 想 要 我 把 这 个 地 方 封 给 你， 但 恐 怕 我 并 不 能 同 意 你 的 要 求， 因 为 在 我 统 治 的 范 围 内， 你 已 经 有 了 封 地。 所 以 我 送 你 {reg6}第 纳 尔 作 为 你 的 军 费 开 支， 而 {s2}， 我 把 它 封 给 {s5}了。 
 mno_accept_decision|接 受 你 的 君 主 的 决 定。 
@@ -292,7 +292,7 @@ mno_leave_faction_cancel|我 改 变 主 意 了。 我 还 是 对 我 的 君 
 menu_give_center_to_player|获 赐 新 封 地！ {s1}将 {s2}赏 赐 给 你。 你 的 选 择 是？ 
 mno_give_center_to_player_accept|接 受 这 个 建 议。 
 mno_give_center_to_player_reject|拒 绝， 你 不 想 要 {s2}。 
-menu_give_center_to_player_2|短 暂 的 仪 式 之 后， 你 已 受 封 新 封 地。 你 现 在 是 {s2}{reg3? 和 从 属 的 {s4}村 :}的 领 主。 {reg3? 它 们 : 它}会 成 为 你 新 的 封 地。 你 可 以 在 这 里 横 征 暴 敛， 拉 壮 丁。 但 你 也 得 保 证 这 里 的 安 全 和 秩 序。 
+menu_give_center_to_player_2|短 暂 的 仪 式 之 后， 你 已 受 封 新 封 地。 你 现 在 是 {s2}{reg3? 和 从 属 的 {s4}村 :}的 领 主。 {reg3? 它 们:它} 会 成 为 你 新 的 封 地。 你 可 以 在 这 里 横 征 暴 敛， 拉 壮 丁。 但 你 也 得 保 证 这 里 的 安 全 和 秩 序。 
 mno_continue|继 续 
 menu_oath_fulfilled|你 已 经 发 誓 为 {s1}服 务 一 段 时 间。 你 的 誓 言 已 经 完 结 了。 你 将 准 备 怎 么 办？ 
 mno_renew_oath|继 续 向 {s1}发 誓， 再 服 务 一 个 月。 
@@ -318,7 +318,7 @@ mno_village_attack_bandits|进 攻 强 盗。
 mno_village_wait|在 这 里 待 一 会 儿。 
 mno_dplmc_village_counter_insurgency|对 抗 暴 动。 
 mno_dplmc_village_negotiate|开 始 谈 判。 
-mno_collect_taxes_qst|为 {s1}{reg5? 继 续 征 税 : 征 税}。 
+mno_collect_taxes_qst|为 {s1}{reg5? 继 续 征 税:征 税}。 
 mno_train_peasants_against_bandits_qst|训 练 这 些 农 民。 
 mno_village_hostile_action|做 一 些 带 有 敌 意 的 事 情。 
 mno_village_leave|离 开… … 
@@ -339,9 +339,9 @@ mno_continue|继 续
 menu_village_infestation_removed|经 过 足 以 令 人 传 诵 的 英 勇 的 战 斗， 你 和 你 的 同 伴 打 败 了 强 盗。 这 个 村 子 再 次 安 全 了。 经 过 他 们 的 抢 劫 以 后， 村 民 几 乎 没 有 什 么 东 西 剩 下 了， 但 他 们 还 是 拿 出 了 任 何 他 们 有 的 东 西。 
 mno_village_bandits_defeated_accept|我 接 受 你 们 的 赠 品。 
 mno_village_bandits_defeated_cont|你 们 比 我 更 需 要 这 些 东 西。 你 们 的 感 谢 已 经 足 够 了。 
-menu_center_manage|{s19}^{reg6?^^ 你 现 在 正 在 建 造 {s7}。 这 个 建 筑 将 于 {reg8}{reg9? 日 : 日}后 完 成。 :}
+menu_center_manage|{s19}^{reg6?^^ 你 现 在 正 在 建 造 {s7}。 这 个 建 筑 将 于 {reg8}日 后 完 成。 :}
 mno_center_build_manor|建 造 一 个 庄 园。 
-mno_center_build_castle_1|为 庄 园 加 盖 防 御 工 事。 
+mno_center_build_castle_1|为 庄 园 加 盖 防 御 工 事。 （建 议 不 要 使 用， 有 bug）
 mno_center_build_fish_pond|建 造 一 座 磨 坊。 
 mno_center_build_watch_tower|建 造 一 个 了 望 塔。 
 mno_center_build_school|建 造 一 所 学 校。 
@@ -414,7 +414,7 @@ mno_walled_center_move_court|移 都 到 这 里。
 mno_castle_station_troops|管 理 {s10}驻 军 
 mno_castle_wait|在 这 里 休 息 一 会 儿 {s1}。 
 mno_recruit_volunteers|征 募 志 愿 兵。 
-mno_collect_taxes_qst|为 {s1}{reg5? 继 续 征 税 : 征 税}。 
+mno_collect_taxes_qst|为 {s1}{reg5? 继 续 征 税:征 税}。 
 mno_town_leave|离 开… … 
 mno_town_leave_door|离 开 此 地。 
 menu_cannot_enter_court|领 主 的 大 厅 里 正 在 举 行 一 场 宴 会， 但 是 你 还 没 有 足 够 资 格 进 入。 或 者 想 办 法 增 加 声 望 来 赢 得 入 场 劵， 或 者 在 竞 技 大 会 上 胜 出 也 是 个 捷 径。 
@@ -434,9 +434,9 @@ menu_town_tournament_lost|你 在 竞 技 大 会 中 被 淘 汰 了。 {s8}
 mno_continue|继 续 
 menu_town_tournament_won|你 在 {s3}的 竞 技 大 会 中 获 得 了 优 胜！ 听 到 周 围 的 人 们 高 呼 着 你 的 名 字， 你 感 到 无 限 荣 耀。 除 此 之 外， 你 还 获 得 了 {reg9}第 纳 尔 的 奖 金。 {s8}
 mno_continue|继 续 
-menu_town_tournament_won_by_another|作 为 当 日 最 终 的 胜 利 的 {reg3? 人 : 人}， {s1}赢 得 了 该 场 竞 技 大 会 的 奖 金 以 及 荣 誉。 
+menu_town_tournament_won_by_another|作 为 当 日 最 终 的 胜 利 的 {reg3? 人:人}， {s1}赢 得 了 该 场 竞 技 大 会 的 奖 金 以 及 荣 誉。 
 mno_continue|继 续 
-menu_town_tournament|{s1}你 现 在 处 于 竞 技 大 会 中 的 第 {reg0}轮， 现 在 还 剩 有 {reg1}名 参 与 者。 下 一 轮 中， 将 会 有 {reg2}队， 其 中 每 队 有 {reg3}{reg4? 人 : 人}参 加 战 斗。 
+menu_town_tournament|{s1}你 现 在 处 于 竞 技 大 会 中 的 第 {reg0}轮， 现 在 还 剩 有 {reg1}名 参 与 者。 下 一 轮 中， 将 会 有 {reg2}队， 其 中 每 队 有 {reg3}{reg4? 人:人} 参 加 战 斗。 
 mno_tournament_view_participants|察 看 参 与 者 名 单。 
 mno_tournament_bet|在 自 己 身 上 下 注。 
 mno_tournament_join_next_fight|进 入 下 一 轮。 
@@ -470,12 +470,12 @@ mno_continue|继 续
 menu_collect_taxes_revolt_warning|{s3}的 人 们 对 你 要 求 的 高 税 款 表 示 强 烈 的 义 愤。 如 果 你 继 续 压 迫 他 们， 他 们 将 准 备 起 来 反 抗。 
 mno_continue_collecting_taxes|依 然 像 以 前 那 样 征 税。 
 mno_halve_taxes|同 意 减 轻 一 半 的 税 款。 （{s1}也 许 会 不 满）。 
-menu_collect_taxes_revolt|当 你 在 {s3}收 取 税 款 的 时 候， 突 然 看 见 一 大 群 愤 怒 的 {reg9? 农 民 : 居 民}已 经 对 你 提 出 的 高 税 款 忍 无 可 忍， 正 挥 舞 着 火 把 和 武 器 逐 渐 向 你 逼 近。 这 是 要 向 你 开 战！ 
+menu_collect_taxes_revolt|当 你 在 {s3}收 取 税 款 的 时 候， 突 然 看 见 一 大 群 愤 怒 的 {reg9? 农 民:居 民} 已 经 对 你 提 出 的 高 税 款 忍 无 可 忍， 正 挥 舞 着 火 把 和 武 器 逐 渐 向 你 逼 近。 这 是 要 向 你 开 战！ 
 mno_continue|继 续 
 menu_train_peasants_against_bandits|队 员 中 最 高 训 练 技 能 为 {reg2}级， 由 此 {reg3? 你 预 期 :{s1}预 期}需 要 {reg4}小 时 来 进 行 理 论 讲 解， 使 这 些 农 民 变 成 英 勇 的 战 士。 在 这 期 间 他 们 将 会 学 到 战 斗 的 基 本 知 识 以 及 如 何 去 沉 着 冷 静 地 应 对 一 切 战 斗。 
 mno_make_preparation|训 练 他 们。 
 mno_train_later|待 会 再 说。 
-menu_train_peasants_against_bandits_ready|你 对 那 些 农 民 们 进 行 了 一 些 最 基 本 的 训 练， 你 认 为 他 们 中 的 {reg0}人 {reg1? 已 经 : 已 经}完 全 地 掌 握 了 训 练 的 内 容， {reg1? 他 们 : 他}已 经 准 备 好 进 行 实 战 演 习 了。 
+menu_train_peasants_against_bandits_ready|你 对 那 些 农 民 们 进 行 了 一 些 最 基 本 的 训 练， 你 认 为 他 们 中 的 {reg0}人 {reg1? 已 经:已 经} 完 全 地 掌 握 了 训 练 的 内 容， {reg1? 他 们:他} 已 经 准 备 好 进 行 实 战 演 习 了。 
 mno_peasant_start_practice|开 始 演 习。 
 menu_train_peasants_against_bandits_training_result|{s0}
 mno_continue|继 续 
