@@ -454,26 +454,18 @@ trp_balt_billman|Kirvininkas
 trp_balt_billman_pl|Kirvininkai
 trp_balt_veteran_billman|Kirvininkas Veteranas
 trp_balt_veteran_billman_pl|Kirvininkai Veteranai
-trp_balt_bills_sergeant|Kirvių Viršaitis
-trp_balt_bills_sergeant_pl|Kirvių Viršaičiai
 trp_balt_spearman|Ietininkas
 trp_balt_spearman_pl|Ietininkai
 trp_balt_veteran_spearman|Ietininkas Veteranas
 trp_balt_veteran_spearman_pl|Veteranai Ietininkai
-trp_balt_spears_sergeant|Iečių Viršaitis
-trp_balt_spears_sergeant_pl|Iečių Viršaiciai
 trp_balt_archer|Lankininkas
 trp_balt_archer_pl|Lankininkai
 trp_balt_veteran_archer|Lankininkas Veteranas
 trp_balt_veteran_archer_pl|Veteranai Lankininkai
-trp_balt_bows_sergeant|Lankų Viršaitis
-trp_balt_bows_sergeant_pl|Lankų Viršaiciai
 trp_balt_jav|Akstininkas 
 trp_balt_jav_pl|Akstininkai
 trp_balt_veteran_jav|Akstininkas Veteranas
 trp_balt_veteran_jav_pl|Akstininkai Veteranai
-trp_balt_jav_sergeant|Aksčių Viršaitis
-trp_balt_jav_sergeant_pl|Aksčių Viršaitis Viršaitiai
 trp_balt_noble_recruit|Mažasis Bajoras
 trp_balt_noble_recruit_pl|Mažieji Bajorai
 trp_balt_mounted_skirmisher|Raitas Bajoras
@@ -562,12 +554,6 @@ trp_sarranid_deserter|Saracen Deserter
 trp_sarranid_deserter_pl|Saracen Deserters
 trp_sarranid_prison_guard|Prison Guard
 trp_sarranid_prison_guard_pl|Prison Guards
-trp_balt_horseman|Raitas Ietininkas
-trp_balt_horseman_pl|Raiti Ietininkai
-trp_balt_mounted_spearman|Leičių Raitelis
-trp_balt_mounted_spearman_pl|Leičių Raiteliai
-trp_balt_lancer|Leičių Bajoras
-trp_balt_lancer_pl|Leičių Bajorai
 trp_french_chevalier|Chevalier
 trp_french_chevalier_pl|Chevaliers
 trp_welsh_bowmen|Welsh Bowman

@@ -722,31 +722,31 @@ p_ship_60|60
 p_ship_61|61
 p_ship_62|62
 p_ship_63|63
-p_taiga_bandit_spawn_point_1|the tundra
+p_taiga_bandit_spawn_point_1|the tundra 1
 p_taiga_bandit_spawn_point_2|the tundra 2
-p_steppe_bandit_spawn_point_1|the steppes
+p_steppe_bandit_spawn_point_1|the steppes 1
 p_steppe_bandit_spawn_point_2|the steppes 2
-p_forest_bandit_spawn_point_1|the forests
-p_forest_bandit_spawn_point_2|the forests
+p_forest_bandit_spawn_point_1|the forests 1
+p_forest_bandit_spawn_point_2|the forests 2
 p_forest_bandit_spawn_point_3|the forests 3
 p_forest_bandit_spawn_point_4|the forests 4
 p_forest_bandit_spawn_point_5|the forests 5
 p_forest_bandit_spawn_point_6|the forests 6
 p_forest_bandit_spawn_point_7|the forests 7
-p_mountain_bandit_spawn_point_1|the highways
-p_mountain_bandit_spawn_point_2|the highways
-p_mountain_bandit_spawn_point_3|the highways
-p_mountain_bandit_spawn_point_4|the highways
-p_mountain_bandit_spawn_point_5|the highways
-p_mountain_bandit_spawn_point_6|the highways
-p_mountain_bandit_spawn_point_7|the highways
-p_mountain_bandit_spawn_point_8|the highways
-p_mountain_bandit_spawn_point_9|the highways
-p_mountain_bandit_spawn_point_10|the highways
-p_mountain_bandit_spawn_point_11|the highways
-p_mountain_bandit_spawn_point_12|the highways
-p_mountain_bandit_spawn_point_13|the highways
-p_mountain_bandit_spawn_point_14|the highways
+p_mountain_bandit_spawn_point_1|the highways 1
+p_mountain_bandit_spawn_point_2|the highways 2
+p_mountain_bandit_spawn_point_3|the highways 3
+p_mountain_bandit_spawn_point_4|the highways 4
+p_mountain_bandit_spawn_point_5|the highways 5
+p_mountain_bandit_spawn_point_6|the highways 6
+p_mountain_bandit_spawn_point_7|the highways 7
+p_mountain_bandit_spawn_point_8|the highways 8
+p_mountain_bandit_spawn_point_9|the highways 9
+p_mountain_bandit_spawn_point_10|the highways 10
+p_mountain_bandit_spawn_point_11|the highways 11
+p_mountain_bandit_spawn_point_12|the highways 12
+p_mountain_bandit_spawn_point_13|the highways 13
+p_mountain_bandit_spawn_point_14|the highways 14
 p_mountain_bandit_spawn_point_15|the highways 15
 p_mountain_bandit_spawn_point_16|the highways 16
 p_mountain_bandit_spawn_point_17|the highways 17
@@ -754,26 +754,26 @@ p_mountain_bandit_spawn_point_18|the highways 18
 p_mountain_bandit_spawn_point_19|the highways 19
 p_mountain_bandit_spawn_point_20|the highways 20
 p_mountain_bandit_spawn_point_21|the highways 21
-p_sea_raider_spawn_point_1|the coast
-p_sea_raider_spawn_point_2|the coast
-p_sea_raider_spawn_point_3|the coast
-p_sea_raider_spawn_point_4|the coast
-p_sea_raider_spawn_point_5|the coast
-p_sea_raider_spawn_point_6|the coast
-p_sea_raider_spawn_point_7|the coast
-p_sea_raider_spawn_point_8|the coast
-p_sea_raider_spawn_point_9|the coast
-p_sea_raider_spawn_point_10|the coast
-p_sea_raider_spawn_point_11|the coast
-p_sea_raider_spawn_point_12|the coast
+p_sea_raider_spawn_point_1|the coast 1
+p_sea_raider_spawn_point_2|the coast 2
+p_sea_raider_spawn_point_3|the coast 3
+p_sea_raider_spawn_point_4|the coast 4
+p_sea_raider_spawn_point_5|the coast 5
+p_sea_raider_spawn_point_6|the coast 6
+p_sea_raider_spawn_point_7|the coast 7
+p_sea_raider_spawn_point_8|the coast 8
+p_sea_raider_spawn_point_9|the coast 9
+p_sea_raider_spawn_point_10|the coast 10
+p_sea_raider_spawn_point_11|the coast 11
+p_sea_raider_spawn_point_12|the coast 12
 p_sea_raider_spawn_point_13|the coast 13
 p_sea_raider_spawn_point_14|the coast 14
 p_sea_raider_spawn_point_15|the coast 15
 p_sea_raider_spawn_point_16|the coast 16
 p_sea_raider_spawn_point_17|the coast 17
-p_desert_bandit_spawn_point_1|the deserts
-p_desert_bandit_spawn_point_2|the deserts
-p_desert_bandit_spawn_point_3|the deserts
+p_desert_bandit_spawn_point_1|the desert 1
+p_desert_bandit_spawn_point_2|the desert 2
+p_desert_bandit_spawn_point_3|the desert 3
 p_desert_bandit_spawn_point_4|the desert 4
 p_desert_bandit_spawn_point_5|the desert 5
 p_pagan_stronghold|Prussian Stronghold

@@ -884,372 +884,386 @@ mno_pagan_stronghold_leave|Leave.
 menu_choose_scenes_0|Choose a scene: (Page 1 of 23)
 mno_back|Go back.
 mno_next|Next...
-mno_choose_scene_0|acre center: generate
-mno_choose_scene_1|acre walls: generate
-mno_choose_scene_2|camp scene: generate|auto entry points
-mno_choose_scene_3|camp scene horse track: generate|auto entry points
-mno_choose_scene_4|castle interior arab: indoors
-mno_choose_scene_5|castle interior eastern: indoors
-mno_choose_scene_6|castle interior euro: indoors
-mno_choose_scene_7|castle interior iberia: indoors
-mno_choose_scene_8|castle interior italy: indoors
-mno_choose_scene_9|castle interior mongol: indoors
-mno_choose_scene_10|castle interior nordic: indoors
-mno_choose_scene_11|castle player 1: generate
-mno_choose_scene_12|castle player 2: generate
+mno_choose_scene_0|aachen center: generate
+mno_choose_scene_1|aachen walls: generate
+mno_choose_scene_2|acre center: generate
+mno_choose_scene_3|acre walls: generate
+mno_choose_scene_4|bristol walls: generate
+mno_choose_scene_5|camp scene: generate|auto entry points
+mno_choose_scene_6|camp scene horse track: generate|auto entry points
+mno_choose_scene_7|castle interior arab: indoors
+mno_choose_scene_8|castle interior eastern: indoors
+mno_choose_scene_9|castle interior euro: indoors
+mno_choose_scene_10|castle interior iberia: indoors
+mno_choose_scene_11|castle interior italy: indoors
+mno_choose_scene_12|castle interior mongol: indoors
 menu_choose_scenes_13|Choose a scene: (Page 2 of 23)
 mno_back|Go back.
 mno_next|Next...
 mno_previous|Previous...
-mno_choose_scene_13|castle player 3: generate
-mno_choose_scene_14|castle prison arab: indoors
-mno_choose_scene_15|castle prison eastern: indoors
-mno_choose_scene_16|castle prison euro: indoors
-mno_choose_scene_17|castle prison iberia: indoors
-mno_choose_scene_18|castle prison italy: indoors
-mno_choose_scene_19|castle prison mongol: indoors
-mno_choose_scene_20|castle prison nordic: indoors
-mno_choose_scene_21|castle walls arab: generate
-mno_choose_scene_22|castle walls eastern: generate
-mno_choose_scene_23|castle walls euro: generate
-mno_choose_scene_24|castle walls iberia: generate
-mno_choose_scene_25|castle walls italy: generate
+mno_choose_scene_13|castle interior nordic: indoors
+mno_choose_scene_14|castle player 1: generate
+mno_choose_scene_15|castle player 2: generate
+mno_choose_scene_16|castle player 3: generate
+mno_choose_scene_17|castle prison arab: indoors
+mno_choose_scene_18|castle prison eastern: indoors
+mno_choose_scene_19|castle prison euro: indoors
+mno_choose_scene_20|castle prison iberia: indoors
+mno_choose_scene_21|castle prison italy: indoors
+mno_choose_scene_22|castle prison mongol: indoors
+mno_choose_scene_23|castle prison nordic: indoors
+mno_choose_scene_24|castle walls arab: generate
+mno_choose_scene_25|castle walls eastern: generate
 menu_choose_scenes_26|Choose a scene: (Page 3 of 23)
 mno_back|Go back.
 mno_next|Next...
 mno_previous|Previous...
-mno_choose_scene_26|castle walls mongol: generate
-mno_choose_scene_27|castle walls nordic: generate
-mno_choose_scene_28|conversation scene: generate
-mno_choose_scene_29|den bosch: generate
-mno_choose_scene_30|dhorak keep: generate
-mno_choose_scene_31|enterprise brewery: indoors
-mno_choose_scene_32|enterprise dyeworks: indoors
-mno_choose_scene_33|enterprise linen weavery: indoors
-mno_choose_scene_34|enterprise mill: indoors
-mno_choose_scene_35|enterprise oil press: indoors
-mno_choose_scene_36|enterprise smithy: indoors
-mno_choose_scene_37|enterprise tannery: generate
-mno_choose_scene_38|enterprise winery: indoors
+mno_choose_scene_26|castle walls euro: generate
+mno_choose_scene_27|castle walls iberia: generate
+mno_choose_scene_28|castle walls italy: generate
+mno_choose_scene_29|castle walls mongol: generate
+mno_choose_scene_30|castle walls nordic: generate
+mno_choose_scene_31|conversation scene: generate
+mno_choose_scene_32|den bosch: generate
+mno_choose_scene_33|dhorak keep: generate
+mno_choose_scene_34|enterprise brewery: indoors
+mno_choose_scene_35|enterprise dyeworks: indoors
+mno_choose_scene_36|enterprise linen weavery: indoors
+mno_choose_scene_37|enterprise mill: indoors
+mno_choose_scene_38|enterprise oil press: indoors
 menu_choose_scenes_39|Choose a scene: (Page 4 of 23)
 mno_back|Go back.
 mno_next|Next...
 mno_previous|Previous...
-mno_choose_scene_39|enterprise wool weavery: indoors
-mno_choose_scene_40|field 1: generate
-mno_choose_scene_41|field 2: generate
-mno_choose_scene_42|field 3: generate
-mno_choose_scene_43|field 4: generate
-mno_choose_scene_44|field 5: generate
-mno_choose_scene_45|four ways inn: generate
-mno_choose_scene_46|interior moscow: indoors
-mno_choose_scene_47|interior motte bailey 1: indoors
-mno_choose_scene_48|interior motte bailey 2: indoors
-mno_choose_scene_49|lair desert bandits: generate
-mno_choose_scene_50|lair forest bandits: generate
-mno_choose_scene_51|lair mountain bandits: generate
+mno_choose_scene_39|enterprise smithy: indoors
+mno_choose_scene_40|enterprise tannery: generate
+mno_choose_scene_41|enterprise winery: indoors
+mno_choose_scene_42|enterprise wool weavery: indoors
+mno_choose_scene_43|field 1: generate
+mno_choose_scene_44|field 2: generate
+mno_choose_scene_45|field 3: generate
+mno_choose_scene_46|field 4: generate
+mno_choose_scene_47|field 5: generate
+mno_choose_scene_48|four ways inn: generate
+mno_choose_scene_49|interior moscow: indoors
+mno_choose_scene_50|interior motte bailey 1: indoors
+mno_choose_scene_51|interior motte bailey 2: indoors
 menu_choose_scenes_52|Choose a scene: (Page 5 of 23)
 mno_back|Go back.
 mno_next|Next...
 mno_previous|Previous...
-mno_choose_scene_52|lair sea raiders: generate
-mno_choose_scene_53|lair steppe bandits: generate
-mno_choose_scene_54|lair taiga bandits: generate
-mno_choose_scene_55|meeting scene desert: generate
-mno_choose_scene_56|meeting scene desert forest: generate
-mno_choose_scene_57|meeting scene plain: generate
-mno_choose_scene_58|meeting scene plain forest: generate
-mno_choose_scene_59|meeting scene sea: generate
-mno_choose_scene_60|meeting scene snow: generate
-mno_choose_scene_61|meeting scene snow forest: generate
-mno_choose_scene_62|meeting scene steppe: generate
-mno_choose_scene_63|meeting scene steppe forest: generate
-mno_choose_scene_64|multi scene 1: generate
+mno_choose_scene_52|lair desert bandits: generate
+mno_choose_scene_53|lair forest bandits: generate
+mno_choose_scene_54|lair mountain bandits: generate
+mno_choose_scene_55|lair sea raiders: generate
+mno_choose_scene_56|lair steppe bandits: generate
+mno_choose_scene_57|lair taiga bandits: generate
+mno_choose_scene_58|meeting scene desert: generate
+mno_choose_scene_59|meeting scene desert forest: generate
+mno_choose_scene_60|meeting scene plain: generate
+mno_choose_scene_61|meeting scene plain forest: generate
+mno_choose_scene_62|meeting scene sea: generate
+mno_choose_scene_63|meeting scene snow: generate
+mno_choose_scene_64|meeting scene snow forest: generate
 menu_choose_scenes_65|Choose a scene: (Page 6 of 23)
 mno_back|Go back.
 mno_next|Next...
 mno_previous|Previous...
-mno_choose_scene_65|multi scene 10: generate
-mno_choose_scene_66|multi scene 11: generate
-mno_choose_scene_67|multi scene 12: generate
-mno_choose_scene_68|multi scene 13: generate
-mno_choose_scene_69|multi scene 14: generate
-mno_choose_scene_70|multi scene 15: generate
-mno_choose_scene_71|multi scene 16: generate
-mno_choose_scene_72|multi scene 17: generate
-mno_choose_scene_73|multi scene 18: generate|muddy water
-mno_choose_scene_74|multi scene 2: generate
-mno_choose_scene_75|multi scene 3: generate
-mno_choose_scene_76|multi scene 4: generate
-mno_choose_scene_77|multi scene 5: generate
+mno_choose_scene_65|meeting scene steppe: generate
+mno_choose_scene_66|meeting scene steppe forest: generate
+mno_choose_scene_67|multi scene 1: generate
+mno_choose_scene_68|multi scene 10: generate
+mno_choose_scene_69|multi scene 11: generate
+mno_choose_scene_70|multi scene 12: generate
+mno_choose_scene_71|multi scene 13: generate
+mno_choose_scene_72|multi scene 14: generate
+mno_choose_scene_73|multi scene 15: generate
+mno_choose_scene_74|multi scene 16: generate
+mno_choose_scene_75|multi scene 17: generate
+mno_choose_scene_76|multi scene 18: generate|muddy water
+mno_choose_scene_77|multi scene 2: generate
 menu_choose_scenes_78|Choose a scene: (Page 7 of 23)
 mno_back|Go back.
 mno_next|Next...
 mno_previous|Previous...
-mno_choose_scene_78|multi scene 6: generate
-mno_choose_scene_79|multi scene 7: generate
-mno_choose_scene_80|multi scene 8: generate
-mno_choose_scene_81|multi scene 9: generate
-mno_choose_scene_82|multiplayer maps end: generate
-mno_choose_scene_83|novice ground: indoors
-mno_choose_scene_84|pagan stronghold 1: generate
-mno_choose_scene_85|prison motte bailey 1: indoors
-mno_choose_scene_86|prison motte bailey 2: indoors
-mno_choose_scene_87|quick battle 1: generate
-mno_choose_scene_88|quick battle 2: generate
-mno_choose_scene_89|quick battle 3: generate
-mno_choose_scene_90|quick battle 4: generate
+mno_choose_scene_78|multi scene 3: generate
+mno_choose_scene_79|multi scene 4: generate
+mno_choose_scene_80|multi scene 5: generate
+mno_choose_scene_81|multi scene 6: generate
+mno_choose_scene_82|multi scene 7: generate
+mno_choose_scene_83|multi scene 8: generate
+mno_choose_scene_84|multi scene 9: generate
+mno_choose_scene_85|multiplayer maps end: generate
+mno_choose_scene_86|novice ground: indoors
+mno_choose_scene_87|oslo center: generate
+mno_choose_scene_88|pagan stronghold 1: generate
+mno_choose_scene_89|prison motte bailey 1: indoors
+mno_choose_scene_90|prison motte bailey 2: indoors
 menu_choose_scenes_91|Choose a scene: (Page 8 of 23)
 mno_back|Go back.
 mno_next|Next...
 mno_previous|Previous...
-mno_choose_scene_91|quick battle 5: generate
-mno_choose_scene_92|quick battle 6: generate
-mno_choose_scene_93|quick battle 7: generate
-mno_choose_scene_94|quick battle maps end: generate
-mno_choose_scene_95|quick battle scene 1: generate
-mno_choose_scene_96|quick battle scene 2: generate
-mno_choose_scene_97|quick battle scene 3: generate
-mno_choose_scene_98|quick battle scene 4: generate
-mno_choose_scene_99|quick battle scene 5: generate
-mno_choose_scene_100|random multi plain large: generate|auto entry points|randomize
-mno_choose_scene_101|random multi plain medium: generate|auto entry points|randomize
-mno_choose_scene_102|random multi steppe large: generate|auto entry points|randomize
-mno_choose_scene_103|random multi steppe medium: generate|auto entry points|randomize
+mno_choose_scene_91|quick battle 1: generate
+mno_choose_scene_92|quick battle 2: generate
+mno_choose_scene_93|quick battle 3: generate
+mno_choose_scene_94|quick battle 4: generate
+mno_choose_scene_95|quick battle 5: generate
+mno_choose_scene_96|quick battle 6: generate
+mno_choose_scene_97|quick battle 7: generate
+mno_choose_scene_98|quick battle maps end: generate
+mno_choose_scene_99|quick battle scene 1: generate
+mno_choose_scene_100|quick battle scene 2: generate
+mno_choose_scene_101|quick battle scene 3: generate
+mno_choose_scene_102|quick battle scene 4: generate
+mno_choose_scene_103|quick battle scene 5: generate
 menu_choose_scenes_104|Choose a scene: (Page 9 of 23)
 mno_back|Go back.
 mno_next|Next...
 mno_previous|Previous...
-mno_choose_scene_104|random scene: generate|auto entry points|randomize
-mno_choose_scene_105|random scene desert: generate|auto entry points|randomize
-mno_choose_scene_106|random scene desert forest: generate|auto entry points|randomize
-mno_choose_scene_107|random scene plain: generate|auto entry points|randomize
-mno_choose_scene_108|random scene plain forest: generate|auto entry points|randomize
-mno_choose_scene_109|random scene snow: generate|auto entry points|randomize
-mno_choose_scene_110|random scene snow forest: generate|auto entry points|randomize
-mno_choose_scene_111|random scene steppe: generate|auto entry points|randomize
-mno_choose_scene_112|random scene steppe forest: generate|auto entry points|randomize
-mno_choose_scene_113|reserved10
-mno_choose_scene_114|reserved11
-mno_choose_scene_115|reserved12: indoors
-mno_choose_scene_116|reserved4: generate
+mno_choose_scene_104|random multi plain large: generate|auto entry points|randomize
+mno_choose_scene_105|random multi plain medium: generate|auto entry points|randomize
+mno_choose_scene_106|random multi steppe large: generate|auto entry points|randomize
+mno_choose_scene_107|random multi steppe medium: generate|auto entry points|randomize
+mno_choose_scene_108|random scene: generate|auto entry points|randomize
+mno_choose_scene_109|random scene desert: generate|auto entry points|randomize
+mno_choose_scene_110|random scene desert forest: generate|auto entry points|randomize
+mno_choose_scene_111|random scene plain: generate|auto entry points|randomize
+mno_choose_scene_112|random scene plain forest: generate|auto entry points|randomize
+mno_choose_scene_113|random scene snow: generate|auto entry points|randomize
+mno_choose_scene_114|random scene snow forest: generate|auto entry points|randomize
+mno_choose_scene_115|random scene steppe: generate|auto entry points|randomize
+mno_choose_scene_116|random scene steppe forest: generate|auto entry points|randomize
 menu_choose_scenes_117|Choose a scene: (Page 10 of 23)
 mno_back|Go back.
 mno_next|Next...
 mno_previous|Previous...
-mno_choose_scene_117|reserved5: generate
-mno_choose_scene_118|reserved6: generate
-mno_choose_scene_119|reserved7: generate
-mno_choose_scene_120|reserved8: generate
-mno_choose_scene_121|reserved9: indoors
-mno_choose_scene_122|salt mine: generate
-mno_choose_scene_123|scene sea: generate
-mno_choose_scene_124|scene sea player eastern vs generic: generate
-mno_choose_scene_125|scene sea player eastern vs nordic: generate
-mno_choose_scene_126|scene sea player generic vs eastern: generate
-mno_choose_scene_127|scene sea player generic vs nordic: generate
-mno_choose_scene_128|scene sea player nord vs eastern: generate
-mno_choose_scene_129|scene sea player nord vs generic: generate
+mno_choose_scene_117|reserved10
+mno_choose_scene_118|reserved11
+mno_choose_scene_119|reserved12: indoors
+mno_choose_scene_120|reserved4: generate
+mno_choose_scene_121|reserved5: generate
+mno_choose_scene_122|reserved6: generate
+mno_choose_scene_123|reserved7: generate
+mno_choose_scene_124|reserved8: generate
+mno_choose_scene_125|reserved9: indoors
+mno_choose_scene_126|salt mine: generate
+mno_choose_scene_127|scene sea: generate
+mno_choose_scene_128|scene sea player eastern vs generic: generate
+mno_choose_scene_129|scene sea player eastern vs nordic: generate
 menu_choose_scenes_130|Choose a scene: (Page 11 of 23)
 mno_back|Go back.
 mno_next|Next...
 mno_previous|Previous...
-mno_choose_scene_130|test2: generate
-mno_choose_scene_131|test3: generate
-mno_choose_scene_132|test scene: generate
-mno_choose_scene_133|the happy boar: indoors
-mno_choose_scene_134|town 10 1 room: indoors
-mno_choose_scene_135|town 11 2 room: indoors
-mno_choose_scene_136|town 13 room: indoors
-mno_choose_scene_137|town 14 1 room: indoors
-mno_choose_scene_138|town 1 room: indoors
-mno_choose_scene_139|town 21 room: indoors
-mno_choose_scene_140|town 29 room: indoors
-mno_choose_scene_141|town 30 room: indoors
-mno_choose_scene_142|town 40 room: indoors
+mno_choose_scene_130|scene sea player generic vs eastern: generate
+mno_choose_scene_131|scene sea player generic vs nordic: generate
+mno_choose_scene_132|scene sea player nord vs eastern: generate
+mno_choose_scene_133|scene sea player nord vs generic: generate
+mno_choose_scene_134|test2: generate
+mno_choose_scene_135|test3: generate
+mno_choose_scene_136|test scene: generate
+mno_choose_scene_137|the happy boar: indoors
+mno_choose_scene_138|town 10 1 room: indoors
+mno_choose_scene_139|town 11 2 room: indoors
+mno_choose_scene_140|town 13 room: indoors
+mno_choose_scene_141|town 14 1 room: indoors
+mno_choose_scene_142|town 1 room: indoors
 menu_choose_scenes_143|Choose a scene: (Page 12 of 23)
 mno_back|Go back.
 mno_next|Next...
 mno_previous|Previous...
-mno_choose_scene_143|town 42 room: indoors
-mno_choose_scene_144|town 4 1 room: indoors
-mno_choose_scene_145|town 5 room: indoors
-mno_choose_scene_146|town 6 1 room: indoors
-mno_choose_scene_147|town 9 room: indoors
-mno_choose_scene_148|town arab alley: generate
-mno_choose_scene_149|town arab arena: generate
-mno_choose_scene_150|town arab castle: indoors
-mno_choose_scene_151|town arab center: generate
-mno_choose_scene_152|town arab prison: indoors
-mno_choose_scene_153|town arab store: indoors
-mno_choose_scene_154|town arab tavern: indoors
-mno_choose_scene_155|town arab walls: generate
+mno_choose_scene_143|town 21 room: indoors
+mno_choose_scene_144|town 29 room: indoors
+mno_choose_scene_145|town 30 room: indoors
+mno_choose_scene_146|town 40 room: indoors
+mno_choose_scene_147|town 42 room: indoors
+mno_choose_scene_148|town 4 1 room: indoors
+mno_choose_scene_149|town 5 room: indoors
+mno_choose_scene_150|town 6 1 room: indoors
+mno_choose_scene_151|town 9 room: indoors
+mno_choose_scene_152|town arab alley: generate
+mno_choose_scene_153|town arab arena: generate
+mno_choose_scene_154|town arab castle: indoors
+mno_choose_scene_155|town arab center: generate
 menu_choose_scenes_156|Choose a scene: (Page 13 of 23)
 mno_back|Go back.
 mno_next|Next...
 mno_previous|Previous...
-mno_choose_scene_156|town baltic alley: generate
-mno_choose_scene_157|town baltic arena: generate
-mno_choose_scene_158|town baltic castle: indoors
-mno_choose_scene_159|town baltic center: generate
-mno_choose_scene_160|town baltic prison: indoors
-mno_choose_scene_161|town baltic store: indoors
-mno_choose_scene_162|town baltic tavern: indoors
-mno_choose_scene_163|town baltic walls: generate
-mno_choose_scene_164|town eastern alley: generate
-mno_choose_scene_165|town eastern arena: generate
-mno_choose_scene_166|town eastern castle: indoors
-mno_choose_scene_167|town eastern center: generate
-mno_choose_scene_168|town eastern prison: indoors
+mno_choose_scene_156|town arab prison: indoors
+mno_choose_scene_157|town arab store: indoors
+mno_choose_scene_158|town arab tavern: indoors
+mno_choose_scene_159|town arab walls: generate
+mno_choose_scene_160|town baltic alley: generate
+mno_choose_scene_161|town baltic arena: generate
+mno_choose_scene_162|town baltic castle: indoors
+mno_choose_scene_163|town baltic center: generate
+mno_choose_scene_164|town baltic prison: indoors
+mno_choose_scene_165|town baltic store: indoors
+mno_choose_scene_166|town baltic tavern: indoors
+mno_choose_scene_167|town baltic walls: generate
+mno_choose_scene_168|town eastern alley: generate
 menu_choose_scenes_169|Choose a scene: (Page 14 of 23)
 mno_back|Go back.
 mno_next|Next...
 mno_previous|Previous...
-mno_choose_scene_169|town eastern store: indoors
-mno_choose_scene_170|town eastern tavern: indoors
-mno_choose_scene_171|town eastern walls: generate
-mno_choose_scene_172|town euro alley: generate
-mno_choose_scene_173|town euro arena: generate
-mno_choose_scene_174|town euro castle: indoors
-mno_choose_scene_175|town euro center: generate
-mno_choose_scene_176|town euro prison: indoors
-mno_choose_scene_177|town euro store: indoors
-mno_choose_scene_178|town euro tavern: indoors
-mno_choose_scene_179|town euro walls: generate
-mno_choose_scene_180|town italy walls: generate
-mno_choose_scene_181|town mongol alley: generate
+mno_choose_scene_169|town eastern arena: generate
+mno_choose_scene_170|town eastern castle: indoors
+mno_choose_scene_171|town eastern center: generate
+mno_choose_scene_172|town eastern prison: indoors
+mno_choose_scene_173|town eastern store: indoors
+mno_choose_scene_174|town eastern tavern: indoors
+mno_choose_scene_175|town eastern walls: generate
+mno_choose_scene_176|town euro alley: generate
+mno_choose_scene_177|town euro arena: generate
+mno_choose_scene_178|town euro castle: indoors
+mno_choose_scene_179|town euro center: generate
+mno_choose_scene_180|town euro prison: indoors
+mno_choose_scene_181|town euro store: indoors
 menu_choose_scenes_182|Choose a scene: (Page 15 of 23)
 mno_back|Go back.
 mno_next|Next...
 mno_previous|Previous...
-mno_choose_scene_182|town mongol arena: generate
-mno_choose_scene_183|town mongol castle: generate
-mno_choose_scene_184|town mongol center: generate
-mno_choose_scene_185|town mongol prison: indoors
-mno_choose_scene_186|town mongol room: indoors
-mno_choose_scene_187|town mongol store: indoors
-mno_choose_scene_188|town mongol tavern: indoors
-mno_choose_scene_189|town mongol walls: generate
-mno_choose_scene_190|town nordic alley: generate
-mno_choose_scene_191|town nordic arena: generate
-mno_choose_scene_192|town nordic castle: indoors
-mno_choose_scene_193|town nordic center: generate
-mno_choose_scene_194|town nordic prison: indoors
+mno_choose_scene_182|town euro tavern: indoors
+mno_choose_scene_183|town euro walls: generate
+mno_choose_scene_184|town italy walls: generate
+mno_choose_scene_185|town mongol alley: generate
+mno_choose_scene_186|town mongol arena: generate
+mno_choose_scene_187|town mongol castle: generate
+mno_choose_scene_188|town mongol center: generate
+mno_choose_scene_189|town mongol prison: indoors
+mno_choose_scene_190|town mongol room: indoors
+mno_choose_scene_191|town mongol store: indoors
+mno_choose_scene_192|town mongol tavern: indoors
+mno_choose_scene_193|town mongol walls: generate
+mno_choose_scene_194|town nordic alley: generate
 menu_choose_scenes_195|Choose a scene: (Page 16 of 23)
 mno_back|Go back.
 mno_next|Next...
 mno_previous|Previous...
-mno_choose_scene_195|town nordic store: indoors
-mno_choose_scene_196|town nordic tavern: indoors
-mno_choose_scene_197|town nordic walls: generate
-mno_choose_scene_198|training ground: generate
-mno_choose_scene_199|training ground horse track 1: generate
-mno_choose_scene_200|training ground horse track 10: generate
-mno_choose_scene_201|training ground horse track 11: generate
-mno_choose_scene_202|training ground horse track 12: generate
-mno_choose_scene_203|training ground horse track 13: generate
-mno_choose_scene_204|training ground horse track 14: generate
-mno_choose_scene_205|training ground horse track 15: generate
-mno_choose_scene_206|training ground horse track 16: generate
-mno_choose_scene_207|training ground horse track 17: generate
+mno_choose_scene_195|town nordic arena: generate
+mno_choose_scene_196|town nordic castle: indoors
+mno_choose_scene_197|town nordic center: generate
+mno_choose_scene_198|town nordic prison: indoors
+mno_choose_scene_199|town nordic store: indoors
+mno_choose_scene_200|town nordic tavern: indoors
+mno_choose_scene_201|town nordic walls: generate
+mno_choose_scene_202|training ground: generate
+mno_choose_scene_203|training ground horse track 1: generate
+mno_choose_scene_204|training ground horse track 10: generate
+mno_choose_scene_205|training ground horse track 11: generate
+mno_choose_scene_206|training ground horse track 12: generate
+mno_choose_scene_207|training ground horse track 13: generate
 menu_choose_scenes_208|Choose a scene: (Page 17 of 23)
 mno_back|Go back.
 mno_next|Next...
 mno_previous|Previous...
-mno_choose_scene_208|training ground horse track 18: generate
-mno_choose_scene_209|training ground horse track 2: generate
-mno_choose_scene_210|training ground horse track 3: generate
-mno_choose_scene_211|training ground horse track 4: generate
-mno_choose_scene_212|training ground horse track 5: generate
-mno_choose_scene_213|training ground horse track 5: generate
-mno_choose_scene_214|training ground horse track 6: generate
-mno_choose_scene_215|training ground horse track 7: generate
-mno_choose_scene_216|training ground horse track 8: generate
-mno_choose_scene_217|training ground horse track 9: generate
-mno_choose_scene_218|training ground ranged melee 1: generate
-mno_choose_scene_219|training ground ranged melee 10: generate
-mno_choose_scene_220|training ground ranged melee 11: generate
+mno_choose_scene_208|training ground horse track 14: generate
+mno_choose_scene_209|training ground horse track 15: generate
+mno_choose_scene_210|training ground horse track 16: generate
+mno_choose_scene_211|training ground horse track 17: generate
+mno_choose_scene_212|training ground horse track 18: generate
+mno_choose_scene_213|training ground horse track 2: generate
+mno_choose_scene_214|training ground horse track 3: generate
+mno_choose_scene_215|training ground horse track 4: generate
+mno_choose_scene_216|training ground horse track 5: generate
+mno_choose_scene_217|training ground horse track 5: generate
+mno_choose_scene_218|training ground horse track 6: generate
+mno_choose_scene_219|training ground horse track 7: generate
+mno_choose_scene_220|training ground horse track 8: generate
 menu_choose_scenes_221|Choose a scene: (Page 18 of 23)
 mno_back|Go back.
 mno_next|Next...
 mno_previous|Previous...
-mno_choose_scene_221|training ground ranged melee 12: generate
-mno_choose_scene_222|training ground ranged melee 13: generate
-mno_choose_scene_223|training ground ranged melee 14: generate
-mno_choose_scene_224|training ground ranged melee 15: generate
-mno_choose_scene_225|training ground ranged melee 16: generate
-mno_choose_scene_226|training ground ranged melee 17: generate
-mno_choose_scene_227|training ground ranged melee 18: generate
-mno_choose_scene_228|training ground ranged melee 2: generate
-mno_choose_scene_229|training ground ranged melee 3: generate
-mno_choose_scene_230|training ground ranged melee 4: generate
-mno_choose_scene_231|training ground ranged melee 5: generate
-mno_choose_scene_232|training ground ranged melee 6: generate
-mno_choose_scene_233|training ground ranged melee 7: generate
+mno_choose_scene_221|training ground horse track 9: generate
+mno_choose_scene_222|training ground ranged melee 1: generate
+mno_choose_scene_223|training ground ranged melee 10: generate
+mno_choose_scene_224|training ground ranged melee 11: generate
+mno_choose_scene_225|training ground ranged melee 12: generate
+mno_choose_scene_226|training ground ranged melee 13: generate
+mno_choose_scene_227|training ground ranged melee 14: generate
+mno_choose_scene_228|training ground ranged melee 15: generate
+mno_choose_scene_229|training ground ranged melee 16: generate
+mno_choose_scene_230|training ground ranged melee 17: generate
+mno_choose_scene_231|training ground ranged melee 18: generate
+mno_choose_scene_232|training ground ranged melee 2: generate
+mno_choose_scene_233|training ground ranged melee 3: generate
 menu_choose_scenes_234|Choose a scene: (Page 19 of 23)
 mno_back|Go back.
 mno_next|Next...
 mno_previous|Previous...
-mno_choose_scene_234|training ground ranged melee 8: generate
-mno_choose_scene_235|training ground ranged melee 9: generate
-mno_choose_scene_236|tutorial 1: indoors
-mno_choose_scene_237|tutorial 2: indoors
-mno_choose_scene_238|tutorial 3: indoors
-mno_choose_scene_239|tutorial 4: generate
-mno_choose_scene_240|tutorial 5: generate
-mno_choose_scene_241|tutorial 6: generate
-mno_choose_scene_242|tutorial 7: generate
-mno_choose_scene_243|tutorial 8: generate
-mno_choose_scene_244|tutorial 9: generate
-mno_choose_scene_245|tutorial training ground: generate
-mno_choose_scene_246|village arab: generate
+mno_choose_scene_234|training ground ranged melee 4: generate
+mno_choose_scene_235|training ground ranged melee 5: generate
+mno_choose_scene_236|training ground ranged melee 6: generate
+mno_choose_scene_237|training ground ranged melee 7: generate
+mno_choose_scene_238|training ground ranged melee 8: generate
+mno_choose_scene_239|training ground ranged melee 9: generate
+mno_choose_scene_240|tutorial 1: indoors
+mno_choose_scene_241|tutorial 2: indoors
+mno_choose_scene_242|tutorial 3: indoors
+mno_choose_scene_243|tutorial 4: generate
+mno_choose_scene_244|tutorial 5: generate
+mno_choose_scene_245|tutorial 6: generate
+mno_choose_scene_246|tutorial 7: generate
 menu_choose_scenes_247|Choose a scene: (Page 20 of 23)
 mno_back|Go back.
 mno_next|Next...
 mno_previous|Previous...
-mno_choose_scene_247|village eastern: generate
-mno_choose_scene_248|village euro: generate
-mno_choose_scene_249|village iberia: generate
-mno_choose_scene_250|village italy: generate
-mno_choose_scene_251|village mongol: generate
-mno_choose_scene_252|village nordic: generate
-mno_choose_scene_253|vilnius center: generate
-mno_choose_scene_254|vilnius walls: generate
-mno_choose_scene_255|walls arensburg: generate
-mno_choose_scene_256|walls arwa: generate
-mno_choose_scene_257|walls beaumaris: generate
-mno_choose_scene_258|walls carlisle: generate
-mno_choose_scene_259|walls conwy: generate
+mno_choose_scene_247|tutorial 8: generate
+mno_choose_scene_248|tutorial 9: generate
+mno_choose_scene_249|tutorial training ground: generate
+mno_choose_scene_250|village arab: generate
+mno_choose_scene_251|village eastern: generate
+mno_choose_scene_252|village euro: generate
+mno_choose_scene_253|village euro2: generate
+mno_choose_scene_254|village iberia: generate
+mno_choose_scene_255|village italy: generate
+mno_choose_scene_256|village mongol: generate
+mno_choose_scene_257|village nordic: generate
+mno_choose_scene_258|village nordic2: generate
+mno_choose_scene_259|village nordic3: generate
 menu_choose_scenes_260|Choose a scene: (Page 21 of 23)
 mno_back|Go back.
 mno_next|Next...
 mno_previous|Previous...
-mno_choose_scene_260|walls dorpat: generate
-mno_choose_scene_261|walls generic french: generate
-mno_choose_scene_262|walls hedingham: generate
-mno_choose_scene_263|walls kernave: generate
-mno_choose_scene_264|walls krak: generate
-mno_choose_scene_265|walls lemsahl: generate
-mno_choose_scene_266|walls llansteffan: generate
-mno_choose_scene_267|walls lublin: generate
-mno_choose_scene_268|walls mann: generate
-mno_choose_scene_269|walls mansoura: generate
-mno_choose_scene_270|walls marienwerder: generate
-mno_choose_scene_271|walls moscow: generate
-mno_choose_scene_272|walls motte bailey 1: generate
+mno_choose_scene_260|vilnius center: generate
+mno_choose_scene_261|vilnius walls: generate
+mno_choose_scene_262|walls arensburg: generate
+mno_choose_scene_263|walls arwa: generate
+mno_choose_scene_264|walls beaumaris: generate
+mno_choose_scene_265|walls carlisle: generate
+mno_choose_scene_266|walls conwy: generate
+mno_choose_scene_267|walls dorpat: generate
+mno_choose_scene_268|walls generic french: generate
+mno_choose_scene_269|walls hedingham: generate
+mno_choose_scene_270|walls hohenburg: generate
+mno_choose_scene_271|walls kernave: generate
+mno_choose_scene_272|walls krak: generate
 menu_choose_scenes_273|Choose a scene: (Page 22 of 23)
 mno_back|Go back.
+mno_next|Next...
 mno_previous|Previous...
-mno_choose_scene_273|walls motte bailey 2: generate
-mno_choose_scene_274|walls pevensey: generate
-mno_choose_scene_275|walls seiminiskeliai: generate
-mno_choose_scene_276|walls taurapilis: generate
-mno_choose_scene_277|walls tonbridge: generate
-mno_choose_scene_278|walls treyden: generate
-mno_choose_scene_279|walls wenden: generate
-mno_choose_scene_280|walls york: generate
-mno_choose_scene_281|water
-mno_choose_scene_282|wedding: indoors
-mno_choose_scene_283|zendar arena: generate
-mno_choose_scene_284|zendar center: generate
-mno_choose_scene_285|zendar merchant: indoors
+mno_choose_scene_273|walls lemsahl: generate
+mno_choose_scene_274|walls llansteffan: generate
+mno_choose_scene_275|walls lublin: generate
+mno_choose_scene_276|walls mann: generate
+mno_choose_scene_277|walls mansoura: generate
+mno_choose_scene_278|walls marienwerder: generate
+mno_choose_scene_279|walls moscow: generate
+mno_choose_scene_280|walls motte bailey 1: generate
+mno_choose_scene_281|walls motte bailey 2: generate
+mno_choose_scene_282|walls munchen: generate
+mno_choose_scene_283|walls pevensey: generate
+mno_choose_scene_284|walls seiminiskeliai: generate
+mno_choose_scene_285|walls taurapilis: generate
+menu_choose_scenes_286|Choose a scene: (Page 23 of 23)
+mno_back|Go back.
+mno_previous|Previous...
+mno_choose_scene_286|walls tonbridge: generate
+mno_choose_scene_287|walls treyden: generate
+mno_choose_scene_288|walls tunsberg: generate
+mno_choose_scene_289|walls wenden: generate
+mno_choose_scene_290|walls york: generate
+mno_choose_scene_291|water
+mno_choose_scene_292|wedding: indoors
+mno_choose_scene_293|zendar arena: generate
+mno_choose_scene_294|zendar center: generate
+mno_choose_scene_295|zendar merchant: indoors
