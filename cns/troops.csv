@@ -60,16 +60,16 @@ trp_mercenary_town_skirmisher|雇 佣 持 弩 民 兵
 trp_mercenary_town_skirmisher_pl|雇 佣 持 弩 民 兵 
 trp_mercenary_veteran_swordsman|雇 佣 战 士 
 trp_mercenary_veteran_swordsman_pl|雇 佣 战 士 
-trp_mercenary_veteran_billman|雇 佣 戟 兵 
-trp_mercenary_veteran_billman_pl|雇 佣 戟 兵 
+trp_mercenary_veteran_billman|雇 佣 钩 镰 兵 
+trp_mercenary_veteran_billman_pl|雇 佣 钩 镰 兵 
 trp_mercenary_veteran_spearman|雇 佣 长 矛 军 士 
 trp_mercenary_veteran_spearman_pl|雇 佣 长 矛 军 士 
 trp_mercenary_veteran_crossbowman|雇 佣 轻 装 弩 兵 
 trp_mercenary_veteran_crossbowman_pl|雇 佣 轻 装 弩 兵 
 trp_mercenary_veteran_archer|雇 佣 熟 练 弓 箭 手 
 trp_mercenary_veteran_archer_pl|雇 佣 熟 练 弓 箭 手 
-trp_mercenary_bills_sergeant|雇 佣 武 装 戟 兵 
-trp_mercenary_bills_sergeant_pl|雇 佣 武 装 戟 兵 
+trp_mercenary_bills_sergeant|雇 佣 武 装 钩 镰 兵 
+trp_mercenary_bills_sergeant_pl|雇 佣 武 装 钩 镰 兵 
 trp_mercenary_swords_sergeant|雇 佣 剑 客 
 trp_mercenary_swords_sergeant_pl|雇 佣 剑 客 
 trp_mercenary_spears_sergeant|雇 佣 重 装 长 矛 军 士 
@@ -326,48 +326,48 @@ trp_irish_prison_guard|监 狱 看 守
 trp_irish_prison_guard_pl|监 狱 看 守 
 trp_irish_castle_guard|城 堡 守 卫 
 trp_irish_castle_guard_pl|城 堡 守 卫 
-trp_balkan_vil_1|巴 尔 干 征 召 民 兵 
-trp_balkan_vil_1_pl|巴 尔 干 征 召 民 兵
-trp_balkan_vil_2_1|巴 尔 干 征 召 平 民 弓 箭 手 
-trp_balkan_vil_2_1_pl|巴 尔 干 征 召 平 民 弓 箭 手
-trp_balkan_vil_3_1|巴 尔 干 征 召 弓 箭 手
-trp_balkan_vil_3_1_pl|巴 尔 干 征 召 弓 箭 手 
-trp_balkan_vil_4_1|巴 尔 干 征 召 熟 练 弓 箭 手 
-trp_balkan_vil_4_1_pl|巴 尔 干 征 召 熟 练 弓 箭 手 
-trp_balkan_vil_2_2|巴 尔 干 征 召 步 兵 
-trp_balkan_vil_2_2_pl|巴 尔 干 征 召 步 兵 
-trp_balkan_vil_3_2_1|巴 尔 干 戟 兵 
-trp_balkan_vil_3_2_1_pl|巴 尔 干 戟 兵
-trp_balkan_vil_3_2_2|巴 尔 干 步 兵 
-trp_balkan_vil_3_2_2_pl|巴 尔 干 步 兵 
-trp_balkan_vil_4_2_2|巴 尔 干 重 步 兵 
-trp_balkan_vil_4_2_2_pl|巴 尔 干 重 步 兵 
+trp_balkan_vil_1|巴 尔 干 武 装 农 奴 
+trp_balkan_vil_1_pl|巴 尔 干 武 装 农 奴 
+trp_balkan_vil_2_1|巴 尔 干 猎 人 弓 箭 手 
+trp_balkan_vil_2_1_pl|巴 尔 干 猎 人 弓 箭 手 
+trp_balkan_vil_3_1|巴 尔 干 雇 佣 弓 箭 手 
+trp_balkan_vil_3_1_pl|巴 尔 干 雇 佣 弓 箭 手 
+trp_balkan_vil_4_1|巴 尔 干 雇 佣 熟 练 弓 箭 手 
+trp_balkan_vil_4_1_pl|巴 尔 干 雇 佣 熟 练 弓 箭 手 
+trp_balkan_vil_2_2|巴 尔 干 猎 人 战 士 
+trp_balkan_vil_2_2_pl|巴 尔 干 猎 人 战 士 
+trp_balkan_vil_3_2_1|巴 尔 干 雇 佣 双 手 斧 战 士 
+trp_balkan_vil_3_2_1_pl|巴 尔 干 雇 佣 双 手 斧 战 士 
+trp_balkan_vil_3_2_2|巴 尔 干 雇 佣 步 兵 
+trp_balkan_vil_3_2_2_pl|巴 尔 干 雇 佣 步 兵 
+trp_balkan_vil_4_2_2|巴 尔 干 雇 佣 重 步 兵 
+trp_balkan_vil_4_2_2_pl|巴 尔 干 雇 佣 重 步 兵 
 trp_balkan_vil_3_1_1|巴 尔 干 标 枪 投 手 
 trp_balkan_vil_3_1_1_pl|巴 尔 干 标 枪 投 手 
-trp_balkan_vil_4_1_1|巴 尔 干 标 枪 兵 
-trp_balkan_vil_4_1_1_pl|巴 尔 干 标 枪 兵 
+trp_balkan_vil_4_1_1|巴 尔 干 标 枪 兵 先 锋 
+trp_balkan_vil_4_1_1_pl|巴 尔 干 标 枪 兵 先 锋 
 trp_balkan_town_1|巴 尔 干 城 镇 民 兵 
 trp_balkan_town_1_pl|巴 尔 干 城 镇 民 兵 
-trp_balkan_town_2_1|巴 尔 干 轻 步 兵 
-trp_balkan_town_2_1_pl|巴 尔 干 轻 步 兵 
+trp_balkan_town_2_1|巴 尔 干 民 兵 长 矛 手 
+trp_balkan_town_2_1_pl|巴 尔 干 民 兵 长 矛 手 
 trp_balkan_town_3_1|巴 尔 干 长 矛 手 
 trp_balkan_town_3_1_pl|巴 尔 干 长 矛 手 
-trp_balkan_town_4_1|巴 尔 干 重 装 长 矛 手 
-trp_balkan_town_4_1_pl|巴 尔 干 重 装 长 矛 手 
-trp_balkan_town_2_2|巴 尔 干 弓 箭 民 兵 
-trp_balkan_town_2_2_pl|巴 尔 干 弓 箭 民 兵 
+trp_balkan_town_4_1|巴 尔 干 重 装 长 矛 军 士 
+trp_balkan_town_4_1_pl|巴 尔 干 重 装 长 矛 军 士 
+trp_balkan_town_2_2|巴 尔 干 民 兵 射 手 
+trp_balkan_town_2_2_pl|巴 尔 干 民 兵 射 手 
 trp_balkan_town_3_2|巴 尔 干 弓 箭 手 
 trp_balkan_town_3_2_pl|巴 尔 干 弓 箭 手 
-trp_balkan_town_4_2|巴 尔 干 城 镇 精 锐 弓 箭 手 
-trp_balkan_town_4_2_pl|巴 尔 干 城 镇 精 锐 弓 箭 手 
-trp_balkan_horse_1|巴 尔 干 轻 装 枪 骑 兵 
-trp_balkan_horse_1_pl|巴 尔 干 轻 装 枪 骑 兵 
+trp_balkan_town_4_2|巴 尔 干 重 装 弓 箭 手 
+trp_balkan_town_4_2_pl|巴 尔 干 重 装 弓 箭 手 
+trp_balkan_horse_1|巴 尔 干 轻 装 骑 兵 
+trp_balkan_horse_1_pl|巴 尔 干 轻 装 骑 兵 
 trp_balkan_horse_2|巴 尔 干 枪 骑 兵 
 trp_balkan_horse_2_pl|巴 尔 干 枪 骑 兵
-trp_balkan_horse_3|巴 尔 干 贵 族 骑 兵 
-trp_balkan_horse_3_pl|巴 尔 干 贵 族 骑 兵 
-trp_balkan_horse_4|巴 尔 干 重 装 贵 族 骑 兵 
-trp_balkan_horse_4_pl|巴 尔 干 重 装 贵 族 骑 兵 
+trp_balkan_horse_3|巴 尔 干 骑 士 
+trp_balkan_horse_3_pl|巴 尔 干 骑 士 
+trp_balkan_horse_4|巴 尔 干 贵 族 骑 士 
+trp_balkan_horse_4_pl|巴 尔 干 贵 族 骑 士 
 trp_rus_vil_1|罗 斯 征 召 农 奴 
 trp_rus_vil_1_pl|罗 斯 征 召 农 奴 
 trp_rus_vil_2_1|罗 斯 民 兵 
@@ -618,10 +618,10 @@ trp_iberian_bows_sergeant|南 欧 精 锐 弓 箭 手
 trp_iberian_bows_sergeant_pl|南 欧 精 锐 弓 箭 手 
 trp_iberian_village_footman|南 欧 轻 步 兵 
 trp_iberian_village_footman_pl|南 欧 轻 步 兵 
-trp_iberian_billman|南 欧 武 装 戟 兵 
-trp_iberian_billman_pl|南 欧 武 装 戟 兵 
-trp_iberian_bills_sergeant|南 欧 长 戟 军 士 
-trp_iberian_bills_sergeant_pl|南 欧 长 戟 军 士 
+trp_iberian_billman|南 欧 武 装 钩 镰 兵 
+trp_iberian_billman_pl|南 欧 武 装 钩 镰 兵 
+trp_iberian_bills_sergeant|南 欧 钩 镰 军 士 
+trp_iberian_bills_sergeant_pl|南 欧 钩 镰 军 士 
 trp_iberian_town_footman_1|南 欧 精 锐 民 兵 
 trp_iberian_town_footman_1_pl|南 欧 精 锐 民 兵 
 trp_iberian_town_footman_2|南 欧 步 兵 
