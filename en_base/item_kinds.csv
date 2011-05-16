@@ -474,10 +474,6 @@ itm_sarranid_common_dress|Saracen Dress
 itm_sarranid_common_dress_pl|Saracen Dress
 itm_sarranid_common_dress_b|Saracen Dress
 itm_sarranid_common_dress_b_pl|Saracen Dress
-itm_courtly_outfit|Courtly Outfit
-itm_courtly_outfit_pl|Courtly Outfit
-itm_nobleman_outfit|Nobleman Outfit
-itm_nobleman_outfit_pl|Nobleman Outfit
 itm_nomad_armor|Nomad Armor
 itm_nomad_armor_pl|Nomad Armor
 itm_khergit_armor|Mongol Armor
@@ -486,8 +482,6 @@ itm_leather_jacket|Leather Jacket
 itm_leather_jacket_pl|Leather Jacket
 itm_rawhide_coat|Rawhide Coat
 itm_rawhide_coat_pl|Rawhide Coat
-itm_leather_armor|Leather Armor
-itm_leather_armor_pl|Leather Armor
 itm_fur_coat|Fur Coat
 itm_fur_coat_pl|Fur Coat
 itm_merchant_outfit|Merchant Outfit
@@ -520,8 +514,6 @@ itm_gambeson_d|Gambeson
 itm_gambeson_d_pl|Gambeson
 itm_padded_cloth|Aketon
 itm_padded_cloth_pl|Aketon
-itm_aketon_green|Padded Cloth
-itm_aketon_green_pl|Padded Cloth
 itm_leather_jerkin|Leather Jerkin
 itm_leather_jerkin_pl|Leather Jerkin
 itm_nomad_vest|Nomad Vest
@@ -846,8 +838,6 @@ itm_kau_lit_mail|Mail Shirt
 itm_kau_lit_mail_pl|Mail Shirt
 itm_lit_outfit|Balt Lamellar Vest
 itm_lit_outfit_pl|Balt Lamellar Vest
-itm_balt_gambeson|Linen Gambeson
-itm_balt_gambeson_pl|Linen Gambeson
 itm_kau_rus_tunic_a|Rus' Tunic
 itm_kau_rus_tunic_a_pl|Rus' Tunic
 itm_kau_rus_tunic_b|Rus' Tunic
@@ -1078,12 +1068,6 @@ itm_burlap_tunic|Burlap Tunic
 itm_burlap_tunic_pl|Burlap Tunic
 itm_heraldic_mail_with_surcoat|Heraldic Mail with Surcoat
 itm_heraldic_mail_with_surcoat_pl|Heraldic Mail with Surcoat
-itm_heraldic_mail_with_tunic|Heraldic Mail
-itm_heraldic_mail_with_tunic_pl|Heraldic Mail
-itm_heraldic_mail_with_tunic_b|Heraldic Mail
-itm_heraldic_mail_with_tunic_b_pl|Heraldic Mail
-itm_heraldic_mail_with_tabard|Heraldic Mail with Tabard
-itm_heraldic_mail_with_tabard_pl|Heraldic Mail with Tabard
 itm_sarranid_head_cloth|Lady Head Cloth
 itm_sarranid_head_cloth_pl|Lady Head Cloth
 itm_sarranid_head_cloth_b|Lady Head Cloth
@@ -1140,12 +1124,6 @@ itm_footman_helmet|Footman's Helmet
 itm_footman_helmet_pl|Footman's Helmet
 itm_norman_helmet|Helmet with Cap
 itm_norman_helmet_pl|Helmet with Cap
-itm_segmented_helmet|Segmented Helmet
-itm_segmented_helmet_pl|Segmented Helmet
-itm_helmet_with_neckguard|Helmet with Neckguard
-itm_helmet_with_neckguard_pl|Helmet with Neckguard
-itm_spiked_helmet|Spiked Helmet
-itm_spiked_helmet_pl|Spiked Helmet
 itm_khergit_lady_hat|Mongol Lady Hat
 itm_khergit_lady_hat_pl|Mongol Lady Hat
 itm_khergit_lady_hat_b|Mongol Lady Leather Hat
@@ -1190,10 +1168,6 @@ itm_vaegir_war_helmet|Rus War Helmet
 itm_vaegir_war_helmet_pl|Rus War Helmet
 itm_vaegir_mask|Rus War Mask
 itm_vaegir_mask_pl|Rus War Mask
-itm_guard_helmet|Guard Helmet
-itm_guard_helmet_pl|Guard Helmet
-itm_full_helm|Full Helm
-itm_full_helm_pl|Full Helm
 itm_winged_great_helmet|Winged Great Helmet
 itm_winged_great_helmet_pl|Winged Great Helmet
 itm_osp_great_helm_a|Great Helm
@@ -1552,8 +1526,6 @@ itm_staff|Staff
 itm_staff_pl|Staff
 itm_quarter_staff|Quarter Staff
 itm_quarter_staff_pl|Quarter Staff
-itm_iron_staff|Iron Staff
-itm_iron_staff_pl|Iron Staff
 itm_military_scythe|Military Scythe
 itm_military_scythe_pl|Military Scythe
 itm_light_lance|Light Lance

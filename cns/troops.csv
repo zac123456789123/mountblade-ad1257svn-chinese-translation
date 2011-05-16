@@ -452,28 +452,20 @@ trp_balt_skirmisher|波 罗 的 海 掷 矛 民 兵
 trp_balt_skirmisher_pl|波 罗 的 海 掷 矛 民 兵 
 trp_balt_billman|波 罗 的 海 斧 手 
 trp_balt_billman_pl|波 罗 的 海 斧 手 
-trp_balt_veteran_billman|波 罗 的 海 重 装 斧 手 
-trp_balt_veteran_billman_pl|波 罗 的 海 重 装 斧 手 
-trp_balt_bills_sergeant|波 罗 的 海 亲 卫 斧 兵 
-trp_balt_bills_sergeant_pl|波 罗 的 海 亲 卫 斧 兵 
+trp_balt_veteran_billman|波 罗 的 海 资 深 斧 卫 
+trp_balt_veteran_billman_pl|波 罗 的 海 资 深 斧 卫 
 trp_balt_spearman|波 罗 的 海 长 矛 手 
 trp_balt_spearman_pl|波 罗 的 海 长 矛 手
 trp_balt_veteran_spearman|波 罗 的 海 重 装 长 矛 手 
 trp_balt_veteran_spearman_pl|波 罗 的 海 重 装 长 矛 手 
-trp_balt_spears_sergeant|波 罗 的 海 贵 族 长 矛 手 
-trp_balt_spears_sergeant_pl|波 罗 的 海 贵 族 长 矛 手 
 trp_balt_archer|波 罗 的 海 弓 箭 手 
 trp_balt_archer_pl|波 罗 的 海 弓 箭 手 
 trp_balt_veteran_archer|波 罗 的 海 熟 练 弓 箭 手 
 trp_balt_veteran_archer_pl|波 罗 的 海 熟 练 弓 箭 手 
-trp_balt_bows_sergeant|波 罗 的 海 重 装 弓 箭 手 
-trp_balt_bows_sergeant_pl|波 罗 的 海 重 装 弓 箭 手 
 trp_balt_jav|波 罗 的 海 标 枪 兵 
 trp_balt_jav_pl|波 罗 的 海 标 枪 兵 
-trp_balt_veteran_jav|波 罗 的 海 熟 练 标 枪 兵 
-trp_balt_veteran_jav_pl|波 罗 的 海 熟 练 标 枪 兵 
-trp_balt_jav_sergeant|波 罗 的 海 重 装 标 枪 兵 
-trp_balt_jav_sergeant_pl|波 罗 的 海 重 装 标 枪 兵 
+trp_balt_veteran_jav|波 罗 的 海 资 深 标 枪 兵 
+trp_balt_veteran_jav_pl|波 罗 的 海 资 深 标 枪 兵 
 trp_balt_noble_recruit|波 罗 的 海 贵 族 新 兵 
 trp_balt_noble_recruit_pl|波 罗 的 海 贵 族 新 兵 
 trp_balt_mounted_skirmisher|波 罗 的 海 贵 族 标 枪 骑 手 
@@ -562,14 +554,8 @@ trp_sarranid_deserter|马 木 鲁 克 逃 兵
 trp_sarranid_deserter_pl|马 木 鲁 克 逃 兵 
 trp_sarranid_prison_guard|马 木 鲁 克 监 狱 守 卫 
 trp_sarranid_prison_guard_pl|马 木 鲁 克 监 狱 守 卫 
-trp_balt_horseman|波 罗 的 海 轻 骑 兵 
-trp_balt_horseman_pl|波 罗 的 海 轻 骑 兵 
-trp_balt_mounted_spearman|波 罗 的 海 骑 兵 
-trp_balt_mounted_spearman_pl|波 罗 的 海 骑 兵 
-trp_balt_lancer|波 罗 的 海 重 装 枪 骑 兵 
-trp_balt_lancer_pl|波 罗 的 海 重 装 枪 骑 兵 
-trp_french_chevalier|法 兰 西 皇 家 侍 卫 骑 士 
-trp_french_chevalier_pl|法 兰 西 皇 家 侍 卫 骑 士 
+trp_french_chevalier|侠 义 骑 士 
+trp_french_chevalier_pl|侠 义 骑 士 
 trp_welsh_bowmen|威 尔 士 长 弓 兵 
 trp_welsh_bowmen_pl|威 尔 士 长 弓 兵 
 trp_genoese_crossbowman|热 那 亚 巨 盾 弩 兵 

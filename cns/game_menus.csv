@@ -847,17 +847,17 @@ menu_dplmc_notification_riot|{s1}的 平 民 发 起 了 一 场 反 抗 你 统
 mno_dplmc_continue|继 续 
 menu_dplmc_notification_appoint_chamberlain|作 为 拥 有 封 地 的 领 主 你 现 在 可 以 以 每 周 15 第 纳 尔 的 薪 水 雇 佣 一 名 管 家 在 宫 廷 中 伴 随 你 左 右。 他 会 处 理 所 有 的 财 政 事 务， 例 如 收 取 税 金 和 决 定 税 率， 发 放 薪 水 和 管 理 你 的 资 产。 另 外 他 还 可 以 为 监 督 管 理 王 国 之 间 的 金 钱 转 账 以 提 供 给 你 更 多 的 外 交 选 择。 
 mno_dplmc_appoint_default|任 命 当 地 的 杰 出 人 才。 
-mno_dplmc_continue|继 续 
+mno_dplmc_continue|不 用 任 命 管 家， 继 续 
 menu_dplmc_chamberlain_confirm|你 的 管 家 会 在 你 的 宫 廷 中。 如 果 你 想 给 他 提 出 任 何 财 政 方 面 的 建 议 或 者 你 需 要 更 多 金 钱， 你 都 应 该 和 他 商 量。 确 保 你 的 金 库 中 有 充 足 的 钱 应 对 政 治 事 件。 
 mno_dplmc_continue|继 续 
 menu_dplmc_notification_appoint_constable|作 为 拥 有 封 地 的 领 主 你 现 在 可 以 以 每 周 15 第 纳 尔 的 薪 水 雇 佣 一 名 治 安 官 在 宫 廷 中 伴 随 你 左 右。 他 会 招 募 新 兵 并 提 供 你 的 军 队 的 情 况。 
 mno_dplmc_appoint_default|任 命 当 地 的 杰 出 人 才。 
-mno_dplmc_continue|继 续 
+mno_dplmc_continue|不 用 任 命 治 安 官， 继 续 
 menu_dplmc_constable_confirm|你 的 治 安 官 会 在 你 的 宫 廷 中。 如 果 你 想 招 募 新 兵 或 是 得 到 你 现 有 军 队 的 详 细 情 况， 你 都 应 该 找 他 商 量。 
 mno_dplmc_continue|继 续 
 menu_dplmc_notification_appoint_chancellor|作 为 拥 有 封 地 的 领 主 你 现 在 可 以 以 每 周 20 第 纳 尔 的 薪 水 雇 佣 一 名 总 理 大 臣 在 宫 廷 中 伴 随 你 左 右。 他 会 持 有 你 的 印 鉴 并 管 理 你 和 重 要 人 物 之 间 的 书 信 往 来。 
 mno_dplmc_appoint_default|任 命 当 地 的 杰 出 人 才。 
-mno_dplmc_continue|继 续 
+mno_dplmc_continue|不 用 任 命 总 理 大 臣， 继 续 
 menu_dplmc_chancellor_confirm|你 的 总 理 大 臣 会 在 你 的 宫 廷 中。 如 果 你 想 送 信 或 是 送 礼 物， 你 都 应 该 找 他 商 量。 
 mno_dplmc_continue|继 续 
 menu_dplmc_deserters|你 的 一 些 士 兵 认 为 你 不 太 可 能 继 续 支 付 他 们 的 工 资， 于 是 逃 跑 了。 你 一 共 损 失 了 {s11}名 士 兵。 

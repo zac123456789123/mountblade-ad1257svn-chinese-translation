@@ -474,10 +474,6 @@ itm_sarranid_common_dress|萨 拉 逊 裙
 itm_sarranid_common_dress_pl|萨 拉 逊 裙 
 itm_sarranid_common_dress_b|萨 拉 逊 裙 
 itm_sarranid_common_dress_b_pl|萨 拉 逊 裙 
-itm_courtly_outfit|宫 廷 服 
-itm_courtly_outfit_pl|宫 廷 服 
-itm_nobleman_outfit|贵 族 服 
-itm_nobleman_outfit_pl|贵 族 服 
 itm_nomad_armor|游 牧 甲 
 itm_nomad_armor_pl|游 牧 甲 
 itm_khergit_armor|蒙 古 甲 
@@ -486,8 +482,6 @@ itm_leather_jacket|皮 夹 克
 itm_leather_jacket_pl|皮 夹 克 
 itm_rawhide_coat|生 皮 外 套 
 itm_rawhide_coat_pl|生 皮 外 套 
-itm_leather_armor|皮 甲 
-itm_leather_armor_pl|皮 甲 
 itm_fur_coat|毛 皮 外 套 
 itm_fur_coat_pl|毛 皮 外 套 
 itm_merchant_outfit|商 人 服 
@@ -520,8 +514,6 @@ itm_gambeson_d|软 铠 甲
 itm_gambeson_d_pl|软 铠 甲 
 itm_padded_cloth|铠 衣 
 itm_padded_cloth_pl|铠 衣 
-itm_aketon_green|棉 衣 
-itm_aketon_green_pl|棉 衣 
 itm_leather_jerkin|皮 短 袖 衣 
 itm_leather_jerkin_pl|皮 短 袖 衣 
 itm_nomad_vest|游 牧 背 心 
@@ -846,8 +838,6 @@ itm_kau_lit_mail|链 甲 衫
 itm_kau_lit_mail_pl|链 甲 衫 
 itm_lit_outfit|波 罗 的 海 片 甲 背 心 
 itm_lit_outfit_pl|波 罗 的 海 片 甲 背 心 
-itm_balt_gambeson|波 罗 的 海 软 铠 甲 
-itm_balt_gambeson_pl|波 罗 的 海 软 铠 甲 
 itm_kau_rus_tunic_a|罗 斯 短 袍 
 itm_kau_rus_tunic_a_pl|罗 斯 短 袍 
 itm_kau_rus_tunic_b|罗 斯 短 袍 
@@ -1078,12 +1068,6 @@ itm_burlap_tunic|麻 布 短 袍
 itm_burlap_tunic_pl|麻 布 短 袍 
 itm_heraldic_mail_with_surcoat|纹 章 甲 带 外 套 
 itm_heraldic_mail_with_surcoat_pl|纹 章 甲 带 外 套 
-itm_heraldic_mail_with_tunic|纹 章 甲 
-itm_heraldic_mail_with_tunic_pl|纹 章 甲 
-itm_heraldic_mail_with_tunic_b|纹 章 甲 
-itm_heraldic_mail_with_tunic_b_pl|纹 章 甲 
-itm_heraldic_mail_with_tabard|纹 章 甲 带 罩 袍 
-itm_heraldic_mail_with_tabard_pl|纹 章 甲 带 罩 袍 
 itm_sarranid_head_cloth|女 式 头 布 
 itm_sarranid_head_cloth_pl|女 式 头 布 
 itm_sarranid_head_cloth_b|女 式 头 布 
@@ -1140,12 +1124,6 @@ itm_footman_helmet|步 兵 盔
 itm_footman_helmet_pl|步 兵 盔 
 itm_norman_helmet|带 帽 头 盔 
 itm_norman_helmet_pl|带 帽 头 盔 
-itm_segmented_helmet|组 合 盔 
-itm_segmented_helmet_pl|组 合 盔 
-itm_helmet_with_neckguard|带 护 颈 头 盔 
-itm_helmet_with_neckguard_pl|带 护 颈 头 盔 
-itm_spiked_helmet|锥 顶 头 盔 
-itm_spiked_helmet_pl|锥 顶 头 盔 
 itm_khergit_lady_hat|蒙 古 女 式 帽 
 itm_khergit_lady_hat_pl|蒙 古 女 式 帽 
 itm_khergit_lady_hat_b|蒙 古 女 式 皮 帽 
@@ -1190,10 +1168,6 @@ itm_vaegir_war_helmet|罗 斯 战 盔
 itm_vaegir_war_helmet_pl|罗 斯 战 盔 
 itm_vaegir_mask|罗 斯 面 具 战 盔 
 itm_vaegir_mask_pl|罗 斯 面 具 战 盔 
-itm_guard_helmet|护 盔 
-itm_guard_helmet_pl|护 盔 
-itm_full_helm|覆 面 盔 
-itm_full_helm_pl|覆 面 盔 
 itm_winged_great_helmet|带 翼 巨 盔 
 itm_winged_great_helmet_pl|带 翼 巨 盔 
 itm_osp_great_helm_a|巨 盔 
@@ -1552,8 +1526,6 @@ itm_staff|棍
 itm_staff_pl|棍 
 itm_quarter_staff|铁 头 棍 
 itm_quarter_staff_pl|铁 头 棍 
-itm_iron_staff|铁 棍 
-itm_iron_staff_pl|铁 棍 
 itm_military_scythe|军 用 镰 
 itm_military_scythe_pl|军 用 镰 
 itm_light_lance|轻 型 骑 枪 
