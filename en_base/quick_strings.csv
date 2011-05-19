@@ -357,8 +357,6 @@ qstr_Spearmen|Spearmen
 qstr_Horse_Archers|Horse Archers
 qstr_calculate_party_stre|calculate party strength [{s33}] --- offense: {reg0} defense: {reg1} size: {reg2}
 qstr_You_got_keys_of_dung|You got keys of dungeon.
-qstr_Your_{s20}_falls_apa|Your {s20} falls apart!
-qstr_Your_{s20}_cracks!|Your {s20} cracks!
 qstr_Releasing_spear.|Releasing spear.
 qstr_Your_horse_received_|Your horse received {reg1} damage from a braced spear!
 qstr_The_injury_causes_yo|The injury causes your grip on the spear to slip!
@@ -370,6 +368,8 @@ qstr_You_have_been_knocke|You have been knocked out by the enemy. Watch your men
 qstr_If_you_choose_to_wat|If you choose to watch the fight you can use the mouse scroll up and down to switch between troop view or AWDS keys for free camera view.
 qstr_Forming_ranks.|Forming ranks.
 qstr_You_must_stay_behind|You must stay behind the line on the ground! Point is not counted.
+qstr_Your_{s20}_falls_apa|Your {s20} falls apart!
+qstr_Your_{s20}_cracks!|Your {s20} cracks!
 qstr_Tutorial|Tutorial
 qstr_You_came_into_the_wo|You came into the world a {reg3?daughter:son} of declining nobility, owning only the house in which they lived. However, despite your family's hardships, they afforded you a good education and trained you from childhood for the rigors of aristocracy and life at court.
 qstr_You_were_born_the_{r|You were born the {reg3?daughter:son} of travelling merchants, always moving from place to place in search of a profit. Although your parents were wealthier than most and educated you as well as they could, you found little opportunity to make friends on the road, living mostly for the moments when you could sell something to somebody.
@@ -628,6 +628,7 @@ qstr_North_African|North African
 qstr_Mamluk|Mamluk
 qstr_Crusader|Crusader
 qstr_Teutonic|Teutonic
+qstr_Scotish|Scotish
 qstr_Byzantine|Byzantine
 qstr_villages|villages
 qstr_towns|towns
