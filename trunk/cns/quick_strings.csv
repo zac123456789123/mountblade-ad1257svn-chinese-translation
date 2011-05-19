@@ -357,8 +357,6 @@ qstr_Spearmen|长 矛 手
 qstr_Horse_Archers|骑 射 手 
 qstr_calculate_party_stre|calculate party strength [{s33}] --- offense: {reg0} defense: {reg1} size: {reg2}{***}
 qstr_You_got_keys_of_dung|你 得 到 了 地 牢 钥 匙。 
-qstr_Your_{s20}_falls_apa|你 的 {s20}碎 裂 了！ 
-qstr_Your_{s20}_cracks!|你 的 {s20}裂 开 了！ 
 qstr_Releasing_spear.|放 下 长 矛。 
 qstr_Your_horse_received_|你 的 马 受 到 了 架 起 的 长 矛 的 {reg1}点 伤 害！ 
 qstr_The_injury_causes_yo|这 次 受 伤 致 使 你 虎 口 迸 裂， 无 法 再 握 矛 了！ 
@@ -370,6 +368,8 @@ qstr_You_have_been_knocke|你 被 敌 人 击 倒 了， 你 可 以 选 择 观
 qstr_If_you_choose_to_wat|如 果 你 选 择 继 续 观 看 战 斗， 你 可 以 使 用 鼠 标 的 滚 轮 来 切 换 不 同 部 队 的 视 角， 或 者 用 ASDW来 自 由 移 动 观 看 位 置。 
 qstr_Forming_ranks.|正 在 组 成 阵 型。 
 qstr_You_must_stay_behind|你 必 须 站 在 线 后！ 此 次 攻 击 无 效。 
+qstr_Your_{s20}_falls_apa|你 的 {s20}碎 裂 了！ 
+qstr_Your_{s20}_cracks!|你 的 {s20}裂 开 了！ 
 qstr_Tutorial|训 练 
 qstr_You_came_into_the_wo|你 作 为 一 个 没 落 贵 族 家 庭 中 的 {reg3?女 儿 :儿 子 }降 生 在 这 个 世 界 上， 家 中 只 剩 下 了 一 幢 房 子 还 矗 立 着， 记 录 着 已 经 散 去 的 往 日 荣 光。 不 过， 即 使 生 活 困 苦， 家 里 依 然 给 予 了 你 很 好 的 教 育， 并 从 孩 童 时 期 就 对 你 进 行 严 格 的 行 为 举 止 方 面 的 训 练。 
 qstr_You_were_born_the_{r|你 是 一 位 旅 行 商 人 的 {reg3?女 儿:儿 子}， 为 了 追 寻 利 益， 他 们 经 常 从 一 个 地 方 到 另 一 个 地 方 四 处 奔 走。 即 使 你 的 父 母 比 常 人 富 有， 并 且 尽 他 们 所 能 给 予 你 最 好 的 教 育， 在 旅 行 中， 你 还 是 会 时 常 与 别 人 买 卖 一 些 小 玩 意， 并 交 上 一 些 朋 友。 
@@ -628,6 +628,7 @@ qstr_North_African|北 非 人
 qstr_Mamluk|马 木 鲁 克 人 
 qstr_Crusader|十 字 军 国 家 国 民 
 qstr_Teutonic|条 顿 骑 士 团 国 民 
+qstr_Scotish|苏 格 兰 人 
 qstr_Byzantine|尼 西 亚 人 
 qstr_villages|村 庄 
 qstr_towns|城 镇 

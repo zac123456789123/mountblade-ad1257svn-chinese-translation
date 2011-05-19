@@ -554,6 +554,12 @@ trp_sarranid_deserter|Saracen Deserter
 trp_sarranid_deserter_pl|Saracen Deserters
 trp_sarranid_prison_guard|Prison Guard
 trp_sarranid_prison_guard_pl|Prison Guards
+trp_balt_horseman|Raitas Ietininkas
+trp_balt_horseman_pl|Raiti Ietininkai
+trp_balt_mounted_spearman|Leičių Raitelis
+trp_balt_mounted_spearman_pl|Leičių Raiteliai
+trp_balt_lancer|Leičių Bajoras
+trp_balt_lancer_pl|Leičių Bajorai
 trp_french_chevalier|Chevalier
 trp_french_chevalier_pl|Chevaliers
 trp_welsh_bowmen|Welsh Bowman
@@ -4252,5 +4258,7 @@ trp_raf_messenger|Messenger
 trp_raf_messenger_pl|Messengers
 trp_pope|Pope Alexander IV
 trp_pope_pl|Alexander IV
+trp_temp_lord|temp lord
+trp_temp_lord_pl|temp lord
 trp_broken_items|Broken Items
 trp_broken_items_pl|Broken Items

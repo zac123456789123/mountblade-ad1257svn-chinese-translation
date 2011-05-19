@@ -360,10 +360,10 @@ trp_balkan_town_3_2|巴 尔 干 弓 箭 手
 trp_balkan_town_3_2_pl|巴 尔 干 弓 箭 手 
 trp_balkan_town_4_2|巴 尔 干 重 装 弓 箭 手 
 trp_balkan_town_4_2_pl|巴 尔 干 重 装 弓 箭 手 
-trp_balkan_horse_1|巴 尔 干 轻 装 骑 兵 
-trp_balkan_horse_1_pl|巴 尔 干 轻 装 骑 兵 
-trp_balkan_horse_2|巴 尔 干 枪 骑 兵 
-trp_balkan_horse_2_pl|巴 尔 干 枪 骑 兵
+trp_balkan_horse_1|巴 尔 干 轻 骑 兵 
+trp_balkan_horse_1_pl|巴 尔 干 轻 骑 兵 
+trp_balkan_horse_2|巴 尔 干 骑 兵 
+trp_balkan_horse_2_pl|巴 尔 干 骑 兵
 trp_balkan_horse_3|巴 尔 干 骑 士 
 trp_balkan_horse_3_pl|巴 尔 干 骑 士 
 trp_balkan_horse_4|巴 尔 干 贵 族 骑 士 
@@ -554,6 +554,12 @@ trp_sarranid_deserter|马 木 鲁 克 逃 兵
 trp_sarranid_deserter_pl|马 木 鲁 克 逃 兵 
 trp_sarranid_prison_guard|马 木 鲁 克 监 狱 守 卫 
 trp_sarranid_prison_guard_pl|马 木 鲁 克 监 狱 守 卫 
+trp_balt_horseman|巴 尔 干 轻 骑 兵 
+trp_balt_horseman_pl|巴 尔 干 轻 骑 兵 
+trp_balt_mounted_spearman|巴 尔 干 上 马 长 矛 勇 者 
+trp_balt_mounted_spearman_pl|巴 尔 干 上 马 长 矛 勇 者 
+trp_balt_lancer|巴 尔 干 重 盾 枪 骑 兵 
+trp_balt_lancer_pl|巴 尔 干 重 盾 枪 骑 兵 
 trp_french_chevalier|侠 义 骑 士 
 trp_french_chevalier_pl|侠 义 骑 士 
 trp_welsh_bowmen|威 尔 士 长 弓 兵 
@@ -4252,5 +4258,7 @@ trp_raf_messenger|信 使
 trp_raf_messenger_pl|信 使 
 trp_pope|教 宗 历 山 四 世 
 trp_pope_pl|历 山 四 世 
+trp_temp_lord|临 时 领 主 
+trp_temp_lord_pl|临 时 领 主 
 trp_broken_items|损 坏 的 物 品 
 trp_broken_items_pl|损 坏 的 物 品 
