@@ -321,7 +321,7 @@ qstr_Best_threat_of_{s4}_|最 有 威 胁 的 {s4}价 值 等 级 为 {reg1}
 qstr_No_center_found_to_d|没 发 现 防 守 地 点 
 qstr_You_gain_right_to_ru|你 获 得 统 治 权。 
 qstr_You_lose_right_to_ru|你 失 去 统 治 权。 
-qstr_party_{s29}:_{s26}_r|{s29}： {s26}用 {s27}替 换 了 {s28}
+qstr_party_{s29}:_{s26}_r|因 为 不 同 的 国 家 文 化， {s29}的 {s26}将 {s27}训 练 成 了 {s28}
 qstr_No_Troops_Left.|没 有 剩 余 的 部 队 了。 
 qstr_Selected_Troop:_{s1}|选 中 的 部 队： {s1}
 qstr_Peasants_revolt_in_a|{s25}统 治 下 的 农 民 们 起 义 了！ 
