@@ -480,8 +480,8 @@ trp_balt_noble_2|波 罗 的 海 贵 族 重 步 兵
 trp_balt_noble_2_pl|波 罗 的 海 贵 族 重 步 兵 
 trp_balt_noble_3|波 罗 的 海 公 爵 亲 卫 
 trp_balt_noble_3_pl|波 罗 的 海 公 爵 亲 卫 
-trp_marinid_village_rabble|马 格 里 布 普 通 民 兵 
-trp_marinid_village_rabble_pl|马 格 里 布 普 通 民 兵 
+trp_marinid_village_rabble|马 格 里 布 普 通 村 民 
+trp_marinid_village_rabble_pl|马 格 里 布 普 通 村 民 
 trp_marinid_levy_spearman|柏 柏 尔 征 召 长 矛 手 
 trp_marinid_levy_spearman_pl|柏 柏 尔 征 召 长 矛 手 
 trp_marinid_light_spearmen|柏 柏 尔 狂 热 圣 战 长 矛 手 
@@ -498,8 +498,8 @@ trp_marinid_javelin_infantry|柏 柏 尔 标 枪 兵
 trp_marinid_javelin_infantry_pl|柏 柏 尔 标 枪 兵 
 trp_marinid_berber_bowman|柏 柏 尔 征 召 弓 手 
 trp_marinid_berber_bowman_pl|柏 柏 尔 征 召 弓 手 
-trp_marinid_town_recruit|马 格 里 布 普 通 城 镇 民 兵 
-trp_marinid_town_recruit_pl|马 格 里 布 普 通 城 镇 民 兵 
+trp_marinid_town_recruit|马 格 里 布 普 通 市 民 
+trp_marinid_town_recruit_pl|马 格 里 布 普 通 市 民 
 trp_marinid_town_bowman|麦 地 那 雇 佣 射 手 
 trp_marinid_town_bowman_pl|麦 地 那 雇 佣 射 手 
 trp_marinid_crossbowman|马 里 尼 德 安 达 卢 西 亚 雇 佣 弩 手 
@@ -776,48 +776,48 @@ trp_scottish_heavy_swordsman|苏 格 兰 贵 族 重 步 兵
 trp_scottish_heavy_swordsman_pl|苏 格 兰 贵 族 重 步 兵 
 trp_scottish_heavy_axeman|苏 格 兰 贵 族 斧 兵 
 trp_scottish_heavy_axeman_pl|苏 格 兰 贵 族 斧 兵 
-trp_euro_town_recruit|西 欧 城 镇 民 兵 
-trp_euro_town_recruit_pl|西 欧 城 镇 民 兵 
-trp_euro_village_recruit|西 欧 民 兵 
-trp_euro_village_recruit_pl|西 欧 民 兵 
+trp_euro_town_recruit|西 欧 城 镇 步 兵 
+trp_euro_town_recruit_pl|西 欧 城 镇 步 兵 
+trp_euro_village_recruit|西 欧 义 务 兵 
+trp_euro_village_recruit_pl|西 欧 义 务 兵 
 trp_euro_archer_1|西 欧 弓 箭 民 兵 
 trp_euro_archer_1_pl|西 欧 弓 箭 民 兵 
-trp_euro_archer_2|西 欧 弓 箭 兵 
-trp_euro_archer_2_pl|西 欧 弓 箭 兵 
+trp_euro_archer_2|西 欧 资 深 民 兵 弓 箭 手 
+trp_euro_archer_2_pl|西 欧 资 深 民 兵 弓 箭 手 
 trp_euro_xbow_1|西 欧 持 弩 民 兵 
 trp_euro_xbow_1_pl|西 欧 持 弩 民 兵 
-trp_euro_xbow_2|西 欧 弩 兵 
-trp_euro_xbow_2_pl|西 欧 弩 兵 
-trp_euro_xbow_3|西 欧 持 盾 重 弩 兵 
-trp_euro_xbow_3_pl|西 欧 持 盾 重 弩 兵 
+trp_euro_xbow_2|西 欧 资 深 民 兵 弩 手 
+trp_euro_xbow_2_pl|西 欧 资 深 民 兵 弩 手 
+trp_euro_xbow_3|西 欧 持 弩 军 士 
+trp_euro_xbow_3_pl|西 欧 持 弩 军 士 
 trp_euro_spearman_1|西 欧 长 矛 民 兵 
 trp_euro_spearman_1_pl|西 欧 长 矛 民 兵 
-trp_euro_spearman_2|西 欧 长 矛 军 士 
-trp_euro_spearman_2_pl|西 欧 长 矛 军 士 
-trp_euro_spearman_3|西 欧 重 装 长 矛 军 士 
-trp_euro_spearman_3_pl|西 欧 重 装 长 矛 军 士 
-trp_euro_swordsman_1|西 欧 轻 步 兵 
-trp_euro_swordsman_1_pl|西 欧 轻 步 兵 
-trp_euro_swordsman_2|西 欧 步 兵 
-trp_euro_swordsman_2_pl|西 欧 步 兵 
-trp_euro_swordsman_3|西 欧 重 步 兵 
-trp_euro_swordsman_3_pl|西 欧 重 步 兵 
-trp_town_man_at_arms|西 欧 步 行 封 建 骑 士 
-trp_town_man_at_arms_pl|西 欧 步 行 封 建 骑 士 
-trp_euro_guisarm_1|西 欧 持 戟 民 兵 
-trp_euro_guisarm_1_pl|西 欧 持 戟 民 兵 
-trp_euro_guisarm_2|西 欧 武 装 戟 兵 
-trp_euro_guisarm_2_pl|西 欧 武 装 戟 兵 
-trp_euro_guisarm_3|西 欧 长 戟 军 士 
-trp_euro_guisarm_3_pl|西 欧 长 戟 军 士 
-trp_euro_horse_1|西 欧 轻 装 枪 骑 兵 
-trp_euro_horse_1_pl|西 欧 轻 装 枪 骑 兵 
-trp_euro_horse_2|西 欧 枪 骑 兵 
-trp_euro_horse_2_pl|西 欧 枪 骑 兵 
+trp_euro_spearman_2|西 欧 资 深 民 兵 长 矛 手 
+trp_euro_spearman_2_pl|西 欧 资 深 民 兵 长 矛 手 
+trp_euro_spearman_3|西 欧 长 矛 军 士 
+trp_euro_spearman_3_pl|西 欧 长 矛 军 士 
+trp_euro_swordsman_1|西 欧 持 剑 民 兵 
+trp_euro_swordsman_1_pl|西 欧 持 剑 民 兵 
+trp_euro_swordsman_2|西 欧 资 深 民 兵 剑 士 
+trp_euro_swordsman_2_pl|西 欧 资 深 民 兵 剑 士 
+trp_euro_swordsman_3|西 欧 剑 士 
+trp_euro_swordsman_3_pl|西 欧 剑 士 
+trp_town_man_at_arms|西 欧 城 镇 公 社 战 士 
+trp_town_man_at_arms_pl|西 欧 城 镇 公 社 战 士 
+trp_euro_guisarm_1|西 欧 钩 镰 民 兵 
+trp_euro_guisarm_1_pl|西 欧 钩 镰 民 兵 
+trp_euro_guisarm_2|西 欧 资 深 民 兵 钩 镰 手 
+trp_euro_guisarm_2_pl|西 欧 资 深 民 兵 钩 镰 手 
+trp_euro_guisarm_3|西 欧 钩 镰 军 士 
+trp_euro_guisarm_3_pl|西 欧 钩 镰 军 士 
+trp_euro_horse_1|西 欧 附 属 骑 手 
+trp_euro_horse_1_pl|西 欧 附 属 骑 手 
+trp_euro_horse_2|西 欧 职 业 重 装 骑 兵
+trp_euro_horse_2_pl|西 欧 职 业 重 装 骑 兵 
 trp_euro_horse_3|西 欧 骑 士 侍 从 
 trp_euro_horse_3_pl|西 欧 骑 士 侍 从 
-trp_euro_horse_4|西 欧 封 建 骑 士 
-trp_euro_horse_4_pl|西 欧 封 建 骑 士 
+trp_euro_horse_4|西 欧 骑 士 
+trp_euro_horse_4_pl|西 欧 骑 士 
 trp_looter|劫 匪 
 trp_looter_pl|劫 匪 
 trp_raider|侵 略 者 
