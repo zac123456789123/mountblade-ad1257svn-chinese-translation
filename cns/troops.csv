@@ -46,82 +46,82 @@ trp_arena_training_fighter_10|精 英 斗 士
 trp_arena_training_fighter_10_pl|精 英 斗 士 
 trp_cattle|牛 
 trp_cattle_pl|牛 
-trp_farmer|农 民
-trp_farmer_pl|农 民
-trp_mercenary_village_footman|雇 佣 民 兵 
-trp_mercenary_village_footman_pl|雇 佣 民 兵 
-trp_mercenary_village_skirmisher|雇 佣 平 民 弓 箭 手 
-trp_mercenary_village_skirmisher_pl|雇 佣 平 民 弓 箭 手 
-trp_mercenary_town_recruit|雇 佣 城 镇 民 兵 
-trp_mercenary_town_recruit_pl|雇 佣 城 镇 民 兵 
-trp_mercenary_town_footman|雇 佣 轻 步 兵 
-trp_mercenary_town_footman_pl|雇 佣 轻 步 兵 
-trp_mercenary_town_skirmisher|雇 佣 持 弩 民 兵 
-trp_mercenary_town_skirmisher_pl|雇 佣 持 弩 民 兵 
-trp_mercenary_veteran_swordsman|雇 佣 战 士 
-trp_mercenary_veteran_swordsman_pl|雇 佣 战 士 
+trp_farmer|自 由 民 
+trp_farmer_pl|自 由 民 
+trp_mercenary_village_footman|雇 佣 村 民 
+trp_mercenary_village_footman_pl|雇 佣 村 民 
+trp_mercenary_village_skirmisher|未 训 练 的 弓 手 
+trp_mercenary_village_skirmisher_pl|未 训 练 的 弓 手 
+trp_mercenary_town_recruit|城 镇 自 由 民 
+trp_mercenary_town_recruit_pl|城 镇 自 由 民 
+trp_mercenary_town_footman|雇 佣 步 兵 
+trp_mercenary_town_footman_pl|雇 佣 步 兵 
+trp_mercenary_town_skirmisher|未 训 练 的 弩 手 
+trp_mercenary_town_skirmisher_pl|未 训 练 的 弩 手 
+trp_mercenary_veteran_swordsman|雇 佣 剑 士 
+trp_mercenary_veteran_swordsman_pl|雇 佣 剑 士 
 trp_mercenary_veteran_billman|雇 佣 钩 镰 兵 
 trp_mercenary_veteran_billman_pl|雇 佣 钩 镰 兵 
-trp_mercenary_veteran_spearman|雇 佣 长 矛 军 士 
-trp_mercenary_veteran_spearman_pl|雇 佣 长 矛 军 士 
-trp_mercenary_veteran_crossbowman|雇 佣 轻 装 弩 兵 
-trp_mercenary_veteran_crossbowman_pl|雇 佣 轻 装 弩 兵 
-trp_mercenary_veteran_archer|雇 佣 熟 练 弓 箭 手 
-trp_mercenary_veteran_archer_pl|雇 佣 熟 练 弓 箭 手 
-trp_mercenary_bills_sergeant|雇 佣 武 装 钩 镰 兵 
-trp_mercenary_bills_sergeant_pl|雇 佣 武 装 钩 镰 兵 
-trp_mercenary_swords_sergeant|雇 佣 剑 客 
-trp_mercenary_swords_sergeant_pl|雇 佣 剑 客 
-trp_mercenary_spears_sergeant|雇 佣 重 装 长 矛 军 士 
-trp_mercenary_spears_sergeant_pl|雇 佣 重 装 长 矛 军 士 
-trp_mercenary_crossbows_sergeant|雇 佣 持 盾 重 弩 手 
-trp_mercenary_crossbows_sergeant_pl|雇 佣 持 盾 重 弩 手 
-trp_mercenary_bows_sergeant|雇 佣 长 弓 兵 
-trp_mercenary_bows_sergeant_pl|雇 佣 长 弓 兵 
-trp_mercenary_light_cavalry|雇 佣 轻 装 枪 骑 兵 
-trp_mercenary_light_cavalry_pl|雇 佣 轻 装 枪 骑 兵 
-trp_mercenary_medium_cavalry|雇 佣 枪 骑 兵 
-trp_mercenary_medium_cavalry_pl|雇 佣 枪 骑 兵 
-trp_mercenary_squire|将 领 卫 队 
-trp_mercenary_squire_pl|将 领 卫 队 
+trp_mercenary_veteran_spearman|雇 佣 长 矛 手 
+trp_mercenary_veteran_spearman_pl|雇 佣 长 矛 手 
+trp_mercenary_veteran_crossbowman|雇 佣 弩 手 
+trp_mercenary_veteran_crossbowman_pl|雇 佣 弩 手 
+trp_mercenary_veteran_archer|雇 佣 弓 箭 手 
+trp_mercenary_veteran_archer_pl|雇 佣 弓 箭 手 
+trp_mercenary_bills_sergeant|雇 佣 资 深 钩 镰 兵 
+trp_mercenary_bills_sergeant_pl|雇 佣 资 深 钩 镰 兵 
+trp_mercenary_swords_sergeant|雇 佣 资 深 剑 客 
+trp_mercenary_swords_sergeant_pl|雇 佣 资 深 剑 客 
+trp_mercenary_spears_sergeant|雇 佣 资 深 长 矛 兵 
+trp_mercenary_spears_sergeant_pl|雇 佣 资 深 长 矛 兵 
+trp_mercenary_crossbows_sergeant|雇 佣 资 深 弩 手 
+trp_mercenary_crossbows_sergeant_pl|雇 佣 资 深 弩 手 
+trp_mercenary_bows_sergeant|雇 佣 资 深 弓 箭 手 
+trp_mercenary_bows_sergeant_pl|雇 佣 资 深 弓 箭 手 
+trp_mercenary_light_cavalry|雇 佣 辅 助 后 备 骑 手 
+trp_mercenary_light_cavalry_pl|雇 佣 辅 助 后 备 骑 手 
+trp_mercenary_medium_cavalry|雇 佣 职 业 重 装 骑 兵
+trp_mercenary_medium_cavalry_pl|雇 佣 职 业 重 装 骑 兵
+trp_mercenary_squire|雇 佣 警 备 侍 从 
+trp_mercenary_squire_pl|雇 佣 警 备 侍 从 
 trp_mercenary_knight|游 侠 
 trp_mercenary_knight_pl|游 侠 
 trp_merc_sicily_foot_archer_1|西 西 里 雇 佣 弓 箭 手 
 trp_merc_sicily_foot_archer_1_pl|西 西 里 雇 佣 弓 箭 手 
-trp_merc_sicily_foot_archer_2|西 西 里 穆 斯 林 弓 箭 手 
-trp_merc_sicily_foot_archer_2_pl|西 西 里 穆 斯 林 弓 箭 手 
-trp_merc_sicily_horse_archer_1|西 西 里 雇 佣 骑 射 手 
-trp_merc_sicily_horse_archer_1_pl|J西 西 里 雇 佣 骑 射 手 
-trp_merc_sicily_horse_archer_2|西 西 里 雇 佣 弓 骑 兵 
-trp_merc_sicily_horse_archer_2_pl|西 西 里 雇 佣 弓 骑 兵 
+trp_merc_sicily_foot_archer_2|西 西 里 护 卫 弓 箭 手 
+trp_merc_sicily_foot_archer_2_pl|西 西 里 护 卫 弓 箭 手 
+trp_merc_sicily_horse_archer_1|西 西 里 雇 佣 骑 手 
+trp_merc_sicily_horse_archer_1_pl|J西 西 里 雇 佣 骑 手 
+trp_merc_sicily_horse_archer_2|西 西 里 护 卫 骑 兵 
+trp_merc_sicily_horse_archer_2_pl|西 西 里 护 卫 骑 兵 
 trp_merc_sicily_infantry_1|西 西 里 雇 佣 步 兵 
 trp_merc_sicily_infantry_1_pl|西 西 里 雇 佣 步 兵 
-trp_merc_sicily_infantry_2|西 西 里 雇 佣 战 士 
-trp_merc_sicily_infantry_2_pl|西 西 里 雇 佣 战 士 
-trp_merc_maghreb_cavalry_1|马 格 利 布 雇 佣 骑 兵 
-trp_merc_maghreb_cavalry_1_pl|马 格 利 布 雇 佣 骑 兵 
-trp_merc_maghreb_infantry_1|马 格 利 布 雇 佣 步 兵 
-trp_merc_maghreb_infantry_1_pl|马 格 利 布 雇 佣 步 兵 
-trp_merc_brabantine_xbow|布 拉 班 特 雇 佣 弩 兵 
-trp_merc_brabantine_xbow_pl|布 拉 班 特 雇 佣 弩 兵 
-trp_merc_brabantine_spearman|布 拉 班 特 雇 佣 长 矛 兵 
-trp_merc_brabantine_spearman_pl|布 拉 班 特 雇 佣 长 矛 兵 
-trp_merc_brabantine_guisarm|布 拉 班 特 雇 佣 长 戟 兵 
-trp_merc_brabantine_guisarm_pl|布 拉 班 特 雇 佣 长 戟 兵 
-trp_merc_welsh_bowman|威 尔 士 雇 佣 长 弓 兵 
-trp_merc_welsh_bowman_pl|威 尔 士 雇 佣 长 弓 兵 
+trp_merc_sicily_infantry_2|西 西 里 护 卫 步 兵 
+trp_merc_sicily_infantry_2_pl|西 西 里 护 卫 步 兵 
+trp_merc_maghreb_cavalry_1|赞 那 塔 外 国 雇 佣 骑 手 
+trp_merc_maghreb_cavalry_1_pl|赞 那 塔 外 国 雇 佣 骑 手 
+trp_merc_maghreb_infantry_1|马 格 利 布 外 国 雇 佣 步 兵 
+trp_merc_maghreb_infantry_1_pl|马 格 利 布 外 国 雇 佣 步 兵 
+trp_merc_brabantine_xbow|布 拉 班 特 弩 手 
+trp_merc_brabantine_xbow_pl|布 拉 班 特 弩 手 
+trp_merc_brabantine_spearman|布 拉 班 特 方 阵 长 矛 手 
+trp_merc_brabantine_spearman_pl|布 拉 班 特 方 阵 长 矛 手 
+trp_merc_brabantine_guisarm|布 拉 班 特 钩 镰 兵 
+trp_merc_brabantine_guisarm_pl|布 拉 班 特 钩 镰 兵 
+trp_merc_welsh_bowman|威 尔 士 长 弓 手 
+trp_merc_welsh_bowman_pl|威 尔 士 长 弓 手 
 trp_merc_kern_infantry|盖 尔 雇 佣 轻 步 兵 
 trp_merc_kern_infantry_pl|盖 尔 雇 佣 轻 步 兵 
-trp_merc_almogabar|雇 佣 掷 矛 手 
-trp_merc_almogabar_pl|雇 佣 掷 矛 手 
+trp_merc_almogabar|雇 佣 斥 候 掷 矛 手 
+trp_merc_almogabar_pl|雇 佣 斥 候 掷 矛 手 
 trp_cuman_tribesman|库 曼 族 人 
 trp_cuman_tribesman_pl|库 曼 族 人 
 trp_cuman_skirmisher|库 曼 斥 候 骑 兵 
 trp_cuman_skirmisher_pl|库 曼 斥 候 骑 兵 
 trp_cuman_horseman|库 曼 骑 手 
 trp_cuman_horseman_pl|库 曼 骑 手 
-trp_cuman_horse_archer|库 曼 弓 骑 兵 
-trp_cuman_horse_archer_pl|库 曼 弓 骑 兵 
+trp_cuman_horse_archer|库 曼 骑 射 手 
+trp_cuman_horse_archer_pl|库 曼 骑 射 手 
 trp_cuman_veteran_horse_archer|库 曼 资 深 弓 骑 兵 
 trp_cuman_veteran_horse_archer_pl|库 曼 资 深 弓 骑 兵 
 trp_cuman_lancer|库 曼 枪 骑 兵 
@@ -4258,7 +4258,7 @@ trp_raf_messenger|信 使
 trp_raf_messenger_pl|信 使 
 trp_pope|教 宗 历 山 四 世 
 trp_pope_pl|历 山 四 世 
-trp_temp_lord|临 时 领 主 
-trp_temp_lord_pl|临 时 领 主 
+trp_temp_lord|本 地 村 庄 的 脑 残 童 鞋 
+trp_temp_lord_pl|本 地 村 庄 的 脑 残 童 鞋 
 trp_broken_items|损 坏 的 物 品 
 trp_broken_items_pl|损 坏 的 物 品 
