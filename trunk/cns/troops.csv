@@ -140,64 +140,64 @@ trp_gaelic_merc_axeman_2|盖 尔 雇 佣 长 斧 勇 士
 trp_gaelic_merc_axeman_2_pl|盖 尔 雇 佣 长 斧 勇 士 
 trp_crusader_turkopole|雇 佣 土 耳 其 骑 射 手 
 trp_crusader_turkopole_pl|雇 佣 土 耳 其 骑 射 手 
-trp_templar_crossbows_sergeant|圣 殿 骑 士 团 持 弩 教 友 军 士 
-trp_templar_crossbows_sergeant_pl|圣 殿 骑 士 团 持 弩 教 友 军 士 
-trp_templar_swords_sergeant|圣 殿 骑 士 团 步 兵 教 友 军 士 
-trp_templar_swords_sergeant_pl|圣 殿 骑 士 团 步 兵 教 友 军 士 
-trp_templar_spears_sergeant|圣 殿 骑 士 团 长 矛 教 友 军 士 
-trp_templar_spears_sergeant_pl|圣 殿 骑 士 团 长 矛 教 友 军 士 
-trp_templar_half_brother|圣 殿 骑 士 团 侍 从 教 友 军 士 
-trp_templar_half_brother_pl|圣 殿 骑 士 团 侍 从 教 友 军 士 
+trp_templar_crossbows_sergeant|圣 殿 骑 士 团 教 友 持 弩 军 士 
+trp_templar_crossbows_sergeant_pl|圣 殿 骑 士 团 教 友 持 弩 军 士 
+trp_templar_swords_sergeant|圣 殿 骑 士 团 教 友 步 兵 军 士 
+trp_templar_swords_sergeant_pl|圣 殿 骑 士 团 教 友 步 兵 军 士 
+trp_templar_spears_sergeant|圣 殿 骑 士 团 教 友 长 矛 军 士 
+trp_templar_spears_sergeant_pl|圣 殿 骑 士 团 教 友 长 矛 军 士 
+trp_templar_half_brother|圣 殿 骑 士 团 教 友 侍 从 骑 士 
+trp_templar_half_brother_pl|圣 殿 骑 士 团 教 友 侍 从 骑 士 
 trp_templar_knight|圣 殿 骑 士 
 trp_templar_knight_pl|圣 殿 骑 士 
-trp_hospitaller_swords_sergeant|医 院 骑 士 团 步 兵 教 友 军 士 
-trp_hospitaller_swords_sergeant_pl|医 院 骑 士 团 步 兵 教 友 军 士 
-trp_hospitaller_spears_sergeant|医 院 骑 士 团 长 矛 教 友 军 士 
-trp_hospitaller_spears_sergeant_pl|医 院 骑 士 团 长 矛 教 友 军 士 
-trp_hospitaller_crossbows_sergeant|医 院 骑 士 团 持 弩 教 友 军 士 
-trp_hospitaller_crossbows_sergeant_pl|医 院 骑 士 团 持 弩 教 友 军 士 
-trp_hospitaller_half_brother|医 院 骑 士 团 侍 从 教 友 军 士 
-trp_hospitaller_half_brother_pl|医 院 骑 士 团 侍 从 教 友 军 士 
+trp_hospitaller_swords_sergeant|医 院 骑 士 团 教 友 步 兵 军 士 
+trp_hospitaller_swords_sergeant_pl|医 院 骑 士 团 教 友 步 兵 军 士 
+trp_hospitaller_spears_sergeant|医 院 骑 士 团 教 友 长 矛 军 士 
+trp_hospitaller_spears_sergeant_pl|医 院 骑 士 团 教 友 长 矛 军 士 
+trp_hospitaller_crossbows_sergeant|医 院 骑 士 团 教 友 持 弩 军 士 
+trp_hospitaller_crossbows_sergeant_pl|医 院 骑 士 团 教 友 持 弩 军 士 
+trp_hospitaller_half_brother|医 院 骑 士 团 教 友 侍 从 骑 士 
+trp_hospitaller_half_brother_pl|医 院 骑 士 团 教 友 侍 从 骑 士 
 trp_hospitaller_knight|医 院 骑 士 
 trp_hospitaller_knight_pl|医 院 骑 士 
 trp_mercenaries_end|mercenaries end
 trp_mercenaries_end_pl|mercenaries end
-trp_teu_village_recruit|条 顿 征 召 民 兵 
-trp_teu_village_recruit_pl|条 顿 征 召 民 兵 
-trp_teu_balt_1|条 顿 波 罗 的 海 掷 矛 民 兵 
-trp_teu_balt_1_pl|条 顿 波 罗 的 海 掷 矛 民 兵
-trp_teu_balt_2|条 顿 波 罗 的 海 标 枪 射 手 
-trp_teu_balt_2_pl|条 顿 波 罗 的 海 标 枪 射 手
-trp_teu_balt_3|条 顿 波 罗 的 海 标 枪 骑 射 手
-trp_teu_balt_3_pl|条 顿 波 罗 的 海 标 枪 骑 射 手
-trp_teu_ger_1|条 顿 轻 步 兵 
-trp_teu_ger_1_pl|条 顿 轻 步 兵 
-trp_teu_ger_2_1|条 顿 戟 兵 
-trp_teu_ger_2_1_pl|条 顿 戟 兵 
-trp_teu_ger_2_2|条 顿 步 兵 
-trp_teu_ger_2_2_pl|条 顿 步 兵 
-trp_teu_ger_3_2|条 顿 卫 士 
-trp_teu_ger_3_2_pl|条 顿 卫 士 
-trp_teu_town_1|条 顿 宗 教 狂 热 者 
-trp_teu_town_1_pl|条 顿 宗 教 狂 热 者
-trp_teu_town_2_1|条 顿 精 锐 民 兵 
-trp_teu_town_2_1_pl|条 顿 精 锐 民 兵 
-trp_teu_town_3_1|条 顿 长 矛 军 士 
-trp_teu_town_3_1_pl|条 顿 长 矛 军 士 
-trp_teu_town_4_1|条 顿 宗 教 长 矛 卫 士 
-trp_teu_town_4_1_pl|条 顿 宗 教 长 矛 卫 士 
-trp_teu_town_2_2|条 顿 持 弩 民 兵 
-trp_teu_town_2_2_pl|条 顿 持 弩 民 兵 
+trp_teu_village_recruit|波 罗 的 海 村 民 
+trp_teu_village_recruit_pl|波 罗 的 海 村 民 
+trp_teu_balt_1|波 罗 的 海 族 人 
+trp_teu_balt_1_pl|波 罗 的 海 族 人 
+trp_teu_balt_2|波 罗 的 海 勇 士 
+trp_teu_balt_2_pl|波 罗 的 海 勇 士 
+trp_teu_balt_3|波 罗 的 海 辅 助 轻 骑 兵 
+trp_teu_balt_3_pl|波 罗 的 海 辅 助 轻 骑 兵 
+trp_teu_ger_1|德 意 志 定 居 者 
+trp_teu_ger_1_pl|德 意 志 定 居 者 
+trp_teu_ger_2_1|条 顿 骑 士 团 钩 镰 兵 
+trp_teu_ger_2_1_pl|条 顿 骑 士 团 钩 镰 兵 
+trp_teu_ger_2_2|条 顿 骑 士 团 军 士 
+trp_teu_ger_2_2_pl|条 顿 骑 士 团 军 士 
+trp_teu_ger_3_2|条 顿 骑 士 团 步 行 准 骑 士 
+trp_teu_ger_3_2_pl|条 顿 骑 士 团 步 行 准 骑 士 
+trp_teu_town_1|德 意 志 民 兵 
+trp_teu_town_1_pl|德 意 志 民 兵 
+trp_teu_town_2_1|德 意 志 民 兵 长 矛 手 
+trp_teu_town_2_1_pl|德 意 志 民 兵 长 矛 手 
+trp_teu_town_3_1|条 顿 骑 士 团 长 矛 兵 
+trp_teu_town_3_1_pl|条 顿 骑 士 团 长 矛 兵 
+trp_teu_town_4_1|条 顿 骑 士 团 资 深 长 矛 兵 
+trp_teu_town_4_1_pl|条 顿 骑 士 团 资 深 长 矛 兵 
+trp_teu_town_2_2|德 意 志 城 镇 民 兵 弩 手 
+trp_teu_town_2_2_pl|德 意 志 城 镇 民 兵 弩 手 
 trp_teu_town_3_2|条 顿 骑 士 团 弩 兵 
 trp_teu_town_3_2_pl|条 顿 骑 士 团 弩 兵 
-trp_teu_town_4_2|条 顿 持 盾 重 弩 兵 
-trp_teu_town_4_2_pl|条 顿 持 盾 重 弩 兵 
-trp_teu_horse_1|条 顿 轻 装 枪 骑 兵 
-trp_teu_horse_1_pl|条 顿 轻 装 枪 骑 兵 
-trp_teu_horse_2|条 顿 骑 马 军 士 
-trp_teu_horse_2_pl|条 顿 骑 马 军 士 
-trp_teu_horse_3|条 顿 骑 士 侍 从 
-trp_teu_horse_3_pl|条 顿 骑 士 侍 从 
+trp_teu_town_4_2|条 顿 骑 士 团 资 深 弩 兵 
+trp_teu_town_4_2_pl|条 顿 骑 士 团 资 深 弩 兵 
+trp_teu_horse_1|条 顿 骑 士 团 随 从 骑 手 
+trp_teu_horse_1_pl|条 顿 骑 士 团 随 从 骑 手 
+trp_teu_horse_2|条 顿 骑 士 团 骑 马 军 士 
+trp_teu_horse_2_pl|条 顿 骑 士 团 骑 马 军 士 
+trp_teu_horse_3|条 顿 骑 士 团 准 骑 士 
+trp_teu_horse_3_pl|条 顿 骑 士 团 准 骑 士 
 trp_teu_horse_4|条 顿 骑 士 
 trp_teu_horse_4_pl|条 顿 骑 士 
 trp_teutonic_messenger|条 顿 信 使 
@@ -208,20 +208,20 @@ trp_teutonic_prison_guard|监 狱 看 守
 trp_teutonic_prison_guard_pl|监 狱 看 守 
 trp_teutonic_castle_guard|城 堡 守 卫 
 trp_teutonic_castle_guard_pl|城 堡 守 卫 
-trp_tatar_tribesman|蒙 古 族 人 
-trp_tatar_tribesman_pl|蒙 古 族 人 
-trp_tatar_skirmisher|蒙 古 斥 候 骑 兵 
-trp_tatar_skirmisher_pl|蒙 古 斥 候 骑 兵 
-trp_tatar_horseman|蒙 古 骑 手 
-trp_tatar_horseman_pl|蒙 古 骑 手 
-trp_tatar_horse_archer|蒙 古 骑 射 手 
-trp_tatar_horse_archer_pl|蒙 古 骑 射 手 
-trp_tatar_veteran_horse_archer|蒙 古 重 甲 骑 射 手 
-trp_tatar_veteran_horse_archer_pl|蒙 古 重 甲 骑 射 手 
-trp_tatar_lancer|蒙 古 枪 骑 兵 
-trp_tatar_lancer_pl|蒙 古 枪 骑 兵 
-trp_tatar_heavy_lancer|蒙 古 重 装 枪 骑 兵 
-trp_tatar_heavy_lancer_pl|蒙 古 重 装 枪 骑 兵 
+trp_tatar_tribesman|蒙 古 新 兵 
+trp_tatar_tribesman_pl|蒙 古 新 兵 
+trp_tatar_skirmisher|蒙 古 射 手 
+trp_tatar_skirmisher_pl|蒙 古 射 手 
+trp_tatar_horseman|蒙 古 带 盔 兵 士 
+trp_tatar_horseman_pl|蒙 古 带 盔 兵 士 
+trp_tatar_horse_archer|蒙 古 复 合 弓 手 
+trp_tatar_horse_archer_pl|蒙 古 复 合 弓 手 
+trp_tatar_veteran_horse_archer|蒙 古 神 射 手 
+trp_tatar_veteran_horse_archer_pl|蒙 古 神 射 手 
+trp_tatar_lancer|蒙 古 甲 士 
+trp_tatar_lancer_pl|蒙 古 甲 士 
+trp_tatar_heavy_lancer|蒙 古 把 阿 秃 儿 
+trp_tatar_heavy_lancer_pl|蒙 古 把 阿 秃 儿 
 trp_tatar_messenger|蒙 古 信 使 
 trp_tatar_messenger_pl|蒙 古 信 使 
 trp_tatar_deserter|蒙 古 逃 兵 
