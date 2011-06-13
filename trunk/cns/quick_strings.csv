@@ -223,7 +223,7 @@ qstr_Your_relation_with_{|你 与 {s1}的 关 系 提 升 了。
 qstr_Your_relation_with_{s|你 与 {s1}的 关 系 恶 化 了。 
 qstr_You_gain_honour.|你 获 得 荣 誉。 
 qstr_You_lose_honour.|你 失 去 荣 誉。 
-qstr_Muslims:_{reg25}_pag|穆 斯 林： {reg25} 波 罗 的 海 异 教： {reg26} 蒙 古 异 教： {reg29} 天 主 教： {reg27} 东 正 教： {reg28}
+qstr_Muslims:_{reg25}_pag|队 伍 宗 教 组 成 比 例：  穆 斯 林： {reg25} 波 罗 的 海 异 教： {reg26} 蒙 古 异 教： {reg29} 天 主 教： {reg27} 东 正 教： {reg28}
 qstr_{s1}_has_declared_wa|{s1}已 经 向 {s2}宣 战。 
 qstr_{s1}_and_{s2}_have_m|{s1}与 {s2}已 经 达 成 了 停 战 协 议。 
 qstr_{s2}_{reg3?was:is_cu|{s2}{reg3?曾 :正 }在 {s3}。 
@@ -313,7 +313,7 @@ qstr_You_brought_{reg3}_h|你 带 了 {reg3}头 牛 去 {s1}。
 qstr_I_heard_that_there_w|我 听 说 在 {s62}将 会 举 办 一 场 竞 技 大 会。 
 qstr_I_heard_that_one_can|我 听 说 {s62}在 {s63}卖 得 很 便 宜。 
 qstr_I_heard_that_they_pa|我 听 说 {s62}在 {s63}卖 的 很 贵。 
-qstr_attacks_neutral_{s20|攻 击 中 立 {s20} {s21}{***}
+qstr_attacks_neutral_{s20|攻 击 中 立 {s20} {s21}
 qstr_two_days_ago|两 天 之 前 
 qstr_target:_{s51}___{reg|target: {s51} - {reg22} actor: {s52} - {reg23} strength ratio: {reg21} war damage: {reg24}{***}
 qstr_I_m_sorry_we_take_vo|对 不 起， 我 已 经 许 下 了 贞 洁 的 誓 言， 一 輩 子 不 允 许 结 婚。 

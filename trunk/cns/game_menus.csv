@@ -341,7 +341,7 @@ mno_village_bandits_defeated_accept|我 接 受 你 们 的 赠 品。
 mno_village_bandits_defeated_cont|你 们 比 我 更 需 要 这 些 东 西。 你 们 的 感 谢 已 经 足 够 了。 
 menu_center_manage|{s19}^{reg6?^^ 你 现 在 正 在 建 造 {s7}。 这 个 建 筑 将 于 {reg8}日 后 完 成。 :}
 mno_center_build_manor|建 造 一 个 庄 园。 
-mno_center_build_castle_1|为 庄 园 加 盖 防 御 工 事。 （建 议 不 要 使 用， 有 bug）
+mno_center_build_castle_1|为 庄 园 加 盖 防 御 工 事。 
 mno_center_build_fish_pond|建 造 一 座 磨 坊。 
 mno_center_build_watch_tower|建 造 一 个 了 望 塔。 
 mno_center_build_school|建 造 一 所 学 校。 
