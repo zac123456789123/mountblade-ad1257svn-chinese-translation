@@ -5,6 +5,8 @@ if not exist ..\..\Textures\font.dds.en ( goto break ) else ( goto continue )
 :break
 echo It is English version now! I'll run convert script first.
 echo 目前是英文版本的字库！将先运行convert脚本切换回中文。
+echo --------------------------------------
+@echo.
 call convert_中英文字体转换.bat
 
 :continue
