@@ -1,0 +1,779 @@
+p_zendar|禪 達 
+p_town_1|克 拉 科 夫 
+p_town_2|弗 羅 茨 瓦 夫 
+p_town_3|格 但 斯 克 
+p_town_4|波 茲 南 
+p_town_1_1|埃 爾 賓 
+p_town_1_2|哥 尼 斯 堡 
+p_town_1_3|索 恩 
+p_town_1_4|裡 加 
+p_town_2_1|維 爾 紐 斯 
+p_town_2_2|考 納 斯 
+p_town_2_3|格 羅 德 諾 
+p_town_2_4|波 洛 茨 克 
+p_town_3_1|薩 萊 
+p_town_3_2|斯 摩 稜 斯 克 
+p_town_3_3|基 輔 
+p_town_3_4|切 爾 尼 戈 夫 
+p_town_4_1|隆 德 
+p_town_4_2|羅 斯 基 勒 
+p_town_4_3|雷 瓦 爾 
+p_town_4_4|維 堡 
+p_town_6_1|紐 倫 堡 
+p_town_6_2|科 隆 
+p_town_6_3|法 蘭 克 福 
+p_town_6_4|布 拉 格 
+p_town_6_5|馬 格 德 堡 
+p_town_6_6|呂 貝 克 
+p_town_6_7|熱 那 亞 
+p_town_7_1|瓦 拉 德 
+p_town_7_2|薩 格 勒 布 
+p_town_7_3|布 拉 迪 斯 拉 發 
+p_town_7_4|塞 格 德 
+p_town_8_1|諾 夫 哥 羅 德 
+p_town_8_2|舊 魯 薩 
+p_town_9_1|倫 敦 
+p_town_9_2|布 裡 斯 托 爾 
+p_town_9_3|切 斯 特 
+p_town_9_4|約 克 
+p_town_9_5|波 爾 多 
+p_town_9_6|都 柏 林 
+p_town_10_1|巴 黎 
+p_town_10_2|南 特 
+p_town_10_3|第 戎 
+p_town_10_4|圖 盧 茲 
+p_town_10_5|魯 昂 
+p_town_10_6|普 羅 旺 斯 艾 克 斯 
+p_town_11_1|尼 德 羅 斯 
+p_town_11_2|卑 爾 根 
+p_town_11_3|奧 斯 陸 
+p_town_12_1|斯 特 靈 
+p_town_12_2|格 拉 斯 哥 
+p_town_13_1|多 尼 戈 爾 
+p_town_13_2|鄧 甘 嫩 
+p_town_14_1|韋 斯 特 羅 斯 
+p_town_14_2|阿 布 
+p_town_14_3|維 斯 比 
+p_town_15_1|弗 拉 基 米 爾 
+p_town_15_2|加 利 奇 
+p_town_15_3|利 沃 夫 
+p_town_16_1|裡 斯 本 
+p_town_16_2|科 英 布 拉 
+p_town_17_1|巴 塞 羅 那 
+p_town_17_2|瓦 倫 西 亞 
+p_town_18_1|托 萊 多 
+p_town_18_2|塞 維 利 亞 
+p_town_20_1|格 拉 納 達 
+p_town_20_2|龍 達 
+p_town_21_1|羅 馬 
+p_town_22_1|尼 西 亞 
+p_town_22_2|士 麥 那 
+p_town_22_3|科 羅 塞 
+p_town_22_4|帖 撒 羅 尼 迦 
+p_town_23_1|阿 卡 
+p_town_23_2|塔 爾 蘇 斯 
+p_town_23_3|耶 路 撒 冷 
+p_town_23_4|安 提 阿 
+p_town_23_5|尼 科 西 亞 
+p_town_24_1|巴 勒 莫 
+p_town_24_2|那 不 勒 斯 
+p_town_25_1|開 羅 
+p_town_25_2|亞 歷 山 大 
+p_town_25_3|杜 姆 亞 特 
+p_town_25_4|大 馬 士 革 
+p_town_26_1|君 士 坦 丁 堡 
+p_town_26_2|雅 典 
+p_town_27_1|特 拉 比 松 
+p_town_27_2|安 卡 拉 
+p_town_27_3|科 尼 亞 
+p_town_28_1|突 尼 斯 
+p_town_28_2|的 黎 波 裡 
+p_town_29_1|茲 韋 錢 
+p_town_29_2|科 托 爾 
+p_town_30_1|特 爾 諾 沃 
+p_town_30_2|菲 利 波 波 利 
+p_town_31_1|非 斯 
+p_town_31_2|馬 拉 喀 什 
+p_town_31_3|瓦 赫 蘭 
+p_castle_1|格 涅 茲 諾 
+p_castle_2|桑 多 梅 日 
+p_castle_3|格 沃 古 夫 
+p_castle_4|奧 波 萊 
+p_castle_5|車 默 諾 
+p_castle_6|克 斯 沃 
+p_castle_7|盧 布 斯 卡 
+p_castle_8|盧 布 林 
+p_castle_1_1|阿 倫 斯 堡 
+p_castle_1_2|巴 爾 加 
+p_castle_1_3|維 爾 揚 迪 
+p_castle_1_4|奧 登 斯 堡 
+p_castle_1_5|多 爾 帕 特 
+p_castle_1_6|林 巴 日 
+p_castle_1_7|圖 爾 登 
+p_castle_1_8|瑪 麗 恩 韋 德 
+p_castle_1_9|文 登 堡 
+p_castle_2_1|拉 森 尼 埃 
+p_castle_2_2|希 米 尼 什 基 利 
+p_castle_2_3|杜 賓 基 
+p_castle_2_4|克 拿 維 
+p_castle_2_5|托 拉 皮 利 斯 
+p_castle_2_6|新 格 魯 多 克 
+p_castle_2_7|明 斯 克 
+p_castle_2_8|維 捷 布 斯 克 
+p_castle_3_1|梁 贊 
+p_castle_3_2|弗 拉 基 米 爾 
+p_castle_3_3|別 爾 哥 羅 德 
+p_castle_3_4|下 諾 夫 哥 羅 德 
+p_castle_3_5|雅 羅 斯 拉 夫 爾 
+p_castle_3_6|莫 斯 科 
+p_castle_3_7|佩 列 斯 拉 夫 爾 
+p_castle_4_1|阿 格 斯 
+p_castle_4_2|奧 胡 斯 
+p_castle_4_3|裡 貝 盧 斯 
+p_castle_4_4|石 勒 蘇 益 格 
+p_castle_4_5|施 威 因 巴 勒 堡 
+p_castle_4_6|凱 隆 堡 
+p_castle_4_7|赫 爾 辛 格 堡 
+p_castle_4_8|瓦 爾 貝 裡 堡 
+p_castle_6_1|亞 琛 
+p_castle_6_2|特 裡 爾 
+p_castle_6_3|維 也 納 
+p_castle_6_4|美 因 茨 
+p_castle_6_5|慕 尼 黑 
+p_castle_6_6|勃 蘭 登 堡 
+p_castle_6_7|魯 汶 堡 
+p_castle_6_8|南 希 堡 
+p_castle_6_9|維 羅 納 
+p_castle_6_10|斯 特 拉 斯 堡 
+p_castle_6_11|巴 登 
+p_castle_6_12|邁 森 
+p_castle_7_1|布 裡 卜 日 
+p_castle_7_2|阿 爾 巴 尤 利 亞 堡 
+p_castle_7_3|克 塞 洛 堡 
+p_castle_7_4|希 克 洛 什 堡 
+p_castle_7_5|茲 沃 倫 堡 
+p_castle_7_6|帕 塔 克 堡 
+p_castle_7_7|考 洛 喬 堡 
+p_castle_7_8|埃 斯 特 爾 戈 姆 堡 
+p_castle_8_1|普 斯 科 夫 
+p_castle_8_2|大 盧 基 
+p_castle_9_1|比 斯 頓 堡 
+p_castle_9_2|劉 易 斯 堡 
+p_castle_9_3|科 夫 堡 
+p_castle_9_4|多 佛 爾 堡 
+p_castle_9_5|班 堡 
+p_castle_9_6|蘭 卡 斯 特 
+p_castle_9_7|克 萊 爾 堡 
+p_castle_9_8|彭 布 羅 克 堡 
+p_castle_9_9|威 克 斯 福 德 堡 
+p_castle_10_1|卡 爾 卡 松 
+p_castle_10_2|莫 爾 坦 
+p_castle_10_3|布 洛 涅 
+p_castle_10_4|沙 隆 
+p_castle_10_5|昂 古 萊 姆 
+p_castle_10_6|卡 奧 爾 
+p_castle_10_7|克 萊 蒙 
+p_castle_10_8|奧 爾 良 
+p_castle_10_9|桑 斯 
+p_castle_10_10|希 農 
+p_castle_10_11|阿 拉 斯 
+p_castle_10_12|昂 熱 
+p_castle_11_1|博 格 若 
+p_castle_11_2|勃 艮 第 
+p_castle_11_3|斯 塔 萬 格 
+p_castle_11_4|滕 斯 貝 格 
+p_castle_11_5|拉 恩 希 爾 達 摩 
+p_castle_11_6|馬 恩 
+p_castle_12_1|厄 科 特 堡 
+p_castle_12_2|丁 沃 爾 堡 
+p_castle_12_3|基 爾 德 拉 米 堡 
+p_castle_12_4|愛 丁 堡 
+p_castle_13_1|斯 萊 戈 
+p_castle_13_2|塔 利 霍 格 福 特 堡 
+p_castle_13_3|布 拉 尼 堡 
+p_castle_13_4|卡 瑞 克 阿 布 拉 吉 堡 
+p_castle_14_1|卡 爾 馬 尼 爾 
+p_castle_14_2|斯 德 哥 爾 摩 
+p_castle_14_3|斯 卡 拉 
+p_castle_14_4|維 辛 蘇 
+p_castle_14_5|斯 特 克 博 格 
+p_castle_14_6|林 雪 平 
+p_castle_15_1|普 熱 梅 希 爾 
+p_castle_15_2|盧 茨 克 
+p_castle_15_3|德 羅 希 琴 
+p_castle_15_4|巴 庫 瑪 
+p_castle_15_5|布 雷 斯 特 
+p_castle_15_6|特 雷 波 利 雅 
+p_castle_16_1|吉 馬 良 斯 
+p_castle_16_2|梅 爾 圖 拉 
+p_castle_16_3|錫 爾 維 什 
+p_castle_16_4|布 拉 剛 薩 
+p_castle_17_1|薩 拉 戈 薩 
+p_castle_17_2|卡 斯 特 休 塔 特 
+p_castle_17_3|佩 皮 尼 亞 
+p_castle_17_4|阿 爾 科 伊 
+p_castle_17_5|托 爾 托 薩 
+p_castle_17_6|哈 卡 
+p_castle_17_7|阿 巴 拉 辛 
+p_castle_18_1|萊 莫 斯 
+p_castle_18_2|比 斯 開 
+p_castle_18_3|萊 昂 
+p_castle_18_4|布 爾 戈 斯 
+p_castle_18_5|巴 達 霍 斯 
+p_castle_18_6|穆 爾 西 亞 
+p_castle_20_1|塔 裡 法 堡 
+p_castle_20_2|安 特 克 拉 堡 
+p_castle_20_3|瓦 迪· 阿 塞 堡 
+p_castle_20_4|阿 爾· 梅 利 亞 堡 
+p_castle_22_1|米 拉 
+p_castle_22_2|安 塔 利 亞 
+p_castle_22_3|索 佐 波 利 斯 
+p_castle_22_4|以 弗 所 
+p_castle_22_5|推 雅 推 喇 
+p_castle_22_6|亞 大 米 田 
+p_castle_23_1|克 拉 克 騎 士 堡 
+p_castle_23_2|蒙 福 特 堡 
+p_castle_23_3|的 黎 波 裡
+p_castle_24_1|雷 焦 
+p_castle_24_2|巴 裡 
+p_castle_24_3|梅 爾 菲 
+p_castle_24_4|塔 蘭 托 
+p_castle_25_1|曼 蘇 拉 
+p_castle_25_2|阿 裡 什 
+p_castle_25_3|伊 斯 梅 利 亞 
+p_castle_25_4|亞 喀 巴 
+p_castle_25_5|巴 爾 卡
+p_castle_25_6|卡 拉 克 
+p_castle_25_7|貝 尼 蘇 韋 夫 
+p_castle_26_1|拉 裡 薩 
+p_castle_26_2|約 阿 尼 納 
+p_castle_26_3|阿 德 裡 安 堡 
+p_castle_26_4|克 裡 斯 托 普 利 斯 
+p_castle_27_1|埃 爾 梅 內 克 
+p_castle_27_2|阿 馬 西 亞 
+p_castle_27_3|埃 爾 津 詹 
+p_castle_27_4|埃 澤 薩 
+p_castle_27_5|拉 佳 
+p_castle_27_6|卡 爾 斯 
+p_castle_28_1|凱 魯 萬 
+p_castle_28_2|凱 裡 卜 
+p_castle_28_3|達 西 第 艾 茲 哈 爾 
+p_castle_28_4|貝 賈 亞 
+p_castle_28_5|加 貝 斯 
+p_castle_28_6|蘇 爾 特 
+p_castle_29_1|魯 德 尼 克 
+p_castle_29_2|巴 爾 
+p_castle_30_1|錫 利 斯 特 拉 
+p_castle_30_2|內 塞 伯 爾 
+p_castle_30_3|維 丁 
+p_castle_31_1|丹 吉 爾 
+p_castle_31_2|阿 爾 及 爾 
+p_castle_player|玩 家 的 城 堡 
+p_village_1|維 倫 
+p_village_2|緬 濟 熱 奇 
+p_village_3|蒂 涅 茨 
+p_village_4|希 維 德 尼 察 
+p_village_5|博 萊 斯 瓦 維 茨 
+p_village_6|奧 斯 特 魯 夫 
+p_village_7|格 耶 茨 
+p_village_8|切 爾 斯 克 
+p_village_9|弗 沃 茨 瓦 韋 克 
+p_village_10|拉 席 波 爾 茲 
+p_village_11|維 希 利 察 
+p_village_12|萊 格 尼 察 
+p_village_13|什 切 青 
+p_village_14|科 沃 布 熱 格 
+p_village_15|別 奇 
+p_village_16|奧 斯 特 羅 維 茨 
+p_village_1_1|雷 登 
+p_village_1_2|斯 特 拉 斯 
+p_village_1_3|科 肯 豪 森 
+p_village_1_4|克 列 瓦 
+p_village_1_5|拉 克 尼 特 
+p_village_1_6|維 森 貝 格 
+p_village_1_7|特 維 特 
+p_village_1_8|巴 特 施 泰 因 
+p_village_1_9|布 勞 恩 斯 貝 格 
+p_village_1_10|羅 西 騰 
+p_village_1_11|沃 爾 瑪 
+p_village_1_12|梅 梅 爾 堡 
+p_village_1_13|摩 納 
+p_village_1_14|奧 斯 特 羅 德 
+p_village_1_15|佩 多 萊 
+p_village_1_16|利 爾 
+p_village_1_17|海 爾 斯 貝 格 
+p_village_2_1|布 拉 若 雷 
+p_village_2_2|拜 耳 斯 蓋 聶 
+p_village_2_3|烏 熱 帕 列 
+p_village_2_4|沃 斯 基 利 
+p_village_2_5|維 琉 歐 納 
+p_village_2_6|烏 克 梅 爾 蓋 
+p_village_2_7|阿 利 歐 加 拉 
+p_village_2_8|布 拉 斯 拉 夫 
+p_village_2_9|貝 提 加 拉 
+p_village_2_10|裡 加 
+p_village_2_11|斯 洛 尼 姆 
+p_village_2_12|斯 拉 克 
+p_village_2_13|鮑 裡 索 夫 
+p_village_2_14|克 萊 茨 克 
+p_village_2_15|奧 爾 沙 
+p_village_2_16|尼 揚 維 茲 
+p_village_3_1|庫 爾 斯 克 
+p_village_3_2|特 維 爾 
+p_village_3_3|佩 列 梅 什 利 
+p_village_3_4|羅 斯 托 夫 
+p_village_3_5|鮑 裡 索 夫 卡 
+p_village_3_6|蘇 茲 達 爾 
+p_village_3_7|科 澤 利 斯 克 
+p_village_3_8|諾 夫 哥 羅 德· 謝 韋 爾 斯 基 
+p_village_3_9|布 羅 伐 利 
+p_village_3_10|傑 米 多 夫 
+p_village_3_11|穆 羅 姆 
+p_village_3_12|蒙 古 營 寨 I
+p_village_3_13|蒙 古 營 寨 II
+p_village_3_14|蒙 古 營 寨 III
+p_village_3_15|蒙 古 營 寨 IV
+p_village_4_1|斯 蘭 格 魯 普 
+p_village_4_2|哥 本 哈 根 
+p_village_4_3|特 雷 勒 堡 
+p_village_4_4|勃 艮 達 爾 摩 
+p_village_4_5|納 爾 瓦 
+p_village_4_6|維 森 貝 格 
+p_village_4_7|蘭 訥 斯 
+p_village_4_8|奧 爾 堡 
+p_village_4_9|約 靈 
+p_village_4_10|裡 伯 
+p_village_4_11|霍 爾 森 斯 
+p_village_4_12|歐 登 塞 
+p_village_4_13|弗 倫 斯 博 格 
+p_village_4_14|哈 爾 姆 斯 塔 德 
+p_village_4_15|法 爾 肯 貝 裡 
+p_village_4_16|靈 斯 泰 茲 
+p_village_6_1|不 萊 梅 
+p_village_6_2|科 布 倫 茨 
+p_village_6_3|海 德 堡 
+p_village_6_4|蘭 茨 胡 特 
+p_village_6_5|布 倫 瑞 克 
+p_village_6_6|蓋 爾 恩 豪 森 
+p_village_6_7|萊 比 錫 
+p_village_6_8|斯 圖 加 特 
+p_village_6_9|賓 根 
+p_village_6_10|波 恩 
+p_village_6_11|諾 伊 斯 
+p_village_6_12|奧 爾 米 茨 
+p_village_6_13|埃 格 
+p_village_6_14|訥 德 林 根 
+p_village_6_15|維 爾 茨 堡 
+p_village_6_16|雷 根 斯 堡 
+p_village_6_17|維 滕 貝 格 
+p_village_6_18|漢 堡 
+p_village_6_19|登 博 斯 
+p_village_6_20|斯 潘 道 
+p_village_6_21|布 魯 塞 爾 
+p_village_6_22|林 堡 
+p_village_6_23|赫 拉 茲 
+p_village_6_24|弗 利 薩 赫 
+p_village_6_25|坎 波 莫 羅 內 
+p_village_6_26|巴 爾 伽 利 
+p_village_7_1|克 雷 姆 尼 察 
+p_village_7_2|佩 奇 
+p_village_7_3|佩 斯 
+p_village_7_4|科 洛 斯 堡 
+p_village_7_5|伊 凱 爾 堡 
+p_village_7_6|托 爾 茨 瓦 
+p_village_7_7|亞 斯 卡 
+p_village_7_8|亞 布 拉 納 茨 
+p_village_7_9|維 斯 普 雷 姆 
+p_village_7_10|曾 格 
+p_village_7_11|小 克 勒 什 
+p_village_7_12|阿 拉 德
+p_village_7_13|奇 洛 科 
+p_village_7_14|布 達 
+p_village_7_15|喬 納 德 
+p_village_7_16|蒂 米 什 瓦 拉 
+p_village_8_1|拉 多 加 
+p_village_8_2|希 姆 斯 基 
+p_village_8_3|佩 斯 基 
+p_village_8_4|伊 萬 諾 夫 斯 科 耶 
+p_village_8_5|尤 裡 耶 沃 
+p_village_8_6|呂 貝 齊 
+p_village_9_1|格 瑞 內 斯 
+p_village_9_2|波 伊 斯 
+p_village_9_3|吉 爾 福 德 
+p_village_9_4|布 賴 頓 
+p_village_9_5|阿 伯 裡 斯 特 威 斯 
+p_village_9_6|聖 艾 夫 斯 
+p_village_9_7|牛 津 
+p_village_9_8|諾 威 奇 
+p_village_9_9|赫 裡 福 德 
+p_village_9_10|威 根 
+p_village_9_11|布 裡 德 靈 頓 
+p_village_9_12|格 洛 斯 特 
+p_village_9_13|科 夫 
+p_village_9_14|霍 恩 西 
+p_village_9_15|比 尤 德 
+p_village_9_16|羅 斯 伯 裡 
+p_village_9_17|梅 利 尼 亞 克 
+p_village_9_18|貝 爾 熱 拉 克 
+p_village_9_19|利 默 裡 克 
+p_village_9_20|科 克 
+p_village_9_21|沃 特 福 德 
+p_village_10_1|波 瓦 蒂 爾 
+p_village_10_2|雷 恩 
+p_village_10_3|埃 夫 勒 
+p_village_10_4|卡 昂 
+p_village_10_5|沙 特 爾 
+p_village_10_6|亞 眠 
+p_village_10_7|加 萊 
+p_village_10_8|利 摩 日 
+p_village_10_10|阿 爾 比 
+p_village_10_12|納 爾 博 訥 
+p_village_10_13|特 魯 瓦 
+p_village_10_14|庫 唐 斯 
+p_village_10_15|亞 維 農 
+p_village_10_16|坎 佩 爾 
+p_village_10_17|土 倫 
+p_village_10_18|芒 德 
+p_village_10_19|馬 賽 
+p_village_10_20|貝 桑 松 
+p_village_10_21|拉 昂 
+p_village_10_22|訥 韋 爾 
+p_village_10_23|裡 昂 
+p_village_10_24|朗 格 勒 
+p_village_10_28|蘭 斯 
+p_village_10_30|勒 芒 
+p_village_11_1|羅 加 蘭 
+p_village_11_2|弗 萊 賽 
+p_village_11_3|托 爾 斯 港 
+p_village_11_4|哈 馬 爾 
+p_village_11_5|博 裡 
+p_village_11_6|維 伊 
+p_village_11_7|凱 於 龐 厄 爾 
+p_village_11_8|希 恩 
+p_village_11_9|康 格 海 爾 
+p_village_11_10|薩 瑟 蘭 
+p_village_11_11|奧 克 尼 
+p_village_11_12|斯 泰 恩 謝 爾 
+p_village_12_1|因 弗 內 斯 
+p_village_12_2|奧 本 
+p_village_12_3|威 克 
+p_village_12_4|斯 昆 
+p_village_12_5|卡 盧 克 
+p_village_12_6|愛 丁 堡 
+p_village_12_7|林 利 斯 哥 
+p_village_12_8|帕 斯 
+p_village_13_1|卡 捨 爾 
+p_village_13_2|恩 尼 斯 
+p_village_13_3|卡 斯 爾 雷 
+p_village_13_4|拉 福 
+p_village_13_5|考 克 姆 羅· 阿 比 
+p_village_13_6|奧 馬· 阿 比 
+p_village_13_7|卡 裡 克 
+p_village_13_8|斯 特 拉 班 
+p_village_14_1|烏 普 薩 拉 
+p_village_14_2|阿 爾 博 加 
+p_village_14_3|艾 蘭 
+p_village_14_4|維 布 裡 亞 裡 
+p_village_14_5|魯 姆 
+p_village_14_6|韋 斯 特 爾 維 克 
+p_village_14_7|維 西 奧 倫 
+p_village_14_8|奧 拉 布 魯 
+p_village_14_9|比 耶 爾 布 
+p_village_14_10|法 雪 平 
+p_village_14_11|南 雪 平 
+p_village_14_12|錫 格 蒂 納 
+p_village_15_1|奧 爾 德 克 
+p_village_15_2|茲 韋 尼 哥 羅 德 
+p_village_15_3|托 馬 茨 
+p_village_15_4|科 羅 亞 
+p_village_15_5|沃 倫 
+p_village_15_6|赫 魯 別 舒 夫 
+p_village_15_7|薩 諾 克 
+p_village_15_8|洛 夫 諾 
+p_village_15_9|梅 爾 尼 克 
+p_village_15_10|奧 諾 姆 
+p_village_15_11|卡 緬 涅 茨 
+p_village_15_12|茲 巴 拉 日 
+p_village_16_1|法 魯 
+p_village_16_2|萊 裡 亞 
+p_village_16_3|聖 塔 倫 
+p_village_16_4|薩 爾 堡 
+p_village_16_5|貝 雅 
+p_village_16_6|波 塔 萊 格 雷 
+p_village_16_7|布 拉 加 
+p_village_16_8|波 爾 圖 
+p_village_17_1|塔 拉 戈 納 
+p_village_17_2|赫 羅 納 
+p_village_17_3|甘 迪 亞 
+p_village_17_4|布 裡 亞 納 
+p_village_17_5|卡 拉 尤 塔 
+p_village_17_6|萊 裡 達 
+p_village_17_7|安 普 裡 亞 斯 
+p_village_17_8|德 尼 亞 
+p_village_17_9|卡 斯 蒂 略 
+p_village_17_10|盧 納 
+p_village_17_11|特 魯 埃 爾 
+p_village_18_1|昆 卡 
+p_village_18_2|馬 德 裡 
+p_village_18_3|加 的 斯 
+p_village_18_4|科 爾 多 瓦 
+p_village_18_5|孔 波 斯 特 拉 
+p_village_18_6|奧 維 耶 多 
+p_village_18_7|薩 莫 拉 
+p_village_18_8|索 裡 亞 
+p_village_18_9|哈 恩 
+p_village_18_10|卡 塞 雷 斯 
+p_village_20_1|傑 濟 拉 
+p_village_20_2|馬 爾 韋 利 亞 
+p_village_20_3|馬 拉 加 
+p_village_20_4|阿 爾 卡 薩 爾 
+p_village_20_5|巴 薩 
+p_village_20_6|貝 爾 沙 
+p_village_20_7|拉 瓦 薩 
+p_village_20_8|阿 爾 博 克 斯 
+p_village_21_1|內 圖 諾 
+p_village_21_2|蒂 沃 利 
+p_village_22_1|卡 爾 西 登 
+p_village_22_2|尼 科 美 底 亞 
+p_village_22_3|薩 迪 斯 
+p_village_22_4|帕 加 馬 
+p_village_22_5|勞 迪 西 亞 
+p_village_22_6|阿 摩 利 姆 
+p_village_22_7|亞 呂 坎 達 
+p_village_22_8|塞 利 米 耶  
+p_village_22_9|非 羅 米 林 
+p_village_22_10|赫 拉 克 裡 亞 
+p_village_22_11|科 特 雅 昂 
+p_village_22_12|庫 芝 科 斯 
+p_village_22_13|普 裡 萊 普 
+p_village_22_14|茲 拉 馬 
+p_village_23_1|阿 斯 卡 隆 
+p_village_23_2|拉 姆 利 
+p_village_23_3|貝 魯 特 
+p_village_23_4|提 爾 
+p_village_23_5|塞 利 穆 斯 
+p_village_23_6|塔 爾 拉 薩 
+p_village_23_7|阿 勒 頗 
+p_village_23_8|塞 琉 西 亞 
+p_village_23_9|利 馬 索 爾 
+p_village_23_10|法 馬 古 斯 塔 
+p_village_23_11|霍 姆 斯 
+p_village_23_12|賈 法 
+p_village_23_13|巴 爾 貝 克 
+p_village_24_1|錫 拉 庫 扎 
+p_village_24_2|墨 西 拿 
+p_village_24_3|特 羅 佩 阿 
+p_village_24_4|佩 斯 卡 拉 
+p_village_24_5|卡 普 阿 
+p_village_24_6|布 林 迪 西 
+p_village_24_7|帕 萊 諾 
+p_village_24_8|特 拉 尼 
+p_village_25_1|米 努 夫 
+p_village_25_2|艾 什 蒙 
+p_village_25_3|米 夫 塔 赫 
+p_village_25_4|達 曼 胡 爾 
+p_village_25_5|宰 加 濟 格 
+p_village_25_6|坦 塔 
+p_village_25_7|阿 布 哈 馬 德 
+p_village_25_8|巴 爾 拉 
+p_village_25_9|錫 德 爾 
+p_village_25_10|馬 爾 巴· 達 布 坦 
+p_village_25_11|蘇 盧 格 
+p_village_25_12|馬 安 
+p_village_25_13|法 尤 姆 
+p_village_25_14|布 爾 庫 什 
+p_village_25_15|基 斯 瓦 
+p_village_26_1|代 爾 屈 斯 
+p_village_26_2|羅 多 斯 托 
+p_village_26_3|科 林 斯 
+p_village_26_4|底 比 斯 
+p_village_26_5|貝 洛 阿 
+p_village_26_6|卡 斯 托 裡 亞 
+p_village_26_7|迪 第 莫 提 切 奧 
+p_village_26_8|加 裡 波 利 
+p_village_27_1|克 羅 尼 亞 
+p_village_27_2|塞 奧 多 西 奧 波 利 斯 
+p_village_27_3|阿 克 塞 拉 
+p_village_27_4|凱 薩 莉 亞 
+p_village_27_5|薩 塔 拉 
+p_village_27_6|珀 丹 杜 斯 
+p_village_27_7|卡 拉 曼 
+p_village_27_8|錫 瓦 斯 
+p_village_27_9|埃 爾 祖 魯 姆 
+p_village_27_10|洛 裡 
+p_village_27_11|阿 米 德 
+p_village_27_12|提 克 裡 特 
+p_village_28_1|貝 尼 沃 利 德 堡 
+p_village_28_2|蓋 斯 爾· 哈 達 達 
+p_village_28_3|君 士 坦 丁 
+p_village_28_4|博 納 
+p_village_28_5|塞 提 夫 
+p_village_28_6|傑 碼 
+p_village_28_7|德 克 爾 涅 
+p_village_28_8|馬 赫 迪 耶 
+p_village_28_9|梅 德 寧 
+p_village_28_10|阿 爾 布 亞 特 
+p_village_29_1|斯 拉 蒂 納 
+p_village_29_2|索 羅 圖 薩 
+p_village_29_3|加 茨 科 
+p_village_29_4|普 列 奧 切 
+p_village_29_5|塞 爾 博 瓦 奇 
+p_village_29_6|科 比 利 亞· 格 拉 瓦 
+p_village_30_1|特 裡 亞 夫 納 
+p_village_30_2|切 爾 文 
+p_village_30_3|康 斯 坦 薩 
+p_village_30_4|瓦 爾 納 
+p_village_30_5|貝 洛 格 拉 齊 克 
+p_village_30_6|普 雷 斯 拉 夫 
+p_village_30_7|阿 爾 蘇 斯 
+p_village_31_1|梅 利 利 亞 
+p_village_31_2|拉 巴 特 
+p_village_31_3|提 奈 斯 
+p_village_31_4|特 萊 姆 森 
+p_village_31_5|薩 菲 
+p_village_31_6|瓦 爾 扎 扎 特 
+p_village_31_7|得 土 安 
+p_village_31_8|科 索 
+p_village_player|玩 家 的 村 莊 
+p_salt_mine|鹽 礦 
+p_four_ways_inn|四 方 客 棧 
+p_test_scene|測 試 場 景 
+p_battlefields|戰 場 
+p_dhorak_keep|多 拉 克 要 塞 
+p_training_ground|訓 練 場 
+p_training_ground_1|訓 練 場 I
+p_training_ground_2|訓 練 場 II
+p_training_ground_3|訓 練 場 III
+p_training_ground_4|訓 練 場 IV
+p_training_ground_5|訓 練 場 V
+p_training_ground_6|訓 練 場 VI
+p_training_ground_7|訓 練 場 VII
+p_training_ground_8|訓 練 場 VIII
+p_training_ground_9|訓 練 場 IX
+p_training_ground_10|訓 練 場 X
+p_training_ground_11|訓 練 場 XI
+p_training_ground_12|訓 練 場 XII
+p_training_ground_13|訓 練 場 XIII
+p_training_ground_14|訓 練 場 XIV
+p_training_ground_15|訓 練 場 XV
+p_training_ground_16|訓 練 場 XVI
+p_training_ground_17|訓 練 場 XVII
+p_training_ground_18|訓 練 場 XVIII
+p_ship_1|船 只 1
+p_ship_2|船 只 2
+p_ship_3|船 只 3
+p_ship_4|船 只 4
+p_ship_5|船 只 5
+p_ship_6|船 只 6
+p_ship_7|船 只 7
+p_ship_8|船 只 8
+p_ship_9|船 只 9
+p_ship_10|船 只 9
+p_ship_11|船 只 11
+p_ship_12|船 只 12
+p_ship_13|船 只 13
+p_ship_14|船 只 14
+p_ship_15|船 只 15
+p_ship_16|船 只 16
+p_ship_17|船 只 17
+p_ship_18|船 只 18
+p_ship_19|船 只 19
+p_ship_20|船 只 20
+p_ship_21|船 只 21
+p_ship_22|船 只 22
+p_ship_23|船 只 23
+p_ship_24|船 只 24
+p_ship_25|船 只 25
+p_ship_26|船 只 26
+p_ship_27|船 只 27
+p_ship_28|船 只 28
+p_ship_29|船 只 29
+p_ship_30|船 只 30
+p_ship_31|船 只 31
+p_ship_32|船 只 32
+p_ship_33|船 只 33
+p_ship_34|船 只 34
+p_ship_35|船 只 35
+p_ship_36|船 只 36
+p_ship_37|船 只 37
+p_ship_38|船 只 38
+p_ship_39|船 只 39
+p_ship_40|船 只 40
+p_ship_41|船 只 41
+p_ship_42|船 只 42
+p_ship_43|船 只 43
+p_ship_44|船 只 44
+p_ship_45|船 只 45
+p_ship_46|船 只 46
+p_ship_47|船 只 47
+p_ship_48|船 只 48
+p_ship_49|船 只 49
+p_ship_50|船 只 50
+p_ship_51|船 只 51
+p_ship_52|船 只 52
+p_ship_53|船 只 53
+p_ship_54|船 只 54
+p_ship_55|船 只 55
+p_ship_56|船 只 56
+p_ship_57|船 只 57
+p_ship_58|船 只 58
+p_ship_59|船 只 59
+p_ship_60|船 只 60
+p_ship_61|船 只 61
+p_ship_62|船 只 62
+p_ship_63|船 只 63
+p_taiga_bandit_spawn_point_1|苔 原 1
+p_taiga_bandit_spawn_point_2|苔 原 2
+p_steppe_bandit_spawn_point_1|草 原 1
+p_steppe_bandit_spawn_point_2|草 原 2
+p_forest_bandit_spawn_point_1|森 林 1
+p_forest_bandit_spawn_point_2|森 林 2
+p_forest_bandit_spawn_point_3|森 林 3
+p_forest_bandit_spawn_point_4|森 林 4
+p_forest_bandit_spawn_point_5|森 林 5
+p_forest_bandit_spawn_point_6|森 林 6
+p_forest_bandit_spawn_point_7|森 林 7
+p_mountain_bandit_spawn_point_1|高 地 1
+p_mountain_bandit_spawn_point_2|高 地 2
+p_mountain_bandit_spawn_point_3|高 地 3
+p_mountain_bandit_spawn_point_4|高 地 4
+p_mountain_bandit_spawn_point_5|高 地 5
+p_mountain_bandit_spawn_point_6|高 地 6
+p_mountain_bandit_spawn_point_7|高 地 7
+p_mountain_bandit_spawn_point_8|高 地 8
+p_mountain_bandit_spawn_point_9|高 地 9
+p_mountain_bandit_spawn_point_10|高 地 10
+p_mountain_bandit_spawn_point_11|高 地 11
+p_mountain_bandit_spawn_point_12|高 地 12
+p_mountain_bandit_spawn_point_13|高 地 13
+p_mountain_bandit_spawn_point_14|高 地 14
+p_mountain_bandit_spawn_point_15|高 地 15
+p_mountain_bandit_spawn_point_16|高 地 16
+p_mountain_bandit_spawn_point_17|高 地 17
+p_mountain_bandit_spawn_point_18|高 地 18
+p_mountain_bandit_spawn_point_19|高 地 19
+p_mountain_bandit_spawn_point_20|高 地 20
+p_mountain_bandit_spawn_point_21|高 地 21
+p_sea_raider_spawn_point_1|海 岸 1
+p_sea_raider_spawn_point_2|海 岸 2
+p_sea_raider_spawn_point_3|海 岸 3
+p_sea_raider_spawn_point_4|海 岸 4
+p_sea_raider_spawn_point_5|海 岸 5
+p_sea_raider_spawn_point_6|海 岸 6
+p_sea_raider_spawn_point_7|海 岸 7
+p_sea_raider_spawn_point_8|海 岸 8
+p_sea_raider_spawn_point_9|海 岸 9
+p_sea_raider_spawn_point_10|海 岸 10
+p_sea_raider_spawn_point_11|海 岸 11
+p_sea_raider_spawn_point_12|海 岸 12
+p_sea_raider_spawn_point_13|海 岸 13
+p_sea_raider_spawn_point_14|海 岸 14
+p_sea_raider_spawn_point_15|海 岸 15
+p_sea_raider_spawn_point_16|海 岸 16
+p_sea_raider_spawn_point_17|海 岸 17
+p_desert_bandit_spawn_point_1|沙 漠 1
+p_desert_bandit_spawn_point_2|沙 漠 2
+p_desert_bandit_spawn_point_3|沙 漠 3
+p_desert_bandit_spawn_point_4|沙 漠 4
+p_desert_bandit_spawn_point_5|沙 漠 5
+p_pagan_stronghold|普 魯 士 要 塞 

@@ -1,0 +1,2306 @@
+itm_no_item|INVALID ITEM 
+itm_no_item_pl|INVALID ITEM 
+itm_tutorial_spear|矛 
+itm_tutorial_spear_pl|矛 
+itm_tutorial_club|木 棒 
+itm_tutorial_club_pl|木 棒 
+itm_tutorial_battle_axe|戰 斗 斧 
+itm_tutorial_battle_axe_pl|戰 斗 斧 
+itm_tutorial_arrows|箭 
+itm_tutorial_arrows_pl|箭 
+itm_tutorial_bolts|弩 矢 
+itm_tutorial_bolts_pl|弩 矢 
+itm_tutorial_short_bow|單 體 弓 
+itm_tutorial_short_bow_pl|單 體 弓 
+itm_tutorial_crossbow|弩 
+itm_tutorial_crossbow_pl|弩 
+itm_tutorial_throwing_daggers|飛 刀 
+itm_tutorial_throwing_daggers_pl|飛 刀 
+itm_tutorial_saddle_horse|旅 行 馬 
+itm_tutorial_saddle_horse_pl|旅 行 馬 
+itm_tutorial_shield|箏 形 盾 
+itm_tutorial_shield_pl|箏 形 盾 
+itm_tutorial_staff_no_attack|棍 
+itm_tutorial_staff_no_attack_pl|棍 
+itm_tutorial_staff|棍 
+itm_tutorial_staff_pl|棍 
+itm_tutorial_sword|劍 
+itm_tutorial_sword_pl|劍 
+itm_tutorial_axe|斧 
+itm_tutorial_axe_pl|斧 
+itm_tutorial_dagger|匕 首 
+itm_tutorial_dagger_pl|匕 首 
+itm_horse_meat|馬 肉 
+itm_horse_meat_pl|馬 肉 
+itm_practice_sword|練 習 劍 
+itm_practice_sword_pl|練 習 劍 
+itm_heavy_practice_sword|重 型 練 習 劍 
+itm_heavy_practice_sword_pl|重 型 練 習 劍 
+itm_practice_dagger|練 習 匕 首 
+itm_practice_dagger_pl|練 習 匕 首 
+itm_practice_axe|練 習 斧 
+itm_practice_axe_pl|練 習 斧 
+itm_arena_axe|斧 
+itm_arena_axe_pl|斧 
+itm_arena_sword|劍 
+itm_arena_sword_pl|劍 
+itm_arena_sword_two_handed|雙 手 劍 
+itm_arena_sword_two_handed_pl|雙 手 劍 
+itm_arena_lance|騎 槍 
+itm_arena_lance_pl|騎 槍 
+itm_practice_staff|練 習 棍 
+itm_practice_staff_pl|練 習 棍 
+itm_practice_lance|練 習 騎 槍 
+itm_practice_lance_pl|練 習 騎 槍 
+itm_practice_shield|練 習 盾 
+itm_practice_shield_pl|練 習 盾 
+itm_practice_bow|練 習 弓 
+itm_practice_bow_pl|練 習 弓 
+itm_practice_crossbow|練 習 弩 
+itm_practice_crossbow_pl|練 習 弩 
+itm_practice_javelin|練 習 標 槍 
+itm_practice_javelin_pl|練 習 標 槍 
+itm_practice_javelin_melee|練 習 近 戰 標 槍 
+itm_practice_javelin_melee_pl|練 習 近 戰 標 槍 
+itm_practice_throwing_daggers|飛 刀 
+itm_practice_throwing_daggers_pl|飛 刀 
+itm_practice_throwing_daggers_100_amount|飛 刀 
+itm_practice_throwing_daggers_100_amount_pl|飛 刀 
+itm_practice_horse|練 習 馬 
+itm_practice_horse_pl|練 習 馬 
+itm_practice_arrows|練 習 箭 
+itm_practice_arrows_pl|練 習 箭 
+itm_practice_bolts|練 習 弩 矢 
+itm_practice_bolts_pl|練 習 弩 矢 
+itm_practice_arrows_10_amount|練 習 箭 
+itm_practice_arrows_10_amount_pl|練 習 箭 
+itm_practice_arrows_100_amount|練 習 箭 
+itm_practice_arrows_100_amount_pl|練 習 箭 
+itm_practice_bolts_9_amount|練 習 弩 矢 
+itm_practice_bolts_9_amount_pl|練 習 弩 矢 
+itm_practice_boots|訓 練 靴 
+itm_practice_boots_pl|訓 練 靴 
+itm_book_tactics|羅 馬 軍 制 論 
+itm_book_tactics_pl|羅 馬 軍 制 論 
+itm_book_persuasion|修 辭 學 
+itm_book_persuasion_pl|修 辭 學 
+itm_book_leadership|亞 歷 山 大 傳 記 
+itm_book_leadership_pl|亞 歷 山 大 傳 記 
+itm_book_intelligence|邏 輯 論 文 
+itm_book_intelligence_pl|邏 輯 論 文 
+itm_book_trade|價 值 論 
+itm_book_trade_pl|價 值 論 
+itm_book_weapon_mastery|劍 斗 藝 術 
+itm_book_weapon_mastery_pl|劍 斗 藝 術 
+itm_book_engineering|機 械 原 理 
+itm_book_engineering_pl|機 械 原 理 
+itm_book_wound_treatment_reference|治 療 之 書 
+itm_book_wound_treatment_reference_pl|治 療 之 書 
+itm_book_training_reference|兵 器 手 冊 
+itm_book_training_reference_pl|兵 器 手 冊 
+itm_book_surgery_reference|手 術 大 全 
+itm_book_surgery_reference_pl|手 術 大 全 
+itm_spice|香 料 
+itm_spice_pl|香 料 
+itm_salt|鹽 
+itm_salt_pl|鹽 
+itm_oil|油 
+itm_oil_pl|油 
+itm_pottery|陶 器 
+itm_pottery_pl|陶 器 
+itm_raw_flax|亞 麻 捆 
+itm_raw_flax_pl|亞 麻 捆 
+itm_linen|亞 麻 布 
+itm_linen_pl|亞 麻 布 
+itm_wool|羊 毛 
+itm_wool_pl|羊 毛 
+itm_wool_cloth|毛 衣 
+itm_wool_cloth_pl|毛 衣 
+itm_raw_silk|生 絲 
+itm_raw_silk_pl|生 絲 
+itm_raw_dyes|染 料 
+itm_raw_dyes_pl|染 料 
+itm_velvet|天 鵝 絨 
+itm_velvet_pl|天 鵝 絨 
+itm_iron|生 鐵 
+itm_iron_pl|生 鐵 
+itm_tools|工 具 
+itm_tools_pl|工 具 
+itm_raw_leather|獸 皮 
+itm_raw_leather_pl|獸 皮 
+itm_leatherwork|皮 革 制 品 
+itm_leatherwork_pl|皮 革 制 品 
+itm_raw_date_fruit|棗 肉 
+itm_raw_date_fruit_pl|棗 肉 
+itm_furs|毛 皮 
+itm_furs_pl|毛 皮 
+itm_wine|葡 萄 酒 
+itm_wine_pl|葡 萄 酒 
+itm_ale|麥 芽 酒 
+itm_ale_pl|麥 芽 酒 
+itm_smoked_fish|熏 魚 
+itm_smoked_fish_pl|熏 魚 
+itm_cheese|奶 酪 
+itm_cheese_pl|奶 酪 
+itm_honey|蜂 蜜 
+itm_honey_pl|蜂 蜜 
+itm_sausages|香 腸 
+itm_sausages_pl|香 腸 
+itm_cabbages|卷 心 菜 
+itm_cabbages_pl|卷 心 菜 
+itm_dried_meat|風 干 肉 
+itm_dried_meat_pl|風 干 肉 
+itm_apples|蘋 果 
+itm_apples_pl|蘋 果 
+itm_raw_grapes|葡 萄 
+itm_raw_grapes_pl|葡 萄 
+itm_raw_olives|橄 欖 
+itm_raw_olives_pl|橄 欖 
+itm_grain|谷 物 
+itm_grain_pl|谷 物 
+itm_cattle_meat|牛 肉 
+itm_cattle_meat_pl|牛 肉 
+itm_bread|面 包 
+itm_bread_pl|面 包 
+itm_chicken|雞 肉 
+itm_chicken_pl|雞 肉 
+itm_pork|豬 肉 
+itm_pork_pl|豬 肉 
+itm_butter|奶 油 
+itm_butter_pl|奶 油 
+itm_siege_supply|補 給 品 
+itm_siege_supply_pl|補 給 品 
+itm_quest_wine|葡 萄 酒 
+itm_quest_wine_pl|葡 萄 酒 
+itm_quest_ale|麥 芽 酒 
+itm_quest_ale_pl|麥 芽 酒 
+itm_sumpter_horse|馱 馬 
+itm_sumpter_horse_pl|馱 馬 
+itm_saddle_horse|旅 行 馬 
+itm_saddle_horse_pl|旅 行 馬 
+itm_steppe_horse|草 原 馬 
+itm_steppe_horse_pl|草 原 馬 
+itm_arabian_horse_a|阿 拉 伯 馬 
+itm_arabian_horse_a_pl|阿 拉 伯 馬 
+itm_courser|駿 馬 
+itm_courser_pl|駿 馬 
+itm_arabian_horse_b|阿 拉 伯 馬 
+itm_arabian_horse_b_pl|阿 拉 伯 馬 
+itm_hunter|獵 馬 
+itm_hunter_pl|獵 馬 
+itm_warhorse|戰 馬 
+itm_warhorse_pl|戰 馬 
+itm_warhorse_white|披 甲 軍 馬 
+itm_warhorse_white_pl|披 甲 軍 馬 
+itm_warhorse_red|披 甲 軍 馬 
+itm_warhorse_red_pl|披 甲 軍 馬 
+itm_warhorse_blue|披 甲 軍 馬 
+itm_warhorse_blue_pl|披 甲 軍 馬 
+itm_warhorse_yellow|披 甲 軍 馬 
+itm_warhorse_yellow_pl|披 甲 軍 馬 
+itm_warhorse_player|自 制 披 甲 軍 馬 
+itm_warhorse_player_pl|自 制 披 甲 軍 馬 
+itm_warhorse_lionel|披 甲 軍 馬 
+itm_warhorse_lionel_pl|披 甲 軍 馬 
+itm_warhorse_lethwin|披 甲 軍 馬 
+itm_warhorse_lethwin_pl|披 甲 軍 馬 
+itm_rnd_horse_01|罩 袍 軍 馬 
+itm_rnd_horse_01_pl|罩 袍 軍 馬 
+itm_rnd_horse_02|罩 袍 軍 馬 
+itm_rnd_horse_02_pl|罩 袍 軍 馬 
+itm_rnd_horse_03|罩 袍 軍 馬 
+itm_rnd_horse_03_pl|罩 袍 軍 馬 
+itm_rnd_horse_04|罩 袍 軍 馬 
+itm_rnd_horse_04_pl|罩 袍 軍 馬 
+itm_rnd_horse_05|罩 袍 軍 馬 
+itm_rnd_horse_05_pl|罩 袍 軍 馬 
+itm_rnd_horse_06|罩 袍 軍 馬 
+itm_rnd_horse_06_pl|罩 袍 軍 馬 
+itm_rnd_horse_07|罩 袍 軍 馬 
+itm_rnd_horse_07_pl|罩 袍 軍 馬 
+itm_rnd_horse_08|罩 袍 軍 馬 
+itm_rnd_horse_08_pl|罩 袍 軍 馬 
+itm_rnd_horse_09|罩 袍 軍 馬 
+itm_rnd_horse_09_pl|罩 袍 軍 馬 
+itm_rnd_horse_10|罩 袍 軍 馬 
+itm_rnd_horse_10_pl|罩 袍 軍 馬 
+itm_rnd_horse_11|罩 袍 軍 馬 
+itm_rnd_horse_11_pl|罩 袍 軍 馬 
+itm_rnd_horse_12|罩 袍 軍 馬 
+itm_rnd_horse_12_pl|罩 袍 軍 馬 
+itm_rnd_horse_13|罩 袍 軍 馬 
+itm_rnd_horse_13_pl|罩 袍 軍 馬 
+itm_rnd_horse_14|罩 袍 軍 馬 
+itm_rnd_horse_14_pl|罩 袍 軍 馬 
+itm_rnd_horse_15|罩 袍 軍 馬 
+itm_rnd_horse_15_pl|罩 袍 軍 馬 
+itm_rnd_horse_16|罩 袍 軍 馬 
+itm_rnd_horse_16_pl|罩 袍 軍 馬 
+itm_rnd_horse_17|罩 袍 軍 馬 
+itm_rnd_horse_17_pl|罩 袍 軍 馬 
+itm_rnd_horse_18|罩 袍 軍 馬 
+itm_rnd_horse_18_pl|罩 袍 軍 馬 
+itm_rnd_horse_19|罩 袍 軍 馬 
+itm_rnd_horse_19_pl|罩 袍 軍 馬 
+itm_rnd_horse_20|罩 袍 軍 馬 
+itm_rnd_horse_20_pl|罩 袍 軍 馬 
+itm_rnd_horse_21|罩 袍 軍 馬 
+itm_rnd_horse_21_pl|罩 袍 軍 馬 
+itm_rnd_horse_22|罩 袍 軍 馬 
+itm_rnd_horse_22_pl|罩 袍 軍 馬 
+itm_rnd_horse_23|罩 袍 軍 馬 
+itm_rnd_horse_23_pl|罩 袍 軍 馬 
+itm_warhorse_denmark_a|丹 麥 軍 馬 
+itm_warhorse_denmark_a_pl|丹 麥 軍 馬 
+itm_warhorse_england_a|英 格 蘭 軍 馬 
+itm_warhorse_england_a_pl|英 格 蘭 軍 馬 
+itm_warhorse_devalence|英 格 蘭 軍 馬 
+itm_warhorse_devalence_pl|英 格 蘭 軍 馬 
+itm_warhorse_demontfort|英 格 蘭 軍 馬 
+itm_warhorse_demontfort_pl|英 格 蘭 軍 馬 
+itm_warhorse_mortimer|英 格 蘭 軍 馬 
+itm_warhorse_mortimer_pl|英 格 蘭 軍 馬 
+itm_warhorse_bigod|英 格 蘭 軍 馬 
+itm_warhorse_bigod_pl|英 格 蘭 軍 馬 
+itm_warhorse_dewarenne|英 格 蘭 軍 馬 
+itm_warhorse_dewarenne_pl|英 格 蘭 軍 馬 
+itm_warhorse_france_a|法 蘭 西 軍 馬 
+itm_warhorse_france_a_pl|法 蘭 西 軍 馬 
+itm_warhorse_hre_a|德 意 志 軍 馬 
+itm_warhorse_hre_a_pl|德 意 志 軍 馬 
+itm_warhorse_bohemia|波 希 米 亞 軍 馬 
+itm_warhorse_bohemia_pl|波 希 米 亞 軍 馬 
+itm_warhorse_hungary_a|匈 牙 利 軍 馬 
+itm_warhorse_hungary_a_pl|匈 牙 利 軍 馬 
+itm_warhorse_ireland_a|愛 爾 蘭 軍 馬 
+itm_warhorse_ireland_a_pl|愛 爾 蘭 軍 馬 
+itm_warhorse_lithuania_a|立 陶 宛 軍 馬 
+itm_warhorse_lithuania_a_pl|立 陶 宛 軍 馬 
+itm_warhorse_norway_a|挪 威 軍 馬 
+itm_warhorse_norway_a_pl|挪 威 軍 馬 
+itm_warhorse_novgorod_a|羅 斯 軍 馬 
+itm_warhorse_novgorod_a_pl|羅 斯 軍 馬 
+itm_warhorse_scotland_a|蘇 格 蘭 軍 馬 
+itm_warhorse_scotland_a_pl|蘇 格 蘭 軍 馬 
+itm_warhorse_sweden_a|瑞 典 軍 馬 
+itm_warhorse_sweden_a_pl|瑞 典 軍 馬 
+itm_warhorse_przemysl2|波 蘭 軍 馬 
+itm_warhorse_przemysl2_pl|波 蘭 軍 馬 
+itm_warhorse_czersk|波 蘭 軍 馬 
+itm_warhorse_czersk_pl|波 蘭 軍 馬 
+itm_warhorse_slask_a|罩 袍 軍 馬 
+itm_warhorse_slask_a_pl|罩 袍 軍 馬 
+itm_warhorse_siemowit_a|罩 袍 軍 馬 
+itm_warhorse_siemowit_a_pl|罩 袍 軍 馬 
+itm_warhorse_poland_a|波 蘭 軍 馬 
+itm_warhorse_poland_a_pl|波 蘭 軍 馬 
+itm_warhorse_poland_b|波 蘭 軍 馬 
+itm_warhorse_poland_b_pl|波 蘭 軍 馬 
+itm_warhorse_kaliskie_a|波 蘭 軍 馬 
+itm_warhorse_kaliskie_a_pl|波 蘭 軍 馬 
+itm_warhorse_gslask|波 蘭 軍 馬 
+itm_warhorse_gslask_pl|波 蘭 軍 馬 
+itm_warhorse_dslask|波 蘭 軍 馬 
+itm_warhorse_dslask_pl|波 蘭 軍 馬 
+itm_warhorse_swietopelk|波 蘭 軍 馬 
+itm_warhorse_swietopelk_pl|波 蘭 軍 馬 
+itm_warhorse_pol_a|波 蘭 軍 馬 
+itm_warhorse_pol_a_pl|波 蘭 軍 馬 
+itm_warhorse_pol_b|波 蘭 軍 馬 
+itm_warhorse_pol_b_pl|波 蘭 軍 馬 
+itm_warhorse_pol_c|波 蘭 軍 馬 
+itm_warhorse_pol_c_pl|波 蘭 軍 馬 
+itm_warhorse_pol_d|波 蘭 軍 馬 
+itm_warhorse_pol_d_pl|波 蘭 軍 馬 
+itm_warhorse_pol_e|波 蘭 軍 馬 
+itm_warhorse_pol_e_pl|波 蘭 軍 馬 
+itm_warhorse_pol_g|波 蘭 軍 馬 
+itm_warhorse_pol_g_pl|波 蘭 軍 馬 
+itm_warhorse_swidnica|波 蘭 軍 馬 
+itm_warhorse_swidnica_pl|波 蘭 軍 馬 
+itm_teu_warhorse_c|條 頓 軍 馬 
+itm_teu_warhorse_c_pl|條 頓 軍 馬 
+itm_teu_warhorse_b|條 頓 軍 馬 
+itm_teu_warhorse_b_pl|條 頓 軍 馬 
+itm_teu_warhorse_a|條 頓 軍 馬 
+itm_teu_warhorse_a_pl|條 頓 軍 馬 
+itm_mon_lamellar_horse_a|片 甲 軍 馬 
+itm_mon_lamellar_horse_a_pl|片 甲 軍 馬 
+itm_mon_lamellar_horse_b|片 甲 軍 馬 
+itm_mon_lamellar_horse_b_pl|片 甲 軍 馬 
+itm_mon_lamellar_horse_c|片 甲 軍 馬 
+itm_mon_lamellar_horse_c_pl|片 甲 軍 馬 
+itm_kau_montcada_horse|蒙 特 卡 達 軍 馬 
+itm_kau_montcada_horse_pl|蒙 特 卡 達 軍 馬 
+itm_kau_alego_horse|阿 勒 戈 軍 馬 
+itm_kau_alego_horse_pl|阿 勒 戈 軍 馬 
+itm_kau_cervello_horse|塞 爾 維 伊 歐 軍 馬 
+itm_kau_cervello_horse_pl|塞 爾 維 伊 歐 軍 馬 
+itm_kau_cruilles_horse|克 維 耶 斯 軍 馬
+itm_kau_cruilles_horse_pl|克 維 耶 斯 軍 馬
+itm_kau_epyres_horse|埃 皮 雷 斯 軍 馬 
+itm_kau_epyres_horse_pl|埃 皮 雷 斯 軍 馬 
+itm_kau_luna_horse|盧 納 軍 馬 
+itm_kau_luna_horse_pl|盧 納 軍 馬 
+itm_kau_reino_horse|雷 諾 軍 馬 
+itm_kau_reino_horse_pl|雷 諾 軍 馬 
+itm_kau_urgell_horse|烏 海 爾 軍 馬 
+itm_kau_urgell_horse_pl|烏 海 爾 軍 馬 
+itm_templar_warhorse_a|罩 袍 軍 馬 
+itm_templar_warhorse_a_pl|罩 袍 軍 馬 
+itm_hospitaller_warhorse_a|罩 袍 軍 馬 
+itm_hospitaller_warhorse_a_pl|罩 袍 軍 馬 
+itm_hospitaller_warhorse_b|罩 袍 軍 馬 
+itm_hospitaller_warhorse_b_pl|罩 袍 軍 馬 
+itm_warhorse_sarranid|片 甲 戰 馬 
+itm_warhorse_sarranid_pl|片 甲 戰 馬 
+itm_warhorse_steppe|片 甲 戰 馬 
+itm_warhorse_steppe_pl|片 甲 戰 馬 
+itm_byz_warhorse|片 甲 戰 馬 
+itm_byz_warhorse_pl|片 甲 戰 馬 
+itm_jerusalem_horse|罩 袍 軍 馬 
+itm_jerusalem_horse_pl|罩 袍 軍 馬 
+itm_tripoli_horse|罩 袍 軍 馬 
+itm_tripoli_horse_pl|罩 袍 軍 馬 
+itm_portugal_horse|罩 袍 軍 馬 
+itm_portugal_horse_pl|罩 袍 軍 馬 
+itm_castile_horse|罩 袍 軍 馬 
+itm_castile_horse_pl|罩 袍 軍 馬 
+itm_arrows|箭 
+itm_arrows_pl|箭 
+itm_khergit_arrows|蒙 古 箭 
+itm_khergit_arrows_pl|蒙 古 箭 
+itm_barbed_arrows|倒 刺 箭 
+itm_barbed_arrows_pl|倒 刺 箭 
+itm_bodkin_arrows|錐 頭 箭 
+itm_bodkin_arrows_pl|錐 頭 箭 
+itm_bolts|弩 矢 
+itm_bolts_pl|弩 矢 
+itm_steel_bolts|鋼 弩 矢 
+itm_steel_bolts_pl|鋼 弩 矢 
+itm_cartridges|彈 藥 筒 
+itm_cartridges_pl|彈 藥 筒 
+itm_pilgrim_disguise|朝 聖 者 服 
+itm_pilgrim_disguise_pl|朝 聖 者 服 
+itm_pilgrim_hood|朝 聖 者 風 帽 
+itm_pilgrim_hood_pl|朝 聖 者 風 帽 
+itm_leather_gloves|皮 手 套 
+itm_leather_gloves_pl|皮 手 套 
+itm_mail_mittens|鏈 甲 手 套 
+itm_mail_mittens_pl|鏈 甲 手 套 
+itm_scale_gauntlets|魚 鱗 甲 臂 鎧 
+itm_scale_gauntlets_pl|魚 鱗 甲 臂 鎧 
+itm_lamellar_gauntlets|片 甲 臂 鎧 
+itm_lamellar_gauntlets_pl|片 甲 臂 鎧 
+itm_wrapping_boots|綁 腿 
+itm_wrapping_boots_pl|綁 腿 
+itm_woolen_hose|羊 毛 裹 腿 
+itm_woolen_hose_pl|羊 毛 裹 腿 
+itm_blue_hose|藍 色 裹 腿 
+itm_blue_hose_pl|藍 色 裹 腿 
+itm_hunter_boots|獵 靴 
+itm_hunter_boots_pl|獵 靴 
+itm_hide_boots|獸 皮 靴 
+itm_hide_boots_pl|獸 皮 靴 
+itm_ankle_boots|短 靴 
+itm_ankle_boots_pl|短 靴 
+itm_nomad_boots|游 牧 靴 
+itm_nomad_boots_pl|游 牧 靴 
+itm_leather_boots|皮 靴 
+itm_leather_boots_pl|皮 靴 
+itm_splinted_leather_greaves|夾 板 式 皮 護 腿 
+itm_splinted_leather_greaves_pl|夾 板 式 皮 護 腿 
+itm_mail_chausses|鏈 甲 護 腿 
+itm_mail_chausses_pl|鏈 甲 護 腿 
+itm_splinted_greaves|夾 板 式 護 腿 
+itm_splinted_greaves_pl|夾 板 式 護 腿 
+itm_mail_boots|鏈 甲 靴 
+itm_mail_boots_pl|鏈 甲 靴 
+itm_khergit_leather_boots|蒙 古 皮 靴 
+itm_khergit_leather_boots_pl|蒙 古 皮 靴 
+itm_sarranid_boots_a|薩 拉 遜 鞋 
+itm_sarranid_boots_a_pl|薩 拉 遜 鞋 
+itm_sarranid_boots_b|薩 拉 遜 皮 靴 
+itm_sarranid_boots_b_pl|薩 拉 遜 皮 靴 
+itm_sarranid_boots_c|覆 板 靴 
+itm_sarranid_boots_c_pl|覆 板 靴 
+itm_sarranid_boots_d|薩 拉 遜 鏈 甲 靴 
+itm_sarranid_boots_d_pl|薩 拉 遜 鏈 甲 靴 
+itm_raf_mail_chausses|鏈 甲 護 腿 
+itm_raf_mail_chausses_pl|鏈 甲 護 腿 
+itm_kau_mail_boots_dark|鏈 甲 靴 
+itm_kau_mail_boots_dark_pl|鏈 甲 靴 
+itm_kau_mail_boots|鏈 甲 靴 
+itm_kau_mail_boots_pl|鏈 甲 靴 
+itm_rus_boots_a|羅 斯 靴 
+itm_rus_boots_a_pl|羅 斯 靴 
+itm_rus_boots_b|羅 斯 靴 
+itm_rus_boots_b_pl|羅 斯 靴 
+itm_mamluke_boots|馬 木 魯 克 靴 
+itm_mamluke_boots_pl|馬 木 魯 克 靴 
+itm_cuman_boots|庫 曼 靴 
+itm_cuman_boots_pl|庫 曼 靴 
+itm_byz_lord_boots|拜 占 庭 靴 
+itm_byz_lord_boots_pl|拜 占 庭 靴 
+itm_peasant_boots_a|鞋 
+itm_peasant_boots_a_pl|鞋 
+itm_peasant_boots_b|鞋 
+itm_peasant_boots_b_pl|鞋 
+itm_lapcie|東 歐 綁 腿 
+itm_lapcie_pl|東 歐 綁 腿 
+itm_byz_boots_c|拜 占 庭 皮 靴 
+itm_byz_boots_c_pl|拜 占 庭 皮 靴 
+itm_byz_cavalry_boots|拜 占 庭 皮 靴 
+itm_byz_cavalry_boots_pl|拜 占 庭 皮 靴 
+itm_byz_boots_a|拜 占 庭 皮 靴 
+itm_byz_boots_a_pl|拜 占 庭 皮 靴 
+itm_byz_boots_b|拜 占 庭 皮 靴 
+itm_byz_boots_b_pl|拜 占 庭 皮 靴 
+itm_red_dress|紅 色 裙 
+itm_red_dress_pl|紅 色 裙 
+itm_brown_dress|棕 色 裙 
+itm_brown_dress_pl|棕 色 裙 
+itm_green_dress|綠 色 裙 
+itm_green_dress_pl|綠 色 裙 
+itm_khergit_lady_dress|蒙 古 連 衣 裙 
+itm_khergit_lady_dress_pl|蒙 古 連 衣 裙 
+itm_khergit_lady_dress_b|蒙 古 女 式 皮 裙 
+itm_khergit_lady_dress_b_pl|蒙 古 女 式 皮 裙 
+itm_sarranid_lady_dress|薩 拉 遜 連 衣 裙 
+itm_sarranid_lady_dress_pl|薩 拉 遜 連 衣 裙 
+itm_sarranid_lady_dress_b|薩 拉 遜 連 衣 裙 
+itm_sarranid_lady_dress_b_pl|薩 拉 遜 連 衣 裙 
+itm_sarranid_common_dress|薩 拉 遜 裙 
+itm_sarranid_common_dress_pl|薩 拉 遜 裙 
+itm_sarranid_common_dress_b|薩 拉 遜 裙 
+itm_sarranid_common_dress_b_pl|薩 拉 遜 裙 
+itm_nomad_armor|游 牧 甲 
+itm_nomad_armor_pl|游 牧 甲 
+itm_khergit_armor|蒙 古 甲 
+itm_khergit_armor_pl|蒙 古 甲 
+itm_leather_jacket|皮 夾 克 
+itm_leather_jacket_pl|皮 夾 克 
+itm_rawhide_coat|生 皮 外 套 
+itm_rawhide_coat_pl|生 皮 外 套 
+itm_fur_coat|毛 皮 外 套 
+itm_fur_coat_pl|毛 皮 外 套 
+itm_merchant_outfit|商 人 服 
+itm_merchant_outfit_pl|商 人 服 
+itm_blue_dress|藍 色 連 衣 裙 
+itm_blue_dress_pl|藍 色 連 衣 裙 
+itm_peasant_dress|農 婦 連 衣 裙 
+itm_peasant_dress_pl|農 婦 連 衣 裙 
+itm_linen_tunic|亞 麻 短 袍 
+itm_linen_tunic_pl|亞 麻 短 袍 
+itm_short_tunic|紅 色 短 袍 
+itm_short_tunic_pl|紅 色 短 袍 
+itm_red_shirt|紅 色 襯 衫 
+itm_red_shirt_pl|紅 色 襯 衫 
+itm_robe|長 袍 
+itm_robe_pl|長 袍 
+itm_coarse_tunic|帶 背 心 短 袍 
+itm_coarse_tunic_pl|帶 背 心 短 袍 
+itm_leather_vest|皮 背 心 
+itm_leather_vest_pl|皮 背 心 
+itm_steppe_armor|草 原 甲 
+itm_steppe_armor_pl|草 原 甲 
+itm_gambeson_a|軟 鎧 甲 
+itm_gambeson_a_pl|軟 鎧 甲 
+itm_gambeson_b|軟 鎧 甲 
+itm_gambeson_b_pl|軟 鎧 甲 
+itm_gambeson_c|軟 鎧 甲 
+itm_gambeson_c_pl|軟 鎧 甲 
+itm_gambeson_d|軟 鎧 甲 
+itm_gambeson_d_pl|軟 鎧 甲 
+itm_padded_cloth|鎧 衣 
+itm_padded_cloth_pl|鎧 衣 
+itm_leather_jerkin|皮 短 袖 衣 
+itm_leather_jerkin_pl|皮 短 袖 衣 
+itm_nomad_vest|游 牧 背 心 
+itm_nomad_vest_pl|游 牧 背 心 
+itm_ragged_outfit|褶 皺 服 
+itm_ragged_outfit_pl|褶 皺 服 
+itm_tribal_warrior_outfit|部 落 勇 士 服 
+itm_tribal_warrior_outfit_pl|部 落 勇 士 服 
+itm_haubergeon|短 鎖 甲 
+itm_haubergeon_pl|短 鎖 甲 
+itm_lamellar_vest|片 甲 背 心 
+itm_lamellar_vest_pl|片 甲 背 心 
+itm_lamellar_vest_khergit|蒙 古 片 甲 背 心 
+itm_lamellar_vest_khergit_pl|蒙 古 片 甲 背 心 
+itm_mail_with_surcoat|鏈 甲 帶 罩 衫 
+itm_mail_with_surcoat_pl|鏈 甲 帶 罩 衫 
+itm_surcoat_over_mail|帶 罩 衫 鏈 甲 
+itm_surcoat_over_mail_pl|帶 罩 衫 鏈 甲 
+itm_coat_of_plates|無 袖 板 甲 
+itm_coat_of_plates_pl|無 袖 板 甲 
+itm_coat_of_plates_red|無 袖 板 甲 
+itm_coat_of_plates_red_pl|無 袖 板 甲 
+itm_pelt_coat|毛 皮 外 套 
+itm_pelt_coat_pl|毛 皮 外 套 
+itm_bishop_cop|無 袖 板 甲 
+itm_bishop_cop_pl|無 袖 板 甲 
+itm_sarranid_cloth_robe|舊 長 袍 
+itm_sarranid_cloth_robe_pl|舊 長 袍 
+itm_sarranid_cloth_robe_b|舊 長 袍 
+itm_sarranid_cloth_robe_b_pl|舊 長 袍 
+itm_skirmisher_armor|游 擊 射 手 甲 
+itm_skirmisher_armor_pl|游 擊 射 手 甲 
+itm_archers_vest|射 手 加 襯 背 心 
+itm_archers_vest_pl|射 加 襯 棉 背 心 
+itm_sarranid_leather_armor|薩 拉 遜 加 襯 長 衫 
+itm_sarranid_leather_armor_pl|薩 拉 遜 加 襯 長 衫 
+itm_sarranid_cavalry_robe|騎 兵 長 袍 
+itm_sarranid_cavalry_robe_pl|騎 兵 長 袍 
+itm_arabian_armor_b|薩 拉 遜 衛 士 甲 
+itm_arabian_armor_b_pl|薩 拉 遜 衛 士 甲 
+itm_sarranid_mail_shirt|薩 拉 遜 鏈 甲 衫 
+itm_sarranid_mail_shirt_pl|薩 拉 遜 鏈 甲 衫 
+itm_mamluke_mail|馬 穆 魯 克 鏈 甲 
+itm_mamluke_mail_pl|馬 穆 魯 克 鏈 甲 
+itm_veteran_surcoat_a|罩 袍 鏈 甲 
+itm_veteran_surcoat_a_pl|罩 袍 鏈 甲 
+itm_veteran_surcoat_b|罩 袍 鏈 甲 
+itm_veteran_surcoat_b_pl|罩 袍 鏈 甲 
+itm_veteran_surcoat_c|罩 袍 鏈 甲 
+itm_veteran_surcoat_c_pl|罩 袍 鏈 甲 
+itm_veteran_surcoat_d|罩 袍 鏈 甲 
+itm_veteran_surcoat_d_pl|罩 袍 鏈 甲 
+itm_veteran_surcoat_e|罩 袍 鏈 甲 
+itm_veteran_surcoat_e_pl|罩 袍 鏈 甲 
+itm_arena_outfit_a|罩 袍 鏈 甲 
+itm_arena_outfit_a_pl|罩 袍 鏈 甲 
+itm_arena_outfit_b|罩 袍 鏈 甲 
+itm_arena_outfit_b_pl|罩 袍 鏈 甲 
+itm_arena_outfit_c|罩 袍 鏈 甲 
+itm_arena_outfit_c_pl|罩 袍 鏈 甲 
+itm_arena_outfit_d|罩 袍 鏈 甲 
+itm_arena_outfit_d_pl|罩 袍 鏈 甲 
+itm_kau_aragon_knight|阿 拉 貢 鏈 甲 
+itm_kau_aragon_knight_pl|阿 拉 貢 鏈 甲 
+itm_kau_aragon_a|阿 拉 貢 鏈 甲 
+itm_kau_aragon_a_pl|阿 拉 貢 鏈 甲 
+itm_kau_aragon_b|阿 拉 貢 鏈 甲 
+itm_kau_aragon_b_pl|阿 拉 貢 鏈 甲 
+itm_kau_aragon_c|阿 拉 貢 鏈 甲 
+itm_kau_aragon_c_pl|阿 拉 貢 鏈 甲 
+itm_kau_montcada_surcoat|蒙 特 卡 達 罩 袍 
+itm_kau_montcada_surcoat_pl|蒙 特 卡 達 罩 袍 
+itm_kau_alego_surcoat|阿 勒 戈 罩 袍 
+itm_kau_alego_surcoat_pl|阿 勒 戈 罩 袍 
+itm_kau_cervello_surcoat|塞 爾 維 伊 歐 罩 袍 
+itm_kau_cervello_surcoat_pl|塞 爾 維 伊 歐 罩 袍 
+itm_kau_cruilles_surcoat|克 維 耶 斯 罩 袍 
+itm_kau_cruilles_surcoat_pl|克 維 耶 斯 罩 袍 
+itm_kau_entenca_surcoat|埃 斯 坦 薩 罩 袍 
+itm_kau_entenca_surcoat_pl|埃 斯 坦 薩 罩 袍 
+itm_kau_epyres_surcoat|埃 皮 雷 斯 罩 袍 
+itm_kau_epyres_surcoat_pl|埃 皮 雷 斯 罩 袍 
+itm_kau_luna_surcoat|盧 納 罩 袍 
+itm_kau_luna_surcoat_pl|盧 納 罩 袍 
+itm_kau_pons_surcoat|龐 斯 罩 袍 
+itm_kau_pons_surcoat_pl|龐 斯 罩 袍 
+itm_kau_urgell_surcoat|烏 海 爾 罩 袍 
+itm_kau_urgell_surcoat_pl|烏 海 爾 罩 袍 
+itm_kau_castile_knight|卡 斯 提 爾 王 室 鏈 甲 
+itm_kau_castile_knight_pl|卡 斯 提 爾 王 室 鏈 甲 
+itm_kau_castile_a|卡 斯 提 爾 王 室 鏈 甲 
+itm_kau_castile_a_pl|卡 斯 提 爾 王 室 鏈 甲 
+itm_kau_castile_b|卡 斯 提 爾 王 室 鏈 甲 
+itm_kau_castile_b_pl|卡 斯 提 爾 王 室 鏈 甲 
+itm_kau_castile_c|卡 斯 提 爾 王 室 鏈 甲 
+itm_kau_castile_c_pl|卡 斯 提 爾 王 室 鏈 甲 
+itm_kau_santiago|聖 地 亞 哥 鏈 甲 
+itm_kau_santiago_pl|聖 地 亞 哥 鏈 甲 
+itm_kau_portugal_a|葡 萄 牙 鏈 甲 
+itm_kau_portugal_a_pl|葡 萄 牙 鏈 甲 
+itm_kau_portugal_b|葡 萄 牙 鏈 甲 
+itm_kau_portugal_b_pl|葡 萄 牙 鏈 甲 
+itm_kau_portugal_c|葡 萄 牙 鏈 甲 
+itm_kau_portugal_c_pl|葡 萄 牙 鏈 甲 
+itm_kau_portugal_d|葡 萄 牙 鏈 甲 
+itm_kau_portugal_d_pl|葡 萄 牙 鏈 甲 
+itm_kau_papal|教 皇 罩 袍 鏈 甲 
+itm_kau_papal_pl|教 皇 罩 袍 鏈 甲 
+itm_kau_sicily_a|西 西 裡 鏈 甲 
+itm_kau_sicily_a_pl|西 西 裡 鏈 甲 
+itm_kau_sicily_b|西 西 裡 鏈 甲 
+itm_kau_sicily_b_pl|西 西 裡 鏈 甲 
+itm_kau_antioch|安 條 克 鏈 甲 
+itm_kau_antioch_pl|安 條 克 鏈 甲 
+itm_kau_cyprus|塞 浦 路 斯 鏈 甲 
+itm_kau_cyprus_pl|塞 浦 路 斯 鏈 甲 
+itm_kau_antioch|安 條 克 鏈 甲 
+itm_kau_antioch_pl|安 條 克 鏈 甲 
+itm_kau_jerusalem|耶 路 撒 冷 鏈 甲 
+itm_kau_jerusalem_pl|耶 路 撒 冷 鏈 甲 
+itm_kau_latin_a|拉 丁 帝 國 鏈 甲 
+itm_kau_latin_a_pl|拉 丁 帝 國 鏈 甲 
+itm_kau_latin_b|拉 丁 帝 國 鏈 甲 
+itm_kau_latin_b_pl|拉 丁 帝 國 鏈 甲 
+itm_kau_athens|拉 丁 帝 國 鏈 甲 
+itm_kau_athens_pl|拉 丁 帝 國 鏈 甲 
+itm_kau_courtenay|拉 丁 帝 國 鏈 甲 
+itm_kau_courtenay_pl|拉 丁 帝 國 鏈 甲 
+itm_rnd_surcoat_01|騎 士 罩 袍 板 甲 
+itm_rnd_surcoat_01_pl|騎 士 罩 袍 板 甲 
+itm_rnd_surcoat_02|騎 士 罩 袍 板 甲 
+itm_rnd_surcoat_02_pl|騎 士 罩 袍 板 甲 
+itm_rnd_surcoat_03|騎 士 罩 袍 板 甲 
+itm_rnd_surcoat_03_pl|騎 士 罩 袍 板 甲 
+itm_rnd_surcoat_04|騎 士 罩 袍 板 甲 
+itm_rnd_surcoat_04_pl|騎 士 罩 袍 板 甲 
+itm_rnd_surcoat_05|騎 士 罩 袍 板 甲 
+itm_rnd_surcoat_05_pl|騎 士 罩 袍 板 甲 
+itm_rnd_surcoat_06|騎 士 罩 袍 板 甲 
+itm_rnd_surcoat_06_pl|騎 士 罩 袍 板 甲 
+itm_rnd_surcoat_07|騎 士 罩 袍 板 甲 
+itm_rnd_surcoat_07_pl|騎 士 罩 袍 板 甲 
+itm_rnd_surcoat_08|騎 士 罩 袍 板 甲 
+itm_rnd_surcoat_08_pl|騎 士 罩 袍 板 甲 
+itm_rnd_surcoat_09|騎 士 罩 袍 板 甲 
+itm_rnd_surcoat_09_pl|騎 士 罩 袍 板 甲 
+itm_rnd_surcoat_10|騎 士 罩 袍 板 甲 
+itm_rnd_surcoat_10_pl|騎 士 罩 袍 板 甲 
+itm_rnd_surcoat_11|騎 士 罩 袍 板 甲 
+itm_rnd_surcoat_11_pl|騎 士 罩 袍 板 甲 
+itm_rnd_surcoat_12|騎 士 罩 袍 板 甲 
+itm_rnd_surcoat_12_pl|騎 士 罩 袍 板 甲 
+itm_rnd_surcoat_13|騎 士 罩 袍 板 甲 
+itm_rnd_surcoat_13_pl|騎 士 罩 袍 板 甲 
+itm_rnd_surcoat_14|騎 士 罩 袍 板 甲 
+itm_rnd_surcoat_14_pl|騎 士 罩 袍 板 甲 
+itm_rnd_surcoat_15|騎 士 罩 袍 板 甲 
+itm_rnd_surcoat_15_pl|騎 士 罩 袍 板 甲 
+itm_rnd_surcoat_16|騎 士 罩 袍 板 甲 
+itm_rnd_surcoat_16_pl|騎 士 罩 袍 板 甲 
+itm_rnd_surcoat_17|騎 士 罩 袍 板 甲 
+itm_rnd_surcoat_17_pl|騎 士 罩 袍 板 甲 
+itm_rnd_surcoat_18|騎 士 罩 袍 板 甲 
+itm_rnd_surcoat_18_pl|騎 士 罩 袍 板 甲 
+itm_rnd_surcoat_19|騎 士 罩 袍 板 甲 
+itm_rnd_surcoat_19_pl|騎 士 罩 袍 板 甲 
+itm_rnd_surcoat_20|騎 士 罩 袍 板 甲 
+itm_rnd_surcoat_20_pl|騎 士 罩 袍 板 甲 
+itm_rnd_surcoat_21|騎 士 罩 袍 板 甲 
+itm_rnd_surcoat_21_pl|騎 士 罩 袍 板 甲 
+itm_rnd_surcoat_22|騎 士 罩 袍 板 甲 
+itm_rnd_surcoat_22_pl|騎 士 罩 袍 板 甲 
+itm_rnd_surcoat_23|騎 士 罩 袍 板 甲 
+itm_rnd_surcoat_23_pl|騎 士 罩 袍 板 甲 
+itm_surcoat_denmark_a|罩 袍 板 甲 
+itm_surcoat_denmark_a_pl|罩 袍 板 甲 
+itm_surcoat_england_a|罩 袍 板 甲 
+itm_surcoat_england_a_pl|罩 袍 板 甲 
+itm_surcoat_devalence|罩 袍 板 甲 
+itm_surcoat_devalence_pl|罩 袍 板 甲 
+itm_surcoat_demontfort|罩 袍 板 甲 
+itm_surcoat_demontfort_pl|罩 袍 板 甲 
+itm_surcoat_mortimer|罩 袍 板 甲 
+itm_surcoat_mortimer_pl|罩 袍 板 甲 
+itm_surcoat_bigod|罩 袍 板 甲 
+itm_surcoat_bigod_pl|罩 袍 板 甲 
+itm_surcoat_dewarenne|罩 袍 板 甲 
+itm_surcoat_dewarenne_pl|罩 袍 板 甲 
+itm_surcoat_france_a|罩 袍 板 甲 
+itm_surcoat_france_a_pl|罩 袍 板 甲 
+itm_surcoat_hre_a|罩 袍 板 甲 
+itm_surcoat_hre_a_pl|罩 袍 板 甲 
+itm_richard_of_cornwall_surcoat_over_mail|罩 袍 板 甲 
+itm_richard_of_cornwall_surcoat_over_mail_pl|罩 袍 板 甲 
+itm_surcoat_bohemia|罩 袍 板 甲 
+itm_surcoat_bohemia_pl|罩 袍 板 甲 
+itm_surcoat_hungary_a|罩 袍 板 甲 
+itm_surcoat_hungary_a_pl|罩 袍 板 甲 
+itm_surcoat_ireland_a|罩 袍 板 甲 
+itm_surcoat_ireland_a_pl|罩 袍 板 甲 
+itm_surcoat_lithuania_a|鱗 甲 
+itm_surcoat_lithuania_a_pl|鱗 甲 
+itm_surcoat_lithuania_b|皮 制 鱗 甲 
+itm_surcoat_lithuania_b_pl|皮 制 鱗 甲 
+itm_surcoat_norway_a|罩 袍 板 甲 
+itm_surcoat_norway_a_pl|罩 袍 板 甲 
+itm_surcoat_novgorod|諾 夫 哥 羅 德 片 甲 
+itm_surcoat_novgorod_pl|諾 夫 哥 羅 德 片 甲 
+itm_surcoat_scotland_a|罩 袍 板 甲 
+itm_surcoat_scotland_a_pl|罩 袍 板 甲 
+itm_surcoat_sweden_a|罩 袍 板 甲 
+itm_surcoat_sweden_a_pl|罩 袍 板 甲 
+itm_surcoat_kaliskie|罩 袍 板 甲 
+itm_surcoat_kaliskie_pl|罩 袍 板 甲 
+itm_surcoat_poland_a|罩 袍 板 甲 
+itm_surcoat_poland_a_pl|罩 袍 板 甲 
+itm_siemowit_surcoat_over_mail|罩 袍 板 甲 
+itm_siemowit_surcoat_over_mail_pl|罩 袍 板 甲 
+itm_surcoat_gslask|罩 袍 板 甲 
+itm_surcoat_gslask_pl|罩 袍 板 甲 
+itm_surcoat_dslask|罩 袍 板 甲 
+itm_surcoat_dslask_pl|罩 袍 板 甲 
+itm_surcoat_mazowsze|罩 袍 板 甲 
+itm_surcoat_mazowsze_pl|罩 袍 板 甲 
+itm_surcoat_swidnica|罩 袍 板 甲 
+itm_surcoat_swidnica_pl|罩 袍 板 甲 
+itm_surcoat_swietopelk|罩 袍 板 甲 
+itm_surcoat_swietopelk_pl|罩 袍 板 甲 
+itm_surcoat_henry3|罩 袍 板 甲 
+itm_surcoat_henry3_pl|罩 袍 板 甲 
+itm_surcoat_pol_a|罩 袍 板 甲 
+itm_surcoat_pol_a_pl|罩 袍 板 甲 
+itm_surcoat_pol_b|罩 袍 板 甲 
+itm_surcoat_pol_b_pl|罩 袍 板 甲 
+itm_surcoat_pol_c|罩 袍 板 甲 
+itm_surcoat_pol_c_pl|罩 袍 板 甲 
+itm_surcoat_pol_d|罩 袍 板 甲 
+itm_surcoat_pol_d_pl|罩 袍 板 甲 
+itm_surcoat_pol_e|罩 袍 板 甲 
+itm_surcoat_pol_e_pl|罩 袍 板 甲 
+itm_surcoat_pol_f|罩 袍 板 甲 
+itm_surcoat_pol_f_pl|罩 袍 板 甲 
+itm_surcoat_pol_g|罩 袍 板 甲 
+itm_surcoat_pol_g_pl|罩 袍 板 甲 
+itm_surcoat_czersk|罩 袍 板 甲 
+itm_surcoat_czersk_pl|罩 袍 板 甲 
+itm_surcoat_przemysl2|罩 袍 板 甲 
+itm_surcoat_przemysl2_pl|罩 袍 板 甲 
+itm_teu_hochmeister_surcoat|罩 袍 板 甲 
+itm_teu_hochmeister_surcoat_pl|罩 袍 板 甲 
+itm_teu_hbrother_mail|鏈 鎖 甲 
+itm_teu_hbrother_mail_pl|鏈 鎖 甲 
+itm_teu_brother_surcoat_a|條 頓 罩 袍 鏈 甲 
+itm_teu_brother_surcoat_a_pl|條 頓 罩 袍 鏈 甲 
+itm_teu_brother_surcoat_b|條 頓 罩 袍 鏈 甲 
+itm_teu_brother_surcoat_b_pl|條 頓 罩 袍 鏈 甲 
+itm_teu_brother_surcoat_c|條 頓 罩 袍 鏈 甲 
+itm_teu_brother_surcoat_c_pl|條 頓 罩 袍 鏈 甲 
+itm_teu_brother_surcoat_d|條 頓 罩 袍 鏈 甲 
+itm_teu_brother_surcoat_d_pl|條 頓 罩 袍 鏈 甲 
+itm_teu_brother_surcoat_e|條 頓 罩 袍 鏈 甲 
+itm_teu_brother_surcoat_e_pl|條 頓 罩 袍 鏈 甲 
+itm_teu_sariant_mail|罩 袍 鏈 甲 
+itm_teu_sariant_mail_pl|罩 袍 鏈 甲 
+itm_teu_sergeant|鏈 甲 
+itm_teu_sergeant_pl|鏈 甲 
+itm_liv_sergeant|鏈 甲 
+itm_liv_sergeant_pl|鏈 甲 
+itm_teu_postulant_a|見 習 牧 師 短 袍 
+itm_teu_postulant_a_pl|見 習 牧 師 短 袍 
+itm_teu_monk_surcoat_a|條 頓 僧 侶 罩 袍 鏈 甲 
+itm_teu_monk_surcoat_a_pl|條 頓 僧 侶 罩 袍 鏈 甲 
+itm_liv_tunic_a|利 沃 尼 亞 短 袍 
+itm_liv_tunic_a_pl|利 沃 尼 亞 短 袍 
+itm_teu_gambeson|軟 鎧 甲 
+itm_teu_gambeson_pl|軟 鎧 甲 
+itm_teu_coat_of_plates|無 袖 板 甲 
+itm_teu_coat_of_plates_pl|無 袖 板 甲 
+itm_scale_shirt_a|鱗 甲 衫 
+itm_scale_shirt_a_pl|鱗 甲 衫 
+itm_kau_padded_mail_a|布 鏈 甲 
+itm_kau_padded_mail_a_pl|布 鏈 甲 
+itm_kau_mail_a|鏈 甲 
+itm_kau_mail_a_pl|鏈 甲 
+itm_kau_mail_b|鏈 甲 
+itm_kau_mail_b_pl|鏈 甲 
+itm_kau_haubergeon_a|短 鎖 甲 衫 
+itm_kau_haubergeon_a_pl|短 鎖 甲 衫 
+itm_kau_mail_shirt_a|鏈 甲 衫 
+itm_kau_mail_shirt_a_pl|鏈 甲 衫 
+itm_kau_mail_shirt_b|鏈 甲 衫 
+itm_kau_mail_shirt_b_pl|鏈 甲 衫 
+itm_kau_mail_shirt_c|鏈 甲 衫 
+itm_kau_mail_shirt_c_pl|鏈 甲 衫 
+itm_kau_mail_shirt_d|鏈 甲 衫 
+itm_kau_mail_shirt_d_pl|鏈 甲 衫 
+itm_kau_rus_a|東 歐 片 甲 
+itm_kau_rus_a_pl|東 歐 片 甲 
+itm_kau_rus_b|東 歐 鱗 甲 
+itm_kau_rus_b_pl|東 歐 鱗 甲 
+itm_kau_rus_d|東 歐 片 甲 
+itm_kau_rus_d_pl|東 歐 片 甲 
+itm_kau_rus_scale_a|東 歐 貴 族 鱗 甲 
+itm_kau_rus_scale_a_pl|東 歐 貴 族 鱗 甲 
+itm_kau_rus_noble_b|東 歐 貴 族 片 甲 
+itm_kau_rus_noble_b_pl|東 歐 貴 族 片 甲 
+itm_kau_rus_lamellar_vest|東 歐 片 甲 背 心 
+itm_kau_rus_lamellar_vest_pl|東 歐 片 甲 背 心 
+itm_kau_rus_noble_a|東 歐 鏈 甲 
+itm_kau_rus_noble_a_pl|東 歐 鏈 甲 
+itm_kau_rus_c|東 歐 皮 制 片 甲 帶 鏈 甲 
+itm_kau_rus_c_pl|東 歐 皮 制 片 甲 帶 鏈 甲 
+itm_kau_rus_mail_shirt_a|鏈 甲 衫 
+itm_kau_rus_mail_shirt_a_pl|鏈 甲 衫 
+itm_kau_rus_mail_shirt_b|鏈 甲 衫 
+itm_kau_rus_mail_shirt_b_pl|鏈 甲 衫 
+itm_rus_mail_shirt_c|羅 斯 鏈 甲 衫 
+itm_rus_mail_shirt_c_pl|羅 斯 鏈 甲 衫 
+itm_kau_rus_e|東 歐 皮 甲 
+itm_kau_rus_e_pl|東 歐 皮 甲 
+itm_kau_lit_mail|鏈 甲 衫 
+itm_kau_lit_mail_pl|鏈 甲 衫 
+itm_lit_outfit|波 羅 的 海 片 甲 背 心 
+itm_lit_outfit_pl|波 羅 的 海 片 甲 背 心 
+itm_kau_rus_tunic_a|羅 斯 短 袍 
+itm_kau_rus_tunic_a_pl|羅 斯 短 袍 
+itm_kau_rus_tunic_b|羅 斯 短 袍 
+itm_kau_rus_tunic_b_pl|羅 斯 短 袍 
+itm_kau_rus_tunic_c|羅 斯 短 袍 
+itm_kau_rus_tunic_c_pl|羅 斯 短 袍 
+itm_kau_arab_aketon_blue|加 襯 布 衣 
+itm_kau_arab_aketon_blue_pl|加 襯 布 衣 
+itm_kau_arab_aketon|加 襯 布 衣 
+itm_kau_arab_aketon_pl|加 襯 布 衣 
+itm_kau_arab_aketon_red|加 襯 布 衣 
+itm_kau_arab_aketon_red_pl|加 襯 布 衣 
+itm_kau_arab_aketon_green|加 襯 布 衣 
+itm_kau_arab_aketon_green_pl|加 襯 布 衣 
+itm_kau_arab_lamellar_vest_a|片 甲 背 心 
+itm_kau_arab_lamellar_vest_a_pl|片 甲 背 心 
+itm_kau_arab_lamellar_vest_b|片 甲 背 心 
+itm_kau_arab_lamellar_vest_b_pl|片 甲 背 心 
+itm_kau_arab_lamellar_vest_c|片 甲 背 心 
+itm_kau_arab_lamellar_vest_c_pl|片 甲 背 心 
+itm_kau_arab_mail_shirt_a|鏈 甲 衫 
+itm_kau_arab_mail_shirt_a_pl|鏈 甲 衫 
+itm_kau_arab_mail_shirt_b|鏈 甲 衫 
+itm_kau_arab_mail_shirt_b_pl|鏈 甲 衫 
+itm_kau_arab_mail_shirt_c|鏈 甲 衫 
+itm_kau_arab_mail_shirt_c_pl|鏈 甲 衫 
+itm_kau_arab_mail_shirt_d|鏈 甲 衫 
+itm_kau_arab_mail_shirt_d_pl|鏈 甲 衫 
+itm_kau_arab_tunic_a|薩 拉 遜 短 袍 
+itm_kau_arab_tunic_a_pl|薩 拉 遜 短 袍 
+itm_kau_arab_tunic_b|薩 拉 遜 短 袍 
+itm_kau_arab_tunic_b_pl|薩 拉 遜 短 袍 
+itm_arab_banded_a|薩 拉 遜 鑲 邊 甲 
+itm_arab_banded_a_pl|薩 拉 遜 鑲 邊 甲 
+itm_arab_banded_b|薩 拉 遜 鑲 邊 甲 
+itm_arab_banded_b_pl|薩 拉 遜 鑲 邊 甲 
+itm_arab_banded_c|薩 拉 遜 鑲 邊 甲 
+itm_arab_banded_c_pl|薩 拉 遜 鑲 邊 甲 
+itm_templar_sarjeant_surcoat|罩 袍 鏈 甲 
+itm_templar_sarjeant_surcoat_pl|罩 袍 鏈 甲 
+itm_templar_sarjeant_mail|鏈 鎖 甲 
+itm_templar_sarjeant_mail_pl|鏈 鎖 甲 
+itm_templar_tunic_a|見 習 牧 師 短 袍 
+itm_templar_tunic_a_pl|見 習 牧 師 短 袍 
+itm_templar_knight_a|條 頓 罩 袍 鏈 甲 
+itm_templar_knight_a_pl|條 頓 罩 袍 鏈 甲 
+itm_templar_knight_b|條 頓 罩 袍 鏈 甲 
+itm_templar_knight_b_pl|條 頓 罩 袍 鏈 甲 
+itm_templar_knight_c|條 頓 罩 袍 鏈 甲 
+itm_templar_knight_c_pl|條 頓 罩 袍 鏈 甲 
+itm_templar_gambeson_a|軟 鎧 甲 
+itm_templar_gambeson_a_pl|軟 鎧 甲 
+itm_hospitaller_knight_a|罩 袍 鏈 甲 
+itm_hospitaller_knight_a_pl|罩 袍 鏈 甲 
+itm_hospitaller_knight_b|罩 袍 鏈 甲 
+itm_hospitaller_knight_b_pl|罩 袍 鏈 甲 
+itm_hospitaller_knight_c|罩 袍 鏈 甲 
+itm_hospitaller_knight_c_pl|罩 袍 鏈 甲 
+itm_hospitaller_knight_d|罩 袍 鏈 甲 
+itm_hospitaller_knight_d_pl|罩 袍 鏈 甲 
+itm_hospitaller_knight_e|罩 袍 鏈 甲 
+itm_hospitaller_knight_e_pl|罩 袍 鏈 甲 
+itm_hospitaller_knight_f|罩 袍 鏈 甲 
+itm_hospitaller_knight_f_pl|罩 袍 鏈 甲 
+itm_hospitaller_sarjeant_surcoat|罩 袍 鏈 甲 
+itm_hospitaller_sarjeant_surcoat_pl|罩 袍 鏈 甲 
+itm_hospitaller_sarjeant_mail|鏈 鎖 甲 
+itm_hospitaller_sarjeant_mail_pl|鏈 鎖 甲 
+itm_hospitaller_tunic_a|見 習 牧 師 短 袍 
+itm_hospitaller_tunic_a_pl|見 習 牧 師 短 袍 
+itm_hospitaller_gambeson_a|軟 鎧 甲 
+itm_hospitaller_gambeson_a_pl|軟 鎧 甲 
+itm_hospitaller_knight_a|罩 袍 鏈 甲 
+itm_hospitaller_knight_a_pl|罩 袍 鏈 甲 
+itm_hirdman_a|無 袖 板 甲 
+itm_hirdman_a_pl|無 袖 板 甲 
+itm_arab_mail_a|鏈 甲 衫 
+itm_arab_mail_a_pl|鏈 甲 衫 
+itm_arab_mail_b|鏈 甲 衫 
+itm_arab_mail_b_pl|鏈 甲 衫 
+itm_arab_mail_c|鏈 甲 衫 
+itm_arab_mail_c_pl|鏈 甲 衫 
+itm_arab_mail_d|鏈 甲 衫 
+itm_arab_mail_d_pl|鏈 甲 衫 
+itm_cuman_shirt_a|庫 曼 短 袍 
+itm_cuman_shirt_a_pl|庫 曼 短 袍 
+itm_cuman_shirt_b|庫 曼 短 袍 
+itm_cuman_shirt_b_pl|庫 曼 短 袍 
+itm_cuman_shirt_c|庫 曼 短 袍 
+itm_cuman_shirt_c_pl|庫 曼 短 袍 
+itm_cuman_shirt_d|庫 曼 短 袍 
+itm_cuman_shirt_d_pl|庫 曼 短 袍 
+itm_kipchak_shirt_a|欽 察 短 袍 
+itm_kipchak_shirt_a_pl|欽 察 短 袍 
+itm_kipchak_shirt_b|欽 察 短 袍 
+itm_kipchak_shirt_b_pl|欽 察 短 袍 
+itm_kipchak_mail_a|欽 察 鏈 甲 衫 
+itm_kipchak_mail_a_pl|欽 察 鏈 甲 衫 
+itm_mongol_warrior_a|蒙 古 短 袍 
+itm_mongol_warrior_a_pl|蒙 古 短 袍 
+itm_mongol_warrior_b|蒙 古 短 袍 
+itm_mongol_warrior_b_pl|蒙 古 短 袍 
+itm_mongol_warrior_c|蒙 古 皮 背 心 
+itm_mongol_warrior_c_pl|蒙 古 皮 背 心 
+itm_mongol_warrior_d|蒙 古 皮 背 心 
+itm_mongol_warrior_d_pl|蒙 古 皮 背 心 
+itm_mongol_tunic_a|蒙 古 短 袍 
+itm_mongol_tunic_a_pl|蒙 古 短 袍 
+itm_mongol_tunic_b|蒙 古 短 袍 
+itm_mongol_tunic_b_pl|蒙 古 短 袍 
+itm_mongol_warrior_ilkhanate|蒙 古 鏈 甲 
+itm_mongol_warrior_ilkhanate_pl|蒙 古 鏈 甲 
+itm_mamluk_shirt_a|鏈 甲 衫 
+itm_mamluk_shirt_a_pl|鏈 甲 衫 
+itm_mamluk_shirt_b|鏈 甲 衫 
+itm_mamluk_shirt_b_pl|鏈 甲 衫 
+itm_mamluk_shirt_c|鏈 甲 衫 
+itm_mamluk_shirt_c_pl|鏈 甲 衫 
+itm_mamluk_shirt_d|鏈 甲 衫 
+itm_mamluk_shirt_d_pl|鏈 甲 衫 
+itm_mamluk_shirt_e|鏈 甲 衫 
+itm_mamluk_shirt_e_pl|鏈 甲 衫 
+itm_mamluk_shirt_f|鏈 甲 衫 
+itm_mamluk_shirt_f_pl|鏈 甲 衫 
+itm_peasant_tunic_a|亞 麻 短 袍 
+itm_peasant_tunic_a_pl|亞 麻 短 袍 
+itm_peasant_b|亞 麻 短 袍 
+itm_peasant_b_pl|亞 麻 短 袍 
+itm_peasant_c|亞 麻 短 袍 
+itm_peasant_c_pl|亞 麻 短 袍 
+itm_peasant_d|帶 風 帽 短 袍 
+itm_peasant_d_pl|帶 風 帽 短 袍 
+itm_peasant_e|破 衣 爛 衫 
+itm_peasant_e_pl|破 衣 爛 衫 
+itm_peasant_f|破 衣 爛 衫 
+itm_peasant_f_pl|破 衣 爛 衫 
+itm_peasant_g|亞 麻 短 袍 
+itm_peasant_g_pl|亞 麻 短 袍 
+itm_byz_lord|拜 占 庭 甲 
+itm_byz_lord_pl|拜 占 庭 甲 
+itm_byz_emperor|拜 占 庭 甲 
+itm_byz_emperor_pl|拜 占 庭 甲 
+itm_bishop_a|主 教 鏈 甲 
+itm_bishop_a_pl|主 教 鏈 甲 
+itm_varangian_a|瓦 蘭 吉 鏈 鎖 甲 
+itm_varangian_a_pl|瓦 蘭 吉 鏈 鎖 甲 
+itm_varangian_b|瓦 蘭 吉 片 甲 
+itm_varangian_b_pl|瓦 蘭 吉 片 甲 
+itm_varangian_c|瓦 蘭 吉 片 甲 
+itm_varangian_c_pl|瓦 蘭 吉 片 甲 
+itm_kau_rus_noble_d|東 歐 貴 族 片 甲 
+itm_kau_rus_noble_d_pl|東 歐 貴 族 片 甲 
+itm_balt_lamellar_vest_a|波 羅 的 片 甲 背 心 
+itm_balt_lamellar_vest_a_pl|波 羅 的 片 甲 背 心 
+itm_balt_lamellar_vest_b|波 羅 的 片 甲 背 心 
+itm_balt_lamellar_vest_b_pl|波 羅 的 片 甲 背 心 
+itm_balt_lamellar_vest_c|波 羅 的 片 甲 背 心 
+itm_balt_lamellar_vest_c_pl|波 羅 的 片 甲 背 心 
+itm_byz_mail_a|拜 占 庭 鏈 甲 
+itm_byz_mail_a_pl|拜 占 庭 鏈 甲 
+itm_byz_lamellar_a|拜 占 庭 皮 制 片 甲 
+itm_byz_lamellar_a_pl|拜 占 庭 皮 制 片 甲 
+itm_byz_lamellar_b|拜 占 庭 皮 制 片 甲 
+itm_byz_lamellar_b_pl|拜 占 庭 皮 制 片 甲 
+itm_byz_leather_a|拜 占 庭 皮 甲 
+itm_byz_leather_a_pl|拜 占 庭 皮 甲 
+itm_byz_leather_b|拜 占 庭 皮 甲 
+itm_byz_leather_b_pl|拜 占 庭 皮 甲 
+itm_byz_padded_leather|拜 占 庭 加 襯 皮 甲 
+itm_byz_padded_leather_pl|拜 占 庭 加 襯 皮 甲 
+itm_byz_scale_armor|拜 占 庭 鱗 甲 
+itm_byz_scale_armor_pl|拜 占 庭 鱗 甲 
+itm_byz_cavalry_a|拜 占 庭 騎 兵 甲 
+itm_byz_cavalry_a_pl|拜 占 庭 騎 兵 甲 
+itm_byz_cavalry_b|拜 占 庭 騎 兵 甲 
+itm_byz_cavalry_b_pl|拜 占 庭 騎 兵 甲 
+itm_byz_mail_b|拜 占 庭 鏈 甲 
+itm_byz_mail_b_pl|拜 占 庭 鏈 甲 
+itm_byz_hcavalry_a|拜 占 庭 重 騎 兵 甲 
+itm_byz_hcavalry_a_pl|拜 占 庭 重 騎 兵 甲 
+itm_byz_hcavalry_b|拜 占 庭 重 騎 兵 甲 
+itm_byz_hcavalry_b_pl|拜 占 庭 重 騎 兵 甲 
+itm_byz_hcavalry_c|拜 占 庭 重 騎 兵 甲 
+itm_byz_hcavalry_c_pl|拜 占 庭 重 騎 兵 甲 
+itm_byz_psiloi_a|亞 麻 短 袍 
+itm_byz_psiloi_a_pl|亞 麻 短 袍 
+itm_byz_psiloi_b|亞 麻 短 袍 
+itm_byz_psiloi_b_pl|亞 麻 短 袍 
+itm_byz_kataphrakt|重 騎 兵 全 身 鱗 甲 
+itm_byz_kataphrakt_pl|重 騎 兵 全 身 鱗 甲 
+itm_kipchak_lamellar_a|欽 察 鏈 甲 
+itm_kipchak_lamellar_a_pl|欽 察 鏈 甲 
+itm_kipchak_lamellar_b|欽 察 片 甲 
+itm_kipchak_lamellar_b_pl|欽 察 片 甲 
+itm_balt_shirt_a|襯 衫 
+itm_balt_shirt_a_pl|襯 衫 
+itm_balt_shirt_b|襯 衫 
+itm_balt_shirt_b_pl|襯 衫 
+itm_balt_fur_coat_a|毛 皮 大 衣 
+itm_balt_fur_coat_a_pl|毛 皮 大 衣 
+itm_balt_fur_coat_b|毛 皮 大 衣 
+itm_balt_fur_coat_b_pl|毛 皮 大 衣 
+itm_mon_lamellar_a|蒙 古 片 甲 
+itm_mon_lamellar_a_pl|蒙 古 片 甲 
+itm_mon_lamellar_b|蒙 古 片 甲 
+itm_mon_lamellar_b_pl|蒙 古 片 甲 
+itm_byz_footman_a|拜 占 庭 加 襯 布 衣 
+itm_byz_footman_a_pl|拜 占 庭 加 襯 布 衣 
+itm_byz_footman_b|拜 占 庭 加 襯 布 衣 
+itm_byz_footman_b_pl|拜 占 庭 加 襯 布 衣 
+itm_byz_footman_c|拜 占 庭 加 襯 布 衣 
+itm_byz_footman_c_pl|拜 占 庭 加 襯 布 衣 
+itm_byz_swordsman|拜 占 庭 斥 候 甲 
+itm_byz_swordsman_pl|拜 占 庭 斥 候 甲 
+itm_byz_guard_a|拜 占 庭 衛 士 甲 
+itm_byz_guard_a_pl|拜 占 庭 衛 士 甲 
+itm_byz_guard_b|拜 占 庭 衛 士 甲 
+itm_byz_guard_b_pl|拜 占 庭 衛 士 甲 
+itm_kau_arab_nobleman|薩 拉 遜 貴 族 鎧 甲 
+itm_kau_arab_nobleman_pl|薩 拉 遜 貴 族 鎧 甲 
+itm_almogavar_a|毛 皮 大 衣 
+itm_almogavar_a_pl|毛 皮 大 衣 
+itm_almogavar_b|毛 皮 大 衣 
+itm_almogavar_b_pl|毛 皮 大 衣 
+itm_almogavar_c|毛 皮 大 衣 
+itm_almogavar_c_pl|毛 皮 大 衣 
+itm_burlap_tunic|麻 布 短 袍 
+itm_burlap_tunic_pl|麻 布 短 袍 
+itm_heraldic_mail_with_surcoat|紋 章 甲 帶 外 套 
+itm_heraldic_mail_with_surcoat_pl|紋 章 甲 帶 外 套 
+itm_sarranid_head_cloth|女 式 頭 布 
+itm_sarranid_head_cloth_pl|女 式 頭 布 
+itm_sarranid_head_cloth_b|女 式 頭 布 
+itm_sarranid_head_cloth_b_pl|女 式 頭 布 
+itm_sarranid_felt_head_cloth|頭 布 
+itm_sarranid_felt_head_cloth_pl|頭 布 
+itm_sarranid_felt_head_cloth_b|頭 布 
+itm_sarranid_felt_head_cloth_b_pl|頭 布 
+itm_turret_hat_green|炮 台 帽 
+itm_turret_hat_green_pl|炮 台 帽 
+itm_head_wrappings|包 頭 巾 
+itm_head_wrappings_pl|包 頭 巾 
+itm_wimple_a|包 頭 巾 
+itm_wimple_a_pl|包 頭 巾 
+itm_wimple_with_veil|帶 面 紗 頭 巾 
+itm_wimple_with_veil_pl|帶 面 紗 頭 巾 
+itm_straw_hat|草 帽 
+itm_straw_hat_pl|草 帽 
+itm_common_hood|風 帽 
+itm_common_hood_pl|風 帽 
+itm_headcloth|包 頭 巾 
+itm_headcloth_pl|包 頭 巾 
+itm_arming_cap|戰 士 帽 
+itm_arming_cap_pl|戰 士 帽 
+itm_fur_hat|毛 皮 帽 
+itm_fur_hat_pl|毛 皮 帽 
+itm_nomad_cap|游 牧 帽 
+itm_nomad_cap_pl|游 牧 帽 
+itm_nomad_cap_b|游 牧 帽 
+itm_nomad_cap_b_pl|游 牧 帽 
+itm_steppe_cap|草 原 帽 
+itm_steppe_cap_pl|草 原 帽 
+itm_padded_coif|加 襯 頭 巾 
+itm_padded_coif_pl|加 襯 頭 巾 
+itm_woolen_cap|羊 毛 帽 
+itm_woolen_cap_pl|羊 毛 帽 
+itm_felt_hat|氈 帽 
+itm_felt_hat_pl|氈 帽 
+itm_felt_hat_b|氈 帽 
+itm_felt_hat_b_pl|氈 帽 
+itm_leather_cap|皮 帽 
+itm_leather_cap_pl|皮 帽 
+itm_female_hood|女 士 頭 巾 
+itm_female_hood_pl|女 士 頭 巾 
+itm_leather_steppe_cap_a|草 原 帽 
+itm_leather_steppe_cap_a_pl|草 原 帽 
+itm_leather_steppe_cap_b|草 原 帽 
+itm_leather_steppe_cap_b_pl|草 原 帽 
+itm_leather_steppe_cap_c|草 原 帽 
+itm_leather_steppe_cap_c_pl|草 原 帽 
+itm_mail_coif|鏈 甲 頭 巾 
+itm_mail_coif_pl|鏈 甲 頭 巾 
+itm_footman_helmet|步 兵 盔 
+itm_footman_helmet_pl|步 兵 盔 
+itm_norman_helmet|帶 帽 頭 盔 
+itm_norman_helmet_pl|帶 帽 頭 盔 
+itm_khergit_lady_hat|蒙 古 女 式 帽 
+itm_khergit_lady_hat_pl|蒙 古 女 式 帽 
+itm_khergit_lady_hat_b|蒙 古 女 式 皮 帽 
+itm_khergit_lady_hat_b_pl|蒙 古 女 式 皮 帽 
+itm_sarranid_felt_hat|薩 拉 遜 氈 帽 
+itm_sarranid_felt_hat_pl|薩 拉 遜 氈 帽 
+itm_turban_a|包 頭 巾 
+itm_turban_a_pl|包 頭 巾 
+itm_turban_b|包 頭 巾 
+itm_turban_b_pl|包 頭 巾 
+itm_turban_c|包 頭 巾 
+itm_turban_c_pl|包 頭 巾 
+itm_arab_mail_coif|薩 拉 遜 鏈 甲 頭 巾 
+itm_arab_mail_coif_pl|薩 拉 遜 鏈 甲 頭 巾 
+itm_seljuk_helmet|塞 爾 柱 盔 
+itm_seljuk_helmet_pl|塞 爾 柱 盔 
+itm_arab_helmet_a|薩 拉 遜 盔 
+itm_arab_helmet_a_pl|薩 拉 遜 盔 
+itm_arab_helmet_c|薩 拉 遜 盔 
+itm_arab_helmet_c_pl|薩 拉 遜 盔 
+itm_sarranid_warrior_cap|薩 拉 遜 勇 士 帽 
+itm_sarranid_warrior_cap_pl|薩 拉 遜 勇 士 帽 
+itm_sarranid_horseman_helmet|騎 手 盔 
+itm_sarranid_horseman_helmet_pl|騎 手 盔 
+itm_sarranid_helmet1|薩 拉 遜 頭 巾 盔 
+itm_sarranid_helmet1_pl|薩 拉 遜 頭 巾 盔 
+itm_sarranid_mail_coif|薩 拉 遜 鏈 甲 鏈 甲 頭 巾 
+itm_sarranid_mail_coif_pl|薩 拉 遜 鏈 甲 鏈 甲 頭 巾 
+itm_sarranid_veiled_helmet|薩 拉 遜 遮 面 盔 
+itm_sarranid_veiled_helmet_pl|薩 拉 遜 遮 面 盔 
+itm_vaegir_fur_cap|毛 皮 盔 
+itm_vaegir_fur_cap_pl|毛 皮 盔 
+itm_vaegir_fur_helmet|羅 斯 盔 
+itm_vaegir_fur_helmet_pl|羅 斯 盔 
+itm_vaegir_spiked_helmet|錐 頂 帽 
+itm_vaegir_spiked_helmet_pl|錐 頂 帽 
+itm_vaegir_lamellar_helmet|鱗 片 護 甲 盔 
+itm_vaegir_lamellar_helmet_pl|鱗 片 護 甲 盔 
+itm_vaegir_noble_helmet|羅 斯 貴 族 盔 
+itm_vaegir_noble_helmet_pl|羅 斯 貴 族 盔 
+itm_vaegir_war_helmet|羅 斯 戰 盔 
+itm_vaegir_war_helmet_pl|羅 斯 戰 盔 
+itm_vaegir_mask|羅 斯 面 具 戰 盔 
+itm_vaegir_mask_pl|羅 斯 面 具 戰 盔 
+itm_winged_great_helmet|帶 翼 巨 盔 
+itm_winged_great_helmet_pl|帶 翼 巨 盔 
+itm_osp_great_helm_a|巨 盔 
+itm_osp_great_helm_a_pl|巨 盔 
+itm_osp_great_helm_b|巨 盔 
+itm_osp_great_helm_b_pl|巨 盔 
+itm_osp_byzantion_a|帶 簷 頭 盔 
+itm_osp_byzantion_a_pl|帶 簷 頭 盔 
+itm_vik_norman_helmet_a|諾 曼 盔 
+itm_vik_norman_helmet_a_pl|諾 曼 盔 
+itm_vik_norman_helmet_b|諾 曼 盔 
+itm_vik_norman_helmet_b_pl|諾 曼 盔 
+itm_vik_norman_helmet_c|諾 曼 盔 
+itm_vik_norman_helmet_c_pl|諾 曼 盔 
+itm_vik_norman_helmet_e|平 面 盔 
+itm_vik_norman_helmet_e_pl|平 面 盔 
+itm_vik_spangen_a|夾 鐵 盔 
+itm_vik_spangen_a_pl|夾 鐵 盔 
+itm_vik_spangen_b|夾 鐵 盔 
+itm_vik_spangen_b_pl|夾 鐵 盔 
+itm_balt_spiked_helmet|波 羅 的 海 錐 頭 帽 
+itm_balt_spiked_helmet_pl|波 羅 的 海 錐 頭 帽 
+itm_balt_footman_helmet|波 羅 的 海 步 兵 盔 
+itm_balt_footman_helmet_pl|波 羅 的 海 步 兵 盔 
+itm_balt_helmet_a|波 羅 的 海 盔 
+itm_balt_helmet_a_pl|波 羅 的 海 盔 
+itm_balt_helmet_b|波 羅 的 海 盔 
+itm_balt_helmet_b_pl|波 羅 的 海 盔 
+itm_balt_helmet_c|波 羅 的 海 盔 
+itm_balt_helmet_c_pl|波 羅 的 海 盔 
+itm_pol_helm_05|巨 盔 
+itm_pol_helm_05_pl|巨 盔 
+itm_pol_helm_08|巨 盔 
+itm_pol_helm_08_pl|巨 盔 
+itm_teu_kettle_hat_a|鍋 盔 
+itm_teu_kettle_hat_a_pl|鍋 盔 
+itm_teu_kettle_hat_b|鍋 盔 
+itm_teu_kettle_hat_b_pl|鍋 盔 
+itm_slonim|斯 洛 尼 姆 式 頭 盔 
+itm_slonim_pl|斯 洛 尼 姆 式 頭 盔 
+itm_osp_faceplate|覆 面 盔 
+itm_osp_faceplate_pl|覆 面 盔 
+itm_rnd_helm_01|帶 翼 巨 盔 
+itm_rnd_helm_01_pl|帶 翼 巨 盔 
+itm_rnd_helm_02|帶 翼 巨 盔 
+itm_rnd_helm_02_pl|帶 翼 巨 盔 
+itm_rnd_helm_03|帶 翼 巨 盔 
+itm_rnd_helm_03_pl|帶 翼 巨 盔 
+itm_rnd_helm_04|巨 盔 
+itm_rnd_helm_04_pl|巨 盔 
+itm_rnd_helm_05|巨 盔 
+itm_rnd_helm_05_pl|巨 盔 
+itm_rnd_helm_06|巨 盔 
+itm_rnd_helm_06_pl|巨 盔 
+itm_kau_montcada_helmet|阿 拉 貢 盔 
+itm_kau_montcada_helmet_pl|阿 拉 貢 盔 
+itm_kau_alego_helmet|阿 拉 貢 盔 
+itm_kau_alego_helmet_pl|阿 拉 貢 盔 
+itm_kau_cervello_helmet|阿 拉 貢 盔 
+itm_kau_cervello_helmet_pl|阿 拉 貢 盔 
+itm_kau_cruilles_helmet|阿 拉 貢 盔 
+itm_kau_cruilles_helmet_pl|阿 拉 貢 盔 
+itm_kau_entenca_helmet|阿 拉 貢 盔 
+itm_kau_entenca_helmet_pl|阿 拉 貢 盔 
+itm_kau_epyres_helmet|阿 拉 貢 盔 
+itm_kau_epyres_helmet_pl|阿 拉 貢 盔 
+itm_kau_luna_helmet|阿 拉 貢 盔 
+itm_kau_luna_helmet_pl|阿 拉 貢 盔 
+itm_kau_pons_helmet|阿 拉 貢 盔 
+itm_kau_pons_helmet_pl|阿 拉 貢 盔 
+itm_kau_reino_helmet|阿 拉 貢 盔 
+itm_kau_reino_helmet_pl|阿 拉 貢 盔 
+itm_kau_urgell_helmet|阿 拉 貢 盔 
+itm_kau_urgell_helmet_pl|阿 拉 貢 盔 
+itm_byz_yoman_a|拜 占 庭 盔 
+itm_byz_yoman_a_pl|拜 占 庭 盔 
+itm_byz_yoman_b|拜 占 庭 盔 
+itm_byz_yoman_b_pl|拜 占 庭 盔 
+itm_byz_yoman_c|拜 占 庭 盔 
+itm_byz_yoman_c_pl|拜 占 庭 盔 
+itm_byz_yoman_d|拜 占 庭 盔 
+itm_byz_yoman_d_pl|拜 占 庭 盔 
+itm_templar_kettlehat_a|鍋 盔 
+itm_templar_kettlehat_a_pl|鍋 盔 
+itm_hospitaller_kettlehat_a|鍋 盔 
+itm_hospitaller_kettlehat_a_pl|鍋 盔 
+itm_elm1|寬 邊 帽 盔 帶 護 面 
+itm_elm1_pl|寬 邊 帽 盔 帶 護 面 
+itm_elm2|寬 邊 帽 盔 帶 軍 帽 襯 裡 
+itm_elm2_pl|寬 邊 帽 盔 帶 軍 帽 襯 裡 
+itm_elm3|護 鼻 寬 邊 帽 盔 
+itm_elm3_pl|護 鼻 寬 邊 帽 盔 
+itm_elm5|阿 拉 貢 盔 
+itm_elm5_pl|阿 拉 貢 盔 
+itm_elm6|加 襯 鏈 甲 頭 巾 
+itm_elm6_pl|加 襯 鏈 甲 頭 巾 
+itm_elm7|加 強 鏈 甲 頭 巾 
+itm_elm7_pl|加 強 鏈 甲 頭 巾 
+itm_elm8|帶 護 面 寬 邊 帽 盔 
+itm_elm8_pl|帶 護 面 寬 邊 帽 盔 
+itm_elm9|弗 裡 吉 亞 盔 
+itm_elm9_pl|弗 裡 吉 亞 盔 
+itm_elm10|拜 占 庭 寬 邊 盔 
+itm_elm10_pl|拜 占 庭 寬 邊 盔 
+itm_byz_helmet_a|拜 占 庭 步 兵 盔 
+itm_byz_helmet_a_pl|拜 占 庭 步 兵 盔 
+itm_leather_warrior_cap|皮 勇 士 帽 
+itm_leather_warrior_cap_pl|皮 勇 士 帽 
+itm_skullcap|無 邊 盔 
+itm_skullcap_pl|無 邊 盔 
+itm_raf_spangen|夾 鐵 盔 
+itm_raf_spangen_pl|夾 鐵 盔 
+itm_arab_helmet_a|薩 拉 遜 盔 
+itm_arab_helmet_a_pl|薩 拉 遜 盔 
+itm_arab_helmet_b|薩 拉 遜 盔 
+itm_arab_helmet_b_pl|薩 拉 遜 盔 
+itm_arab_helmet_c|薩 拉 遜 盔 
+itm_arab_helmet_c_pl|薩 拉 遜 盔 
+itm_berber_helmet_a|柏 柏 爾 盔 
+itm_berber_helmet_a_pl|柏 柏 爾 盔 
+itm_maciejowski_helm|巨 盔 
+itm_maciejowski_helm_pl|巨 盔 
+itm_talak_litchina|覆 面 盔 
+itm_talak_litchina_pl|覆 面 盔 
+itm_crown_coif|王 冠 盔 
+itm_crown_coif_pl|王 冠 盔 
+itm_aragon_crown|王 冠 盔 
+itm_aragon_crown_pl|王 冠 盔 
+itm_talak_crown_ornate|飾 品 王 冠 盔 
+itm_talak_crown_ornate_pl|飾 品 王 冠 盔 
+itm_cuman_cap_a|庫 曼 帽 
+itm_cuman_cap_a_pl|庫 曼 帽 
+itm_cuman_cap_b|庫 曼 帽 
+itm_cuman_cap_b_pl|庫 曼 帽 
+itm_cuman_cap_c|庫 曼 帽 
+itm_cuman_cap_c_pl|庫 曼 帽 
+itm_maciejowski_kettle_hat_a|鍋 盔 
+itm_maciejowski_kettle_hat_a_pl|鍋 盔 
+itm_maciejowski_kettle_hat_b|鍋 盔 
+itm_maciejowski_kettle_hat_b_pl|鍋 盔 
+itm_norman_coif_a|諾 曼 盔 
+itm_norman_coif_a_pl|諾 曼 盔 
+itm_maciejowski_crown|王 冠 巨 盔 
+itm_maciejowski_crown_pl|王 冠 巨 盔 
+itm_crowned_norman|王 冠 諾 曼 盔 
+itm_crowned_norman_pl|王 冠 諾 曼 盔 
+itm_norman_coif_b|諾 曼 盔 帶 護 面 
+itm_norman_coif_b_pl|諾 曼 盔 帶 護 面 
+itm_rus_helm_a|羅 斯 盔 帶 護 面 
+itm_rus_helm_a_pl|羅 斯 盔 帶 護 面 
+itm_rus_helmet_b|羅 斯 盔 
+itm_rus_helmet_b_pl|羅 斯 盔 
+itm_norman_coif_c|諾 曼 盔 
+itm_norman_coif_c_pl|諾 曼 盔 
+itm_norman_coif_d|諾 曼 盔 
+itm_norman_coif_d_pl|諾 曼 盔 
+itm_norman_coif_e|諾 曼 盔 
+itm_norman_coif_e_pl|諾 曼 盔 
+itm_teu_kettle_hat_a_mail|鍋 盔 
+itm_teu_kettle_hat_a_mail_pl|鍋 盔 
+itm_templar_kettlehat_a_mail|鍋 盔 
+itm_templar_kettlehat_a_mail_pl|鍋 盔 
+itm_hospitaller_kettlehat_a_mail|鍋 盔 
+itm_hospitaller_kettlehat_a_mail_pl|鍋 盔 
+itm_kolpak_mail|圓 盔 
+itm_kolpak_mail_pl|圓 盔 
+itm_mail_coif_b|盛 飾 的 鏈 甲 頭 巾 
+itm_mail_coif_b_pl|裝 飾 鏈 甲 頭 巾 
+itm_mail_coif_c|盛 飾 的 鏈 甲 頭 巾 
+itm_mail_coif_c_pl|裝 飾 鏈 甲 頭 巾 
+itm_norman_faceplate|帶 面 罩 盔
+itm_norman_faceplate_pl|帶 面 罩 盔
+itm_varangian_helm|瓦 蘭 吉 盔 
+itm_varangian_helm_pl|瓦 蘭 吉 盔 
+itm_mamluke_helm|馬 木 魯 克 盔 
+itm_mamluke_helm_pl|馬 木 魯 克 盔 
+itm_wooden_stick|木 枝 
+itm_wooden_stick_pl|木 枝 
+itm_cudgel|短 棍 
+itm_cudgel_pl|短 棍 
+itm_hammer|錘 子 
+itm_hammer_pl|錘 子 
+itm_club|木 棒 
+itm_club_pl|木 棒 
+itm_winged_mace|凸 緣 杖 
+itm_winged_mace_pl|凸 緣 杖 
+itm_spiked_mace|尖 頭 杖 
+itm_spiked_mace_pl|尖 頭 杖 
+itm_military_hammer|軍 用 錘 
+itm_military_hammer_pl|軍 用 錘 
+itm_maul|木 錘 
+itm_maul_pl|木 錘 
+itm_sledgehammer|大 錘 
+itm_sledgehammer_pl|大 錘 
+itm_warhammer|戰 錘 
+itm_warhammer_pl|戰 錘 
+itm_pickaxe|鶴 嘴 鋤 
+itm_pickaxe_pl|鶴 嘴 鋤 
+itm_spiked_club|尖 頭 棒 
+itm_spiked_club_pl|尖 頭 棒 
+itm_fighting_pick|格 斗 鋤 
+itm_fighting_pick_pl|格 斗 鋤 
+itm_military_pick|軍 用 鋤 
+itm_military_pick_pl|軍 用 鋤 
+itm_morningstar|釘 頭 錘 
+itm_morningstar_pl|釘 頭 錘 
+itm_sickle|鐮 刀 
+itm_sickle_pl|鐮 刀 
+itm_cleaver|菜 刀 
+itm_cleaver_pl|菜 刀 
+itm_knife|小 刀 
+itm_knife_pl|小 刀 
+itm_butchering_knife|屠 宰 刀 
+itm_butchering_knife_pl|屠 宰 刀 
+itm_dagger|匕 首 
+itm_dagger_pl|匕 首 
+itm_falchion|單 刀 
+itm_falchion_pl|單 刀 
+itm_scimitar|彎 刀 
+itm_scimitar_pl|彎 刀 
+itm_scimitar_b|精 銳 彎 刀 
+itm_scimitar_b_pl|精 銳 彎 刀 
+itm_arabian_sword_a|薩 拉 遜 劍 
+itm_arabian_sword_a_pl|薩 拉 遜 劍 
+itm_arabian_sword_b|薩 拉 遜 戰 士 劍 
+itm_arabian_sword_b_pl|薩 拉 遜 戰 士 劍 
+itm_sarranid_cavalry_sword|薩 拉 遜 騎 兵 劍 
+itm_sarranid_cavalry_sword_pl|薩 拉 遜 騎 兵 劍 
+itm_arabian_sword_d|薩 拉 遜 衛 士 劍 
+itm_arabian_sword_d_pl|薩 拉 遜 衛 士 劍 
+itm_andalusian_sword|安 達 盧 西 亞 劍 
+itm_andalusian_sword_pl|安 達 盧 西 亞 劍 
+itm_hatchet|短 斧 
+itm_hatchet_pl|短 斧 
+itm_talak_warhammer|戰 錘 
+itm_talak_warhammer_pl|戰 錘 
+itm_talak_bastard_sword|手 半 劍 
+itm_talak_bastard_sword_pl|手 半 劍 
+itm_talak_mace|凸 緣 釘 頭 錘 
+itm_talak_mace_pl|凸 緣 釘 頭 錘 
+itm_raf_one_handed_axe_a|單 手 斧 
+itm_raf_one_handed_axe_a_pl|單 手 斧 
+itm_raf_one_handed_axe_b|單 手 斧 
+itm_raf_one_handed_axe_b_pl|單 手 斧 
+itm_raf_one_handed_axe_c|單 手 斧 
+itm_raf_one_handed_axe_c_pl|單 手 斧 
+itm_raf_one_handed_axe_d|單 手 斧 
+itm_raf_one_handed_axe_d_pl|單 手 斧 
+itm_raf_one_handed_axe_e|單 手 斧 
+itm_raf_one_handed_axe_e_pl|單 手 斧 
+itm_raf_one_handed_axe_f|單 手 斧 
+itm_raf_one_handed_axe_f_pl|單 手 斧 
+itm_raf_one_handed_axe_g|單 手 斧 
+itm_raf_one_handed_axe_g_pl|單 手 斧 
+itm_raf_one_handed_axe_h|鉤 斧 
+itm_raf_one_handed_axe_h_pl|鉤 斧 
+itm_raf_two_handed_axe_a|雙 手 斧 
+itm_raf_two_handed_axe_a_pl|雙 手 斧 
+itm_raf_two_handed_axe_b|雙 手 斧 
+itm_raf_two_handed_axe_b_pl|雙 手 斧 
+itm_raf_two_handed_axe_c|北 歐 戰 斧 
+itm_raf_two_handed_axe_c_pl|北 歐 戰 斧 
+itm_sarranid_mace_1|鐵 杖 
+itm_sarranid_mace_1_pl|鐵 杖 
+itm_sarranid_axe_a|鐵 戰 斗 斧 
+itm_sarranid_axe_a_pl|鐵 戰 斗 斧 
+itm_sarranid_axe_b|鐵 戰 斧 
+itm_sarranid_axe_b_pl|鐵 戰 斧 
+itm_sword_type_xii|XII型 西 歐 劍 
+itm_sword_type_xii_pl|XII型 西 歐 劍 
+itm_sword_type_xiia|XIIA型 西 歐 劍 
+itm_sword_type_xiia_pl|XIIA型 西 歐 劍 
+itm_sword_type_xiii|XIII型 西 歐 劍 
+itm_sword_type_xiii_pl|XIII型 西 歐 劍 
+itm_sword_type_xiiia|XIIIA型 西 歐 劍 
+itm_sword_type_xiiia_pl|XIIIA型 西 歐 劍 
+itm_sword_type_xiiib|XIIIB型 西 歐 劍 
+itm_sword_type_xiiib_pl|XIIIB型 西 歐 劍 
+itm_sword_type_xiv|XIV型 西 歐 劍 
+itm_sword_type_xiv_pl|XIV型 西 歐 劍 
+itm_cp391_sword|西 歐 騎 士 劍 
+itm_cp391_sword_pl|西 歐 騎 士 劍 
+itm_spatha|羅 馬 劍 
+itm_spatha_pl|羅 馬 劍 
+itm_two_handed_cleaver|直 刃 戰 刀 
+itm_two_handed_cleaver_pl|直 刃 戰 刀 
+itm_military_cleaver_b|直 刃 士 兵 刀 
+itm_military_cleaver_b_pl|直 刃 士 兵 刀 
+itm_military_cleaver_c|直 刃 軍 用 刀 
+itm_military_cleaver_c_pl|直 刃 軍 用 刀 
+itm_military_sickle_a|軍 用 鐮 刀 
+itm_military_sickle_a_pl|軍 用 鐮 刀 
+itm_shortened_voulge|短 柄 勾 斧 
+itm_shortened_voulge_pl|短 柄 勾 斧 
+itm_long_axe|長 斧 
+itm_long_axe_pl|長 斧 
+itm_long_axe_alt|長 斧 
+itm_long_axe_alt_pl|長 斧 
+itm_long_axe_b|長 戰 斧 
+itm_long_axe_b_pl|長 戰 斧 
+itm_long_axe_b_alt|長 戰 斧 
+itm_long_axe_b_alt_pl|長 戰 斧 
+itm_hafted_blade_b|偃 月 刀 
+itm_hafted_blade_b_pl|偃 月 刀 
+itm_hafted_blade_a|寬 刃 刀 
+itm_hafted_blade_a_pl|寬 刃 刀 
+itm_shortened_military_scythe|短 柄 軍 用 鐮 
+itm_shortened_military_scythe_pl|短 柄 軍 用 鐮 
+itm_sword_viking_1|北 歐 劍 
+itm_sword_viking_1_pl|北 歐 劍 
+itm_sword_viking_2|北 歐 劍 
+itm_sword_viking_2_pl|北 歐 劍 
+itm_sword_viking_2_small|北 歐 短 劍 
+itm_sword_viking_2_small_pl|北 歐 短 劍 
+itm_sword_viking_3|北 歐 戰 劍 
+itm_sword_viking_3_pl|北 歐 戰 劍 
+itm_sword_viking_3_small|北 歐 短 戰 劍 
+itm_sword_viking_3_small_pl|北 歐 短 戰 劍 
+itm_sword_khergit_1|游 牧 彎 刀 
+itm_sword_khergit_1_pl|游 牧 彎 刀 
+itm_sword_khergit_2|彎 刀 
+itm_sword_khergit_2_pl|彎 刀 
+itm_sword_khergit_3|彎 刀 
+itm_sword_khergit_3_pl|彎 刀 
+itm_sword_khergit_4|重 型 彎 刀 
+itm_sword_khergit_4_pl|重 型 彎 刀 
+itm_mace_1|尖 頭 棒 
+itm_mace_1_pl|尖 頭 棒 
+itm_mace_2|圓 頭 杖 
+itm_mace_2_pl|圓 頭 杖 
+itm_mace_3|尖 頭 杖 
+itm_mace_3_pl|尖 頭 杖 
+itm_mace_4|翼 頭 杖 
+itm_mace_4_pl|翼 頭 杖 
+itm_club_with_spike_head|尖 頭 棍 
+itm_club_with_spike_head_pl|尖 頭 棍 
+itm_long_spiked_club|長 釘 棒 
+itm_long_spiked_club_pl|長 釘 棒 
+itm_long_hafted_knobbed_mace|長 柄 圓 頭 杖 
+itm_long_hafted_knobbed_mace_pl|長 柄 圓 頭 杖 
+itm_long_hafted_spiked_mace|長 柄 尖 頭 杖 
+itm_long_hafted_spiked_mace_pl|長 柄 尖 頭 杖 
+itm_studded_club|釘 棍 
+itm_studded_club_pl|釘 棍 
+itm_scythe|長 柄 鐮 刀 
+itm_scythe_pl|長 柄 鐮 刀 
+itm_pitch_fork|耙 子 
+itm_pitch_fork_pl|耙 子 
+itm_military_fork|軍 用 叉 
+itm_military_fork_pl|軍 用 叉 
+itm_battle_fork|戰 斗 叉 
+itm_battle_fork_pl|戰 斗 叉 
+itm_glaive|長 柄 大 刀 
+itm_glaive_pl|長 柄 大 刀 
+itm_staff|棍 
+itm_staff_pl|棍 
+itm_quarter_staff|鐵 頭 棍 
+itm_quarter_staff_pl|鐵 頭 棍 
+itm_military_scythe|軍 用 鐮 
+itm_military_scythe_pl|軍 用 鐮 
+itm_light_lance|輕 型 騎 槍 
+itm_light_lance_pl|輕 型 騎 槍 
+itm_lance|騎 槍 
+itm_lance_pl|騎 槍 
+itm_heavy_lance|重 型 騎 槍 
+itm_heavy_lance_pl|重 型 騎 槍 
+itm_bamboo_spear|竹 矛 
+itm_bamboo_spear_pl|竹 矛 
+itm_spear_a|矛 
+itm_spear_a_pl|矛 
+itm_spear_b|短 矛 
+itm_spear_b_pl|短 矛 
+itm_spear_c|矛 
+itm_spear_c_pl|矛 
+itm_spear_d|矛 
+itm_spear_d_pl|矛 
+itm_spear_e|矛 
+itm_spear_e_pl|矛 
+itm_spear_f|矛 
+itm_spear_f_pl|矛 
+itm_spear_g|矛 
+itm_spear_g_pl|矛 
+itm_spear_h|矛 
+itm_spear_h_pl|矛 
+itm_spear_i|矛 
+itm_spear_i_pl|矛 
+itm_spear_j|長 矛 
+itm_spear_j_pl|長 矛 
+itm_spear_k|長 矛 
+itm_spear_k_pl|長 矛 
+itm_spear_l|長 矛 
+itm_spear_l_pl|長 矛 
+itm_spear_m|矛 
+itm_spear_m_pl|矛 
+itm_spear_n|長 矛 
+itm_spear_n_pl|長 矛 
+itm_spear_o|矛 
+itm_spear_o_pl|矛 
+itm_spear_p|矛 
+itm_spear_p_pl|矛 
+itm_wooden_shield|木 盾 
+itm_wooden_shield_pl|木 盾 
+itm_nordic_shield|北 歐 盾 
+itm_nordic_shield_pl|北 歐 盾 
+itm_leather_covered_round_shield|蒙 皮 圓 盾 
+itm_leather_covered_round_shield_pl|蒙 皮 圓 盾 
+itm_hide_covered_round_shield|獸 皮 圓 盾 
+itm_hide_covered_round_shield_pl|獸 皮 圓 盾 
+itm_tab_shield_round_a|舊 圓 盾 
+itm_tab_shield_round_a_pl|舊 圓 盾 
+itm_tab_shield_round_b|簡 易 圓 盾 
+itm_tab_shield_round_b_pl|簡 易 圓 盾 
+itm_tab_shield_round_c|圓 盾 
+itm_tab_shield_round_c_pl|圓 盾 
+itm_tab_shield_round_d|精 制 圓 盾 
+itm_tab_shield_round_d_pl|精 制 圓 盾 
+itm_tab_shield_round_e|重 型 圓 盾 
+itm_tab_shield_round_e_pl|重 型 圓 盾 
+itm_tab_shield_kite_a|舊 箏 形 盾 
+itm_tab_shield_kite_a_pl|舊 箏 形 盾 
+itm_tab_shield_kite_b|簡 易 箏 形 盾 
+itm_tab_shield_kite_b_pl|簡 易 箏 形 盾 
+itm_tab_shield_kite_c|箏 形 盾 
+itm_tab_shield_kite_c_pl|箏 形 盾 
+itm_tab_shield_kite_d|重 型 箏 形 盾 
+itm_tab_shield_kite_d_pl|重 型 箏 形 盾 
+itm_tab_shield_kite_cav_a|騎 手 箏 形 盾 
+itm_tab_shield_kite_cav_a_pl|騎 手 箏 形 盾 
+itm_tab_shield_kite_cav_b|騎 士 箏 形 盾 
+itm_tab_shield_kite_cav_b_pl|騎 士 箏 形 盾 
+itm_tab_shield_heater_a|舊 扇 形 盾 
+itm_tab_shield_heater_a_pl|舊 扇 形 盾 
+itm_tab_shield_heater_b|簡 易 扇 形 盾 
+itm_tab_shield_heater_b_pl|簡 易 扇 形 盾 
+itm_tab_shield_heater_c|扇 形 盾 
+itm_tab_shield_heater_c_pl|扇 形 盾 
+itm_tab_shield_heater_d|重 扇 形 盾 
+itm_tab_shield_heater_d_pl|重 扇 形 盾 
+itm_tab_shield_heater_cav_a|騎 手 扇 形 盾 
+itm_tab_shield_heater_cav_a_pl|騎 手 扇 形 盾 
+itm_tab_shield_heater_cav_b|騎 士 扇 形 盾 
+itm_tab_shield_heater_cav_b_pl|騎 士 扇 形 盾 
+itm_tab_shield_pavise_d|重 型 闊 盾 
+itm_tab_shield_pavise_d_pl|重 型 闊 盾 
+itm_tab_shield_small_round_a|平 面 騎 兵 盾 
+itm_tab_shield_small_round_a_pl|平 面 騎 兵 盾 
+itm_tab_shield_small_round_b|圓 騎 兵 盾 
+itm_tab_shield_small_round_b_pl|圓 騎 兵 盾 
+itm_tab_shield_small_round_c|精 銳 騎 兵 盾 
+itm_tab_shield_small_round_c_pl|精 銳 騎 兵 盾 
+itm_lit_pavise_a_1|舊 立 陶 宛 盾 
+itm_lit_pavise_a_1_pl|舊 立 陶 宛 盾 
+itm_lit_pavise_b_1|舊 立 陶 宛 盾 
+itm_lit_pavise_b_1_pl|舊 立 陶 宛 盾 
+itm_lit_pavise_c_1|舊 立 陶 宛 盾 
+itm_lit_pavise_c_1_pl|舊 立 陶 宛 盾 
+itm_lit_pavise_d_1|舊 立 陶 宛 盾 
+itm_lit_pavise_d_1_pl|舊 立 陶 宛 盾 
+itm_lit_pavise_e_1|舊 立 陶 宛 盾 
+itm_lit_pavise_e_1_pl|舊 立 陶 宛 盾 
+itm_lit_pavise_f_1|舊 立 陶 宛 盾 
+itm_lit_pavise_f_1_pl|舊 立 陶 宛 盾 
+itm_lit_pavise_g_1|舊 立 陶 宛 盾 
+itm_lit_pavise_g_1_pl|舊 立 陶 宛 盾 
+itm_lit_pavise_h_1|舊 立 陶 宛 盾 
+itm_lit_pavise_h_1_pl|舊 立 陶 宛 盾 
+itm_lit_pavise_a_2|簡 易 立 陶 宛 盾 
+itm_lit_pavise_a_2_pl|簡 易 立 陶 宛 盾 
+itm_lit_pavise_b_2|簡 易 立 陶 宛 盾 
+itm_lit_pavise_b_2_pl|簡 易 立 陶 宛 盾 
+itm_lit_pavise_c_2|簡 易 立 陶 宛 盾 
+itm_lit_pavise_c_2_pl|簡 易 立 陶 宛 盾 
+itm_lit_pavise_d_2|簡 易 立 陶 宛 盾 
+itm_lit_pavise_d_2_pl|簡 易 立 陶 宛 盾 
+itm_lit_pavise_e_2|簡 易 立 陶 宛 盾 
+itm_lit_pavise_e_2_pl|簡 易 立 陶 宛 盾 
+itm_lit_pavise_f_2|簡 易 立 陶 宛 盾 
+itm_lit_pavise_f_2_pl|簡 易 立 陶 宛 盾 
+itm_lit_pavise_g_2|簡 易 立 陶 宛 盾 
+itm_lit_pavise_g_2_pl|簡 易 立 陶 宛 盾 
+itm_lit_pavise_h_2|簡 易 立 陶 宛 盾 
+itm_lit_pavise_h_2_pl|簡 易 立 陶 宛 盾 
+itm_lit_pavise_a_3|立 陶 宛 盾 
+itm_lit_pavise_a_3_pl|立 陶 宛 盾 
+itm_lit_pavise_b_3|立 陶 宛 盾 
+itm_lit_pavise_b_3_pl|立 陶 宛 盾 
+itm_lit_pavise_c_3|立 陶 宛 盾 
+itm_lit_pavise_c_3_pl|立 陶 宛 盾 
+itm_lit_pavise_d_3|立 陶 宛 盾 
+itm_lit_pavise_d_3_pl|立 陶 宛 盾 
+itm_lit_pavise_e_3|立 陶 宛 盾 
+itm_lit_pavise_e_3_pl|立 陶 宛 盾 
+itm_lit_pavise_f_3|立 陶 宛 盾 
+itm_lit_pavise_f_3_pl|立 陶 宛 盾 
+itm_lit_pavise_g_3|立 陶 宛 盾 
+itm_lit_pavise_g_3_pl|立 陶 宛 盾 
+itm_lit_pavise_h_3|立 陶 宛 盾 
+itm_lit_pavise_h_3_pl|立 陶 宛 盾 
+itm_lit_pavise_a_4|重 型 立 陶 宛 盾 
+itm_lit_pavise_a_4_pl|重 型 立 陶 宛 盾 
+itm_lit_pavise_b_4|重 型 立 陶 宛 盾 
+itm_lit_pavise_b_4_pl|重 型 立 陶 宛 盾 
+itm_lit_pavise_c_4|重 型 立 陶 宛 盾 
+itm_lit_pavise_c_4_pl|重 型 立 陶 宛 盾 
+itm_lit_pavise_d_4|重 型 立 陶 宛 盾 
+itm_lit_pavise_d_4_pl|重 型 立 陶 宛 盾 
+itm_lit_pavise_e_4|重 型 立 陶 宛 盾 
+itm_lit_pavise_e_4_pl|重 型 立 陶 宛 盾 
+itm_lit_pavise_f_4|重 型 立 陶 宛 盾 
+itm_lit_pavise_f_4_pl|重 型 立 陶 宛 盾 
+itm_lit_pavise_g_4|重 型 立 陶 宛 盾 
+itm_lit_pavise_g_4_pl|重 型 立 陶 宛 盾 
+itm_lit_pavise_h_4|重 型 立 陶 宛 盾 
+itm_lit_pavise_h_4_pl|重 型 立 陶 宛 盾 
+itm_byz_shield|重 型 拜 占 庭 箏 形 盾 
+itm_byz_shield_pl|重 型 拜 占 庭 箏 形 盾 
+itm_arab_shield_a_1|舊 薩 拉 遜 圓 盾 
+itm_arab_shield_a_1_pl|舊 薩 拉 遜 圓 盾 
+itm_arab_shield_a_2|簡 易 薩 拉 遜 圓 盾 
+itm_arab_shield_a_2_pl|簡 易 薩 拉 遜 圓 盾 
+itm_arab_shield_a_3|薩 拉 遜 圓 盾 
+itm_arab_shield_a_3_pl|薩 拉 遜 圓 盾 
+itm_arab_shield_a_4|薩 拉 遜 重 圓 盾 
+itm_arab_shield_a_4_pl|薩 拉 遜 重 圓 盾 
+itm_arab_shield_b_1|舊 薩 拉 遜 圓 盾 
+itm_arab_shield_b_1_pl|舊 薩 拉 遜 圓 盾 
+itm_arab_shield_b_2|簡 易 薩 拉 遜 圓 盾 
+itm_arab_shield_b_2_pl|簡 易 薩 拉 遜 圓 盾 
+itm_arab_shield_b_3|薩 拉 遜 圓 盾 
+itm_arab_shield_b_3_pl|薩 拉 遜 圓 盾 
+itm_arab_shield_b_4|薩 拉 遜 重 圓 盾 
+itm_arab_shield_b_4_pl|薩 拉 遜 重 圓 盾 
+itm_arab_shield_c_1|舊 薩 拉 遜 圓 盾 
+itm_arab_shield_c_1_pl|舊 薩 拉 遜 圓 盾 
+itm_arab_shield_c_2|簡 易 薩 拉 遜 圓 盾 
+itm_arab_shield_c_2_pl|簡 易 薩 拉 遜 圓 盾 
+itm_arab_shield_c_3|薩 拉 遜 圓 盾 
+itm_arab_shield_c_3_pl|薩 拉 遜 圓 盾 
+itm_arab_shield_c_4|薩 拉 遜 重 圓 盾 
+itm_arab_shield_c_4_pl|薩 拉 遜 重 圓 盾 
+itm_arab_shield_d_1|舊 薩 拉 遜 圓 盾 
+itm_arab_shield_d_1_pl|舊 薩 拉 遜 圓 盾 
+itm_arab_shield_d_2|簡 易 薩 拉 遜 圓 盾 
+itm_arab_shield_d_2_pl|簡 易 薩 拉 遜 圓 盾 
+itm_arab_shield_d_3|薩 拉 遜 圓 盾 
+itm_arab_shield_d_3_pl|薩 拉 遜 圓 盾 
+itm_arab_shield_d_4|薩 拉 遜 重 圓 盾 
+itm_arab_shield_d_4_pl|薩 拉 遜 重 圓 盾 
+itm_arab_shield_e_1|舊 薩 拉 遜 圓 盾 
+itm_arab_shield_e_1_pl|舊 薩 拉 遜 圓 盾 
+itm_arab_shield_e_2|簡 易 薩 拉 遜 圓 盾 
+itm_arab_shield_e_2_pl|簡 易 薩 拉 遜 圓 盾 
+itm_arab_shield_e_3|薩 拉 遜 圓 盾 
+itm_arab_shield_e_3_pl|薩 拉 遜 圓 盾 
+itm_arab_shield_e_4|薩 拉 遜 重 圓 盾 
+itm_arab_shield_e_4_pl|薩 拉 遜 重 圓 盾 
+itm_arab_shield_f_1|舊 薩 拉 遜 圓 盾 
+itm_arab_shield_f_1_pl|舊 薩 拉 遜 圓 盾 
+itm_arab_shield_f_2|簡 易 薩 拉 遜 圓 盾 
+itm_arab_shield_f_2_pl|簡 易 薩 拉 遜 圓 盾 
+itm_arab_shield_f_3|薩 拉 遜 圓 盾 
+itm_arab_shield_f_3_pl|薩 拉 遜 圓 盾 
+itm_arab_shield_f_4|薩 拉 遜 重 圓 盾 
+itm_arab_shield_f_4_pl|薩 拉 遜 重 圓 盾 
+itm_arab_shield_g_1|舊 薩 拉 遜 圓 盾 
+itm_arab_shield_g_1_pl|舊 薩 拉 遜 圓 盾 
+itm_arab_shield_g_2|簡 易 薩 拉 遜 圓 盾 
+itm_arab_shield_g_2_pl|簡 易 薩 拉 遜 圓 盾 
+itm_arab_shield_g_3|薩 拉 遜 圓 盾 
+itm_arab_shield_g_3_pl|薩 拉 遜 圓 盾 
+itm_arab_shield_g_4|薩 拉 遜 重 圓 盾 
+itm_arab_shield_g_4_pl|薩 拉 遜 重 圓 盾 
+itm_arab_shield_h_1|舊 薩 拉 遜 圓 盾 
+itm_arab_shield_h_1_pl|舊 薩 拉 遜 圓 盾 
+itm_arab_shield_h_2|簡 易 薩 拉 遜 圓 盾 
+itm_arab_shield_h_2_pl|簡 易 薩 拉 遜 圓 盾 
+itm_arab_shield_h_3|薩 拉 遜 圓 盾 
+itm_arab_shield_h_3_pl|薩 拉 遜 圓 盾 
+itm_arab_shield_h_4|薩 拉 遜 重 圓 盾 
+itm_arab_shield_h_4_pl|薩 拉 遜 重 圓 盾 
+itm_arab_shield_i_1|舊 薩 拉 遜 圓 盾 
+itm_arab_shield_i_1_pl|舊 薩 拉 遜 圓 盾 
+itm_arab_shield_i_2|簡 易 薩 拉 遜 圓 盾 
+itm_arab_shield_i_2_pl|簡 易 薩 拉 遜 圓 盾 
+itm_arab_shield_i_3|薩 拉 遜 圓 盾 
+itm_arab_shield_i_3_pl|薩 拉 遜 圓 盾 
+itm_arab_shield_i_4|薩 拉 遜 重 圓 盾 
+itm_arab_shield_i_4_pl|薩 拉 遜 重 圓 盾 
+itm_cuman_shield_a_1|舊 庫 曼 圓 盾 
+itm_cuman_shield_a_1_pl|舊 庫 曼 圓 盾 
+itm_cuman_shield_a_2|簡 易 庫 曼 圓 盾 
+itm_cuman_shield_a_2_pl|簡 易 庫 曼 圓 盾 
+itm_cuman_shield_a_3|庫 曼 圓 盾 
+itm_cuman_shield_a_3_pl|庫 曼 圓 盾 
+itm_cuman_shield_a_4|庫 曼 重 圓 盾 
+itm_cuman_shield_a_4_pl|庫 曼 重 圓 盾 
+itm_cuman_shield_b_1|舊 庫 曼 圓 盾 
+itm_cuman_shield_b_1_pl|舊 庫 曼 圓 盾 
+itm_cuman_shield_b_2|簡 易 庫 曼 圓 盾 
+itm_cuman_shield_b_2_pl|簡 易 庫 曼 圓 盾 
+itm_cuman_shield_b_3|庫 曼 圓 盾 
+itm_cuman_shield_b_3_pl|庫 曼 圓 盾 
+itm_cuman_shield_b_4|庫 曼 重 圓 盾 
+itm_cuman_shield_b_4_pl|庫 曼 重 圓 盾 
+itm_cuman_shield_c_1|舊 庫 曼 圓 盾 
+itm_cuman_shield_c_1_pl|舊 庫 曼 圓 盾 
+itm_cuman_shield_c_2|簡 易 庫 曼 圓 盾 
+itm_cuman_shield_c_2_pl|簡 易 庫 曼 圓 盾 
+itm_cuman_shield_c_3|庫 曼 圓 盾 
+itm_cuman_shield_c_3_pl|庫 曼 圓 盾 
+itm_cuman_shield_c_4|庫 曼 重 圓 盾 
+itm_cuman_shield_c_4_pl|庫 曼 重 圓 盾 
+itm_talak_buckler|小 圓 盾 
+itm_talak_buckler_pl|小 圓 盾 
+itm_jarid|短 標 槍 
+itm_jarid_pl|短 標 槍 
+itm_darts|梭 鏢 
+itm_darts_pl|梭 鏢 
+itm_war_darts|戰 鏢 
+itm_war_darts_pl|戰 鏢 
+itm_javelin|標 槍 
+itm_javelin_pl|標 槍 
+itm_balt_javelin|波 羅 的 海 標 槍 
+itm_balt_javelin_pl|波 羅 的 海 標 槍 
+itm_throwing_spears|投 矛 
+itm_throwing_spears_pl|投 矛 
+itm_balt_throwing_spears|投 矛 
+itm_balt_throwing_spears_pl|投 矛 
+itm_stones|石 子 
+itm_stones_pl|石 子 
+itm_throwing_knives|飛 刀 
+itm_throwing_knives_pl|飛 刀 
+itm_throwing_daggers|飛 刀 
+itm_throwing_daggers_pl|飛 刀 
+itm_hunting_bow|獵 弓 
+itm_hunting_bow_pl|獵 弓 
+itm_short_bow|單 體 弓 
+itm_short_bow_pl|單 體 弓 
+itm_nomad_bow|匈 弓 
+itm_nomad_bow_pl|匈 弓 
+itm_long_bow|長 弓 
+itm_long_bow_pl|長 弓 
+itm_khergit_bow|蒙 古 弓 
+itm_khergit_bow_pl|蒙 古 弓 
+itm_strong_bow|復 合 弓 
+itm_strong_bow_pl|復 合 弓 
+itm_hunting_crossbow|獵 弩 
+itm_hunting_crossbow_pl|獵 弩 
+itm_light_crossbow|輕 弩 
+itm_light_crossbow_pl|輕 弩 
+itm_crossbow|弩 
+itm_crossbow_pl|弩 
+itm_heavy_crossbow|重 弩 
+itm_heavy_crossbow_pl|重 弩 
+itm_sniper_crossbow|攻 城 弩 
+itm_sniper_crossbow_pl|攻 城 弩 
+itm_torch|火 把 
+itm_torch_pl|火 把 
+itm_lyre|裡 拉 琴 
+itm_lyre_pl|裡 拉 琴 
+itm_lute|魯 特 琴 
+itm_lute_pl|魯 特 琴 
+itm_khergit_war_helmet|蒙 古 戰 盔 
+itm_khergit_war_helmet_pl|蒙 古 戰 盔 
+itm_khergit_guard_boots|蒙 古 護 靴 
+itm_khergit_guard_boots_pl|蒙 古 護 靴 
+itm_khergit_guard_helmet|蒙 古 護 盔 
+itm_khergit_guard_helmet_pl|蒙 古 護 盔 
+itm_khergit_cavalry_helmet|蒙 古 騎 盔 
+itm_khergit_cavalry_helmet_pl|蒙 古 騎 盔 
+itm_tunic_with_green_cape|綠 色 帶 披 風 短 袍 
+itm_tunic_with_green_cape_pl|綠 色 帶 披 風 短 袍 
+itm_keys|鑰 匙 串 
+itm_keys_pl|鑰 匙 串 
+itm_bride_dress|新 娘 裝 
+itm_bride_dress_pl|新 娘 裝 
+itm_bride_crown|花 冠 
+itm_bride_crown_pl|花 冠 
+itm_bride_shoes|新 娘 鞋 
+itm_bride_shoes_pl|新 娘 鞋 
+itm_practice_bow_2|練 習 弓 
+itm_practice_bow_2_pl|練 習 弓 
+itm_practice_arrows_2|練 習 箭 
+itm_practice_arrows_2_pl|練 習 箭 
+itm_mail_boots_for_tableau|鏈 甲 靴 
+itm_mail_boots_for_tableau_pl|鏈 甲 靴 
+itm_heraldic_lance|紋 章 騎 槍 
+itm_heraldic_lance_pl|紋 章 騎 槍 
+itm_almogavar_sword|阿 爾 莫 伽 瓦 直 刃 刀 
+itm_almogavar_sword_pl|阿 爾 莫 伽 瓦 直 刃 刀 
+itm_welsh_archer|威 爾 士 弓 兵 短 袍 
+itm_welsh_archer_pl|威 爾 士 弓 兵 短 袍 
+itm_armenian_knight_a|亞 美 尼 亞 騎 士 鏈 甲 
+itm_armenian_knight_a_pl|亞 美 尼 亞 騎 士 鏈 甲 
+itm_armenian_knight_b|亞 美 尼 亞 騎 士 鏈 甲 
+itm_armenian_knight_b_pl|亞 美 尼 亞 騎 士 鏈 甲 
+itm_armenian_knight_c|亞 美 尼 亞 騎 士 鏈 甲 
+itm_armenian_knight_c_pl|亞 美 尼 亞 騎 士 鏈 甲 
+itm_archer_a|帶 頭 罩 短 袍 
+itm_archer_a_pl|帶 頭 罩 短 袍 
+itm_archer_b|帶 頭 罩 短 袍 
+itm_archer_b_pl|帶 頭 罩 短 袍 
+itm_archer_c|帶 頭 罩 短 袍 
+itm_archer_c_pl|帶 頭 罩 短 袍 
+itm_surcoat_a|軟 鎧 甲 
+itm_surcoat_a_pl|軟 鎧 甲 
+itm_surcoat_b|軟 鎧 甲 
+itm_surcoat_b_pl|軟 鎧 甲 
+itm_surcoat_c|軟 鎧 甲 
+itm_surcoat_c_pl|軟 鎧 甲 
+itm_surcoat_d|軟 鎧 甲 
+itm_surcoat_d_pl|軟 鎧 甲 
+itm_surcoat_e|軟 鎧 甲 
+itm_surcoat_e_pl|軟 鎧 甲 
+itm_surcoat_f|鏈 甲 
+itm_surcoat_f_pl|鏈 甲 
+itm_surcoat_g|鏈 甲 
+itm_surcoat_g_pl|鏈 甲 
+itm_teu_hbrother_a|條 頓 世 俗 騎 士 罩 袍 鏈 甲 
+itm_teu_hbrother_a_pl|條 頓 世 俗 騎 士 罩 袍 鏈 甲 
+itm_teu_hbrother_b|條 頓 世 俗 騎 士 罩 袍 鏈 甲 
+itm_teu_hbrother_b_pl|條 頓 世 俗 騎 士 罩 袍 鏈 甲 
+itm_flat_kettle_hat|平 頂 鍋 盔 
+itm_flat_kettle_hat_pl|平 頂 鍋 盔 
+itm_seljuk_horse|塞 爾 柱 馬 
+itm_seljuk_horse_pl|塞 爾 柱 馬 
+itm_seljuk_armour|塞 爾 柱 甲 
+itm_seljuk_armour_pl|塞 爾 柱 甲 
+itm_seljuk_lamellar_a|塞 爾 柱 片 甲 背 心 
+itm_seljuk_lamellar_a_pl|塞 爾 柱 片 甲 背 心 
+itm_seljuk_lamellar_b|塞 爾 柱 片 甲 背 心 
+itm_seljuk_lamellar_b_pl|塞 爾 柱 片 甲 背 心 
+itm_andalus_helmet_a|安 達 盧 西 亞 盔 
+itm_andalus_helmet_a_pl|安 達 盧 西 亞 盔 
+itm_andalus_infantry_helmet|安 達 盧 西 亞 盔 
+itm_andalus_infantry_helmet_pl|安 達 盧 西 亞 盔 
+itm_andalusian_knight|安 達 盧 西 亞 罩 袍 鏈 甲 
+itm_andalusian_knight_pl|安 達 盧 西 亞 罩 袍 鏈 甲 
+itm_gaelic_mail_shirt_a|蓋 爾 鏈 甲 衫 
+itm_gaelic_mail_shirt_a_pl|蓋 爾 鏈 甲 衫 
+itm_targe_1|輕 型 圓 盾 
+itm_targe_1_pl|輕 型 圓 盾 
+itm_highlander_boots_1|高 地 靴 
+itm_highlander_boots_1_pl|高 地 靴 
+itm_gaelic_byrnie_a|蓋 爾 鎖 子 甲 
+itm_gaelic_byrnie_a_pl|蓋 爾 鎖 子 甲 
+itm_gaelic_byrnie_b|蓋 爾 鎖 子 甲 
+itm_gaelic_byrnie_b_pl|蓋 爾 鎖 子 甲 
+itm_genoa_padded_a|加 襯 布 甲 
+itm_genoa_padded_a_pl|加 襯 布 甲 
+itm_genoa_padded_b|加 襯 布 甲 
+itm_genoa_padded_b_pl|加 襯 布 甲 
+itm_genoa_padded_c|加 襯 布 甲 
+itm_genoa_padded_c_pl|加 襯 布 甲 
+itm_genoa_mail_b|熱 那 亞 鏈 甲 
+itm_genoa_mail_b_pl|熱 那 亞 鏈 甲 
+itm_genoa_mail_c|熱 那 亞 鏈 甲 
+itm_genoa_mail_c_pl|熱 那 亞 鏈 甲 
+itm_andalusian_shield_1|舊 安 達 盧 西 亞 盾 
+itm_andalusian_shield_1_pl|舊 安 達 盧 西 亞 盾 
+itm_andalusian_shield_2|簡 易 安 達 盧 西 亞 盾 
+itm_andalusian_shield_2_pl|簡 易 安 達 盧 西 亞 盾 
+itm_andalusian_shield_3|安 達 盧 西 亞 盾 
+itm_andalusian_shield_3_pl|安 達 盧 西 亞 盾 
+itm_andalusian_shield_4|重 型 安 達 盧 西 亞 盾 
+itm_andalusian_shield_4_pl|重 型 安 達 盧 西 亞 盾 
+itm_andalusian_helmet_a|安 達 盧 西 亞 盔 
+itm_andalusian_helmet_a_pl|安 達 盧 西 亞 盔 
+itm_andalusian_helmet_b|安 達 盧 西 亞 盔 
+itm_andalusian_helmet_b_pl|安 達 盧 西 亞 盔 
+itm_muslim_lance|重 型 騎 槍 
+itm_muslim_lance_pl|重 型 騎 槍 
+itm_noble_cloak|貴 族 裝 
+itm_noble_cloak_pl|貴 族 裝 
+itm_meghrebi_leather_a|馬 格 裡 布 皮 甲 
+itm_meghrebi_leather_a_pl|馬 格 裡 布 皮 甲 
+itm_meghrebi_leather_b|馬 格 裡 布 皮 甲 
+itm_meghrebi_leather_b_pl|馬 格 裡 布 皮 甲 
+itm_meghrebi_leather_c|馬 格 裡 布 皮 甲 
+itm_meghrebi_leather_c_pl|馬 格 裡 布 皮 甲 
+itm_meghrebi_vest|馬 格 裡 布 長 衫 
+itm_meghrebi_vest_pl|馬 格 裡 布 長 衫 
+itm_buff_leather|水 牛 皮 皮 甲 
+itm_buff_leather_pl|水 牛 皮 皮 甲 
+itm_black_guard|黑 衛 士 長 袍 
+itm_black_guard_pl|黑 衛 士 長 袍 
+itm_black_guard_helmet|黑 衛 士 盔 
+itm_black_guard_helmet_pl|黑 衛 士 盔 
+itm_gaelic_mail_shirt_b|蓋 爾 鏈 甲 
+itm_gaelic_mail_shirt_b_pl|蓋 爾 鏈 甲 
+itm_surcoat_gaelic|蓋 爾 罩 袍 板 甲 
+itm_surcoat_gaelic_pl|蓋 爾 罩 袍 板 甲 
+itm_almohad_robe_a|阿 爾 摩 哈 德 長 袍 
+itm_almohad_robe_a_pl|阿 爾 摩 哈 德 長 袍 
+itm_almohad_robe_b|阿 爾 摩 哈 德 長 袍 
+itm_almohad_robe_b_pl|阿 爾 摩 哈 德 長 袍 
+itm_almohad_robe_c|阿 爾 摩 哈 德 長 袍 
+itm_almohad_robe_c_pl|阿 爾 摩 哈 德 長 袍 
+itm_almohad_robe_d|阿 爾 摩 哈 德 長 袍 
+itm_almohad_robe_d_pl|阿 爾 摩 哈 德 長 袍 
+itm_almohad_padded_a|阿 爾 摩 哈 德 加 襯 布 甲 
+itm_almohad_padded_a_pl|阿 爾 摩 哈 德 加 襯 布 甲 
+itm_almohad_padded_b|阿 爾 摩 哈 德 加 襯 布 甲 
+itm_almohad_padded_b_pl|阿 爾 摩 哈 德 加 襯 布 甲 
+itm_almohad_padded_c|阿 爾 摩 哈 德 加 襯 布 甲 
+itm_almohad_padded_c_pl|阿 爾 摩 哈 德 加 襯 布 甲 
+itm_almohad_cavalry_a|阿 爾 摩 哈 德 騎 兵 長 袍 
+itm_almohad_cavalry_a_pl|阿 爾 摩 哈 德 騎 兵 長 袍 
+itm_almohad_cavalry_b|阿 爾 摩 哈 德 騎 兵 長 袍 
+itm_almohad_cavalry_b_pl|阿 爾 摩 哈 德 騎 兵 長 袍 
+itm_andalusian_archers_vest|安 達 盧 西 亞 長 袍 
+itm_andalusian_archers_vest_pl|安 達 盧 西 亞 長 袍 
+itm_andalusian_skirmisher_armor|安 達 盧 西 亞 皮 甲 
+itm_andalusian_skirmisher_armor_pl|安 達 盧 西 亞 皮 甲 
+itm_arabian_lamellar|片 甲 背 心 
+itm_arabian_lamellar_pl|片 甲 背 心 
+itm_horse_d|駿 馬 
+itm_horse_d_pl|駿 馬 
+itm_arab_nobleman_a|阿 拉 伯 貴 族 長 袍 
+itm_arab_nobleman_a_pl|阿 拉 伯 貴 族 長 袍 
+itm_arab_nobleman_b|阿 拉 伯 貴 族 長 袍 
+itm_arab_nobleman_b_pl|阿 拉 伯 貴 族 長 袍 
+itm_arab_nobleman_c|阿 拉 伯 貴 族 長 袍 
+itm_arab_nobleman_c_pl|阿 拉 伯 貴 族 長 袍 
+itm_andalusian_heavy_a|安 達 盧 西 亞 鱗 甲 
+itm_andalusian_heavy_a_pl|安 達 盧 西 亞 鱗 甲 
+itm_andalusian_heavy_b|安 達 盧 西 亞 鱗 甲 
+itm_andalusian_heavy_b_pl|安 達 盧 西 亞 鱗 甲 
+itm_berber_tunic_a|柏 柏 爾 長 袍 
+itm_berber_tunic_a_pl|柏 柏 爾 長 袍 
+itm_berber_tunic_b|柏 柏 爾 長 袍 
+itm_berber_tunic_b_pl|柏 柏 爾 長 袍 
+itm_berber_tunic_c|柏 柏 爾 長 袍 
+itm_berber_tunic_c_pl|柏 柏 爾 長 袍 
+itm_berber_turban|柏 柏 爾 包 頭 巾 
+itm_berber_turban_pl|柏 柏 爾 包 頭 巾 
+itm_berber_shoes|柏 柏 爾 鞋 
+itm_berber_shoes_pl|柏 柏 爾 鞋 
+itm_iberian_leather_armour_a|伊 比 利 亞 皮 甲 
+itm_iberian_leather_armour_a_pl|伊 比 利 亞 皮 甲 
+itm_iberian_leather_armour_b|伊 比 利 亞 皮 甲 
+itm_iberian_leather_armour_b_pl|伊 比 利 亞 皮 甲 
+itm_iberian_leather_armour_c|伊 比 利 亞 皮 甲 
+itm_iberian_leather_armour_c_pl|伊 比 利 亞 皮 甲 
+itm_andalusi_horseman_robe|安 達 盧 西 亞 騎 手 鏈 甲 
+itm_andalusi_horseman_robe_pl|安 達 盧 西 亞 騎 手 鏈 甲 
+itm_galloglass_mail|武 裝 隨 員 鏈 甲 
+itm_galloglass_mail_pl|武 裝 隨 員 鏈 甲 
+itm_galloglass_padded|武 裝 隨 員 加 襯 布 甲 
+itm_galloglass_padded_pl|武 裝 隨 員 加 襯 布 甲 
+itm_baltic_sword|波 羅 的 海 劍 
+itm_baltic_sword_pl|波 羅 的 海 劍 
+itm_man_at_arms_a|鏈 甲 外 套 
+itm_man_at_arms_a_pl|鏈 甲 外 套 
+itm_man_at_arms_b|鏈 甲 外 套 
+itm_man_at_arms_b_pl|鏈 甲 外 套 
+itm_man_at_arms_c|鏈 甲 外 套 
+itm_man_at_arms_c_pl|鏈 甲 外 套 
+itm_arab_padded_vest|薩 拉 遜 加 襯 布 衣 背 心 
+itm_arab_padded_vest_pl|薩 拉 遜 加 襯 布 衣 背 心 
+itm_arab_archer|薩 拉 遜 射 手 背 心 
+itm_arab_archer_pl|薩 拉 遜 射 手 背 心 
+itm_mamluk_infantry_lamellar_a|帶 片 甲 的 鏈 甲 背 心 
+itm_mamluk_infantry_lamellar_a_pl|帶 片 甲 的 鏈 甲 背 心 
+itm_mamluk_infantry_lamellar_b|帶 片 甲 的 鏈 甲 背 心 
+itm_mamluk_infantry_lamellar_b_pl|帶 片 甲 的 鏈 甲 背 心 
+itm_targe_2|輕 型 圓 盾 
+itm_targe_2_pl|輕 型 圓 盾 
+itm_targe_3|輕 型 圓 盾 
+itm_targe_3_pl|輕 型 圓 盾 
+itm_targe_4|輕 型 圓 盾 
+itm_targe_4_pl|輕 型 圓 盾 
+itm_targe_5|輕 型 圓 盾 
+itm_targe_5_pl|輕 型 圓 盾 
+itm_targe_6|輕 型 圓 盾 
+itm_targe_6_pl|輕 型 圓 盾 
+itm_balt_lamellar_coat_a|鱗 甲 背 心 
+itm_balt_lamellar_coat_a_pl|鱗 甲 背 心 
+itm_balt_lamellar_coat_b|鱗 甲 背 心 
+itm_balt_lamellar_coat_b_pl|鱗 甲 背 心 
+itm_rus_padded|東 歐 布 鏈 甲 
+itm_rus_padded_pl|東 歐 布 鏈 甲 
+itm_baltic_sword_b|波 羅 的 海 劍 
+itm_baltic_sword_b_pl|波 羅 的 海 劍 
+itm_mongol_helmet_a|蒙 古 盔 
+itm_mongol_helmet_a_pl|蒙 古 盔 
+itm_mongol_helmet_b|蒙 古 盔 
+itm_mongol_helmet_b_pl|蒙 古 盔 
+itm_mongol_helmet_c|蒙 古 盔 
+itm_mongol_helmet_c_pl|蒙 古 盔 
+itm_steppe_helmet|草 原 盔 
+itm_steppe_helmet_pl|草 原 盔 
+itm_priest_cap_1|帽 
+itm_priest_cap_1_pl|帽 
+itm_priest_cap_2|帽 
+itm_priest_cap_2_pl|帽 
+itm_priest_robe_1|神 父 袍 
+itm_priest_robe_1_pl|神 父 袍 
+itm_priest_robe_2|神 父 袍 
+itm_priest_robe_2_pl|神 父 袍 
+itm_priest_robe_3|神 父 袍 
+itm_priest_robe_3_pl|神 父 袍 
+itm_surgeon|外 科 醫 生 裝 
+itm_surgeon_pl|外 科 醫 生 裝 
+itm_priest_1_boots|拖 鞋 
+itm_priest_1_boots_pl|拖 鞋 
+itm_priest_2_boots|裹 腿
+itm_priest_2_boots_pl|裹 腿
+itm_bishop_great_helm|主 教 巨 盔 
+itm_bishop_great_helm_pl|主 教 巨 盔 
+itm_bishop_armour|主 教 鎧 甲 
+itm_bishop_armour_pl|主 教 鎧 甲 
+itm_bishop_mitre|帽 
+itm_bishop_mitre_pl|帽 
+itm_bishop_staff|主 教 權 杖 
+itm_bishop_staff_pl|主 教 權 杖 
+itm_varangian_shield_a|瓦 蘭 吉 盾 
+itm_varangian_shield_a_pl|瓦 蘭 吉 盾 
+itm_varangian_shield_b|瓦 蘭 吉 盾 
+itm_varangian_shield_b_pl|瓦 蘭 吉 盾 
+itm_varangian_shield_c|瓦 蘭 吉 盾 
+itm_varangian_shield_c_pl|瓦 蘭 吉 盾 
+itm_byzantine_sabre|拜 占 庭 軍 刀 
+itm_byzantine_sabre_pl|拜 占 庭 軍 刀 
+itm_byzantine_sword|拜 占 庭 劍 
+itm_byzantine_sword_pl|拜 占 庭 劍 
+itm_rus_shield_a_4|杏 形 盾 
+itm_rus_shield_a_4_pl|杏 形 盾 
+itm_rus_shield_b_4|杏 形 盾 
+itm_rus_shield_b_4_pl|杏 形 盾 
+itm_rus_shield_c_4|杏 形 盾 
+itm_rus_shield_c_4_pl|杏 形 盾 
+itm_rus_shield_d_4|杏 形 盾 
+itm_rus_shield_d_4_pl|杏 形 盾 
+itm_rus_shield_a_3|杏 形 盾 
+itm_rus_shield_a_3_pl|杏 形 盾 
+itm_rus_shield_b_3|杏 形 盾 
+itm_rus_shield_b_3_pl|杏 形 盾 
+itm_rus_shield_c_3|杏 形 盾 
+itm_rus_shield_c_3_pl|杏 形 盾 
+itm_rus_shield_d_3|杏 形 盾 
+itm_rus_shield_d_3_pl|杏 形 盾 
+itm_rus_shield_a_2|杏 形 盾 
+itm_rus_shield_a_2_pl|杏 形 盾 
+itm_rus_shield_b_2|杏 形 盾 
+itm_rus_shield_b_2_pl|杏 形 盾 
+itm_rus_shield_c_2|杏 形 盾 
+itm_rus_shield_c_2_pl|杏 形 盾 
+itm_rus_shield_d_2|杏 形 盾 
+itm_rus_shield_d_2_pl|杏 形 盾 
+itm_rus_shield_a_1|杏 形 盾 
+itm_rus_shield_a_1_pl|杏 形 盾 
+itm_rus_shield_b_1|杏 形 盾 
+itm_rus_shield_b_1_pl|杏 形 盾 
+itm_rus_shield_c_1|杏 形 盾 
+itm_rus_shield_c_1_pl|杏 形 盾 
+itm_rus_shield_d_1|杏 形 盾 
+itm_rus_shield_d_1_pl|杏 形 盾 
+itm_cuman_noble_helmet|庫 曼 貴 族 盔 
+itm_cuman_noble_helmet_pl|庫 曼 貴 族 盔 
+itm_ghulam_helmet|奴 隸 騎 兵 盔 
+itm_ghulam_helmet_pl|奴 隸 騎 兵 盔 
+itm_ilkhanate_mongol_helmet|蒙 古 盔 
+itm_ilkhanate_mongol_helmet_pl|蒙 古 盔 
+itm_polski_helm|波 蘭 盔 
+itm_polski_helm_pl|波 蘭 盔 
+itm_mamluke_helm_b|馬 木 魯 克 盔 
+itm_mamluke_helm_b_pl|馬 木 魯 克 盔 
+itm_mongol_helmet_d|蒙 古 皮 制 盔 
+itm_mongol_helmet_d_pl|蒙 古 皮 制 盔 
+itm_rus_byzantinenoble_kettle|拜 占 庭 鍋 盔 
+itm_rus_byzantinenoble_kettle_pl|拜 占 庭 鍋 盔 
+itm_rus_helmet_a|鋼 盔 
+itm_rus_helmet_a_pl|鋼 盔 
+itm_rus_infantry_helmet|東 歐 步 兵 盔 
+itm_rus_infantry_helmet_pl|東 歐 步 兵 盔 
+itm_rus_militia_helmet|東 歐 民 兵 盔 
+itm_rus_militia_helmet_pl|東 歐 民 兵 盔 
+itm_rus_noble_helmet|東 歐 貴 族 盔 
+itm_rus_noble_helmet_pl|東 歐 貴 族 盔 
+itm_seljuk_archer_cap|塞 爾 柱 帽 
+itm_seljuk_archer_cap_pl|塞 爾 柱 帽 
+itm_ilkhanate_cap|蒙 古 帽 
+itm_ilkhanate_cap_pl|蒙 古 帽 
+itm_cuman_cap_d|庫 曼 帽 
+itm_cuman_cap_d_pl|庫 曼 帽 
+itm_anatolian_horseman_lamellar|安 那 托 利 亞 片 甲 
+itm_anatolian_horseman_lamellar_pl|安 那 托 利 亞 片 甲 
+itm_anatolian_leather_lamellar|安 那 托 利 亞 皮 制 片 甲 
+itm_anatolian_leather_lamellar_pl|安 那 托 利 亞 皮 制 片 甲 
+itm_anatolian_mail|安 那 托 利 亞 鏈 甲 衫 
+itm_anatolian_mail_pl|安 那 托 利 亞 鏈 甲 衫 
+itm_arab_headcloth|頭 巾 
+itm_arab_headcloth_pl|頭 巾 
+itm_seljuk_tunic|塞 爾 柱 短 袍 
+itm_seljuk_tunic_pl|塞 爾 柱 短 袍 
+itm_seljuk_tunic_b|塞 爾 柱 短 袍 
+itm_seljuk_tunic_b_pl|塞 爾 柱 短 袍 
+itm_seljuk_tunic_c|塞 爾 柱 短 袍 
+itm_seljuk_tunic_c_pl|塞 爾 柱 短 袍 
+itm_rus_noble_mail|羅 斯 貴 族 鏈 甲 
+itm_rus_noble_mail_pl|羅 斯 貴 族 鏈 甲 
+itm_rus_mask_helmet|羅 斯 面 具 盔 
+itm_rus_mask_helmet_pl|羅 斯 面 具 盔 
+itm_mamluk_lamellar|馬 木 魯 克 片 甲 
+itm_mamluk_lamellar_pl|馬 木 魯 克 片 甲 
+itm_rus_leather_scale|羅 斯 鱗 甲 
+itm_rus_leather_scale_pl|羅 斯 鱗 甲 
+itm_rus_leather_scale_b|羅 斯 鱗 甲 
+itm_rus_leather_scale_b_pl|羅 斯 鱗 甲 
+itm_rohatyna|寬 刃 矛 
+itm_rohatyna_pl|寬 刃 矛 
+itm_flat_topped_helmet_a|平 頂 盔 
+itm_flat_topped_helmet_a_pl|平 頂 盔 
+itm_flat_topped_helmet_b|平 頂 盔 
+itm_flat_topped_helmet_b_pl|平 頂 盔 
+itm_great_helmet_a|巨 盔 
+itm_great_helmet_a_pl|巨 盔 
+itm_great_helmet_b|巨 盔 
+itm_great_helmet_b_pl|巨 盔 
+itm_great_helmet_c|巨 盔 
+itm_great_helmet_c_pl|巨 盔 
+itm_great_helmet_d|巨 盔 
+itm_great_helmet_d_pl|巨 盔 
+itm_great_helmet_decorative|巨 盔 
+itm_great_helmet_decorative_pl|巨 盔 
+itm_bill|鉤 鐮 
+itm_bill_pl|鉤 鐮 
+itm_almogavar_helmet|阿 爾 莫 伽 瓦 盔 
+itm_almogavar_helmet_pl|阿 爾 莫 伽 瓦 盔 
+itm_curonian_helmet|克 羅 尼 盔 
+itm_curonian_helmet_pl|克 羅 尼 盔 
+itm_balt_padded_a|波 羅 的 海 加 襯 布 甲 
+itm_balt_padded_a_pl|波 羅 的 海 加 襯 布 甲 
+itm_balt_padded_b|波 羅 的 海 加 襯 布 甲 
+itm_balt_padded_b_pl|波 羅 的 海 加 襯 布 甲 
+itm_militia_tunic_a|軍 用 短 袍 
+itm_militia_tunic_a_pl|軍 用 短 袍 
+itm_militia_tunic_b|軍 用 短 袍 
+itm_militia_tunic_b_pl|軍 用 短 袍 
+itm_rus_militia_padded_a|羅 斯 加 襯 布 甲 
+itm_rus_militia_padded_a_pl|羅 斯 加 襯 布 甲 
+itm_little_samogitian|薩 莫 吉 希 亞 矮 種 馬 
+itm_little_samogitian_pl|薩 莫 吉 希 亞 矮 種 馬 
+itm_kettlehat_a|鍋 盔 
+itm_kettlehat_a_pl|鍋 盔 
+itm_kettlehat_b|鍋 盔 
+itm_kettlehat_b_pl|鍋 盔 
+itm_kettlehat_c|鍋 盔 
+itm_kettlehat_c_pl|鍋 盔 
+itm_tab_shield_iberia_a|舊 伊 比 利 亞 盾 
+itm_tab_shield_iberia_a_pl|舊 伊 比 利 亞 盾 
+itm_tab_shield_iberia_b|平 面 伊 比 利 亞 盾 
+itm_tab_shield_iberia_b_pl|平 面 伊 比 利 亞 盾 
+itm_tab_shield_iberia_c|伊 比 利 亞 盾 
+itm_tab_shield_iberia_c_pl|伊 比 利 亞 盾 
+itm_tab_shield_iberia_d|重 型 伊 比 利 亞 盾 
+itm_tab_shield_iberia_d_pl|重 型 伊 比 利 亞 盾 
+itm_berber_shield_4|重 型 柏 柏 爾 盾 
+itm_berber_shield_4_pl|重 型 柏 柏 爾 盾 
+itm_berber_shield_3|柏 柏 爾 盾 
+itm_berber_shield_3_pl|柏 柏 爾 盾 
+itm_berber_shield_2|平 面 柏 柏 爾 盾 
+itm_berber_shield_2_pl|平 面 柏 柏 爾 盾 
+itm_berber_shield_1|舊 柏 柏 爾 盾 
+itm_berber_shield_1_pl|舊 柏 柏 爾 盾 
+itm_andalus_marinid_hasfid_elite_a|摩 爾 鏈 甲 長 袍 
+itm_andalus_marinid_hasfid_elite_a_pl|摩 爾 鏈 甲 長 袍 
+itm_andalus_marinid_hasfid_elite_b|摩 爾 鏈 甲 長 袍 
+itm_andalus_marinid_hasfid_elite_b_pl|摩 爾 鏈 甲 長 袍 
+itm_berber_kaftan|摩 爾 鏈 甲 長 衫 
+itm_berber_kaftan_pl|摩 爾 鏈 甲 長 衫 
+itm_berber_mail_a|摩 爾 鏈 甲 長 袍 
+itm_berber_mail_a_pl|摩 爾 鏈 甲 長 袍 
+itm_berber_mail_b|摩 爾 鏈 甲 長 袍 
+itm_berber_mail_b_pl|摩 爾 鏈 甲 長 袍 
+itm_horse_e|駿 馬 
+itm_horse_e_pl|駿 馬 
+itm_seljuk_hauberk_jawshan|塞 爾 柱 板 條 甲 
+itm_seljuk_hauberk_jawshan_pl|塞 爾 柱 板 條 甲 
+itm_mamluk_jawshan_leather|皮 革 板 條 甲 
+itm_mamluk_jawshan_leather_pl|皮 革 板 條 甲 
+itm_gaelic_shirt_blue|蓋 爾 襯 衫 
+itm_gaelic_shirt_blue_pl|蓋 爾 襯 衫 
+itm_gaelic_shirt_green|蓋 爾 襯 衫 
+itm_gaelic_shirt_green_pl|蓋 爾 襯 衫 
+itm_gaelic_shirt_red|蓋 爾 襯 衫 
+itm_gaelic_shirt_red_pl|蓋 爾 襯 衫 
+itm_andalusian_helmet_c|安 達 魯 斯 盔 
+itm_andalusian_helmet_c_pl|安 達 魯 斯 盔 
+itm_andalusian_helmet_d|安 達 魯 斯 盔 
+itm_andalusian_helmet_d_pl|安 達 魯 斯 盔 
+itm_arab_helmet_d|薩 拉 遜 盔 
+itm_arab_helmet_d_pl|薩 拉 遜 盔 
+itm_mamluk_helm_b|馬 木 魯 克 盔 
+itm_mamluk_helm_b_pl|馬 木 魯 克 盔 
+itm_iberian_cleaver|伊 比 利 亞 屠 宰 刀 
+itm_iberian_cleaver_pl|伊 比 利 亞 屠 宰 刀 
+itm_moorish_hat|摩 爾 帽 
+itm_moorish_hat_pl|摩 爾 帽 
+itm_alsatian_sword|阿 爾 薩 斯 劍 
+itm_alsatian_sword_pl|阿 爾 薩 斯 劍 
+itm_moorish_axe|摩 爾 斧 
+itm_moorish_axe_pl|摩 爾 斧 
+itm_kettle_cloth|鍋 盔 
+itm_kettle_cloth_pl|鍋 盔 
+itm_rus_helmet_1|羅 斯 盔 
+itm_rus_helmet_1_pl|羅 斯 盔 
+itm_rus_helmet_2|羅 斯 盔 
+itm_rus_helmet_2_pl|羅 斯 盔 
+itm_rus_helmet_3|羅 斯 盔 
+itm_rus_helmet_3_pl|羅 斯 盔 
+itm_balt_rus_cap|皮 帽 
+itm_balt_rus_cap_pl|皮 帽 
+itm_moors_quilted_kaftan_blue|摩 爾 加 襯 長 衫 
+itm_moors_quilted_kaftan_blue_pl|摩 爾 加 襯 長 衫 
+itm_moors_quilted_kaftan_brown|摩 爾 加 襯 長 衫 
+itm_moors_quilted_kaftan_brown_pl|摩 爾 加 襯 長 衫 
+itm_czekan|冰 鎬 
+itm_czekan_pl|冰 鎬 
+itm_ilkhanate_kaftan|蒙 古 長 衫 
+itm_ilkhanate_kaftan_pl|蒙 古 長 衫 
+itm_turk_kaftan_beige|土 耳 其 長 衫 
+itm_turk_kaftan_beige_pl|土 耳 其 長 衫 
+itm_turk_kaftan_furtrim|土 耳 其 長 衫 
+itm_turk_kaftan_furtrim_pl|土 耳 其 長 衫 
+itm_turk_kaftan_green|土 耳 其 長 衫 
+itm_turk_kaftan_green_pl|土 耳 其 長 衫 
+itm_saracen_mail|薩 拉 遜 鏈 甲 
+itm_saracen_mail_pl|薩 拉 遜 鏈 甲 
+itm_jineta_sword|伊 比 利 亞 騎 兵 劍 
+itm_jineta_sword_pl|伊 比 利 亞 騎 兵 劍 
+itm_test_flag|測 試 標 記 
+itm_test_flag_pl|測 試 標 記 
+itm_items_end|Items End 
+itm_items_end_pl|Items End 
