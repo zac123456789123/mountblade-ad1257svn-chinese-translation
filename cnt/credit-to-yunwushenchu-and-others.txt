@@ -1,0 +1,7 @@
+This Chinese traditional translation is converted from simplified edition
+by yunwushenchu (http://bbs.mountblade.com.cn/space.php?uid=111672)
+
+The original version (of translation) is r131, and is included in r132. Meanwhile, the main repo version (from DrTomas) is r14.
+
+Special thanks to yunwushenchu, the font from alixyang, and the mod of othr and DrTomas.
+--aflyhorse
