@@ -48,16 +48,10 @@ trp_cattle|牛
 trp_cattle_pl|牛 
 trp_farmer|自 由 民 
 trp_farmer_pl|自 由 民 
-trp_mercenary_village_footman|雇 佣 村 民 
-trp_mercenary_village_footman_pl|雇 佣 村 民 
-trp_mercenary_village_skirmisher|未 训 练 的 弓 手 
-trp_mercenary_village_skirmisher_pl|未 训 练 的 弓 手 
-trp_mercenary_town_recruit|城 镇 自 由 民 
-trp_mercenary_town_recruit_pl|城 镇 自 由 民 
-trp_mercenary_town_footman|雇 佣 步 兵 
-trp_mercenary_town_footman_pl|雇 佣 步 兵 
-trp_mercenary_town_skirmisher|未 训 练 的 弩 手 
-trp_mercenary_town_skirmisher_pl|未 训 练 的 弩 手 
+trp_mercenary_village_skirmisher|雇 佣 散 兵 射 手 
+trp_mercenary_village_skirmisher_pl|雇 佣 散 兵 射 手 
+trp_mercenary_town_footman|雇 佣 步 兵 矛 手 
+trp_mercenary_town_footman_pl|雇 佣 步 兵 矛 手 
 trp_mercenary_veteran_swordsman|雇 佣 剑 士 
 trp_mercenary_veteran_swordsman_pl|雇 佣 剑 士 
 trp_mercenary_veteran_billman|雇 佣 钩 镰 兵 
@@ -76,8 +70,6 @@ trp_mercenary_spears_sergeant|雇 佣 资 深 长 矛 兵
 trp_mercenary_spears_sergeant_pl|雇 佣 资 深 长 矛 兵 
 trp_mercenary_crossbows_sergeant|雇 佣 资 深 弩 手 
 trp_mercenary_crossbows_sergeant_pl|雇 佣 资 深 弩 手 
-trp_mercenary_bows_sergeant|雇 佣 资 深 弓 箭 手 
-trp_mercenary_bows_sergeant_pl|雇 佣 资 深 弓 箭 手 
 trp_mercenary_light_cavalry|雇 佣 辅 助 后 备 骑 手 
 trp_mercenary_light_cavalry_pl|雇 佣 辅 助 后 备 骑 手 
 trp_mercenary_medium_cavalry|雇 佣 职 业 重 装 骑 兵
@@ -780,34 +772,34 @@ trp_euro_town_recruit|西 欧 城 镇 步 兵
 trp_euro_town_recruit_pl|西 欧 城 镇 步 兵 
 trp_euro_village_recruit|西 欧 义 务 兵 
 trp_euro_village_recruit_pl|西 欧 义 务 兵 
-trp_euro_archer_1|西 欧 弓 箭 民 兵 
-trp_euro_archer_1_pl|西 欧 弓 箭 民 兵 
-trp_euro_archer_2|西 欧 资 深 民 兵 弓 箭 手 
-trp_euro_archer_2_pl|西 欧 资 深 民 兵 弓 箭 手 
-trp_euro_xbow_1|西 欧 持 弩 民 兵 
-trp_euro_xbow_1_pl|西 欧 持 弩 民 兵 
-trp_euro_xbow_2|西 欧 资 深 民 兵 弩 手 
-trp_euro_xbow_2_pl|西 欧 资 深 民 兵 弩 手 
+trp_euro_archer_1|西 欧 村 庄 弓 箭 民 兵 
+trp_euro_archer_1_pl|西 欧 村 庄 弓 箭 民 兵 
+trp_euro_archer_2|西 欧 村 庄 资 深 民 兵 弓 箭 手 
+trp_euro_archer_2_pl|西 欧 村 庄 资 深 民 兵 弓 箭 手 
+trp_euro_xbow_1|西 欧 城 镇 公 社 持 弩 民 兵 
+trp_euro_xbow_1_pl|西 欧 城 镇 公 社 持 弩 民 兵 
+trp_euro_xbow_2|西 欧 城 镇 公 社 资 深 民 兵 弩 手 
+trp_euro_xbow_2_pl|西 欧 城 镇 公 社 资 深 民 兵 弩 手 
 trp_euro_xbow_3|西 欧 持 弩 军 士 
 trp_euro_xbow_3_pl|西 欧 持 弩 军 士 
-trp_euro_spearman_1|西 欧 长 矛 民 兵 
-trp_euro_spearman_1_pl|西 欧 长 矛 民 兵 
-trp_euro_spearman_2|西 欧 资 深 民 兵 长 矛 手 
-trp_euro_spearman_2_pl|西 欧 资 深 民 兵 长 矛 手 
+trp_euro_spearman_1|西 欧 城 镇 公 社 长 矛 民 兵 
+trp_euro_spearman_1_pl|西 欧 城 镇 公 社 长 矛 民 兵 
+trp_euro_spearman_2|西 欧 城 镇 公 社 资 深 民 兵 长 矛 手 
+trp_euro_spearman_2_pl|西 欧 城 镇 公 社 资 深 民 兵 长 矛 手 
 trp_euro_spearman_3|西 欧 长 矛 军 士 
 trp_euro_spearman_3_pl|西 欧 长 矛 军 士 
-trp_euro_swordsman_1|西 欧 持 剑 民 兵 
-trp_euro_swordsman_1_pl|西 欧 持 剑 民 兵 
-trp_euro_swordsman_2|西 欧 资 深 民 兵 剑 士 
-trp_euro_swordsman_2_pl|西 欧 资 深 民 兵 剑 士 
+trp_euro_swordsman_1|西 欧 城 镇 公 社 持 剑 民 兵 
+trp_euro_swordsman_1_pl|西 欧 城 镇 公 社 持 剑 民 兵 
+trp_euro_swordsman_2|西 欧 城 镇 公 社 资 深 民 兵 剑 士 
+trp_euro_swordsman_2_pl|西 欧 城 镇 公 社 资 深 民 兵 剑 士 
 trp_euro_swordsman_3|西 欧 剑 士 
 trp_euro_swordsman_3_pl|西 欧 剑 士 
 trp_town_man_at_arms|西 欧 城 镇 公 社 战 士 
 trp_town_man_at_arms_pl|西 欧 城 镇 公 社 战 士 
-trp_euro_guisarm_1|西 欧 钩 镰 民 兵 
-trp_euro_guisarm_1_pl|西 欧 钩 镰 民 兵 
-trp_euro_guisarm_2|西 欧 资 深 民 兵 钩 镰 手 
-trp_euro_guisarm_2_pl|西 欧 资 深 民 兵 钩 镰 手 
+trp_euro_guisarm_1|西 欧 村 庄 钩 镰 民 兵 
+trp_euro_guisarm_1_pl|西 欧 村 庄 钩 镰 民 兵 
+trp_euro_guisarm_2|西 欧 村 庄 资 深 民 兵 钩 镰 手 
+trp_euro_guisarm_2_pl|西 欧 村 庄 资 深 民 兵 钩 镰 手 
 trp_euro_guisarm_3|西 欧 钩 镰 军 士 
 trp_euro_guisarm_3_pl|西 欧 钩 镰 军 士 
 trp_euro_horse_1|西 欧 附 属 骑 手 
@@ -832,26 +824,6 @@ trp_brigand|土 匪
 trp_brigand_pl|土 匪 
 trp_mountain_bandit|山 贼 
 trp_mountain_bandit_pl|山 贼 
-trp_test_subject1|Test Subject PS 1
-trp_test_subject1_pl|Test Subject PS 1
-trp_test_subject2|Test Subject PS 2
-trp_test_subject2_pl|Test Subject PS 2
-trp_test_subject3|Test Subject PS 3
-trp_test_subject3_pl|Test Subject PS 3
-trp_test_subject4|Test Subject PS 4
-trp_test_subject4_pl|Test Subject PS 4
-trp_test_subject5|Test Subject PS 5
-trp_test_subject5_pl|Test Subject PS 5
-trp_test_subject6|Test Subject PS 6
-trp_test_subject6_pl|Test Subject PS 6
-trp_test_subject7|Test Subject PS 7
-trp_test_subject7_pl|Test Subject PS 7
-trp_test_subject8|Test Subject PS 8
-trp_test_subject8_pl|Test Subject PS 8
-trp_test_subject9|Test Subject PS 9
-trp_test_subject9_pl|Test Subject PS 9
-trp_test_subject10|Test Subject PS 10
-trp_test_subject10_pl|Test Subject PS 10
 trp_forest_bandit|森 林 强 盗 
 trp_forest_bandit_pl|森 林 强 盗 
 trp_sea_raider|海 寇 
@@ -866,14 +838,6 @@ trp_black_khergit_horseman|黑 旗 库 吉 特 骑 手
 trp_black_khergit_horseman_pl|黑 旗 库 吉 特 骑 手 
 trp_manhunter|赏 金 猎 人 
 trp_manhunter_pl|赏 金 猎 人 
-trp_slave_driver|奴 贩 押 解 
-trp_slave_driver_pl|奴 贩 押 解 
-trp_slave_hunter|奴 贩 猎 手 
-trp_slave_hunter_pl|奴 贩 猎 手 
-trp_slave_crusher|奴 贩 打 手 
-trp_slave_crusher_pl|奴 贩 打 手 
-trp_slaver_chief|奴 贩 首 领 
-trp_slaver_chief_pl|奴 贩 首 领 
 trp_follower_woman|随 营 妇 女 
 trp_follower_woman_pl|随 营 妇 女 
 trp_hunter_woman|女 猎 手 

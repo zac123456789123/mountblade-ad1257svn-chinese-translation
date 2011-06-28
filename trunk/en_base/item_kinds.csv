@@ -836,8 +836,6 @@ itm_kau_rus_e|Eastern Leather Armor
 itm_kau_rus_e_pl|Eastern Leather Armor
 itm_kau_lit_mail|Mail Shirt
 itm_kau_lit_mail_pl|Mail Shirt
-itm_lit_outfit|Balt Lamellar Vest
-itm_lit_outfit_pl|Balt Lamellar Vest
 itm_kau_rus_tunic_a|Rus' Tunic
 itm_kau_rus_tunic_a_pl|Rus' Tunic
 itm_kau_rus_tunic_b|Rus' Tunic
@@ -880,6 +878,8 @@ itm_templar_sarjeant_surcoat|Surcoat over Mail
 itm_templar_sarjeant_surcoat_pl|Surcoat over Mail
 itm_templar_sarjeant_mail|Mail Hauberk
 itm_templar_sarjeant_mail_pl|Mail Hauberk
+itm_templar_mail_a|Mail Hauberk
+itm_templar_mail_a_pl|Mail Hauberk
 itm_templar_tunic_a|Postulant Tunic
 itm_templar_tunic_a_pl|Postulant Tunic
 itm_templar_knight_a|Teutonic Mail with Surcoat
@@ -1162,8 +1162,6 @@ itm_vaegir_spiked_helmet|Spiked Cap
 itm_vaegir_spiked_helmet_pl|Spiked Cap
 itm_vaegir_lamellar_helmet|Helmet with Lamellar Guard
 itm_vaegir_lamellar_helmet_pl|Helmet with Lamellar Guard
-itm_vaegir_noble_helmet|Rus Nobleman Helmet
-itm_vaegir_noble_helmet_pl|Rus Nobleman Helmet
 itm_vaegir_war_helmet|Rus War Helmet
 itm_vaegir_war_helmet_pl|Rus War Helmet
 itm_vaegir_mask|Rus War Mask
@@ -1576,6 +1574,8 @@ itm_leather_covered_round_shield|Leather Covered Round Shield
 itm_leather_covered_round_shield_pl|Leather Covered Round Shield
 itm_hide_covered_round_shield|Hide Covered Round Shield
 itm_hide_covered_round_shield_pl|Hide Covered Round Shield
+itm_tab_shield_small_round_n|Plain Shield
+itm_tab_shield_small_round_n_pl|Plain Shield
 itm_tab_shield_round_a|Old Round Shield
 itm_tab_shield_round_a_pl|Old Round Shield
 itm_tab_shield_round_b|Plain Round Shield
@@ -1926,18 +1926,18 @@ itm_genoa_mail_b|Genoese Mail
 itm_genoa_mail_b_pl|Genoese Mail
 itm_genoa_mail_c|Genoese Mail
 itm_genoa_mail_c_pl|Genoese Mail
-itm_andalusian_shield_1|Old Andalusian Shield
-itm_andalusian_shield_1_pl|Old Andalusian Shield
-itm_andalusian_shield_2|Plain Andalusian Shield
-itm_andalusian_shield_2_pl|Plain Andalusian Shield
-itm_andalusian_shield_3|Andalusian Shield
-itm_andalusian_shield_3_pl|Andalusian Shield
-itm_andalusian_shield_4|Heavy Andalusian Shield
-itm_andalusian_shield_4_pl|Heavy Andalusian Shield
+itm_andalusian_shield_1|Old Moorish Shield
+itm_andalusian_shield_1_pl|Old Moorish Shield
+itm_andalusian_shield_2|Plain Moorish Shield
+itm_andalusian_shield_2_pl|Plain Moorish Shield
+itm_andalusian_shield_3|Moorish Shield
+itm_andalusian_shield_3_pl|Moorish Shield
+itm_andalusian_shield_4|Heavy Moorish Shield
+itm_andalusian_shield_4_pl|Heavy Moorish Shield
 itm_andalusian_helmet_a|Andalusian Helmet
 itm_andalusian_helmet_a_pl|Andalusian Helmet
-itm_andalusian_helmet_b|Andalusian Helmet
-itm_andalusian_helmet_b_pl|Andalusian Helmet
+itm_andalusian_helmet_b|Iberian Helmet
+itm_andalusian_helmet_b_pl|Iberian Helmet
 itm_muslim_lance|Heavy Lance
 itm_muslim_lance_pl|Heavy Lance
 itm_noble_cloak|Nobleman Outfit
@@ -2002,8 +2002,8 @@ itm_berber_tunic_b|Berber Robe
 itm_berber_tunic_b_pl|Berber Robe
 itm_berber_tunic_c|Berber Robe
 itm_berber_tunic_c_pl|Berber Robe
-itm_berber_turban|Berber Turban
-itm_berber_turban_pl|Berber Turban
+itm_berber_turban|Moorish Turban
+itm_berber_turban_pl|Moorish Turban
 itm_berber_shoes|Berber Shoes
 itm_berber_shoes_pl|Berber Shoes
 itm_iberian_leather_armour_a|Iberian Leather Armour
@@ -2012,8 +2012,8 @@ itm_iberian_leather_armour_b|Iberian Leather Armour
 itm_iberian_leather_armour_b_pl|Iberian Leather Armour
 itm_iberian_leather_armour_c|Iberian Leather Armour
 itm_iberian_leather_armour_c_pl|Iberian Leather Armour
-itm_andalusi_horseman_robe|Andalusian Horseman Mail
-itm_andalusi_horseman_robe_pl|Andalusian Horseman Mail
+itm_andalusi_horseman_robe|Moorish Horseman Mail
+itm_andalusi_horseman_robe_pl|Moorish Horseman Mail
 itm_galloglass_mail|Gallóglach Mail Armour
 itm_galloglass_mail_pl|Gallóglach Mail Armour
 itm_galloglass_padded|Gallóglach Padded Armour

@@ -46,46 +46,38 @@ trp_arena_training_fighter_10|Champion Fighter
 trp_arena_training_fighter_10_pl|Champion Fighters
 trp_cattle|Cattle
 trp_cattle_pl|Cattle
-trp_farmer|Freeman
-trp_farmer_pl|Freemen
-trp_mercenary_village_footman|Mercenary Villager
-trp_mercenary_village_footman_pl|Mercenary Villagers
-trp_mercenary_village_skirmisher|Untrained Archer
-trp_mercenary_village_skirmisher_pl|Untrained Archers
-trp_mercenary_town_recruit|Free Townsman
-trp_mercenary_town_recruit_pl|Free Townsmen
-trp_mercenary_town_footman|Mercenary Footman
-trp_mercenary_town_footman_pl|Mercenary Footmen
-trp_mercenary_town_skirmisher|Untrained Crossbowman
-trp_mercenary_town_skirmisher_pl|Untrained Crossbowmen
-trp_mercenary_veteran_swordsman|Mercenary Swordsman
-trp_mercenary_veteran_swordsman_pl|Mercenary Swordsmen
-trp_mercenary_veteran_billman|Mercenary Guisarmer
-trp_mercenary_veteran_billman_pl|Mercenary Guisarmers
-trp_mercenary_veteran_spearman|Mercenary Spearman
-trp_mercenary_veteran_spearman_pl|Mercenary Spearmen
-trp_mercenary_veteran_crossbowman|Mercenary Crossbowman
-trp_mercenary_veteran_crossbowman_pl|Mercenary Crossbowmen
-trp_mercenary_veteran_archer|Mercenary Archer
-trp_mercenary_veteran_archer_pl|Mercenary Archers
-trp_mercenary_bills_sergeant|Mercenary Veteran Guisarmer
-trp_mercenary_bills_sergeant_pl|Mercenary Veteran Guisarmers
-trp_mercenary_swords_sergeant|Mercenary Veteran Swordsman
-trp_mercenary_swords_sergeant_pl|Mercenary Veteran Swordsmen
-trp_mercenary_spears_sergeant|Mercenary Veteran Spearman
-trp_mercenary_spears_sergeant_pl|Mercenary Veteran Spearmen
-trp_mercenary_crossbows_sergeant|Mercenary Veteran Crossbowman
-trp_mercenary_crossbows_sergeant_pl|Mercenary Veteran Crossbowmen
-trp_mercenary_bows_sergeant|Mercenary Veteran Archer
-trp_mercenary_bows_sergeant_pl|Mercenary Veteran Archers
-trp_mercenary_light_cavalry|Mercenary Auxiliary Horseman
-trp_mercenary_light_cavalry_pl|Mercenary Auxiliary Horsemen
-trp_mercenary_medium_cavalry|Mercenary Man-at-arms
-trp_mercenary_medium_cavalry_pl|Mercenary Men-at-arms
-trp_mercenary_squire|Mercenary Serjeant-at-arms
-trp_mercenary_squire_pl|Mercenary Sereant-at-arms
-trp_mercenary_knight|Knight-errant
-trp_mercenary_knight_pl|Knights-errant
+trp_farmer|Libero
+trp_farmer_pl|Liberus
+trp_mercenary_village_skirmisher|Sagittarius Stipendiarii
+trp_mercenary_village_skirmisher_pl|Sagitari Stipendiarii
+trp_mercenary_town_footman|Hastatus Stipendiarii
+trp_mercenary_town_footman_pl|Hastati Stipendiarii
+trp_mercenary_veteran_swordsman|Pedes Routere
+trp_mercenary_veteran_swordsman_pl|Pedess Routerii
+trp_mercenary_veteran_billman|Guisarmer Rutere
+trp_mercenary_veteran_billman_pl|Guisarmer Ruterii
+trp_mercenary_veteran_spearman|Hastatus Rutere
+trp_mercenary_veteran_spearman_pl|Hastatii Ruterii
+trp_mercenary_veteran_crossbowman|Balistare Rutere
+trp_mercenary_veteran_crossbowman_pl|Balistari Ruterii
+trp_mercenary_veteran_archer|Sagittarius Rutere
+trp_mercenary_veteran_archer_pl|Sagittari Ruterii
+trp_mercenary_bills_sergeant|Serviens Guisarmer Stipendiarii
+trp_mercenary_bills_sergeant_pl|Servientes Guisarmer Stipendiarii
+trp_mercenary_swords_sergeant|Serviens Pedes Stipendiarii
+trp_mercenary_swords_sergeant_pl|Servientes Pedess Stipendiarii
+trp_mercenary_spears_sergeant|Serviens Hastatus
+trp_mercenary_spears_sergeant_pl|Servientes Hastati
+trp_mercenary_crossbows_sergeant|Serviens Balistare Stipendiarii
+trp_mercenary_crossbows_sergeant_pl|Servientes Balistari Stipendiarii
+trp_mercenary_light_cavalry|Equies Stipendiarii
+trp_mercenary_light_cavalry_pl|Equites Stipendiarii
+trp_mercenary_medium_cavalry|Serviens Eques Stipendiarii
+trp_mercenary_medium_cavalry_pl|Servientes Equites Stipendiarii
+trp_mercenary_squire|Homine Ad Arma Stipendiarii
+trp_mercenary_squire_pl|Homines Ad Arma Stipendiarii
+trp_mercenary_knight|Miles Stipendiarii
+trp_mercenary_knight_pl|Milites Stipendiarii
 trp_merc_sicily_foot_archer_1|Jund Al-Siqilliyya Rami
 trp_merc_sicily_foot_archer_1_pl|Jund Al-Siqilliyya Rumat
 trp_merc_sicily_foot_archer_2|Khassakiyya Al-Siqilliyya Rami
@@ -142,16 +134,16 @@ trp_crusader_turkopole|Turcopole
 trp_crusader_turkopole_pl|Turcopoles
 trp_templar_crossbows_sergeant|Frater Serviens Balistarius du Temple
 trp_templar_crossbows_sergeant_pl|Frater Servientes Balistari du Temple
-trp_templar_swords_sergeant|Frater Serviens Pedite du Temple
-trp_templar_swords_sergeant_pl|Frater Servientes Pedites du Temple
+trp_templar_swords_sergeant|Frater Serviens Pedes du Temple
+trp_templar_swords_sergeant_pl|Frater Servientes Pedess du Temple
 trp_templar_spears_sergeant|Frater Serviens Hastatus du Temple
 trp_templar_spears_sergeant_pl|Frater Servientes Hastati du Temple
 trp_templar_half_brother|Frater Serviens Eques du Temple
 trp_templar_half_brother_pl|Frater Servientes Equites du Temple
 trp_templar_knight|Miles Templi
 trp_templar_knight_pl|Milites Templi
-trp_hospitaller_swords_sergeant|Frater Serviens Pedite des Hospitaliers
-trp_hospitaller_swords_sergeant_pl|Frater Servientes Pedites des Hospitaliers
+trp_hospitaller_swords_sergeant|Frater Serviens Pedes des Hospitaliers
+trp_hospitaller_swords_sergeant_pl|Frater Servientes Pedess des Hospitaliers
 trp_hospitaller_spears_sergeant|Frater Serviens Hastatus des Hospitaliers
 trp_hospitaller_spears_sergeant_pl|Frater Servientes Hastati des Hospitaliers
 trp_hospitaller_crossbows_sergeant|Frater Serviens Balistarius des Hospitaliers
@@ -592,12 +584,12 @@ trp_byz_village_4_2|Mourtati
 trp_byz_village_4_2_pl|Mourtati
 trp_byz_town_1|Polites
 trp_byz_town_1_pl|Polites
-trp_byz_town_2|Lansarii
-trp_byz_town_2_pl|Lansarii
+trp_byz_town_2|Contarati
+trp_byz_town_2_pl|Contarati
 trp_byz_town_3_1|Scoutati Spearman
 trp_byz_town_3_1_pl|Scoutati Spearmen
-trp_byz_town_4_1|Contarati
-trp_byz_town_4_1_pl|Contarati
+trp_byz_town_4_1|Veteran Scoutati Spearman
+trp_byz_town_4_1_pl|Veteran Scoutati Spearman
 trp_byz_town_3_2|Scoutati Swordsman
 trp_byz_town_3_2_pl|Scoutati Swordsmen
 trp_byz_town_4_2|Hoplitae
@@ -622,24 +614,24 @@ trp_iberian_archer|Sagittarius de Retrobannum
 trp_iberian_archer_pl|Sagittari de Retrobannum
 trp_iberian_bows_sergeant|Sagittarius Masnadieri
 trp_iberian_bows_sergeant_pl|Sagittari Masnadieri
-trp_iberian_village_footman|Pedite de Retrobannum
-trp_iberian_village_footman_pl|Pedites de Retrobannum
-trp_iberian_billman|Pedite Masnadieri
-trp_iberian_billman_pl|Pedites Masnadieri
-trp_iberian_bills_sergeant|Pedite Serviens
-trp_iberian_bills_sergeant_pl|Pedites Serviens
+trp_iberian_village_footman|Pedes de Retrobannum
+trp_iberian_village_footman_pl|Pedess de Retrobannum
+trp_iberian_billman|Pedes Masnadieri
+trp_iberian_billman_pl|Pedess Masnadieri
+trp_iberian_bills_sergeant|Pedes Serviens
+trp_iberian_bills_sergeant_pl|Pedess Serviens
 trp_iberian_town_footman_1|Hastatus de Plebis
 trp_iberian_town_footman_1_pl|Hastati de Plebis
-trp_iberian_town_footman_2|Pedite de Plebis
-trp_iberian_town_footman_2_pl|Pedites de Plebis
+trp_iberian_town_footman_2|Pedes de Plebis
+trp_iberian_town_footman_2_pl|Pedess de Plebis
 trp_iberian_veteran_spearman|Hastatus de Communia
 trp_iberian_veteran_spearman_pl|Hastati de Communia
 trp_iberian_spears_sergeant|Hastatus de Fraternitas
 trp_iberian_spears_sergeant_pl|Hastati de Fraternitas
-trp_iberian_veteran_swordsman|Pedite de Communia
-trp_iberian_veteran_swordsman_pl|Pedites de Communia
-trp_iberian_swords_sergeant|Pedite de Fraternitas
-trp_iberian_swords_sergeant_pl|Pedites de Fraternitas
+trp_iberian_veteran_swordsman|Pedes de Communia
+trp_iberian_veteran_swordsman_pl|Pedess de Communia
+trp_iberian_swords_sergeant|Pedes de Fraternitas
+trp_iberian_swords_sergeant_pl|Pedess de Fraternitas
 trp_iberian_town_skirmisher|Sagittarius de Plebis
 trp_iberian_town_skirmisher_pl|Sagittari de Plebis
 trp_iberian_veteran_crossbowman|Balistarius de Communia
@@ -780,36 +772,36 @@ trp_euro_town_recruit|Pedes de Cives
 trp_euro_town_recruit_pl|Pedi de Cives
 trp_euro_village_recruit|Retrobannum Pedes
 trp_euro_village_recruit_pl|Retrobannum Pedes
-trp_euro_archer_1|Militia Archer
-trp_euro_archer_1_pl|Militia Archers
-trp_euro_archer_2|Militia Veteran Archer
-trp_euro_archer_2_pl|Militia Veteran Archers
-trp_euro_xbow_1|Militia Crossbowman
-trp_euro_xbow_1_pl|Militia Crossbowmen
-trp_euro_xbow_2|Militia Veteran Crossbowman
-trp_euro_xbow_2_pl|Militia Veteran Crossbowmen
-trp_euro_xbow_3|Sergeant Crossbowman
-trp_euro_xbow_3_pl|Sergeant Crossbowmen
-trp_euro_spearman_1|Militia Spearman
-trp_euro_spearman_1_pl|Militia Spearmen
-trp_euro_spearman_2|Militia Veteran Spearman
-trp_euro_spearman_2_pl|Militia Veteran Spearmen
-trp_euro_spearman_3|Sergeant Spearman
-trp_euro_spearman_3_pl|Sergeant Spearmen
-trp_euro_swordsman_1|Militia Swordsman
-trp_euro_swordsman_1_pl|Militia Swordsmen
-trp_euro_swordsman_2|Militia Veteran Swordsman
-trp_euro_swordsman_2_pl|Militia Veteran Swordsmen
-trp_euro_swordsman_3|Sergeant Swordsman
-trp_euro_swordsman_3_pl|Sergeant Swordsmen
+trp_euro_archer_1|Sagittarius de Militiae pro Villa Minores
+trp_euro_archer_1_pl|Sagittari de Militiae pro Villa Minores
+trp_euro_archer_2|Sagittarius de Militiae pro Villa Majores
+trp_euro_archer_2_pl|Sagittarii de Militiae pro Villa Majores
+trp_euro_xbow_1|Balistare de Communia Minores
+trp_euro_xbow_1_pl|Balistari de Communio Minores
+trp_euro_xbow_2|Balistare de Communia Majores
+trp_euro_xbow_2_pl|Balistari de Communio Majores
+trp_euro_xbow_3|Serviens Balistare
+trp_euro_xbow_3_pl|Servientes Balistari
+trp_euro_spearman_1|Hastatus de Communia Minores
+trp_euro_spearman_1_pl|Hastatii de Communio Minores
+trp_euro_spearman_2|Hastatus de Communia Majores
+trp_euro_spearman_2_pl|Hastatii de Communio Majores
+trp_euro_spearman_3|Serviens Hastatus
+trp_euro_spearman_3_pl|Servientes Hastatii
+trp_euro_swordsman_1|Pedes de Communia Minores
+trp_euro_swordsman_1_pl|Pedess de Communio Minores
+trp_euro_swordsman_2|Pedes de Communia Majores
+trp_euro_swordsman_2_pl|Pedess de Communio Majores
+trp_euro_swordsman_3|Serviens Pedes
+trp_euro_swordsman_3_pl|Servientes Pedess
 trp_town_man_at_arms|Miles Pro Commune
-trp_town_man_at_arms_pl|Miles Pro Commune
-trp_euro_guisarm_1|Militia Guisarmer
-trp_euro_guisarm_1_pl|Militia Guisarmer
-trp_euro_guisarm_2|Militia Veteran Guisarmer
-trp_euro_guisarm_2_pl|Militia Veteran Guisarmer
-trp_euro_guisarm_3|Sergeant Guisarmer
-trp_euro_guisarm_3_pl|Sergeant Guisarmer
+trp_town_man_at_arms_pl|Miles Pro Communia
+trp_euro_guisarm_1|Guisarmer de Militiae pro Villa Minores
+trp_euro_guisarm_1_pl|Guisarmer de Militiae pro Villa Minores
+trp_euro_guisarm_2|Guisarmer de Militiae pro Villa Majores
+trp_euro_guisarm_2_pl|Guisarmer de Militiae pro Villa Majores
+trp_euro_guisarm_3|Serviens Guisarmer
+trp_euro_guisarm_3_pl|Servientes Guisarmer
 trp_euro_horse_1|Serviens Equites
 trp_euro_horse_1_pl|Serviens Equites
 trp_euro_horse_2|Homine-Ad-Arma
@@ -818,10 +810,10 @@ trp_euro_horse_3|Armiger Equites
 trp_euro_horse_3_pl|Armiger Equiti
 trp_euro_horse_4|Miles
 trp_euro_horse_4_pl|Milites
-trp_looter|Looter
-trp_looter_pl|Looters
-trp_raider|Raider
-trp_raider_pl|Raiders
+trp_looter|Fur
+trp_looter_pl|Fures
+trp_raider|Latro
+trp_raider_pl|Latrones
 trp_peasant_rebel|Peasant Rebel
 trp_peasant_rebel_pl|Peasant Rebels
 trp_rebel_leader|Rebellion Leader
@@ -830,32 +822,12 @@ trp_bandit|Bandit
 trp_bandit_pl|Bandits
 trp_brigand|Brigand
 trp_brigand_pl|Brigands
-trp_mountain_bandit|Highway Bandit
-trp_mountain_bandit_pl|Highway Bandits
-trp_test_subject1|Test Subject PS 1
-trp_test_subject1_pl|Test Subject PS 1
-trp_test_subject2|Test Subject PS 2
-trp_test_subject2_pl|Test Subject PS 2
-trp_test_subject3|Test Subject PS 3
-trp_test_subject3_pl|Test Subject PS 3
-trp_test_subject4|Test Subject PS 4
-trp_test_subject4_pl|Test Subject PS 4
-trp_test_subject5|Test Subject PS 5
-trp_test_subject5_pl|Test Subject PS 5
-trp_test_subject6|Test Subject PS 6
-trp_test_subject6_pl|Test Subject PS 6
-trp_test_subject7|Test Subject PS 7
-trp_test_subject7_pl|Test Subject PS 7
-trp_test_subject8|Test Subject PS 8
-trp_test_subject8_pl|Test Subject PS 8
-trp_test_subject9|Test Subject PS 9
-trp_test_subject9_pl|Test Subject PS 9
-trp_test_subject10|Test Subject PS 10
-trp_test_subject10_pl|Test Subject PS 10
-trp_forest_bandit|Forest Bandit
-trp_forest_bandit_pl|Forest Bandits
-trp_sea_raider|Sea Raider
-trp_sea_raider_pl|Sea Raiders
+trp_mountain_bandit|Latruncularius
+trp_mountain_bandit_pl|Latruncularii
+trp_forest_bandit|Silva Sicarius
+trp_forest_bandit_pl|Silvae Sicarii
+trp_sea_raider|Pirata
+trp_sea_raider_pl|Piratae
 trp_steppe_bandit|Steppe Bandit
 trp_steppe_bandit_pl|Steppe Bandits
 trp_taiga_bandit|Taiga Bandit
@@ -866,14 +838,6 @@ trp_black_khergit_horseman|Black Khergit Horseman
 trp_black_khergit_horseman_pl|Black Khergit Horsemen
 trp_manhunter|Manhunter
 trp_manhunter_pl|Manhunters
-trp_slave_driver|Slave Driver
-trp_slave_driver_pl|Slave Drivers
-trp_slave_hunter|Slave Hunter
-trp_slave_hunter_pl|Slave Hunters
-trp_slave_crusher|Slave Crusher
-trp_slave_crusher_pl|Slave Crushers
-trp_slaver_chief|Slaver Chief
-trp_slaver_chief_pl|Slaver Chiefs
 trp_follower_woman|Camp Follower
 trp_follower_woman_pl|Camp Follower
 trp_hunter_woman|Huntress

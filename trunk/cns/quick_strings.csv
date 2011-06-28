@@ -125,9 +125,10 @@ qstr_Force_ranged_troops_|强 制 远 程 部 队 使 用 其 远 程 武 器：
 qstr_Disable_NPCs__compla|禁 止 NPC之 间 相 互 抱 怨： 
 qstr_Show_battle_mini_map|显 示 战 场 小 地 图： 
 qstr_Reinforcement_waves:|增 援 波 次： 
-qstr_Probability_of_rain/|下 雨 /下 雪 的 概 率： 
+qstr_Probability_of_rain/|下 雨 /下 雪 的 概 率 (%)： 
 qstr_Cloud_amount:|云 量： 
 qstr_Fog_strength:|大 雾 浓 度： 
+qstr_Probability_of_sands|沙 尘 暴 的 概 率 (%):
 qstr_ERROR____wrong_numbe|ERROR -- wrong number of villages, need {reg26} have {reg27}
 qstr_ERROR____Castles:_{r|ERROR -- Castles: {reg28} seneschals: {reg26}
 qstr_ERROR____Villages:_{|ERROR -- Villages: {reg27} elders: {reg26}
