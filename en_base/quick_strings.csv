@@ -128,6 +128,7 @@ qstr_Reinforcement_waves:|Reinforcement waves:
 qstr_Probability_of_rain/|Probability of rain/snow (%):
 qstr_Cloud_amount:|Cloud amount:
 qstr_Fog_strength:|Fog strength:
+qstr_Probability_of_sands|Probability of sandstorm (%):
 qstr_ERROR____wrong_numbe|ERROR -- wrong number of villages, need {reg26} have {reg27}
 qstr_ERROR____Castles:_{r|ERROR -- Castles: {reg28} seneschals: {reg26}
 qstr_ERROR____Villages:_{|ERROR -- Villages: {reg27} elders: {reg26}

@@ -418,6 +418,7 @@ dlga_dplmc_chancellor_talk:dplmc_chancellor_message_ask_type|Please send a messa
 dlga_dplmc_chancellor_message_ask_type:dplmc_chancellor_message_lord_select|To whom do you like to send the message?
 dlga_dplmc_chancellor_message_lord_select:dplmc_chancellor_message_ask|{s1}.
 dlga_dplmc_chancellor_message_lord_select:dplmc_chancellor_pretalk|Nevermind.
+dlga_dplmc_chancellor_gift_lord_select:dplmc_chancellor_pretalk|I can't think of anyone.
 dlga_dplmc_chancellor_message_ask:dplmc_chancellor_message_select|What do you want to tell {s6}?
 dlga_dplmc_chancellor_message_select:dplmc_chancellor_message_lord_ask|Ask him if he is willing to accompany me in the field.
 dlga_dplmc_chancellor_message_select:dplmc_chancellor_message_goto_lord_ask|Ask him if he is willing to go to a location.
@@ -437,6 +438,57 @@ dlga_dplmc_chancellor_message_lord_ask:dplmc_message_send_confirm.4|Of course, I
 dlga_dplmc_chancellor_message_lord_ask:dplmc_message_send_confirm.5|Of course, I will send a messenger to {s11} and ask him if he is willing to raid around {s12}.
 dlga_dplmc_message_send_confirm:dplmc_chancellor_pretalk|Thank you.
 dlga_dplmc_message_send_confirm:dplmc_chancellor_pretalk.1|I changed my mind.
+dlga_dplmc_chancellor_talk:dplmc_chancellor_gift_ask_where|Please send a gift.
+dlga_dplmc_chancellor_gift_ask_where:dplmc_chancellor_pretalk|We don't have enough money in our treasury to send a gift! It will cost us 50 denars to send a gift.
+dlga_dplmc_chancellor_gift_ask_where:dplmc_chancellor_gift_where|Sending a gift will cost us 50 denars. I will withdraw the money from the treasury. Do you want to send your gift to a person or a settlement?
+dlga_dplmc_chancellor_gift_where:dplmc_chancellor_gift_ask_person|To a person.
+dlga_dplmc_chancellor_gift_where:dplmc_chancellor_center_gift_ask_type|To a settlement.
+dlga_dplmc_chancellor_gift_where:dplmc_chancellor_pretalk|Nowhere.
+dlga_dplmc_chancellor_center_gift_ask_type:dplmc_chancellor_center_gift_select|I recommend to send 300 units of smoked fish, cheese, or honey. If we have enough in our household I will induce a servant to deliver it.
+dlga_dplmc_chancellor_center_gift_select:dplmc_chancellor_center_gift_kingdom_ask|Send some fish.
+dlga_dplmc_chancellor_center_gift_select:dplmc_chancellor_center_gift_kingdom_ask.1|Send some cheese.
+dlga_dplmc_chancellor_center_gift_select:dplmc_chancellor_center_gift_kingdom_ask.2|Send some honey.
+dlga_dplmc_chancellor_center_gift_select:dplmc_chancellor_pretalk|Never mind.
+dlga_dplmc_chancellor_center_gift_kingdom_ask:dplmc_chancellor_center_gift_kingdom_select|Where is the settlement?
+dlga_dplmc_chancellor_center_gift_kingdom_select:dplmc_chancellor_center_gift_lord_ask|In {s11}.
+dlga_dplmc_chancellor_center_gift_kingdom_select:dplmc_chancellor_pretalk|Never mind.
+dlga_dplmc_chancellor_center_gift_lord_ask:dplmc_chancellor_center_gift_lord_select|To which settlement do you like to send the gift?
+dlga_dplmc_chancellor_center_gift_lord_select:dplmc_chancellor_center_gift_send_ask|{s11}.
+dlga_dplmc_chancellor_center_gift_lord_select:dplmc_chancellor_pretalk|I changed my mind.
+dlga_dplmc_chancellor_center_gift_send_ask:dplmc_chancellor_center_gift_send_confirm|I will send a servant with the {s6} to {s11}.
+dlga_dplmc_chancellor_center_gift_send_confirm:dplmc_chancellor_pretalk|Thank you.
+dlga_dplmc_chancellor_center_gift_send_confirm:dplmc_chancellor_pretalk.1|Never mind.
+dlga_dplmc_chancellor_gift_ask_person:dplmc_chancellor_gift_lady_or_lord|Do you want to send your gift to a lady or to a lord?.
+dlga_dplmc_chancellor_gift_lady_or_lord:dplmc_chancellor_gift_ask_type|Please send a gift to a lord.
+dlga_dplmc_chancellor_gift_ask_type:dplmc_chancellor_gift_select|I recommend to send 150 units of Ale, Wine or Oil. If we have enough in our household I will induce a servant to deliver it.
+dlga_dplmc_chancellor_gift_select:dplmc_chancellor_gift_kingdom_ask|Send some ale.
+dlga_dplmc_chancellor_gift_select:dplmc_chancellor_gift_kingdom_ask.1|Send some wine.
+dlga_dplmc_chancellor_gift_select:dplmc_chancellor_gift_kingdom_ask.2|Send some oil.
+dlga_dplmc_chancellor_gift_select:dplmc_chancellor_pretalk|Never mind.
+dlga_dplmc_chancellor_gift_kingdom_ask:dplmc_chancellor_gift_kingdom_select|Where does the lord live whom you want to make a present?
+dlga_dplmc_chancellor_gift_kingdom_select:dplmc_chancellor_gift_lord_ask|In {s11}.
+dlga_dplmc_chancellor_gift_kingdom_select:dplmc_chancellor_pretalk|Never mind.
+dlga_dplmc_chancellor_gift_lord_ask:dplmc_chancellor_gift_lord_select|To whom do you like to send the gift?
+dlga_dplmc_chancellor_gift_lord_select:dplmc_chancellor_gift_send_ask|{s11}.
+dlga_dplmc_chancellor_gift_send_ask:dplmc_chancellor_gift_send_confirm|I will send a servant with the {s6} to {s11}.
+dlga_dplmc_chancellor_gift_send_confirm:dplmc_chancellor_pretalk|Thank you.
+dlga_dplmc_chancellor_gift_send_confirm:dplmc_chancellor_pretalk.1|Never mind.
+dlga_dplmc_chancellor_gift_lady_or_lord:dplmc_chancellor_lady_gift_ask_type|Please send a gift to a lady.
+dlga_dplmc_chancellor_gift_lady_or_lord:dplmc_chancellor_pretalk|Never mind.
+dlga_dplmc_chancellor_lady_gift_ask_type:dplmc_chancellor_lady_gift_select|I recommend to send dyes, silk or velvets. If we have enough in our household I will induce a servant to deliver it.
+dlga_dplmc_chancellor_lady_gift_select:dplmc_chancellor_lady_gift_kingdom_ask|Send dyes.
+dlga_dplmc_chancellor_lady_gift_select:dplmc_chancellor_lady_gift_kingdom_ask.1|Send silk.
+dlga_dplmc_chancellor_lady_gift_select:dplmc_chancellor_lady_gift_kingdom_ask.2|Send velvet.
+dlga_dplmc_chancellor_lady_gift_select:dplmc_chancellor_pretalk|Never mind.
+dlga_dplmc_chancellor_lady_gift_kingdom_ask:dplmc_chancellor_lady_gift_kingdom_select|Where does the lady live?
+dlga_dplmc_chancellor_lady_gift_kingdom_select:dplmc_chancellor_lady_gift_lady_ask|In {s11}.
+dlga_dplmc_chancellor_lady_gift_kingdom_select:dplmc_chancellor_pretalk|Never mind.
+dlga_dplmc_chancellor_lady_gift_lady_ask:dplmc_chancellor_lady_gift_lady_select|Which lady should receive the gift?
+dlga_dplmc_chancellor_lady_gift_lady_select:dplmc_chancellor_lady_gift_send_ask|{s11}.
+dlga_dplmc_chancellor_lady_gift_lady_select:dplmc_chancellor_pretalk|I can't think of anyone.
+dlga_dplmc_chancellor_lady_gift_send_ask:dplmc_chancellor_lady_gift_send_confirm|I will send a servant with the {s6} to {s11}.
+dlga_dplmc_chancellor_lady_gift_send_confirm:dplmc_chancellor_pretalk|Thank you.
+dlga_dplmc_chancellor_lady_gift_send_confirm:dplmc_chancellor_pretalk.1|Never mind.
 dlga_dplmc_chancellor_talk:dplmc_chancellor_talk_household|Let us check our household possessions.
 dlga_dplmc_chancellor_talk_household:dplmc_chancellor_pretalk|You should store all important things in the household.
 dlga_dplmc_chancellor_talk:close_window|Farewell!

@@ -417,7 +417,8 @@ dlga_dplmc_chancellor_cur_stance:dplmc_chancellor_pretalk|{s10}
 dlga_dplmc_chancellor_talk:dplmc_chancellor_message_ask_type|请 向 一 位 领 主 带 去 一 条 信 息。 
 dlga_dplmc_chancellor_message_ask_type:dplmc_chancellor_message_lord_select|您 希 望 向 哪 一 位 领 主 发 送 信 息？ 
 dlga_dplmc_chancellor_message_lord_select:dplmc_chancellor_message_ask|{s1}。 
-dlga_dplmc_chancellor_message_lord_select:dplmc_chancellor_pretalk|算 了。 
+dlga_dplmc_chancellor_message_lord_select:dplmc_chancellor_pretalk|算 了。
+dlga_dplmc_chancellor_gift_lord_select:dplmc_chancellor_pretalk|我 想 不 到 任 何 人。 
 dlga_dplmc_chancellor_message_ask:dplmc_chancellor_message_select|您 想 向 {s6}发 送 什 么 信 息？ 
 dlga_dplmc_chancellor_message_select:dplmc_chancellor_message_lord_ask|询 问 他 是 否 愿 意 和 我 的 军 队 一 起 行 动？ 
 dlga_dplmc_chancellor_message_select:dplmc_chancellor_message_goto_lord_ask|询 问 他 是 否 愿 意 到 一 个 地 方 驻 守？ 
@@ -437,6 +438,57 @@ dlga_dplmc_chancellor_message_lord_ask:dplmc_message_send_confirm.4|当 然， �
 dlga_dplmc_chancellor_message_lord_ask:dplmc_message_send_confirm.5|当 然， 我 会 让 信 使 给 {s11}带 信 问 他 是 否 愿 意 去 掠 夺 {s12}。 
 dlga_dplmc_message_send_confirm:dplmc_chancellor_pretalk|谢 谢。 
 dlga_dplmc_message_send_confirm:dplmc_chancellor_pretalk.1|我 改 变 主 意 了。 
+dlga_dplmc_chancellor_talk:dplmc_chancellor_gift_ask_where|请 帮 我 去 送 一 份 礼 物。 
+dlga_dplmc_chancellor_gift_ask_where:dplmc_chancellor_pretalk|我 们 的 金 库 里 没 有 足 够 的 钱 用 来 送 礼 了！ 一 份 礼 物 需 要 50第 纳 尔。 
+dlga_dplmc_chancellor_gift_ask_where:dplmc_chancellor_gift_where|一 份 礼 物 需 要 50第 纳 尔。 我 会 从 金 库 里 提 取 钱。 你 是 想 送 把 礼 物 给 个 人 还 是 以 你 的 名 义 送 给 一 座 城 市 设 施？ 
+dlga_dplmc_chancellor_gift_where:dplmc_chancellor_gift_ask_person|送 给 个 人。 
+dlga_dplmc_chancellor_gift_where:dplmc_chancellor_center_gift_ask_type|送 给 一 座 城 池。 
+dlga_dplmc_chancellor_gift_where:dplmc_chancellor_pretalk|哪 儿 都 不 用。 
+dlga_dplmc_chancellor_center_gift_ask_type:dplmc_chancellor_center_gift_select|我 推 荐 送 300单 位 的 熏 鱼， 奶 酪 或 者 蜂 蜜。 如 果 我 们 有 足 够 储 备 的 话 我 会 找 一 名 仆 人 去 递 送 的。 
+dlga_dplmc_chancellor_center_gift_select:dplmc_chancellor_center_gift_kingdom_ask|送 点 鱼 吧。 
+dlga_dplmc_chancellor_center_gift_select:dplmc_chancellor_center_gift_kingdom_ask.1|送 点 奶 酪 吧。 
+dlga_dplmc_chancellor_center_gift_select:dplmc_chancellor_center_gift_kingdom_ask.2|送 点 蜂 蜜 吧。 
+dlga_dplmc_chancellor_center_gift_select:dplmc_chancellor_pretalk|不 用 了。 
+dlga_dplmc_chancellor_center_gift_kingdom_ask:dplmc_chancellor_center_gift_kingdom_select|你 要 送 的 城 市 设 施 在 哪 座 城 里？ 
+dlga_dplmc_chancellor_center_gift_kingdom_select:dplmc_chancellor_center_gift_lord_ask|在 {s11}。 
+dlga_dplmc_chancellor_center_gift_kingdom_select:dplmc_chancellor_pretalk|不 用 了。 
+dlga_dplmc_chancellor_center_gift_lord_ask:dplmc_chancellor_center_gift_lord_select|你 要 送 给 哪 座 城 市 设 施？ 
+dlga_dplmc_chancellor_center_gift_lord_select:dplmc_chancellor_center_gift_send_ask|{s11}。 
+dlga_dplmc_chancellor_center_gift_lord_select:dplmc_chancellor_pretalk|我 改 主 意 了。 
+dlga_dplmc_chancellor_center_gift_send_ask:dplmc_chancellor_center_gift_send_confirm|我 会 让 一 名 仆 人 带 着 {s6}送 去 {s11}。 
+dlga_dplmc_chancellor_center_gift_send_confirm:dplmc_chancellor_pretalk|多 谢。 
+dlga_dplmc_chancellor_center_gift_send_confirm:dplmc_chancellor_pretalk.1|不 用 了。 
+dlga_dplmc_chancellor_gift_ask_person:dplmc_chancellor_gift_lady_or_lord|你 是 想 把 礼 物 送 给 一名 领 主 还 是 一 位 小 姐？ 
+dlga_dplmc_chancellor_gift_lady_or_lord:dplmc_chancellor_gift_ask_type|请 把 礼 物 送 给 一 名 领 主。 
+dlga_dplmc_chancellor_gift_ask_type:dplmc_chancellor_gift_select|我 推 荐 送 150单 位 的 麦 芽 酒， 葡 萄 酒 或 者 油。 如 果 我 们 有 足 够 储 备 的 话 我 会 找 一 名 仆 人 去 递 送 的。 
+dlga_dplmc_chancellor_gift_select:dplmc_chancellor_gift_kingdom_ask|送 麦 芽 酒 吧。 
+dlga_dplmc_chancellor_gift_select:dplmc_chancellor_gift_kingdom_ask.1|送 葡 萄 酒 吧。 
+dlga_dplmc_chancellor_gift_select:dplmc_chancellor_gift_kingdom_ask.2|送 油 吧。 
+dlga_dplmc_chancellor_gift_select:dplmc_chancellor_pretalk|不 用 了。 
+dlga_dplmc_chancellor_gift_kingdom_ask:dplmc_chancellor_gift_kingdom_select|你 想 赠 予 礼 物 的 领 主 住 在 哪 儿？ 
+dlga_dplmc_chancellor_gift_kingdom_select:dplmc_chancellor_gift_lord_ask|在 {s11}。 
+dlga_dplmc_chancellor_gift_kingdom_select:dplmc_chancellor_pretalk|不 用 了。 
+dlga_dplmc_chancellor_gift_lord_ask:dplmc_chancellor_gift_lord_select|你 想 送 给 谁？ 
+dlga_dplmc_chancellor_gift_lord_select:dplmc_chancellor_gift_send_ask|{s11}， 
+dlga_dplmc_chancellor_gift_send_ask:dplmc_chancellor_gift_send_confirm|我 会 让 一 名 仆 人 带 着 {s6}送 去 {s11}。 
+dlga_dplmc_chancellor_gift_send_confirm:dplmc_chancellor_pretalk|多 谢。 
+dlga_dplmc_chancellor_gift_send_confirm:dplmc_chancellor_pretalk.1|不 用 了。 
+dlga_dplmc_chancellor_gift_lady_or_lord:dplmc_chancellor_lady_gift_ask_type|请 把 礼 物 送 给 一 名 小 姐。 
+dlga_dplmc_chancellor_gift_lady_or_lord:dplmc_chancellor_pretalk|不 用 了。 
+dlga_dplmc_chancellor_lady_gift_ask_type:dplmc_chancellor_lady_gift_select|我 推 荐 送 染 料， 丝 绸 或 者 天 鹅 绒。 如 果 我 们 有 足 够 储 备 的 话 我 会 找 一 名 仆 人 去 递 送 的。 
+dlga_dplmc_chancellor_lady_gift_select:dplmc_chancellor_lady_gift_kingdom_ask|送 染 料 吧。 
+dlga_dplmc_chancellor_lady_gift_select:dplmc_chancellor_lady_gift_kingdom_ask.1|送 丝 绸 吧。 
+dlga_dplmc_chancellor_lady_gift_select:dplmc_chancellor_lady_gift_kingdom_ask.2|送 天 鹅 绒 吧。 
+dlga_dplmc_chancellor_lady_gift_select:dplmc_chancellor_pretalk|不 用 了。 
+dlga_dplmc_chancellor_lady_gift_kingdom_ask:dplmc_chancellor_lady_gift_kingdom_select|你 想 赠 予 礼 物 的 那 位 小 姐 住 在 哪 儿？ 
+dlga_dplmc_chancellor_lady_gift_kingdom_select:dplmc_chancellor_lady_gift_lady_ask|在 {s11}。 
+dlga_dplmc_chancellor_lady_gift_kingdom_select:dplmc_chancellor_pretalk|不 用 了。 
+dlga_dplmc_chancellor_lady_gift_lady_ask:dplmc_chancellor_lady_gift_lady_select|是 要 给 哪 位 小 姐？ 
+dlga_dplmc_chancellor_lady_gift_lady_select:dplmc_chancellor_lady_gift_send_ask|{s11}。 
+dlga_dplmc_chancellor_lady_gift_lady_select:dplmc_chancellor_pretalk|我 想 不 出 来 了。 
+dlga_dplmc_chancellor_lady_gift_send_ask:dplmc_chancellor_lady_gift_send_confirm|我 会 让 一 名 仆 人 带 着 {s6}送 去 {s11}。 
+dlga_dplmc_chancellor_lady_gift_send_confirm:dplmc_chancellor_pretalk|多 谢。 
+dlga_dplmc_chancellor_lady_gift_send_confirm:dplmc_chancellor_pretalk.1|不 用 了。 
 dlga_dplmc_chancellor_talk:dplmc_chancellor_talk_household|让 我 们 检 查 一 下 仓 库。 
 dlga_dplmc_chancellor_talk_household:dplmc_chancellor_pretalk|您 应 该 把 所 有 重 要 的 东 西 存 放 在 家 里。 
 dlga_dplmc_chancellor_talk:close_window|再 见！ 
