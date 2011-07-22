@@ -630,8 +630,6 @@ itm_kau_antioch|Antioch Mail
 itm_kau_antioch_pl|Antioch Mail
 itm_kau_cyprus|Cyprus Mail
 itm_kau_cyprus_pl|Cyprus Mail
-itm_kau_antioch|Antioch Mail
-itm_kau_antioch_pl|Antioch Mail
 itm_kau_jerusalem|Jerusalem Mail
 itm_kau_jerusalem_pl|Jerusalem Mail
 itm_kau_latin_a|Latin Empire Mail
@@ -882,12 +880,12 @@ itm_templar_mail_a|Mail Hauberk
 itm_templar_mail_a_pl|Mail Hauberk
 itm_templar_tunic_a|Postulant Tunic
 itm_templar_tunic_a_pl|Postulant Tunic
-itm_templar_knight_a|Teutonic Mail with Surcoat
-itm_templar_knight_a_pl|Teutonic Mail with Surcoat
-itm_templar_knight_b|Teutonic Mail with Surcoat
-itm_templar_knight_b_pl|Teutonic Mail with Surcoat
-itm_templar_knight_c|Teutonic Mail with Surcoat
-itm_templar_knight_c_pl|Teutonic Mail with Surcoat
+itm_templar_knight_a|Templar Mail with Surcoat
+itm_templar_knight_a_pl|Templar Mail with Surcoat
+itm_templar_knight_b|Templar Mail with Surcoat
+itm_templar_knight_b_pl|Templar Mail with Surcoat
+itm_templar_knight_c|Templar Mail with Surcoat
+itm_templar_knight_c_pl|Templar Mail with Surcoat
 itm_templar_gambeson_a|Gambeson
 itm_templar_gambeson_a_pl|Gambeson
 itm_hospitaller_knight_a|Mail with Surcoat
@@ -910,8 +908,6 @@ itm_hospitaller_tunic_a|Postulant Tunic
 itm_hospitaller_tunic_a_pl|Postulant Tunic
 itm_hospitaller_gambeson_a|Gambeson
 itm_hospitaller_gambeson_a_pl|Gambeson
-itm_hospitaller_knight_a|Mail with Surcoat
-itm_hospitaller_knight_a_pl|Mail with Surcoat
 itm_hirdman_a|Coat of Plates
 itm_hirdman_a_pl|Coat of Plates
 itm_arab_mail_a|Mail Shirt
@@ -1050,8 +1046,14 @@ itm_byz_footman_b|Byzantine Padded Cloth
 itm_byz_footman_b_pl|Byzantine Padded Cloth
 itm_byz_footman_c|Byzantine Padded Cloth
 itm_byz_footman_c_pl|Byzantine Padded Cloth
-itm_byz_swordsman|Byzantine Scoutati Armour
-itm_byz_swordsman_pl|Byzantine Scoutati Armour
+itm_byz_swordsman_1|Byzantine Scoutati Armour
+itm_byz_swordsman_1_pl|Byzantine Scoutati Armour
+itm_byz_swordsman_2|Byzantine Scoutati Armour
+itm_byz_swordsman_2_pl|Byzantine Scoutati Armour
+itm_byz_swordsman_3|Byzantine Scoutati Armour
+itm_byz_swordsman_3_pl|Byzantine Scoutati Armour
+itm_byz_swordsman_4|Byzantine Scoutati Armour
+itm_byz_swordsman_4_pl|Byzantine Scoutati Armour
 itm_byz_guard_a|Byzantine Guard Armour
 itm_byz_guard_a_pl|Byzantine Guard Armour
 itm_byz_guard_b|Byzantine Guard Armour
@@ -1122,8 +1124,6 @@ itm_mail_coif|Mail Coif
 itm_mail_coif_pl|Mail Coif
 itm_footman_helmet|Footman's Helmet
 itm_footman_helmet_pl|Footman's Helmet
-itm_norman_helmet|Helmet with Cap
-itm_norman_helmet_pl|Helmet with Cap
 itm_khergit_lady_hat|Mongol Lady Hat
 itm_khergit_lady_hat_pl|Mongol Lady Hat
 itm_khergit_lady_hat_b|Mongol Lady Leather Hat
@@ -1162,8 +1162,6 @@ itm_vaegir_spiked_helmet|Spiked Cap
 itm_vaegir_spiked_helmet_pl|Spiked Cap
 itm_vaegir_lamellar_helmet|Helmet with Lamellar Guard
 itm_vaegir_lamellar_helmet_pl|Helmet with Lamellar Guard
-itm_vaegir_war_helmet|Rus War Helmet
-itm_vaegir_war_helmet_pl|Rus War Helmet
 itm_vaegir_mask|Rus War Mask
 itm_vaegir_mask_pl|Rus War Mask
 itm_winged_great_helmet|Winged Great Helmet
@@ -1196,10 +1194,6 @@ itm_balt_helmet_b|Balt Helmet
 itm_balt_helmet_b_pl|Balt Helmet
 itm_balt_helmet_c|Balt Helmet
 itm_balt_helmet_c_pl|Balt Helmet
-itm_pol_helm_05|Great Helm
-itm_pol_helm_05_pl|Great Helm
-itm_pol_helm_08|Great Helm
-itm_pol_helm_08_pl|Great Helm
 itm_teu_kettle_hat_a|Kettle Helm
 itm_teu_kettle_hat_a_pl|Kettle Helm
 itm_teu_kettle_hat_b|Kettle Helm
@@ -1278,12 +1272,8 @@ itm_skullcap|Skullcap
 itm_skullcap_pl|Skullcap
 itm_raf_spangen|Spangen Helm
 itm_raf_spangen_pl|Spangen Helm
-itm_arab_helmet_a|Saracen Helm
-itm_arab_helmet_a_pl|Saracen Helm
 itm_arab_helmet_b|Saracen Helm
 itm_arab_helmet_b_pl|Saracen Helm
-itm_arab_helmet_c|Saracen Helm
-itm_arab_helmet_c_pl|Saracen Helm
 itm_berber_helmet_a|Berber Helm
 itm_berber_helmet_a_pl|Berber Helm
 itm_maciejowski_helm|Great Helm
@@ -1404,8 +1394,6 @@ itm_talak_warhammer|Warhammer
 itm_talak_warhammer_pl|Warhammer
 itm_talak_bastard_sword|Hand and a Half Sword
 itm_talak_bastard_sword_pl|Hand and a Half Sword
-itm_talak_mace|Flanged Mace
-itm_talak_mace_pl|Flanged Mace
 itm_raf_one_handed_axe_a|One Handed Axe
 itm_raf_one_handed_axe_a_pl|One Handed Axe
 itm_raf_one_handed_axe_b|One Handed Axe
@@ -1532,6 +1520,8 @@ itm_lance|Lance
 itm_lance_pl|Lance
 itm_heavy_lance|Heavy Lance
 itm_heavy_lance_pl|Heavy Lance
+itm_heraldic_lance|Heraldic Lance
+itm_heraldic_lance_pl|Heraldic Lance
 itm_bamboo_spear|Bamboo Spear
 itm_bamboo_spear_pl|Bamboo Spear
 itm_spear_a|Spear
@@ -1684,6 +1674,10 @@ itm_lit_pavise_h_4|Heavy Lithuanian Shield
 itm_lit_pavise_h_4_pl|Heavy Lithuanian Shield
 itm_byz_shield|Heavy Byzantine Kite Shield
 itm_byz_shield_pl|Heavy Byzantine Kite Shield
+itm_byz_shield_kite|Kite Shield
+itm_byz_shield_kite_pl|Kite Shield
+itm_byz_shield_round|Round Shield
+itm_byz_shield_round_pl|Round Shield
 itm_arab_shield_a_1|Old Saracen Round Shield
 itm_arab_shield_a_1_pl|Old Saracen Round Shield
 itm_arab_shield_a_2|Plain Saracen Round Shield
@@ -1794,8 +1788,6 @@ itm_balt_javelin|Balt Javelins
 itm_balt_javelin_pl|Balt Javelins
 itm_throwing_spears|Throwing Spears
 itm_throwing_spears_pl|Throwing Spears
-itm_balt_throwing_spears|Throwing Spears
-itm_balt_throwing_spears_pl|Throwing Spears
 itm_stones|Stones
 itm_stones_pl|Stones
 itm_throwing_knives|Throwing Knives
@@ -1854,8 +1846,6 @@ itm_practice_arrows_2|Practice Arrows
 itm_practice_arrows_2_pl|Practice Arrows
 itm_mail_boots_for_tableau|Mail Boots
 itm_mail_boots_for_tableau_pl|Mail Boots
-itm_heraldic_lance|Heraldic Lance
-itm_heraldic_lance_pl|Heraldic Lance
 itm_almogavar_sword|Almogavar Cleaver
 itm_almogavar_sword_pl|Almogavar Cleaver
 itm_welsh_archer|Welsh Bowman Tunic
@@ -2094,6 +2084,18 @@ itm_byzantine_sabre|Byzantine Sabre
 itm_byzantine_sabre_pl|Byzantine Sabre
 itm_byzantine_sword|Byzantine Sword
 itm_byzantine_sword_pl|Byzantine Sword
+itm_byzantine_sword_1|Byzantine Sword
+itm_byzantine_sword_1_pl|Byzantine Sword
+itm_byzantine_sword_3|Byzantine Sword
+itm_byzantine_sword_3_pl|Byzantine Sword
+itm_byzantine_sword_4|Byzantine Sword
+itm_byzantine_sword_4_pl|Byzantine Sword
+itm_byzantine_sword_5|Byzantine Sword
+itm_byzantine_sword_5_pl|Byzantine Sword
+itm_byzantine_sword_7|Byzantine Sword
+itm_byzantine_sword_7_pl|Byzantine Sword
+itm_byzantine_sword_extra|Byzantine Sword
+itm_byzantine_sword_extra_pl|Byzantine Sword
 itm_rus_shield_a_4|Almond Shield
 itm_rus_shield_a_4_pl|Almond Shield
 itm_rus_shield_b_4|Almond Shield
@@ -2300,7 +2302,11 @@ itm_saracen_mail|Saracen Mail
 itm_saracen_mail_pl|Saracen Mail
 itm_jineta_sword|Jineta Sword
 itm_jineta_sword_pl|Jineta Sword
-itm_test_flag|test flag
-itm_test_flag_pl|test flag
+itm_flag_pole_1|Flag
+itm_flag_pole_1_pl|Flag
+itm_flag_pole_2|Flag
+itm_flag_pole_2_pl|Flag
+itm_flag_pole_3|Flag
+itm_flag_pole_3_pl|Flag
 itm_items_end|Items End
 itm_items_end_pl|Items End

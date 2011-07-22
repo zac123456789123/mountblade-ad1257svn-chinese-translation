@@ -128,7 +128,12 @@ qstr_Reinforcement_waves:|Reinforcement waves:
 qstr_Probability_of_rain/|Probability of rain/snow (%):
 qstr_Cloud_amount:|Cloud amount:
 qstr_Fog_strength:|Fog strength:
-qstr_Probability_of_sands|Probability of sandstorm (%):
+qstr_Probability_of_sands|Probability of sandstorm/blizzard/storm (%):
+qstr_Use_English_faction_|Use English faction names:
+qstr_Use_unit_indications|Use unit indications:
+qstr_Use_banner_man:|Use banner-man:
+qstr_Use_Custom_battlefie|Use Custom-battlefields:
+qstr_Weapon_break:|Weapon break:
 qstr_ERROR____wrong_numbe|ERROR -- wrong number of villages, need {reg26} have {reg27}
 qstr_ERROR____Castles:_{r|ERROR -- Castles: {reg28} seneschals: {reg26}
 qstr_ERROR____Villages:_{|ERROR -- Villages: {reg27} elders: {reg26}
@@ -322,7 +327,6 @@ qstr_Best_threat_of_{s4}_|Best threat of {s4} has value level of {reg1}
 qstr_No_center_found_to_d|No center found to defend
 qstr_You_gain_right_to_ru|You gain right to rule.
 qstr_You_lose_right_to_ru|You lose right to rule.
-qstr_party_{s29}:_{s26}_r|party {s29}: {s26} replacing {s27} with {s28}
 qstr_No_Troops_Left.|No Troops Left.
 qstr_Selected_Troop:_{s1}|Selected Troop: {s1}
 qstr_Peasants_revolt_in_a|Peasants revolt in areas controlled by the {s25}!
@@ -357,7 +361,1318 @@ qstr_Archer_formation_dis|Archer formation disassembled.
 qstr_Spearmen|Spearmen
 qstr_Horse_Archers|Horse Archers
 qstr_calculate_party_stre|calculate party strength [{s33}] --- offense: {reg0} defense: {reg1} size: {reg2}
+qstr_Ordo_Teutonicus|Ordo Teutonicus
+qstr_Regnum_Litus|Regnum Litus
+qstr_Altan_Ordyn_Uls|Altan Ordyn Uls
+qstr_Regnum_Daniae|Regnum Daniae
+qstr_Regnum_Poloniae|Regnum Poloniae
+qstr_Sacrum_Imperium_Roma|Sacrum Imperium Romanum
+qstr_Regnum_Hungariae|Regnum Hungariae
+qstr_Veliki_Novgorod|Veliki Novgorod
+qstr_Regnum_Angliae|Regnum Angliae
+qstr_Regnum_Franciae|Regnum Franciae
+qstr_Kongeriket_Norge|Kongeriket Norge
+qstr_Regnum_Scotiae|Regnum Scotiae
+qstr_Scotia_Maior|Scotia Maior
+qstr_Konungariket_Sverige|Konungariket Sverige
+qstr_Regnum_Galiciae_et_L|Regnum Galiciae et Lodomeriae
+qstr_Regnum_Portugaliae|Regnum Portugaliae
+qstr_Corona_Aragonae|Corona Aragonae
+qstr_Regnum_Castiliae|Regnum Castiliae
+qstr_Imarat_Gharnątah|Imarat Gharnątah
+qstr_Basileia_ton_Rhomaio|Basileia ton Rhomaion
+qstr_Regnum_Hierosolymita|Regnum Hierosolymitanum
+qstr_Regnum_Siciliae|Regnum Siciliae
+qstr_Sultanat_al_Mamalik|Sultanat al Mamalik
+qstr_Imperium_Romaniae|Imperium Romaniae
+qstr_Ilkhanate|Ilkhanate
+qstr_Saltanat_al_Hafsid|Saltanat al Hafsid
+qstr_Velika_Zupanija_Rask|Velika Zupanija Raska
+qstr_Balgarsko_Tsarstvo|Balgarsko Tsarstvo
+qstr_Saltanat_al_Marinid|Saltanat al Marinid
+qstr_Deserti|Deserti
+qstr_Montes_Sicarii|Montes Sicarii
+qstr_Silvae_Sicarii|Silvae Sicarii
+qstr_Kursi|Kursi
+qstr_Žemaiciai|Žemaiciai
+qstr_Pruteni|Pruteni
+qstr_Jotvingiai|Jotvingiai
+qstr_Cymry|Cymry
+qstr_Patrimonium_Sancti_P|Patrimonium Sancti Petri
+qstr_Teutonic_Order__Livo|Teutonic Order (Livonia and Prussia)
+qstr_Kingdom_of_Lithuania|Kingdom of Lithuania
+qstr_Golden_Horde|Golden Horde
+qstr_Kingdom_of_Denmark|Kingdom of Denmark
+qstr_Polish_Principalitie|Polish Principalities
+qstr_Holy_Roman_Empire|Holy Roman Empire
+qstr_Kingdom_of_Hungary|Kingdom of Hungary
+qstr_Novgorod_Republic|Novgorod Republic
+qstr_Kingdom_of_England|Kingdom of England
+qstr_Kingdom_of_France|Kingdom of France
+qstr_Kingdom_of_Norway|Kingdom of Norway
+qstr_Kingdom_of_Scotland|Kingdom of Scotland
+qstr_Gaelic_Kingdoms|Gaelic Kingdoms
+qstr_Kingdom_of_Sweden|Kingdom of Sweden
+qstr_Kingdom_of_Halych_Vo|Kingdom of Halych-Volhynia
+qstr_Kingdom_of_Portugal|Kingdom of Portugal
+qstr_Crown_of_Aragon|Crown of Aragon
+qstr_Kingdom_of_Castille|Kingdom of Castille
+qstr_Emirate_of_Granada|Emirate of Granada
+qstr_Crusader_States|Crusader States
+qstr_Kingdom_of_Sicily|Kingdom of Sicily
+qstr_Mamluk_Sultanate|Mamluk Sultanate
+qstr_Latin_Empire|Latin Empire
+qstr_Il_khanate|Il-khanate
+qstr_Hafsid_Dynasty|Hafsid Dynasty
+qstr_Kingdom_of_Serbia|Kingdom of Serbia
+qstr_Kingdom_of_Bulgaria|Kingdom of Bulgaria
+qstr_Marinid_Dynasty|Marinid Dynasty
+qstr_Deserters|Deserters
+qstr_Mountaind_Bandits|Mountaind Bandits
+qstr_Forest_Bandits|Forest Bandits
+qstr_Curonians|Curonians
+qstr_Samogitians|Samogitians
+qstr_Prussians|Prussians
+qstr_Yotvingians|Yotvingians
+qstr_Welsh|Welsh
+qstr_Papal_States|Papal States
+qstr_multiplayer_profile_|multiplayer profile troop male
+qstr_multiplayer_profile_t|multiplayer profile troop female
+qstr_Temp_Troop|Temp Troop
+qstr_find_item_cheat|find item cheat
+qstr_Random_Town_Sequence|Random Town Sequence
+qstr_Tournament_Participa|Tournament Participants
+qstr_Maceman|Maceman
+qstr_Archer|Archer
+qstr_Swordsman|Swordsman
+qstr_Novice_Fighter|Novice Fighter
+qstr_Novice_Fighters|Novice Fighters
+qstr_Regular_Fighter|Regular Fighter
+qstr_Regular_Fighters|Regular Fighters
+qstr_Veteran_Fighter|Veteran Fighter
+qstr_Veteran_Fighters|Veteran Fighters
+qstr_Champion_Fighter|Champion Fighter
+qstr_Champion_Fighters|Champion Fighters
+qstr_Cattle|Cattle
+qstr_Libertus|Libertus
+qstr_Liberti|Liberti
+qstr_Non_Didicit_Sagittar|Non Didicit Sagittarius
+qstr_Non_Didicerunt_Sagit|Non Didicerunt Sagittarii
+qstr_Miles_Absolvitur|Miles Absolvitur
+qstr_Milites_Absolvuntur|Milites Absolvuntur
+qstr_Machaerophorus_Milit|Machaerophorus Militaris Veteranus Absolvitur
+qstr_Machaerophori_Milita|Machaerophori Militares Veterani Absolvuntur
+qstr_Gisarme_Militaris_Ab|Gisarme Militaris Absolvitur
+qstr_Gisarme_Militares_Ab|Gisarme Militares Absolvuntur
+qstr_Hastatus_Militaris_A|Hastatus Militaris Absolvitur
+qstr_Hastati_Militares_Ab|Hastati Militares Absolvuntur
+qstr_Iaculator_Arcoballis|Iaculator Arcoballista Militaris Absolvitur
+qstr_Iaculatoris_Acroball|Iaculatoris Acroballistae Militares Absolvuntur
+qstr_Sagittarius_Militari|Sagittarius Militaris Absolvitur
+qstr_Sagittari_Militares_|Sagittari Militares Absolvuntur
+qstr_Dux_Gisarme_Militari|Dux Gisarme Militaris Absolvitur
+qstr_Duxes_Gisarme_Milita|Duxes Gisarme Militares Absolvuntur
+qstr_Dux_Machaerophorus_M|Dux Machaerophorus Militaris Absolvitur
+qstr_Duxes_Machaerophori_|Duxes Machaerophori Militares Absolvuntur
+qstr_Dux_Hastatus_Militar|Dux Hastatus Militaris Absolvitur
+qstr_Duxes_Hastati_Milita|Duxes Hastati Militares Absolvuntur
+qstr_Dux_Iaculator_Milita|Dux Iaculator Militaris Absolvitur
+qstr_Duxes_Iaculatoris_Mi|Duxes Iaculatoris Militares Absolvuntur
+qstr_Eques_Absolvitur|Eques Absolvitur
+qstr_Equites_Absolvuntur|Equites Absolvuntur
+qstr_Armatus_Eques_Absolv|Armatus Eques Absolvitur
+qstr_Armati_Equites_Absol|Armati Equites Absolvuntur
+qstr_Armiger_Eques_Absolv|Armiger Eques Absolvitur
+qstr_Armigri_Equites_Abso|Armigri Equites Absolvuntur
+qstr_Nobilitas_Eques_Vehi|Nobilitas Eques Vehitur
+qstr_Nobiliti_Equites_Veh|Nobiliti Equites Vehuntur
+qstr_Jund_Al_Siqilliyya_R|Jund Al-Siqilliyya Rami
+qstr_Jund_Al_Siqilliyya_Ru|Jund Al-Siqilliyya Rumat
+qstr_Khassakiyya_Al_Siqil|Khassakiyya Al-Siqilliyya Rami
+qstr_Khassakiyya_Al_Siqill|Khassakiyya Al-Siqilliyya Rumat
+qstr_Jund_Al_Siqilliyya_F|Jund Al-Siqilliyya Faris
+qstr_Khassakiya_Al_Siqill|Khassakiya Al-Siqilliyya Faris
+qstr_Jund_Al_Siqilliyya_Ra|Jund Al-Siqilliyya Rajjala
+qstr_Khassakiya_Al_Siqilli|Khassakiya Al-Siqilliyya Rajjala
+qstr_Hasham_Al_Zanata_Far|Hasham Al-Zanata Faris
+qstr_Hasham_Al_Maghrib_Ra|Hasham Al-Maghrib Rajjala
+qstr_Brabantine_Iaculator|Brabantine Iaculator Arcoballista
+qstr_Brabantine_Iaculatori|Brabantine Iaculatoris Arcoballistae
+qstr_Brabantine_Hastatus_|Brabantine Hastatus Militaris
+qstr_Brabantine_Hastati_M|Brabantine Hastati Militares
+qstr_Brabantine_Gisarme|Brabantine Gisarme
+qstr_Cymry_Saethydd|Cymry Saethydd
+qstr_Kern_Solidarius|Kern Solidarius
+qstr_Kern_Solidari|Kern Solidari
+qstr_Almogabar|Almogabar
+qstr_Almogabars|Almogabars
+qstr_Cuman_Tribesman|Cuman Tribesman
+qstr_Cuman_Tribesmen|Cuman Tribesmen
+qstr_Cuman_Skirmisher|Cuman Skirmisher
+qstr_Cuman_Skirmishers|Cuman Skirmishers
+qstr_Cuman_Horseman|Cuman Horseman
+qstr_Cuman_Horsemen|Cuman Horsemen
+qstr_Cuman_Horse_Archer|Cuman Horse Archer
+qstr_Cuman_Horse_Archers|Cuman Horse Archers
+qstr_Cuman_Veteran_Horse_|Cuman Veteran Horse Archer
+qstr_Cuman_Veteran_Horse_A|Cuman Veteran Horse Archers
+qstr_Cuman_Lancer|Cuman Lancer
+qstr_Cuman_Lancers|Cuman Lancers
+qstr_Cuman_Heavy_Lancer|Cuman Heavy Lancer
+qstr_Cuman_Heavy_Lancers|Cuman Heavy Lancers
+qstr_Gall_Gaedhil_Hastatu|Gall-Gaedhil Hastatus
+qstr_Gall_Gaedhil_Hastati|Gall-Gaedhil Hastati
+qstr_Gall_Gaedhil_Spathar|Gall-Gaedhil Spatharius
+qstr_Gall_Gaedhil_Spathari|Gall-Gaedhil Spathari
+qstr_Gall_Gaedhil_Tuanagh|Gall-Gaedhil Tuanaghta
+qstr_Gall_Oglaich_Spathar|Gall-Oglaich Spatharius
+qstr_Gall_Oglaich_Spathari|Gall-Oglaich Spathari
+qstr_Gall_Oglaich_Tuanagh|Gall-Oglaich Tuanaghta
+qstr_Turcopole|Turcopole
+qstr_Turcopoles|Turcopoles
+qstr_Dux_Ordo_Templique_S|Dux Ordo Templique Salomonis Iaculator arcoballista
+qstr_Duxes_Ordo_Templique|Duxes Ordo Templique Salomonis Iaculatoris acroballistae
+qstr_Dux_Ordo_Templique_Sa|Dux Ordo Templique Salomonis Machaerophorus militaris
+qstr_Dux_Ordo_Templique_Sal|Dux Ordo Templique Salomonis Salomonis Machaerophori militares
+qstr_Dux_Ordo_Templique_Salo|Dux Ordo Templique Salomonis Hastatus
+qstr_Duxes_Ordo_Templique_|Duxes Ordo Templique Salomonis Hastati
+qstr_Dux_Ordo_Templique_Salom|Dux Ordo Templique Salomonis armiger Eques
+qstr_Duxes_Ordo_Templique_S|Duxes Ordo Templique Salomonis armigri Equites
+qstr_Dux_Ordo_Templique_Salomo|Dux Ordo Templique Salomonis Miles nobilitas
+qstr_Dux_Ordo_Templique_Salomon|Dux Ordo Templique Salomonis Milites nobiliti
+qstr_Dux_Ordo_sancti_Joha|Dux Ordo sancti Johannis Machaerophorus militaris
+qstr_Duxes_Ordo_sancti_Jo|Duxes Ordo sancti Johannis Machaerophori militares
+qstr_Dux_Ordo_sancti_Johan|Dux Ordo sancti Johannis Hastatus militaris
+qstr_Dux_Ordo_sancti_Johann|Dux Ordo sancti Johannis Hastati militares
+qstr_Dux_Ordo_sancti_Johanni|Dux Ordo sancti Johannis Iaculator Arcoballista
+qstr_Duxes_Ordo_sancti_Joh|Duxes Ordo sancti Johannis Iaculatoris Arcoballistae
+qstr_Dux_Ordo_sancti_Johannis|Dux Ordo sancti Johannis armiger Eques
+qstr_Dux_Ordo_sancti_Johannis_|Dux Ordo sancti Johannis armigri Equites
+qstr_Dux_Ordo_sancti_Johannis_M|Dux Ordo sancti Johannis Miles nobilitas
+qstr_Dux_Ordo_sancti_Johannis_Mi|Dux Ordo sancti Johannis Milites nobiliti
+qstr_mercenaries_end|mercenaries end
+qstr_Baltischer_Dorfbewoh|Baltischer Dorfbewohner
+qstr_Baltische_Dorfbewohn|Baltische Dorfbewohner
+qstr_Gintus|Gintus
+qstr_Kareusnikis|Kareusnikis
+qstr_Kareusniku|Kareusniku
+qstr_Turkopol|Turkopol
+qstr_Turkopolen|Turkopolen
+qstr_Deutscher_Siedler|Deutscher Siedler
+qstr_Deutsche_Siedler|Deutsche Siedler
+qstr_Deutschordens_Guisar|Deutschordens-Guisarmier
+qstr_Deutschordens_Guisarm|Deutschordens-Guisarmiere
+qstr_Deutschordens_Sergen|Deutschordens-Sergent
+qstr_Deutschordens_Sergent|Deutschordens-Sergenten
+qstr_Deutschordens_Sarian|Deutschordens-Sariantbruder zu Fuß
+qstr_Deutschordens_Sariant|Deutschordens-Sariantbrüder zu Fuß
+qstr_Deutscher_Heerbann_F|Deutscher Heerbann-Fußsoldat
+qstr_Deutsche_Heerbann_Fu|Deutsche Heerbann-Fußsoldaten
+qstr_Deutscher_Bürger_Sp|Deutscher Bürger-Speerträger
+qstr_Deutsche_Bürger_Spe|Deutsche Bürger-Speeträger
+qstr_Deutschordens_Speert|Deutschordens-Speerträger
+qstr_Deutschordens_Speertr|Deutschordens-Speerträger-Veteran
+qstr_Deutschordens_Speertr�|Deutschordens-Speerträger-Veteranen
+qstr_Deutscher_Bürger_Ar|Deutscher Bürger-Armbrustschütze
+qstr_Deutsche_Bürger_Arm|Deutsche Bürger-Armbrustschützen
+qstr_Deutschordens_Armbru|Deutschordens-Armbrustschütze
+qstr_Deutschordens_Armbrus|Deutschordens-Armbrustschützen
+qstr_Deutschordens_Armbrust|Deutschordens-Armbrustschützen-Veteran
+qstr_Deutschordens_Armbrusts|Deutschordens-Armbrustschützen-Veteranen
+qstr_Deutschordens_Knecht|Deutschordens-Knecht
+qstr_Deutschordens_Knechte|Deutschordens-Knechte
+qstr_Deutschordens_Sergent_|Deutschordens-Sergent zu Pferd
+qstr_Deutschordens_Sergente|Deutschordens-Sergenten zu Pferd
+qstr_Deutschordens_Halbbr|Deutschordens-Halbbruder
+qstr_Deutschordens_Halbbr�|Deutschordens-Halbbrüder
+qstr_Deutschordens_Ritter|Deutschordens-Ritterbruder
+qstr_Deutschordens_Ritterb|Deutschordens-Ritterbrüder
+qstr_Deutschordens_Bote|Deutschordens-Bote
+qstr_Deutschordens_Boten|Deutschordens-Boten
+qstr_Deutschordens_Desert|Deutschordens-Deserteur
+qstr_Deutschordens_Deserte|Deutschordens-Deserteure
+qstr_Deutschordens_Kerker|Deutschordens-Kerkerwache
+qstr_Deutschordens_Kerkerw|Deutschordens-Kerkerwachen
+qstr_Shiine_Gishuun|Shiine Gishuun
+qstr_Budagch|Budagch
+qstr_Duulgat|Duulgat
+qstr_Num_Kharvaach|Num Kharvaach
+qstr_Mergen_Kharvaach|Mergen Kharvaach
+qstr_Khuiagt_Cereg|Khuiagt Cereg
+qstr_Ba_atur|Ba'atur
+qstr_Selyanin|Selyanin
+qstr_Selyani|Selyani
+qstr_Darvar_Strelets|Darvar Strelets
+qstr_Darvari_Streltsi|Darvari Streltsi
+qstr_Naimnij_Strelets|Naimnij Strelets
+qstr_Naimnije_Streltsi|Naimnije Streltsi
+qstr_Opitnij_Naimnij_Stre|Opitnij Naimnij Strelets
+qstr_Opitnije_Naimnije_St|Opitnije Naimnije Streltsi
+qstr_Darvar_Peshak|Darvar Peshak
+qstr_Darvari_Peshatsi|Darvari Peshatsi
+qstr_Naimnij_Sekironosets|Naimnij Sekironosets
+qstr_Naimnije_Sekironosts|Naimnije Sekironostsi
+qstr_Naimnij_Peshak|Naimnij Peshak
+qstr_Naimnije_Peshatsi|Naimnije Peshatsi
+qstr_Opitnij_Naimnij_Pesh|Opitnij Naimnij Peshak
+qstr_Opitnije_Naimnije_Pe|Opitnije Naimnije Peshatsi
+qstr_Akrit|Akrit
+qstr_Akriti|Akriti
+qstr_Opitnij_Akrit|Opitnij Akrit
+qstr_Opitnije_Akriti|Opitnije Akriti
+qstr_Grazhdanin|Grazhdanin
+qstr_Grazhdanije|Grazhdanije
+qstr_Gradski_Koppijnik|Gradski Koppijnik
+qstr_Gradskije_Kopijniki|Gradskije Kopijniki
+qstr_Gradskij_Opitnij_Kop|Gradskij Opitnij Kopijnik
+qstr_Gradskije_Opitnije_K|Gradskije Opitnije Kopijniki
+qstr_Shtitonosets_Kopijni|Shtitonosets Kopijnik
+qstr_Shtitonosetsi_Kopijn|Shtitonosetsi Kopijniki
+qstr_Gradskij_Strelets|Gradskij Strelets
+qstr_Gradskije_Streletsi|Gradskije Streletsi
+qstr_Opitnij_Gradskij_Str|Opitnij Gradskij Strelets
+qstr_Opitnije_Gradskije_S|Opitnije Gradskije Streltsi
+qstr_Shtitonosets_Strelet|Shtitonosets Strelets
+qstr_Shtitonostsi_Strelts|Shtitonostsi Streltsi
+qstr_Voi_Konnik|Voi Konnik
+qstr_Voie_Konniki|Voie Konniki
+qstr_Oklopnik|Oklopnik
+qstr_Oklopniki|Oklopniki
+qstr_Vitez|Vitez
+qstr_Vityazi|Vityazi
+qstr_Boyar|Boyar
+qstr_Boyari|Boyari
+qstr_Smerd|Smerd
+qstr_Smerdy|Smerdy
+qstr_Kmet|Kmet
+qstr_Kmeti|Kmeti
+qstr_Oruyeborets|Oruyeborets
+qstr_Oruyebortsi|Oruyebortsi
+qstr_Stariy_Oruyeborets|Stariy Oruyeborets
+qstr_Stariye_Oruyebortsi|Stariye Oruyebortsi
+qstr_Okhotnik|Okhotnik
+qstr_Okhotniki|Okhotniki
+qstr_Luchnik|Luchnik
+qstr_Luchniki|Luchniki
+qstr_Zastrelshik|Zastrelshik
+qstr_Zastrelshiki|Zastrelshiki
+qstr_Opolchenets|Opolchenets
+qstr_Opolchentsi|Opolchentsi
+qstr_Peshets|Peshets
+qstr_Peshtsi|Peshtsi
+qstr_Ratnik|Ratnik
+qstr_Ratniki|Ratniki
+qstr_Voin|Voin
+qstr_Voini|Voini
+qstr_Kopienosets|Kopienosets
+qstr_Kopienostsi|Kopienostsi
+qstr_Pantsirniy_Kopienose|Pantsirniy Kopienosets
+qstr_Pantsirniye_Kopienos|Pantsirniye Kopienostsi
+qstr_Vsadnik|Vsadnik
+qstr_Vsadniki|Vsadniki
+qstr_Otrok|Otrok
+qstr_Otroki|Otroki
+qstr_Druzhinnik|Druzhinnik
+qstr_Druzhinniki|Druzhinniki
+qstr_Boyarin|Boyarin
+qstr_Boyariye|Boyariye
+qstr_Húskarl|Húskarl
+qstr_Húskarlar|Húskarlar
+qstr_Býjarmaður|Býjarmaður
+qstr_Býjarmenn|Býjarmenn
+qstr_Hermaður|Hermaður
+qstr_Hermenn|Hermenn
+qstr_Þaulreyndur_Hermað|Þaulreyndur Hermaður
+qstr_Þaulreyndur_Hermenn|Þaulreyndur Hermenn
+qstr_Brynvarinn_Hermaður|Brynvarinn Hermaður
+qstr_Brynvarinn_Hermenn|Brynvarinn Hermenn
+qstr_Hirðmaður|Hirðmaður
+qstr_Hirðmenn|Hirðmenn
+qstr_Gestur|Gestur
+qstr_Gestir|Gestir
+qstr_Þaulreyndur_Gestur|Þaulreyndur Gestur
+qstr_Þaulreyndur_Gestir|Þaulreyndur Gestir
+qstr_Brynvarinn_Gestur|Brynvarinn Gestur
+qstr_Brynvarinn_Gestir|Brynvarinn Gestir
+qstr_Leiðangsmaður|Leiðangsmaður
+qstr_Leiðangsmenn|Leiðangsmenn
+qstr_Þaulreyndur_Leiðan|Þaulreyndur Leiðangsmaður
+qstr_Þaulreyndur_Leiðang|Þaulreyndur Leiðangsmenn
+qstr_Brynvarinn_Leiðangs|Brynvarinn Leiðangsmaður
+qstr_Brynvarinn_Leiðangsm|Brynvarinn Leiðangsmenn
+qstr_Lasbogamaður|Lasbogamaður
+qstr_Lasbogamenn|Lasbogamenn
+qstr_Þaulreyndur_Lasboga|Þaulreyndur Lasbogamaður
+qstr_Þaulreyndur_Lasbogam|Þaulreyndur Lasbogamenn
+qstr_Brynvarinn_Lasbogama|Brynvarinn Lasbogamaður
+qstr_Brynvarinn_Lasbogame|Brynvarinn Lasbogamenn
+qstr_Þaulreyndur_Bogama�|Þaulreyndur Bogamaður
+qstr_Þaulreyndur_Bogamen|Þaulreyndur Bogamenn
+qstr_Brynvarinn_Bogamaðu|Brynvarinn Bogamaður
+qstr_Brynvarinn_Bogamenn|Brynvarinn Bogamenn
+qstr_Konúngsmaður|Konúngsmaður
+qstr_Konúngsmenn|Konúngsmenn
+qstr_Kertilsveinn|Kertilsveinn
+qstr_Kertilsveinr|Kertilsveinr
+qstr_Skútilsveinn|Skútilsveinn
+qstr_Skútilsveinr|Skútilsveinr
+qstr_Lendur_Maður|Lendur Maður
+qstr_Lendir_Menn|Lendir Menn
+qstr_Kaimynas|Kaimynas
+qstr_Kaimynai|Kaimynai
+qstr_Pėstininkas|Pėstininkas
+qstr_Pėstininka|Pėstininka
+qstr_Šaulys|Šaulys
+qstr_Šiauliai|Šiauliai
+qstr_Kirvininkas|Kirvininkas
+qstr_Kirvininkai|Kirvininkai
+qstr_Kirvininkas_Veterana|Kirvininkas Veteranas
+qstr_Kirvininkai_Veterana|Kirvininkai Veteranai
+qstr_Ietininkas|Ietininkas
+qstr_Ietininkai|Ietininkai
+qstr_Ietininkas_Veteranas|Ietininkas Veteranas
+qstr_Veteranai_Ietininkai|Veteranai Ietininkai
+qstr_Lankininkas|Lankininkas
+qstr_Lankininkai|Lankininkai
+qstr_Lankininkas_Veterana|Lankininkas Veteranas
+qstr_Veteranai_Lankininka|Veteranai Lankininkai
+qstr_Akstininkas_|Akstininkas 
+qstr_Akstininkai|Akstininkai
+qstr_Akstininkas_Veterana|Akstininkas Veteranas
+qstr_Akstininkai_Veterana|Akstininkai Veteranai
+qstr_Mažasis_Bajoras|Mažasis Bajoras
+qstr_Mažieji_Bajorai|Mažieji Bajorai
+qstr_Raitas_Bajoras|Raitas Bajoras
+qstr_Raiti_Bajorai|Raiti Bajorai
+qstr_Raitas_Didysis_Bajor|Raitas Didysis Bajoras
+qstr_Raiti_Didieji_Bajora|Raiti Didieji Bajorai
+qstr_Raitas_Didžiūnas|Raitas Didžiūnas
+qstr_Raiti_Didžiūnai|Raiti Didžiūnai
+qstr_Bajoras|Bajoras
+qstr_Bajorai|Bajorai
+qstr_Didysis_Bajoras|Didysis Bajoras
+qstr_Didieji_Bajorai|Didieji Bajorai
+qstr_Didžiūnas|Didžiūnas
+qstr_Didžiūnai|Didžiūnai
+qstr_Awamm_Al_Magrib_Al_D|Awamm Al-Magrib Al-Dehat
+qstr_Husud_Al_Barbar_Spea|Husud Al-Barbar Spearman
+qstr_Husud_Al_Barbar_Spear|Husud Al-Barbar Spearmen
+qstr_Mutatawwi_a_Al_Barba|Mutatawwi'a Al-Barbar Spearman
+qstr_Mutatawwi_a_Al_Barbar|Mutatawwi'a Al-Barbar Spearmen
+qstr_Husud_Al_Magribi_Far|Husud Al-Magribi Faris
+qstr_Muqatila_Al_Arabiyyu|Muqatila Al-Arabiyyun Faris
+qstr_Shaykh_Al_Arabiyyun_|Shaykh Al-Arabiyyun Khayl
+qstr_Husud_Al_Barbar_Skir|Husud Al-Barbar Skirmisher
+qstr_Husud_Al_Barbar_Skirm|Husud Al-Barbar Skirmishers
+qstr_Jabaliyya_Al_Barbar_|Jabaliyya Al-Barbar Javelineer
+qstr_Jabaliyya_Al_Barbar_J|Jabaliyya Al-Barbar Javelineers
+qstr_Husud_Al_Barbar_Bowm|Husud Al-Barbar Bowman
+qstr_Husud_Al_Barbar_Bowme|Husud Al-Barbar Bowmen
+qstr_Awamm_Al_Magrib_Al_M|Awamm Al-Magrib Al-Medina
+qstr_Jund_Al_Medina_Arche|Jund Al-Medina Archer
+qstr_Jund_Al_Medina_Archer|Jund Al-Medina Archers
+qstr_Jund_Al_Andalusi_Cro|Jund Al-Andalusi Crossbowman
+qstr_Jund_Al_Andalusi_Cros|Jund Al-Andalusi Crossbowmen
+qstr_Jund_Al_Medina_Footm|Jund Al-Medina Footman
+qstr_Jund_Al_Medina_Footme|Jund Al-Medina Footmen
+qstr_Jund_Al_Andalusi_Foo|Jund Al-Andalusi Footman
+qstr_Jund_Al_Andalusi_Foot|Jund Al-Andalusi Footmen
+qstr_Kabila_Al_Barbar_Far|Kabila Al-Barbar Faris
+qstr_Murtaziqa_Al_Makhzan|Murtaziqa Al-Makhzan Faris
+qstr_Sharif_Al_Makhzan_Kh|Sharif Al-Makhzan Khayl
+qstr_Awamm_Al_Mashriq|Awamm Al Mashriq
+qstr_Mutatawwi_a_Infantry|Mutatawwi'a Infantry
+qstr_Fata_Al_Futuwwa_Infa|Fata Al-Futuwwa Infantry
+qstr_Fityan_Al_Futuwwa_In|Fityan Al-Futuwwa Infantry
+qstr_Jund_Al_Amir_Infantr|Jund Al-Amir Infantry
+qstr_Ajnad_Al_Umara_Infan|Ajnad Al-Umara Infantry
+qstr_Mutatawwi_a_Spearman|Mutatawwi'a Spearman
+qstr_Mutatawwi_a_Spearmen|Mutatawwi'a Spearmen
+qstr_Fata_Al_Futuwwa_Spea|Fata Al-Futuwwa Spearman
+qstr_Fityan_Al_Futuwwa_Sp|Fityan Al-Futuwwa Spearmen
+qstr_Jund_Al_Amir_Spearma|Jund Al-Amir Spearman
+qstr_Ajnad_Al_Umara_Spear|Ajnad Al-Umara Spearmen
+qstr_Jund_Al_Amir_Faris|Jund Al-Amir Faris
+qstr_Ajnad_Al_Umara_Fursa|Ajnad Al-Umara Fursan
+qstr_Jund_Al_Halqa_Faris|Jund Al-Halqa Faris
+qstr_Ajnad_Al_Halqa_Fursa|Ajnad Al-Halqa Fursan
+qstr_Mutatawwi_a_Archer|Mutatawwi'a Archer
+qstr_Mutatawwi_a_Archers|Mutatawwi'a Archers
+qstr_Fata_Al_Futuwwa_Arch|Fata Al-Futuwwa Archer
+qstr_Fityan_Al_Futuwwa_Ar|Fityan Al-Futuwwa Archers
+qstr_Jund_Al_Amir_Archer|Jund Al-Amir Archer
+qstr_Jund_Al_Amir_Archers|Jund Al-Amir Archers
+qstr_Turkoman|Turkoman
+qstr_Turkomans|Turkomans
+qstr_Mamluk_Al_Sighar_Al_|Mamluk Al-Sighar Al-Amir
+qstr_Mamalik_Al_Sighar_Al|Mamalik Al-Sighar Al-Umara
+qstr_Mamluk_Al_Kibar_Al_A|Mamluk Al-Kibar Al-Amir
+qstr_Mamalik_Al_Kibar_Al_|Mamalik Al-Kibar Al-Umara
+qstr_Mamluk_Al_Sultaniya|Mamluk Al-Sultaniya
+qstr_Mamalik_Al_Sultaniya|Mamalik Al-Sultaniya
+qstr_Mamluk_Al_Bahariyya|Mamluk Al-Bahariyya
+qstr_Mamalik_Al_Bahariyya|Mamalik Al-Bahariyya
+qstr_Raitas_Ietininkas|Raitas Ietininkas
+qstr_Raiti_Ietininkai|Raiti Ietininkai
+qstr_Leičių_Raitelis|Leičių Raitelis
+qstr_Leičių_Raiteliai|Leičių Raiteliai
+qstr_Leičių_Bajoras|Leičių Bajoras
+qstr_Leičių_Bajorai|Leičių Bajorai
+qstr_Chevalier|Chevalier
+qstr_Chevaliers|Chevaliers
+qstr_Welsh_Bowman|Welsh Bowman
+qstr_Welsh_Bowmen|Welsh Bowmen
+qstr_Genoese_Crossbowman|Genoese Crossbowman
+qstr_Genoese_Crossbowmen|Genoese Crossbowmen
+qstr_Varangian_Guard|Varangian Guard
+qstr_Varangian_Guards|Varangian Guards
+qstr_Scottish_Highlander|Scottish Highlander
+qstr_Scottish_Highlanders|Scottish Highlanders
+qstr_Bohemian_Rytir|Bohemian Rytir
+qstr_Bohemian_Rytirs|Bohemian Rytirs
+qstr_Danish_Axeman|Danish Axeman
+qstr_Danish_Axemen|Danish Axemen
+qstr_Gallóglach|Gallóglach
+qstr_Gallóglaigh|Gallóglaigh
+qstr_Light_Cavalryman|Light Cavalryman
+qstr_Light_Cavalrymen|Light Cavalrymen
+qstr_Paroikoi|Paroikoi
+qstr_Acontistae|Acontistae
+qstr_Peltastae|Peltastae
+qstr_Acritae|Acritae
+qstr_Toxotae|Toxotae
+qstr_Mourtati|Mourtati
+qstr_Polites|Polites
+qstr_Contarati|Contarati
+qstr_Scoutati_Spearman|Scoutati Spearman
+qstr_Scoutati_Spearmen|Scoutati Spearmen
+qstr_Veteran_Scoutati_Spe|Veteran Scoutati Spearman
+qstr_Scoutati_Swordsman|Scoutati Swordsman
+qstr_Scoutati_Swordsmen|Scoutati Swordsmen
+qstr_Hoplitae|Hoplitae
+qstr_Trapezitae|Trapezitae
+qstr_Cavalarii|Cavalarii
+qstr_Stratiotae|Stratiotae
+qstr_Cataphractoi|Cataphractoi
+qstr_Agricola|Agricola
+qstr_Agricolae|Agricolae
+qstr_Cives|Cives
+qstr_Civitas|Civitas
+qstr_Iaculator_de_Retroba|Iaculator de Retrobannum
+qstr_Iaculatores_de_Retro|Iaculatores de Retrobannum
+qstr_Sagittarius_de_Retro|Sagittarius de Retrobannum
+qstr_Sagittari_de_Retroba|Sagittari de Retrobannum
+qstr_Sagittarius_Masnadie|Sagittarius Masnadieri
+qstr_Sagittari_Masnadieri|Sagittari Masnadieri
+qstr_Pedes_de_Retrobannum|Pedes de Retrobannum
+qstr_Pedess_de_Retrobannu|Pedess de Retrobannum
+qstr_Pedes_Masnadieri|Pedes Masnadieri
+qstr_Pedess_Masnadieri|Pedess Masnadieri
+qstr_Pedes_Serviens|Pedes Serviens
+qstr_Pedess_Serviens|Pedess Serviens
+qstr_Hastatus_de_Plebis|Hastatus de Plebis
+qstr_Hastati_de_Plebis|Hastati de Plebis
+qstr_Pedes_de_Plebis|Pedes de Plebis
+qstr_Pedess_de_Plebis|Pedess de Plebis
+qstr_Hastatus_de_Communia|Hastatus de Communia
+qstr_Hastati_de_Communia|Hastati de Communia
+qstr_Hastatus_de_Fraterni|Hastatus de Fraternitas
+qstr_Hastati_de_Fraternit|Hastati de Fraternitas
+qstr_Pedes_de_Communia|Pedes de Communia
+qstr_Pedess_de_Communia|Pedess de Communia
+qstr_Pedes_de_Fraternitas|Pedes de Fraternitas
+qstr_Pedess_de_Fraternita|Pedess de Fraternitas
+qstr_Sagittarius_de_Plebi|Sagittarius de Plebis
+qstr_Sagittari_de_Plebis|Sagittari de Plebis
+qstr_Balistarius_de_Commu|Balistarius de Communia
+qstr_Balistari_de_Communi|Balistari de Communia 
+qstr_Balistarius_de_Frate|Balistarius de Fraternitas
+qstr_Balistari_de_Fratern|Balistari de Fraternitas
+qstr_Servien_Equites|Servien Equites
+qstr_Servientes_Equites|Servientes Equites
+qstr_Homine_Ad_Arma|Homine Ad Arma
+qstr_Homines_Ad_Arma|Homines Ad Arma
+qstr_Scutifer|Scutifer
+qstr_Scutiferi|Scutiferi
+qstr_Miles|Miles
+qstr_Milites|Milites
+qstr_Awamm_Dehat|Awamm Dehat
+qstr_Hillmen_Footman|Hillmen Footman
+qstr_Hillmen_Footmen|Hillmen Footmen
+qstr_Thagri_Footman|Thagri Footman
+qstr_Thagri_Footmen|Thagri Footmen
+qstr_Thagri_Spearman|Thagri Spearman
+qstr_Thagri_Spearmen|Thagri Spearmen
+qstr_Hillmen_Archer|Hillmen Archer
+qstr_Hillmen_Archers|Hillmen Archers
+qstr_Thagri_Archer|Thagri Archer
+qstr_Thagri_Archers|Thagri Archers
+qstr_Hillmen_Crossbowman|Hillmen Crossbowman
+qstr_Hillmen_Crossbowmen|Hillmen Crossbowmen
+qstr_Thagri_Crossbowman|Thagri Crossbowman
+qstr_Thagri_Crossbowmen|Thagri Crossbowmen
+qstr_Awamm_Medina|Awamm Medina
+qstr_Husud_Footman|Husud Footman
+qstr_Husud_Footmen|Husud Footmen
+qstr_Jundi_Mutadawwan_Inf|Jundi Mutadawwan Infantry
+qstr_Murtaziqa_Infantry|Murtaziqa Infantry
+qstr_Husud_Spearman|Husud Spearman
+qstr_Husud_Spearmen|Husud Spearmen
+qstr_Jundi_Spearman|Jundi Spearman
+qstr_Jundi_Spearmen|Jundi Spearmen
+qstr_Murtaziqa_Spearman|Murtaziqa Spearman
+qstr_Murtaziqa_Spearmen|Murtaziqa Spearmen
+qstr_Husud_Crossbowman|Husud Crossbowman
+qstr_Husud_Crossbowmen|Husud Crossbowmen
+qstr_Jundi_Crossbowman|Jundi Crossbowman
+qstr_Jundi_Crossbowmen|Jundi Crossbowmen
+qstr_Murtaziqa_Crossbowma|Murtaziqa Crossbowman
+qstr_Murtaziqa_Crossbowme|Murtaziqa Crossbowmen
+qstr_Andalusian_Light_Hor|Andalusian Light Horseman
+qstr_Andalusian_Light_Hors|Andalusian Light Horsemen
+qstr_Andalusian_Horseman|Andalusian Horseman
+qstr_Andalusian_Horsemen|Andalusian Horsemen
+qstr_Andalusian_Heavy_Hor|Andalusian Heavy Horseman
+qstr_Andalusian_Heavy_Hors|Andalusian Heavy Horsemen
+qstr_Andalusian_Knight|Andalusian Knight
+qstr_Andalusian_Knights|Andalusian Knights
+qstr_Gairmsluaigh_Levy|Gairmsluaigh Levy
+qstr_Ceithernach_Infantry|Ceithernach Infantry
+qstr_Ceithern_Tigh_Infant|Ceithern Tigh Infantry
+qstr_Cliathaire_Infantry|Cliathaire Infantry
+qstr_Ceithern_Tigh_Hastat|Ceithern Tigh Hastatus
+qstr_Ceithern_Tigh_Hastati|Ceithern Tigh Hastati
+qstr_Cliathairse_Hastatus|Cliathairse Hastatus
+qstr_Cliathairse_Hastati|Cliathairse Hastati
+qstr_Ceithernach_Boghadai|Ceithernach Boghadair
+qstr_Ceithern_Tigh_Boghad|Ceithern Tigh Boghadair
+qstr_Sgiathadair_Ritire|Sgiathadair Ritire
+qstr_Sgiathadairi_Ritire|Sgiathadairi Ritire
+qstr_Ceithernach_Ritire|Ceithernach Ritire
+qstr_Teaglach_Ritire|Teaglach Ritire
+qstr_Lucht_Tighe_Ritire|Lucht Tighe Ritire
+qstr_Paroikos_Anatolikon|Paroikos Anatolikon
+qstr_Paroikoi_Anatolikon|Paroikoi Anatolikon
+qstr_Polites_Anatolikon|Polites Anatolikon
+qstr_Politi_Anatolikon|Politi Anatolikon
+qstr_Hai_Ramik_Nizagamart|Hai Ramik Nizagamartik †
+qstr_Hayasdan_Ramik_Nizag|Hayasdan Ramik Nizagamartik
+qstr_Hai_Vahani_Bernakir_|Hai Vahani-Bernakir Nizagamartik †
+qstr_Hayasdan_Vahani_Bern|Hayasdan Vahani-Bernakir Nizagamartik
+qstr_Hai_Krtser_Azat_Niza|Hai Krtser-Azat Nizagamartik †
+qstr_Hayasdan_Krtser_Azat|Hayasdan Krtser-Azat Nizagamartik
+qstr_Hai_Ramik_Netadzik_�|Hai Ramik Netadzik †
+qstr_Hayasdan_Ramik_Netad|Hayasdan Ramik Netadzik
+qstr_Hai_Vahani_Bernakir_N|Hai Vahani-Bernakir Netadzik †
+qstr_Hayasdan_Vahani_Berna|Hayasdan Vahani-Bernakir Netadzik
+qstr_Hai_Krtser_Azat_Neta|Hai Krtser-Azat Netadzik †
+qstr_Hayasdan_Krtser_Azat_|Hayasdan Krtser-Azat Netadzik
+qstr_Fata_Infantry|Fata Infantry
+qstr_Fityan_Infantry|Fityan Infantry
+qstr_Igdish_Infantry|Igdish Infantry
+qstr_Jira_Khvar_Infantry|Jira Khvar Infantry
+qstr_Ghazi_Infantry|Ghazi Infantry
+qstr_Ghuzat_Infantry|Ghuzat Infantry
+qstr_Jabaliyyun_Archer|Jabaliyyun Archer
+qstr_Jabaliyyun_Archers|Jabaliyyun Archers
+qstr_Jira_Khvar_Crossbowm|Jira Khvar Crossbowman
+qstr_Jira_Khvar_Crossbowme|Jira Khvar Crossbowmen
+qstr_Mourtatoi_Anatolikon|Mourtatoi Anatolikon Cavallarii
+qstr_Mourtatos_Anatolikon|Mourtatos Anatolikon Cavallarii
+qstr_Jira_Khvar_Faris|Jira Khvar Faris
+qstr_Havashi_Khayl|Havashi Khayl
+qstr_Ghulam_Al_Jandar|Ghulam Al-Jandar
+qstr_Hai_Ramikspas_Ayrudz|Hai Ramikspas Ayrudzi
+qstr_Hayasdan_Ramikspas_A|Hayasdan Ramikspas Ayrudzi
+qstr_Hai_Azatugund_Ayrudz|Hai Azatugund Ayrudzi
+qstr_Hayasdan_Azatugund_A|Hayasdan Azatugund Ayrudzi
+qstr_Hai_Aspet|Hai Aspet
+qstr_Hayasdan_Aspet|Hayasdan Aspet
+qstr_Nativi_Pedes|Nativi Pedes
+qstr_Servitium_Forensicum|Servitium Forensicum Sagittarius
+qstr_Servitium_Forensicum_|Servitium Forensicum Sagittari
+qstr_Servitium_Forensicum_H|Servitium Forensicum Hastatus
+qstr_Servitium_Forensicum_Ha|Servitium Forensicum Hastati
+qstr_Scottis_Clann|Scottis Clann
+qstr_Gall_Òglaich_Spatha|Gall-Òglaich Spatharius
+qstr_Gall_Òglaichean_Spa|Gall-Òglaichean Spathari
+qstr_Gall_Òglaich_Axeman|Gall-Òglaich Axeman
+qstr_Gall_Òglaichean_Axe|Gall-Òglaichean Axemen
+qstr_Pedes_de_Cives|Pedes de Cives
+qstr_Pedi_de_Cives|Pedi de Cives
+qstr_Retrobannum_Pedes|Retrobannum Pedes
+qstr_Vicanus_Sagittarius_|Vicanus Sagittarius Militaris
+qstr_Vicani_Sagittarii_Mi|Vicani Sagittarii Militares
+qstr_Vicanus_Sagittarius_M|Vicanus Sagittarius Militaris Veteranus
+qstr_Vicani_Sagittarii_Mil|Vicani Sagittarii Militares Veterani
+qstr_Oppidanus_Iaculator_|Oppidanus Iaculator Arcoballista Militaris
+qstr_Oppidani_Iaculatoris|Oppidani Iaculatoris Acroballistae Militares
+qstr_Oppidanus_Iaculator_A|Oppidanus Iaculator Arcoballista Militaris Veteranus
+qstr_Oppidani_Iaculatoris_|Oppidani Iaculatoris Acroballistae Militares Veterani
+qstr_Dux_Iaculator_Arcoba|Dux Iaculator Arcoballista Militaris
+qstr_Duxes_Iaculatoris_Ar|Duxes Iaculatoris Arcoballista Militares
+qstr_Oppidanus_Hastatus_M|Oppidanus Hastatus Militaris
+qstr_Oppidani_Hastati_Mil|Oppidani Hastati Militares
+qstr_Oppidanus_Hastatus_Mi|Oppidanus Hastatus Militaris Veteranus
+qstr_Oppidani_Hastati_Mili|Oppidani Hastati Militares Veterani
+qstr_Dux_Hastatus_Militari|Dux Hastatus Militaris
+qstr_Duxes_Hastati_Militar|Duxes Hastati Militares
+qstr_Oppidanus_Miles_Glad|Oppidanus Miles Gladius Portat Militaris
+qstr_Oppidani_Milites_Gla|Oppidani Milites Gladii Portant Militares
+qstr_Oppidanus_Miles_Gladi|Oppidanus Miles Gladius Portat Militaris Veteranus
+qstr_Oppidani_Milites_Glad|Oppidani Milites Gladii Portant Militares Veterani
+qstr_Dux_Miles_Gladius_Po|Dux Miles Gladius Portat Militaris
+qstr_Duxes_Milites_Gladii|Duxes Milites Gladii Portant Militares
+qstr_Miles_Pro_Communitas|Miles Pro Communitas
+qstr_Milites_pro_Communit|Milites pro Communitas
+qstr_Vicanus_Gisarme_Mili|Vicanus Gisarme Militaris
+qstr_Vicani_Gisarme_Milit|Vicani Gisarme Militares
+qstr_Vicanus_Gisarme_Milit|Vicanus Gisarme Militaris Veteranus
+qstr_Vicani_Gisarme_Milita|Vicani Gisarme Militares Veterani
+qstr_Dux_Gisarme_Militaris|Dux Gisarme Militaris
+qstr_Duxes_Gisarme_Militar|Duxes Gisarme Militares
+qstr_Servio_Eques|Servio Eques
+qstr_Servimus_Equites|Servimus Equites
+qstr_Homo_Armatus|Homo Armatus
+qstr_Homines_Armati|Homines Armati
+qstr_Armiger_Eques|Armiger Eques
+qstr_Armigri_Equites|Armigri Equites
+qstr_Fur|Fur
+qstr_Fures|Fures
+qstr_Latro|Latro
+qstr_Latrones|Latrones
+qstr_Peasant_Rebel|Peasant Rebel
+qstr_Peasant_Rebels|Peasant Rebels
+qstr_Rebellion_Leader|Rebellion Leader
+qstr_Rebellion_Leaders|Rebellion Leaders
+qstr_Bandit|Bandit
+qstr_Bandits|Bandits
+qstr_Brigand|Brigand
+qstr_Brigands|Brigands
+qstr_Latruncularius|Latruncularius
+qstr_Latruncularii|Latruncularii
+qstr_Silva_Sicarius|Silva Sicarius
+qstr_Pirata|Pirata
+qstr_Piratae|Piratae
+qstr_Sicarius_Orientis|Sicarius Orientis
+qstr_Sicarii_Orientis|Sicarii Orientis
+qstr_Sicarius_Borealis|Sicarius Borealis
+qstr_Sicarii_Borealis|Sicarii Borealis
+qstr_Sicarius_Vastus|Sicarius Vastus
+qstr_Sicarii_Vasti|Sicarii Vasti
+qstr_Libertus__inf_|Libertus (inf)
+qstr_Liberti__inf_|Liberti (inf)
+qstr_Non_Didicit_Sagittari|Non Didicit Sagittarius (rng)
+qstr_Non_Didicerunt_Sagitt|Non Didicerunt Sagittarii (rng)
+qstr_Miles_Absolvitur__in|Miles Absolvitur (inf)
+qstr_Milites_Absolvuntur_|Milites Absolvuntur (inf)
+qstr_Machaerophorus_Milita|Machaerophorus Militaris Veteranus Absolvitur (inf)
+qstr_Machaerophori_Militar|Machaerophori Militares Veterani Absolvuntur (inf)
+qstr_Gisarme_Militaris_Abs|Gisarme Militaris Absolvitur (inf)
+qstr_Gisarme_Militares_Abs|Gisarme Militares Absolvuntur (inf)
+qstr_Hastatus_Militaris_Ab|Hastatus Militaris Absolvitur (inf)
+qstr_Hastati_Militares_Abs|Hastati Militares Absolvuntur (inf)
+qstr_Iaculator_Arcoballist|Iaculator Arcoballista Militaris Absolvitur (rng)
+qstr_Iaculatoris_Acroballi|Iaculatoris Acroballistae Militares Absolvuntur (rng)
+qstr_Sagittarius_Militaris|Sagittarius Militaris Absolvitur (rng)
+qstr_Sagittari_Militares_A|Sagittari Militares Absolvuntur (rng)
+qstr_Dux_Gisarme_Militaris_|Dux Gisarme Militaris Absolvitur (inf)
+qstr_Duxes_Gisarme_Militare|Duxes Gisarme Militares Absolvuntur (inf)
+qstr_Dux_Machaerophorus_Mi|Dux Machaerophorus Militaris Absolvitur (inf)
+qstr_Duxes_Machaerophori_M|Duxes Machaerophori Militares Absolvuntur (inf)
+qstr_Dux_Hastatus_Militaris|Dux Hastatus Militaris Absolvitur (inf)
+qstr_Duxes_Hastati_Militare|Duxes Hastati Militares Absolvuntur (inf)
+qstr_Dux_Iaculator_Militar|Dux Iaculator Militaris Absolvitur (rng)
+qstr_Duxes_Iaculatoris_Mil|Duxes Iaculatoris Militares Absolvuntur (rng)
+qstr_Eques_Absolvitur__ca|Eques Absolvitur (cav)
+qstr_Equites_Absolvuntur_|Equites Absolvuntur (cav)
+qstr_Armatus_Eques_Absolvi|Armatus Eques Absolvitur (cav)
+qstr_Armati_Equites_Absolv|Armati Equites Absolvuntur (cav)
+qstr_Armiger_Eques_Absolvi|Armiger Eques Absolvitur (cav)
+qstr_Armigri_Equites_Absol|Armigri Equites Absolvuntur (cav)
+qstr_Nobilitas_Eques_Vehit|Nobilitas Eques Vehitur (cav)
+qstr_Nobiliti_Equites_Vehu|Nobiliti Equites Vehuntur (cav)
+qstr_Jund_Al_Siqilliyya_Ram|Jund Al-Siqilliyya Rami (rng)
+qstr_Jund_Al_Siqilliyya_Rum|Jund Al-Siqilliyya Rumat (rng)
+qstr_Khassakiyya_Al_Siqilli|Khassakiyya Al-Siqilliyya Rami (rng)
+qstr_Khassakiyya_Al_Siqilliy|Khassakiyya Al-Siqilliyya Rumat (rng)
+qstr_Jund_Al_Siqilliyya_Fa|Jund Al-Siqilliyya Faris (cav)
+qstr_Khassakiya_Al_Siqilliy|Khassakiya Al-Siqilliyya Faris (cav)
+qstr_Jund_Al_Siqilliyya_Raj|Jund Al-Siqilliyya Rajjala (inf)
+qstr_Khassakiya_Al_Siqilliyy|Khassakiya Al-Siqilliyya Rajjala (inf)
+qstr_Hasham_Al_Zanata_Fari|Hasham Al-Zanata Faris (cav)
+qstr_Hasham_Al_Maghrib_Raj|Hasham Al-Maghrib Rajjala (inf)
+qstr_Brabantine_Iaculator_|Brabantine Iaculator Arcoballista (rng)
+qstr_Brabantine_Iaculatoris|Brabantine Iaculatoris Arcoballistae (rng)
+qstr_Brabantine_Hastatus_M|Brabantine Hastatus Militaris (inf)
+qstr_Brabantine_Hastati_Mi|Brabantine Hastati Militares (inf)
+qstr_Brabantine_Gisarme__|Brabantine Gisarme (inf)
+qstr_Cymry_Saethydd__rng_|Cymry Saethydd (rng)
+qstr_Kern_Solidarius__inf|Kern Solidarius (inf)
+qstr_Kern_Solidari__inf_|Kern Solidari (inf)
+qstr_Almogabar__rng_|Almogabar (rng)
+qstr_Almogabars__rng_|Almogabars (rng)
+qstr_Cuman_Tribesman__cav|Cuman Tribesman (cav)
+qstr_Cuman_Tribesmen__cav|Cuman Tribesmen (cav)
+qstr_Cuman_Skirmisher__ca|Cuman Skirmisher (cav)
+qstr_Cuman_Skirmishers__c|Cuman Skirmishers (cav)
+qstr_Cuman_Horseman__cav_|Cuman Horseman (cav)
+qstr_Cuman_Horsemen__cav_|Cuman Horsemen (cav)
+qstr_Cuman_Horse_Archer__|Cuman Horse Archer (cav)
+qstr_Cuman_Horse_Archers_|Cuman Horse Archers (cav)
+qstr_Cuman_Veteran_Horse_Ar|Cuman Veteran Horse Archer (cav)
+qstr_Cuman_Veteran_Horse_Arc|Cuman Veteran Horse Archers (cav)
+qstr_Cuman_Lancer__cav_|Cuman Lancer (cav)
+qstr_Cuman_Lancers__cav_|Cuman Lancers (cav)
+qstr_Cuman_Heavy_Lancer__|Cuman Heavy Lancer (cav)
+qstr_Cuman_Heavy_Lancers_|Cuman Heavy Lancers (cav)
+qstr_Gall_Gaedhil_Hastatus|Gall-Gaedhil Hastatus (inf)
+qstr_Gall_Gaedhil_Hastati_|Gall-Gaedhil Hastati (inf)
+qstr_Gall_Gaedhil_Spathariu|Gall-Gaedhil Spatharius (inf)
+qstr_Gall_Gaedhil_Spathari_|Gall-Gaedhil Spathari (inf)
+qstr_Gall_Gaedhil_Tuanaght|Gall-Gaedhil Tuanaghta (inf)
+qstr_Gall_Oglaich_Spathariu|Gall-Oglaich Spatharius (inf)
+qstr_Gall_Oglaich_Spathari_|Gall-Oglaich Spathari (inf)
+qstr_Gall_Oglaich_Tuanaght|Gall-Oglaich Tuanaghta (inf)
+qstr_Turcopole__cav_|Turcopole (cav)
+qstr_Turcopoles__cav_|Turcopoles (cav)
+qstr_Dux_Ordo_Templique_Salomoni|Dux Ordo Templique Salomonis Iaculator arcoballista (rng)
+qstr_Duxes_Ordo_Templique_Sa|Duxes Ordo Templique Salomonis Iaculatoris acroballistae (rng)
+qstr_Dux_Ordo_Templique_Salomonis|Dux Ordo Templique Salomonis Machaerophorus militaris (inf)
+qstr_Dux_Ordo_Templique_Salomonis_|Dux Ordo Templique Salomonis Salomonis Machaerophori militares (inf)
+qstr_Dux_Ordo_Templique_Salomonis_H|Dux Ordo Templique Salomonis Hastatus (inf)
+qstr_Duxes_Ordo_Templique_Sal|Duxes Ordo Templique Salomonis Hastati (inf)
+qstr_Dux_Ordo_Templique_Salomonis_a|Dux Ordo Templique Salomonis armiger Eques (cav)
+qstr_Duxes_Ordo_Templique_Salo|Duxes Ordo Templique Salomonis armigri Equites (cav)
+qstr_Dux_Ordo_Templique_Salomonis_M|Dux Ordo Templique Salomonis Miles nobilitas (cav)
+qstr_Dux_Ordo_Templique_Salomonis_Mi|Dux Ordo Templique Salomonis Milites nobiliti (cav)
+qstr_Dux_Ordo_sancti_Johannis_Ma|Dux Ordo sancti Johannis Machaerophorus militaris (inf)
+qstr_Duxes_Ordo_sancti_Joha|Duxes Ordo sancti Johannis Machaerophori militares (inf)
+qstr_Dux_Ordo_sancti_Johannis_H|Dux Ordo sancti Johannis Hastatus militaris (inf)
+qstr_Dux_Ordo_sancti_Johannis_Ha|Dux Ordo sancti Johannis Hastati militares (inf)
+qstr_Dux_Ordo_sancti_Johannis_I|Dux Ordo sancti Johannis Iaculator Arcoballista (rng)
+qstr_Duxes_Ordo_sancti_Johan|Duxes Ordo sancti Johannis Iaculatoris Arcoballistae (rng)
+qstr_Dux_Ordo_sancti_Johannis_a|Dux Ordo sancti Johannis armiger Eques (cav)
+qstr_Dux_Ordo_sancti_Johannis_ar|Dux Ordo sancti Johannis armigri Equites (cav)
+qstr_Dux_Ordo_sancti_Johannis_Mil|Dux Ordo sancti Johannis Miles nobilitas (cav)
+qstr_Dux_Ordo_sancti_Johannis_Mili|Dux Ordo sancti Johannis Milites nobiliti (cav)
+qstr_mercenaries_end__cav|mercenaries end (cav)
+qstr_Baltischer_Dorfbewohn|Baltischer Dorfbewohner (inf)
+qstr_Baltische_Dorfbewohne|Baltische Dorfbewohner (inf)
+qstr_Gintus__rng_|Gintus (rng)
+qstr_Kareusnikis__rng_|Kareusnikis (rng)
+qstr_Kareusniku__rng_|Kareusniku (rng)
+qstr_Turkopol__cav_|Turkopol (cav)
+qstr_Turkopolen__cav_|Turkopolen (cav)
+qstr_Deutscher_Siedler__i|Deutscher Siedler (inf)
+qstr_Deutsche_Siedler__in|Deutsche Siedler (inf)
+qstr_Deutschordens_Guisarmi|Deutschordens-Guisarmier (inf)
+qstr_Deutschordens_Guisarmie|Deutschordens-Guisarmiere (inf)
+qstr_Deutschordens_Sergent__|Deutschordens-Sergent (inf)
+qstr_Deutschordens_Sergenten|Deutschordens-Sergenten (inf)
+qstr_Deutschordens_Sariantb|Deutschordens-Sariantbruder zu Fuß (inf)
+qstr_Deutschordens_Sariantbr|Deutschordens-Sariantbrüder zu Fuß (inf)
+qstr_Deutscher_Heerbann_Fu|Deutscher Heerbann-Fußsoldat (inf)
+qstr_Deutsche_Heerbann_Fu�|Deutsche Heerbann-Fußsoldaten (inf)
+qstr_Deutscher_Bürger_Spe|Deutscher Bürger-Speerträger (inf)
+qstr_Deutsche_Bürger_Spee|Deutsche Bürger-Speeträger (inf)
+qstr_Deutschordens_Speerträ|Deutschordens-Speerträger (inf)
+qstr_Deutschordens_Speerträg|Deutschordens-Speerträger-Veteran (inf)
+qstr_Deutschordens_Speerträge|Deutschordens-Speerträger-Veteranen (inf)
+qstr_Deutscher_Bürger_Arm|Deutscher Bürger-Armbrustschütze (rng)
+qstr_Deutsche_Bürger_Armb|Deutsche Bürger-Armbrustschützen (rng)
+qstr_Deutschordens_Armbrustsc|Deutschordens-Armbrustschütze (rng)
+qstr_Deutschordens_Armbrustsch|Deutschordens-Armbrustschützen (rng)
+qstr_Deutschordens_Armbrustsch�|Deutschordens-Armbrustschützen-Veteran (rng)
+qstr_Deutschordens_Armbrustschü|Deutschordens-Armbrustschützen-Veteranen (rng)
+qstr_Deutschordens_Knecht_|Deutschordens-Knecht (cav)
+qstr_Deutschordens_Knechte_|Deutschordens-Knechte (cav)
+qstr_Deutschordens_Sergent_z|Deutschordens-Sergent zu Pferd (cav)
+qstr_Deutschordens_Sergenten_|Deutschordens-Sergenten zu Pferd (cav)
+qstr_Deutschordens_Halbbru|Deutschordens-Halbbruder (cav)
+qstr_Deutschordens_Halbbrü|Deutschordens-Halbbrüder (cav)
+qstr_Deutschordens_Ritterbr|Deutschordens-Ritterbruder (cav)
+qstr_Deutschordens_Ritterbr�|Deutschordens-Ritterbrüder (cav)
+qstr_Shiine_Gishuun__cav_|Shiine Gishuun (cav)
+qstr_Budagch__cav_|Budagch (cav)
+qstr_Duulgat__cav_|Duulgat (cav)
+qstr_Num_Kharvaach__cav_|Num Kharvaach (cav)
+qstr_Mergen_Kharvaach__ca|Mergen Kharvaach (cav)
+qstr_Khuiagt_Cereg__cav_|Khuiagt Cereg (cav)
+qstr_Ba_atur__cav_|Ba'atur (cav)
+qstr_Selyanin__inf_|Selyanin (inf)
+qstr_Selyani__inf_|Selyani (inf)
+qstr_Darvar_Strelets__rng|Darvar Strelets (rng)
+qstr_Darvari_Streltsi__rn|Darvari Streltsi (rng)
+qstr_Naimnij_Strelets__rn|Naimnij Strelets (rng)
+qstr_Naimnije_Streltsi__r|Naimnije Streltsi (rng)
+qstr_Opitnij_Naimnij_Strel|Opitnij Naimnij Strelets (rng)
+qstr_Opitnije_Naimnije_Str|Opitnije Naimnije Streltsi (rng)
+qstr_Darvar_Peshak__inf_|Darvar Peshak (inf)
+qstr_Darvari_Peshatsi__in|Darvari Peshatsi (inf)
+qstr_Naimnij_Sekironosets_|Naimnij Sekironosets (inf)
+qstr_Naimnije_Sekironostsi|Naimnije Sekironostsi (inf)
+qstr_Naimnij_Peshak__inf_|Naimnij Peshak (inf)
+qstr_Naimnije_Peshatsi__i|Naimnije Peshatsi (inf)
+qstr_Opitnij_Naimnij_Pesha|Opitnij Naimnij Peshak (inf)
+qstr_Opitnije_Naimnije_Pes|Opitnije Naimnije Peshatsi (inf)
+qstr_Akrit__rng_|Akrit (rng)
+qstr_Akriti__rng_|Akriti (rng)
+qstr_Opitnij_Akrit__rng_|Opitnij Akrit (rng)
+qstr_Opitnije_Akriti__rng|Opitnije Akriti (rng)
+qstr_Grazhdanin__inf_|Grazhdanin (inf)
+qstr_Grazhdanije__inf_|Grazhdanije (inf)
+qstr_Gradski_Koppijnik__i|Gradski Koppijnik (inf)
+qstr_Gradskije_Kopijniki_|Gradskije Kopijniki (inf)
+qstr_Gradskij_Opitnij_Kopi|Gradskij Opitnij Kopijnik (inf)
+qstr_Gradskije_Opitnije_Ko|Gradskije Opitnije Kopijniki (inf)
+qstr_Shtitonosets_Kopijnik|Shtitonosets Kopijnik (inf)
+qstr_Shtitonosetsi_Kopijni|Shtitonosetsi Kopijniki (inf)
+qstr_Gradskij_Strelets__r|Gradskij Strelets (rng)
+qstr_Gradskije_Streletsi_|Gradskije Streletsi (rng)
+qstr_Opitnij_Gradskij_Stre|Opitnij Gradskij Strelets (rng)
+qstr_Opitnije_Gradskije_St|Opitnije Gradskije Streltsi (rng)
+qstr_Shtitonosets_Strelets|Shtitonosets Strelets (rng)
+qstr_Shtitonostsi_Streltsi|Shtitonostsi Streltsi (rng)
+qstr_Voi_Konnik__cav_|Voi Konnik (cav)
+qstr_Voie_Konniki__cav_|Voie Konniki (cav)
+qstr_Oklopnik__cav_|Oklopnik (cav)
+qstr_Oklopniki__cav_|Oklopniki (cav)
+qstr_Vitez__cav_|Vitez (cav)
+qstr_Vityazi__cav_|Vityazi (cav)
+qstr_Boyar__cav_|Boyar (cav)
+qstr_Boyari__cav_|Boyari (cav)
+qstr_Smerd__inf_|Smerd (inf)
+qstr_Smerdy__inf_|Smerdy (inf)
+qstr_Kmet__inf_|Kmet (inf)
+qstr_Kmeti__inf_|Kmeti (inf)
+qstr_Oruyeborets__inf_|Oruyeborets (inf)
+qstr_Oruyebortsi__inf_|Oruyebortsi (inf)
+qstr_Stariy_Oruyeborets__|Stariy Oruyeborets (inf)
+qstr_Stariye_Oruyebortsi_|Stariye Oruyebortsi (inf)
+qstr_Okhotnik__rng_|Okhotnik (rng)
+qstr_Okhotniki__rng_|Okhotniki (rng)
+qstr_Luchnik__rng_|Luchnik (rng)
+qstr_Luchniki__rng_|Luchniki (rng)
+qstr_Zastrelshik__rng_|Zastrelshik (rng)
+qstr_Zastrelshiki__rng_|Zastrelshiki (rng)
+qstr_Opolchenets__inf_|Opolchenets (inf)
+qstr_Opolchentsi__inf_|Opolchentsi (inf)
+qstr_Peshets__inf_|Peshets (inf)
+qstr_Peshtsi__inf_|Peshtsi (inf)
+qstr_Ratnik__inf_|Ratnik (inf)
+qstr_Ratniki__inf_|Ratniki (inf)
+qstr_Voin__inf_|Voin (inf)
+qstr_Voini__inf_|Voini (inf)
+qstr_Kopienosets__inf_|Kopienosets (inf)
+qstr_Kopienostsi__inf_|Kopienostsi (inf)
+qstr_Pantsirniy_Kopienoset|Pantsirniy Kopienosets (inf)
+qstr_Pantsirniye_Kopienost|Pantsirniye Kopienostsi (inf)
+qstr_Vsadnik__cav_|Vsadnik (cav)
+qstr_Vsadniki__cav_|Vsadniki (cav)
+qstr_Otrok__cav_|Otrok (cav)
+qstr_Otroki__cav_|Otroki (cav)
+qstr_Druzhinnik__cav_|Druzhinnik (cav)
+qstr_Druzhinniki__cav_|Druzhinniki (cav)
+qstr_Boyarin__cav_|Boyarin (cav)
+qstr_Boyariye__cav_|Boyariye (cav)
+qstr_Húskarl__inf_|Húskarl (inf)
+qstr_Húskarlar__inf_|Húskarlar (inf)
+qstr_Býjarmaður__inf_|Býjarmaður (inf)
+qstr_Býjarmenn__inf_|Býjarmenn (inf)
+qstr_Hermaður__inf_|Hermaður (inf)
+qstr_Hermenn__inf_|Hermenn (inf)
+qstr_Þaulreyndur_Hermaðu|Þaulreyndur Hermaður (inf)
+qstr_Þaulreyndur_Hermenn_|Þaulreyndur Hermenn (inf)
+qstr_Brynvarinn_Hermaður_|Brynvarinn Hermaður (inf)
+qstr_Brynvarinn_Hermenn__|Brynvarinn Hermenn (inf)
+qstr_Hirðmaður__inf_|Hirðmaður (inf)
+qstr_Hirðmenn__inf_|Hirðmenn (inf)
+qstr_Gestur__inf_|Gestur (inf)
+qstr_Gestir__inf_|Gestir (inf)
+qstr_Þaulreyndur_Gestur_|Þaulreyndur Gestur (inf)
+qstr_Þaulreyndur_Gestir_|Þaulreyndur Gestir (inf)
+qstr_Brynvarinn_Gestur__i|Brynvarinn Gestur (inf)
+qstr_Brynvarinn_Gestir__i|Brynvarinn Gestir (inf)
+qstr_Leiðangsmaður__inf|Leiðangsmaður (inf)
+qstr_Leiðangsmenn__inf_|Leiðangsmenn (inf)
+qstr_Þaulreyndur_Leiðangs|Þaulreyndur Leiðangsmaður (inf)
+qstr_Þaulreyndur_Leiðangsm|Þaulreyndur Leiðangsmenn (inf)
+qstr_Brynvarinn_Leiðangsma|Brynvarinn Leiðangsmaður (inf)
+qstr_Brynvarinn_Leiðangsme|Brynvarinn Leiðangsmenn (inf)
+qstr_Lasbogamaður__rng_|Lasbogamaður (rng)
+qstr_Lasbogamenn__rng_|Lasbogamenn (rng)
+qstr_Þaulreyndur_Lasbogama|Þaulreyndur Lasbogamaður (rng)
+qstr_Þaulreyndur_Lasbogame|Þaulreyndur Lasbogamenn (rng)
+qstr_Brynvarinn_Lasbogama�|Brynvarinn Lasbogamaður (rng)
+qstr_Brynvarinn_Lasbogamen|Brynvarinn Lasbogamenn (rng)
+qstr_Þaulreyndur_Bogamað|Þaulreyndur Bogamaður (rng)
+qstr_Þaulreyndur_Bogamenn|Þaulreyndur Bogamenn (rng)
+qstr_Brynvarinn_Bogamaður|Brynvarinn Bogamaður (rng)
+qstr_Brynvarinn_Bogamenn_|Brynvarinn Bogamenn (rng)
+qstr_Konúngsmaður__cav_|Konúngsmaður (cav)
+qstr_Konúngsmenn__cav_|Konúngsmenn (cav)
+qstr_Kertilsveinn__cav_|Kertilsveinn (cav)
+qstr_Kertilsveinr__cav_|Kertilsveinr (cav)
+qstr_Skútilsveinn__cav_|Skútilsveinn (cav)
+qstr_Skútilsveinr__cav_|Skútilsveinr (cav)
+qstr_Lendur_Maður__cav_|Lendur Maður (cav)
+qstr_Lendir_Menn__cav_|Lendir Menn (cav)
+qstr_Kaimynas__inf_|Kaimynas (inf)
+qstr_Kaimynai__inf_|Kaimynai (inf)
+qstr_Pėstininkas__inf_|Pėstininkas (inf)
+qstr_Pėstininka__inf_|Pėstininka (inf)
+qstr_Šaulys__rng_|Šaulys (rng)
+qstr_Šiauliai__rng_|Šiauliai (rng)
+qstr_Kirvininkas__inf_|Kirvininkas (inf)
+qstr_Kirvininkai__inf_|Kirvininkai (inf)
+qstr_Kirvininkas_Veteranas|Kirvininkas Veteranas (inf)
+qstr_Kirvininkai_Veteranai|Kirvininkai Veteranai (inf)
+qstr_Ietininkas__inf_|Ietininkas (inf)
+qstr_Ietininkai__inf_|Ietininkai (inf)
+qstr_Ietininkas_Veteranas_|Ietininkas Veteranas (inf)
+qstr_Veteranai_Ietininkai_|Veteranai Ietininkai (inf)
+qstr_Lankininkas__rng_|Lankininkas (rng)
+qstr_Lankininkai__rng_|Lankininkai (rng)
+qstr_Lankininkas_Veteranas|Lankininkas Veteranas (rng)
+qstr_Veteranai_Lankininkai|Veteranai Lankininkai (rng)
+qstr_Akstininkas___rng_|Akstininkas  (rng)
+qstr_Akstininkai__rng_|Akstininkai (rng)
+qstr_Akstininkas_Veteranas|Akstininkas Veteranas (rng)
+qstr_Akstininkai_Veteranai|Akstininkai Veteranai (rng)
+qstr_Mažasis_Bajoras__in|Mažasis Bajoras (inf)
+qstr_Mažieji_Bajorai__in|Mažieji Bajorai (inf)
+qstr_Raitas_Bajoras__cav_|Raitas Bajoras (cav)
+qstr_Raiti_Bajorai__cav_|Raiti Bajorai (cav)
+qstr_Raitas_Didysis_Bajora|Raitas Didysis Bajoras (cav)
+qstr_Raiti_Didieji_Bajorai|Raiti Didieji Bajorai (cav)
+qstr_Raitas_Didžiūnas__|Raitas Didžiūnas (cav)
+qstr_Raiti_Didžiūnai__c|Raiti Didžiūnai (cav)
+qstr_Bajoras__inf_|Bajoras (inf)
+qstr_Bajorai__inf_|Bajorai (inf)
+qstr_Didysis_Bajoras__inf|Didysis Bajoras (inf)
+qstr_Didieji_Bajorai__inf|Didieji Bajorai (inf)
+qstr_Didžiūnas__inf_|Didžiūnas (inf)
+qstr_Didžiūnai__inf_|Didžiūnai (inf)
+qstr_Awamm_Al_Magrib_Al_De|Awamm Al-Magrib Al-Dehat (inf)
+qstr_Husud_Al_Barbar_Spearm|Husud Al-Barbar Spearman (inf)
+qstr_Husud_Al_Barbar_Spearme|Husud Al-Barbar Spearmen (inf)
+qstr_Mutatawwi_a_Al_Barbar_|Mutatawwi'a Al-Barbar Spearman (inf)
+qstr_Mutatawwi_a_Al_Barbar_S|Mutatawwi'a Al-Barbar Spearmen (inf)
+qstr_Husud_Al_Magribi_Fari|Husud Al-Magribi Faris (cav)
+qstr_Muqatila_Al_Arabiyyun|Muqatila Al-Arabiyyun Faris (cav)
+qstr_Shaykh_Al_Arabiyyun_K|Shaykh Al-Arabiyyun Khayl (cav)
+qstr_Husud_Al_Barbar_Skirmi|Husud Al-Barbar Skirmisher (rng)
+qstr_Husud_Al_Barbar_Skirmis|Husud Al-Barbar Skirmishers (rng)
+qstr_Jabaliyya_Al_Barbar_Ja|Jabaliyya Al-Barbar Javelineer (rng)
+qstr_Jabaliyya_Al_Barbar_Jav|Jabaliyya Al-Barbar Javelineers (rng)
+qstr_Husud_Al_Barbar_Bowma|Husud Al-Barbar Bowman (rng)
+qstr_Husud_Al_Barbar_Bowmen|Husud Al-Barbar Bowmen (rng)
+qstr_Awamm_Al_Magrib_Al_Me|Awamm Al-Magrib Al-Medina (inf)
+qstr_Jund_Al_Medina_Archer_|Jund Al-Medina Archer (rng)
+qstr_Jund_Al_Medina_Archers|Jund Al-Medina Archers (rng)
+qstr_Jund_Al_Andalusi_Cross|Jund Al-Andalusi Crossbowman (rng)
+qstr_Jund_Al_Andalusi_Crossb|Jund Al-Andalusi Crossbowmen (rng)
+qstr_Jund_Al_Medina_Footma|Jund Al-Medina Footman (inf)
+qstr_Jund_Al_Medina_Footmen|Jund Al-Medina Footmen (inf)
+qstr_Jund_Al_Andalusi_Footm|Jund Al-Andalusi Footman (inf)
+qstr_Jund_Al_Andalusi_Footme|Jund Al-Andalusi Footmen (inf)
+qstr_Kabila_Al_Barbar_Fari|Kabila Al-Barbar Faris (cav)
+qstr_Murtaziqa_Al_Makhzan_|Murtaziqa Al-Makhzan Faris (cav)
+qstr_Sharif_Al_Makhzan_Kha|Sharif Al-Makhzan Khayl (cav)
+qstr_Awamm_Al_Mashriq__in|Awamm Al Mashriq (inf)
+qstr_Mutatawwi_a_Infantry_|Mutatawwi'a Infantry (inf)
+qstr_Fata_Al_Futuwwa_Infan|Fata Al-Futuwwa Infantry (inf)
+qstr_Fityan_Al_Futuwwa_Inf|Fityan Al-Futuwwa Infantry (inf)
+qstr_Jund_Al_Amir_Infantry|Jund Al-Amir Infantry (inf)
+qstr_Ajnad_Al_Umara_Infant|Ajnad Al-Umara Infantry (inf)
+qstr_Mutatawwi_a_Spearman_|Mutatawwi'a Spearman (inf)
+qstr_Mutatawwi_a_Spearmen_|Mutatawwi'a Spearmen (inf)
+qstr_Fata_Al_Futuwwa_Spear|Fata Al-Futuwwa Spearman (inf)
+qstr_Fityan_Al_Futuwwa_Spe|Fityan Al-Futuwwa Spearmen (inf)
+qstr_Jund_Al_Amir_Spearman|Jund Al-Amir Spearman (inf)
+qstr_Ajnad_Al_Umara_Spearm|Ajnad Al-Umara Spearmen (inf)
+qstr_Jund_Al_Amir_Faris__|Jund Al-Amir Faris (cav)
+qstr_Ajnad_Al_Umara_Fursan|Ajnad Al-Umara Fursan (cav)
+qstr_Jund_Al_Halqa_Faris_|Jund Al-Halqa Faris (cav)
+qstr_Ajnad_Al_Halqa_Fursan|Ajnad Al-Halqa Fursan (cav)
+qstr_Mutatawwi_a_Archer__|Mutatawwi'a Archer (rng)
+qstr_Mutatawwi_a_Archers_|Mutatawwi'a Archers (rng)
+qstr_Fata_Al_Futuwwa_Arche|Fata Al-Futuwwa Archer (rng)
+qstr_Fityan_Al_Futuwwa_Arc|Fityan Al-Futuwwa Archers (rng)
+qstr_Jund_Al_Amir_Archer_|Jund Al-Amir Archer (rng)
+qstr_Jund_Al_Amir_Archers_|Jund Al-Amir Archers (rng)
+qstr_Turkoman__cav_|Turkoman (cav)
+qstr_Turkomans__cav_|Turkomans (cav)
+qstr_Mamluk_Al_Sighar_Al_A|Mamluk Al-Sighar Al-Amir (cav)
+qstr_Mamalik_Al_Sighar_Al_|Mamalik Al-Sighar Al-Umara (cav)
+qstr_Mamluk_Al_Kibar_Al_Am|Mamluk Al-Kibar Al-Amir (cav)
+qstr_Mamalik_Al_Kibar_Al_U|Mamalik Al-Kibar Al-Umara (cav)
+qstr_Mamluk_Al_Sultaniya_|Mamluk Al-Sultaniya (cav)
+qstr_Mamalik_Al_Sultaniya_|Mamalik Al-Sultaniya (cav)
+qstr_Mamluk_Al_Bahariyya_|Mamluk Al-Bahariyya (cav)
+qstr_Mamalik_Al_Bahariyya_|Mamalik Al-Bahariyya (cav)
+qstr_Raitas_Ietininkas__c|Raitas Ietininkas (cav)
+qstr_Raiti_Ietininkai__ca|Raiti Ietininkai (cav)
+qstr_Leičių_Raitelis__c|Leičių Raitelis (cav)
+qstr_Leičių_Raiteliai__|Leičių Raiteliai (cav)
+qstr_Leičių_Bajoras__ca|Leičių Bajoras (cav)
+qstr_Leičių_Bajorai__ca|Leičių Bajorai (cav)
+qstr_Chevalier__cav_|Chevalier (cav)
+qstr_Chevaliers__cav_|Chevaliers (cav)
+qstr_Welsh_Bowman__rng_|Welsh Bowman (rng)
+qstr_Welsh_Bowmen__rng_|Welsh Bowmen (rng)
+qstr_Genoese_Crossbowman_|Genoese Crossbowman (rng)
+qstr_Genoese_Crossbowmen_|Genoese Crossbowmen (rng)
+qstr_Varangian_Guard__inf|Varangian Guard (inf)
+qstr_Varangian_Guards__in|Varangian Guards (inf)
+qstr_Scottish_Highlander_|Scottish Highlander (cav)
+qstr_Scottish_Highlanders_|Scottish Highlanders (cav)
+qstr_Bohemian_Rytir__cav_|Bohemian Rytir (cav)
+qstr_Bohemian_Rytirs__cav|Bohemian Rytirs (cav)
+qstr_Danish_Axeman__cav_|Danish Axeman (cav)
+qstr_Danish_Axemen__cav_|Danish Axemen (cav)
+qstr_Gallóglach__cav_|Gallóglach (cav)
+qstr_Gallóglaigh__cav_|Gallóglaigh (cav)
+qstr_Light_Cavalryman__ca|Light Cavalryman (cav)
+qstr_Light_Cavalrymen__ca|Light Cavalrymen (cav)
+qstr_Paroikoi__inf_|Paroikoi (inf)
+qstr_Acontistae__rng_|Acontistae (rng)
+qstr_Peltastae__rng_|Peltastae (rng)
+qstr_Acritae__rng_|Acritae (rng)
+qstr_Toxotae__rng_|Toxotae (rng)
+qstr_Mourtati__rng_|Mourtati (rng)
+qstr_Polites__inf_|Polites (inf)
+qstr_Contarati__inf_|Contarati (inf)
+qstr_Scoutati_Spearman__i|Scoutati Spearman (inf)
+qstr_Scoutati_Spearmen__i|Scoutati Spearmen (inf)
+qstr_Veteran_Scoutati_Spea|Veteran Scoutati Spearman (inf)
+qstr_Scoutati_Swordsman__|Scoutati Swordsman (inf)
+qstr_Scoutati_Swordsmen__|Scoutati Swordsmen (inf)
+qstr_Hoplitae__inf_|Hoplitae (inf)
+qstr_Trapezitae__cav_|Trapezitae (cav)
+qstr_Cavalarii__cav_|Cavalarii (cav)
+qstr_Stratiotae__cav_|Stratiotae (cav)
+qstr_Cataphractoi__cav_|Cataphractoi (cav)
+qstr_Agricola__inf_|Agricola (inf)
+qstr_Agricolae__inf_|Agricolae (inf)
+qstr_Cives__inf_|Cives (inf)
+qstr_Civitas__inf_|Civitas (inf)
+qstr_Iaculator_de_Retroban|Iaculator de Retrobannum (rng)
+qstr_Iaculatores_de_Retrob|Iaculatores de Retrobannum (rng)
+qstr_Sagittarius_de_Retrob|Sagittarius de Retrobannum (rng)
+qstr_Sagittari_de_Retroban|Sagittari de Retrobannum (rng)
+qstr_Sagittarius_Masnadier|Sagittarius Masnadieri (rng)
+qstr_Sagittari_Masnadieri_|Sagittari Masnadieri (rng)
+qstr_Pedes_de_Retrobannum_|Pedes de Retrobannum (inf)
+qstr_Pedess_de_Retrobannum|Pedess de Retrobannum (inf)
+qstr_Pedes_Masnadieri__in|Pedes Masnadieri (inf)
+qstr_Pedess_Masnadieri__i|Pedess Masnadieri (inf)
+qstr_Pedes_Serviens__inf_|Pedes Serviens (inf)
+qstr_Pedess_Serviens__inf|Pedess Serviens (inf)
+qstr_Hastatus_de_Plebis__|Hastatus de Plebis (inf)
+qstr_Hastati_de_Plebis__i|Hastati de Plebis (inf)
+qstr_Pedes_de_Plebis__inf|Pedes de Plebis (inf)
+qstr_Pedess_de_Plebis__in|Pedess de Plebis (inf)
+qstr_Hastatus_de_Communia_|Hastatus de Communia (inf)
+qstr_Hastati_de_Communia_|Hastati de Communia (inf)
+qstr_Hastatus_de_Fraternit|Hastatus de Fraternitas (inf)
+qstr_Hastati_de_Fraternita|Hastati de Fraternitas (inf)
+qstr_Pedes_de_Communia__i|Pedes de Communia (inf)
+qstr_Pedess_de_Communia__|Pedess de Communia (inf)
+qstr_Pedes_de_Fraternitas_|Pedes de Fraternitas (inf)
+qstr_Pedess_de_Fraternitas|Pedess de Fraternitas (inf)
+qstr_Sagittarius_de_Plebis|Sagittarius de Plebis (rng)
+qstr_Sagittari_de_Plebis_|Sagittari de Plebis (rng)
+qstr_Balistarius_de_Commun|Balistarius de Communia (rng)
+qstr_Balistari_de_Communia|Balistari de Communia  (rng)
+qstr_Balistarius_de_Frater|Balistarius de Fraternitas (rng)
+qstr_Balistari_de_Fraterni|Balistari de Fraternitas (rng)
+qstr_Servien_Equites__cav|Servien Equites (cav)
+qstr_Servientes_Equites__|Servientes Equites (cav)
+qstr_Homine_Ad_Arma__cav_|Homine Ad Arma (cav)
+qstr_Homines_Ad_Arma__cav|Homines Ad Arma (cav)
+qstr_Scutifer__cav_|Scutifer (cav)
+qstr_Scutiferi__cav_|Scutiferi (cav)
+qstr_Miles__cav_|Miles (cav)
+qstr_Milites__cav_|Milites (cav)
+qstr_Awamm_Dehat__inf_|Awamm Dehat (inf)
+qstr_Hillmen_Footman__inf|Hillmen Footman (inf)
+qstr_Hillmen_Footmen__inf|Hillmen Footmen (inf)
+qstr_Thagri_Footman__inf_|Thagri Footman (inf)
+qstr_Thagri_Footmen__inf_|Thagri Footmen (inf)
+qstr_Thagri_Spearman__inf|Thagri Spearman (inf)
+qstr_Thagri_Spearmen__inf|Thagri Spearmen (inf)
+qstr_Hillmen_Archer__rng_|Hillmen Archer (rng)
+qstr_Hillmen_Archers__rng|Hillmen Archers (rng)
+qstr_Thagri_Archer__rng_|Thagri Archer (rng)
+qstr_Thagri_Archers__rng_|Thagri Archers (rng)
+qstr_Hillmen_Crossbowman_|Hillmen Crossbowman (rng)
+qstr_Hillmen_Crossbowmen_|Hillmen Crossbowmen (rng)
+qstr_Thagri_Crossbowman__|Thagri Crossbowman (rng)
+qstr_Thagri_Crossbowmen__|Thagri Crossbowmen (rng)
+qstr_Awamm_Medina__inf_|Awamm Medina (inf)
+qstr_Husud_Footman__inf_|Husud Footman (inf)
+qstr_Husud_Footmen__inf_|Husud Footmen (inf)
+qstr_Jundi_Mutadawwan_Infa|Jundi Mutadawwan Infantry (inf)
+qstr_Murtaziqa_Infantry__|Murtaziqa Infantry (inf)
+qstr_Husud_Spearman__inf_|Husud Spearman (inf)
+qstr_Husud_Spearmen__inf_|Husud Spearmen (inf)
+qstr_Jundi_Spearman__inf_|Jundi Spearman (inf)
+qstr_Jundi_Spearmen__inf_|Jundi Spearmen (inf)
+qstr_Murtaziqa_Spearman__|Murtaziqa Spearman (inf)
+qstr_Murtaziqa_Spearmen__|Murtaziqa Spearmen (inf)
+qstr_Husud_Crossbowman__r|Husud Crossbowman (rng)
+qstr_Husud_Crossbowmen__r|Husud Crossbowmen (rng)
+qstr_Jundi_Crossbowman__r|Jundi Crossbowman (rng)
+qstr_Jundi_Crossbowmen__r|Jundi Crossbowmen (rng)
+qstr_Murtaziqa_Crossbowman|Murtaziqa Crossbowman (rng)
+qstr_Murtaziqa_Crossbowmen|Murtaziqa Crossbowmen (rng)
+qstr_Andalusian_Light_Horse|Andalusian Light Horseman (cav)
+qstr_Andalusian_Light_Horsem|Andalusian Light Horsemen (cav)
+qstr_Andalusian_Horseman_|Andalusian Horseman (cav)
+qstr_Andalusian_Horsemen_|Andalusian Horsemen (cav)
+qstr_Andalusian_Heavy_Horse|Andalusian Heavy Horseman (cav)
+qstr_Andalusian_Heavy_Horsem|Andalusian Heavy Horsemen (cav)
+qstr_Andalusian_Knight__c|Andalusian Knight (cav)
+qstr_Andalusian_Knights__|Andalusian Knights (cav)
+qstr_Gairmsluaigh_Levy__i|Gairmsluaigh Levy (inf)
+qstr_Ceithernach_Infantry_|Ceithernach Infantry (inf)
+qstr_Ceithern_Tigh_Infantr|Ceithern Tigh Infantry (inf)
+qstr_Cliathaire_Infantry_|Cliathaire Infantry (inf)
+qstr_Ceithern_Tigh_Hastatu|Ceithern Tigh Hastatus (inf)
+qstr_Ceithern_Tigh_Hastati_|Ceithern Tigh Hastati (inf)
+qstr_Cliathairse_Hastatus_|Cliathairse Hastatus (inf)
+qstr_Cliathairse_Hastati_|Cliathairse Hastati (inf)
+qstr_Ceithernach_Boghadair|Ceithernach Boghadair (rng)
+qstr_Ceithern_Tigh_Boghada|Ceithern Tigh Boghadair (rng)
+qstr_Sgiathadair_Ritire__|Sgiathadair Ritire (cav)
+qstr_Sgiathadairi_Ritire_|Sgiathadairi Ritire (cav)
+qstr_Ceithernach_Ritire__|Ceithernach Ritire (cav)
+qstr_Teaglach_Ritire__cav|Teaglach Ritire (cav)
+qstr_Lucht_Tighe_Ritire__|Lucht Tighe Ritire (cav)
+qstr_Paroikos_Anatolikon_|Paroikos Anatolikon (inf)
+qstr_Paroikoi_Anatolikon_|Paroikoi Anatolikon (inf)
+qstr_Polites_Anatolikon__|Polites Anatolikon (inf)
+qstr_Politi_Anatolikon__i|Politi Anatolikon (inf)
+qstr_Hai_Ramik_Nizagamarti|Hai Ramik Nizagamartik † (inf)
+qstr_Hayasdan_Ramik_Nizaga|Hayasdan Ramik Nizagamartik (inf)
+qstr_Hai_Vahani_Bernakir_Ni|Hai Vahani-Bernakir Nizagamartik † (inf)
+qstr_Hayasdan_Vahani_Bernak|Hayasdan Vahani-Bernakir Nizagamartik (inf)
+qstr_Hai_Krtser_Azat_Nizag|Hai Krtser-Azat Nizagamartik † (inf)
+qstr_Hayasdan_Krtser_Azat_N|Hayasdan Krtser-Azat Nizagamartik (inf)
+qstr_Hai_Ramik_Netadzik_�|Hai Ramik Netadzik † (rng)
+qstr_Hayasdan_Ramik_Netadz|Hayasdan Ramik Netadzik (rng)
+qstr_Hai_Vahani_Bernakir_Ne|Hai Vahani-Bernakir Netadzik † (rng)
+qstr_Hayasdan_Vahani_Bernaki|Hayasdan Vahani-Bernakir Netadzik (rng)
+qstr_Hai_Krtser_Azat_Netad|Hai Krtser-Azat Netadzik † (rng)
+qstr_Hayasdan_Krtser_Azat_Ne|Hayasdan Krtser-Azat Netadzik (rng)
+qstr_Fata_Infantry__inf_|Fata Infantry (inf)
+qstr_Fityan_Infantry__inf|Fityan Infantry (inf)
+qstr_Igdish_Infantry__inf|Igdish Infantry (inf)
+qstr_Jira_Khvar_Infantry_|Jira Khvar Infantry (inf)
+qstr_Ghazi_Infantry__rng_|Ghazi Infantry (rng)
+qstr_Ghuzat_Infantry__rng|Ghuzat Infantry (rng)
+qstr_Jabaliyyun_Archer__r|Jabaliyyun Archer (rng)
+qstr_Jabaliyyun_Archers__|Jabaliyyun Archers (rng)
+qstr_Jira_Khvar_Crossbowma|Jira Khvar Crossbowman (rng)
+qstr_Jira_Khvar_Crossbowmen|Jira Khvar Crossbowmen (rng)
+qstr_Mourtatoi_Anatolikon_|Mourtatoi Anatolikon Cavallarii (inf)
+qstr_Mourtatos_Anatolikon_|Mourtatos Anatolikon Cavallarii (inf)
+qstr_Jira_Khvar_Faris__ca|Jira Khvar Faris (cav)
+qstr_Havashi_Khayl__cav_|Havashi Khayl (cav)
+qstr_Ghulam_Al_Jandar__ca|Ghulam Al-Jandar (cav)
+qstr_Hai_Ramikspas_Ayrudzi|Hai Ramikspas Ayrudzi (cav)
+qstr_Hayasdan_Ramikspas_Ay|Hayasdan Ramikspas Ayrudzi (cav)
+qstr_Hai_Azatugund_Ayrudzi|Hai Azatugund Ayrudzi (cav)
+qstr_Hayasdan_Azatugund_Ay|Hayasdan Azatugund Ayrudzi (cav)
+qstr_Hai_Aspet__cav_|Hai Aspet (cav)
+qstr_Hayasdan_Aspet__cav_|Hayasdan Aspet (cav)
+qstr_Nativi_Pedes__inf_|Nativi Pedes (inf)
+qstr_Servitium_Forensicum_S|Servitium Forensicum Sagittarius (rng)
+qstr_Servitium_Forensicum_Sa|Servitium Forensicum Sagittari (rng)
+qstr_Servitium_Forensicum_Has|Servitium Forensicum Hastatus (inf)
+qstr_Servitium_Forensicum_Hast|Servitium Forensicum Hastati (inf)
+qstr_Scottis_Clann__inf_|Scottis Clann (inf)
+qstr_Gall_Òglaich_Spathar|Gall-Òglaich Spatharius (inf)
+qstr_Gall_Òglaichean_Spat|Gall-Òglaichean Spathari (inf)
+qstr_Gall_Òglaich_Axeman_|Gall-Òglaich Axeman (inf)
+qstr_Gall_Òglaichean_Axem|Gall-Òglaichean Axemen (inf)
+qstr_Pedes_de_Cives__inf_|Pedes de Cives (inf)
+qstr_Pedi_de_Cives__inf_|Pedi de Cives (inf)
+qstr_Retrobannum_Pedes__i|Retrobannum Pedes (inf)
+qstr_Vicanus_Sagittarius_Mi|Vicanus Sagittarius Militaris (rng)
+qstr_Vicani_Sagittarii_Mili|Vicani Sagittarii Militares (rng)
+qstr_Vicanus_Sagittarius_Mil|Vicanus Sagittarius Militaris Veteranus (rng)
+qstr_Vicani_Sagittarii_Milit|Vicani Sagittarii Militares Veterani (rng)
+qstr_Oppidanus_Iaculator_Ar|Oppidanus Iaculator Arcoballista Militaris (rng)
+qstr_Oppidani_Iaculatoris_A|Oppidani Iaculatoris Acroballistae Militares (rng)
+qstr_Oppidanus_Iaculator_Arc|Oppidanus Iaculator Arcoballista Militaris Veteranus (rng)
+qstr_Oppidani_Iaculatoris_Ac|Oppidani Iaculatoris Acroballistae Militares Veterani (rng)
+qstr_Dux_Iaculator_Arcobal|Dux Iaculator Arcoballista Militaris (rng)
+qstr_Duxes_Iaculatoris_Arc|Duxes Iaculatoris Arcoballista Militares (rng)
+qstr_Oppidanus_Hastatus_Mil|Oppidanus Hastatus Militaris (inf)
+qstr_Oppidani_Hastati_Milit|Oppidani Hastati Militares (inf)
+qstr_Oppidanus_Hastatus_Mili|Oppidanus Hastatus Militaris Veteranus (inf)
+qstr_Oppidani_Hastati_Milita|Oppidani Hastati Militares Veterani (inf)
+qstr_Dux_Hastatus_Militaris_|Dux Hastatus Militaris (inf)
+qstr_Duxes_Hastati_Militares|Duxes Hastati Militares (inf)
+qstr_Oppidanus_Miles_Gladiu|Oppidanus Miles Gladius Portat Militaris (inf)
+qstr_Oppidani_Milites_Gladi|Oppidani Milites Gladii Portant Militares (inf)
+qstr_Oppidanus_Miles_Gladius|Oppidanus Miles Gladius Portat Militaris Veteranus (inf)
+qstr_Oppidani_Milites_Gladii|Oppidani Milites Gladii Portant Militares Veterani (inf)
+qstr_Dux_Miles_Gladius_Por|Dux Miles Gladius Portat Militaris (inf)
+qstr_Duxes_Milites_Gladii_|Duxes Milites Gladii Portant Militares (inf)
+qstr_Miles_Pro_Communitas_|Miles Pro Communitas (inf)
+qstr_Milites_pro_Communita|Milites pro Communitas (inf)
+qstr_Vicanus_Gisarme_Milita|Vicanus Gisarme Militaris (inf)
+qstr_Vicani_Gisarme_Militar|Vicani Gisarme Militares (inf)
+qstr_Vicanus_Gisarme_Militar|Vicanus Gisarme Militaris Veteranus (inf)
+qstr_Vicani_Gisarme_Militare|Vicani Gisarme Militares Veterani (inf)
+qstr_Dux_Gisarme_Militaris__|Dux Gisarme Militaris (inf)
+qstr_Duxes_Gisarme_Militares|Duxes Gisarme Militares (inf)
+qstr_Servio_Eques__cav_|Servio Eques (cav)
+qstr_Servimus_Equites__ca|Servimus Equites (cav)
+qstr_Homo_Armatus__cav_|Homo Armatus (cav)
+qstr_Homines_Armati__cav_|Homines Armati (cav)
+qstr_Armiger_Eques__cav_|Armiger Eques (cav)
+qstr_Armigri_Equites__cav|Armigri Equites (cav)
+qstr_Fur__Looter_|Fur (Looter)
+qstr_Fures__Looters_|Fures (Looters)
+qstr_Latro__Bandit_|Latro (Bandit)
+qstr_Latrones__Bandit_|Latrones (Bandit)
+qstr_Peasant_Rebel__inf_|Peasant Rebel (inf)
+qstr_Peasant_Rebels__inf_|Peasant Rebels (inf)
+qstr_Rebellion_Leader__in|Rebellion Leader (inf)
+qstr_Rebellion_Leaders__i|Rebellion Leaders (inf)
+qstr_Bandit__Bandit_|Bandit (Bandit)
+qstr_Bandits__Bandit_|Bandits (Bandit)
+qstr_Brigand__Bandit_|Brigand (Bandit)
+qstr_Brigands__Bandit_|Brigands (Bandit)
+qstr_Latruncularius__Band|Latruncularius (Bandit)
+qstr_Latruncularii__Bandi|Latruncularii (Bandit)
+qstr_Silva_Sicarius__Band|Silva Sicarius (Bandit)
+qstr_Silvae_Sicarii__Band|Silvae Sicarii (Bandit)
+qstr_Pirata__Bandit_|Pirata (Bandit)
+qstr_Piratae__Bandit_|Piratae (Bandit)
+qstr_Sicarius_Orientis__B|Sicarius Orientis (Bandit)
+qstr_Sicarii_Orientis_Ban|Sicarii Orientis Bandit)
+qstr_Sicarius_Borealis__B|Sicarius Borealis (Bandit)
+qstr_Sicarii_Borealis__Ba|Sicarii Borealis (Bandit)
+qstr_Sicarius_Vastus__Ban|Sicarius Vastus (Bandit)
+qstr_Sicarii_Vasti__Bandi|Sicarii Vasti (Bandit)
+qstr_You_have_been_enlist|You have been enlisted!
+qstr_You_have_left_your_c|You have left your commander!
+qstr_You_have_been_grante|You have been granted leave!
+qstr_You_have_rejoined_yo|You have rejoined your commander!
+qstr_{s3}_{s2}|{s3}, {s2}
+qstr_The_equipment_of_a_{|The equipment of a {s1}: {s2}is assigned to you.
+qstr_The_equipment_of_a_{s|The equipment of a {s1}: {s2}is taken from you.
+qstr_fail!_{s3}_does_not_|fail! {s3} does not have: {reg5}
 qstr_You_got_keys_of_dung|You got keys of dungeon.
+qstr_Your_{s20}_is_too_cr|Your {s20} is too crapy to fall apart!
+qstr_Your_{s20}_cracks!|Your {s20} cracks!
+qstr_Your_{s20}_falls_apa|Your {s20} falls apart!
 qstr_Releasing_spear.|Releasing spear.
 qstr_Your_horse_received_|Your horse received {reg1} damage from a braced spear!
 qstr_The_injury_causes_yo|The injury causes your grip on the spear to slip!
@@ -368,9 +1683,8 @@ qstr_Battle_lost!_Press_t|Battle lost! Press tab key to leave...
 qstr_You_have_been_knocke|You have been knocked out by the enemy. Watch your men continue the fight without you or press Tab to retreat.
 qstr_If_you_choose_to_wat|If you choose to watch the fight you can use the mouse scroll up and down to switch between troop view or AWDS keys for free camera view.
 qstr_Forming_ranks.|Forming ranks.
+qstr_Huzzah!_You_encourag|Huzzah! You encourage you're nearby troops.
 qstr_You_must_stay_behind|You must stay behind the line on the ground! Point is not counted.
-qstr_Your_{s20}_falls_apa|Your {s20} falls apart!
-qstr_Your_{s20}_cracks!|Your {s20} cracks!
 qstr_Tutorial|Tutorial
 qstr_You_came_into_the_wo|You came into the world a {reg3?daughter:son} of declining nobility, owning only the house in which they lived. However, despite your family's hardships, they afforded you a good education and trained you from childhood for the rigors of aristocracy and life at court.
 qstr_You_were_born_the_{r|You were born the {reg3?daughter:son} of travelling merchants, always moving from place to place in search of a profit. Although your parents were wealthier than most and educated you as well as they could, you found little opportunity to make friends on the road, living mostly for the moments when you could sell something to somebody.
@@ -547,6 +1861,7 @@ qstr_Try_as_you_might_you_|Try as you might, you could not defeat the rebelling 
 qstr_positive|positive
 qstr_negative|negative
 qstr_relation:_{reg0}|relation: {reg0}
+qstr_You_have_deserted_an|You have deserted, and are now wanted!
 qstr_Breaking_camp...|Breaking camp...
 qstr_Your_men_are_not_hap|Your men are not happy with the composition of your party!
 qstr____DEBUG____City_{s2|---DEBUG--- City {s21} suffering attrition - {reg21} - wealth {reg22}
@@ -585,6 +1900,11 @@ qstr_Not_enough_money_in_|Not enough money in treasury to upgrade troops.
 qstr_Your_constable_upgra|Your constable upgraded {reg5} {s6} to {s7} in {s8}
 qstr_Your_messenger_has_d|Your messenger has delivered his message to {s26} and is on his way back to {s25}
 qstr_{s26}_has_arrived_in|{s26} has arrived in {s25} and is awaiting you there.
+qstr_The_released_prisone|The released prisoners were not be trusted and they are preparing to attack you!
+qstr_Warning!|Warning!
+qstr_The_released_prisoner|The released prisoners scattered as soon as the battle finished. You will not be seeing them again.
+qstr_Notice!|Notice!
+qstr_The_released_prisoners|The released prisoners have remained loyal and will join your party
 qstr_{reg65?my_Lady:my_Lo|{reg65?my Lady:my Lord}
 qstr_{reg65?My_Lady:My_Lo|{reg65?My Lady:My Lord}
 qstr_{reg65?madame:sir}|{reg65?madame:sir}

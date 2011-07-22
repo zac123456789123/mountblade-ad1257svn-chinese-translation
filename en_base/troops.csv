@@ -46,38 +46,38 @@ trp_arena_training_fighter_10|Champion Fighter
 trp_arena_training_fighter_10_pl|Champion Fighters
 trp_cattle|Cattle
 trp_cattle_pl|Cattle
-trp_farmer|Libero
-trp_farmer_pl|Liberus
-trp_mercenary_village_skirmisher|Sagittarius Stipendiarii
-trp_mercenary_village_skirmisher_pl|Sagitari Stipendiarii
-trp_mercenary_town_footman|Hastatus Stipendiarii
-trp_mercenary_town_footman_pl|Hastati Stipendiarii
-trp_mercenary_veteran_swordsman|Pedes Routere
-trp_mercenary_veteran_swordsman_pl|Pedess Routerii
-trp_mercenary_veteran_billman|Guisarmer Rutere
-trp_mercenary_veteran_billman_pl|Guisarmer Ruterii
-trp_mercenary_veteran_spearman|Hastatus Rutere
-trp_mercenary_veteran_spearman_pl|Hastatii Ruterii
-trp_mercenary_veteran_crossbowman|Balistare Rutere
-trp_mercenary_veteran_crossbowman_pl|Balistari Ruterii
-trp_mercenary_veteran_archer|Sagittarius Rutere
-trp_mercenary_veteran_archer_pl|Sagittari Ruterii
-trp_mercenary_bills_sergeant|Serviens Guisarmer Stipendiarii
-trp_mercenary_bills_sergeant_pl|Servientes Guisarmer Stipendiarii
-trp_mercenary_swords_sergeant|Serviens Pedes Stipendiarii
-trp_mercenary_swords_sergeant_pl|Servientes Pedess Stipendiarii
-trp_mercenary_spears_sergeant|Serviens Hastatus
-trp_mercenary_spears_sergeant_pl|Servientes Hastati
-trp_mercenary_crossbows_sergeant|Serviens Balistare Stipendiarii
-trp_mercenary_crossbows_sergeant_pl|Servientes Balistari Stipendiarii
-trp_mercenary_light_cavalry|Equies Stipendiarii
-trp_mercenary_light_cavalry_pl|Equites Stipendiarii
-trp_mercenary_medium_cavalry|Serviens Eques Stipendiarii
-trp_mercenary_medium_cavalry_pl|Servientes Equites Stipendiarii
-trp_mercenary_squire|Homine Ad Arma Stipendiarii
-trp_mercenary_squire_pl|Homines Ad Arma Stipendiarii
-trp_mercenary_knight|Miles Stipendiarii
-trp_mercenary_knight_pl|Milites Stipendiarii
+trp_farmer|Libertus
+trp_farmer_pl|Liberti
+trp_mercenary_village_skirmisher|Non Didicit Sagittarius
+trp_mercenary_village_skirmisher_pl|Non Didicerunt Sagittarii
+trp_mercenary_town_footman|Miles Absolvitur
+trp_mercenary_town_footman_pl|Milites Absolvuntur
+trp_mercenary_veteran_swordsman|Machaerophorus Militaris Veteranus Absolvitur
+trp_mercenary_veteran_swordsman_pl|Machaerophori Militares Veterani Absolvuntur
+trp_mercenary_veteran_billman|Gisarme Militaris Absolvitur
+trp_mercenary_veteran_billman_pl|Gisarme Militares Absolvuntur
+trp_mercenary_veteran_spearman|Hastatus Militaris Absolvitur
+trp_mercenary_veteran_spearman_pl|Hastati Militares Absolvuntur
+trp_mercenary_veteran_crossbowman|Iaculator Arcoballista Militaris Absolvitur
+trp_mercenary_veteran_crossbowman_pl|Iaculatoris Acroballistae Militares Absolvuntur
+trp_mercenary_veteran_archer|Sagittarius Militaris Absolvitur
+trp_mercenary_veteran_archer_pl|Sagittari Militares Absolvuntur
+trp_mercenary_bills_sergeant|Dux Gisarme Militaris Absolvitur
+trp_mercenary_bills_sergeant_pl|Duxes Gisarme Militares Absolvuntur
+trp_mercenary_swords_sergeant|Dux Machaerophorus Militaris Absolvitur
+trp_mercenary_swords_sergeant_pl|Duxes Machaerophori Militares Absolvuntur
+trp_mercenary_spears_sergeant|Dux Hastatus Militaris Absolvitur
+trp_mercenary_spears_sergeant_pl|Duxes Hastati Militares Absolvuntur
+trp_mercenary_crossbows_sergeant|Dux Iaculator Militaris Absolvitur
+trp_mercenary_crossbows_sergeant_pl|Duxes Iaculatoris Militares Absolvuntur
+trp_mercenary_light_cavalry|Eques Absolvitur
+trp_mercenary_light_cavalry_pl|Equites Absolvuntur
+trp_mercenary_medium_cavalry|Armatus Eques Absolvitur
+trp_mercenary_medium_cavalry_pl|Armati Equites Absolvuntur
+trp_mercenary_squire|Armiger Eques Absolvitur
+trp_mercenary_squire_pl|Armigri Equites Absolvuntur
+trp_mercenary_knight|Nobilitas Eques Vehitur
+trp_mercenary_knight_pl|Nobiliti Equites Vehuntur
 trp_merc_sicily_foot_archer_1|Jund Al-Siqilliyya Rami
 trp_merc_sicily_foot_archer_1_pl|Jund Al-Siqilliyya Rumat
 trp_merc_sicily_foot_archer_2|Khassakiyya Al-Siqilliyya Rami
@@ -94,12 +94,12 @@ trp_merc_maghreb_cavalry_1|Hasham Al-Zanata Faris
 trp_merc_maghreb_cavalry_1_pl|Hasham Al-Zanata Faris
 trp_merc_maghreb_infantry_1|Hasham Al-Maghrib Rajjala
 trp_merc_maghreb_infantry_1_pl|Hasham Al-Maghrib Rajjala
-trp_merc_brabantine_xbow|Brabantine Balistare
-trp_merc_brabantine_xbow_pl|Brabantine Balistari
-trp_merc_brabantine_spearman|Brabantine Hastatus
-trp_merc_brabantine_spearman_pl|Brabantine Hastati
-trp_merc_brabantine_guisarm|Brabantine Guisarmer
-trp_merc_brabantine_guisarm_pl|Brabantine Guisarmers
+trp_merc_brabantine_xbow|Brabantine Iaculator Arcoballista
+trp_merc_brabantine_xbow_pl|Brabantine Iaculatoris Arcoballistae
+trp_merc_brabantine_spearman|Brabantine Hastatus Militaris
+trp_merc_brabantine_spearman_pl|Brabantine Hastati Militares
+trp_merc_brabantine_guisarm|Brabantine Gisarme
+trp_merc_brabantine_guisarm_pl|Brabantine Gisarme
 trp_merc_welsh_bowman|Cymry Saethydd
 trp_merc_welsh_bowman_pl|Cymry Saethydd
 trp_merc_kern_infantry|Kern Solidarius
@@ -132,26 +132,26 @@ trp_gaelic_merc_axeman_2|Gall-Oglaich Tuanaghta
 trp_gaelic_merc_axeman_2_pl|Gall-Oglaich Tuanaghta
 trp_crusader_turkopole|Turcopole
 trp_crusader_turkopole_pl|Turcopoles
-trp_templar_crossbows_sergeant|Frater Serviens Balistarius du Temple
-trp_templar_crossbows_sergeant_pl|Frater Servientes Balistari du Temple
-trp_templar_swords_sergeant|Frater Serviens Pedes du Temple
-trp_templar_swords_sergeant_pl|Frater Servientes Pedess du Temple
-trp_templar_spears_sergeant|Frater Serviens Hastatus du Temple
-trp_templar_spears_sergeant_pl|Frater Servientes Hastati du Temple
-trp_templar_half_brother|Frater Serviens Eques du Temple
-trp_templar_half_brother_pl|Frater Servientes Equites du Temple
-trp_templar_knight|Miles Templi
-trp_templar_knight_pl|Milites Templi
-trp_hospitaller_swords_sergeant|Frater Serviens Pedes des Hospitaliers
-trp_hospitaller_swords_sergeant_pl|Frater Servientes Pedess des Hospitaliers
-trp_hospitaller_spears_sergeant|Frater Serviens Hastatus des Hospitaliers
-trp_hospitaller_spears_sergeant_pl|Frater Servientes Hastati des Hospitaliers
-trp_hospitaller_crossbows_sergeant|Frater Serviens Balistarius des Hospitaliers
-trp_hospitaller_crossbows_sergeant_pl|Frater Servientes Balistari des Hospitaliers
-trp_hospitaller_half_brother|Frater Serviens Eques des Hospitaliers
-trp_hospitaller_half_brother_pl|Frater Servientes Equites des Hospitaliers
-trp_hospitaller_knight|Chevalier des Hospitaliers
-trp_hospitaller_knight_pl|Chevaliers des Hospitaliers
+trp_templar_crossbows_sergeant|Dux Ordo Templique Salomonis Iaculator arcoballista
+trp_templar_crossbows_sergeant_pl|Duxes Ordo Templique Salomonis Iaculatoris acroballistae
+trp_templar_swords_sergeant|Dux Ordo Templique Salomonis Machaerophorus militaris
+trp_templar_swords_sergeant_pl|Dux Ordo Templique Salomonis Salomonis Machaerophori militares
+trp_templar_spears_sergeant|Dux Ordo Templique Salomonis Hastatus
+trp_templar_spears_sergeant_pl|Duxes Ordo Templique Salomonis Hastati
+trp_templar_half_brother|Dux Ordo Templique Salomonis armiger Eques
+trp_templar_half_brother_pl|Duxes Ordo Templique Salomonis armigri Equites
+trp_templar_knight|Dux Ordo Templique Salomonis Miles nobilitas
+trp_templar_knight_pl|Dux Ordo Templique Salomonis Milites nobiliti
+trp_hospitaller_swords_sergeant|Dux Ordo sancti Johannis Machaerophorus militaris
+trp_hospitaller_swords_sergeant_pl|Duxes Ordo sancti Johannis Machaerophori militares
+trp_hospitaller_spears_sergeant|Dux Ordo sancti Johannis Hastatus militaris
+trp_hospitaller_spears_sergeant_pl|Dux Ordo sancti Johannis Hastati militares
+trp_hospitaller_crossbows_sergeant|Dux Ordo sancti Johannis Iaculator Arcoballista
+trp_hospitaller_crossbows_sergeant_pl|Duxes Ordo sancti Johannis Iaculatoris Arcoballistae
+trp_hospitaller_half_brother|Dux Ordo sancti Johannis armiger Eques
+trp_hospitaller_half_brother_pl|Dux Ordo sancti Johannis armigri Equites
+trp_hospitaller_knight|Dux Ordo sancti Johannis Miles nobilitas
+trp_hospitaller_knight_pl|Dux Ordo sancti Johannis Milites nobiliti
 trp_mercenaries_end|mercenaries end
 trp_mercenaries_end_pl|mercenaries end
 trp_teu_village_recruit|Baltischer Dorfbewohner
@@ -750,11 +750,11 @@ trp_anatolian_turkoman_2|Havashi Khayl
 trp_anatolian_turkoman_2_pl|Havashi Khayl
 trp_anatolian_turkoman_3|Ghulam Al-Jandar
 trp_anatolian_turkoman_3_pl|Ghulam Al-Jandar
-trp_anatolian_light_cavalry|Hai Ramikspas Ayrudzi †
+trp_anatolian_light_cavalry|Hai Ramikspas Ayrudzi
 trp_anatolian_light_cavalry_pl|Hayasdan Ramikspas Ayrudzi
-trp_anatolian_medium_cavalry|Hai Azatugund Ayrudzi †
+trp_anatolian_medium_cavalry|Hai Azatugund Ayrudzi
 trp_anatolian_medium_cavalry_pl|Hayasdan Azatugund Ayrudzi
-trp_anatolian_heavy_cavalry|Hai Aspet †
+trp_anatolian_heavy_cavalry|Hai Aspet
 trp_anatolian_heavy_cavalry_pl|Hayasdan Aspet
 trp_scottish_village_recruit|Nativi Pedes
 trp_scottish_village_recruit_pl|Nativi Pedes
@@ -772,42 +772,42 @@ trp_euro_town_recruit|Pedes de Cives
 trp_euro_town_recruit_pl|Pedi de Cives
 trp_euro_village_recruit|Retrobannum Pedes
 trp_euro_village_recruit_pl|Retrobannum Pedes
-trp_euro_archer_1|Sagittarius de Militiae pro Villa Minores
-trp_euro_archer_1_pl|Sagittari de Militiae pro Villa Minores
-trp_euro_archer_2|Sagittarius de Militiae pro Villa Majores
-trp_euro_archer_2_pl|Sagittarii de Militiae pro Villa Majores
-trp_euro_xbow_1|Balistare de Communia Minores
-trp_euro_xbow_1_pl|Balistari de Communio Minores
-trp_euro_xbow_2|Balistare de Communia Majores
-trp_euro_xbow_2_pl|Balistari de Communio Majores
-trp_euro_xbow_3|Serviens Balistare
-trp_euro_xbow_3_pl|Servientes Balistari
-trp_euro_spearman_1|Hastatus de Communia Minores
-trp_euro_spearman_1_pl|Hastatii de Communio Minores
-trp_euro_spearman_2|Hastatus de Communia Majores
-trp_euro_spearman_2_pl|Hastatii de Communio Majores
-trp_euro_spearman_3|Serviens Hastatus
-trp_euro_spearman_3_pl|Servientes Hastatii
-trp_euro_swordsman_1|Pedes de Communia Minores
-trp_euro_swordsman_1_pl|Pedess de Communio Minores
-trp_euro_swordsman_2|Pedes de Communia Majores
-trp_euro_swordsman_2_pl|Pedess de Communio Majores
-trp_euro_swordsman_3|Serviens Pedes
-trp_euro_swordsman_3_pl|Servientes Pedess
-trp_town_man_at_arms|Miles Pro Commune
-trp_town_man_at_arms_pl|Miles Pro Communia
-trp_euro_guisarm_1|Guisarmer de Militiae pro Villa Minores
-trp_euro_guisarm_1_pl|Guisarmer de Militiae pro Villa Minores
-trp_euro_guisarm_2|Guisarmer de Militiae pro Villa Majores
-trp_euro_guisarm_2_pl|Guisarmer de Militiae pro Villa Majores
-trp_euro_guisarm_3|Serviens Guisarmer
-trp_euro_guisarm_3_pl|Servientes Guisarmer
-trp_euro_horse_1|Serviens Equites
-trp_euro_horse_1_pl|Serviens Equites
-trp_euro_horse_2|Homine-Ad-Arma
-trp_euro_horse_2_pl|Homini-Ad-Arma
-trp_euro_horse_3|Armiger Equites
-trp_euro_horse_3_pl|Armiger Equiti
+trp_euro_archer_1|Vicanus Sagittarius Militaris
+trp_euro_archer_1_pl|Vicani Sagittarii Militares
+trp_euro_archer_2|Vicanus Sagittarius Militaris Veteranus
+trp_euro_archer_2_pl|Vicani Sagittarii Militares Veterani
+trp_euro_xbow_1|Oppidanus Iaculator Arcoballista Militaris
+trp_euro_xbow_1_pl|Oppidani Iaculatoris Acroballistae Militares
+trp_euro_xbow_2|Oppidanus Iaculator Arcoballista Militaris Veteranus
+trp_euro_xbow_2_pl|Oppidani Iaculatoris Acroballistae Militares Veterani
+trp_euro_xbow_3|Dux Iaculator Arcoballista Militaris
+trp_euro_xbow_3_pl|Duxes Iaculatoris Arcoballista Militares
+trp_euro_spearman_1|Oppidanus Hastatus Militaris
+trp_euro_spearman_1_pl|Oppidani Hastati Militares
+trp_euro_spearman_2|Oppidanus Hastatus Militaris Veteranus
+trp_euro_spearman_2_pl|Oppidani Hastati Militares Veterani
+trp_euro_spearman_3|Dux Hastatus Militaris
+trp_euro_spearman_3_pl|Duxes Hastati Militares
+trp_euro_swordsman_1|Oppidanus Miles Gladius Portat Militaris
+trp_euro_swordsman_1_pl|Oppidani Milites Gladii Portant Militares
+trp_euro_swordsman_2|Oppidanus Miles Gladius Portat Militaris Veteranus
+trp_euro_swordsman_2_pl|Oppidani Milites Gladii Portant Militares Veterani
+trp_euro_swordsman_3|Dux Miles Gladius Portat Militaris
+trp_euro_swordsman_3_pl|Duxes Milites Gladii Portant Militares
+trp_town_man_at_arms|Miles Pro Communitas
+trp_town_man_at_arms_pl|Milites pro Communitas
+trp_euro_guisarm_1|Vicanus Gisarme Militaris
+trp_euro_guisarm_1_pl|Vicani Gisarme Militares
+trp_euro_guisarm_2|Vicanus Gisarme Militaris Veteranus
+trp_euro_guisarm_2_pl|Vicani Gisarme Militares Veterani
+trp_euro_guisarm_3|Dux Gisarme Militaris
+trp_euro_guisarm_3_pl|Duxes Gisarme Militares
+trp_euro_horse_1|Servio Eques
+trp_euro_horse_1_pl|Servimus Equites
+trp_euro_horse_2|Homo Armatus
+trp_euro_horse_2_pl|Homines Armati
+trp_euro_horse_3|Armiger Eques
+trp_euro_horse_3_pl|Armigri Equites
 trp_euro_horse_4|Miles
 trp_euro_horse_4_pl|Milites
 trp_looter|Fur
@@ -828,12 +828,12 @@ trp_forest_bandit|Silva Sicarius
 trp_forest_bandit_pl|Silvae Sicarii
 trp_sea_raider|Pirata
 trp_sea_raider_pl|Piratae
-trp_steppe_bandit|Steppe Bandit
-trp_steppe_bandit_pl|Steppe Bandits
-trp_taiga_bandit|Taiga Bandit
-trp_taiga_bandit_pl|Taiga Bandits
-trp_desert_bandit|Desert Bandit
-trp_desert_bandit_pl|Desert Bandits
+trp_steppe_bandit|Sicarius Orientis
+trp_steppe_bandit_pl|Sicarii Orientis
+trp_taiga_bandit|Sicarius Borealis
+trp_taiga_bandit_pl|Sicarii Borealis
+trp_desert_bandit|Sicarius Vastus
+trp_desert_bandit_pl|Sicarii Vasti
 trp_black_khergit_horseman|Black Khergit Horseman
 trp_black_khergit_horseman_pl|Black Khergit Horsemen
 trp_manhunter|Manhunter
@@ -885,10 +885,50 @@ trp_guide|Quick Jimmy
 trp_guide_pl|Quick Jimmy
 trp_xerina|William Marshall
 trp_xerina_pl|William Marshall
-trp_dranton|Dranton
-trp_dranton_pl|Dranton
-trp_kradus|Kradus
-trp_kradus_pl|Kradus
+trp_dranton|Guy de Baveux
+trp_dranton_pl|Guy de Baveux
+trp_kradus|Joachim Cator
+trp_kradus_pl|Joachim Cator
+trp_tournament_knight_1|Gauvian Micaille
+trp_tournament_knight_1_pl|Gauvian Micaille
+trp_tournament_knight_2|William de Hainault
+trp_tournament_knight_2_pl|William de Hainault
+trp_tournament_knight_3|Nicholas Hawberk
+trp_tournament_knight_3_pl|Nicholas Hawberk
+trp_tournament_knight_4|Henry de Blamont
+trp_tournament_knight_4_pl|Henry de Blamont
+trp_tournament_knight_5|Henri of Luxembourg
+trp_tournament_knight_5_pl|Henri of Luxembourg
+trp_tournament_knight_6|Gérard de Ligne
+trp_tournament_knight_6_pl|Gérard de Ligne
+trp_tournament_knight_7|Jacques de Lalain
+trp_tournament_knight_7_pl|Jacques de Lalain
+trp_tournament_knight_8|Philip of Flanders
+trp_tournament_knight_8_pl|Philip of Flanders
+trp_tournament_knight_9|Theobald of Blois
+trp_tournament_knight_9_pl|Theobald of Blois
+trp_tournament_knight_10|James d'Avesnes
+trp_tournament_knight_10_pl|James d'Avesnes
+trp_tournament_knight_11|Guy de Chatillian
+trp_tournament_knight_11_pl|Guy de Chatillian
+trp_tournament_knight_12|Raoul of Clermont
+trp_tournament_knight_12_pl|Raoul of Clermont
+trp_tournament_knight_13|Hugh of Burgandy
+trp_tournament_knight_13_pl|Hugh of Burgandy
+trp_tournament_knight_14|William des Barres
+trp_tournament_knight_14_pl|William des Barres
+trp_tournament_knight_15|Matthew de Walincourt
+trp_tournament_knight_15_pl|Matthew de Walincourt
+trp_tournament_knight_16|Robert de Beaumont
+trp_tournament_knight_16_pl|Robert de Beaumont
+trp_tournament_knight_17|Roger de Gaugi
+trp_tournament_knight_17_pl|Roger de Gaugi
+trp_tournament_knight_18|Robert of Dreux
+trp_tournament_knight_18_pl|Robert of Dreux
+trp_tournament_knight_19|David of Huntingdon
+trp_tournament_knight_19_pl|David of Huntingdon
+trp_tournament_knight_20|Henry of Champagne 
+trp_tournament_knight_20_pl|Henry of Champagne 
 trp_tutorial_trainer|Training Ground Master
 trp_tutorial_trainer_pl|Training Ground Master
 trp_galeas|Galeas
@@ -1085,6 +1125,16 @@ trp_tavern_minstrel_4|Wandering Skald
 trp_tavern_minstrel_4_pl|Minstrel
 trp_tavern_minstrel_5|Wandering Troubadour
 trp_tavern_minstrel_5_pl|Minstrel
+trp_tavern_minstrel_6|Wandering Minstrel
+trp_tavern_minstrel_6_pl|Minstrel
+trp_tavern_minstrel_7|Wandering Bard
+trp_tavern_minstrel_7_pl|Minstrel
+trp_tavern_minstrel_8|Wandering Ashik
+trp_tavern_minstrel_8_pl|Minstrel
+trp_tavern_minstrel_9|Wandering Skald
+trp_tavern_minstrel_9_pl|Minstrel
+trp_tavern_minstrel_10|Wandering Troubadour
+trp_tavern_minstrel_10_pl|Minstrel
 trp_kingdom_heroes_including_player_begin|kingdom heroes including player begin
 trp_kingdom_heroes_including_player_begin_pl|kingdom heroes including player begin
 trp_npc1|Ulrich
@@ -2703,8 +2753,6 @@ trp_kingdom_20_lady_18|Amira Morayma
 trp_kingdom_20_lady_18_pl|Morayma
 trp_kingdom_20_lady_19|Amira Zubayda
 trp_kingdom_20_lady_19_pl|Zubayda
-trp_kingdom_20_lady_10|Amira Butaina
-trp_kingdom_20_lady_10_pl|Butaina
 trp_kingdom_22_lady_1|Maria Laskarina
 trp_kingdom_22_lady_1_pl|Maria Laskarina
 trp_kingdom_22_lady_2|Theodora Raoulina
@@ -3212,7 +3260,6 @@ trp_town_11_2_weaponsmith|Weaponsmith
 trp_town_11_3_weaponsmith|Weaponsmith
 trp_town_14_1_weaponsmith|Weaponsmith
 trp_town_14_2_weaponsmith|Weaponsmith
-trp_town_14_2_weaponsmith|Weaponsmith
 trp_town_21_weaponsmith|Weaponsmith
 trp_town_22_weaponsmith|Weaponsmith
 trp_town_23_weaponsmith|Weaponsmith
@@ -3277,7 +3324,6 @@ trp_town_27_2_weaponsmith|Weaponsmith
 trp_town_27_3_weaponsmith|Weaponsmith
 trp_town_28_1_weaponsmith|Weaponsmith
 trp_town_28_2_weaponsmith|Weaponsmith
-trp_town_29_1_weaponsmith|Weaponsmith
 trp_town_29_1_weaponsmith|Weaponsmith
 trp_town_30_1_weaponsmith|Weaponsmith
 trp_town_31_1_weaponsmith|Weaponsmith
@@ -3560,7 +3606,6 @@ trp_town_25_2_horse_merchant|Horse Merchant
 trp_town_25_3_horse_merchant|Horse Merchant
 trp_town_25_4_horse_merchant|Horse Merchant
 trp_town_26_1_horse_merchant|Horse Merchant
-trp_town_30_2_horse_merchant|Horse Merchant
 trp_town_30_2_horse_merchant|Horse Merchant
 trp_town_27_1_horse_merchant|Horse Merchant
 trp_town_27_2_horse_merchant|Horse Merchant

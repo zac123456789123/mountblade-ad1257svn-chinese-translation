@@ -4,13 +4,13 @@ pt_enemy|Enemy
 pt_hero_party|Hero Party
 pt_village_defenders|Village Defenders
 pt_cattle_herd|Cattle Herd
-pt_looters|Looters
+pt_looters|Fures
 pt_manhunters|Manhunters
-pt_curonians|Curonian Warband
-pt_prussians|Prussian Rebels
-pt_samogitians|Samogitian Warriors
-pt_yotvingians|Yotvingian Raiders
-pt_welsh|Welsh Rebels
+pt_curonians|Kursi
+pt_prussians|Pruteni
+pt_samogitians|Zemaiciai
+pt_yotvingians|Jotvingiai
+pt_welsh|Cymry
 pt_peasant_rebels_euro|Peasant Rebels
 pt_peasant_rebels_scot|Peasant Rebels
 pt_peasant_rebels_eastern|Peasant Rebels
@@ -20,14 +20,14 @@ pt_peasant_rebels_marinid|Peasant Rebels
 pt_peasant_rebels_andalus|Peasant Rebels
 pt_peasant_rebels_mongol|Peasant Rebels
 pt_peasant_rebels_baltic|Peasant Rebels
-pt_steppe_bandits|Steppe Bandits
-pt_taiga_bandits|Tundra Bandits
-pt_desert_bandits|Desert Bandits
-pt_forest_bandits|Forest Bandits
-pt_mountain_bandits|Highway Bandits
-pt_sea_raiders|Sea Raiders
+pt_steppe_bandits|Sicarii Orientis
+pt_taiga_bandits|Sicarii Borealis
+pt_desert_bandits|Sicarii Vasti
+pt_forest_bandits|Silvae Sicarii
+pt_mountain_bandits|Montes Sicarii
+pt_sea_raiders|Piratae
 pt_robber_knights|Roving Robber Knight Band
-pt_deserters|Deserters
+pt_deserters|Deserti
 pt_merchant_caravan|Merchant Caravan
 pt_troublesome_bandits|Troublesome Bandits
 pt_bandits_awaiting_ransom|Bandits Awaiting Ransom
@@ -39,7 +39,7 @@ pt_spy|Ordinary Townsman
 pt_sacrificed_messenger|Sacrificed Messenger
 pt_forager_party|Foraging Party
 pt_scout_party|Scouts
-pt_patrol_party|Patrol
+pt_patrol_party|Custodes
 pt_messenger_party|Messenger
 pt_raider_party|Raiders
 pt_raider_captives|Raider Captives

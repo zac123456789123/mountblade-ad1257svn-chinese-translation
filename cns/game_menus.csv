@@ -4,9 +4,7 @@ mno_go_back|后 退。
 menu_start_phase_2|你 听 说 过 欧 洲， 这 里 是 一 片 被 互 相 竞 争 着 的 国 家 所 割 裂 开 来 的 土 地， 是 骑 士 和 商 人 的 天 堂， 所 有 追 逐 着 财 富， 权 力 抑 或 是 荣 誉 的 人 们 皆 聚 集 于 此， 骑 士， 雇 佣 兵， 杀 手， 探 险 家 们 在 这 片 土 地 上 四 散 奔 走… … 机 会 与 危 险 并 存 于 此， 你 相 信 你 将 放 弃 过 去 的 一 切， 开 始 一 段 新 的 旅 程。 你 觉 得 最 终， 命 运 掌 握 在 你 自 己 的 手 中， 你 可 以 随 心 所 欲， 无 论 过 程 怎 样， 一 次 伟 大 的 冒 险 将 就 此 展 开。 你 被 你 所 听 说 的 欧 洲 和 它 的 王 国 们 的 神 奇 传 说 所 吸 引， 你… … 
 mno_town_quest|加 入 一 支 商 队 来 到 达 你 的 目 的 地 
 menu_start_game_3|选 择 剧 本 
-mno_go_back|后 退。 
 menu_tutorial|你 进 入 了 训 练 场， 不 少 当 地 人 都 在 里 面 进 行 着 武 器 的 训 练。 在 这 里 你 可 以 通 过 各 种 训 练 来 提 高 你 的 战 斗 技 巧。 
-mno_continue|继 续 
 mno_choose_scene|场 景 选 择 
 mno_go_back_dot|后 退。 
 menu_reports|角 色 声 望： {reg5}^ 荣 誉 级 别： {reg6}^ 部 队 士 气： {reg8}^ 部 队 上 限： {reg7}^ 
@@ -21,13 +19,11 @@ mno_view_faction_relations_report|阵 营 关 系。
 mno_resume_travelling|继 续 旅 程。 
 menu_custom_battle_scene|(NO TRANS)
 menu_custom_battle_end|战 斗 结 束。 {s1}你 的 队 伍 杀 死 了 {reg5}人， 敌 人 的 队 伍 杀 死 了 {reg6}人。 你 杀 死 了 {reg7}人。 
-mno_continue|继 续 
 menu_start_game_1|选 择 你 的 角 色 性 别。 
 mno_start_male|男 
 mno_start_female|女 
 mno_enable_quickstart|使 用 快 速 开 始 模 式（测 试 专 用）
 mno_disable_quickstart|关 闭 快 速 开 始 模 式（测 试 专 用）
-mno_go_back|后 退。 
 menu_start_character_1|当 你 很 多 年 前 出 生 在 一 片 遥 远 的 大 陆 时， 你 的 父 亲 是… … 
 mno_start_noble|一 位 没 落 的 贵 族。 
 mno_start_merchant|一 位 旅 行 商 人。 
@@ -35,14 +31,12 @@ mno_start_guard|一 位 老 兵。
 mno_start_forester|一 位 猎 人。 
 mno_start_nomad|一 位 游 牧 民。 
 mno_start_thief|一 位 盗 贼。 
-mno_go_back|后 退。 
 menu_start_character_2|{s10}^^ 后 来， 你 在 少 年 时 期 做 过… … 
 mno_page|贵 族 的 侍 从。 
 mno_apprentice|手 工 匠 的 学 徒。 
 mno_stockboy|商 人 们 的 帮 手。 
 mno_urchin|大 街 上 的 顽 童。 
 mno_nomad|大 草 原 上 的 孩 子。 
-mno_go_back|后 退。 
 menu_start_character_3|{s11}^^ 后 来， 在 你 的 少 年 时 期， 你 的 生 活 理 所 应 当 的 改 变 了。 你 成 为 了 一 个… … 
 mno_squire|骑 士 的 扈 从。 
 mno_lady|贵 族 的 侍 女。 
@@ -51,35 +45,23 @@ mno_student|学 徒。
 mno_peddler|小 商 贩。 
 mno_craftsman|铁 匠。 
 mno_poacher|偷 猎 者。 
-mno_go_back|后 退。 
 menu_start_character_4|{s12}^^ 不 过 在 一 段 时 间 以 后， 一 切 都 发 生 了 变 化， 你 决 定 孤 身 一 人 去 远 方 冒 险。 让 你 做 出 这 个 举 动 的 原 因 是… … 
 mno_revenge|私 人 恩 怨。 
 mno_death|失 去 恋 人 的 痛 苦。 
 mno_wanderlust|对 于 探 险 的 爱 好。 
 mno_disown|从 家 中 被 驱 赶 了 出 来。 
 mno_greed|对 于 权 力 与 财 富 的 渴 望。 
-mno_go_back|后 退。 
 menu_choose_skill|{s13}
 mno_begin_adventuring|你 成 为 了 一 名 冒 险 者 追 寻 自 己 的 命 运。 
-mno_go_back_dot|后 退。 
 menu_past_life_explanation|{s3}
 mno_view_next|{s5}
-mno_continue|继 续 
-mno_go_back_dot|后 退。 
 menu_morale_report|{s1}
-mno_continue|继 续 
 menu_courtship_relations|{s1}
-mno_continue|继 续 
 menu_lord_relations|{s1}
-mno_continue|继 续 
 menu_companion_report|{s7}{s1}
-mno_continue|继 续 
-mno_go_back_dot|后 退。 
 menu_character_report|{s9}
 menu_party_size_report|{s1}
-mno_continue|继 续 
 menu_faction_relations_report|{s1}
-mno_continue|继 续 
 menu_camp|营 地 已 经 建 好 了， 你 想 要 做 什 么？ 
 mno_camp_action_1|四 处 走 走。 
 mno_action_export_import|导 入 /导 出 NPC。 
@@ -89,11 +71,9 @@ mno_camp_manage_inventory|管 理 团 队 物 品
 mno_camp_action|干 点 事 情。 
 mno_camp_wait_here|在 这 里 待 一 会 儿。 
 mno_camp_cheat|作 弊 菜 单！ 
-mno_resume_travelling|继 续 旅 程。 
 menu_camp_cheat|选 择 作 弊 项 目： 
 mno_camp_cheat_find_item|查 找 项 目… …
 mno_camp_cheat_find_item|改 变 天 气… … 
-menu_camp_action|选 择 你 要 做 的 事： 
 mno_camp_recruit_prisoners|从 俘 虏 中 募 兵。 
 mno_action_read_book|选 一 本 书 读。 
 mno_action_rename_kingdom|重 命 名 你 的 王 国 
@@ -102,9 +82,7 @@ mno_camp_action_4|退 回 营 地 菜 单。
 menu_camp_recruit_prisoners|你 答 应 这 些 俘 虏， 如 果 他 们 加 入 你 的 话， 你 就 给 他 们 以 自 由。 {s18}
 mno_camp_recruit_prisoners_accept|接 受。 
 mno_camp_recruit_prisoners_reject|拒 绝。 
-mno_continue|继 续 
 menu_camp_no_prisoners|你 没 有 俘 虏 可 以 招 募。 
-mno_continue|继 续 
 menu_camp_action_read_book|选 一 本 书 读： 
 mno_action_read_book_1|{s1}。 
 mno_action_read_book_2|{s1}。 
@@ -113,9 +91,7 @@ mno_action_read_book_4|{s1}。
 mno_action_read_book_5|{s1}。 
 mno_action_read_book_6|{s1}。 
 mno_action_read_book_7|{s1}。 
-mno_camp_action_4|退 回 营 地 菜 单。 
 menu_camp_action_read_book_start|{s1}
-mno_continue|继 续 
 menu_retirement_verify|你 现 在 的 时 间 是 {reg0}天。 运 气 是 {reg1}。 你 确 实 想 要 从 这 场 冒 险 中 退 出 吗？ 
 mno_retire_yes|是 的。 
 mno_retire_no|不。 
@@ -132,12 +108,8 @@ mno_cattle_kill_2|二。
 mno_cattle_kill_3|三。 
 mno_cattle_kill_4|四。 
 mno_cattle_kill_5|五。 
-mno_go_back_dot|后 退。 
 menu_arena_duel_fight|你 和 你 的 对 手 准 备 决 斗。 
-mno_continue|继 续 
-mno_continue|继 续 
 menu_simple_encounter|{s2}你 将 以 {reg10}人 的 部 队 迎 战 对 手 {reg11}人。 
-mno_encounter_attack|攻 入 敌 阵！ 
 mno_encounter_attack|攻 入 敌 阵！ 
 mno_encounter_order_attack|坐 镇 指 挥， 让 你 的 部 队 攻 击。 
 mno_encounter_leave|离 开。 
@@ -147,20 +119,15 @@ menu_encounter_retreat_confirm|队 员 中 最 高 战 术 技 能 为 {reg2}级
 mno_leave_behind|实 行 计 划。 以 牺 牲 掉 那 些 人 的 代 价 拯 救 剩 下 的 部 队。 
 mno_dont_leave_behind|不， 我 们 不 会 牺 牲 任 何 一 个 战 友。 
 menu_encounter_retreat|你 命 令 {reg4}名 战 士 负 责 在 大 部 队 撤 退 的 时 候 拖 住 敌 人 前 进 的 步 伐。 
-mno_continue|继 续 
 menu_order_attack_begin|你 的 部 队 已 经 做 好 了 战 斗 准 备。 
 mno_order_attack_begin|下 令 攻 击。 
 mno_call_back|后 撤。 
 menu_order_attack_2|{s4}^^ 我 军 人 员 伤 亡： {s8}^^ 敌 军 人 员 伤 亡： {s9}
 mno_order_attack_continue|继 续 攻 击。 
 mno_order_retreat|让 你 的 士 兵 撤 回 来。 
-mno_continue|继 续 
 menu_battle_debrief|{s11}伤 亡： ^^ 我 军 伤 亡： {s8}{s10}^^ 敌 军 伤 亡： {s9}
-mno_continue|继 续 
 menu_total_victory|你 不 该 看 这 个… … {s9}
-mno_continue|继 续 
 menu_enemy_slipped_away|{s17}
-mno_continue|继 续 
 menu_permanent_damage|{s0}
 mno_s0|{s0}
 menu_pre_join|你 遇 到 {s2}正 在 攻 击 {s1}， 你 决 定… … 
@@ -169,11 +136,9 @@ mno_pre_join_help_defenders|对 {s1}施 以 援 手。
 mno_pre_join_leave|不 卷 入 纷 争。 
 menu_join_battle|你 决 定 帮 助 {s2}对 抗 {s1}， 你 将 有 {reg10}名 士 兵 参 加 战 斗 对 抗 {reg11}个 敌 人。 
 mno_join_attack|攻 入 敌 阵！ 
-mno_join_attack|攻 入 敌 阵！ 
 mno_join_order_attack|仅 仅 让 你 的 士 兵 加 入 你 的 盟 友。 
 mno_join_leave|离 开。 
 menu_join_order_attack|{s4}^^ 我 军 伤 亡： {s8}^^ 盟 军 伤 亡： {s9}^^ 敌 军 伤 亡： {s10}
-mno_continue|继 续 
 menu_zendar|你 进 入 了 禅 达 镇。 
 mno_zendar_enter|【 进 入 】 
 mno_zendar_enter_door|去 镇 广 场。 
@@ -186,36 +151,17 @@ mno_zendar_arena_door|进 入 竞 技 场。
 mno_town_1_leave|【 进 入 】 
 menu_salt_mine|你 进 入 了 盐 矿。 
 mno_enter|进 入 
-mno_leave|离 开 
 menu_four_ways_inn|你 进 入 了 四 方 客 栈。 
-mno_enter|进 入 
-mno_leave|离 开 
 menu_test_scene|你 进 入 了 测 试 场 景。 
-mno_enter|进 入 1。 
-mno_enter|进 入 2。 
-mno_enter|进 入 3。 
-mno_enter|进 入 4。 
-mno_enter|进 入 5。 
-mno_enter|进 入 6。 
-mno_enter|进 入 7。 
-mno_enter|进 入 8。 
-mno_enter|进 入 9。 
-mno_leave|离 开 
-mno_leave|离 开 
 menu_dhorak_keep|你 进 入 了 多 拉 克 要 塞。 
-mno_enter|进 入 
-mno_leave|离 开 
 menu_join_siege_outside|{s1}正 被 {s2}围 攻。 
 mno_approach_besiegers|进 入 围 城 营 地。 
 mno_pass_through_siege|穿 过 围 城 进 入 {s1}。 
-mno_leave|离 开 
 menu_cut_siege_without_fight|围 城 方 放 你 进 入 了 城 堡。 
-mno_continue|继 续 
 menu_besiegers_camp_with_allies|{s1}依 然 被 围 困 中， 你 和 你 的 部 队 在 上 空 飞 扬 着 {s2}的 旗 帜 的 围 城 营 地 那 里 被 热 烈 的 欢 迎 了。 
 mno_talk_to_siege_commander|要 求 和 指 挥 官 会 面。 
 mno_join_siege_with_allies|加 入 下 一 轮 的 攻 城。 
 mno_join_siege_stay_back|坐 镇 指 挥， 让 你 的 部 队 协 助 下 一 轮 的 攻 城。 
-mno_leave|离 开 
 menu_castle_outside|你 在 {s2}的 外 面。 {s11}{s3}{s4}
 mno_approach_gates|走 近 城 门， 叫 守 卫 出 来。 
 mno_town_sneak|伪 装， 偷 偷 溜 进 {s7}里 去。 
@@ -228,23 +174,11 @@ mno_request_shelter|要 求 进 入 城 堡。
 mno_request_meeting_commander|要 求 和 城 堡 中 的 某 人 会 面。 
 mno_guard_leave|离 开。 
 menu_castle_entry_granted|简 短 的 等 待 之 后， 守 卫 打 开 了 城 门， 允 许 你 和 你 的 部 队 进 入 城 中。 
-mno_continue|继 续 
 menu_castle_entry_denied|城 堡 中 的 指 挥 官 拒 绝 了 你 的 请 求， 禁 止 你 走 近 城 池 一 步， 否 则 守 军 就 会 向 你 发 起 攻 击。 
-mno_continue|继 续 
 menu_castle_meeting|你 想 要 见 谁？ 
-mno_guard_meet_s5|{s5}。 
-mno_guard_meet_s5|{s5}。 
-mno_guard_meet_s5|{s5}。 
-mno_guard_meet_s5|{s5}。 
-mno_guard_meet_s5|{s5}。 
-mno_guard_meet_s5|{s5}。 
-mno_guard_meet_s5|{s5}。 
-mno_guard_meet_s5|{s5}。 
-mno_guard_meet_s5|{s5}。 
 mno_guard_meet_s5|{s5}。 
 mno_forget_it|算 了。 
 menu_castle_meeting_selected|你 的 申 请 被 传 递 上 去 了， 最 终 {s6}出 现 在 你 面 前 与 你 进 行 交 涉。 
-mno_continue|继 续 
 menu_castle_besiege|你 已 经 在 围 攻 {s1}。 {s2}{s3}
 mno_siege_request_meeting|要 求 和 城 堡 的 指 挥 官 会 面。 
 mno_wait_24_hours|等 到 明 天。 
@@ -254,38 +188,27 @@ mno_build_ladders|准 备 攻 击 城 墙。
 mno_build_siege_tower|建 立 攻 城 塔。 
 mno_lift_siege|放 弃 围 城。 
 menu_siege_attack_meets_sally|守 城 方 派 了 部 队 来 对 你 进 行 还 击。 
-mno_continue|继 续 
 menu_siege_attack_meets_sally_player|你 的 部 队 已 经 派 出 去 阻 击 攻 城 者 了。 
-mno_continue|继 续 
 menu_castle_besiege_inner_battle|{s1}
-mno_continue|继 续 
 menu_construct_ladders|队 员 中 最 高 工 程 技 能 为 {reg2}级， 由 此 {reg3? 你 预 期 :{s3}预 期}需 要 {reg4}小 时 来 安 设 云 梯。 
 mno_build_ladders_cont|继 续。 
-mno_go_back|后 退。 
 menu_construct_siege_tower|队 员 中 最 高 工 程 技 能 为 {reg2}级， 由 此 {reg3? 你 预 期 :{s3}预 期}需 要 {reg4}小 时 来 建 立 攻 城 塔。 
 mno_build_siege_tower_cont|开 始 建 造。 
-mno_go_back|后 退。 
 menu_castle_attack_walls_simulate|{s4}^^ 我 军 伤 亡： {s8}^^ 敌 军 伤 亡： {s9}
-mno_continue|继 续 
 menu_castle_attack_walls_with_allies_simulate|{s4}^^ 我 军 伤 亡： {s8}^^ 盟 军 伤 亡： {s9}^^ 敌 军 伤 亡： {s10}
-mno_continue|继 续 
 menu_castle_taken_by_friends|这 里 已 经 没 什 么 好 看 的 了。 
 menu_castle_taken|你 的 部 队 攻 陷 了 {s3}， 现 在 你 已 经 完 全 地 掌 控 了 这 个 {reg2? 城 镇:城 堡}。 {reg1? 你 可 以 在 这 里 驻 军 以 防 那 些 打 算 重 新 夺 回 它 的 敌 军。 同 时， 你 可 以 选 择 保 留 这 座 {reg2? 城 镇:城 堡} 给 自 己 或 者 分 封 给 某 个 忠 诚 的 部 下… … :}
-mno_continue|继 续 
 menu_castle_taken_2|你 的 部 队 攻 陷 了 {s3}， 现 在 你 已 经 完 全 地 掌 控 了 这 个 城 堡。 现 在 应 该 把 这 个 胜 利 的 消 息 告 诉 给 {s9}了。 {s5}
 mno_castle_taken_claim|要 求 他 把 {s3}封 给 你。 
 mno_castle_taken_claim_2|要 求 他 把 {s3}封 为 你 的 配 偶。 
 mno_castle_taken_no_claim|什 么 也 不 要 求。 
 menu_requested_castle_granted_to_player|你 从 你 的 国 王 {s3}那 里 得 到 通 知。 ^^ {reg4? 她:他} 决 定 将 {s2}{reg3? 和 附 近 的 {s4}村 :}封 给 你， 附 带 那 里 所 有 的 收 入 和 权 益， 条 件 是 在 这 期 间 你 要 保 持 宣 誓 效 忠 于 {reg4? 她:他} 的 名 下。 
-mno_continue|继 续 
 menu_requested_castle_granted_to_player_husband|你 从 你 的 国 王 {s3}那 里 得 到 通 知。 ^^ {reg4? 她:他} 决 定 将 {s2}{reg3? 和 附 近 的 {s4}村 :}封 给 你 的 丈 夫， ｛ s7 ｝。 
-mno_continue|继 续 
 menu_requested_castle_granted_to_another|你 从 你 的 国 王 {s3}那 里 得 到 通 知。 ^^ 我 听 说 你 很 英 勇 地 战 斗 并 把 {s2}给 攻 下 来 了。 你 的 胜 利 极 大 的 鼓 舞 了 我 们。 你 说 过 你 想 要 我 把 这 个 地 方 封 给 你， 但 恐 怕 我 并 不 能 同 意 你 的 要 求， 因 为 在 我 统 治 的 范 围 内， 你 已 经 有 了 封 地。 所 以 我 送 你 {reg6}第 纳 尔 作 为 你 的 军 费 开 支， 而 {s2}， 我 把 它 封 给 {s5}了。 
 mno_accept_decision|接 受 你 的 君 主 的 决 定。 
 mno_leave_faction|你 受 到 了 不 公 正 的 对 待！ 你 决 定 放 弃 你 对 你 的 君 主 所 发 的 誓 言！ 
 menu_requested_castle_granted_to_another_female|你 从 你 的 国 王 {s3}那 里 得 到 通 知。 ^^ 我 听 说 你 很 英 勇 地 战 斗 并 把 {s2}给 攻 下 来 了。 你 的 胜 利 极 大 的 鼓 舞 了 我 们。 你 说 过 你 想 要 我 把 这 个 地 方 封 给 你， 但 恐 怕 我 并 不 能 同 意 你 的 要 求， 因 为 在 我 统 治 的 范 围 内， 你 已 经 有 了 封 地。 所 以 我 送 你 {reg6}第 纳 尔 作 为 你 的 军 费 开 支， 而 {s2}， 我 把 它 封 给 {s5}了。 
-mno_accept_decision|接 受 你 的 君 主 的 决 定。 
-menu_leave_faction|放 弃 你 的 誓 言 是 一 件 很 严 重 的 事 情。 你 的 君 主 将 宣 判 你 有 罪， 并 没 收 你 的 土 地 与 城 堡。 如 果 你 自 愿 交 出 你 的 土 地 与 城 堡， 他 也 许 会 饶 恕 你， 让 你 走。 
+menu_leave_faction|放 弃 你 的 誓 言 是 一 种 无 异 于 自 杀 的 举 动。 你 的 君 主 将 宣 判 你 有 罪， 并 没 收 你 的 土 地 与 城 堡。 如 果 你 自 愿 交 出 你 的 土 地 与 城 堡， 他 也 许 会 饶 恕 你， 让 你 走。 
 mno_leave_faction_give_back|我 放 弃 我 的 誓 言 并 交 出 我 的 领 地。 
 mno_leave_faction_hold|我 放 弃 我 的 誓 言， 并 以 自 己 的 名 义 占 有 我 的 领 地， 包 括 {s2}。 
 mno_leave_faction_cancel|我 改 变 主 意 了。 我 还 是 对 我 的 君 主 效 忠。 
@@ -293,7 +216,6 @@ menu_give_center_to_player|获 赐 新 封 地！ {s1}将 {s2}赏 赐 给 你。
 mno_give_center_to_player_accept|接 受 这 个 建 议。 
 mno_give_center_to_player_reject|拒 绝， 你 不 想 要 {s2}。 
 menu_give_center_to_player_2|短 暂 的 仪 式 之 后， 你 已 受 封 新 封 地。 你 现 在 是 {s2}{reg3? 和 从 属 的 {s4}村 :}的 领 主。 {reg3? 它 们:它} 会 成 为 你 新 的 封 地。 你 可 以 在 这 里 横 征 暴 敛， 拉 壮 丁。 但 你 也 得 保 证 这 里 的 安 全 和 秩 序。 
-mno_continue|继 续 
 menu_oath_fulfilled|你 已 经 发 誓 为 {s1}服 务 一 段 时 间。 你 的 誓 言 已 经 完 结 了。 你 将 准 备 怎 么 办？ 
 mno_renew_oath|继 续 向 {s1}发 誓， 再 服 务 一 个 月。 
 mno_dont_renew_oath|恢 复 自 由 身。 
@@ -302,9 +224,7 @@ mno_dplmc_negotiate_with_besieger|与 攻 城 者 谈 判。
 mno_siege_defender_join_battle|参 加 战 斗。 
 mno_siege_defender_troops_join_battle|坐 镇 指 挥， 让 你 的 部 队 攻 击。 
 menu_siege_join_defense|{s4}^^ 我 军 伤 亡： {s8}^^ 盟 军 伤 亡： {s9}^^ 敌 军 伤 亡： {s10}
-mno_continue|继 续 
 menu_enter_your_own_castle|{s10}
-mno_continue|继 续 
 menu_village|{s10}{s12}^{s11}^{s6}{s7}
 mno_auto_sell|自 动 出 售 物 品。 
 mno_auto_buy_food|自 动 购 买 食 物。 
@@ -326,16 +246,11 @@ menu_village_hostile_action|你 现 在 打 算 做 些 什 么？
 mno_village_take_food|强 征 给 养。 
 mno_village_steal_cattle|偷 一 些 牛。 
 mno_village_loot|抢 劫 这 个 村 子， 然 后 把 它 夷 为 平 地！ 
-mno_forget_it|算 了。 
 menu_recruit_volunteers|{s18}
-mno_continue|继 续 
 mno_recruit_them|收 编 他 们（{reg6}第 纳 尔）。 
 mno_recruit_one_of_them|收 编 其 中 一 名（{reg7}第 纳 尔）。 
-mno_forget_it|算 了。 
 menu_village_hunt_down_fugitive_defeated|这 个 世 界 在 你 眼 前 一 暗。 当 你 再 次 睁 开 眼 睛 的 时 候， 你 意 识 到 自 己 浸 泡 在 自 己 的 鲜 血 里， 但 幸 运 的 是， 你 没 有 一 处 创 伤 是 致 命 的。 
-mno_continue|继 续 
 menu_village_infest_bandits_result|{s9}
-mno_continue|继 续 
 menu_village_infestation_removed|经 过 足 以 令 人 传 诵 的 英 勇 的 战 斗， 你 和 你 的 同 伴 打 败 了 强 盗。 这 个 村 子 再 次 安 全 了。 经 过 他 们 的 抢 劫 以 后， 村 民 几 乎 没 有 什 么 东 西 剩 下 了， 但 他 们 还 是 拿 出 了 任 何 他 们 有 的 东 西。 
 mno_village_bandits_defeated_accept|我 接 受 你 们 的 赠 品。 
 mno_village_bandits_defeated_cont|你 们 比 我 更 需 要 这 些 东 西。 你 们 的 感 谢 已 经 足 够 了。 
@@ -349,24 +264,17 @@ mno_center_build_messenger_post|建 造 一 个 驿 站。
 mno_center_build_prisoner_tower|建 造 一 座 囚 犯 塔。 
 mno_center_build_fortifications_1|初 步 加 固 堡 垒 的 防 御 工 事。 
 mno_center_build_fortifications_2|再 次 加 固 堡 垒 的 防 御 工 事。 
-mno_go_back_dot|后 退。 
 menu_center_improve|{s19}队 员 中 最 高 工 程 技 能 为 {reg2}级， 由 此 {reg3? 你 预 期 :{s3}预 期}建 造 {s4}要 花 费 {reg5}第 纳 尔， 升 级 需 要 {reg6}日。 
 mno_dplmc_improve_cont|继 续。（从 金 库 支 取） 
 mno_improve_cont|继 续。 
-mno_forget_it|算 了。 
 mno_improve_not_enough_gold|没 钱。 
 menu_town_bandits_failed|{s4}{s5}
-mno_continue|继 续 
 menu_town_bandits_succeeded|你 如 同 割 麦 子 一 般 干 掉 了 强 盗！ 你 再 次 孤 身 一 人 站 在 街 头， 在 你 的 周 围 散 布 着 强 盗 们 的 尸 体， 看 到 这 一 幕， 他 们 的 残 党 惊 慌 地 四 散 而 去， 消 失 在 街 道 深 处。 搜 寻 尸 体 后 你 发 现 了 一 袋 钱， 或 者 它 属 于 前 一 个 无 辜 的 牺 牲 者， 或 者 是 有 人 想 要 买 你 的 命。 
-mno_continue|继 续 
 menu_village_steal_cattle_confirm|队 员 中 最 高 掠 夺 技 能 为 {reg2}级， 由 此 {reg3? 你 预 期 :{s1}预 期}你 最 多 可 以 偷 到 {reg4}头 牛。 
 mno_village_steal_cattle_confirm|继 续。 
-mno_forget_it|算 了。 
 menu_village_steal_cattle|{s1}
-mno_continue|继 续 
 menu_village_take_food_confirm|你 发 现 很 难 强 迫 农 民 们 交 出 他 们 珍 贵 的 补 给 物 资。 这 至 少 需 要 花 费 一 个 小 时。 
 mno_village_take_food_confirm|继 续 吧。 
-mno_forget_it|算 了。 
 menu_village_take_food|村 民 们 勉 强 交 出 了 一 些 给 养。 
 mno_take_supplies|带 走。 
 mno_let_them_keep_it|算 了。 
@@ -374,12 +282,8 @@ menu_village_start_attack|一 些 愤 怒 的 村 民 拿 起 农 具 准 备 �
 mno_village_raid_attack|镇 压 他 们。 
 mno_village_raid_leave|离 开。 
 menu_village_loot_no_resist|村 民 们 在 你 的 军 队 前 望 风 而 逃， 村 庄 由 你 控 制 了。 
-mno_village_loot|抢 劫 这 个 村 子， 然 后 把 它 夷 为 平 地！ 
-mno_village_raid_leave|离 开。 
 menu_village_loot_complete|在 你 的 命 令 下， 你 的 队 伍 洗 劫 了 这 个 村 子， 抢 走 了 所 有 值 钱 的 东 西， 将 所 有 的 房 子 付 之 一 炬。 不 过 所 有 的 收 入 加 起 来， 也 才 {reg1}第 纳 尔。 
-mno_continue|继 续 
 menu_village_loot_defeat|村 民 们 以 极 大 的 勇 气 和 决 心， 团 结 一 致， 赶 跑 了 你 的 军 队。 
-mno_continue|继 续 
 menu_village_loot_continue|你 还 想 继 续 洗 劫 这 个 村 子 吗？ 
 mno_disembark_yes|是 的。 
 mno_disembark_no|不。 
@@ -413,12 +317,9 @@ mno_walled_center_manage|管 理 这 个 {reg0?城 镇:城 堡}。
 mno_walled_center_move_court|移 都 到 这 里。 
 mno_castle_station_troops|管 理 {s10}驻 军 
 mno_castle_wait|在 这 里 休 息 一 会 儿 {s1}。 
-mno_recruit_volunteers|征 募 志 愿 兵。 
-mno_collect_taxes_qst|为 {s1}{reg5? 继 续 征 税:征 税}。 
 mno_town_leave|离 开… … 
 mno_town_leave_door|离 开 此 地。 
 menu_cannot_enter_court|领 主 的 大 厅 里 正 在 举 行 一 场 宴 会， 但 是 你 还 没 有 足 够 资 格 进 入。 或 者 想 办 法 增 加 声 望 来 赢 得 入 场 劵， 或 者 在 竞 技 大 会 上 胜 出 也 是 个 捷 径。 
-mno_continue|继 续 
 menu_lady_visit|你 想 要 拜 访 谁 呢？ 
 mno_visit_lady_1|拜 访 {s12}
 mno_visit_lady_2|拜 访 {s12}
@@ -429,13 +330,9 @@ mno_visit_lady_5|拜 访 {s12}
 mno_visit_lady_6|拜 访 {s12}
 mno_visit_lady_7|拜 访 {s12}
 mno_visit_lady_8|拜 访 {s12}
-mno_leave|离 开 
 menu_town_tournament_lost|你 在 竞 技 大 会 中 被 淘 汰 了。 {s8}
-mno_continue|继 续 
 menu_town_tournament_won|你 在 {s3}的 竞 技 大 会 中 获 得 了 优 胜！ 听 到 周 围 的 人 们 高 呼 着 你 的 名 字， 你 感 到 无 限 荣 耀。 除 此 之 外， 你 还 获 得 了 {reg9}第 纳 尔 的 奖 金。 {s8}
-mno_continue|继 续 
 menu_town_tournament_won_by_another|作 为 当 日 最 终 的 胜 利 的 {reg3? 人:人}， {s1}赢 得 了 该 场 竞 技 大 会 的 奖 金 以 及 荣 誉。 
-mno_continue|继 续 
 menu_town_tournament|{s1}你 现 在 处 于 竞 技 大 会 中 的 第 {reg0}轮， 现 在 还 剩 有 {reg1}名 参 与 者。 下 一 轮 中， 将 会 有 {reg2}队， 其 中 每 队 有 {reg3}{reg4? 人:人} 参 加 战 斗。 
 mno_tournament_view_participants|察 看 参 与 者 名 单。 
 mno_tournament_bet|在 自 己 身 上 下 注。 
@@ -452,81 +349,55 @@ mno_bet_50_denars|50 第 纳 尔。
 mno_bet_20_denars|20 第 纳 尔。 
 mno_bet_10_denars|10 第 纳 尔。 
 mno_bet_5_denars|5 第 纳 尔。 
-mno_go_back_dot|后 退。 
 menu_tournament_bet_confirm|如 果 你 下 {reg1}第 纳 尔 的 赌 注 的 话， 在 你 获 得 优 胜 时， 你 将 会 赢 得 {reg2}第 纳 尔。 这 样 可 以 吗？ 
 mno_tournament_bet_accept|可 以。 
 mno_tournament_bet_cancel|算 了。 
 menu_tournament_participants|你 从 一 位 正 在 哭 泣 的 失 败 者 那 里 打 听 到 了 这 场 竞 技 大 赛 中 参 与 者 的 名 单。 他 们 是 :^{s11}
-mno_go_back_dot|后 退。 
 menu_collect_taxes|队 员 中 最 高 交 易 技 能 为 {reg2}级， 由 此 {reg3? 你 预 期 :{s1}预 期}需 要 {reg4}天 来 完 成 征 税… … 
 mno_start_collecting|开 始 征 收。 
 mno_collect_later|待 会 再 说。 
 menu_collect_taxes_complete|你 从 {s3}征 收 了 {reg3}第 纳 尔 的 税 款。 {s19}期 待 你 把 这 些 钱 带 去 给 他。 
-mno_continue|继 续 
 menu_collect_taxes_rebels_killed|你 成 功 地 镇 压 了 反 抗。 任 何 想 站 起 来 反 抗 的 人 将 会 惧 怕 并 再 三 考 虑 的。 
-mno_continue|继 续 
 menu_collect_taxes_failed|你 从 {s3}征 收 了 {reg3}第 纳 尔 的 税 款 的 时 候， 一 场 反 抗 爆 发 了。 现 在 你 不 得 不 带 着 这 些 税 款 前 去 给 {s1}， 虽 然 他 可 能 会 很 失 望， 不 过 总 比 一 点 都 没 收 到 要 好 的 多… … 
-mno_continue|继 续 
 menu_collect_taxes_revolt_warning|{s3}的 人 们 对 你 要 求 的 高 税 款 表 示 强 烈 的 义 愤。 如 果 你 继 续 压 迫 他 们， 他 们 将 准 备 起 来 反 抗。 
-mno_continue_collecting_taxes|依 然 像 以 前 那 样 征 税。 
+mno_continue_collecting_taxes|无 视 他 们， 依 然 像 以 前 那 样 征 税。 
 mno_halve_taxes|同 意 减 轻 一 半 的 税 款。 （{s1}也 许 会 不 满）。 
 menu_collect_taxes_revolt|当 你 在 {s3}收 取 税 款 的 时 候， 突 然 看 见 一 大 群 愤 怒 的 {reg9? 农 民:居 民} 已 经 对 你 提 出 的 高 税 款 忍 无 可 忍， 正 挥 舞 着 火 把 和 武 器 逐 渐 向 你 逼 近。 这 是 要 向 你 开 战！ 
-mno_continue|继 续 
 menu_train_peasants_against_bandits|队 员 中 最 高 训 练 技 能 为 {reg2}级， 由 此 {reg3? 你 预 期 :{s1}预 期}需 要 {reg4}小 时 来 进 行 理 论 讲 解， 使 这 些 农 民 变 成 英 勇 的 战 士。 在 这 期 间 他 们 将 会 学 到 战 斗 的 基 本 知 识 以 及 如 何 去 沉 着 冷 静 地 应 对 一 切 战 斗。 
 mno_make_preparation|训 练 他 们。 
 mno_train_later|待 会 再 说。 
 menu_train_peasants_against_bandits_ready|你 对 那 些 农 民 们 进 行 了 一 些 最 基 本 的 训 练， 你 认 为 他 们 中 的 {reg0}人 {reg1? 已 经:已 经} 完 全 地 掌 握 了 训 练 的 内 容， {reg1? 他 们:他} 已 经 准 备 好 进 行 实 战 演 习 了。 
 mno_peasant_start_practice|开 始 演 习。 
 menu_train_peasants_against_bandits_training_result|{s0}
-mno_continue|继 续 
 menu_train_peasants_against_bandits_attack|当 你 准 备 继 续 训 练 的 时 候， 一 个 从 村 子 里 来 的 卫 兵 向 你 奔 来， 呼 喊 着 告 急。 那 些 强 盗 已 经 出 现 在 视 野 里， 正 向 {s3}奔 去。 村 长 恳 求 你 组 织 那 些 你 训 练 的 民 兵 去 抵 抗 他 们。 
 mno_peasants_against_bandits_attack_resist|准 备 开 战 吧！ 
 menu_train_peasants_against_bandits_attack_result|{s9}
-mno_continue|继 续 
 menu_train_peasants_against_bandits_success|这 些 强 盗 被 打 败 了！ 那 些 还 活 着 的 和 意 识 还 清 醒 的 都 夹 着 尾 巴 逃 跑 了， 他 们 惧 怕 这 些 农 民 和 他 们 的 新 教 官。 经 过 他 们 的 抢 劫 以 后， 村 民 几 乎 没 有 什 么 东 西 剩 下 了， 但 他 们 还 是 拿 出 了 任 何 他 们 有 的 东 西 以 表 达 感 激 之 情。 
-mno_village_bandits_defeated_accept|我 接 受 你 们 的 赠 品。 
-mno_village_bandits_defeated_cont|你 们 比 我 更 需 要 这 些 东 西。 你 们 的 感 谢 已 经 足 够 了。 
 menu_disembark|想 上 岸 吗？ 
-mno_disembark_yes|是 的。 
-mno_disembark_no|不。 
 menu_ship_reembark|想 上 船 吗？ 
 mno_reembark_yes|是 的。 
 mno_reembark_no|不。 
 menu_center_reports|镇 名： {s1}^ 租 金 收 入： {reg1}第 纳 尔 ^ 税 收： {reg2}第 纳 尔 ^ 食 物 储 备： 供 应 {reg3}日 
 mno_to_price_and_productions|报 告 价 格 与 产 品。 
-mno_go_back_dot|后 退。 
 menu_price_and_production|产 品 有： ^（提 示： 基 础 的/ 原 材 料 加 工 而 来 的/ 材 料 加 工 并 加 以 修 饰 的 )^{s1}^^价 格 因 素 有： ^{s2}
-mno_go_back_dot|后 退。 
 menu_town_trade|你 向 市 场 走 去。 
-mno_auto_sell|自 动 出 售 物 品。 
 mno_assess_prices|估 价。 
 mno_trade_with_arms_merchant|与 武 器 商 人 交 易。 
 mno_trade_with_armor_merchant|与 盔 甲 商 人 交 易。 
 mno_trade_with_horse_merchant|与 马 匹 贩 子 交 易。 
 mno_trade_with_goods_merchant|与 杂 货 商 人 交 易。 
-mno_auto_buy_food|自 动 购 买 食 物。 
 mno_back_to_town_menu|返 回。 
 menu_trade_auto_sell_begin|Items in the inventory of companions which selected as the type for sell and their prices below {reg1} denars will be sold to {reg2?all merchants:the elder} in current {reg2?town:village} automatically. Specifically foods, trade goods and books will never be sold.^^You can change some settings here freely. 
-mno_continue|继 续 
 mno_change_settings|改 变 设 置。 
-mno_go_back|后 退。 
 menu_trade_auto_buy_food_begin|You will buy any food which you don't have for one portion automatically. Do you want to continue?
-mno_continue|继 续 
-mno_go_back|后 退。 
 menu_town_trade_assessment_begin|你 偶 然 听 到 了一 些 关 于 物 品 价 格 的 情 报。 ^你 试 着 从 这 些 情 报 中 寻 找 到 一 些 有 用 的 东 西。 
-mno_continue|继 续 
-mno_go_back_dot|后 退。 
 menu_town_trade_assessment|队 员 中 最 高 交 易 技 能 为 {reg2}级， {reg3? 你 尝 试 算 出 利 润 最 高 的 商 品 :{s1}尝 试 算 出 利 润 最 高 的 商 品}。 {s2}
-mno_continue|继 续 
 menu_sneak_into_town_suceeded|假 装 成 穿 着 破 烂 的 朝 圣 者， 你 骗 过 了 守 卫， 顺 利 的 混 入 城 里。 
-mno_continue|继 续 
 menu_sneak_into_town_caught|在 你 尝 试 溜 进 去 时， 一 名 守 卫 发 现 了 你 并 发 出 了 警 报！ 你 必 须 在 所 有 守 卫 都 开 始 搜 捕 你 之 前 从 大 门 逃 出 去。 
 mno_sneak_caught_fight|杀 出 一 条 血 路！ 
 mno_sneak_caught_surrender|投 降。 
 menu_sneak_into_town_caught_dispersed_guards|你 轻 易 的 甩 掉 了 守 卫， 消 失 在 街 道 的 深 处。 
-mno_continue|继 续 
 menu_sneak_into_town_caught_ran_away|你 杀 开 一 条 血 路 终 于 夺 关 而 走， 迅 速 逃 到 了 郊 外 的 安 全 地 带。 {s11}
-mno_continue|继 续 
 menu_enemy_offer_ransom_for_prisoner|{s2}想 用 {reg12}第 纳 尔 与 你 交 换 {s1}。 
 mno_ransom_accept|接 受 这 个 建 议。 
 mno_ransom_reject|拒 绝 这 个 建 议。 
@@ -535,47 +406,22 @@ mno_camp_trainer|和 教 练 交 谈。
 mno_camp_train_melee|对 战 练 习。 
 mno_camp_train_archery|射 击 练 习。 
 mno_camp_train_mounted|骑 乘 练 习。 
-mno_leave|离 开 
 menu_training_ground_selection_details_melee_1|你 想 要 同 时 面 对 几 个 对 手？ 
 mno_camp_train_melee_num_men_1|一。 
 mno_camp_train_melee_num_men_2|二。 
 mno_camp_train_melee_num_men_3|三。 
 mno_camp_train_melee_num_men_4|四。 
-mno_go_back_dot|后 退。 
 menu_training_ground_selection_details_melee_2|选 择 你 的 {reg1}号 对 手： 
-mno_s0|{s0}
-mno_s0|{s0}
-mno_s0|{s0}
-mno_s0|{s0}
-mno_s0|{s0}
-mno_s0|{s0}
-mno_s0|{s0}
-mno_s0|{s0}
-mno_s0|{s0}
-mno_s0|{s0}
-mno_s0|{s0}
-mno_s0|{s0}
-mno_s0|{s0}
-mno_s0|{s0}
-mno_s0|{s0}
-mno_s0|{s0}
-mno_s0|{s0}
-mno_s0|{s0}
-mno_s0|{s0}
-mno_s0|{s0}
 mno_training_ground_selection_details_melee_random|随 机 选 择。 
-mno_go_back_dot|后 退。 
 menu_training_ground_selection_details_mounted|你 想 要 用 哪 种 武 器 进 行 训 练？ 
 mno_camp_train_mounted_details_1|单 手。 
 mno_camp_train_mounted_details_2|长 杆。 
 mno_camp_train_mounted_details_3|弓 箭。 
 mno_camp_train_mounted_details_4|投 掷。 
-mno_go_back_dot|后 退。 
 menu_training_ground_selection_details_ranged_1|你 想 要 用 哪 种 远 程 武 器 进 行 训 练？ 
 mno_camp_train_ranged_weapon_bow|弓 箭。 
 mno_camp_train_ranged_weapon_crossbow|弩。 
 mno_camp_train_ranged_weapon_thrown|飞 刀。 
-mno_go_back_dot|后 退。 
 menu_training_ground_selection_details_ranged_2|你 想 要 在 距 标 靶 多 远 的 距 离 练 习？ 
 mno_camp_train_ranged_details_1|10 码。 
 mno_camp_train_ranged_details_2|20 码。 
@@ -584,11 +430,8 @@ mno_camp_train_ranged_details_4|40 码。
 mno_camp_train_ranged_details_5|50 码。 
 mno_camp_train_ranged_details_6|60 码。 
 mno_camp_train_ranged_details_7|70 码。 
-mno_go_back_dot|后 退。 
 menu_training_ground_description|{s0}
-mno_continue|继 续 
 menu_training_ground_training_result|{s7}{s2}
-mno_continue|继 续 
 menu_marshall_selection_candidate_ask|{s15}马 上 要 为 {s23}选 择 一 个 元 帅。 一 些 领 主 提 名 让 你 做 候 选 人。 
 mno_marshall_candidate_accept|让 {s15}知 道 你 想 做 元 帅。 
 mno_marshall_candidate_reject|告 诉 所 有 人 这 些 天 你 太 忙 了。 
@@ -600,56 +443,36 @@ menu_captivity_start_castle_surrender|Stub
 menu_captivity_start_castle_defeat|Stub 
 menu_captivity_start_under_siege_defeat|你 被 敌 人 俘 虏 了。 
 menu_captivity_wilderness_taken_prisoner|你 被 敌 人 俘 虏 了。 
-mno_continue|继 续 
 menu_captivity_wilderness_check|Stub 
 menu_captivity_end_wilderness_escape|经 过 了 几 天 痛 苦 的 俘 虏 生 活。 你 找 了 个 机 会 逃 跑 了！ 
-mno_continue|继 续 
 menu_captivity_castle_taken_prisoner|卫 兵 们 包 围 了 你， 夺 下 了 你 的 武 器。 他 们 咒 骂 着 把 你 丢 进 了 地 牢， 接 下 来 有 你 受 的 了。 
-mno_continue|继 续 
 menu_captivity_rescue_lord_taken_prisoner|你 在 自 己 的 身 份 暴 露 之 前 一 直 伪 装 成 朝 圣 者， 这 激 怒 了 那 些 守 卫。 他 们 狂 暴 而 粗 鲁 地 痛 打 你， 不 知 道 过 了 多 长 时 间 以 后 才 停 息 下 来… … 
-mno_continue|继 续 
 menu_captivity_castle_check|Stub 
 menu_captivity_end_exchanged_with_prisoner|经 过 了 数 天 的 关 押， 抓 你 的 人 用 你 交 换 了 他 们 的 一 名 俘 虏， 你 自 由 了。 
-mno_continue|继 续 
 menu_captivity_end_propose_ransom|在 阴 暗 的 地 牢 中 不 知 道 过 了 多 久 以 后， 抓 你 的 人 给 了 你 一 个 选 择： 从 你 藏 钱 的 地 方 交 出 {reg5}第 纳 尔， 他 们 就 会 放 了 你。 你 决 定… … 
 mno_captivity_end_ransom_accept|接 受 这 个 建 议。 
 mno_captivity_end_ransom_deny|等 待 更 好 的 机 会。 
 menu_captivity_castle_remain|时 光 流 逝， 你 在 监 牢 里 痛 苦 的 忍 受 着 被 囚 禁 的 痛 苦， 还 有 轻 蔑 的 笑 话… … 
-mno_continue|继 续 
 menu_kingdom_army_quest_report_to_army|{s8}邀 请 你 一 起 去 参 加 {reg4?她:他} 的 远 征。 你 需 要 带 上 至 少 {reg13}名 战 士， 如 果 现 在 不 够 的 话， 你 需 要 尽 快 达 到 要 求 的 人 数。 
-mno_continue|继 续 
 menu_kingdom_army_quest_messenger|{s8}派 信 使 来 告 诉 你， 他 要 给 你 指 定 一 个 任 务， 并 要 求 你 尽 快 去 见 他。 
-mno_continue|继 续 
 menu_kingdom_army_quest_join_siege_order|{s8}派 信 使 来 命 令 你 加 入 对 于 {s9}的 围 攻。 不 论 付 出 多 大 的 代 价 都 必 须 拿 下 {s9}。 
-mno_continue|继 续 
 menu_kingdom_army_follow_failed|你 和 {s8}走 散 了。 元 帅 认 为 你 可 能 另 有 要 务， 不 过 他 对 于 你 的 支 持 还 是 表 示 感 激。 
-mno_continue|继 续 
 menu_invite_player_to_faction_without_center|你 收 到 了 一 份 封 臣 的 邀 请！ ^^{s9}的 {s8}派 遣 了 一 个 皇 家 信 使 来 亲 自 递 送 这 份 邀 请。 你 将 成 为 {s9}的 一 位 诸 侯， 从 此 被 人 以 {大 人/ 女 士}称 呼， 但 是 并 没 有 给 予 你 封 地 以 及 额 外 的 头 衔， 当 然 作 为 回 报 {s8}要 求 你 宣 誓 对 他 效 忠 并 与 他 一 起 加 入 他 的 远 征。 虽 然 他 没 有 许 诺 封 地 和 头 衔， 如 果 你 不 同 意 这 个 请 求 的 话 他 还 是 会 被 激 怒 的… … 
 mno_faction_accept|接 受 邀 请！ 
 mno_faction_reject|拒 绝 邀 请。 
 menu_invite_player_to_faction|你 收 到 了 一 份 封 臣 的 邀 请！ ^^{s9}的 {s8}派 遣 了 一 个 皇 家 信 使 来 亲 自 递 送 这 份 邀 请。 你 将 成 为 {s9}的 一 位 诸 侯， 从 此 被 人 以 {大 人/ 女 士}称 呼， 但 是 并 没 有 给 予 你 封 地 以 及 额 外 的 头 衔， 当 然 作 为 回 报 {s8}要 求 你 宣 誓 对 他 效 忠 并 与 他 一 起 加 入 他 的 远 征。 他 许 诺 给 你 {s2}的 封 地 和 头 衔， 如 果 你 不 同 意 这 个 请 求 的 话 他 一 定 会 被 激 怒 的… … 
-mno_faction_accept|接 受 邀 请！ 
-mno_faction_reject|拒 绝 邀 请。 
 menu_invite_player_to_faction_accepted|如 果 你 想 要 成 为 封 臣 的 话 你 必 须 去 找 {s3}宣 誓。 {s5}
-mno_continue|继 续 
 menu_question_peace_offer|你 收 到 了 一 份 停 战 的 邀 请 ^^{s1}发 给 你 一 份 停 战 邀 请。 你 将 如 何 回 复？ 
 mno_peace_offer_accept|接 受 
 mno_dplmc_peace_offer_terms|决 定 你 的 停 战 条 款。 
 mno_peace_offer_reject|拒 绝 
 menu_notification_truce_expired|停 战 协 定 到 期 ^^{s1}和 {s2}之 间 的 停 战 协 定 已 经 到 期。 
-mno_continue|继 续 
 menu_notification_feast_quest_expired|{s10}
-mno_continue|继 续 
 menu_notification_sortie_possible|敌 报： 已 经 在 {s4}的 城 墙 外 发 现 敌 人。 {s5}和 其 他 领 主 正 准 备 出 击。 如 果 愿 意 的 话 你 可 以 加 入 他 们。 
-mno_continue|继 续 
 menu_notification_casus_belli_expired|王 国 没 有 回 应 ^^{s1}没 有 回 应 {s2}的 挑 衅， 这 导 致 {s3}在 {reg4?她:他} 手 下 的 好 战 派 中 威 信 扫 地… … ^
-mno_continue|继 续 
 menu_notification_lord_defects|背 叛： {s4}已 经 抛 弃 了 {s5}并 且 加 入 了 {s7}， 带 着 {reg4?她:他} 的 封 地 一 起 
-mno_continue|继 续 
 menu_notification_treason_indictment|叛 国 控 告 ^^{s9}
-mno_continue|继 续 
 menu_notification_border_incident|边 界 冲 突 ^^ 有 消 息 传 来， {s9}。 虽 然 传 言 真 假 未 知， 但 有 件 事 是 确 定 的— — 这 件 看 来 很 小 的 事 件 在 {s4}内 部 已 经 掀 起 轩 然 大 波， 使 得 与 {s3}的 战 争 一 触 即 发… … 
-mno_continue|继 续 
 menu_notification_player_faction_active|现 在， 这 片 土 地 被 冠 以 你 的 名 字， 而 不 跟 其 他 王 国 有 任 何 关 系。 你 成 为 了 一 位 能 独 立 行 使 权 力 的 君 王， 你 的 宫 廷 暂 时 坐 落 在 {s12}。 然 而， 卡 拉 迪 亚 其 他 国 王 的 第 一 反 应， 是 把 你 当 做 一 个 威 胁， 因 为， 如 果 每 一 个 强 势 的 军 阀， 都 可 以 夺 取 王 位， 那 么 国 王 的 权 威 无 疑 会 受 到 质 疑。 ^^你 可 能 觉 得 这 个 时 候 宣 誓 效 忠 于 一 个 现 有 的 国 家， 是 个 非 常 不 错 的 选 择。 如 果 你 想 继 续 当 一 个 拥 有 主 权 的 君 王， 那 么 首 先 你 必 须 建 立 自 己 独 立 的 统 治 权。 这 可 以 通 过 多 个 办 法 进 行， 比 如 与 出 身 高 贵 的 家 族 联 姻， 吸 纳 新 的 领 主， 管 理 你 的 领 地， 应 付 其 他 国 王， 以 及 派 遣 你 的 盟 友 去 执 行 任 务。 ^^无 论 如 何， 你 首 先 要 从 你 的 盟 友 当 中， 任 命 一 位 首 席 大 臣， 来 处 理 各 种 事 务。 不 同 的 盟 友 有 不 同 的 才 能。 ^你 可 以 不 时 地 更 换 你 的 大 臣 人 选， 还 可 以 通 过 与 大 臣 对 话， 改 变 你 的 宫 廷 的 所 在 地。 
 mno_appoint_spouse|任 命 你 的 夫 人， {s10}… … 
 mno_appoint_npc1|任 命 {s10}
@@ -683,55 +506,29 @@ mno_appoint_npc30|任 命 {s10}
 mno_appoint_npc31|任 命 {s10}
 mno_appoint_default|任 命 当 地 的 杰 出 人 才。 
 menu_minister_confirm|{s9}正 在 你 {s12}的 大 厅 里。 你 要 时 时 考 虑 避 免 一 些 未 确 定 的， 会 削 弱 你 的 权 力 的 争 议。 
-mno_continue|继 续 
 menu_notification_court_lost|{s12}
-mno_continue|继 续 
 menu_notification_player_faction_deactive|你 的 王 国 失 去 了 所 有 的 领 地。 
-mno_continue|继 续 
 menu_notification_player_wedding_day|{s8}想 告 诉 你， 将 于 {s10}举 行 的 你 的 婚 礼， 已 经 准 备 就 绪， 期 待 你 尽 快 出 席。 
-mno_continue|继 续 
 menu_notification_player_kingdom_holds_feast|{s11}
-mno_continue|继 续 
 menu_notification_center_under_siege|{s1}被 {s3}的 {s2}围 攻 了！ 
-mno_continue|继 续 
 menu_notification_village_raided|敌 人 袭 击 了 你 的 领 地 ^^{s1}被 {s3}的 {s2}洗 劫 了！ 
-mno_continue|继 续 
 menu_notification_village_raid_started|你 的 村 子 正 受 到 袭 击！ ^^{s3}的 {s2}正 在 破 坏 {s1}。 
-mno_continue|继 续 
 menu_notification_one_faction_left|卡 拉 迪 亚 大 陆 被 一 个 王 国 征 服 了 ^^{s1}击 败 所 有 对 手， 建 立 了 一 个 统 一 的 王 国。 
-mno_continue|继 续 
 menu_notification_oath_renounced_faction_defeated|你 从 前 属 于 的 势 力 被 击 败 了 ^^ 你 赢 得 了 对 于 {s1}的 战 斗！ 你 从 这 个 势 力 中 脱 离 了 出 去。 
-mno_continue|继 续 
 menu_notification_center_lost|领 地 失 去 ^^ 因 为 {s2}你 失 去 了 {s1}。 
-mno_continue|继 续 
 menu_notification_troop_left_players_faction|背 叛！ ^^ {s1}从 {s2}离 开 了， 并 加 入 了 {s3}。 
-mno_continue|继 续 
 menu_notification_troop_joined_players_faction|好 消 息！ ^^ {s1}从 {s2}离 开 了， 并 加 入 了 {s3}。 
-mno_continue|继 续 
 menu_notification_war_declared|宣 战 ^^{s1}向 {s2}宣 战！ 
-mno_continue|继 续 
 menu_notification_peace_declared|和 平 协 议 ^^{s1}和 {s2}达 成 了 和 平 协 议！ ^{s57}
-mno_continue|继 续 
 menu_notification_faction_defeated|阵 营 灭 亡 ^^{s1}不 复 存 在 了！ 
-mno_continue|继 续 
 menu_notification_rebels_switched_to_faction|成 功 叛 变 ^^ 你 的 叛 变 十 分 成 功！ 现 在 你 的 势 力 将 {s12}定 为 {s11}唯 一 的 领 主。 
-mno_continue|继 续 
 menu_notification_player_should_consult|你 的 首 席 大 臣 传 话 来 说， 王 国 内 部 有 些 问 题 正 在 酝 酿， 如 果 不 处 理 的 话 会 逐 渐 威 胁 到 你 的 王 权。 你 必 须 尽 早 与 他 磋 商 一 下。 
-mno_continue|继 续 
 menu_notification_player_feast_in_progress|筹 备 宴 会 ^^ 你 的 夫 人 正 在 {s11}的 大 厅 里 筹 备 宴 会。 
-mno_continue|继 续 
 menu_notification_lady_requests_visit|一 位 老 妇 人 找 到 了 你 的 部 队， 给 了 你 手 下 一 封 纯 蜡 密 封 着 的 信。 地 址 是 写 给 你 的。 当 你 打 这 封 信 时， 发 现 是 {s15}写 来 的。 上 面 说：“上 次 来 访， 相 聚 甚 欢。 {s14}。 我 现 在 {s10}， {s12}。 ” 
-mno_continue|继 续 
-mno_continue|继 续 
 menu_garden|{s12}
 mno_enter|进 入 
-mno_nurse|跟 随 侍 女 离 开 
-mno_nurse|在 泉 水 边 等 待 
-mno_leave|离 开 
 menu_kill_local_merchant_begin|你 探 明 你 的 猎 物 转 弯 走 进 了 一 条 偏 僻 的 巷 子。 这 将 是 你 袭 击 他 的 最 好 时 机。 
-mno_continue|继 续 
 menu_debug_alert_from_s65|调 试 警 报： {s65}
-mno_continue|继 续 
 menu_auto_return_to_map|树 桩 
 menu_bandit_lair|{s3}
 mno_continue_1|进 攻 贼 巢… … 
@@ -739,23 +536,15 @@ mno_leave_no_attack|离 开… …
 mno_leave_victory|继 续… … 
 mno_leave_defeat|继 续… … 
 menu_notification_player_faction_political_issue_resolved|经 过 和 王 国 贵 族 们 的 商 议， {s10}已 经 决 定 授 予 {s12}{s11}。 
-mno_continue|继 续 
 menu_notification_player_faction_political_issue_resolved_for_player|经 过 和 王 国 贵 族 们 的 商 议， {s10}已 经 决 定 授 予 你 {s11}。 你 可 以 拒 绝 这 项 任 命， 但 是 这 也 许 意 味 着 短 时 间 内 你 不 会 再 收 到 其 它 任 何 授 予。 {s12}
 mno_accept|接 受 任 命 
 mno_decline|拒 绝 任 命 
-mno_continue|继 续 
 menu_start_phase_3|{s16}^^ 当 来 到 {s1}的 旅 馆 的 时 候， 你 已 经 疲 惫 不 堪， 很 快 就 睡 着 了。 然 而， 在 黎 明 来 临 之 前 你 就 醒 来 了， 迫 不 及 待 地 打 量 着 四 周 的 环 境。 你 大 胆 地 走 上 了 无 人 的 街 头。 突 然， 你 听 到 了 一 个 声 音， 脖 子 上 的 汗 毛 不 由 得 全 竖 了 起 来— — 那 是 刀 剑 出 鞘 的 刺 耳 的 声 音… … 
-mno_continue|继 续 
 menu_start_phase_4|{s11}
-mno_continue|继 续 
-mno_continue|继 续 
 menu_lost_tavern_duel|{s11}
-mno_continue|继 续 
 menu_establish_court|要 将 {s4}建 为 你 的 都 城 需 要 重 新 翻 修 一 番。 具 体 来 说， 你 需 要 一 套 工 具 以 及 一 卷 天 鹅 绒。 也 许 还 需 要 花 点 时 间 来 让 你 的 一 些 部 下 重 新 部 署 一 下 这 里。 你 要 继 续 吗？ 
 mno_establish|将 {s4}建 为 你 的 都 城 
-mno_continue|继 续 
 menu_notification_relieved_as_marshal|{s4}想 要 通 知 你 不 再 需 要 你 继 续 担 当 元 帅 之 职 了。 不 过， 在 过 去 的{reg4} 天 里 你 为 了 国 家 的 利 益 表 现 英 勇， 为 了 表 示 对 你 的 敬 意， {reg8?她:他} 赏 赐 给 你{reg5} 第 纳 尔。 
-mno_continue|继 续 
 menu_export_import_npcs|请 选 中 一 名 NPC， 按 C键 来 查 看 和 导 出 人 物。 ^^你 目 前 选 中 的 是 {reg0?{s0}:（没 有 选 中）}。 
 mno_export_import_back|后 退 
 mno_export_import_npc1|{s0}
@@ -777,9 +566,7 @@ mno_export_import_npc13|{s0}
 mno_export_import_npc14|{s0}
 mno_export_import_npc15|{s0}
 mno_export_import_npc16|{s0}
-mno_export_import_next|下 一 页 
 menu_export_import_npcs_3|请 选 中 一 名 NPC， 按 C键 来 查 看 和 导 入 /导 出 人 物。 ^^你 目 前 选 中 的 是 {reg0?{s0}:（没 有 选 中）}。 
-mno_export_import_prev|上 一 页 
 mno_export_import_npc17|{s0}
 mno_export_import_npc18|{s0}
 mno_export_import_npc19|{s0}
@@ -788,9 +575,7 @@ mno_export_import_npc21|{s0}
 mno_export_import_npc22|{s0}
 mno_export_import_npc23|{s0}
 mno_export_import_npc24|{s0}
-mno_export_import_next|下 一 页 
 menu_export_import_npcs_4|请 选 中 一 名 NPC， 按 C键 来 查 看 和 导 入 /导 出 人 物。 ^^你 目 前 选 中 的 是 {reg0?{s0}:（没 有 选 中）}。 
-mno_export_import_prev|上 一 页 
 mno_export_import_npc25|{s0}
 mno_export_import_npc26|{s0}
 mno_export_import_npc27|{s0}
@@ -799,15 +584,11 @@ mno_export_import_npc29|{s0}
 menu_pick_nation|你 想 加 入 哪 个 阵 营？ 
 mno_serve_noone|自 己 单 干 
 mno_serve_pick|或 者 选 择 一 个 阵 营… … 
-mno_go_back|后 退。 
 menu_dplmc_notification_alliance_declared|同 盟 建 立 ^^{s1}和 {s2}已 经 结 盟！ ^{s57}
 mno_dplmc_continue|继 续 
 menu_dplmc_notification_defensive_declared|防 御 条 约 ^^{s1}和 {s2}已 经 达 成 防 御 协 定！ ^{s57}
-mno_dplmc_continue|继 续 
 menu_dplmc_notification_trade_declared|贸 易 条 约 ^^{s1}和 {s2}签 订 了 一 项 贸 易 协 议！ ^{s57}
-mno_dplmc_continue|继 续 
 menu_dplmc_notification_nonaggression_declared|互 不 侵 犯 条 约 ^^{s1}和 {s2}签 订 了 互 不 侵 犯 条 约！ ^{s57}
-mno_dplmc_continue|继 续 
 menu_dplmc_question_alliance_offer|你 收 到 了 一 个 结 盟 邀 请 ^^{s1}希 望 和 你 成 为 联 盟。 你 的 答 复 是 什 么？ 
 mno_dplmc_alliance_offer_accept|接 受 
 mno_dplmc_alliance_offer_reject|拒 绝 
@@ -821,53 +602,35 @@ menu_dplmc_question_nonaggression_offer|你 收 到 了 一 个 条 约 提 议 
 mno_dplmc_nonaggression_offer_accept|接 受 
 mno_dplmc_nonaggression_offer_reject|拒 绝 
 menu_dplmc_notification_alliance_expired|联 盟 协 定 已 过 期 ^^{s1}和 {s2}的 联 盟 协 定 有 效 期 已 过。 现 在 将 降 级 成 防 御 协 定。 
-mno_dplmc_continue|继 续 
 menu_dplmc_notification_defensive_expired|防 御 协 定 已 过 期^^{s1}和 {s2} 的 防 御 协 定 有 效 期 已 过。 现 在 将 降 级 成 贸 易 协 定。 
-mno_dplmc_continue|继 续 
 menu_dplmc_notification_trade_expired|贸 易 协 定 已 过 期^^{s1}和 {s2} 的 贸 易 协 定 有 效 期 已 过。 现 在 将 降 级 成 互 不 侵 犯 协 定。 
-mno_dplmc_continue|继 续 
 menu_dplmc_dictate_terms|决 定 你 的 停 战 条 款。 
 mno_dplmc_demand_4000|索 要 4000 第 纳 尔 战 争 赔 款。 
 mno_dplmc_demand_8000|索 要 8000 第 纳 尔 战 争 赔 款。 
 mno_dplmc_demand_castle|要 求 割 让 {s2}。 
 mno_dplmc_go_back|后 退 
 menu_dplmc_deny_terms|{s1}拒 绝 了 你 的 条 款 而 使 谈 判 破 裂。 
-mno_dplmc_continue|继 续 
 menu_dplmc_village_riot_result|{s9}
-mno_dplmc_continue|继 续 
 menu_dplmc_village_riot_removed|在 血 腥 的 战 斗 中， 你 的 部 队 屠 杀 了 暴 动 的 民 众 并 重 新 夺 回 了 对 村 庄 的 控 制 权。 不 过 村 子 也 已 经 被 摧 毁 了， 没 剩 下 什 么 可 控 制 的 了。 
-mno_dplmc_continue|继 续 
 menu_dplmc_town_riot_removed|在 血 腥 的 战 斗 中， 你 的 部 队 屠 杀 了 暴 动 的 民 众 并 重 新 夺 回 了 对 城 镇 的 控 制 权。 
-mno_dplmc_continue|继 续 
 menu_dplmc_riot_negotiate|你 靠 近 愤 怒 的 人 群 并 试 图 谈 判。 义 军 领 袖 要 求 你 支 付 {reg0}第 纳 尔。 如 果 你 同 意 的 话 他 们 会 放 下 武 器。 
 mno_dplmc_pay_riot_treasury|让 管 家 从 金 库 中 支 付 这 笔 钱。 
 mno_dplmc_pay_riot_cash|支 付 现 金。 
 mno_dplmc_back|后 退 
 menu_dplmc_notification_riot|{s1}的 平 民 发 起 了 一 场 反 抗 你 统 治 的 暴 乱！ 在 一 次 突 袭 中， 忠 于 你 的 人 都 被 杀 死 了， 剩 余 的 人 加 入 了 愤 怒 的 人 群。 
-mno_dplmc_continue|继 续 
 menu_dplmc_notification_appoint_chamberlain|作 为 拥 有 封 地 的 领 主 你 现 在 可 以 以 每 周 15 第 纳 尔 的 薪 水 雇 佣 一 名 管 家 在 宫 廷 中 伴 随 你 左 右。 他 会 处 理 所 有 的 财 政 事 务， 例 如 收 取 税 金 和 决 定 税 率， 发 放 薪 水 和 管 理 你 的 资 产。 另 外 他 还 可 以 为 监 督 管 理 王 国 之 间 的 金 钱 转 账 以 提 供 给 你 更 多 的 外 交 选 择。 
 mno_dplmc_appoint_default|任 命 当 地 的 杰 出 人 才。 
-mno_dplmc_continue|不 用 任 命 管 家， 继 续 
 menu_dplmc_chamberlain_confirm|你 的 管 家 会 在 你 的 宫 廷 中。 如 果 你 想 给 他 提 出 任 何 财 政 方 面 的 建 议 或 者 你 需 要 更 多 金 钱， 你 都 应 该 和 他 商 量。 确 保 你 的 金 库 中 有 充 足 的 钱 应 对 政 治 事 件。 
-mno_dplmc_continue|继 续 
 menu_dplmc_notification_appoint_constable|作 为 拥 有 封 地 的 领 主 你 现 在 可 以 以 每 周 15 第 纳 尔 的 薪 水 雇 佣 一 名 治 安 官 在 宫 廷 中 伴 随 你 左 右。 他 会 招 募 新 兵 并 提 供 你 的 军 队 的 情 况。 
-mno_dplmc_appoint_default|任 命 当 地 的 杰 出 人 才。 
-mno_dplmc_continue|不 用 任 命 治 安 官， 继 续 
 menu_dplmc_constable_confirm|你 的 治 安 官 会 在 你 的 宫 廷 中。 如 果 你 想 招 募 新 兵 或 是 得 到 你 现 有 军 队 的 详 细 情 况， 你 都 应 该 找 他 商 量。 
-mno_dplmc_continue|继 续 
 menu_dplmc_notification_appoint_chancellor|作 为 拥 有 封 地 的 领 主 你 现 在 可 以 以 每 周 20 第 纳 尔 的 薪 水 雇 佣 一 名 总 理 大 臣 在 宫 廷 中 伴 随 你 左 右。 他 会 持 有 你 的 印 鉴 并 管 理 你 和 重 要 人 物 之 间 的 书 信 往 来。 
-mno_dplmc_appoint_default|任 命 当 地 的 杰 出 人 才。 
-mno_dplmc_continue|不 用 任 命 总 理 大 臣， 继 续 
 menu_dplmc_chancellor_confirm|你 的 总 理 大 臣 会 在 你 的 宫 廷 中。 如 果 你 想 送 信 或 是 送 礼 物， 你 都 应 该 找 他 商 量。 
-mno_dplmc_continue|继 续 
 menu_dplmc_deserters|你 的 一 些 士 兵 认 为 你 不 太 可 能 继 续 支 付 他 们 的 工 资， 于 是 逃 跑 了。 你 一 共 损 失 了 {s11}名 士 兵。 
-mno_dplmc_continue|继 续 
 menu_dplmc_negotiate_besieger|你 打 着 白 旗 出 现 在 城 头。 过 了 一 会 儿 一 名 {s11}的 谈 判 者 接 近 你。 他 要 求 你 献 出 {s6}以 及 所 有 下 辖 村 庄 并 支 付 {reg0}第 纳 尔 作 为 求 和 的 表 现。 
 mno_dplmc_comply_treasury|接 受 条 件 并 让 管 家 从 金 库 中 支 付 这 笔 钱。 
 mno_dplmc_comply|接 受 条 件 并 支 付 现 金。 
 mno_dplmc_break_off|停 止 谈 判。 
 menu_dplmc_messenger|阁 下， 我 找 到 了 {s10}并 转 达 了 您 的 讯 息。 他 的 回 复 是 {s11}。 
-mno_dplmc_continue|继 续 
 menu_manage_loot_pool|{s10}
 mno_auto_loot|让 你 的 英 雄 从 战 利 品 中 选 择 装 备。 
 mno_auto_loot_no|物 品 栏 空 位 不 足， 无 法 完 成 装 备 的 自 动 升 级。 
@@ -881,3 +644,26 @@ mno_Yes|对， 就 这 样 做。
 menu_pagan_stronghold|你 进 入 密 林， 发 现 了 一 个 要 塞 据 点， 它 属 于 {s21}。 
 mno_pagan_stronghold_attack|攻 打 要 塞！ 
 mno_pagan_stronghold_leave|离 开。 
+menu_world_map_soldier|战 士， 你 想 做 什 么？
+mno_join_commander_battle|跟 随 指 挥 官 加 入 战 斗。 
+mno_commander|请 求 会 见 指 挥 官。 
+mno_revolt|反 叛！ 
+mno_desert|偷 偷 逃 离 军 队。（保 留 装 备 但 会 降 低 友 好 关 系）
+mno_return_to_duty|回 到 战 斗 岗 位。 
+menu_commander_aud|你的请求被传达到了指挥官的影子Your request for a meeting is relayed to your commanders camp , and finally {s6} appears from his tent to speak with you.
+mno_reject_talk_lord|No, nevermind.
+menu_ask_revolt|Are you sure you want to revolt?
+mno_confirm_revolt|Yes, {s6} will be the death of us all, it is time to act!
+mno_reject_revolt|No, I am loyal to {s6}.
+menu_revolt|Do you want to release the prisoners to help your men?
+mno_revolt_prisoners|Yes, I will take the risk for a greater advantage.
+mno_revolt_no_prisoners|No, I don't trust prisoners.
+menu_ask_desert|Do you want to desert?
+mno_confirm_desert|Yes, this is pointless.
+mno_reject_desert|No, I am loyal to my commander.
+menu_desert|While in the army you've made some good friends. Some could possibly follow you.
+mno_desert_party|Try to convince them to follow you.
+mno_desert_alone|No, I have a better chance alone.
+menu_upgrade_path|In recognition of your excellent service, you have been promoted.
+mno_upgrade_path_1|{s66}
+mno_upgrade_path_2|{s67}
