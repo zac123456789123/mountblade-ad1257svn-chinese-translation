@@ -650,20 +650,20 @@ mno_commander|请 求 会 见 指 挥 官。
 mno_revolt|反 叛！ 
 mno_desert|偷 偷 逃 离 军 队。（保 留 装 备 但 会 降 低 友 好 关 系）
 mno_return_to_duty|回 到 战 斗 岗 位。 
-menu_commander_aud|你的请求被传达到了指挥官的影子Your request for a meeting is relayed to your commanders camp , and finally {s6} appears from his tent to speak with you.
-mno_reject_talk_lord|No, nevermind.
-menu_ask_revolt|Are you sure you want to revolt?
-mno_confirm_revolt|Yes, {s6} will be the death of us all, it is time to act!
-mno_reject_revolt|No, I am loyal to {s6}.
-menu_revolt|Do you want to release the prisoners to help your men?
-mno_revolt_prisoners|Yes, I will take the risk for a greater advantage.
-mno_revolt_no_prisoners|No, I don't trust prisoners.
-menu_ask_desert|Do you want to desert?
-mno_confirm_desert|Yes, this is pointless.
-mno_reject_desert|No, I am loyal to my commander.
-menu_desert|While in the army you've made some good friends. Some could possibly follow you.
-mno_desert_party|Try to convince them to follow you.
-mno_desert_alone|No, I have a better chance alone.
-menu_upgrade_path|In recognition of your excellent service, you have been promoted.
+menu_commander_aud|你 的 请 求 被 传 达 到 了 指 挥 官 的 营 帐 里， 不 久， {s6}从 营 帐 里 出 来 了 并 和 你 会 面。 
+mno_reject_talk_lord|不， 不 用 了。 
+menu_ask_revolt|你 确 定 你 要 反 叛 么？ 
+mno_confirm_revolt|是 的， 跟 着 {s6}会 把 我 们 全 葬 送 的。 是 时 候 行 动 了！ 
+mno_reject_revolt|不， 我 忠 于 {s6}。 
+menu_revolt|你 想 要 释 放 囚 犯 来 帮 助 你 的 行 动 么？ 
+mno_revolt_prisoners|是 的， 为 了 更 大 的 利 益 我 必 须 冒 险。 
+mno_revolt_no_prisoners|不， 我 不 相 信 那 些 囚 犯 们。 
+menu_ask_desert|你 想 要 叛 逃 么？ 
+mno_confirm_desert|是 的， 现 在 的 生 活 漫 无 目 的。 
+mno_reject_desert|不， 我 忠 于 我 的 指 挥 官。 
+menu_desert|在 部 队 里 你 有 一 些 好 友。 他 们 可 能 会 跟 随 你。 
+mno_desert_party|尝 试 劝 说 他 们 跟 随 你。 
+mno_desert_alone|不， 单 独 行 动 可 能 更 好。 
+menu_upgrade_path|在 认 识 到 你 的 卓 越 贡 献 后， 你 获 得 了 晋 升。 
 mno_upgrade_path_1|{s66}
 mno_upgrade_path_2|{s67}
