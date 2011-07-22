@@ -1661,8 +1661,6 @@ str_comment_you_helped_my_ally_unfriendly_spiteful|I heard that you rode to the 
 str_comment_you_helped_my_ally_spiteful|I heard that you saved {s54} from a whipping. You should have let him learn his lesson, in my opinion.
 str_comment_you_helped_my_ally_chivalrous|I heard that you got {s54} out of a tight spot. That was a noble deed.
 str_comment_you_helped_my_ally_default|I heard that you got {s54} out of a tight spot. Good work!
-str_comment_you_were_defeated_allied_unfriendly|I heard that {s54} defeated you. Look, try not to get too many of our men killed, will you?
-str_comment_you_were_defeated_allied|I heard that {s54} defeated you. But take heart -- the tables will soon be turned!
 str_comment_you_abandoned_us_unfriendly_spiteful|You worm! You left us alone to face {s54}, didn't you? I spit at you.
 str_comment_you_abandoned_us_unfriendly_pitiless|Well... You abandoned me in the middle of a battle with {s54}, didn't you? I'll see you buried in a traitor's grave.
 str_comment_you_abandoned_us_spiteful|You disappeared in the middle of that battle with {s54}... I hope you have a good explanation. Did your bowels give out? Were you shaking too hard with fear to hold your weapon?
@@ -1950,11 +1948,6 @@ str_rebellion_agree_goodnatured|All right. I think your {reg3?woman:man} will be
 str_rebellion_agree_upstanding|So be it. My first duty is to this realm, and to save it from lawlessness I will back {s45} and renounce my homage to {s46}. May the Heavens forgive me if I do wrong.
 str_rebellion_refuse_martial|I am sorry. {s45} has a good claim, but it's not enough for me to turn my back on {s46}. I will remain loyal to my liege.
 str_rebellion_refuse_quarrelsome|Nah. Your whelp {s45} doesn't have what it takes to rule this realm. I'm sticking with {s46}.
-str_rebellion_agree_pitiless|No. I will not join your rebellion. I count it little more than the tantrum of a child, denied a bauble which {reg3?she:he} thinks should be {reg3?hers:his}. I will stick with {s46}, whose ability to rule is well-tested.
-str_rebellion_agree_cunning|I am sorry. You do not give me reason for confidence that you will win. Many will die, but I do not wish to be among them. I will continue to back {s46}.
-str_rebellion_agree_sadistic|No. I won't play your little game. You grasp at a crown, but I think instead you'll get a quick trip to the scaffold, and I'll be there by {s46}'s side to watch the headsman's axe drop.
-str_rebellion_agree_goodnatured|I am sorry. I don't feel right turning my back on {s46}. No hard feelings when me meet on the battlefield.
-str_rebellion_agree_upstanding|I am sorry. {s45}'s claim is not strong enough for me to inflict the curse of civil disorder on the poor wretches of this land. I will continue to back {s46}. May the Heavens forgive me if I do wrong.
 str_talk_later_martial|Now is not the time to talk politics! I am here today with my fellow lords, armed for battle. You'd better prepare to fight.
 str_talk_later_quarrelsome|Do you expect me to discuss betraying my liege with you, while we are surrounded by his army? What do you take me for, a bloody idiot?
 str_talk_later_pitiless|Still your tongue! Whatever I have to say on this matter, I will not say it here and now, while we are in the midst of our army.
@@ -2250,7 +2243,6 @@ str_choose_a_faction_for_team_reg0|Choose a faction for team {reg0}:
 str_choose_number_of_bots_for_team_reg0|Choose number of bots for team {reg0}:
 str_spectator|Spectator
 str_spectators|Spectators
-str_score|Score
 str_command|Command:
 str_profile_banner_selection_text|Choose a banner for your profile:
 str_use_default_banner|Use Faction's Banner
@@ -2324,7 +2316,6 @@ str_reg4_killed_reg5_wounded_reg6_routed|{reg4} killed, {reg5} wounded, {reg6} r
 str_reg4_killed_reg5_routed|{reg4} killed, {reg5} routed
 str_reg4_killed_reg5_wounded|{reg4} killed, {reg5} wounded
 str_reg4_wounded_reg5_routed|{reg4} wounded, {reg5} routed
-str_routed|routed
 str_s42|{s42}
 str_s4_awarded_to_s5|{s4} awarded to {s5}
 str_calculating_sortie_for_s4_strength_of_reg3_vs_reg4_enemies|Calculating sortie for {s4}, strength of {reg3} vs {reg4} enemies
@@ -2343,14 +2334,6 @@ str_s4_is_present_at_the_center_and_is_awaiting_the_player_in_private|{s4} is pr
 str_s4_is_present_at_the_center_and_is_allowed_to_meet_the_player|{s4} is present at the center and is allowed to meet the player
 str_s4_is_present_at_the_center_and_is_not_allowed_to_meet_the_player|{s4} is present at the center and is not allowed to meet the player
 str_no_relation|no relation
-str_wife|wife
-str_husband|husband
-str_father|father
-str_mother|mother
-str_daughter|daughter
-str_son|son
-str_sister|sister
-str_brother|brother
 str_niece|niece
 str_nephew|nephew
 str_aunt|aunt
@@ -2392,7 +2375,6 @@ str_trade_explanation_dyes|I work in the caravanseries, unloading dyes brought i
 str_trade_explanation_leatherwork|I work in the tanneries outside the walls, turning cured hides from the countryside into good, supple leather. It's foul work, and I come home stinking of urine, dung, and lime -- but that's where your boots, saddles, and bridles come from, {sir/my lady}.
 str_trade_explanation_flax|I sew and harvest linseed, and rot the stems to make flax fibers. That's the source of your fine linens, {sir/my lady} -- a rotting pit on the edge of a field.
 str_trade_explanation_dates|I tend to a grove of date palms. I hope you don't mind me saying so, but it takes great skill to tend them, as we must climb to the tops of the palms to ensure that the trees will flower. We export the fruit far and wide, as they keep for many months when properly dried. As sweet as honey, and they grant the eater health and strength.
-str_trade_explanation_dates|I tend to a grove of date palms. We grow them using well-water, and export the fruit far and wide, as they keep for many months when properly dried. As sweet as honey, and they grant the eater health and vigor.
 str_trade_explanation_olives|I tend to a grove of olive trees. You can eat the fruit or preserve it in brine, but we end up sending most of it to be pressed, to be made into oil.
 str_s14_i_hear_that_you_can_find_a_good_price_for_it_in_s15|{s14}. I hear that you can find a good price for it in {s15}.
 str_s2s_rebellion|{s2}'s Rebellion
@@ -2935,9 +2917,7 @@ str_that_s14_will_rule_this_land_justly|That {s14} will rule this land justly?
 str_that_s14_will_protect_our_rights_as_nobles|That {s14} will protect our rights as nobles?
 str_that_s14_will_unify_this_land_and_end_this_war|That {s14} will unify this land and end this war?
 str_that_s14_will_reward_me_with_a_fief|That {s14} will reward me with a fief?
-str_he|he
 str_king|king
-str_she|she
 str_queen|queen
 str_khan|khan
 str_i|I
@@ -3282,7 +3262,6 @@ str_s21_the_s8_declared_war_to_curb_the_other_realms_power|{s21} The {s8} declar
 str_s21_the_s8_declared_war_to_regain_lost_territory|{s21} The {s8} declared war to regain lost territory
 str__family_|^Family: 
 str_we_are_conducting_recce|We will first scout the area, and then decide what to do.
-str__family_|^Family:
 str_s49_s12_s11_end|{s49} {s12} ({s11}).
 str_center_party_not_active|is not our target, because we don't have a leader who has taken the field.
 str_center_is_friendly|is not our enemy.
@@ -3417,8 +3396,6 @@ str_my_lady_not_sufficient_chemistry|My lady, there are other maidens who have c
 str_my_lady_engaged_to_another|My lady, as I understand it, you are engaged to another.
 str_attempting_to_rejoin_party|Attempting to rejoin party,
 str_separated_from_party|Separated from party,
-str_whereabouts_unknown|whereabouts unknown
-str_betrothed| Betrothed 
 str_leading_party|leading a party
 str_court_disbanded|As you no longer rule an independent kingdom, your court has been disbanded
 str_i_am_not_accompanying_the_marshal_because_will_be_reappointment| I am not accompanying the marshal, because I suspect that our ruler will shortly appoint another to that post.
@@ -3717,4 +3694,4 @@ str_your_kingdoms_religion_is_s11|Your kingdom's religion is {s11}
 str_religion_pagan_mongol|Paganism (Mongol)
 str_horse_archers|Horse Archers
 str_spearmen|Spearmen
-str_revision|DRTOMAS
+str_revision|$Revision$

@@ -140,6 +140,7 @@ dlga_curonians_intro:curonians_hostile|You're an abomination in the eyes of God.
 dlga_curonians_hostile:close_window|These are our lands and you have been desecrating our forests long enough. Die!
 dlga_curonians_friendly_close:close_window|Pērkons be with you then {playername}.
 dlga_start:samogitians_intro|What do you want?
+dlga_start:samogitians_hostile|Do you think you can get away from me?
 dlga_start:close_window.8|Die invader!
 dlga_samogitians_intro:samogitians_friendly_close|I am {playername}. I'm just traveling through these lands.
 dlga_samogitians_intro:samogitians_hostile|You're an abomination in the eyes of God.  Repent and I'll let you live!
@@ -177,8 +178,6 @@ dlga_member_castellan_talk:member_castellan_join|I want you to abandon the castl
 dlga_member_castellan_join:close_window|I've grown quite fond of the place... But if it is your wish, {playername}, I'll come with you.
 dlga_member_castellan_join:member_castellan_pretalk|And where would we sleep? You're dragging a whole army with you, {playername}, there's no more room for all of us.
 dlga_member_castellan_talk:close_window|[Leave]
-dlga_start:member_wilderness_talk|Do you want me to rejoin you?
-dlga_start:member_inn_talk|Do you want me to rejoin you?
 dlga_member_chat:kidnapped_girl_chat_1|Are we home yet?
 dlga_kidnapped_girl_chat_1:kidnapped_girl_chat_2|Not yet.
 dlga_kidnapped_girl_chat_2:close_window|I can't wait to get back. I've missed my family so much, I'd give anything to see them again.
@@ -301,7 +300,7 @@ dlga_merchant_quest_persuasion:merchant_quest_4b8|You make a persuasive case. I 
 dlga_merchant_quest_persuasion:close_window|As I say, I have more important business elsewhere.
 dlga_merchant_quest_2:merchant_quest_2a|Now -- go find and defeat that group of bandits.
 dlga_merchant_quest_3:merchant_quest_3a|Now -- go attack that bandit hideout, get my brother back, and show those brigands what happens to those who threaten my household.
-dlga_start:close_screen|Oh -- thank the heavens... Thank the heavens... Am I safe?
+dlga_start:close_window.13|Oh -- thank the heavens... Thank the heavens... Am I safe?
 dlga_start:merchant_closing_statement_2|Ah... {playername}. Things didn't go quite so well as I had hoped. {s5} couldn't quite find it in him to overlook my little breach of the peace. Oh, he's grateful enough that I got rid of his crooked captain -- a guard who'll let in bandits will let in an enemy army, if the price is right -- but he can't exactly have me running around here as a lasting reminder of his failure to take care of things himself.
 dlga_merchant_closing_statement_2:merchant_closing_statement_3|That hardly seems fair...
 dlga_merchant_closing_statement_3:merchant_closing_statement_4|Fair? This is Europe, {my boy/my lady}! Kings do what they will, and the rest of us do as they must. He didn't string me up, and instead gave me time to sell my properties -- even put in a word with the other merchants that they best pay me a fair price, too. That's gracious enough, as kings go -- but he's a weak king, as they all are here, and weak kings must always look to their authority first, and justice second. I suppose I'd do the same, in his shoes.
@@ -316,8 +315,8 @@ dlga_member_fief_grant_1:member_fief_grant_2|Which fief did you have in mind?
 dlga_member_fief_grant_2:member_fief_grant_3|{s11}
 dlga_member_fief_grant_2:do_member_trade|Never mind -- there is no fief I can offer.
 dlga_member_fief_grant_3:close_window|{s5}
-dlga_start:close_window.11|Let's leave whenever you are ready.
-dlga_start:close_window.12|Please do not waste any more of my time today, {sir/madame}. Perhaps we shall meet again in our travels.
+dlga_start:close_window.14|Let's leave whenever you are ready.
+dlga_start:close_window.15|Please do not waste any more of my time today, {sir/madame}. Perhaps we shall meet again in our travels.
 dlga_start:companion_recruit_intro_response|{s5}
 dlga_companion_recruit_intro_response:companion_recruit_backstory_a|{s6}
 dlga_companion_recruit_intro_response:close_window|{s7}
@@ -388,8 +387,8 @@ dlga_dplmc_recruiter_talk_4:dplmc_recruiter_talk|Sure {reg65?madame:sir}. I will
 dlga_start:dplmc_messenger_talk|Greetings. Sorry but I don't have time to talk now. I am delivering a very important message to {s6}.
 dlga_dplmc_messenger_talk:dplmc_messenger_talk_farewell|Alright, I don't want to delay you. Godspeed!
 dlga_dplmc_messenger_talk_farewell:close_window|Thank you. Farewell!
-dlga_start:close_window.13|Halt! Enemy, charge!
-dlga_start:close_window.14|Greetings, friend.
+dlga_start:close_window.16|Halt! Enemy, charge!
+dlga_start:close_window.17|Greetings, friend.
 dlga_start:patrol_talk|What do you want?
 dlga_patrol_talk:patrol_talk_ultimatum|Surrender to me now!
 dlga_patrol_talk_ultimatum:patrol_talk_ultimatum_2|We are patrolling this area in the name of {s25}.  Are you sure you're looking for trouble?
@@ -781,8 +780,8 @@ dlga_dplmc_companion_war_pay:companion_rejoin_response|Pay 5000 denars from the 
 dlga_dplmc_companion_war_pay:companion_rejoin_response.1|On second thought, I don't think we can take so much money from the treasury.
 dlga_dplmc_companion_war_request_response:companion_rejoin_response.1|{s4} is not willing to start a war with {s31}.
 dlga_companion_embassy_results:dplmc_companion_truce_pay|{s12} says that he is willing to consider a truce of twenty days if you pay him {reg0} denars.
-dlga_companion_embassy_results:companion_truce_pay|{s12} says that he is willing to consider a truce of twenty days if you yield to his terms. Either you pay {reg0} denars or you pay {reg1} denars and give him {s18}.
-dlga_companion_embassy_results:dplmc_companion_truce_pay.1|{s12} says that he is willing to consider a truce of twenty days if you pay him {reg0} or give him {s18}.
+dlga_companion_embassy_results:dplmc_companion_truce_pay.1|{s12} says that he is willing to consider a truce of twenty days if you yield to his terms. Either you pay {reg0} denars or you pay {reg1} denars and give him {s18}.
+dlga_companion_embassy_results:dplmc_companion_truce_pay.2|{s12} says that he is willing to consider a truce of twenty days if you pay him {reg0} or give him {s18}.
 dlga_companion_embassy_results:companion_truce_confirm|{s12} says that he is willing to consider a truce of twenty days.
 dlga_dplmc_companion_truce_pay:companion_rejoin_response|Pay {reg0} denars and let the truce with the {s4} be concluded
 dlga_dplmc_companion_truce_pay:companion_rejoin_response.1|Pay {reg1} denars and give him {s18} let this truce with the {s4} be concluded
@@ -912,12 +911,12 @@ dlga_lord_groom_vows:female_pc_marriage_vow|My lady, with this assembly as my wi
 dlga_female_pc_marriage_vow:lord_groom_wedding_complete|I vow to take you as my husband.
 dlga_female_pc_marriage_vow:close_window|Wait -- I need to think about this.
 dlga_lord_groom_wedding_complete:close_window|We are now husband and wife. Let the festivities commence!
-dlga_start:close_window.15|Very well. You've made your point. I have nothing more to say.
-dlga_start:close_window.16|Well, {sir/my lady}! Please, do not trouble yourself to rise from the ground, as I would simply have to knock you down again. I shall take your silence as an apology. Good day to you.
-dlga_start:close_window.17|Very well. You've made your point. I retract what I said. I hope you have obtained satisfaction.
-dlga_start:close_window.18|Hah! Not so gallant now, are we? Now trouble me no more.
-dlga_start:close_window.19|Very well -- you have won. Let all those present today witness that you have defeated me, and I shall abandon my suit of {s10}. Are you satisfied, you heartless bastard?
-dlga_start:close_window.20|Get up. Let all those present today witness that I have defeated you, and you are now bound to relinquish your suit of the {s10}. I will permit you one final visit, to make your farewells. After that, if you persist in attempting to see her, everyone shall know that you are a man of scant honor.
+dlga_start:close_window.18|Very well. You've made your point. I have nothing more to say.
+dlga_start:close_window.19|Well, {sir/my lady}! Please, do not trouble yourself to rise from the ground, as I would simply have to knock you down again. I shall take your silence as an apology. Good day to you.
+dlga_start:close_window.20|Very well. You've made your point. I retract what I said. I hope you have obtained satisfaction.
+dlga_start:close_window.21|Hah! Not so gallant now, are we? Now trouble me no more.
+dlga_start:close_window.22|Very well -- you have won. Let all those present today witness that you have defeated me, and I shall abandon my suit of {s10}. Are you satisfied, you heartless bastard?
+dlga_start:close_window.23|Get up. Let all those present today witness that I have defeated you, and you are now bound to relinquish your suit of the {s10}. I will permit you one final visit, to make your farewells. After that, if you persist in attempting to see her, everyone shall know that you are a man of scant honor.
 dlga_start:player_siege_castle_commander_1|What do you want?
 dlga_player_siege_castle_commander_1:player_siege_ask_surrender|Surrender! Your situation is hopeless!
 dlga_player_siege_castle_commander_1:close_window|Nothing. I'll leave you now.
@@ -1530,7 +1529,7 @@ dlga_liege_defends_claim_1:liege_defends_claim_2|Oh really? It is not everyone w
 dlga_liege_defends_claim_2:liege_defends_claim_3|Very well. I will indulge your curiosity. But listen closely, because I do not wish to speak of this matter again.
 dlga_liege_defends_claim_3:liege_defends_claim_4|{s48}
 dlga_liege_defends_claim_4:lord_talk|{s48}
-dlga_lord_join_rebellion_suggest_cheat:lord_join_rebellion_ask_for_order|Cheat:Allright.
+dlga_lord_join_rebellion_suggest_cheat:close_window|Cheat:Allright.
 dlga_lord_talk:lord_prison_break_chains|I've come to break you out of here.
 dlga_lord_prison_break_chains:close_window|Thank the heavens you came! However, I'm not going anywhere with these chains on my legs. You'll need to get the key away from the guard somehow.
 dlga_lord_tell_objective:lord_pretalk|What am I doing? What does it look like I'm doing?! I'm a prisoner here!
@@ -1705,8 +1704,6 @@ dlga_lord_mission_rescue_prisoner_confirm:lord_mission_rescue_prisoner_rejected|
 dlga_lord_mission_rescue_prisoner_rejected:close_window|It would not have been an easy task. Perhaps we will find another way.
 dlga_lord_mission_rescue_prisoner_accepted:lord_mission_rescue_prisoner_method|We are most grateful. Could I ask you how you were planning to proceed?
 dlga_lord_mission_rescue_other_ideas:lord_mission_rescue_prisoner_method|Did you have any other ideas which you wished to discuss?
-dlga_lord_mission_rescue_prisoner_method:lord_mission_rescue_prisoner_method_ransom|I am thinking of paying the ransom.
-dlga_lord_mission_rescue_prisoner_method:lord_mission_rescue_prisoner_method_connections|I am thinking of using my connections in {s24}.
 dlga_lord_mission_rescue_prisoner_method:lord_mission_rescue_prisoner_method_prisonbreak|I am thinking of breaking into the prison in {s24}, finding {s13}, and fighting my way out.
 dlga_lord_mission_rescue_prisoner_method:lord_mission_rescue_prisoner_method_siege|I am thinking of taking {s24} by storm.
 dlga_lord_mission_rescue_prisoner_method:lord_mission_rescue_prisoner_planning_end|I have done enough planning. Time to act!
@@ -1868,17 +1865,17 @@ dlga_spouse_feast_confirm:spouse_feast_confirm_yes|Let us dispatch the invitatio
 dlga_spouse_feast_confirm:spouse_pretalk|Let us wait, then
 dlga_spouse_feast_confirm_yes:spouse_pretalk|I shall send word, then, that we will host a feast as soon as conditions in the realm permit. You perhaps should continue to stock our larder, so that we may do justice to our reputation for hospitality.
 dlga_spouse_feast_confirm_yes:spouse_pretalk.1|Very well, then. Let the feast begin immediately at our court {reg4?here:} in {s9}. You perhaps should continue to stock our larder, so that we may do justice to our reputation for hospitality. You may declare the feast to be concluded at any time, either by beginning a campaign or by letting it be known that the vassals can return to their homes.
-dlga_start:close_window.21|How wonderful it is... In a short while we shall be married! However, I should point out that, in the remaining few days, it is not customary for us to speak too much together.
-dlga_start:close_window.22|Em, {playername}, you might not be used to our wedding customs, but I had hoped that someone would tell you... Speak first to my {s11}, {s4}.
-dlga_start:close_window.23|I do not know where to find my {s11} {s10}, who by tradition should preside over our wedding. Perhaps we should wait until he can be found...
-dlga_start:close_window.24|The honorable {s12} has agreed to allow us to return home to our families. We shall be departing shortly.
+dlga_start:close_window.24|How wonderful it is... In a short while we shall be married! However, I should point out that, in the remaining few days, it is not customary for us to speak too much together.
+dlga_start:close_window.25|Em, {playername}, you might not be used to our wedding customs, but I had hoped that someone would tell you... Speak first to my {s11}, {s4}.
+dlga_start:close_window.26|I do not know where to find my {s11} {s10}, who by tradition should preside over our wedding. Perhaps we should wait until he can be found...
+dlga_start:close_window.27|The honorable {s12} has agreed to allow us to return home to our families. We shall be departing shortly.
 dlga_start:kingdom_lady_captive|So great is my loneliness! How I miss my family!
 dlga_start:kingdom_lady_captive.1|You are a cad, {sir/madame}, to hold a lady like this...
 dlga_start:kingdom_lady_captive.2|It is strange. On occasion you have shown me such kindness, and yet you continue to hold me here against my will.
 dlga_start:kingdom_lady_captive.3|Why haven't my family paid my ransom? You may hold me as prisoner, but it seems that you care for me more than they do!
 dlga_lady_stranded_next:close_window|Greetings, {sir/my lady}. The tides of war have left me stranded here in this fortress, but I will shortly be departing. 
 dlga_start:lady_talk_refugee|{playername} -- I assume that you, as a {man/lady} of honor, will accord gentle-born ladies such as ourselves the right to return to our families, and not demand a ransom.
-dlga_start:close_window.25|We will shortly depart{s5}. It is good to know that some people in this world retain a sense of honor.
+dlga_start:close_window.28|We will shortly depart{s5}. It is good to know that some people in this world retain a sense of honor.
 dlga_lady_talk_refugee:close_window|Of course, my lady
 dlga_lady_talk_refugee:lady_captive_talk|You assume wrong, my lady!
 dlga_lady_captive_talk:lady_captive_confirm|What?! What infamy is this?
@@ -1886,7 +1883,7 @@ dlga_lady_captive_confirm:close_window|My apologies - you must have misunderstoo
 dlga_lady_captive_confirm:close_window.1|Contact your family to arrange for a ransom, my lady.
 dlga_kingdom_lady_captive:close_window|Then write to your family, and ask them to hurry up with the ransom!
 dlga_kingdom_lady_captive:close_window.1|I have changed my mind -- you are free to go
-dlga_start:close_window.26|Well, {playername} -- you fought a duel with {s10}, and lost. According to our custom and tradition, I should no longer receive you. Farewell, {playername}.
+dlga_start:close_window.29|Well, {playername} -- you fought a duel with {s10}, and lost. According to our custom and tradition, I should no longer receive you. Farewell, {playername}.
 dlga_start:lady_duel_lost|Oh {playername} -- I heard of your duel with {s10}. I wish now that you had never fought him, for our honor and tradition demand that, having lost to him, you now break off your suit with me. Farewell, {playername}.
 dlga_lady_duel_lost:close_window|Very well - we must do as tradition demands... Farewell, my lady
 dlga_lady_duel_lost:lady_duel_lost_flaunt_conventions|Let honor and tradition hang!
@@ -1915,7 +1912,7 @@ dlga_rescue_prisoner_succeed_1:lady_pretalk|Always an honour to serve, {s65}.
 dlga_start:lady_meet_end|You must be {playername}. We have just had the honor of watching you distinguish yourself in the recent tournament{s8}.
 dlga_start:lady_meet_end.1|You must be {playername}. My {s15} {s16} has spoken most highly of you. I am delighted to make your acquaintance.
 dlga_start:lady_premeet|I say, you don't look familiar...
-dlga_start:close_window.27|Ah, {playername}. How good it is to see you again. However, I believe that I am required elsewhere.
+dlga_start:close_window.30|Ah, {playername}. How good it is to see you again. However, I believe that I am required elsewhere.
 dlga_start:lady_start.3|{playername} -- how good it is to see you. (Whispers:) I still remember your visits fondly.
 dlga_start:lady_meet_end.2|Ah, {playername}. How spendid it was to see you distinguish yourself in the recent tournament.
 dlga_start:lady_start.4|{s12}
@@ -2102,7 +2099,7 @@ dlga_seneschal_ask_location:seneschal_ask_location_2|Well, a man in my position 
 dlga_seneschal_ask_location_2:seneschal_ask_location_3|{s1}
 dlga_seneschal_ask_location_2:seneschal_pretalk|Never mind.
 dlga_seneschal_ask_location_3:seneschal_pretalk|{s1}
-dlga_start:close_window.28|There! I can see the walls of {s3} in the distance. We've made it safely. Here, take this purse of {reg3} denars, as I promised. I hope we can travel together again someday.
+dlga_start:close_window.31|There! I can see the walls of {s3} in the distance. We've made it safely. Here, take this purse of {reg3} denars, as I promised. I hope we can travel together again someday.
 dlga_start:talk_caravan_escort|We've made it this far... Is everything clear up ahead?
 dlga_talk_caravan_escort:talk_caravan_escort_2a|There might be bandits nearby. Stay close.
 dlga_talk_caravan_escort_2a:close_window|Trust me, {playername}, we're already staying as close to you as we can. Lead the way.
@@ -2186,7 +2183,7 @@ dlga_start:castle_guard_players|Your orders, {Lord/Lady}?
 dlga_castle_guard_players:close_window|Open the door. I'll go in.
 dlga_castle_guard_players:close_window.1|Never mind.
 dlga_start:castle_guard_sneaked_intro_1|Get out of my sight, beggar! You stink!
-dlga_start:close_window.29|Get lost before I lose my temper you vile beggar!
+dlga_start:close_window.32|Get lost before I lose my temper you vile beggar!
 dlga_castle_guard_sneaked_intro_1:castle_guard_sneaked_intro_2|I want to enter the hall and speak to the lord.
 dlga_castle_guard_sneaked_intro_1:close_window|[Leave]
 dlga_castle_guard_sneaked_intro_2:close_window|Are you out of your mind, {man/woman}? Beggars are not allowed into the hall. Now get lost or I'll beat you bloody.
@@ -2218,8 +2215,8 @@ dlga_castle_gate_open:close_window.1|My lord {s2} is not in the castle now. But 
 dlga_castle_gate_open:close_window.2|Come on in. I am opening the gates for you.
 dlga_castle_gate_open:close_window.3|Come on in. But make sure your men behave sensibly within the walls. My lord {s2} does not want trouble here.
 dlga_castle_gate_open:close_window.4|My lord {s2} does not want you here. Begone now.
-dlga_start:close_window.30|You have come just in time. Let us join our forces now and teach our enemy a lesson.
-dlga_start:close_window.31|You are making a big mistake by fighting against us.
+dlga_start:close_window.33|You have come just in time. Let us join our forces now and teach our enemy a lesson.
+dlga_start:close_window.34|You are making a big mistake by fighting against us.
 dlga_start:ally_thanks_meet|I don't think we have met properly my friend. You just saved my life out there, and I still don't know your name...
 dlga_start:ally_thanks_meet.1|Your help was most welcome stranger. My name is {s1}. Can I learn yours?
 dlga_start:ally_thanks_meet.2|Thanks for your help, stranger. We haven't met properly yet, have we? What is your name?
@@ -2227,15 +2224,15 @@ dlga_ally_thanks_meet:ally_thanks_meet_2|My name is {playername}.
 dlga_ally_thanks_meet_2:close_window|Well met indeed {playername}. My name is {s1} and I am forever in your debt. If there is ever anything I can help you with, just let me know...
 dlga_ally_thanks_meet_2:close_window.1|Well met {playername}. I am in your debt for what you just did. I hope one day I will find a way to repay it.
 dlga_ally_thanks_meet_2:close_window.2|Well met {playername}. I am {s1}. Thanks for your help and I hope we meet again.
-dlga_start:close_window.32|Again you save our necks, {playername}! Truly, you are the best of friends. {s43}
-dlga_start:close_window.33|You arrived just in the nick of time! {playername}. You have my deepest thanks! {s43}
-dlga_start:close_window.34|You turned up just in time, {playername}. I will not forget your help. {s43}
-dlga_start:close_window.35|Good to see you here, {playername}. {s43}
-dlga_start:close_window.36|{s43}
-dlga_start:close_window.37|{s43}
-dlga_start:close_window.38|Thank you for your help {sir/madam}. You saved {reg1?our lives:my life} out there.
-dlga_start:close_window.39|Thank you for your help {sir/madam}. Things didn't look very well for us but then you came up and everything changed.
-dlga_start:close_window.40|Thank you for your help, {sir/madam}. It was fortunate to have you nearby.
+dlga_start:close_window.35|Again you save our necks, {playername}! Truly, you are the best of friends. {s43}
+dlga_start:close_window.36|You arrived just in the nick of time! {playername}. You have my deepest thanks! {s43}
+dlga_start:close_window.37|You turned up just in time, {playername}. I will not forget your help. {s43}
+dlga_start:close_window.38|Good to see you here, {playername}. {s43}
+dlga_start:close_window.39|{s43}
+dlga_start:close_window.40|{s43}
+dlga_start:close_window.41|Thank you for your help {sir/madam}. You saved {reg1?our lives:my life} out there.
+dlga_start:close_window.42|Thank you for your help {sir/madam}. Things didn't look very well for us but then you came up and everything changed.
+dlga_start:close_window.43|Thank you for your help, {sir/madam}. It was fortunate to have you nearby.
 dlga_start:kidnapped_girl_liberated_battle|Oh {sir/madam}. Thank you so much for rescuing me. Will you take me to my family now?
 dlga_start:freed_hero_answer|I am in your debt for freeing me friend.
 dlga_freed_hero_answer:freed_hero_answer_1|You're not going anywhere. You'll be my prisoner now!
@@ -2297,7 +2294,7 @@ dlga_sacrificed_messenger_3:sacrificed_messenger_cancel|Arggh! I can't do this. 
 dlga_sacrificed_messenger_cancel:sacrificed_messenger_cancel_2|What do you mean {sir/madam}
 dlga_sacrificed_messenger_cancel_2:sacrificed_messenger_cancel_3|There's a trap set up for you in the town. {s3} ordered me to sacrifice one of my chosen warriors to fool the enemy, but he will just need to find another way.
 dlga_sacrificed_messenger_cancel_3:close_window|Thank you, {sir/madam}. I will follow you to the gates of hell. But this would not be a good death.
-dlga_start:close_window.41|Don't worry, {sir/madam}, I'm on my way.
+dlga_start:close_window.44|Don't worry, {sir/madam}, I'm on my way.
 dlga_start:follow_spy_talk|Good day {sir/madam}. Such fine weather don't you think? If you'll excuse me now I must go on my way.
 dlga_follow_spy_talk:follow_spy_talk_2|In the name of {s1}, you are under arrest!
 dlga_follow_spy_talk_2:close_window|You won't get me alive!
@@ -2562,7 +2559,7 @@ dlga_farmer_from_bandit_village_5:farmer_from_bandit_village_barter|Why would I 
 dlga_farmer_from_bandit_village_accepted:close_window|God bless you, {sir/madam}. Our village is {s7}. It is not too far from here.
 dlga_farmer_from_bandit_village_denied:close_window|As you say {sir/madam}. Forgive me for bothering you.
 dlga_farmer_from_bandit_village_barter:farmer_from_bandit_village_5|We are but poor farmers {sir/madam}, and the bandits have already got most of what we have on this world. but we'll be glad to share with you whatever we have got. And we'll always be in your gratitude if you help us.
-dlga_start:close_window.42|Thank you for helping us {sir/madam}. Crush those bandits!
+dlga_start:close_window.45|Thank you for helping us {sir/madam}. Crush those bandits!
 dlga_start:mercenary_tavern_talk|Do you have a need for mercenaries, {sir/madam}? {reg3?Me and {reg4?{reg3} of my mates:one of my mates} are:I am} looking for a master. We'll join you for {reg5} denars.
 dlga_start:mercenary_after_recruited|Any orders, {sir/madam}?
 dlga_mercenary_after_recruited:mercenary_after_recruited_2|Make your preparations. We'll be moving at dawn.
@@ -2772,8 +2769,8 @@ dlga_merchant_quest_brief:escort_merchant_caravan_quest_brief|I am going to send
 dlga_escort_merchant_caravan_quest_brief:merchant_quest_taken|Alright. I will escort the caravan.
 dlga_escort_merchant_caravan_quest_brief:merchant_quest_stall|I am afraid I don't have that many soldiers with me.
 dlga_escort_merchant_caravan_quest_brief:merchant_quest_stall.1|Sorry. I can't do that right now
-dlga_start:close_window.43|We can cover the rest of the way ourselves. Thanks.
-dlga_start:close_window.44|Well, we have almost reached {s21}. We can cover the rest of the way ourselves. Here's your pay... {reg14} denars. Thanks for escorting us. Good luck.
+dlga_start:close_window.46|We can cover the rest of the way ourselves. Thanks.
+dlga_start:close_window.47|Well, we have almost reached {s21}. We can cover the rest of the way ourselves. Here's your pay... {reg14} denars. Thanks for escorting us. Good luck.
 dlga_start:merchant_caravan_intro_1|Greetings. You must be our escort, right?
 dlga_merchant_caravan_intro_1:merchant_caravan_intro_2|Yes. My name is {playername}. I will lead you to {s1}.
 dlga_merchant_caravan_intro_2:escort_merchant_caravan_talk|Well, It is good to know we won't travel alone. What do you want us to do now?
@@ -2792,7 +2789,7 @@ dlga_merchant_quest_brief:kidnapped_girl_quest_brief|The amount the bandits ask 
 dlga_kidnapped_girl_quest_brief:kidnapped_girl_quest_taken|All right. I will take the ransom money to the bandits and bring back the girl.
 dlga_kidnapped_girl_quest_taken:close_window|Good. I knew we could trust you at this. Here is the ransom money, {reg12} denars. Count it before taking it. And please, don't attempt to do anything rash. Keep in mind that the girl's well being is more important than anything else...
 dlga_kidnapped_girl_quest_brief:merchant_quest_stall|Sorry. I don't have time for this right now.
-dlga_start:close_window.45|Thank you so much for bringing me back!  I can't wait to see my family. Good-bye.
+dlga_start:close_window.48|Thank you so much for bringing me back!  I can't wait to see my family. Good-bye.
 dlga_kidnapped_girl_liberated_map:kidnapped_girl_liberated_map_2a|Yes. Come with me. We are going home.
 dlga_kidnapped_girl_liberated_map_2a:close_window|Unfortunately. You do not have room in your party for me.
 dlga_kidnapped_girl_liberated_map_2a:close_window.1|Oh really? Thank you so much!
@@ -3053,7 +3050,7 @@ dlga_party_encounter_routed_agents_are_caught2:close_window.1|{s1}
 dlga_sell_prisoner_outlaws:sell_prisoner_outlaws|Hmmm. 10 denars for each looter makes {reg1} denars for all {reg0} of them.
 dlga_sell_prisoner_outlaws:sell_prisoner_outlaws.1|Let me see. You've brought {reg0} bandits, so 20 denars for each comes up to {reg1} denars.
 dlga_sell_prisoner_outlaws:sell_prisoner_outlaws.2|Well well, you've captured {reg0} brigands. Each one is worth 30 denars, so I'll give you {reg1} for them in total.
-dlga_sell_prisoner_outlaws:sell_prisoner_outlaws_finished|I suppose that'll be all, then.
+dlga_sell_prisoner_outlaws:close_window|I suppose that'll be all, then.
 dlga_prisoner_chat:prisoner_chat_2|Do not try running away or trying something stupid. I will be watching you.
 dlga_prisoner_chat_2:close_window|No, I swear I won't.
 dlga_start:town_merchant_talk|Greetings, {your lordship/my lady}. How can I serve you today?
@@ -3120,10 +3117,10 @@ dlga_start:player_castle_guard_talk|Yes {sir/madam}?
 dlga_player_castle_guard_talk:player_castle_guard_talk_2|How goes the watch, soldier?
 dlga_player_castle_guard_talk_2:player_castle_guard_talk_3|All is quiet {sir/madam}. Nothing to report.
 dlga_player_castle_guard_talk_3:close_window|Good. Keep your eyes open.
-dlga_start:close_window.46|Good day, {sir/madame}. Always an honor to have you here in {s10}.
-dlga_start:close_window.47|Mind your manners within the walls and we'll have no trouble.
+dlga_start:close_window.49|Good day, {sir/madame}. Always an honor to have you here in {s10}.
+dlga_start:close_window.50|Mind your manners within the walls and we'll have no trouble.
 dlga_start:hall_guard_talk|Your orders, {my lord/my lady}?
-dlga_start:close_window.48|We are not supposed to talk while on guard, {sir/madam}.
+dlga_start:close_window.51|We are not supposed to talk while on guard, {sir/madam}.
 dlga_hall_guard_talk:hall_guard_duty|Stay on duty and let me know if anyone comes to see me.
 dlga_hall_guard_duty:close_window|Yes, {my lord/my lady}. As you wish.
 dlga_hall_guard_talk:hall_guard_arrest|I want you to arrest this man immediately!
@@ -3193,3 +3190,16 @@ dlga_mayor_wealth_comparison_4:mayor_wealth_comparison_5|In terms of trade, the 
 dlga_mayor_wealth_comparison_5:mayor_pretalk|In terms of attacks on travellers, the town of {s4} is believed to be the most dangerous. Here in {s5}, we are less afflicted by bandits and raiders than {reg4} towns, and more afflicted than {reg5}. 
 dlga_free:close_window| Good-bye.
 dlga_free:close_window.1| [Leave]
+dlga_lord_talk:lord_specialise|My Lord, I would like to like to enlist in your army.
+dlga_lord_specialise:lord_specialise|And you are?
+dlga_lord_specialise:lord_request_enlistment|A angry Peasent!
+dlga_lord_specialise:lord_request_enlistment.1|A fat Burgher!
+dlga_lord_specialise:lord_request_enlistment.2|A smelly Noble!
+dlga_lord_request_enlistment:lord_pretalk|I hope you serve me well. Here is the standard issue equipment.
+dlga_lord_request_enlistment:lord_pretalk.1|I do not trust you enough to allow you to serve for me.
+dlga_lord_talk:lord_request_retire|My Lord, I would like to like to retire from service.
+dlga_lord_request_retire:lord_pretalk|Very well {playername}. You are relieved of duty.
+dlga_lord_talk:lord_request_vacation|My Lord, I would like to request some personal leave
+dlga_lord_request_vacation:lord_pretalk|Very well {playername}. You shall take some time off from millitary duty.
+dlga_lord_talk:ask_return_from_leave|My Lord, I am ready to return to your command.
+dlga_ask_return_from_leave:lord_pretalk|Welcome back {playername}. Your regiment has missed you I daresay, Now return to your post.
