@@ -3203,3 +3203,4 @@ dlga_lord_talk:lord_request_vacation|大 人， 我 因 个 人 原 因 想 请 
 dlga_lord_request_vacation:lord_pretalk|那 好 吧， {playername}， 我 可 以 暂 时 免 除 你 在 军 队 服 役 的 职 责。 
 dlga_lord_talk:ask_return_from_leave|大 人， 我 已 经 准 备 好 回 归 您 的 旌 旗 之 下 了。 
 dlga_ask_return_from_leave:lord_pretalk|欢 迎 回 来， {playername}， 战 友 们 都 挺 想 念 你 的。 现 在 回 到 你 的 岗 位 上 去 吧。 
+ 
