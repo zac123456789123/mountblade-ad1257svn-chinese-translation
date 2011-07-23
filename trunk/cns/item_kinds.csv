@@ -630,8 +630,6 @@ itm_kau_antioch|安 条 克 链 甲
 itm_kau_antioch_pl|安 条 克 链 甲 
 itm_kau_cyprus|塞 浦 路 斯 链 甲 
 itm_kau_cyprus_pl|塞 浦 路 斯 链 甲 
-itm_kau_antioch|安 条 克 链 甲 
-itm_kau_antioch_pl|安 条 克 链 甲 
 itm_kau_jerusalem|耶 路 撒 冷 链 甲 
 itm_kau_jerusalem_pl|耶 路 撒 冷 链 甲 
 itm_kau_latin_a|拉 丁 帝 国 链 甲 
@@ -882,12 +880,12 @@ itm_templar_mail_a|链 锁 甲
 itm_templar_mail_a_pl|链 锁 甲 
 itm_templar_tunic_a|见 习 牧 师 短 袍 
 itm_templar_tunic_a_pl|见 习 牧 师 短 袍 
-itm_templar_knight_a|条 顿 罩 袍 链 甲 
-itm_templar_knight_a_pl|条 顿 罩 袍 链 甲 
-itm_templar_knight_b|条 顿 罩 袍 链 甲 
-itm_templar_knight_b_pl|条 顿 罩 袍 链 甲 
-itm_templar_knight_c|条 顿 罩 袍 链 甲 
-itm_templar_knight_c_pl|条 顿 罩 袍 链 甲 
+itm_templar_knight_a|圣 殿 罩 袍 链 甲 
+itm_templar_knight_a_pl|圣 殿 罩 袍 链 甲 
+itm_templar_knight_b|圣 殿 罩 袍 链 甲 
+itm_templar_knight_b_pl|圣 殿 罩 袍 链 甲 
+itm_templar_knight_c|圣 殿 罩 袍 链 甲 
+itm_templar_knight_c_pl|圣 殿 罩 袍 链 甲 
 itm_templar_gambeson_a|软 铠 甲 
 itm_templar_gambeson_a_pl|软 铠 甲 
 itm_hospitaller_knight_a|罩 袍 链 甲 
@@ -910,8 +908,6 @@ itm_hospitaller_tunic_a|见 习 牧 师 短 袍
 itm_hospitaller_tunic_a_pl|见 习 牧 师 短 袍 
 itm_hospitaller_gambeson_a|软 铠 甲 
 itm_hospitaller_gambeson_a_pl|软 铠 甲 
-itm_hospitaller_knight_a|罩 袍 链 甲 
-itm_hospitaller_knight_a_pl|罩 袍 链 甲 
 itm_hirdman_a|无 袖 板 甲 
 itm_hirdman_a_pl|无 袖 板 甲 
 itm_arab_mail_a|链 甲 衫 
@@ -1050,8 +1046,14 @@ itm_byz_footman_b|拜 占 庭 加 衬 布 衣
 itm_byz_footman_b_pl|拜 占 庭 加 衬 布 衣 
 itm_byz_footman_c|拜 占 庭 加 衬 布 衣 
 itm_byz_footman_c_pl|拜 占 庭 加 衬 布 衣 
-itm_byz_swordsman|拜 占 庭 斥 候 甲 
-itm_byz_swordsman_pl|拜 占 庭 斥 候 甲 
+itm_byz_swordsman_1|拜 占 庭 斥 候 甲 
+itm_byz_swordsman_1_pl|拜 占 庭 斥 候 甲 
+itm_byz_swordsman_2|拜 占 庭 斥 候 甲 
+itm_byz_swordsman_2_pl|拜 占 庭 斥 候 甲 
+itm_byz_swordsman_3|拜 占 庭 斥 候 甲 
+itm_byz_swordsman_3_pl|拜 占 庭 斥 候 甲 
+itm_byz_swordsman_4|拜 占 庭 斥 候 甲 
+itm_byz_swordsman_4_pl|拜 占 庭 斥 候 甲 
 itm_byz_guard_a|拜 占 庭 卫 士 甲 
 itm_byz_guard_a_pl|拜 占 庭 卫 士 甲 
 itm_byz_guard_b|拜 占 庭 卫 士 甲 
@@ -1122,8 +1124,6 @@ itm_mail_coif|链 甲 头 巾
 itm_mail_coif_pl|链 甲 头 巾 
 itm_footman_helmet|步 兵 盔 
 itm_footman_helmet_pl|步 兵 盔 
-itm_norman_helmet|带 帽 头 盔 
-itm_norman_helmet_pl|带 帽 头 盔 
 itm_khergit_lady_hat|蒙 古 女 式 帽 
 itm_khergit_lady_hat_pl|蒙 古 女 式 帽 
 itm_khergit_lady_hat_b|蒙 古 女 式 皮 帽 
@@ -1162,8 +1162,6 @@ itm_vaegir_spiked_helmet|锥 顶 帽
 itm_vaegir_spiked_helmet_pl|锥 顶 帽 
 itm_vaegir_lamellar_helmet|鳞 片 护 甲 盔 
 itm_vaegir_lamellar_helmet_pl|鳞 片 护 甲 盔 
-itm_vaegir_war_helmet|罗 斯 战 盔 
-itm_vaegir_war_helmet_pl|罗 斯 战 盔 
 itm_vaegir_mask|罗 斯 面 具 战 盔 
 itm_vaegir_mask_pl|罗 斯 面 具 战 盔 
 itm_winged_great_helmet|带 翼 巨 盔 
@@ -1196,10 +1194,6 @@ itm_balt_helmet_b|波 罗 的 海 盔
 itm_balt_helmet_b_pl|波 罗 的 海 盔 
 itm_balt_helmet_c|波 罗 的 海 盔 
 itm_balt_helmet_c_pl|波 罗 的 海 盔 
-itm_pol_helm_05|巨 盔 
-itm_pol_helm_05_pl|巨 盔 
-itm_pol_helm_08|巨 盔 
-itm_pol_helm_08_pl|巨 盔 
 itm_teu_kettle_hat_a|锅 盔 
 itm_teu_kettle_hat_a_pl|锅 盔 
 itm_teu_kettle_hat_b|锅 盔 
@@ -1278,12 +1272,8 @@ itm_skullcap|无 边 盔
 itm_skullcap_pl|无 边 盔 
 itm_raf_spangen|夹 铁 盔 
 itm_raf_spangen_pl|夹 铁 盔 
-itm_arab_helmet_a|萨 拉 逊 盔 
-itm_arab_helmet_a_pl|萨 拉 逊 盔 
 itm_arab_helmet_b|萨 拉 逊 盔 
 itm_arab_helmet_b_pl|萨 拉 逊 盔 
-itm_arab_helmet_c|萨 拉 逊 盔 
-itm_arab_helmet_c_pl|萨 拉 逊 盔 
 itm_berber_helmet_a|柏 柏 尔 盔 
 itm_berber_helmet_a_pl|柏 柏 尔 盔 
 itm_maciejowski_helm|巨 盔 
@@ -1404,8 +1394,6 @@ itm_talak_warhammer|战 锤
 itm_talak_warhammer_pl|战 锤 
 itm_talak_bastard_sword|手 半 剑 
 itm_talak_bastard_sword_pl|手 半 剑 
-itm_talak_mace|凸 缘 钉 头 锤 
-itm_talak_mace_pl|凸 缘 钉 头 锤 
 itm_raf_one_handed_axe_a|单 手 斧 
 itm_raf_one_handed_axe_a_pl|单 手 斧 
 itm_raf_one_handed_axe_b|单 手 斧 
@@ -1532,6 +1520,8 @@ itm_lance|骑 枪
 itm_lance_pl|骑 枪 
 itm_heavy_lance|重 型 骑 枪 
 itm_heavy_lance_pl|重 型 骑 枪 
+itm_heraldic_lance|纹 章 骑 枪 
+itm_heraldic_lance_pl|纹 章 骑 枪 
 itm_bamboo_spear|竹 矛 
 itm_bamboo_spear_pl|竹 矛 
 itm_spear_a|矛 
@@ -1684,6 +1674,10 @@ itm_lit_pavise_h_4|重 型 立 陶 宛 盾
 itm_lit_pavise_h_4_pl|重 型 立 陶 宛 盾 
 itm_byz_shield|重 型 拜 占 庭 筝 形 盾 
 itm_byz_shield_pl|重 型 拜 占 庭 筝 形 盾 
+itm_byz_shield_kite|筝 形 盾 
+itm_byz_shield_kite_pl|筝 形 盾 
+itm_byz_shield_round|圆 盾 
+itm_byz_shield_round_pl|圆 盾 
 itm_arab_shield_a_1|旧 萨 拉 逊 圆 盾 
 itm_arab_shield_a_1_pl|旧 萨 拉 逊 圆 盾 
 itm_arab_shield_a_2|简 易 萨 拉 逊 圆 盾 
@@ -1794,8 +1788,6 @@ itm_balt_javelin|波 罗 的 海 标 枪
 itm_balt_javelin_pl|波 罗 的 海 标 枪 
 itm_throwing_spears|投 矛 
 itm_throwing_spears_pl|投 矛 
-itm_balt_throwing_spears|投 矛 
-itm_balt_throwing_spears_pl|投 矛 
 itm_stones|石 子 
 itm_stones_pl|石 子 
 itm_throwing_knives|飞 刀 
@@ -1854,8 +1846,6 @@ itm_practice_arrows_2|练 习 箭
 itm_practice_arrows_2_pl|练 习 箭 
 itm_mail_boots_for_tableau|链 甲 靴 
 itm_mail_boots_for_tableau_pl|链 甲 靴 
-itm_heraldic_lance|纹 章 骑 枪 
-itm_heraldic_lance_pl|纹 章 骑 枪 
 itm_almogavar_sword|阿 尔 莫 伽 瓦 直 刃 刀 
 itm_almogavar_sword_pl|阿 尔 莫 伽 瓦 直 刃 刀 
 itm_welsh_archer|威 尔 士 弓 兵 短 袍 
@@ -2094,6 +2084,18 @@ itm_byzantine_sabre|拜 占 庭 军 刀
 itm_byzantine_sabre_pl|拜 占 庭 军 刀 
 itm_byzantine_sword|拜 占 庭 剑 
 itm_byzantine_sword_pl|拜 占 庭 剑 
+itm_byzantine_sword_1|拜 占 庭 剑 
+itm_byzantine_sword_1_pl|拜 占 庭 剑 
+itm_byzantine_sword_3|拜 占 庭 剑 
+itm_byzantine_sword_3_pl|拜 占 庭 剑 
+itm_byzantine_sword_4|拜 占 庭 剑 
+itm_byzantine_sword_4_pl|拜 占 庭 剑 
+itm_byzantine_sword_5|拜 占 庭 剑 
+itm_byzantine_sword_5_pl|拜 占 庭 剑 
+itm_byzantine_sword_7|拜 占 庭 剑 
+itm_byzantine_sword_7_pl|拜 占 庭 剑 
+itm_byzantine_sword_extra|拜 占 庭 剑 
+itm_byzantine_sword_extra_pl|拜 占 庭 剑 
 itm_rus_shield_a_4|杏 形 盾 
 itm_rus_shield_a_4_pl|杏 形 盾 
 itm_rus_shield_b_4|杏 形 盾 
@@ -2300,7 +2302,11 @@ itm_saracen_mail|萨 拉 逊 链 甲
 itm_saracen_mail_pl|萨 拉 逊 链 甲 
 itm_jineta_sword|伊 比 利 亚 骑 兵 剑 
 itm_jineta_sword_pl|伊 比 利 亚 骑 兵 剑 
-itm_test_flag|测 试 标 记 
-itm_test_flag_pl|测 试 标 记 
+itm_flag_pole_1|标 记 
+itm_flag_pole_1_pl|标 记 
+itm_flag_pole_2|标 记 
+itm_flag_pole_2_pl|标 记 
+itm_flag_pole_3|标 记 
+itm_flag_pole_3_pl|标 记 
 itm_items_end|Items End 
 itm_items_end_pl|Items End 
