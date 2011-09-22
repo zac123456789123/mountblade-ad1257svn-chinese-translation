@@ -586,12 +586,12 @@ trp_byz_town_1|Polites
 trp_byz_town_1_pl|Polites
 trp_byz_town_2|Contarati
 trp_byz_town_2_pl|Contarati
-trp_byz_town_3_1|Scoutati Spearman
-trp_byz_town_3_1_pl|Scoutati Spearmen
-trp_byz_town_4_1|Veteran Scoutati Spearman
-trp_byz_town_4_1_pl|Veteran Scoutati Spearman
-trp_byz_town_3_2|Scoutati Swordsman
-trp_byz_town_3_2_pl|Scoutati Swordsmen
+trp_byz_town_3_1|Scoutati Akontisths
+trp_byz_town_3_1_pl|Scoutati Akontisths
+trp_byz_town_4_1|Beteranos Scoutati Akontisths
+trp_byz_town_4_1_pl|Beteranoi Scoutati Akontisths
+trp_byz_town_3_2|Scoutati Ksifomaxos
+trp_byz_town_3_2_pl|Scoutati Ksifomaxos
 trp_byz_town_4_2|Hoplitae
 trp_byz_town_4_2_pl|Hoplitae
 trp_byz_castle_1|Trapezitae
@@ -1135,6 +1135,26 @@ trp_tavern_minstrel_9|Wandering Skald
 trp_tavern_minstrel_9_pl|Minstrel
 trp_tavern_minstrel_10|Wandering Troubadour
 trp_tavern_minstrel_10_pl|Minstrel
+trp_tavern_minstrel_11|Wandering Minstrel
+trp_tavern_minstrel_11_pl|Minstrel
+trp_tavern_minstrel_12|Wandering Bard
+trp_tavern_minstrel_12_pl|Minstrel
+trp_tavern_minstrel_13|Wandering Ashik
+trp_tavern_minstrel_13_pl|Minstrel
+trp_tavern_minstrel_14|Wandering Skald
+trp_tavern_minstrel_14_pl|Minstrel
+trp_tavern_minstrel_15|Wandering Troubadour
+trp_tavern_minstrel_15_pl|Minstrel
+trp_tavern_minstrel_16|Wandering Minstrel
+trp_tavern_minstrel_16_pl|Minstrel
+trp_tavern_minstrel_17|Wandering Bard
+trp_tavern_minstrel_17_pl|Minstrel
+trp_tavern_minstrel_18|Wandering Ashik
+trp_tavern_minstrel_18_pl|Minstrel
+trp_tavern_minstrel_19|Wandering Skald
+trp_tavern_minstrel_19_pl|Minstrel
+trp_tavern_minstrel_20|Wandering Troubadour
+trp_tavern_minstrel_20_pl|Minstrel
 trp_kingdom_heroes_including_player_begin|kingdom heroes including player begin
 trp_kingdom_heroes_including_player_begin_pl|kingdom heroes including player begin
 trp_npc1|Ulrich
@@ -1205,7 +1225,7 @@ trp_kingdom_4_lord|Cristofær Konung
 trp_kingdom_4_lord_pl|Cristofær
 trp_kingdom_5_lord|High Duke Bolesław V the Chaste
 trp_kingdom_5_lord_pl|Bolesław
-trp_kingdom_6_lord|Richard von Cornwall, King of the Romans
+trp_kingdom_6_lord|Richard von Cornvall, König des heiligen römischen Reiche
 trp_kingdom_6_lord_pl|Richard von Cornwall
 trp_kingdom_7_lord|King Béla IV
 trp_kingdom_7_lord_pl|Bela
@@ -1231,8 +1251,12 @@ trp_kingdom_17_lord|Chaime lo Conqueridor, King of Aragon
 trp_kingdom_17_lord_pl|Chaime lo Conqueridor
 trp_kingdom_18_lord|Alfonso X, King of Castile, Leon and Galicia
 trp_kingdom_18_lord_pl|Alfonso X
+trp_kingdom_19_lord|King Teobaldo II de Navarra
+trp_kingdom_19_lord_pl|Teobaldo II de Navarra
 trp_kingdom_20_lord|Sultan Mohammed I Ibn Nasr
 trp_kingdom_20_lord_pl|Mohammed I Ibn Nasr
+trp_pope|Pope Alexander IV
+trp_pope_pl|Alexander IV
 trp_kingdom_22_lord|Emperor Theodore II Laskaris
 trp_kingdom_22_lord_pl|Theodore II Laskaris
 trp_kingdom_23_lord|John of Ibelin, Bailiff of the Kingdom of Jerusalem
@@ -1253,6 +1277,18 @@ trp_kingdom_30_lord|Tsar Constantine Tikh
 trp_kingdom_30_lord_pl|Constantine Tikh
 trp_kingdom_31_lord|Sultan Abu Yahya ibn Abd al-Haqq
 trp_kingdom_31_lord_pl|Abu Yahya ibn Abd al-Haqq
+trp_kingdom_32_lord|Dodge Ranieri Zen
+trp_kingdom_32_lord_pl|Dodge Ranieri Zen
+trp_kingdom_c_33_lord|Vyriausias Jotvingių Kunigas Skolmantas
+trp_kingdom_c_33_lord_pl|Skolmantas
+trp_kingdom_33_lord|Gruntauktimmis Nadruva Kunegikis Piws
+trp_kingdom_33_lord_pl|Piws
+trp_kingdom_b_33_lord|Vyriausias Žemaičių Kungias Alminas
+trp_kingdom_b_33_lord_pl|Alminas
+trp_kingdom_d_33_lord|Dižukilis Enguris
+trp_kingdom_d_33_lord_pl|Enguris
+trp_kingdom_35_lord|Tywysog Cymru Llywelyn ap Gruffydd
+trp_kingdom_35_lord_pl|Llywelyn ap Gruffydd
 trp_knight_1_1|Ritterbruder Hubertus
 trp_knight_1_1_pl|Hubertus
 trp_knight_1_2|Ritterbruder Volquin
@@ -1353,16 +1389,6 @@ trp_knight_3_19|Koidan Noyan
 trp_knight_3_19_pl|Koidan
 trp_knight_3_20|Sheibak Noyan
 trp_knight_3_20_pl|Sheibak
-trp_knight_3_21|Berkecher-baghatur
-trp_knight_3_21_pl|Berkecher
-trp_knight_3_22|Tangut Noyan
-trp_knight_3_22_pl|Tangut
-trp_knight_3_23|Boghal Noyan
-trp_knight_3_23_pl|Boghal
-trp_knight_3_24|Mingqadur Noyan
-trp_knight_3_24_pl|Mingqadur
-trp_knight_3_25|Quli Noyan
-trp_knight_3_25_pl|Quli
 trp_knight_4_1|Præfectus Waldemar aff Slæswich
 trp_knight_4_1_pl|Waldemar aff Slæswich
 trp_knight_4_2|Dux Erek I Abselsøn aff Holtsteinælande
@@ -1423,44 +1449,44 @@ trp_knight_5_14|Duke Konrad I
 trp_knight_5_14_pl|Konrad
 trp_knight_5_15|Duke Ziemomysł
 trp_knight_5_15_pl|Ziemomysł
-trp_knight_6_1|Přemysl Otakar II, King of Bohemia and Duke of Austria
+trp_knight_6_1|Přemysl Otakar II , Král Český a Vévoda Rakouský
 trp_knight_6_1_pl|Přemysl Otakar II
-trp_knight_6_2|Ludwig II the Stern, Count Palatine of the Rhine and Duke of Bavaria
+trp_knight_6_2|Ludwig II Der Stern von Wittelsbach Herzog von Oberbayern
 trp_knight_6_2_pl|Ludwig II the Stern
-trp_knight_6_3|Albrecht I, Duke of Saxonia
-trp_knight_6_3_pl| Albrecht I
-trp_knight_6_4|Otto III the Pious, Markgrave of Brandenburg
+trp_knight_6_3|Albert I , Herzog von Sachsen
+trp_knight_6_3_pl|Albrecht I
+trp_knight_6_4|Otto III der Fromme , Markgraf von Brandenburg
 trp_knight_6_4_pl|Otto III the Pious
-trp_knight_6_5|Heinrich XIII, Duke of Lower Bavaria
+trp_knight_6_5|Heinrich XII , Herzog von Niederbayern
 trp_knight_6_5_pl|Heinrich XIII
-trp_knight_6_6|Heinrich III the Kind, Duke of Brabant
-trp_knight_6_6_pl|Heinrich III the Kind
-trp_knight_6_7|Johann I, Duke of Braunschweig and Lueneburg
+trp_knight_6_6|Heinrich III der Gütige , Herzog von Brabant
+trp_knight_6_6_pl|Heinrich III der Gütige
+trp_knight_6_7|Johann I , Herzog von Braunschweig und Lüneburg
 trp_knight_6_7_pl|Johann I
-trp_knight_6_8|Walram IV, Duke of Limburg
+trp_knight_6_8|Walram IV, Herzog von Limburg
 trp_knight_6_8_pl|Walram IV
-trp_knight_6_9|Konrad I of Hochstaden, Archbishop of Koeln
-trp_knight_6_9_pl|Konrad I of Hochstaden
-trp_knight_6_10|Gerhard I of Dhaun, Archbishop of Mainz
-trp_knight_6_10_pl|Gerhard I of Dhaun
-trp_knight_6_11|Arnold II of Isenburg, Archbishop of Trier
-trp_knight_6_11_pl|Arnold II of Isenburg
-trp_knight_6_12|Ulrich III of Spanheim, Duke of Carinthia and Lord of Krain
-trp_knight_6_12_pl|Ulrich III of Spanheim
-trp_knight_6_13|Friedrich III, Duke of Lorraine
+trp_knight_6_9|Konrad I der Fromme , Burggraf von Nürnberg
+trp_knight_6_9_pl|Konrad I der Fromme
+trp_knight_6_10|Gerhard I von Dhaun , Erzbischof von Mainz
+trp_knight_6_10_pl|Gerhard I von Dhaun
+trp_knight_6_11|Arnold II von Isenburg , Erzbischof von Trier
+trp_knight_6_11_pl|Arnold II von Isenburg
+trp_knight_6_12|Ulrich III von Spanheim , Herzog von Kärnten und Herr von Krain
+trp_knight_6_12_pl|Ulrich III von Spanheim
+trp_knight_6_13|Friedrich III , Herzog von Lothringen
 trp_knight_6_13_pl|Friedrich III
-trp_knight_6_14|Barnim I, Duke of Pomerania
+trp_knight_6_14|Barnim I , Herzog von Pommern
 trp_knight_6_14_pl|Barnim I
-trp_knight_6_15|Gebhard II of Lippe, Archbishop of Bremen and Hamburg
+trp_knight_6_15|Gerhard II zur Lippe , Erzbischof von Bremen und Hamburg
 trp_knight_6_15_pl|Gebhard II of Lippe
-trp_knight_6_16|Rudolf IV, Count of Habsburg
+trp_knight_6_16|Rudolf IV , Graf von Habsburg
 trp_knight_6_16_pl|Rudolf IV
-trp_knight_6_17|Rudolf I, Markgrave of Baden
+trp_knight_6_17|Rudolf I , Markgraf von Baden
 trp_knight_6_17_pl|Rudolf I
-trp_knight_6_18|Heinrich III the Illustrious, Markgrave of Meissen and Landgrave of Thuringia
-trp_knight_6_18_pl|Heinrich III the Illustrious
-trp_knight_6_19|Konrad I. the Pious, Burgrave of Nuernberg
-trp_knight_6_19_pl|Konrad I the Pious
+trp_knight_6_18|Heinrich III der Erlauchte , Markgraf von Meißen und Landgraf von Thüringen
+trp_knight_6_18_pl|Heinrich III der Erlauchte
+trp_knight_6_19|Konrad I der Fromm , Burggraf von Nürnberg
+trp_knight_6_19_pl|Konrad I der Fromm
 trp_knight_6_20|Signore Ezzelino da Romano
 trp_knight_6_20_pl|Ezzelino da Romano
 trp_knight_7_1|Trencséni Csák Máté
@@ -1623,16 +1649,6 @@ trp_knight_11_14|Aslakr Guss
 trp_knight_11_14_pl|Aslakr Guss
 trp_knight_11_15|Biarni Moysesson
 trp_knight_11_15_pl|Biarni Moysesson
-trp_knight_11_16|Magnús Konungr Ólafsson
-trp_knight_11_16_pl|Magnús Ólafsson
-trp_knight_11_17|Dubhghall Konungr mac Ruaidhri
-trp_knight_11_17_pl|Dubhghall mac Ruaidhri
-trp_knight_11_18|Erlingr Álfsson
-trp_knight_11_18_pl|Erlingr Álfsson
-trp_knight_11_19|Loðinn Leppur
-trp_knight_11_19_pl|Loðinn Leppur
-trp_knight_11_20|Páll Gæs
-trp_knight_11_20_pl|Páll Gæs
 trp_knight_12_1|Ailean Durward, Justiciar of Scotia
 trp_knight_12_1_pl|Ailean Durward
 trp_knight_12_2|Walter Comyn, Lord of Badenoch and Earl of Menteith
@@ -1813,6 +1829,12 @@ trp_knight_18_14|Don Gausfred
 trp_knight_18_14_pl|Gausfred
 trp_knight_18_15|Don Jeroni
 trp_knight_18_15_pl|Jeroni
+trp_knight_19_1|Don Amat
+trp_knight_19_1_pl|Amat
+trp_knight_19_2|Don Artal
+trp_knight_19_2_pl|Artal
+trp_knight_19_3|Don Bernat
+trp_knight_19_3_pl|Bernat
 trp_knight_20_1|Amir Mohammed Al-Faqih
 trp_knight_20_1_pl|Mohammed Al-Faqih
 trp_knight_20_2|Amir Yusuf Ibn Nasr
@@ -1853,6 +1875,16 @@ trp_knight_20_19|Amir Wasim
 trp_knight_20_19_pl|Wasim
 trp_knight_20_20|Amir Rashid
 trp_knight_20_20_pl|Abu Rashid
+trp_knight_21_1|Tommaso di Aquino
+trp_knight_21_1_pl|Tommaso di Aquino
+trp_knight_21_2|Teodora di Aquino
+trp_knight_21_2_pl|Teodora di Aquino
+trp_knight_21_3|Giovanni Orsini
+trp_knight_21_3_pl|Giovanni Orsini
+trp_knight_21_4|Matteo Rosso
+trp_knight_21_4_pl|Matteo Rosso
+trp_knight_21_5|Gentile Orsini
+trp_knight_21_5_pl|Gentile Orsini
 trp_knight_22_1|Michael II Komnenos Doukas, Despot of Epirus
 trp_knight_22_1_pl|Michael II Komnenos Doukas
 trp_knight_22_2|Strategos Michail Palaeologos
@@ -1943,6 +1975,8 @@ trp_knight_24_14|Federigo Maletta, Conte di Apice
 trp_knight_24_14_pl|Federigo Maletta
 trp_knight_24_15|Provenzano Salvani
 trp_knight_24_15_pl|Provenzano Salvani
+trp_knight_24_16|Iacopino Rangoni, Cancelliere de Repubblica Toscana
+trp_knight_24_16_pl|Iacopino Rangoni, Cancelliere de Repubblica Toscana
 trp_knight_25_1|Amiir Al-Mansur Ali
 trp_knight_25_1_pl|Al-Mansur Ali
 trp_knight_25_2|Vice-Sultan Saif ad-Din Qutuz
@@ -1989,10 +2023,6 @@ trp_knight_25_22|Amiir Jaavlii
 trp_knight_25_22_pl|Jaavlii
 trp_knight_25_23|Amiir Julbaan
 trp_knight_25_23_pl|Julbaan
-trp_knight_25_24|Amiir Jumaq
-trp_knight_25_24_pl|Jumaq
-trp_knight_25_25|Amiir Juubaan
-trp_knight_25_25_pl|Juubaan
 trp_knight_26_1|Philip of Toucy
 trp_knight_26_1_pl|Philip of Toucy
 trp_knight_26_2|Guy I de la Roche, Lord of Athens
@@ -2143,6 +2173,32 @@ trp_knight_31_14|Emir Salih
 trp_knight_31_14_pl|Salih
 trp_knight_31_15|Emir Yazid
 trp_knight_31_15_pl|Yazid
+trp_knight_32_1|Lorenzo Tiepolo
+trp_knight_32_1_pl|Lorenzo Tiepolo
+trp_knight_32_2|Jacopo Contarini
+trp_knight_32_2_pl|Jacopo Contarini
+trp_knight_32_3|Giovanni Dandolo
+trp_knight_32_3_pl|Giovanni Dandolo
+trp_knight_32_4|Angelo Sanudo
+trp_knight_32_4_pl|Angelo Sanudo
+trp_knight_32_5|Gilberto Sanudo
+trp_knight_32_5_pl|Gilberto Sanudo
+trp_knight_32_6|Claudio Tiepolo
+trp_knight_32_6_pl|Claudio Tiepolo
+trp_knight_32_7|Cassio Sanudo
+trp_knight_32_7_pl|Cassio Sanudo
+trp_knight_32_8|Edoardo Soranzo
+trp_knight_32_8_pl|Edoardo Soranzo
+trp_knight_32_9|Emilio Soranzo
+trp_knight_32_9_pl|Emilio Soranzo
+trp_knight_32_10|Barbarigo Venier
+trp_knight_32_10_pl|Barbarigo Venier
+trp_knight_35_1|Dafydd ap Gruffydd
+trp_knight_35_1_pl|Dafydd ap Gruffydd
+trp_knight_35_2|Maredudd ap Rhys Grug
+trp_knight_35_2_pl|Maredudd ap Rhys Grug
+trp_knight_35_3|Maredudd ap Owain
+trp_knight_35_3_pl|Maredudd ap Owain
 trp_kingdom_2_pretender|Kunigas Daumantas
 trp_kingdom_2_pretender_pl|Daumantas
 trp_kingdom_4_pretender|Danish pretender placeholder
@@ -2155,36 +2211,6 @@ trp_kingdom_13_pretender|Sir James de Audley, Justiciar of Ireland
 trp_kingdom_13_pretender_pl|James de Audley
 trp_knight_1_1_wife|Error - knight 1 1 wife should not appear in game
 trp_knight_1_1_wife_pl|knight 1 1 wife
-trp_kingdom_1_lady_1|Lady Anna
-trp_kingdom_1_lady_1_pl|Anna
-trp_kingdom_1_lady_2|Lady Nelda
-trp_kingdom_1_lady_2_pl|Nelda
-trp_kingdom_1_lady_3|Lady Bela
-trp_kingdom_1_lady_3_pl|Bela
-trp_kingdom_1_lady_4|Lady Elina
-trp_kingdom_1_lady_4_pl|Elina
-trp_kingdom_l_lady_5|Lady Constanis
-trp_kingdom_l_lady_5_pl|Constanis
-trp_kingdom_1_lady_6|Lady Vera
-trp_kingdom_1_lady_6_pl|Vera
-trp_kingdom_1_lady_7|Lady Auberina
-trp_kingdom_1_lady_7_pl|Auberina
-trp_kingdom_1_lady_8|Lady Tibal
-trp_kingdom_1_lady_8_pl|Tibal
-trp_kingdom_1_lady_9|Lady Magar
-trp_kingdom_1_lady_9_pl|Magar
-trp_kingdom_1_lady_10|Lady Thedosa
-trp_kingdom_1_lady_10_pl|Thedosa
-trp_kingdom_1_lady_11|Lady Melisar
-trp_kingdom_1_lady_11_pl|Melisar
-trp_kingdom_1_lady_12|Lady Irena
-trp_kingdom_1_lady_12_pl|Irena
-trp_kingdom_l_lady_13|Lady Philenna
-trp_kingdom_l_lady_13_pl|Philenna
-trp_kingdom_1_lady_14|Lady Sonadel
-trp_kingdom_1_lady_14_pl|Sonadel
-trp_kingdom_1_lady_15|Lady Boadila
-trp_kingdom_1_lady_15_pl|Boadila
 trp_kingdom_2_lady_1|Lady Audra
 trp_kingdom_2_lady_1_pl|Audra
 trp_kingdom_2_lady_2|Lady Aušra
@@ -2255,16 +2281,6 @@ trp_kingdom_3_lady_19|Lady Hindal
 trp_kingdom_3_lady_19_pl|Hindal
 trp_kingdom_3_lady_20|Lady Bolormaa
 trp_kingdom_3_lady_20_pl|Bolormaa
-trp_kingdom_3_lady_21|Lady Odtsetseg
-trp_kingdom_3_lady_21_pl|Odtsetseg
-trp_kingdom_3_lady_22|Lady Bayarmaa
-trp_kingdom_3_lady_22_pl|Bayarmaa
-trp_kingdom_3_lady_23|Lady Batuldzii
-trp_kingdom_3_lady_23_pl|Batuldzii
-trp_kingdom_3_lady_24|Lady Oyunbileg
-trp_kingdom_3_lady_24_pl|Oyunbileg
-trp_kingdom_3_lady_25|Lady Bolorerdene
-trp_kingdom_3_lady_25_pl|Bolorerdene
 trp_kingdom_4_lady_1|Margrettæ Sprengæhestr Sambiria Drotning
 trp_kingdom_4_lady_1_pl|Margrettæ Sprengæhestr Sambiria Drotning
 trp_kingdom_4_lady_2|Margrettæ aff Suþrjodlande 
@@ -2525,16 +2541,6 @@ trp_kingdom_11_lady_14|Lady Froujke
 trp_kingdom_11_lady_14_pl|Froujke
 trp_kingdom_11_lady_15|Lady Gala
 trp_kingdom_11_lady_15_pl|Gala
-trp_kingdom_11_lady_16|Lady Gjalp
-trp_kingdom_11_lady_16_pl|Gjalp
-trp_kingdom_11_lady_17|Lady Hakan
-trp_kingdom_11_lady_17_pl|Hakan
-trp_kingdom_11_lady_18|Lady Halla
-trp_kingdom_11_lady_18_pl|Halla
-trp_kingdom_11_lady_19|Lady Ingeborg
-trp_kingdom_11_lady_19_pl|Ingeborg
-trp_kingdom_11_lady_20|Lady Afrid
-trp_kingdom_11_lady_20_pl|Afrid
 trp_kingdom_12_lady_1|Christiana de Brus
 trp_kingdom_12_lady_1_pl|Christiana de Brus
 trp_kingdom_12_lady_2|Lady Marjory
@@ -2883,16 +2889,6 @@ trp_kingdom_25_lady_19|Nar
 trp_kingdom_25_lady_19_pl|Nar
 trp_kingdom_25_lady_20|Nefise
 trp_kingdom_25_lady_20_pl|Nefise
-trp_kingdom_25_lady_21|Nergis
-trp_kingdom_25_lady_21_pl|Nergis
-trp_kingdom_25_lady_22|Neslihan
-trp_kingdom_25_lady_22_pl|Neslihan
-trp_kingdom_25_lady_23|Rabiye
-trp_kingdom_25_lady_23_pl|Rabiye
-trp_kingdom_25_lady_24|Safiye
-trp_kingdom_25_lady_24_pl|Safiye
-trp_kingdom_25_lady_25|Sara
-trp_kingdom_25_lady_25_pl|Sara
 trp_kingdom_26_lady_1|Lady Gertrude
 trp_kingdom_26_lady_1_pl|Gertrude
 trp_kingdom_26_lady_2|Lady Godiva
@@ -3043,6 +3039,26 @@ trp_kingdom_31_lady_14|Khayra
 trp_kingdom_31_lady_14_pl|Khayra
 trp_kingdom_31_lady_15|Mayy
 trp_kingdom_31_lady_15_pl|Mayy
+trp_kingdom_32_lady_1|Signora Abriana
+trp_kingdom_32_lady_1_pl|Abriana
+trp_kingdom_32_lady_2|Signora Agalina
+trp_kingdom_32_lady_2_pl|Agalina
+trp_kingdom_32_lady_3|Signora Ambra
+trp_kingdom_32_lady_3_pl|Ambra
+trp_kingdom_32_lady_4|Signora Amina
+trp_kingdom_32_lady_4_pl|Amina
+trp_kingdom_32_lady_5|Signora Armida
+trp_kingdom_32_lady_5_pl|Armida
+trp_kingdom_32_lady_6|Signora Chola
+trp_kingdom_32_lady_6_pl|Chola
+trp_kingdom_32_lady_7|Signora Citha
+trp_kingdom_32_lady_7_pl|Citha
+trp_kingdom_32_lady_8|Signora Diletta
+trp_kingdom_32_lady_8_pl|Diletta
+trp_kingdom_32_lady_9|Signora Druda
+trp_kingdom_32_lady_9_pl|Druda
+trp_kingdom_32_lady_10|Signora Etheria
+trp_kingdom_32_lady_10_pl|Etheria
 trp_town_1_arena_master|Tournament Master
 trp_town_2_arena_master|Tournament Master
 trp_town_3_arena_master|Tournament Master
@@ -3107,9 +3123,11 @@ trp_town_17_1_arena_master|Tournament Master
 trp_town_17_2_arena_master|Tournament Master
 trp_town_18_1_arena_master|Tournament Master
 trp_town_18_2_arena_master|Tournament Master
+trp_town_19_1_arena_master|Tournament Master
 trp_town_20_1_arena_master|Tournament Master
 trp_town_20_2_arena_master|Tournament Master
 trp_town_21_1_arena_master|Tournament Master
+trp_town_21_2_arena_master|Tournament Master
 trp_town_22_1_arena_master|Tournament Master
 trp_town_22_2_arena_master|Tournament Master
 trp_town_22_3_arena_master|Tournament Master
@@ -3139,6 +3157,10 @@ trp_town_30_1_arena_master|Tournament Master
 trp_town_31_1_arena_master|Tournament Master
 trp_town_31_2_arena_master|Tournament Master
 trp_town_31_3_arena_master|Tournament Master
+trp_town_32_1_arena_master|Tournament Master
+trp_town_32_2_arena_master|Tournament Master
+trp_town_34_1_arena_master|Tournament Master
+trp_town_35_1_arena_master|Tournament Master
 trp_town_1_armorer|Armorer
 trp_town_2_armorer|Armorer
 trp_town_3_armorer|Armorer
@@ -3203,9 +3225,11 @@ trp_town_17_1_armorer|Armorer
 trp_town_17_2_armorer|Armorer
 trp_town_18_1_armorer|Armorer
 trp_town_18_2_armorer|Armorer
+trp_town_19_1_armorer|Armorer
 trp_town_20_1_armorer|Armorer
 trp_town_20_2_armorer|Armorer
 trp_town_21_1_armorer|Armorer
+trp_town_21_2_armorer|Armorer
 trp_town_22_1_armorer|Armorer
 trp_town_22_2_armorer|Armorer
 trp_town_22_3_armorer|Armorer
@@ -3235,6 +3259,10 @@ trp_town_30_1_armorer|Armorer
 trp_town_31_1_armorer|Armorer
 trp_town_31_2_armorer|Armorer
 trp_town_31_3_armorer|Armorer
+trp_town_32_1_armorer|Armorer
+trp_town_32_2_armorer|Armorer
+trp_town_34_1_armorer|Armorer
+trp_town_35_2_armorer|Armorer
 trp_town_1_weaponsmith|Weaponsmith
 trp_town_2_weaponsmith|Weaponsmith
 trp_town_3_weaponsmith|Weaponsmith
@@ -3298,9 +3326,11 @@ trp_town_17_1_weaponsmith|Weaponsmith
 trp_town_17_2_weaponsmith|Weaponsmith
 trp_town_18_1_weaponsmith|Weaponsmith
 trp_town_18_2_weaponsmith|Weaponsmith
+trp_town_19_1_weaponsmith|Weaponsmith
 trp_town_20_1_weaponsmith|Weaponsmith
 trp_town_20_2_weaponsmith|Weaponsmith
 trp_town_21_1_weaponsmith|Weaponsmith
+trp_town_21_2_weaponsmith|Weaponsmith
 trp_town_22_1_weaponsmith|Weaponsmith
 trp_town_22_2_weaponsmith|Weaponsmith
 trp_town_22_3_weaponsmith|Weaponsmith
@@ -3329,6 +3359,9 @@ trp_town_30_1_weaponsmith|Weaponsmith
 trp_town_31_1_weaponsmith|Weaponsmith
 trp_town_31_2_weaponsmith|Weaponsmith
 trp_town_31_3_weaponsmith|Weaponsmith
+trp_town_32_1_weaponsmith|Weaponsmith
+trp_town_34_1_weaponsmith|Weaponsmith
+trp_town_35_1_weaponsmith|Weaponsmith
 trp_town_1_tavernkeeper|Tavern Keeper
 trp_town_2_tavernkeeper|Tavern Keeper
 trp_town_3_tavernkeeper|Tavern Keeper
@@ -3393,9 +3426,11 @@ trp_town_17_1_tavernkeeper|Tavern Keeper
 trp_town_17_2_tavernkeeper|Tavern Keeper
 trp_town_18_1_tavernkeeper|Tavern Keeper
 trp_town_18_2_tavernkeeper|Tavern Keeper
+trp_town_19_1_tavernkeeper|Tavern Keeper
 trp_town_20_1_tavernkeeper|Tavern Keeper
 trp_town_20_2_tavernkeeper|Tavern Keeper
 trp_town_21_1_tavernkeeper|Tavern Keeper
+trp_town_21_2_tavernkeeper|Tavern Keeper
 trp_town_22_1_tavernkeeper|Tavern Keeper
 trp_town_22_2_tavernkeeper|Tavern Keeper
 trp_town_22_3_tavernkeeper|Tavern Keeper
@@ -3425,6 +3460,10 @@ trp_town_30_1_tavernkeeper|Tavern Keeper
 trp_town_31_1_tavernkeeper|Tavern Keeper
 trp_town_31_2_tavernkeeper|Tavern Keeper
 trp_town_31_3_tavernkeeper|Tavern Keeper
+trp_town_32_1_tavernkeeper|Tavern Keeper
+trp_town_32_2_tavernkeeper|Tavern Keeper
+trp_town_34_1_tavernkeeper|Tavern Keeper
+trp_town_35_1_tavernkeeper|Tavern Keeper
 trp_town_1_merchant|Merchant
 trp_town_2_merchant|Merchant
 trp_town_3_merchant|Merchant
@@ -3489,9 +3528,11 @@ trp_town_17_1_merchant|Merchant
 trp_town_17_2_merchant|Merchant
 trp_town_18_1_merchant|Merchant
 trp_town_18_2_merchant|Merchant
+trp_town_19_1_merchant|Merchant
 trp_town_20_1_merchant|Merchant
 trp_town_20_2_merchant|Merchant
 trp_town_21_1_merchant|Merchant
+trp_town_21_2_merchant|Merchant
 trp_town_22_1_merchant|Merchant
 trp_town_22_2_merchant|Merchant
 trp_town_22_3_merchant|Merchant
@@ -3521,6 +3562,10 @@ trp_town_30_1_merchant|Merchant
 trp_town_31_1_merchant|Merchant
 trp_town_31_2_merchant|Merchant
 trp_town_31_3_merchant|Merchant
+trp_town_32_1_merchant|Merchant
+trp_town_32_2_merchant|Merchant
+trp_town_34_1_merchant|Merchant
+trp_town_35_1_merchant|Merchant
 trp_salt_mine_merchant|Barezan
 trp_salt_mine_merchant_pl|Barezan
 trp_town_1_horse_merchant|Horse Merchant
@@ -3587,9 +3632,11 @@ trp_town_17_1_horse_merchant|Horse Merchant
 trp_town_17_2_horse_merchant|Horse Merchant
 trp_town_18_1_horse_merchant|Horse Merchant
 trp_town_18_2_horse_merchant|Horse Merchant
+trp_town_19_1_horse_merchant|Horse Merchant
 trp_town_20_1_horse_merchant|Horse Merchant
 trp_town_20_2_horse_merchant|Horse Merchant
 trp_town_21_1_horse_merchant|Horse Merchant
+trp_town_21_2_horse_merchant|Horse Merchant
 trp_town_22_1_horse_merchant|Horse Merchant
 trp_town_22_2_horse_merchant|Horse Merchant
 trp_town_22_3_horse_merchant|Horse Merchant
@@ -3618,6 +3665,10 @@ trp_town_30_1_horse_merchant|Horse Merchant
 trp_town_31_1_horse_merchant|Horse Merchant
 trp_town_31_2_horse_merchant|Horse Merchant
 trp_town_31_3_horse_merchant|Horse Merchant
+trp_town_32_1_horse_merchant|Horse Merchant
+trp_town_32_2_horse_merchant|Horse Merchant
+trp_town_34_1_horse_merchant|Horse Merchant
+trp_town_35_1_horse_merchant|Horse Merchant
 trp_town_1_mayor|Guild Master
 trp_town_2_mayor|Guild Master
 trp_town_3_mayor|Guild Master
@@ -3682,9 +3733,11 @@ trp_town_17_1_mayor|Guild Master
 trp_town_17_2_mayor|Guild Master
 trp_town_18_1_mayor|Guild Master
 trp_town_18_2_mayor|Guild Master
+trp_town_19_1_mayor|Guild Master
 trp_town_20_1_mayor|Guild Master
 trp_town_20_2_mayor|Guild Master
 trp_town_21_1_mayor|Guild Master
+trp_town_21_2_mayor|Guild Master
 trp_town_22_1_mayor|Guild Master
 trp_town_22_2_mayor|Guild Master
 trp_town_22_3_mayor|Guild Master
@@ -3714,371 +3767,397 @@ trp_town_30_1_mayor|Guild Master
 trp_town_31_1_mayor|Guild Master
 trp_town_31_2_mayor|Guild Master
 trp_town_31_3_mayor|Guild Master
-trp_village_1_elder|Village Elder
-trp_village_2_elder|Village Elder
-trp_village_3_elder|Village Elder
-trp_village_4_elder|Village Elder
-trp_village_5_elder|Village Elder
-trp_village_6_elder|Village Elder
-trp_village_7_elder|Village Elder
-trp_village_8_elder|Village Elder
-trp_village_9_elder|Village Elder
-trp_village_10_elder|Village Elder
-trp_village_11_elder|Village Elder
-trp_village_12_elder|Village Elder
-trp_village_13_elder|Village Elder
-trp_village_14_elder|Village Elder
-trp_village_15_elder|Village Elder
-trp_village_16_elder|Village Elder
-trp_village_1_1_elder|Village Elder
-trp_village_18_elder|Village Elder
-trp_village_19_elder|Village Elder
-trp_village_20_elder|Village Elder
-trp_village_21_elder|Village Elder
-trp_village_22_elder|Village Elder
-trp_village_23_elder|Village Elder
-trp_village_24_elder|Village Elder
-trp_village_25_elder|Village Elder
-trp_village_26_elder|Village Elder
-trp_village_27_elder|Village Elder
-trp_village_28_elder|Village Elder
-trp_village_29_elder|Village Elder
-trp_village_30_elder|Village Elder
-trp_village_31_elder|Village Elder
-trp_village_32_elder|Village Elder
-trp_village_33_elder|Village Elder
-trp_village_2_1_elder|Village Elder
-trp_village_2_2_elder|Village Elder
-trp_village_2_3_elder|Village Elder
-trp_village_2_4_elder|Village Elder
-trp_village_2_5_elder|Village Elder
-trp_village_2_6_elder|Village Elder
-trp_village_2_7_elder|Village Elder
-trp_village_2_8_elder|Village Elder
-trp_village_2_9_elder|Village Elder
-trp_village_2_10_elder|Village Elder
-trp_village_2_11_elder|Village Elder
-trp_village_2_12_elder|Village Elder
-trp_village_2_13_elder|Village Elder
-trp_village_2_14_elder|Village Elder
-trp_village_2_15_elder|Village Elder
-trp_village_2_16_elder|Village Elder
-trp_village_2_x_elder|Village Elder
-trp_village_3_1_elder|Village Elder
-trp_village_53_elder|Village Elder
-trp_village_3_2_elder|Village Elder
-trp_village_55_elder|Village Elder
-trp_village_3_3_elder|Village Elder
-trp_village_3_4_elder|Village Elder
-trp_village_58_elder|Village Elder
-trp_village_59_elder|Village Elder
-trp_village_60_elder|Village Elder
-trp_village_61_elder|Village Elder
-trp_village_62_elder|Village Elder
-trp_village_63_elder|Village Elder
-trp_village_64_elder|Village Elder
-trp_village_65_elder|Village Elder
-trp_village_66_elder|Village Elder
-trp_village_67_elder|Village Elder
-trp_village_68_elder|Village Elder
-trp_village_69_elder|Village Elder
-trp_village_70_elder|Village Elder
-trp_village_71_elder|Village Elder
-trp_village_72_elder|Village Elder
-trp_village_73_elder|Village Elder
-trp_village_6_1_elder|Village Elder
-trp_village_6_2_elder|Village Elder
-trp_village_6_3_elder|Village Elder
-trp_village_6_4_elder|Village Elder
-trp_village_6_5_elder|Village Elder
-trp_village_6_6_elder|Village Elder
-trp_village_6_7_elder|Village Elder
-trp_village_6_8_elder|Village Elder
-trp_village_6_9_elder|Village Elder
-trp_village_6_10_elder|Village Elder
-trp_village_6_11_elder|Village Elder
-trp_village_6_12_elder|Village Elder
-trp_village_6_13_elder|Village Elder
-trp_village_6_14_elder|Village Elder
-trp_village_6_15_elder|Village Elder
-trp_village_6_16_elder|Village Elder
-trp_village_6_17_elder|Village Elder
-trp_village_6_18_elder|Village Elder
-trp_village_6_19_elder|Village Elder
-trp_village_6_20_elder|Village Elder
-trp_village_6_21_elder|Village Elder
-trp_village_6_22_elder|Village Elder
-trp_village_6_23_elder|Village Elder
-trp_village_6_24_elder|Village Elder
-trp_village_6_25_elder|Village Elder
-trp_village_6_26_elder|Village Elder
-trp_village_4_1_elder|Village Elder
-trp_village_4_2_elder|Village Elder
-trp_village_4_3_elder|Village Elder
-trp_village_4_4_elder|Village Elder
-trp_village_4_5_elder|Village Elder
-trp_village_4_6_elder|Village Elder
-trp_village_4_7_elder|Village Elder
-trp_village_4_8_elder|Village Elder
-trp_village_4_9_elder|Village Elder
-trp_village_4_10_elder|Village Elder
-trp_village_4_11_elder|Village Elder
-trp_village_4_12_elder|Village Elder
-trp_village_4_13_elder|Village Elder
-trp_village_4_14_elder|Village Elder
-trp_village_4_15_elder|Village Elder
-trp_village_4_16_elder|Village Elder
-trp_village_11_1_elder|Village Elder
-trp_village_11_2_elder|Village Elder
-trp_village_11_3_elder|Village Elder
-trp_village_11_4_elder|Village Elder
-trp_village_11_5_elder|Village Elder
-trp_village_11_6_elder|Village Elder
-trp_village_11_7_elder|Village Elder
-trp_village_11_8_elder|Village Elder
-trp_village_11_9_elder|Village Elder
-trp_village_11_10_elder|Village Elder
-trp_village_11_11_elder|Village Elder
-trp_village_11_12_elder|Village Elder
-trp_village_14_1_elder|Village Elder
-trp_village_14_2_elder|Village Elder
-trp_village_14_3_elder|Village Elder
-trp_village_14_4_elder|Village Elder
-trp_village_14_5_elder|Village Elder
-trp_village_14_6_elder|Village Elder
-trp_village_14_7_elder|Village Elder
-trp_village_14_8_elder|Village Elder
-trp_village_14_9_elder|Village Elder
-trp_village_14_10_elder|Village Elder
-trp_village_14_11_elder|Village Elder
-trp_village_14_12_elder|Village Elder
-trp_village_9_1_elder|Village Elder
-trp_village_9_2_elder|Village Elder
-trp_village_9_3_elder|Village Elder
-trp_village_9_4_elder|Village Elder
-trp_village_9_5_elder|Village Elder
-trp_village_9_6_elder|Village Elder
-trp_village_9_7_elder|Village Elder
-trp_village_9_8_elder|Village Elder
-trp_village_9_9_elder|Village Elder
-trp_village_9_10_elder|Village Elder
-trp_village_9_11_elder|Village Elder
-trp_village_9_12_elder|Village Elder
-trp_village_9_13_elder|Village Elder
-trp_village_9_14_elder|Village Elder
-trp_village_9_15_elder|Village Elder
-trp_village_9_16_elder|Village Elder
-trp_village_9_17_elder|Village Elder
-trp_village_9_18_elder|Village Elder
-trp_village_10_1_elder|Village Elder
-trp_village_10_2_elder|Village Elder
-trp_village_10_3_elder|Village Elder
-trp_village_10_4_elder|Village Elder
-trp_village_10_5_elder|Village Elder
-trp_village_10_6_elder|Village Elder
-trp_village_10_7_elder|Village Elder
-trp_village_10_8_elder|Village Elder
-trp_village_10_9_elder|Village Elder
-trp_village_10_10_elder|Village Elder
-trp_village_10_11_elder|Village Elder
-trp_village_10_12_elder|Village Elder
-trp_village_10_13_elder|Village Elder
-trp_village_10_14_elder|Village Elder
-trp_village_10_15_elder|Village Elder
-trp_village_10_16_elder|Village Elder
-trp_village_10_17_elder|Village Elder
-trp_village_10_18_elder|Village Elder
-trp_village_10_19_elder|Village Elder
-trp_village_10_20_elder|Village Elder
-trp_village_10_21_elder|Village Elder
-trp_village_10_22_elder|Village Elder
-trp_village_10_23_elder|Village Elder
-trp_village_10_24_elder|Village Elder
-trp_village_12_1_elder|Village Elder
-trp_village_12_2_elder|Village Elder
-trp_village_12_3_elder|Village Elder
-trp_village_12_4_elder|Village Elder
-trp_village_12_5_elder|Village Elder
-trp_village_12_6_elder|Village Elder
-trp_village_12_7_elder|Village Elder
-trp_village_12_8_elder|Village Elder
-trp_village_13_1_elder|Village Elder
-trp_village_13_2_elder|Village Elder
-trp_village_13_3_elder|Village Elder
-trp_village_13_4_elder|Village Elder
-trp_village_13_5_elder|Village Elder
-trp_village_13_6_elder|Village Elder
-trp_village_13_7_elder|Village Elder
-trp_village_13_8_elder|Village Elder
-trp_village_3_5_elder|Village Elder
-trp_village_3_6_elder|Village Elder
-trp_village_3_7_elder|Village Elder
-trp_village_3_8_elder|Village Elder
-trp_village_3_9_elder|Village Elder
-trp_village_3_10_elder|Village Elder
-trp_village_3_11_elder|Village Elder
-trp_village_3_12_elder|Village Elder
-trp_village_3_13_elder|Village Elder
-trp_village_3_14_elder|Village Elder
-trp_village_3_15_elder|Village Elder
-trp_village_3_16_elder|Village Elder
-trp_village_3_17_elder|Village Elder
-trp_village_3_18_elder|Village Elder
-trp_village_3_19_elder|Village Elder
-trp_village_3_20_elder|Village Elder
-trp_village_9_19_elder|Village Elder
-trp_village_9_20_elder|Village Elder
-trp_village_9_21_elder|Village Elder
-trp_village_15_1_elder|Village Elder
-trp_village_15_2_elder|Village Elder
-trp_village_15_3_elder|Village Elder
-trp_village_15_4_elder|Village Elder
-trp_village_15_5_elder|Village Elder
-trp_village_15_6_elder|Village Elder
-trp_village_15_7_elder|Village Elder
-trp_village_15_8_elder|Village Elder
-trp_village_15_9_elder|Village Elder
-trp_village_15_10_elder|Village Elder
-trp_village_15_11_elder|Village Elder
-trp_village_15_12_elder|Village Elder
-trp_village_16_1_elder|Village Elder
-trp_village_16_2_elder|Village Elder
-trp_village_16_3_elder|Village Elder
-trp_village_16_4_elder|Village Elder
-trp_village_16_5_elder|Village Elder
-trp_village_16_6_elder|Village Elder
-trp_village_16_7_elder|Village Elder
-trp_village_16_8_elder|Village Elder
-trp_village_17_1_elder|Village Elder
-trp_village_17_2_elder|Village Elder
-trp_village_17_3_elder|Village Elder
-trp_village_17_4_elder|Village Elder
-trp_village_17_5_elder|Village Elder
-trp_village_17_6_elder|Village Elder
-trp_village_17_7_elder|Village Elder
-trp_village_17_8_elder|Village Elder
-trp_village_17_9_elder|Village Elder
-trp_village_17_10_elder|Village Elder
-trp_village_17_11_elder|Village Elder
-trp_village_18_1_elder|Village Elder
-trp_village_18_2_elder|Village Elder
-trp_village_18_3_elder|Village Elder
-trp_village_18_4_elder|Village Elder
-trp_village_18_5_elder|Village Elder
-trp_village_18_6_elder|Village Elder
-trp_village_18_7_elder|Village Elder
-trp_village_18_8_elder|Village Elder
-trp_village_18_9_elder|Village Elder
-trp_village_18_10_elder|Village Elder
-trp_village_20_1_elder|Village Elder
-trp_village_20_2_elder|Village Elder
-trp_village_20_3_elder|Village Elder
-trp_village_20_4_elder|Village Elder
-trp_village_20_5_elder|Village Elder
-trp_village_20_6_elder|Village Elder
-trp_village_20_7_elder|Village Elder
-trp_village_20_8_elder|Village Elder
-trp_village_21_1_elder|Village Elder
-trp_village_21_2_elder|Village Elder
-trp_village_22_1_elder|Village Elder
-trp_village_22_2_elder|Village Elder
-trp_village_22_3_elder|Village Elder
-trp_village_22_4_elder|Village Elder
-trp_village_22_5_elder|Village Elder
-trp_village_22_6_elder|Village Elder
-trp_village_22_7_elder|Village Elder
-trp_village_22_8_elder|Village Elder
-trp_village_22_9_elder|Village Elder
-trp_village_22_10_elder|Village Elder
-trp_village_22_11_elder|Village Elder
-trp_village_22_12_elder|Village Elder
-trp_village_23_1_elder|Village Elder
-trp_village_23_2_elder|Village Elder
-trp_village_23_3_elder|Village Elder
-trp_village_23_4_elder|Village Elder
-trp_village_23_5_elder|Village Elder
-trp_village_23_6_elder|Village Elder
-trp_village_23_7_elder|Village Elder
-trp_village_23_8_elder|Village Elder
-trp_village_23_9_elder|Village Elder
-trp_village_23_10_elder|Village Elder
-trp_village_23_11_elder|Village Elder
-trp_village_23_12_elder|Village Elder
-trp_village_23_13_elder|Village Elder
-trp_village_24_1_elder|Village Elder
-trp_village_24_2_elder|Village Elder
-trp_village_24_3_elder|Village Elder
-trp_village_24_4_elder|Village Elder
-trp_village_24_5_elder|Village Elder
-trp_village_24_6_elder|Village Elder
-trp_village_24_7_elder|Village Elder
-trp_village_24_8_elder|Village Elder
-trp_village_25_1_elder|Village Elder
-trp_village_25_2_elder|Village Elder
-trp_village_25_3_elder|Village Elder
-trp_village_25_4_elder|Village Elder
-trp_village_25_5_elder|Village Elder
-trp_village_25_6_elder|Village Elder
-trp_village_25_7_elder|Village Elder
-trp_village_25_8_elder|Village Elder
-trp_village_25_9_elder|Village Elder
-trp_village_25_10_elder|Village Elder
-trp_village_25_11_elder|Village Elder
-trp_village_25_12_elder|Village Elder
-trp_village_25_13_elder|Village Elder
-trp_village_25_14_elder|Village Elder
-trp_village_25_15_elder|Village Elder
-trp_village_26_1_elder|Village Elder
-trp_village_26_2_elder|Village Elder
-trp_village_26_3_elder|Village Elder
-trp_village_26_4_elder|Village Elder
-trp_village_26_5_elder|Village Elder
-trp_village_26_6_elder|Village Elder
-trp_village_26_7_elder|Village Elder
-trp_village_26_8_elder|Village Elder
-trp_village_26_9_elder|Village Elder
-trp_village_26_10_elder|Village Elder
-trp_village_26_11_elder|Village Elder
-trp_village_26_12_elder|Village Elder
-trp_village_30_4_elder|Village Elder
-trp_village_30_5_elder|Village Elder
-trp_village_27_1_elder|Village Elder
-trp_village_27_2_elder|Village Elder
-trp_village_27_3_elder|Village Elder
-trp_village_27_4_elder|Village Elder
-trp_village_27_5_elder|Village Elder
-trp_village_27_6_elder|Village Elder
-trp_village_27_7_elder|Village Elder
-trp_village_27_8_elder|Village Elder
-trp_village_27_9_elder|Village Elder
-trp_village_27_10_elder|Village Elder
-trp_village_27_11_elder|Village Elder
-trp_village_27_12_elder|Village Elder
-trp_village_28_1_elder|Village Elder
-trp_village_28_2_elder|Village Elder
-trp_village_28_3_elder|Village Elder
-trp_village_28_4_elder|Village Elder
-trp_village_28_5_elder|Village Elder
-trp_village_28_6_elder|Village Elder
-trp_village_28_7_elder|Village Elder
-trp_village_28_8_elder|Village Elder
-trp_village_28_9_elder|Village Elder
-trp_village_28_10_elder|Village Elder
-trp_village_28_11_elder|Village Elder
-trp_village_28_12_elder|Village Elder
-trp_village_29_1_elder|Village Elder
-trp_village_29_2_elder|Village Elder
-trp_village_29_3_elder|Village Elder
-trp_village_29_4_elder|Village Elder
-trp_village_29_5_elder|Village Elder
-trp_village_29_6_elder|Village Elder
-trp_village_30_1_elder|Village Elder
-trp_village_30_2_elder|Village Elder
-trp_village_30_3_elder|Village Elder
-trp_village_31_1_elder|Village Elder
-trp_village_31_2_elder|Village Elder
-trp_village_31_3_elder|Village Elder
-trp_village_31_4_elder|Village Elder
+trp_town_32_1_mayor|Guild Master
+trp_town_32_2_mayor|Guild Master
+trp_town_34_1_mayor|Guild Master
+trp_town_35_1_mayor|Guild Master
+trp_village_1_elder|Mayor
+trp_village_2_elder|Mayor
+trp_village_3_elder|Mayor
+trp_village_4_elder|Mayor
+trp_village_5_elder|Mayor
+trp_village_6_elder|Mayor
+trp_village_7_elder|Mayor
+trp_village_8_elder|Mayor
+trp_village_9_elder|Mayor
+trp_village_10_elder|Mayor
+trp_village_11_elder|Mayor
+trp_village_12_elder|Mayor
+trp_village_13_elder|Mayor
+trp_village_14_elder|Mayor
+trp_village_15_elder|Mayor
+trp_village_16_elder|Mayor
+trp_village_1_1_elder|Mayor
+trp_village_18_elder|Mayor
+trp_village_19_elder|Mayor
+trp_village_20_elder|Mayor
+trp_village_21_elder|Mayor
+trp_village_22_elder|Mayor
+trp_village_23_elder|Mayor
+trp_village_24_elder|Mayor
+trp_village_25_elder|Mayor
+trp_village_26_elder|Mayor
+trp_village_27_elder|Mayor
+trp_village_28_elder|Mayor
+trp_village_29_elder|Mayor
+trp_village_30_elder|Mayor
+trp_village_31_elder|Mayor
+trp_village_32_elder|Mayor
+trp_village_33_elder|Mayor
+trp_village_2_1_elder|Mayor
+trp_village_2_2_elder|Mayor
+trp_village_2_3_elder|Mayor
+trp_village_2_4_elder|Mayor
+trp_village_2_5_elder|Mayor
+trp_village_2_6_elder|Mayor
+trp_village_2_7_elder|Mayor
+trp_village_2_8_elder|Mayor
+trp_village_2_9_elder|Mayor
+trp_village_2_10_elder|Mayor
+trp_village_2_11_elder|Mayor
+trp_village_2_12_elder|Mayor
+trp_village_2_13_elder|Mayor
+trp_village_2_14_elder|Mayor
+trp_village_2_15_elder|Mayor
+trp_village_2_16_elder|Mayor
+trp_village_2_x_elder|Mayor
+trp_village_2_xx_elder|Mayor
+trp_village_3_1_elder|Mayor
+trp_village_53_elder|Mayor
+trp_village_3_2_elder|Mayor
+trp_village_55_elder|Mayor
+trp_village_3_3_elder|Mayor
+trp_village_3_4_elder|Mayor
+trp_village_58_elder|Mayor
+trp_village_59_elder|Mayor
+trp_village_60_elder|Mayor
+trp_village_61_elder|Mayor
+trp_village_62_elder|Mayor
+trp_village_63_elder|Mayor
+trp_village_64_elder|Mayor
+trp_village_65_elder|Mayor
+trp_village_66_elder|Mayor
+trp_village_67_elder|Mayor
+trp_village_68_elder|Mayor
+trp_village_69_elder|Mayor
+trp_village_70_elder|Mayor
+trp_village_71_elder|Mayor
+trp_village_72_elder|Mayor
+trp_village_73_elder|Mayor
+trp_village_6_1_elder|Mayor
+trp_village_6_2_elder|Mayor
+trp_village_6_3_elder|Mayor
+trp_village_6_4_elder|Mayor
+trp_village_6_5_elder|Mayor
+trp_village_6_6_elder|Mayor
+trp_village_6_7_elder|Mayor
+trp_village_6_8_elder|Mayor
+trp_village_6_9_elder|Mayor
+trp_village_6_10_elder|Mayor
+trp_village_6_11_elder|Mayor
+trp_village_6_12_elder|Mayor
+trp_village_6_13_elder|Mayor
+trp_village_6_14_elder|Mayor
+trp_village_6_15_elder|Mayor
+trp_village_6_16_elder|Mayor
+trp_village_6_17_elder|Mayor
+trp_village_6_18_elder|Mayor
+trp_village_6_19_elder|Mayor
+trp_village_6_20_elder|Mayor
+trp_village_6_21_elder|Mayor
+trp_village_6_22_elder|Mayor
+trp_village_6_23_elder|Mayor
+trp_village_6_24_elder|Mayor
+trp_village_6_25_elder|Mayor
+trp_village_6_26_elder|Mayor
+trp_village_4_1_elder|Mayor
+trp_village_4_2_elder|Mayor
+trp_village_4_3_elder|Mayor
+trp_village_4_4_elder|Mayor
+trp_village_4_5_elder|Mayor
+trp_village_4_6_elder|Mayor
+trp_village_4_7_elder|Mayor
+trp_village_4_8_elder|Mayor
+trp_village_4_9_elder|Mayor
+trp_village_4_10_elder|Mayor
+trp_village_4_11_elder|Mayor
+trp_village_4_12_elder|Mayor
+trp_village_4_13_elder|Mayor
+trp_village_4_14_elder|Mayor
+trp_village_4_15_elder|Mayor
+trp_village_4_16_elder|Mayor
+trp_village_11_1_elder|Mayor
+trp_village_11_2_elder|Mayor
+trp_village_11_3_elder|Mayor
+trp_village_11_4_elder|Mayor
+trp_village_11_5_elder|Mayor
+trp_village_11_6_elder|Mayor
+trp_village_11_7_elder|Mayor
+trp_village_11_8_elder|Mayor
+trp_village_11_9_elder|Mayor
+trp_village_11_10_elder|Mayor
+trp_village_11_11_elder|Mayor
+trp_village_11_12_elder|Mayor
+trp_village_14_1_elder|Mayor
+trp_village_14_2_elder|Mayor
+trp_village_14_3_elder|Mayor
+trp_village_14_4_elder|Mayor
+trp_village_14_5_elder|Mayor
+trp_village_14_6_elder|Mayor
+trp_village_14_7_elder|Mayor
+trp_village_14_8_elder|Mayor
+trp_village_14_9_elder|Mayor
+trp_village_14_10_elder|Mayor
+trp_village_14_11_elder|Mayor
+trp_village_14_12_elder|Mayor
+trp_village_9_1_elder|Mayor
+trp_village_9_2_elder|Mayor
+trp_village_9_3_elder|Mayor
+trp_village_9_4_elder|Mayor
+trp_village_9_5_elder|Mayor
+trp_village_9_6_elder|Mayor
+trp_village_9_7_elder|Mayor
+trp_village_9_8_elder|Mayor
+trp_village_9_9_elder|Mayor
+trp_village_9_10_elder|Mayor
+trp_village_9_11_elder|Mayor
+trp_village_9_12_elder|Mayor
+trp_village_9_13_elder|Mayor
+trp_village_9_14_elder|Mayor
+trp_village_9_15_elder|Mayor
+trp_village_9_16_elder|Mayor
+trp_village_9_17_elder|Mayor
+trp_village_9_18_elder|Mayor
+trp_village_10_1_elder|Mayor
+trp_village_10_2_elder|Mayor
+trp_village_10_3_elder|Mayor
+trp_village_10_4_elder|Mayor
+trp_village_10_5_elder|Mayor
+trp_village_10_6_elder|Mayor
+trp_village_10_7_elder|Mayor
+trp_village_10_8_elder|Mayor
+trp_village_10_9_elder|Mayor
+trp_village_10_10_elder|Mayor
+trp_village_10_11_elder|Mayor
+trp_village_10_12_elder|Mayor
+trp_village_10_13_elder|Mayor
+trp_village_10_14_elder|Mayor
+trp_village_10_15_elder|Mayor
+trp_village_10_16_elder|Mayor
+trp_village_10_17_elder|Mayor
+trp_village_10_18_elder|Mayor
+trp_village_10_19_elder|Mayor
+trp_village_10_20_elder|Mayor
+trp_village_10_21_elder|Mayor
+trp_village_10_22_elder|Mayor
+trp_village_10_23_elder|Mayor
+trp_village_10_24_elder|Mayor
+trp_village_12_1_elder|Mayor
+trp_village_12_2_elder|Mayor
+trp_village_12_3_elder|Mayor
+trp_village_12_4_elder|Mayor
+trp_village_12_5_elder|Mayor
+trp_village_12_6_elder|Mayor
+trp_village_12_7_elder|Mayor
+trp_village_12_8_elder|Mayor
+trp_village_13_1_elder|Mayor
+trp_village_13_2_elder|Mayor
+trp_village_13_3_elder|Mayor
+trp_village_13_4_elder|Mayor
+trp_village_13_5_elder|Mayor
+trp_village_13_6_elder|Mayor
+trp_village_13_7_elder|Mayor
+trp_village_13_8_elder|Mayor
+trp_village_3_5_elder|Mayor
+trp_village_3_6_elder|Mayor
+trp_village_3_7_elder|Mayor
+trp_village_3_8_elder|Mayor
+trp_village_3_9_elder|Mayor
+trp_village_3_10_elder|Mayor
+trp_village_3_11_elder|Mayor
+trp_village_3_12_elder|Mayor
+trp_village_3_13_elder|Mayor
+trp_village_3_14_elder|Mayor
+trp_village_3_15_elder|Mayor
+trp_village_3_16_elder|Mayor
+trp_village_3_17_elder|Mayor
+trp_village_3_18_elder|Mayor
+trp_village_3_19_elder|Mayor
+trp_village_3_20_elder|Mayor
+trp_village_9_19_elder|Mayor
+trp_village_9_20_elder|Mayor
+trp_village_9_21_elder|Mayor
+trp_village_15_1_elder|Mayor
+trp_village_15_2_elder|Mayor
+trp_village_15_3_elder|Mayor
+trp_village_15_4_elder|Mayor
+trp_village_15_5_elder|Mayor
+trp_village_15_6_elder|Mayor
+trp_village_15_7_elder|Mayor
+trp_village_15_8_elder|Mayor
+trp_village_15_9_elder|Mayor
+trp_village_15_10_elder|Mayor
+trp_village_15_11_elder|Mayor
+trp_village_15_12_elder|Mayor
+trp_village_16_1_elder|Mayor
+trp_village_16_2_elder|Mayor
+trp_village_16_3_elder|Mayor
+trp_village_16_4_elder|Mayor
+trp_village_16_5_elder|Mayor
+trp_village_16_6_elder|Mayor
+trp_village_16_7_elder|Mayor
+trp_village_16_8_elder|Mayor
+trp_village_17_1_elder|Mayor
+trp_village_17_2_elder|Mayor
+trp_village_17_3_elder|Mayor
+trp_village_17_4_elder|Mayor
+trp_village_17_5_elder|Mayor
+trp_village_17_6_elder|Mayor
+trp_village_17_7_elder|Mayor
+trp_village_17_8_elder|Mayor
+trp_village_17_9_elder|Mayor
+trp_village_17_10_elder|Mayor
+trp_village_17_11_elder|Mayor
+trp_village_18_1_elder|Mayor
+trp_village_18_2_elder|Mayor
+trp_village_18_3_elder|Mayor
+trp_village_18_4_elder|Mayor
+trp_village_18_5_elder|Mayor
+trp_village_18_6_elder|Mayor
+trp_village_18_7_elder|Mayor
+trp_village_18_8_elder|Mayor
+trp_village_18_9_elder|Mayor
+trp_village_18_10_elder|Mayor
+trp_village_19_1_elder|Mayor
+trp_village_19_2_elder|Mayor
+trp_village_20_1_elder|Mayor
+trp_village_20_2_elder|Mayor
+trp_village_20_3_elder|Mayor
+trp_village_20_4_elder|Mayor
+trp_village_20_5_elder|Mayor
+trp_village_20_6_elder|Mayor
+trp_village_20_7_elder|Mayor
+trp_village_20_8_elder|Mayor
+trp_village_21_1_elder|Mayor
+trp_village_21_2_elder|Mayor
+trp_village_21_3_elder|Mayor
+trp_village_21_4_elder|Mayor
+trp_village_22_1_elder|Mayor
+trp_village_22_2_elder|Mayor
+trp_village_22_3_elder|Mayor
+trp_village_22_4_elder|Mayor
+trp_village_22_5_elder|Mayor
+trp_village_22_6_elder|Mayor
+trp_village_22_7_elder|Mayor
+trp_village_22_8_elder|Mayor
+trp_village_22_9_elder|Mayor
+trp_village_22_10_elder|Mayor
+trp_village_22_11_elder|Mayor
+trp_village_22_12_elder|Mayor
+trp_village_23_1_elder|Mayor
+trp_village_23_2_elder|Mayor
+trp_village_23_3_elder|Mayor
+trp_village_23_4_elder|Mayor
+trp_village_23_5_elder|Mayor
+trp_village_23_6_elder|Mayor
+trp_village_23_7_elder|Mayor
+trp_village_23_8_elder|Mayor
+trp_village_23_9_elder|Mayor
+trp_village_23_10_elder|Mayor
+trp_village_23_11_elder|Mayor
+trp_village_23_12_elder|Mayor
+trp_village_23_13_elder|Mayor
+trp_village_24_1_elder|Mayor
+trp_village_24_2_elder|Mayor
+trp_village_24_3_elder|Mayor
+trp_village_24_4_elder|Mayor
+trp_village_24_5_elder|Mayor
+trp_village_24_6_elder|Mayor
+trp_village_24_7_elder|Mayor
+trp_village_24_8_elder|Mayor
+trp_village_25_1_elder|Mayor
+trp_village_25_2_elder|Mayor
+trp_village_25_3_elder|Mayor
+trp_village_25_4_elder|Mayor
+trp_village_25_5_elder|Mayor
+trp_village_25_6_elder|Mayor
+trp_village_25_7_elder|Mayor
+trp_village_25_8_elder|Mayor
+trp_village_25_9_elder|Mayor
+trp_village_25_10_elder|Mayor
+trp_village_25_11_elder|Mayor
+trp_village_25_12_elder|Mayor
+trp_village_25_13_elder|Mayor
+trp_village_25_14_elder|Mayor
+trp_village_25_15_elder|Mayor
+trp_village_26_1_elder|Mayor
+trp_village_26_2_elder|Mayor
+trp_village_26_3_elder|Mayor
+trp_village_26_4_elder|Mayor
+trp_village_26_5_elder|Mayor
+trp_village_26_6_elder|Mayor
+trp_village_26_7_elder|Mayor
+trp_village_26_8_elder|Mayor
+trp_village_26_9_elder|Mayor
+trp_village_26_10_elder|Mayor
+trp_village_26_11_elder|Mayor
+trp_village_26_12_elder|Mayor
+trp_village_30_4_elder|Mayor
+trp_village_30_5_elder|Mayor
+trp_village_27_1_elder|Mayor
+trp_village_27_2_elder|Mayor
+trp_village_27_3_elder|Mayor
+trp_village_27_4_elder|Mayor
+trp_village_27_5_elder|Mayor
+trp_village_27_6_elder|Mayor
+trp_village_27_7_elder|Mayor
+trp_village_27_8_elder|Mayor
+trp_village_27_9_elder|Mayor
+trp_village_27_10_elder|Mayor
+trp_village_27_11_elder|Mayor
+trp_village_27_12_elder|Mayor
+trp_village_28_1_elder|Mayor
+trp_village_28_2_elder|Mayor
+trp_village_28_3_elder|Mayor
+trp_village_28_4_elder|Mayor
+trp_village_28_5_elder|Mayor
+trp_village_28_6_elder|Mayor
+trp_village_28_7_elder|Mayor
+trp_village_28_8_elder|Mayor
+trp_village_28_9_elder|Mayor
+trp_village_28_10_elder|Mayor
+trp_village_28_11_elder|Mayor
+trp_village_28_12_elder|Mayor
+trp_village_29_1_elder|Mayor
+trp_village_29_2_elder|Mayor
+trp_village_29_3_elder|Mayor
+trp_village_29_4_elder|Mayor
+trp_village_29_5_elder|Mayor
+trp_village_29_6_elder|Mayor
+trp_village_30_1_elder|Mayor
+trp_village_30_2_elder|Mayor
+trp_village_30_3_elder|Mayor
+trp_village_31_1_elder|Mayor
+trp_village_31_2_elder|Mayor
+trp_village_31_3_elder|Mayor
+trp_village_31_4_elder|Mayor
+trp_village_31_5_elder|Mayor
+trp_village_31_6_elder|Mayor
+trp_village_31_7_elder|Mayor
+trp_village_32_1_elder|Mayor
+trp_village_32_2_elder|Mayor
+trp_village_32_3_elder|Mayor
+trp_village_32_4_elder|Mayor
+trp_village_32_5_elder|Mayor
+trp_village_32_6_elder|Mayor
+trp_village_33_1_elder|Mayor
+trp_village_33_2_elder|Mayor
+trp_village_33_3_elder|Mayor
+trp_village_33_4_elder|Mayor
+trp_village_34_1_elder|Mayor
+trp_village_34_2_elder|Mayor
+trp_village_34_3_elder|Mayor
+trp_village_34_4_elder|Mayor
 trp_merchants_end|merchants end
 trp_merchants_end_pl|merchants end
 trp_local_merchant|Local Merchant
@@ -4230,6 +4309,7 @@ trp_merchant_kingdom_15|Merchant of Lvov
 trp_merchant_kingdom_16|Merchant of Lisboa
 trp_merchant_kingdom_17|Aragonese Merchant
 trp_merchant_kingdom_18|Merchant of Castille
+trp_merchant_kingdom_19|Merchant of Navarra
 trp_merchant_kingdom_20|Merchant of Granada
 trp_merchant_kingdom_21|Merchant of Rome
 trp_merchant_kingdom_22|Merchant of Athens
@@ -4242,6 +4322,8 @@ trp_merchant_kingdom_28|Merchant of Tunis
 trp_merchant_kingdom_29|Merchant of Belgrade
 trp_merchant_kingdom_30|Merchant of Tarnovo
 trp_merchant_kingdom_31|Merchant of Fes
+trp_merchant_kingdom_32|Merchant of Venice
+trp_merchant_kingdom_35|Merchant of Welsh
 trp_startup_merchants_end|startup merchants end
 trp_startup_merchants_end_pl|startup merchants end
 trp_sea_raider_leader|Sea Raider Captain
@@ -4265,8 +4347,10 @@ trp_dplmc_recruiter|Recruiter
 trp_dplmc_recruiter_pl|Recruiter
 trp_raf_messenger|Messenger
 trp_raf_messenger_pl|Messengers
-trp_pope|Pope Alexander IV
-trp_pope_pl|Alexander IV
+trp_manor_master|Master
+trp_manor_master_pl|Master
+trp_whore|Harlot
+trp_whore_pl|Harlots
 trp_temp_lord|Local village idiot
 trp_temp_lord_pl|Local village idiots
 trp_broken_items|Broken Items

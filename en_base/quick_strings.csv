@@ -2,7 +2,7 @@ qstr_{reg61}.0{reg62}|{reg61}.0{reg62}
 qstr_{reg61}.{reg62}|{reg61}.{reg62}
 qstr_Shot_distance:_{s1}_|Shot distance: {s1} meters.
 qstr_Anno_Domini_1257|Anno Domini 1257
-qstr_ad1257svn_revision:_|ad1257svn revision: 
+qstr_ad1257_version:_|ad1257 version: 
 qstr_{s21}{s22}|{s21}{s22}
 qstr_Next_Page|Next Page
 qstr_Game_Rules:^|Game Rules:^
@@ -125,15 +125,35 @@ qstr_Force_ranged_troops_|Force ranged troops to use their ranged weapons:
 qstr_Disable_NPCs__compla|Disable NPCs' complaints:
 qstr_Show_battle_mini_map|Show battle mini map:
 qstr_Reinforcement_waves:|Reinforcement waves:
-qstr_Probability_of_rain/|Probability of rain/snow (%):
-qstr_Cloud_amount:|Cloud amount:
-qstr_Fog_strength:|Fog strength:
-qstr_Probability_of_sands|Probability of sandstorm/blizzard/storm (%):
+qstr_Troop_wages:|Troop wages:
+qstr_Fief_inefficency:|Fief inefficency:
+qstr_Enterprise_inefficen|Enterprise inefficency:
+qstr_Number_of_times_to_r|Number of times to reduce flora in custom battlfields:
 qstr_Use_English_faction_|Use English faction names:
 qstr_Use_unit_indications|Use unit indications:
 qstr_Use_banner_man:|Use banner-man:
 qstr_Use_Custom_battlefie|Use Custom-battlefields:
 qstr_Weapon_break:|Weapon break:
+qstr_troop_wage|troop wage
+qstr_Masochistic|Masochistic
+qstr_Normal|Normal
+qstr_Childish|Childish
+qstr_fief|fief
+qstr_enterprise|enterprise
+qstr_AI_marshal_army_gath|AI marshal army gathering inefficency:
+qstr_inefficency|inefficency
+qstr_Low|Low
+qstr_Oy!_we_have_a_proble|Oy! we have a problem!
+qstr_CURRENT_COMMANDER_S_|CURRENT COMMANDER'S REPORT!
+qstr_Your_Commander:_{s19|Your Commander: {s19}
+qstr_Commander_Relation:_|Commander Relation: {reg0}
+qstr_Enlisted_Faction:_{s|Enlisted Faction: {s20}
+qstr_Current_Rank:_{s21}|Current Rank: {s21}
+qstr_Days_in_service:_{re|Days in service: {reg20}
+qstr_Next_Payday:_{s25}|Next Payday: {s25}
+qstr_Current_Wage:_{reg23|Current Wage: {reg23} denars.
+qstr_Army_size:_{reg26}|Army size: {reg26}
+qstr_Commander_s_Army|Commander's Army
 qstr_ERROR____wrong_numbe|ERROR -- wrong number of villages, need {reg26} have {reg27}
 qstr_ERROR____Castles:_{r|ERROR -- Castles: {reg28} seneschals: {reg26}
 qstr_ERROR____Villages:_{|ERROR -- Villages: {reg27} elders: {reg26}
@@ -146,10 +166,6 @@ qstr_ERROR____Towns:_{reg25}_m|ERROR -- Towns: {reg25} merchants: {reg26}
 qstr_ERROR____Towns:_{reg25}_h|ERROR -- Towns: {reg25} horse merchants: {reg26}
 qstr_ERROR____Towns:_{reg25}_a|ERROR -- Towns: {reg25} arena masters: {reg26}
 qstr_ERROR____Towns:_{reg25}_c|ERROR -- Towns: {reg25} craftsmen: {reg26}
-qstr_____________________|----------------------------- BATTLE ----------------------------
-qstr_{s26}_[o:_{reg30}_d:|{s26} [o: {reg30} d: {reg29}] vs {s25} [o: {reg28} d: {reg27}]
-qstr_{s26}_deals_{reg26}_|{s26} deals {reg26} to {s25} ----- {s25} deals {reg25} to {s26}
-qstr______________________|-----------------------------------------------------------------
 qstr_Your_recruiter_who_w|Your recruiter who was commissioned to recruit {reg10} recruits to {s13} has been defeated!
 qstr_Your_caravan_sending|Your caravan sending {s12} to {s13} has been defeated!
 qstr_Your_messenger_on_th|Your messenger on the way to {s13} has been defeated!
@@ -217,7 +233,6 @@ qstr_Significant_group_of|Significant group of enemies spotted near {s1}.
 qstr_Army_of_enemies_spot|Army of enemies spotted near {s1}.
 qstr_Large_army_of_enemie|Large army of enemies spotted near {s1}.
 qstr_Great_host_of_enemie|Great host of enemies spotted near {s1}.
-qstr_{s1}_has_been_besieg|{s1} has been besieged by {s2} of {s3}.
 qstr__{s1}__{s11}:_{s14}|({s1}) {s11}: {s14}
 qstr_{s14}__{s21}_|{s14} ({s21})
 qstr_{s1}_is_the_new_mars|{s1} is the new marshal of {s2}.
@@ -323,12 +338,11 @@ qstr_attacks_neutral_{s20|attacks neutral {s20} {s21}
 qstr_two_days_ago|two days ago
 qstr_target:_{s51}___{reg|target: {s51} - {reg22} actor: {s52} - {reg23} strength ratio: {reg21} war damage: {reg24}
 qstr_I_m_sorry_we_take_vo|I'm sorry, we take vows of chastity here and are not allowed to marry.
-qstr_Best_threat_of_{s4}_|Best threat of {s4} has value level of {reg1}
-qstr_No_center_found_to_d|No center found to defend
 qstr_You_gain_right_to_ru|You gain right to rule.
 qstr_You_lose_right_to_ru|You lose right to rule.
 qstr_No_Troops_Left.|No Troops Left.
 qstr_Selected_Troop:_{s1}|Selected Troop: {s1}
+qstr_{s1}_of_{s0}|{s1} of {s0}
 qstr_Peasants_revolt_in_a|Peasants revolt in areas controlled by the {s25}!
 qstr_{reg0}_denars_added_|{reg0} denars added to treasury.
 qstr_{reg0}_denars_remove|{reg0} denars removed from treasury.
@@ -360,7 +374,6 @@ qstr_Cavalry_formation_di|Cavalry formation disassembled.
 qstr_Archer_formation_dis|Archer formation disassembled.
 qstr_Spearmen|Spearmen
 qstr_Horse_Archers|Horse Archers
-qstr_calculate_party_stre|calculate party strength [{s33}] --- offense: {reg0} defense: {reg1} size: {reg2}
 qstr_Ordo_Teutonicus|Ordo Teutonicus
 qstr_Regnum_Litus|Regnum Litus
 qstr_Altan_Ordyn_Uls|Altan Ordyn Uls
@@ -379,25 +392,27 @@ qstr_Regnum_Galiciae_et_L|Regnum Galiciae et Lodomeriae
 qstr_Regnum_Portugaliae|Regnum Portugaliae
 qstr_Corona_Aragonae|Corona Aragonae
 qstr_Regnum_Castiliae|Regnum Castiliae
-qstr_Imarat_Gharnątah|Imarat Gharnątah
+qstr_Regnum_Navarrae|Regnum Navarrae
+qstr_Imarat_al_Nasri_|Imarat al Nasri 
 qstr_Basileia_ton_Rhomaio|Basileia ton Rhomaion
 qstr_Regnum_Hierosolymita|Regnum Hierosolymitanum
 qstr_Regnum_Siciliae|Regnum Siciliae
 qstr_Sultanat_al_Mamalik|Sultanat al Mamalik
 qstr_Imperium_Romaniae|Imperium Romaniae
 qstr_Ilkhanate|Ilkhanate
-qstr_Saltanat_al_Hafsid|Saltanat al Hafsid
+qstr_Sultanat_al_Hafsi|Sultanat al Hafsi
 qstr_Velika_Zupanija_Rask|Velika Zupanija Raska
 qstr_Balgarsko_Tsarstvo|Balgarsko Tsarstvo
-qstr_Saltanat_al_Marinid|Saltanat al Marinid
+qstr_Sultanat_al_Marini|Sultanat al Marini
+qstr_Repubblica_di_Venezi|Repubblica di Venezia
+qstr_Pruteni|Pruteni
+qstr_Zemaiciai|Zemaiciai
+qstr_Jotvingiai|Jotvingiai
+qstr_Kursi|Kursi
+qstr_Cymry|Cymry
 qstr_Deserti|Deserti
 qstr_Montes_Sicarii|Montes Sicarii
 qstr_Silvae_Sicarii|Silvae Sicarii
-qstr_Kursi|Kursi
-qstr_Žemaiciai|Žemaiciai
-qstr_Pruteni|Pruteni
-qstr_Jotvingiai|Jotvingiai
-qstr_Cymry|Cymry
 qstr_Patrimonium_Sancti_P|Patrimonium Sancti Petri
 qstr_Teutonic_Order__Livo|Teutonic Order (Livonia and Prussia)
 qstr_Kingdom_of_Lithuania|Kingdom of Lithuania
@@ -417,6 +432,7 @@ qstr_Kingdom_of_Halych_Vo|Kingdom of Halych-Volhynia
 qstr_Kingdom_of_Portugal|Kingdom of Portugal
 qstr_Crown_of_Aragon|Crown of Aragon
 qstr_Kingdom_of_Castille|Kingdom of Castille
+qstr_Kingdom_of_Navarra|Kingdom of Navarra
 qstr_Emirate_of_Granada|Emirate of Granada
 qstr_Crusader_States|Crusader States
 qstr_Kingdom_of_Sicily|Kingdom of Sicily
@@ -427,15 +443,16 @@ qstr_Hafsid_Dynasty|Hafsid Dynasty
 qstr_Kingdom_of_Serbia|Kingdom of Serbia
 qstr_Kingdom_of_Bulgaria|Kingdom of Bulgaria
 qstr_Marinid_Dynasty|Marinid Dynasty
+qstr_Republic_of_Venice|Republic of Venice
+qstr_Prussians|Prussians
+qstr_Samagotians|Samagotians
+qstr_Jotvingians|Jotvingians
+qstr_Curonians|Curonians
+qstr_Welsh|Welsh
 qstr_Deserters|Deserters
 qstr_Mountaind_Bandits|Mountaind Bandits
 qstr_Forest_Bandits|Forest Bandits
-qstr_Curonians|Curonians
-qstr_Samogitians|Samogitians
-qstr_Prussians|Prussians
-qstr_Yotvingians|Yotvingians
-qstr_Welsh|Welsh
-qstr_Papal_States|Papal States
+qstr_The_Papal_States|The Papal States
 qstr_multiplayer_profile_|multiplayer profile troop male
 qstr_multiplayer_profile_t|multiplayer profile troop female
 qstr_Temp_Troop|Temp Troop
@@ -844,11 +861,10 @@ qstr_Toxotae|Toxotae
 qstr_Mourtati|Mourtati
 qstr_Polites|Polites
 qstr_Contarati|Contarati
-qstr_Scoutati_Spearman|Scoutati Spearman
-qstr_Scoutati_Spearmen|Scoutati Spearmen
-qstr_Veteran_Scoutati_Spe|Veteran Scoutati Spearman
-qstr_Scoutati_Swordsman|Scoutati Swordsman
-qstr_Scoutati_Swordsmen|Scoutati Swordsmen
+qstr_Scoutati_Akontisths|Scoutati Akontisths
+qstr_Beteranos_Scoutati_A|Beteranos Scoutati Akontisths
+qstr_Beteranoi_Scoutati_A|Beteranoi Scoutati Akontisths
+qstr_Scoutati_Ksifomaxos|Scoutati Ksifomaxos
 qstr_Hoplitae|Hoplitae
 qstr_Trapezitae|Trapezitae
 qstr_Cavalarii|Cavalarii
@@ -1444,10 +1460,10 @@ qstr_Toxotae__rng_|Toxotae (rng)
 qstr_Mourtati__rng_|Mourtati (rng)
 qstr_Polites__inf_|Polites (inf)
 qstr_Contarati__inf_|Contarati (inf)
-qstr_Scoutati_Spearman__i|Scoutati Spearman (inf)
-qstr_Scoutati_Spearmen__i|Scoutati Spearmen (inf)
-qstr_Veteran_Scoutati_Spea|Veteran Scoutati Spearman (inf)
-qstr_Scoutati_Swordsman__|Scoutati Swordsman (inf)
+qstr_Scoutati_Akontisths_|Scoutati Akontisths (inf)
+qstr_Beteranos_Scoutati_Ak|Beteranos Scoutati Akontisths (inf)
+qstr_Beteranoi_Scoutati_Ak|Beteranoi Scoutati Akontisths (inf)
+qstr_Scoutati_Ksifomaxos_|Scoutati Ksifomaxos (inf)
 qstr_Scoutati_Swordsmen__|Scoutati Swordsmen (inf)
 qstr_Hoplitae__inf_|Hoplitae (inf)
 qstr_Trapezitae__cav_|Trapezitae (cav)
@@ -1668,11 +1684,11 @@ qstr_You_have_rejoined_yo|You have rejoined your commander!
 qstr_{s3}_{s2}|{s3}, {s2}
 qstr_The_equipment_of_a_{|The equipment of a {s1}: {s2}is assigned to you.
 qstr_The_equipment_of_a_{s|The equipment of a {s1}: {s2}is taken from you.
-qstr_fail!_{s3}_does_not_|fail! {s3} does not have: {reg5}
 qstr_You_got_keys_of_dung|You got keys of dungeon.
 qstr_Your_{s20}_is_too_cr|Your {s20} is too crapy to fall apart!
 qstr_Your_{s20}_cracks!|Your {s20} cracks!
 qstr_Your_{s20}_falls_apa|Your {s20} falls apart!
+qstr_You_broke_you_re_lan|You broke you're lance!
 qstr_Releasing_spear.|Releasing spear.
 qstr_Your_horse_received_|Your horse received {reg1} damage from a braced spear!
 qstr_The_injury_causes_yo|The injury causes your grip on the spear to slip!
@@ -1861,9 +1877,26 @@ qstr_Try_as_you_might_you_|Try as you might, you could not defeat the rebelling 
 qstr_positive|positive
 qstr_negative|negative
 qstr_relation:_{reg0}|relation: {reg0}
+qstr_Salt_Trader|Salt Trader
+qstr_Salt_Mine|Salt Mine
+qstr_Iron_Trader|Iron Trader
+qstr_Iron_Mine|Iron Mine
+qstr_You_invest_into_the_|You invest into the farmland
+qstr_You_invest_into_the_L|You invest into the Linen workshop
+qstr_You_fund_a_local_mer|You fund a local merchant to specialize to Salt trading
+qstr_You_fund_a_few_local|You fund a few local Hunters
+qstr_You_found_a_local_me|You found a local merchant to specialise into an Iron Trader
+qstr_You_found_some_merch|You found some merchants to trade silk at you're village
+qstr_A_master_weaponsmith|A master weaponsmith has been apointed to the new Smithy
+qstr_A_master_armorsmith_|A master armorsmith has been apointed to the new Smithy
+qstr_A_master_fletcher_ha|A master fletcher has been apointed to the new Smithy
+qstr_A_master_Horse_Breed|A master Horse Breeder has been apointed to the new stables
 qstr_You_have_deserted_an|You have deserted, and are now wanted!
 qstr_Breaking_camp...|Breaking camp...
+qstr_You_re_kingdoms_feas|You're kingdoms feast have concluded.
 qstr_Your_men_are_not_hap|Your men are not happy with the composition of your party!
+qstr_But_thanks_to_you_re|But thanks to you're leadership skill you you manage to calm all of them down!
+qstr_But_thanks_to_you_re_|But thanks to you're leadership skill you manage to calm some of them down!
 qstr____DEBUG____City_{s2|---DEBUG--- City {s21} suffering attrition - {reg21} - wealth {reg22}
 qstr_Your_party_is_spotte|Your party is spotted by {s1}.
 qstr_Party_has_nothing_to|Party has nothing to eat!
@@ -1888,11 +1921,12 @@ qstr_Book_Read|Book Read
 qstr_{s1}_is_scouted.|{s1} is scouted.
 qstr_{s1}_has_switched_fr|{s1} has switched from {s2} to {s3}.
 qstr_Your_party_is_low_on|Your party is low on food, less than 48 hours of food remaining
-qstr_Converting_parties_t|Converting parties to faction templates.
 qstr_{s13}_has_been_taken|{s13} has been taken by the enemy and your recruiter who was commissioned to recruit {reg10} recruits vanished  without a trace!
 qstr_ERROR_IN_THE_RECRUIT|ERROR IN THE RECRUITER KIT SIMPLE TRIGGERS!
 qstr_A_recruiter_has_brou|A recruiter has brought {reg10} recruits to {s13}.
 qstr_Distance_between_{s1|Distance between {s14} and {s15}: {reg0}
+qstr_Your_caravan_has_bro|Your caravan has brought {s12} to {s13}.
+qstr_Your_caravan_has_los|Your caravan has lost it's way and gave up your mission!
 qstr_Your_messenger_reach|Your messenger reached {s13}.
 qstr_{s14}|{s14}
 qstr_Your_messenger_has_l|Your messenger has lost it's way and gave up your mission!
@@ -1900,17 +1934,31 @@ qstr_Not_enough_money_in_|Not enough money in treasury to upgrade troops.
 qstr_Your_constable_upgra|Your constable upgraded {reg5} {s6} to {s7} in {s8}
 qstr_Your_messenger_has_d|Your messenger has delivered his message to {s26} and is on his way back to {s25}
 qstr_{s26}_has_arrived_in|{s26} has arrived in {s25} and is awaiting you there.
+qstr_You_are_not_strong_e|You are not strong enough to lift a weapon fit for your promotion!
+qstr_Sorry_You_are_not_st|Sorry, You are not strong enough to hold all that weight required with promotion!.
+qstr_Sorry_but_your_arms_|Sorry, but your arms are to weak to advance in the artillary at this moment.
+qstr_You_require_more_hor|You require more horse riding skills to fit your next poisition!
 qstr_The_released_prisone|The released prisoners were not be trusted and they are preparing to attack you!
 qstr_Warning!|Warning!
 qstr_The_released_prisoner|The released prisoners scattered as soon as the battle finished. You will not be seeing them again.
 qstr_Notice!|Notice!
 qstr_The_released_prisoners|The released prisoners have remained loyal and will join your party
+qstr_You_have_{reg0}_days_|You have {reg0} days left till you are declared as a deserter!
+qstr_You_have_now_been_de|You have now been declared as a deserter!
+qstr_Crusaders_are_going_|Crusaders are going to gather near {s1} the start there crusade against {s2}
+qstr_Crusade_against_{s1}|Crusade against {s1} have started!
+qstr_Crusaders_have_been_|Crusaders have been defeated!
+qstr_Crusaders_have_reach|Crusaders have reached their target!
+qstr_Crusaders_have_besie|Crusaders have besieged there target!
+qstr_Crusade_ended_succes|Crusade ended succesfully!
+qstr_Crusaders_disperce_b|Crusaders disperce, becoues someone else conquered the center
 qstr_{reg65?my_Lady:my_Lo|{reg65?my Lady:my Lord}
 qstr_{reg65?My_Lady:My_Lo|{reg65?My Lady:My Lord}
 qstr_{reg65?madame:sir}|{reg65?madame:sir}
 qstr_{reg65?Madame:Sir}|{reg65?Madame:Sir}
 qstr__no_fiefs_|(no fiefs)
 qstr__fiefs:_{s0}_|(fiefs: {s0})
+qstr_You_re_party_moral_i|You're party moral increases.
 qstr_It_s_your_money_or_y|It's your money or your life, {mate/girlie}. No sudden moves or we'll run you through.
 qstr_Lucky_for_you_you_ca|Lucky for you, you caught me in a good mood. Give us all your coin and I might just let you live.
 qstr_This_a_robbery_eh?_I|This a robbery, eh? I givin' you one chance to hand over everythin' you got, or me and my mates'll kill you. Understand?
@@ -1934,26 +1982,6 @@ qstr_{s6}_In_addition_you|{s6} In addition you have {reg2} soldiers in your conv
 qstr_{s52}_{reg2}_{s53}.|{s52} {reg2} {s53}.
 qstr_He_fields_{reg2}_sol|He fields {reg2} soldiers.
 qstr_We_currently_have_{re|We currently have {reg2} soldiers garrisoned in {s60}.
-qstr_You_are_preferring_m|You are preferring melee units.
-qstr_You_are_preferring_r|You are preferring ranged units.
-qstr_Anatolian|Anatolian
-qstr_Andalusian|Andalusian
-qstr_Baltic|Baltic
-qstr_Scandinavian|Scandinavian
-qstr_Eastern_European|Eastern European
-qstr_Mongol|Mongol
-qstr_European|European
-qstr_Gaelic|Gaelic
-qstr_Latin|Latin
-qstr_North_African|North African
-qstr_Mamluk|Mamluk
-qstr_Crusader|Crusader
-qstr_Teutonic|Teutonic
-qstr_Scotish|Scotish
-qstr_Byzantine|Byzantine
-qstr_villages|villages
-qstr_towns|towns
-qstr_castles|castles
 qstr_We_currently_have_an|We currently have an income of {reg0} denars and costs of {reg1} denars from fiefs and garrions.
 qstr_{s6}_We_are_losing_{|{s6} We are losing {reg0} denars due to tax inefficiency. That means {reg1} percent.
 qstr_{s6}_Overall_this_su|{s6} Overall this sums up to {reg0} denars.
@@ -1966,6 +1994,7 @@ qstr_{s61}_and_{reg0}_den|{s61} and {reg0} denars for tariffs
 qstr_Well_{s60}.|Well, {s60}.
 qstr_{s4}_{s3}._The_tax_r|{s4} {s3}. The tax rate is {s50}.{s59}{s61}. Overall this sums up to {s62} denars.
 qstr_Tax_rate_for_{s6}:_{|Tax rate for {s6}: {s11}
+qstr_You_donated_{reg0}_g|You donated {reg0} gold coins to the pope to fund you're crusade
 qstr_{playername}_when_we|{playername}, when we started our long walk, few people had the courage to support me. And fewer still would be willing to put their lives at risk for my cause. But you didn't hesitate for a moment in throwing yourself at my enemies. We have gone through a lot together, and there were times I came close to losing all hope. But with God's help, we prevailed. It is now time for me to leave your company and take what's rightfully mine. From now on, I will carry out the great responsibility of ruling {s3}. There still lie many challanges ahead and I count on your help in overcoming those. And of course, you will always remain as my foremost vassal.
 qstr__We_will_of_course_n| We will of course need to wait until the realm is no longer on campaign.
 qstr_I_am_{s4}_the_ruler_|I am {s4}, the ruler of {s6}

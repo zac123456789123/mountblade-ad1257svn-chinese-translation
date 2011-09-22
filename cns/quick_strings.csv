@@ -2,15 +2,15 @@ qstr_{reg61}.0{reg62}|{reg61}.0{reg62}
 qstr_{reg61}.{reg62}|{reg61}.{reg62}
 qstr_Shot_distance:_{s1}_|射 击 距 离： {s1}米。 
 qstr_Anno_Domini_1257|Anno Domini 1257
-qstr_ad1257svn_revision:_|ad1257svn 版 本： 
+qstr_ad1257_version:_|ad1257 版本：  
 qstr_{s21}{s22}|{s21}{s22}
 qstr_Next_Page|下 一 页 
 qstr_Game_Rules:^|游 戏 规 则： ^
 qstr_0|0
 qstr_Show_game_rules|显 示 游 戏 规 则 
 qstr_Continue...|继 续… … 
-qstr_Candidate_#1:_{s1}|一 号 侯 选 者 ： {s1}
-qstr_Candidate_#2:_{s1}|二 号 侯 选 者 ： {s1}
+qstr_Candidate_#1:_{s1}|一 号 候 选 者 ： {s1}
+qstr_Candidate_#2:_{s1}|二 号 候 选 者 ： {s1}
 qstr_{s3}_of_{s4}_wishes_|{s4}的 {s3}希 望 能 够 选 出 一 个 新 的 元 帅， 并 邀 请 了 他 的 封 臣 们 给 他 一 些 建 议。 {s1}和 {s2}应 该 是 候 选 人。 
 qstr_Who_do_you_wish_to_s|你 想 要 支 持 谁？ 
 qstr_{s1}_gives_his_suppo|{s1}支 持 {s2}。 
@@ -125,10 +125,35 @@ qstr_Force_ranged_troops_|强 制 远 程 部 队 使 用 其 远 程 武 器：
 qstr_Disable_NPCs__compla|禁 止 NPC之 间 相 互 抱 怨： 
 qstr_Show_battle_mini_map|显 示 战 场 小 地 图： 
 qstr_Reinforcement_waves:|增 援 波 次： 
-qstr_Probability_of_rain/|下 雨 /下 雪 的 概 率 (%)： 
-qstr_Cloud_amount:|云 量： 
-qstr_Fog_strength:|大 雾 浓 度： 
-qstr_Probability_of_sands|沙 尘 暴 的 概 率 (%):
+qstr_Troop_wages:|部 队 工 资： 
+qstr_Fief_inefficency:|封 地 无 效 率： 
+qstr_Enterprise_inefficen|企 业 无 效 率： 
+qstr_Number_of_times_to_r|自 定 义 战 场 的 植 被 减 少 量： 
+qstr_Use_English_faction_|阵 营 名 使 用 英 文： （玩 汉 化 的 千 万 不 要 点！）
+qstr_Use_unit_indications|使 用 单 位 兵 种 指 示： （玩 汉 化 的 千 万 不 要 点！）
+qstr_Use_banner_man:|启 用 掌 旗 官： 
+qstr_Use_Custom_battlefie|使 用 自 定 义 战 场： 
+qstr_Weapon_break:|武 器 损 坏： 
+qstr_troop_wage|部 队 工 资 
+qstr_Masochistic|自 虐 的 
+qstr_Normal|正 常 的 
+qstr_Childish|过 家 家 的 
+qstr_fief|封 地 
+qstr_enterprise|企 业 
+qstr_AI_marshal_army_gath|AI元 帅 召 集 部 队 无 效 率： 
+qstr_inefficency|无 效 率 
+qstr_Low|低 
+qstr_Oy!_we_have_a_proble|我 们 有 个 问 题！ 
+qstr_CURRENT_COMMANDER_S_|当 前 指 挥 官 的 报 告！ 
+qstr_Your_Commander:_{s19|你 的 指 挥 官： {s19}
+qstr_Commander_Relation:_|和 指 挥 官 的 关 系： {reg0}
+qstr_Enlisted_Faction:_{s|加 入 的 国 家： {s20}
+qstr_Current_Rank:_{s21}|当 前 等 级： {s21}
+qstr_Days_in_service:_{re|服 役 时 长： {reg20}
+qstr_Next_Payday:_{s25}|下 一 个 工 资 日： {s25}
+qstr_Current_Wage:_{reg23|目 前 工 资： {reg23}第 纳 尔 
+qstr_Army_size:_{reg26}|部 队 规 模： {reg26}
+qstr_Commander_s_Army|指 挥 官 的 部 队 
 qstr_ERROR____wrong_numbe|ERROR -- wrong number of villages, need {reg26} have {reg27}
 qstr_ERROR____Castles:_{r|ERROR -- Castles: {reg28} seneschals: {reg26}
 qstr_ERROR____Villages:_{|ERROR -- Villages: {reg27} elders: {reg26}
@@ -141,10 +166,6 @@ qstr_ERROR____Towns:_{reg25}_m|ERROR -- Towns: {reg25} merchants: {reg26}
 qstr_ERROR____Towns:_{reg25}_h|ERROR -- Towns: {reg25} horse merchants: {reg26}
 qstr_ERROR____Towns:_{reg25}_a|ERROR -- Towns: {reg25} arena masters: {reg26}
 qstr_ERROR____Towns:_{reg25}_c|ERROR -- Towns: {reg25} craftsmen: {reg26}
-qstr_____________________|----------------------------- 战 斗 ----------------------------
-qstr_{s26}_[o:_{reg30}_d:|{s26} [o: {reg30} d: {reg29}] vs {s25} [o: {reg28} d: {reg27}]{***}
-qstr_{s26}_deals_{reg26}_|{s26} deals {reg26} to {s25} ----- {s25} deals {reg25} to {s26}{***}
-qstr______________________|-----------------------------------------------------------------
 qstr_Your_recruiter_who_w|你 从 {s13}派 去 招 募 {reg10}名 新 兵 的 征 兵 队 被 击 败 了！ 
 qstr_Your_caravan_sending|你 从 {s12}去 {s13}的 商 队 被 击 败 了！ 
 qstr_Your_messenger_on_th|你 派 去 {s13}的 信 使 被 击 败 了！ 
@@ -212,7 +233,6 @@ qstr_Significant_group_of|{s1}附 近 发 现 敌 军 大 部 队。
 qstr_Army_of_enemies_spot|{s1}附 近 发 现 敌 军 集 团。 
 qstr_Large_army_of_enemie|{s1}附 近 发 现 大 规 模 敌 军 集 团。 
 qstr_Great_host_of_enemie|{s1}附 近 发 现 超 大 规 模 敌 军 集 团。 
-qstr_{s1}_has_been_besieg|{s1}受 到 {s3}的 {s2}包 围。 
 qstr__{s1}__{s11}:_{s14}|（{s1}） {s11}： {s14}
 qstr_{s14}__{s21}_|{s14}（{s21}） 
 qstr_{s1}_is_the_new_mars|{s1}是 {s2}的 新 元 帅。 
@@ -318,12 +338,11 @@ qstr_attacks_neutral_{s20|攻 击 中 立 {s20} {s21}
 qstr_two_days_ago|两 天 之 前 
 qstr_target:_{s51}___{reg|target: {s51} - {reg22} actor: {s52} - {reg23} strength ratio: {reg21} war damage: {reg24}{***}
 qstr_I_m_sorry_we_take_vo|对 不 起， 我 已 经 许 下 了 贞 洁 的 誓 言， 一 輩 子 不 允 许 结 婚。 
-qstr_Best_threat_of_{s4}_|最 有 威 胁 的 {s4}价 值 等 级 为 {reg1}
-qstr_No_center_found_to_d|没 发 现 防 守 地 点 
 qstr_You_gain_right_to_ru|你 获 得 统 治 权。 
 qstr_You_lose_right_to_ru|你 失 去 统 治 权。 
 qstr_party_{s29}:_{s26}_r|因 为 不 同 的 国 家 文 化， {s29}的 {s26}将 {s27}训 练 成 了 {s28}
 qstr_No_Troops_Left.|没 有 剩 余 的 部 队 了。 
+qstr_{s1}_of_{s0}|{s0}的 {s1}
 qstr_Selected_Troop:_{s1}|选 中 的 部 队： {s1}
 qstr_Peasants_revolt_in_a|{s25}统 治 下 的 农 民 们 起 义 了！ 
 qstr_{reg0}_denars_added_|获 得 了 {reg0}第 纳 尔。 
@@ -356,7 +375,6 @@ qstr_Cavalry_formation_di|骑 兵 阵 型 解 散。
 qstr_Archer_formation_dis|射 手 阵 型 解 散。 
 qstr_Spearmen|长 矛 手 
 qstr_Horse_Archers|骑 射 手 
-qstr_calculate_party_stre|calculate party strength [{s33}] --- offense: {reg0} defense: {reg1} size: {reg2}{***}
 qstr_You_got_keys_of_dung|你 得 到 了 地 牢 钥 匙。 
 qstr_Releasing_spear.|放 下 长 矛。 
 qstr_Your_horse_received_|你 的 马 受 到 了 架 起 的 长 矛 的 {reg1}点 伤 害！ 
@@ -371,6 +389,7 @@ qstr_Forming_ranks.|正 在 组 成 阵 型。
 qstr_You_must_stay_behind|你 必 须 站 在 线 后！ 此 次 攻 击 无 效。 
 qstr_Your_{s20}_falls_apa|你 的 {s20}碎 裂 了！ 
 qstr_Your_{s20}_cracks!|你 的 {s20}裂 开 了！ 
+qstr_You_broke_you_re_lan|你 的 骑 枪 断 折 了！ 
 qstr_Tutorial|训 练 
 qstr_You_came_into_the_wo|你 作 为 一 个 没 落 贵 族 家 庭 中 的 {reg3?女 儿 :儿 子 }降 生 在 这 个 世 界 上， 家 中 只 剩 下 了 一 幢 房 子 还 矗 立 着， 记 录 着 已 经 散 去 的 往 日 荣 光。 不 过， 即 使 生 活 困 苦， 家 里 依 然 给 予 了 你 很 好 的 教 育， 并 从 孩 童 时 期 就 对 你 进 行 严 格 的 行 为 举 止 方 面 的 训 练。 
 qstr_You_were_born_the_{r|你 是 一 位 旅 行 商 人 的 {reg3?女 儿:儿 子}， 为 了 追 寻 利 益， 他 们 经 常 从 一 个 地 方 到 另 一 个 地 方 四 处 奔 走。 即 使 你 的 父 母 比 常 人 富 有， 并 且 尽 他 们 所 能 给 予 你 最 好 的 教 育， 在 旅 行 中， 你 还 是 会 时 常 与 别 人 买 卖 一 些 小 玩 意， 并 交 上 一 些 朋 友。 
@@ -547,8 +566,25 @@ qstr_Try_as_you_might_you_|你 可 以 试 一 试 , 看 能 不 能 打 败 这
 qstr_positive|积 极 的 
 qstr_negative|消 极 的 
 qstr_relation:_{reg0}|关 系： {reg0}
+qstr_Salt_Trader|盐 商 
+qstr_Salt_Mine|盐 矿 
+qstr_Iron_Trader|铁 商 
+qstr_Iron_Mine|铁 矿 
+qstr_You_invest_into_the_|你 投 资 了 一 座 农 场 
+qstr_You_invest_into_the_L|你 投 资 了 一 家 亚 麻 作 坊 
+qstr_You_fund_a_local_mer|你 投 资 了 一 位 专 职 贩 盐 的 本 地 商 人 
+qstr_You_fund_a_few_local|你 投 资 了 几 位 本 地 猎 人 
+qstr_You_found_a_local_me|你 投 资 了 一 位 专 职 贩 铁 的 本 地 商 人 
+qstr_You_found_some_merch|你 投 资 了 一 位 专 职 贩 卖 丝 绸 的 本 地 商 人 
+qstr_A_master_weaponsmith|一 位 武 器 大 师 已 经 被 新 铁 匠 铺 雇 佣 了 
+qstr_A_master_armorsmith_|一 位 护 甲 大 师 已 经 被 新 铁 匠 铺 雇 佣 了 
+qstr_A_master_fletcher_ha|一 位 制 箭 大 师 已 经 被 新 铁 匠 铺 雇 佣 了 
+qstr_A_master_Horse_Breed|一 位 养 马 大 师 已 经 被 新 马 厩 雇 佣 了 
 qstr_Breaking_camp...|终 止 宿 营… … 
+qstr_You_re_kingdoms_feas|你 的 王 国 的 宴 会 已 经 终 止 了。 
 qstr_Your_men_are_not_hap|你 的 手 下 对 部 队 的 组 成 不 太 满 意！ 
+qstr_But_thanks_to_you_re|但 是 多 亏 了 你 的 领 导 才 能， 你 成 功 的 把 他 们 都 安 抚 平 静 了！ 
+qstr_But_thanks_to_you_re_|但 是 多 亏 了 你 的 领 导 才 能， 你 成 功 的 把 他 们 中 的 一 部 分 安 抚 平 静 了！ 
 qstr____DEBUG____City_{s2|---DEBUG--- City {s21} suffering attrition - {reg21} - wealth {reg22}
 qstr_Your_party_is_spotte|你 的 部 队 被 {s1}发 现 了。 
 qstr_Party_has_nothing_to|部 队 没 有 东 西 吃 了！ 
@@ -573,11 +609,12 @@ qstr_Book_Read|读 书
 qstr_{s1}_is_scouted.|{s1}已 经 侦 察 过 了。 
 qstr_{s1}_has_switched_fr|{s1}由 {s2}转 到 {s3}。 
 qstr_Your_party_is_low_on|你 部 队 的 粮 食 快 要 吃 完 了， 只 剩 不 到 48小 时 的 存 量 了。 
-qstr_Converting_parties_t|按 代 码 表 转 换 军 队 （不 是 bug） 
 qstr_{s13}_has_been_taken|{s13}被 敌 人 夺 取 了， 你 派 去 招 募 {reg10}名 新 兵 的 征 兵 队 好 像 消 失 得 无 影 无 踪 了！ 
 qstr_ERROR_IN_THE_RECRUIT|ERROR IN THE RECRUITER KIT SIMPLE TRIGGERS!
 qstr_A_recruiter_has_brou|一 支 征 兵 队 带 了 {reg10}名 新 兵 去 了 {s13}。 
 qstr_Distance_between_{s1|{s14}和 {s15}之间的距离是： {reg0}
+qstr_Your_caravan_has_bro|你 的 商 队 已 经 把 {s12}带 到 了 {s13}。 
+qstr_Your_caravan_has_los|你 的 商 队 迷 了 路， 放 弃 了 你 的 任 务。 
 qstr_Your_messenger_reach|你 的 信 使 到 达 了 {s13}。 
 qstr_{s14}|{s14}
 qstr_Your_messenger_has_l|你 的 信 使 迷 失 了 方 向 并 且 放 弃 了 你 交 予 的 任 务！ 
@@ -585,12 +622,31 @@ qstr_Not_enough_money_in_|金 库 里 的 钱 已 经 不 够 使 部 队 升 �
 qstr_Your_constable_upgra|你 在 {s8}的 治 安 官 把 {reg5}个 {s6}训 练 到 了 {s7}。 
 qstr_Your_messenger_has_d|你 的 信 使 已 经 将 消 息 传 达 到 了 {s26}， 现 在 正 在 回 {s25}的 路 上。 
 qstr_{s26}_has_arrived_in|{s26}已 经 到 达 了 {s25}， 正 在 那 儿 等 你。 
+qstr_You_are_not_strong_e|你 还 不 够 强 壮， 没 法 挥 舞 起 晋 升 后 配 发 的 武 器。 
+qstr_Sorry_You_are_not_st|抱 歉， 你 还 不 够 强 壮， 无 法 支 持 晋 升 后 配 发 的 盔 甲 的 重 量。 
+qstr_Sorry_but_your_arms_|抱 歉， 你 的 臂 力 太 弱 了， 暂 时 还 无 法 从 弓 手 队 列 里 晋 级。 
+qstr_You_require_more_hor|你 的 下 一 级 晋 升 需 要 你 有 更 高 的 骑 术！ 
+qstr_The_released_prisone|释 放 的 囚 犯 不 可 信 任， 他 们 准 备 攻 击 你！ 
+qstr_Warning!|警 告！ 
+qstr_The_released_prisoner|战 斗 一 结 束， 释 放 的 囚 犯 就 四 散 跑 开 了。 你 大 概 再 也 见 不 到 他 们 了。 
+qstr_Notice!|注 意！ 
+qstr_The_released_prisoners|释 放 的 囚 犯 们 仍 然 保 持 着 忠 诚， 他 们 会 加 入 你 的 部 队。 
+qstr_You_have_{reg0}_days_|你 还 剩 下 {reg0}天 时 间。 过 期 你 就 会 被 宣 布 为 逃 兵 了！ 
+qstr_You_have_now_been_de|你 已 经 被 宣 布 为 逃 兵 了！ 
+qstr_Crusaders_are_going_|十 字 军 准 备 在 {s1}集 结， 以 便 出 发 攻 打 {s2}
+qstr_Crusade_against_{s1}|攻 打 {s1}的 十 字 军 已 经 出 发 了！ 
+qstr_Crusaders_have_been_|十 字 军 被 击 败 了！ 
+qstr_Crusaders_have_reach|十 字 军 已 经 到 达 了 他 们 的 目 标！ 
+qstr_Crusaders_have_besie|十 字 军 正 在 包 围 他 们 的 目 标！ 
+qstr_Crusade_ended_succes|十 字 军 胜 利 完 成 了 他 们 的 使 命！ 
+qstr_Crusaders_disperce_b|十 字 军 终 止 了， 因 为 其 他 人 已 经 攻 占 了 这 个 目 标 
 qstr_{reg65?my_Lady:my_Lo|{reg65?尊 敬 的 女 士:我 的 大 人} 
 qstr_{reg65?My_Lady:My_Lo|{reg65?尊 敬 的 女 士:我 的 大 人} 
 qstr_{reg65?madame:sir}|{reg65?夫 人:先 生} 
 qstr_{reg65?Madame:Sir}|{reg65?夫 人:先 生} 
 qstr__no_fiefs_|（没 有 封 地） 
 qstr__fiefs:_{s0}_|（封 地： {s0}） 
+qstr_You_re_party_moral_i|你 部 队 的 士 气 提 升 了。 
 qstr_It_s_your_money_or_y|要 钱 还 是 要 命， {小 伙 子/小 姑 娘}。 不 快 跑 的 话， 我 将 折 磨 死 你。 
 qstr_Lucky_for_you_you_ca|你 很 走 运， 刚 好 碰 到 我 今 天 心 情 特 别 好。 交 出 你 所 有 的 钱， 我 就 让 你 活 着 离 开。 
 qstr_This_a_robbery_eh?_I|这 是 一 次 抢 劫， 明 白 不？ 我 给 你 一 个 机 会 交 出 你 所 有 的 东 西， 否 则 我 和 我 的 兄 弟 们 将 杀 了 你， 明 白 不？ 
@@ -614,26 +670,6 @@ qstr_{s6}_In_addition_you|{s6}另 外 你 有 {reg2}名 士 兵 正 跟 随 着 
 qstr_{s52}_{reg2}_{s53}.|{s52}{reg2}{s53}。 
 qstr_He_fields_{reg2}_sol|他 有 {reg2}名 士 兵。 
 qstr_We_currently_have_{re|我 们 目 前 有 {reg2}名 士 兵 驻 扎 在 {s60}。 
-qstr_You_are_preferring_m|你 选 择 近 战 单 位。 
-qstr_You_are_preferring_r|你 选 择 远 程 单 位。 
-qstr_Anatolian|安 纳 托 利 亚 人 
-qstr_Andalusian|安 达 卢 西 亚 人 
-qstr_Baltic|波 罗 的 海 人 
-qstr_Scandinavian|斯 堪 的 纳 维 亚 人 
-qstr_Eastern_European|东 欧 人 
-qstr_Mongol|蒙 古 人 
-qstr_European|欧 洲 人 
-qstr_Gaelic|爱 尔 兰 人 
-qstr_Latin|拉 丁 帝 国 国 民 
-qstr_North_African|北 非 人 
-qstr_Mamluk|马 木 鲁 克 人 
-qstr_Crusader|十 字 军 国 家 国 民 
-qstr_Teutonic|条 顿 骑 士 团 国 民 
-qstr_Scotish|苏 格 兰 人 
-qstr_Byzantine|尼 西 亚 人 
-qstr_villages|村 庄 
-qstr_towns|城 镇 
-qstr_castles|城 堡 
 qstr_We_currently_have_an|我 们 目 前 收 入 为 {reg0}第 纳 尔， 但 要 花 费 {reg1}第 纳 尔 支 付 驻 军 和 队 伍 的 军 费。 
 qstr_{s6}_We_are_losing_{|{s6}我 们 因 为 税 收 无 效 损 失 了 {reg0}第 纳 尔， 那 占 我 们 总 税 收 的 {reg1}%。 
 qstr_{s6}_Overall_this_su|{s6}总 的 来 说 共 计 {reg0}第 纳 尔。 
@@ -646,6 +682,7 @@ qstr_{s61}_and_{reg0}_den|{s61}和 {reg0}第 纳 尔 的 关 税。
 qstr_Well_{s60}.|好 的， {s60}。 
 qstr_{s4}_{s3}._The_tax_r|{s4}{s3}。 税 率 是 {s50}。 {s59}{s61}。 总 共 加 起 来 是 {s62}第 纳 尔。 
 qstr_Tax_rate_for_{s6}:_{|{s6}的 税 率： {s11}
+qstr_You_donated_{reg0}_g|你 向 教 宗 捐 献 了 {reg0}金 币 来 组 建 你 的 十 字 军 
 qstr_{playername}_when_we|{playername}， 当 我 们 开 始 力 图 实 现 我 们 远 大 目 标 的 时 候， 很 少 有 人 有 胆 量 支 持 我 们， 还 是 有 极 少 数 的 人 愿 意 冒 性 命 危 险 支 持 我 们。 但 是 对 于 投 身 到 对 抗 我 们 敌 人 的 事 情， 你 一 刻 也 没 有 犹 豫。 我 们 风 雨 同 舟 走 过 了 相 当 长 的 一 段 路， 其 间 有 几 次 我 都 要 绝 望 了。 但 是 受 到 上 帝 保 佑， 我 们 都 挺 过 来 了。 现 在 我 得 离 开 你 然 后 去 获 取 我 应 得 的 权 利。 从 现 在 开 始， 我 将 担 负 起 统 治 {s3}的 重 任。 我 们 前 面 还 有 许 多 挑 战 等 着 我 们， 我 还 指 望 你 能 帮 助 我 去 克 服。 当 然， 你 始 终 都 是 我 最 重 要 的 封 臣。 
 qstr__We_will_of_course_n|我 们 当 然 得 等 到 国 家 不 再 进 行 战 役 了。 
 qstr_I_am_{s4}_the_ruler_|我 是 {s4}， {s6}的 统 治 者。 
