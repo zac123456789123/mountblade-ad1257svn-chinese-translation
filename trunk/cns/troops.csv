@@ -1085,6 +1085,16 @@ trp_tavern_minstrel_4|行 吟 诗 人
 trp_tavern_minstrel_4_pl|诗 人 
 trp_tavern_minstrel_5|游 牧 诗 人 
 trp_tavern_minstrel_5_pl|诗 人 
+trp_tavern_minstrel_6|北 地 诗 人 
+trp_tavern_minstrel_6_pl|诗 人 
+trp_tavern_minstrel_7|吟 游 诗 人 
+trp_tavern_minstrel_7_pl|诗 人 
+trp_tavern_minstrel_8|宫 廷 诗 人 
+trp_tavern_minstrel_8_pl|诗 人 
+trp_tavern_minstrel_9|行 吟 诗 人 
+trp_tavern_minstrel_9_pl|诗 人 
+trp_tavern_minstrel_10|游 牧 诗 人 
+trp_tavern_minstrel_10_pl|诗 人 
 trp_kingdom_heroes_including_player_begin|kingdom heroes including player begin 
 trp_kingdom_heroes_including_player_begin_pl|kingdom heroes including player begin 
 trp_npc1|乌 尔 里 希 
@@ -1303,16 +1313,6 @@ trp_knight_3_19|阔 奕 丹 那 颜
 trp_knight_3_19_pl|阔 奕 丹 
 trp_knight_3_20|锡 巴 黑 那 颜 
 trp_knight_3_20_pl|锡 巴 黑 
-trp_knight_3_21|勃 斥 儿· 巴 特 尔 那 颜 
-trp_knight_3_21_pl|勃 斥 儿· 巴 特 尔 
-trp_knight_3_22|唐 古 特 那 颜 
-trp_knight_3_22_pl|唐 古 特 
-trp_knight_3_23|勃 哈 儿 那 颜 
-trp_knight_3_23_pl|勃 哈 儿 
-trp_knight_3_24|明 客 都 那 颜 
-trp_knight_3_24_pl|明 客 都 
-trp_knight_3_25|古 力 那 颜 
-trp_knight_3_25_pl|古 力 
 trp_knight_4_1|瓦 尔 德 马· 斯 拉 维 奇 地 方 官 
 trp_knight_4_1_pl|瓦 尔 德 马· 斯 拉 维 奇 
 trp_knight_4_2|埃 瑞 克 一 世· 埃 贝 尔 森 公 爵 
@@ -1573,16 +1573,6 @@ trp_knight_11_14|阿 斯 拉 克· 古 斯
 trp_knight_11_14_pl|阿 斯 拉 克· 古 斯 
 trp_knight_11_15|比 亚 尔 尼· 莫 耶 松 
 trp_knight_11_15_pl|比 亚 尔 尼· 莫 耶 松 
-trp_knight_11_16|马 格 努 斯· 奥 拉 夫 松 国 王 
-trp_knight_11_16_pl|马 格 努 斯· 奥 拉 夫 松 
-trp_knight_11_17|杜 格 哈 尔· 麦 克 鲁 艾 德 里 国 王 
-trp_knight_11_17_pl|杜 格 哈 尔· 麦 克 鲁 艾 德 里 
-trp_knight_11_18|埃 尔 林· 阿 尔 夫 松 
-trp_knight_11_18_pl|埃 尔 林· 阿 尔 夫 松 
-trp_knight_11_19|罗 德 林· 莱 普 
-trp_knight_11_19_pl|罗 德 林· 莱 普 
-trp_knight_11_20|鲍 德 尔· 格 斯 
-trp_knight_11_20_pl|鲍 德 尔· 格 斯 
 trp_knight_12_1|苏 格 兰 最 高 司 法 官，阿 兰· 德 沃 德 
 trp_knight_12_1_pl|阿 兰· 德 沃 德 
 trp_knight_12_2|巴 德 诺 赫 领 主，门 蒂 思 伯 爵，瓦 尔 特· 科 明 
@@ -1763,6 +1753,12 @@ trp_knight_18_14|高 斯 弗 雷 德 爵 士
 trp_knight_18_14_pl|高 斯 弗 雷 德 
 trp_knight_18_15|赫 罗 尼 爵 士 
 trp_knight_18_15_pl|赫 罗 尼 
+trp_knight_19_1|Don Amat
+trp_knight_19_1_pl|Amat
+trp_knight_19_2|Don Artal
+trp_knight_19_2_pl|Artal
+trp_knight_19_3|伯 纳 德 爵 士 
+trp_knight_19_3_pl|伯 纳 德 
 trp_knight_20_1|穆 罕 默 德· 法 基 赫 酋 长 
 trp_knight_20_1_pl|穆 罕 默 德· 法 基 赫 
 trp_knight_20_2|尤 素 夫· 纳 斯 尔 酋 长 
@@ -1803,6 +1799,16 @@ trp_knight_20_19|瓦 西 姆 酋 长
 trp_knight_20_19_pl|瓦 西 姆 
 trp_knight_20_20|阿 布· 拉 希 德 酋 长 
 trp_knight_20_20_pl|阿 布· 拉 希 德 
+trp_knight_21_1|Tommaso di Aquino
+trp_knight_21_1_pl|Tommaso di Aquino
+trp_knight_21_2|Teodora di Aquino
+trp_knight_21_2_pl|Teodora di Aquino
+trp_knight_21_3|Giovanni Orsini
+trp_knight_21_3_pl|Giovanni Orsini
+trp_knight_21_4|Matteo Rosso
+trp_knight_21_4_pl|Matteo Rosso
+trp_knight_21_5|Gentile Orsini
+trp_knight_21_5_pl|Gentile Orsini
 trp_knight_22_1|伊 庇 鲁 斯 君 主，米 哈 伊 尔 二 世· 科 穆 宁· 杜 卡 斯 
 trp_knight_22_1_pl|米 哈 伊 尔 二 世· 科 穆 宁· 杜 卡 斯 
 trp_knight_22_2|米 哈 伊 尔· 帕 列 奥 列 斯 将 军 
@@ -1893,6 +1899,8 @@ trp_knight_24_14|阿 皮 切 伯 爵，费 代 里 戈· 马 莱 塔
 trp_knight_24_14_pl|费 代 里 戈· 马 莱 塔 
 trp_knight_24_15|普 罗 文 扎 诺· 萨 尔 瓦 尼  
 trp_knight_24_15_pl|普 罗 文 扎 诺· 萨 尔 瓦 尼 
+trp_knight_24_16|Iacopino Rangoni, Cancelliere de Repubblica Toscana
+trp_knight_24_16_pl|Iacopino Rangoni, Cancelliere de Repubblica Toscana
 trp_knight_25_1|曼 苏 尔· 阿 里 酋 长 
 trp_knight_25_1_pl|曼 苏 尔· 阿 里 
 trp_knight_25_2|赛 义 夫· 库 图 兹 王 储 
@@ -1939,10 +1947,6 @@ trp_knight_25_22|扎 夫 里 酋 长
 trp_knight_25_22_pl|扎 夫 里 
 trp_knight_25_23|朱 尔 班 酋 长 
 trp_knight_25_23_pl|朱 尔 班 
-trp_knight_25_24|朱 马 克 酋 长 
-trp_knight_25_24_pl|朱 马 克 
-trp_knight_25_25|朱 班 酋 长 
-trp_knight_25_25_pl|朱 班 
 trp_knight_26_1|塔 西 的 菲 利 普 
 trp_knight_26_1_pl|塔 西 的 菲 利 普 
 trp_knight_26_2|雅 典 领 主，罗 切 的 古 伊 一 世 
@@ -2093,6 +2097,32 @@ trp_knight_31_14|萨 利 赫 酋 长
 trp_knight_31_14_pl|萨 利 赫 
 trp_knight_31_15|叶 齐 德 酋 长 
 trp_knight_31_15_pl|叶 齐 德 
+trp_knight_32_1|Lorenzo Tiepolo
+trp_knight_32_1_pl|Lorenzo Tiepolo
+trp_knight_32_2|Jacopo Contarini
+trp_knight_32_2_pl|Jacopo Contarini
+trp_knight_32_3|Giovanni Dandolo
+trp_knight_32_3_pl|Giovanni Dandolo
+trp_knight_32_4|Angelo Sanudo
+trp_knight_32_4_pl|Angelo Sanudo
+trp_knight_32_5|Gilberto Sanudo
+trp_knight_32_5_pl|Gilberto Sanudo
+trp_knight_32_6|Claudio Tiepolo
+trp_knight_32_6_pl|Claudio Tiepolo
+trp_knight_32_7|Cassio Sanudo
+trp_knight_32_7_pl|Cassio Sanudo
+trp_knight_32_8|Edoardo Soranzo
+trp_knight_32_8_pl|Edoardo Soranzo
+trp_knight_32_9|Emilio Soranzo
+trp_knight_32_9_pl|Emilio Soranzo
+trp_knight_32_10|Barbarigo Venier
+trp_knight_32_10_pl|Barbarigo Venier
+trp_knight_35_1|Dafydd ap Gruffydd
+trp_knight_35_1_pl|Dafydd ap Gruffydd
+trp_knight_35_2|Maredudd ap Rhys Grug
+trp_knight_35_2_pl|Maredudd ap Rhys Grug
+trp_knight_35_3|Maredudd ap Owain
+trp_knight_35_3_pl|Maredudd ap Owain
 trp_kingdom_2_pretender|道 曼 塔 斯 公 爵 
 trp_kingdom_2_pretender_pl|道 曼 塔 斯 
 trp_kingdom_4_pretender|Danish pretender placeholder
@@ -2105,36 +2135,6 @@ trp_kingdom_13_pretender|“爱 尔 兰 的 正 义 审 判 者”奥 德 利 �
 trp_kingdom_13_pretender_pl|奥 德 利 的 詹 姆 斯 
 trp_knight_1_1_wife|Error - knight 1 1 wife should not appear in game
 trp_knight_1_1_wife_pl|knight 1 1 wife
-trp_kingdom_1_lady_1|安 娜 女 士 
-trp_kingdom_1_lady_1_pl|安 娜 
-trp_kingdom_1_lady_2|内 尔 达 女 士 
-trp_kingdom_1_lady_2_pl|内 尔 达 
-trp_kingdom_1_lady_3|贝 拉 女 士 
-trp_kingdom_1_lady_3_pl|贝 拉 
-trp_kingdom_1_lady_4|伊 莉 娜 女 士
-trp_kingdom_1_lady_4_pl|伊 莉 娜 
-trp_kingdom_l_lady_5|康 丝 坦 斯 女 士 
-trp_kingdom_l_lady_5_pl|康 丝 坦 斯 
-trp_kingdom_1_lady_6|薇 拉 女 士 
-trp_kingdom_1_lady_6_pl|薇 拉 
-trp_kingdom_1_lady_7|奥 贝 丽 娜 女 士 
-trp_kingdom_1_lady_7_pl|奥 贝 丽 娜 
-trp_kingdom_1_lady_8|蒂 贝 尔 女 士 
-trp_kingdom_1_lady_8_pl|蒂 贝 尔 
-trp_kingdom_1_lady_9|玛 嘉 女 士 
-trp_kingdom_1_lady_9_pl|玛 嘉 
-trp_kingdom_1_lady_10|特 朵 莎 女 士 
-trp_kingdom_1_lady_10_pl|特 朵 莎 
-trp_kingdom_1_lady_11|梅 丽 莎 女 士 
-trp_kingdom_1_lady_11_pl|梅 丽 莎 
-trp_kingdom_1_lady_12|伊 琳 娜 女 士 
-trp_kingdom_1_lady_12_pl|伊 琳 娜 
-trp_kingdom_l_lady_13|菲 兰 娜 女 士 
-trp_kingdom_l_lady_13_pl|菲 兰 娜 
-trp_kingdom_1_lady_14|佐 娜 黛 尔 女 士 
-trp_kingdom_1_lady_14_pl|佐 娜 黛 尔 
-trp_kingdom_1_lady_15|博 阿 迪 拉 女 士 
-trp_kingdom_1_lady_15_pl|博 阿 迪 拉 
 trp_kingdom_2_lady_1|奥 德 拉 女 士 
 trp_kingdom_2_lady_1_pl|奥 德 拉 
 trp_kingdom_2_lady_2|奥 什 拉 女 士 
@@ -2206,15 +2206,6 @@ trp_kingdom_3_lady_19_pl|辛 达 儿
 trp_kingdom_3_lady_20|包 劳 儿 玛 女 士 
 trp_kingdom_3_lady_20_pl|包 劳 儿 玛 
 trp_kingdom_3_lady_21|奥 德 采 采 格 女 士 
-trp_kingdom_3_lady_21_pl|奥 德 采 采 格 
-trp_kingdom_3_lady_22|芭 娅 儿 玛 女 士 
-trp_kingdom_3_lady_22_pl|芭 娅 儿 玛 
-trp_kingdom_3_lady_23|巴 图 乐 琪 女 士 
-trp_kingdom_3_lady_23_pl|巴 图 乐 琪 
-trp_kingdom_3_lady_24|奥 云 碧 莱 格 女 士 
-trp_kingdom_3_lady_24_pl|奥 云 碧 莱 格 
-trp_kingdom_3_lady_25|包 劳 蕾 黛 内 女 士 
-trp_kingdom_3_lady_25_pl|包 劳 蕾 黛 内 
 trp_kingdom_4_lady_1|玛 格 丽 特· 德 罗 特 宁 女 士 
 trp_kingdom_4_lady_1_pl|玛 格 丽 特· 德 罗 特 宁 
 trp_kingdom_4_lady_2|米 艾 女 士 
@@ -2475,16 +2466,6 @@ trp_kingdom_11_lady_14|弗 洛 伊 克 女 士
 trp_kingdom_11_lady_14_pl|弗 洛 伊 克 
 trp_kingdom_11_lady_15|嘉 拉 女 士 
 trp_kingdom_11_lady_15_pl|嘉 拉 
-trp_kingdom_11_lady_16|戈 雅 尔 普 女 士 
-trp_kingdom_11_lady_16_pl|戈 雅 尔 普 
-trp_kingdom_11_lady_17|哈 坎 女 士 
-trp_kingdom_11_lady_17_pl|哈 坎 
-trp_kingdom_11_lady_18|哈 拉 女 士 
-trp_kingdom_11_lady_18_pl|哈 拉 
-trp_kingdom_11_lady_19|阿 德 里 亚 娜 女 士 
-trp_kingdom_11_lady_19_pl|阿 德 里 亚 娜 
-trp_kingdom_11_lady_20|阿 弗 里 德 女 士 
-trp_kingdom_11_lady_20_pl|阿 弗 里 德 
 trp_kingdom_12_lady_1|布 鲁 斯 的 克 里 斯 蒂 亚 娜 女 士 
 trp_kingdom_12_lady_1_pl|布 鲁 斯 的 克 里 斯 蒂 亚 娜 
 trp_kingdom_12_lady_2|马 尔 约 莉 女 士 
@@ -2835,16 +2816,6 @@ trp_kingdom_25_lady_19|娜 尔
 trp_kingdom_25_lady_19_pl|娜 尔 
 trp_kingdom_25_lady_20|奈 菲 丝 
 trp_kingdom_25_lady_20_pl|奈 菲 丝 
-trp_kingdom_25_lady_21|奈 吉 丝 
-trp_kingdom_25_lady_21_pl|奈 吉 丝 
-trp_kingdom_25_lady_22|奈 丝 丽 罕 
-trp_kingdom_25_lady_22_pl|奈 丝 丽 罕 
-trp_kingdom_25_lady_23|拉 比 耶 
-trp_kingdom_25_lady_23_pl|拉 比 耶 
-trp_kingdom_25_lady_24|萨 菲 耶 
-trp_kingdom_25_lady_24_pl|萨 菲 耶 
-trp_kingdom_25_lady_25|萨 拉 
-trp_kingdom_25_lady_25_pl|萨 拉 
 trp_kingdom_26_lady_1|吉 尔 裘 德 女 士 
 trp_kingdom_26_lady_1_pl|吉 尔 裘 德 
 trp_kingdom_26_lady_2|戈 蒂 瓦 女 士 
@@ -2995,6 +2966,26 @@ trp_kingdom_31_lady_14|凯 拉 女 士
 trp_kingdom_31_lady_14_pl|凯 拉 
 trp_kingdom_31_lady_15|玛 依 女 士 
 trp_kingdom_31_lady_15_pl|玛 依 
+trp_kingdom_32_lady_1|Signora Abriana
+trp_kingdom_32_lady_1_pl|Abriana
+trp_kingdom_32_lady_2|Signora Agalina
+trp_kingdom_32_lady_2_pl|Agalina
+trp_kingdom_32_lady_3|Signora Ambra
+trp_kingdom_32_lady_3_pl|Ambra
+trp_kingdom_32_lady_4|Signora Amina
+trp_kingdom_32_lady_4_pl|Amina
+trp_kingdom_32_lady_5|Signora Armida
+trp_kingdom_32_lady_5_pl|Armida
+trp_kingdom_32_lady_6|Signora Chola
+trp_kingdom_32_lady_6_pl|Chola
+trp_kingdom_32_lady_7|Signora Citha
+trp_kingdom_32_lady_7_pl|Citha
+trp_kingdom_32_lady_8|Signora Diletta
+trp_kingdom_32_lady_8_pl|Diletta
+trp_kingdom_32_lady_9|Signora Druda
+trp_kingdom_32_lady_9_pl|Druda
+trp_kingdom_32_lady_10|Signora Etheria
+trp_kingdom_32_lady_10_pl|Etheria
 trp_town_1_arena_master|竞 技 场 老 板 
 trp_town_2_arena_master|竞 技 场 老 板 
 trp_town_3_arena_master|竞 技 场 老 板 
@@ -3059,9 +3050,11 @@ trp_town_17_1_arena_master|竞 技 场 老 板
 trp_town_17_2_arena_master|竞 技 场 老 板 
 trp_town_18_1_arena_master|竞 技 场 老 板 
 trp_town_18_2_arena_master|竞 技 场 老 板 
+trp_town_19_1_arena_master|竞 技 场 老 板 
 trp_town_20_1_arena_master|竞 技 场 老 板 
 trp_town_20_2_arena_master|竞 技 场 老 板 
 trp_town_21_1_arena_master|竞 技 场 老 板 
+trp_town_21_2_arena_master|竞 技 场 老 板 
 trp_town_22_1_arena_master|竞 技 场 老 板 
 trp_town_22_2_arena_master|竞 技 场 老 板 
 trp_town_22_3_arena_master|竞 技 场 老 板 
@@ -3091,6 +3084,10 @@ trp_town_30_1_arena_master|竞 技 场 老 板
 trp_town_31_1_arena_master|竞 技 场 老 板 
 trp_town_31_2_arena_master|竞 技 场 老 板 
 trp_town_31_3_arena_master|竞 技 场 老 板 
+trp_town_32_1_arena_master|竞 技 场 老 板 
+trp_town_32_2_arena_master|竞 技 场 老 板 
+trp_town_34_1_arena_master|竞 技 场 老 板 
+trp_town_35_1_arena_master|竞 技 场 老 板 
 trp_town_1_armorer|防 具 商 人 
 trp_town_2_armorer|防 具 商 人 
 trp_town_3_armorer|防 具 商 人 
@@ -3155,9 +3152,11 @@ trp_town_17_1_armorer|防 具 商 人
 trp_town_17_2_armorer|防 具 商 人 
 trp_town_18_1_armorer|防 具 商 人 
 trp_town_18_2_armorer|防 具 商 人 
+trp_town_19_1_armorer|防 具 商 人 
 trp_town_20_1_armorer|防 具 商 人 
 trp_town_20_2_armorer|防 具 商 人 
 trp_town_21_1_armorer|防 具 商 人 
+trp_town_21_2_armorer|防 具 商 人 
 trp_town_22_1_armorer|防 具 商 人 
 trp_town_22_2_armorer|防 具 商 人 
 trp_town_22_3_armorer|防 具 商 人 
@@ -3187,6 +3186,10 @@ trp_town_30_1_armorer|防 具 商 人
 trp_town_31_1_armorer|防 具 商 人 
 trp_town_31_2_armorer|防 具 商 人 
 trp_town_31_3_armorer|防 具 商 人 
+trp_town_32_1_armorer|防 具 商 人 
+trp_town_32_2_armorer|防 具 商 人 
+trp_town_34_1_armorer|防 具 商 人 
+trp_town_35_2_armorer|防 具 商 人 
 trp_town_1_weaponsmith|武 器 商 人 
 trp_town_2_weaponsmith|武 器 商 人 
 trp_town_3_weaponsmith|武 器 商 人 
@@ -3251,9 +3254,11 @@ trp_town_17_1_weaponsmith|武 器 商 人
 trp_town_17_2_weaponsmith|武 器 商 人 
 trp_town_18_1_weaponsmith|武 器 商 人 
 trp_town_18_2_weaponsmith|武 器 商 人 
+trp_town_19_1_weaponsmith|武 器 商 人 
 trp_town_20_1_weaponsmith|武 器 商 人 
 trp_town_20_2_weaponsmith|武 器 商 人 
 trp_town_21_1_weaponsmith|武 器 商 人 
+trp_town_21_2_weaponsmith|武 器 商 人 
 trp_town_22_1_weaponsmith|武 器 商 人 
 trp_town_22_2_weaponsmith|武 器 商 人 
 trp_town_22_3_weaponsmith|武 器 商 人 
@@ -3283,6 +3288,9 @@ trp_town_30_1_weaponsmith|武 器 商 人
 trp_town_31_1_weaponsmith|武 器 商 人 
 trp_town_31_2_weaponsmith|武 器 商 人 
 trp_town_31_3_weaponsmith|武 器 商 人 
+trp_town_32_1_weaponsmith|武 器 商 人 
+trp_town_34_1_weaponsmith|武 器 商 人 
+trp_town_35_1_weaponsmith|武 器 商 人 
 trp_town_1_tavernkeeper|酒 馆 老 板 
 trp_town_2_tavernkeeper|酒 馆 老 板 
 trp_town_3_tavernkeeper|酒 馆 老 板 
@@ -3347,9 +3355,11 @@ trp_town_17_1_tavernkeeper|酒 馆 老 板
 trp_town_17_2_tavernkeeper|酒 馆 老 板 
 trp_town_18_1_tavernkeeper|酒 馆 老 板 
 trp_town_18_2_tavernkeeper|酒 馆 老 板 
+trp_town_19_1_tavernkeeper|酒 馆 老 板 
 trp_town_20_1_tavernkeeper|酒 馆 老 板 
 trp_town_20_2_tavernkeeper|酒 馆 老 板 
 trp_town_21_1_tavernkeeper|酒 馆 老 板 
+trp_town_21_2_tavernkeeper|酒 馆 老 板 
 trp_town_22_1_tavernkeeper|酒 馆 老 板 
 trp_town_22_2_tavernkeeper|酒 馆 老 板 
 trp_town_22_3_tavernkeeper|酒 馆 老 板 
@@ -3379,6 +3389,10 @@ trp_town_30_1_tavernkeeper|酒 馆 老 板
 trp_town_31_1_tavernkeeper|酒 馆 老 板 
 trp_town_31_2_tavernkeeper|酒 馆 老 板 
 trp_town_31_3_tavernkeeper|酒 馆 老 板 
+trp_town_32_1_tavernkeeper|酒 馆 老 板 
+trp_town_32_2_tavernkeeper|酒 馆 老 板 
+trp_town_34_1_tavernkeeper|酒 馆 老 板 
+trp_town_35_1_tavernkeeper|酒 馆 老 板 
 trp_town_1_merchant|杂 货 商 人 
 trp_town_2_merchant|杂 货 商 人 
 trp_town_3_merchant|杂 货 商 人 
@@ -3443,9 +3457,11 @@ trp_town_17_1_merchant|杂 货 商 人
 trp_town_17_2_merchant|杂 货 商 人 
 trp_town_18_1_merchant|杂 货 商 人 
 trp_town_18_2_merchant|杂 货 商 人 
+trp_town_19_1_merchant|杂 货 商 人 
 trp_town_20_1_merchant|杂 货 商 人 
 trp_town_20_2_merchant|杂 货 商 人 
 trp_town_21_1_merchant|杂 货 商 人 
+trp_town_21_2_merchant|杂 货 商 人 
 trp_town_22_1_merchant|杂 货 商 人 
 trp_town_22_2_merchant|杂 货 商 人 
 trp_town_22_3_merchant|杂 货 商 人 
@@ -3475,6 +3491,10 @@ trp_town_30_1_merchant|杂 货 商 人
 trp_town_31_1_merchant|杂 货 商 人 
 trp_town_31_2_merchant|杂 货 商 人 
 trp_town_31_3_merchant|杂 货 商 人 
+trp_town_32_1_merchant|杂 货 商 人 
+trp_town_32_2_merchant|杂 货 商 人 
+trp_town_34_1_merchant|杂 货 商 人 
+trp_town_35_1_merchant|杂 货 商 人 
 trp_salt_mine_merchant|矿 商 
 trp_salt_mine_merchant_pl|矿 商 
 trp_town_1_horse_merchant|马 匹 贩 子 
@@ -3541,9 +3561,11 @@ trp_town_17_1_horse_merchant|马 匹 贩 子
 trp_town_17_2_horse_merchant|马 匹 贩 子 
 trp_town_18_1_horse_merchant|马 匹 贩 子 
 trp_town_18_2_horse_merchant|马 匹 贩 子 
+trp_town_19_1_horse_merchant|马 匹 贩 子 
 trp_town_20_1_horse_merchant|马 匹 贩 子 
 trp_town_20_2_horse_merchant|马 匹 贩 子 
 trp_town_21_1_horse_merchant|马 匹 贩 子 
+trp_town_21_2_horse_merchant|马 匹 贩 子 
 trp_town_22_1_horse_merchant|马 匹 贩 子 
 trp_town_22_2_horse_merchant|马 匹 贩 子 
 trp_town_22_3_horse_merchant|马 匹 贩 子 
@@ -3573,6 +3595,10 @@ trp_town_30_1_horse_merchant|马 匹 贩 子
 trp_town_31_1_horse_merchant|马 匹 贩 子 
 trp_town_31_2_horse_merchant|马 匹 贩 子 
 trp_town_31_3_horse_merchant|马 匹 贩 子 
+trp_town_32_1_horse_merchant|马 匹 贩 子 
+trp_town_32_2_horse_merchant|马 匹 贩 子 
+trp_town_34_1_horse_merchant|马 匹 贩 子 
+trp_town_35_1_horse_merchant|马 匹 贩 子 
 trp_town_1_mayor|行 会 会 长 
 trp_town_2_mayor|行 会 会 长 
 trp_town_3_mayor|行 会 会 长 
@@ -3637,9 +3663,11 @@ trp_town_17_1_mayor|行 会 会 长
 trp_town_17_2_mayor|行 会 会 长 
 trp_town_18_1_mayor|行 会 会 长 
 trp_town_18_2_mayor|行 会 会 长 
+trp_town_19_1_mayor|行 会 会 长 
 trp_town_20_1_mayor|行 会 会 长 
 trp_town_20_2_mayor|行 会 会 长 
 trp_town_21_1_mayor|行 会 会 长 
+trp_town_21_2_mayor|行 会 会 长 
 trp_town_22_1_mayor|行 会 会 长 
 trp_town_22_2_mayor|行 会 会 长 
 trp_town_22_3_mayor|行 会 会 长 
@@ -3669,6 +3697,10 @@ trp_town_30_1_mayor|行 会 会 长
 trp_town_31_1_mayor|行 会 会 长 
 trp_town_31_2_mayor|行 会 会 长 
 trp_town_31_3_mayor|行 会 会 长 
+trp_town_32_1_mayor|行 会 会 长 
+trp_town_32_2_mayor|行 会 会 长 
+trp_town_34_1_mayor|行 会 会 长 
+trp_town_35_1_mayor|行 会 会 长 
 trp_village_1_elder|村 庄 长 者 
 trp_village_2_elder|村 庄 长 者 
 trp_village_3_elder|村 庄 长 者 
@@ -3719,6 +3751,7 @@ trp_village_2_14_elder|村 庄 长 者
 trp_village_2_15_elder|村 庄 长 者 
 trp_village_2_16_elder|村 庄 长 者 
 trp_village_2_x_elder|村 庄 长 者 
+trp_village_2_xx_elder|村 庄 长 者 
 trp_village_3_1_elder|村 庄 长 者 
 trp_village_53_elder|村 庄 长 者 
 trp_village_3_2_elder|村 庄 长 者 
@@ -3925,6 +3958,8 @@ trp_village_18_7_elder|村 庄 长 者
 trp_village_18_8_elder|村 庄 长 者 
 trp_village_18_9_elder|村 庄 长 者 
 trp_village_18_10_elder|村 庄 长 者 
+trp_village_19_1_elder|村 庄 长 者 
+trp_village_19_2_elder|村 庄 长 者 
 trp_village_20_1_elder|村 庄 长 者 
 trp_village_20_2_elder|村 庄 长 者 
 trp_village_20_3_elder|村 庄 长 者 
@@ -3935,6 +3970,8 @@ trp_village_20_7_elder|村 庄 长 者
 trp_village_20_8_elder|村 庄 长 者 
 trp_village_21_1_elder|村 庄 长 者 
 trp_village_21_2_elder|村 庄 长 者 
+trp_village_21_3_elder|村 庄 长 者 
+trp_village_21_4_elder|村 庄 长 者 
 trp_village_22_1_elder|村 庄 长 者 
 trp_village_22_2_elder|村 庄 长 者 
 trp_village_22_3_elder|村 庄 长 者 
@@ -4034,6 +4071,23 @@ trp_village_31_1_elder|村 庄 长 者
 trp_village_31_2_elder|村 庄 长 者 
 trp_village_31_3_elder|村 庄 长 者 
 trp_village_31_4_elder|村 庄 长 者 
+trp_village_31_5_elder|村 庄 长 者 
+trp_village_31_6_elder|村 庄 长 者 
+trp_village_31_7_elder|村 庄 长 者 
+trp_village_32_1_elder|村 庄 长 者 
+trp_village_32_2_elder|村 庄 长 者 
+trp_village_32_3_elder|村 庄 长 者 
+trp_village_32_4_elder|村 庄 长 者 
+trp_village_32_5_elder|村 庄 长 者 
+trp_village_32_6_elder|村 庄 长 者 
+trp_village_33_1_elder|村 庄 长 者 
+trp_village_33_2_elder|村 庄 长 者 
+trp_village_33_3_elder|村 庄 长 者 
+trp_village_33_4_elder|村 庄 长 者 
+trp_village_34_1_elder|村 庄 长 者 
+trp_village_34_2_elder|村 庄 长 者 
+trp_village_34_3_elder|村 庄 长 者 
+trp_village_34_4_elder|村 庄 长 者 
 trp_merchants_end|merchants end
 trp_merchants_end_pl|merchants end
 trp_local_merchant|本 地 商 人 
@@ -4185,6 +4239,7 @@ trp_merchant_kingdom_15|利 沃 夫 商 人
 trp_merchant_kingdom_16|里 斯 本 商 人 
 trp_merchant_kingdom_17|阿 拉 贡 商 人 
 trp_merchant_kingdom_18|卡 斯 提 尔 商 人 
+trp_merchant_kingdom_19|纳 瓦 拉 商 人 
 trp_merchant_kingdom_20|格 拉 纳 达 商 人 
 trp_merchant_kingdom_21|罗 马 商 人 
 trp_merchant_kingdom_22|雅 典 商 人 
@@ -4195,8 +4250,10 @@ trp_merchant_kingdom_26|君 士 坦 丁 商 人
 trp_merchant_kingdom_27|安 卡 拉 商 人 
 trp_merchant_kingdom_28|突 尼 斯 商 人 
 trp_merchant_kingdom_29|贝 尔 格 莱 德 商 人 
-trp_merchant_kingdom_30|特 尔 诺 沃 商 人
-trp_merchant_kingdom_31|非 斯 商 人
+trp_merchant_kingdom_30|特 尔 诺 沃 商 人 
+trp_merchant_kingdom_31|非 斯 商 人 
+trp_merchant_kingdom_32|威 尼 斯 商 人 
+trp_merchant_kingdom_35|威 尔 士 商 人 
 trp_startup_merchants_end|startup merchants end
 trp_startup_merchants_end_pl|startup merchants end
 trp_sea_raider_leader|海 寇 头 领 
@@ -4220,6 +4277,10 @@ trp_dplmc_recruiter|募 兵 官
 trp_dplmc_recruiter_pl|募 兵 官 
 trp_raf_messenger|信 使 
 trp_raf_messenger_pl|信 使 
+trp_manor_master|庄 园 管 家 
+trp_manor_master_pl|庄 园 管 家 
+trp_whore|妓 女 
+trp_whore_pl|妓 女 
 trp_pope|教 宗 历 山 四 世 
 trp_pope_pl|历 山 四 世 
 trp_temp_lord|本 地 村 庄 的 脑 残 童 鞋 
