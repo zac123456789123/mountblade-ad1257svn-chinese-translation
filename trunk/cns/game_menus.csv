@@ -133,6 +133,7 @@ mno_s0|{s0}
 menu_pre_join|你 遇 到 {s2}正 在 攻 击 {s1}， 你 决 定… … 
 mno_pre_join_help_attackers|对 {s2}施 以 援 手。 
 mno_pre_join_help_defenders|对 {s1}施 以 援 手。 
+mno_pre_join_help_freelancer|与 指 挥 官 一 同 加 入 战 斗， 对 {s0}施 以 援 手。 
 mno_pre_join_leave|不 卷 入 纷 争。 
 menu_join_battle|你 决 定 帮 助 {s2}对 抗 {s1}， 你 将 有 {reg10}名 士 兵 参 加 战 斗 对 抗 {reg11}个 敌 人。 
 mno_join_attack|攻 入 敌 阵！ 
@@ -238,6 +239,7 @@ mno_village_attack_bandits|进 攻 强 盗。
 mno_village_wait|在 这 里 待 一 会 儿。 
 mno_dplmc_village_counter_insurgency|对 抗 暴 动。 
 mno_dplmc_village_negotiate|开 始 谈 判。 
+mno_village_spawn_manor|在 当 地 的 庄 园 投 资。 
 mno_collect_taxes_qst|为 {s1}{reg5? 继 续 征 税:征 税}。 
 mno_train_peasants_against_bandits_qst|训 练 这 些 农 民。 
 mno_village_hostile_action|做 一 些 带 有 敌 意 的 事 情。 
@@ -302,6 +304,7 @@ mno_town_merchant|与 商 人 交 谈。
 mno_town_merchant_door|进 入 商 店。 
 mno_town_arena|进 入 竞 技 场。 
 mno_town_arena_door|进 入 竞 技 场。 
+mno_town_spawn_manor|在 当 地 的 庄 园 投 资。 
 mno_town_dungeon|永 无 可 能： 进 入 地 牢。 
 mno_town_dungeon_door|地 牢 大 门。 
 mno_castle_inspect|视 察 城 堡。 
@@ -644,11 +647,32 @@ mno_Yes|对， 就 这 样 做。
 menu_pagan_stronghold|你 进 入 密 林， 发 现 了 一 个 要 塞 据 点， 它 属 于 {s21}。 
 mno_pagan_stronghold_attack|攻 打 要 塞！ 
 mno_pagan_stronghold_leave|离 开。 
+menu_manor_center|你 偶 尔 发 现 了 一 个 小 定 居 地， 它 属 于 {s21}。 
+mno_manor_walk|在 定 居 地 中 心 逛 逛。 
+mno_manor_improve|改 进 这 个 定 居 地。 
+mno_manor_leave|离 开。 
+menu_manor_improve_menu|你 想 把 你 的 {s0}改 建 成 {s1}么？ 这 会 增 加 它 的 产 量， 同 时 也 会 花 去 你 {reg0}
+mno_manor_improve_menu_accept|是 的。 
+mno_manor_improve_menu_refuse|不 了。 
+menu_center_spawn_manor|你 想 要 投 资 哪 种 建 筑？ 
+mno_center_spawn_manor_farm|投 资 一 名 富 有 的 农 民。 花 费： {reg0}
+mno_center_spawn_manor_linen|投 资 一 座 亚 麻 作 坊。 花 费： {reg0}
+mno_center_spawn_manor_salt|投 资 城 镇 的 一 个 盐 商。 花 费： {reg0}
+mno_center_spawn_manor_furs|投 资 城 镇 的 一 名 猎 人。 花 费： {reg0}
+mno_center_spawn_manor_iron|投 资 城 镇 的 一 个 铁 商。 花 费： {reg0}
+mno_center_spawn_manor_silk|投 资 一 名 丝 绸 商 人。 花 费： {reg0}
+mno_center_spawn_manor_weapon|投 资 村 庄 的 一 名 武 器 工 匠。 花 费： {reg0}
+mno_center_spawn_manor_armor|投 资 村 庄 的 一 名 护 甲 工 匠。 花 费： {reg0}
+mno_center_spawn_manor_fletchery|投 资 村 庄 的 一 名 制 箭 工 匠。 花 费： {reg0}
+mno_center_spawn_manor_breeder|投 资 村 庄 的 一 名 养 马 人。 花 费： {reg0}
+mno_center_spawn_manor_leave|离 开。 
 menu_world_map_soldier|战 士， 你 想 做 什 么？
 mno_join_commander_battle|跟 随 指 挥 官 加 入 战 斗。 
+mno_enter_town|进 入 镇 守 的 城 镇。 
 mno_commander|请 求 会 见 指 挥 官。 
 mno_revolt|反 叛！ 
 mno_desert|偷 偷 逃 离 军 队。（保 留 装 备 但 会 降 低 友 好 关 系）
+mno_report|指 挥 官 的 报 告 
 mno_return_to_duty|回 到 战 斗 岗 位。 
 menu_commander_aud|你 的 请 求 被 传 达 到 了 指 挥 官 的 营 帐 里， 不 久， {s6}从 营 帐 里 出 来 了 并 和 你 会 面。 
 mno_reject_talk_lord|不， 不 用 了。 
@@ -664,6 +688,6 @@ mno_reject_desert|不， 我 忠 于 我 的 指 挥 官。
 menu_desert|在 部 队 里 你 有 一 些 好 友。 他 们 可 能 会 跟 随 你。 
 mno_desert_party|尝 试 劝 说 他 们 跟 随 你。 
 mno_desert_alone|不， 单 独 行 动 可 能 更 好。 
-menu_upgrade_path|在 认 识 到 你 的 卓 越 贡 献 后， 你 获 得 了 晋 升。 
+menu_upgrade_path|你 的 卓 越 贡 献 被 认 可 了， 你 获 得 了 晋 升。 
 mno_upgrade_path_1|{s66}
 mno_upgrade_path_2|{s67}

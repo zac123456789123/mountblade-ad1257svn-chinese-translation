@@ -18,7 +18,7 @@ p_town_3_4|Chernigov
 p_town_4_1|Lund
 p_town_4_2|Roarskeldae
 p_town_4_3|Reval
-p_town_4_4|Viborg
+p_town_4_4|Wybærgh
 p_town_6_1|Nürnberg
 p_town_6_2|Köln
 p_town_6_3|Frankfurt
@@ -63,9 +63,11 @@ p_town_17_1|Barcelona
 p_town_17_2|Valencia
 p_town_18_1|Toledo
 p_town_18_2|Sevilla 
+p_town_19_1|Pamplona
 p_town_20_1|Granada
-p_town_20_2|Ronda
+p_town_20_2|Málaga
 p_town_21_1|Rome
+p_town_21_2|Ancona
 p_town_22_1|Nicaea
 p_town_22_2|Smyrna
 p_town_22_3|Chonai
@@ -77,6 +79,7 @@ p_town_23_4|Antioch
 p_town_23_5|Nicosia
 p_town_24_1|Palermo
 p_town_24_2|Napoli
+p_town_24_3|Pisa
 p_town_25_1|Cairo
 p_town_25_2|Alexandria
 p_town_25_3|Damietta
@@ -95,6 +98,9 @@ p_town_30_2|Philippopolis
 p_town_31_1|Fes
 p_town_31_2|Marakesh
 p_town_31_3|Oran
+p_town_32_1|Venice
+p_town_32_2|Candia
+p_town_35_1|Aberffraw
 p_castle_1|Gniezno
 p_castle_2|Sandomierz
 p_castle_3|Głogów
@@ -131,7 +137,7 @@ p_castle_4_1|Æggersburgh
 p_castle_4_2|Árós
 p_castle_4_3|Ripærhús
 p_castle_4_4|Slæswich
-p_castle_4_5|Swineburgh
+p_castle_4_5|Swinaburgh
 p_castle_4_6|Kalundæburgh
 p_castle_4_7|Helsingiæburgh
 p_castle_4_8|Varbiargh
@@ -193,7 +199,7 @@ p_castle_13_2|Tullyhogue Fort
 p_castle_13_3|Blarney Castle
 p_castle_13_4|Carrickabraghey Castle
 p_castle_14_1|Kalmarnir
-p_castle_14_2|Stockhólmr
+p_castle_14_2|Stokholm
 p_castle_14_3|Scara
 p_castle_14_4|Visingsey 
 p_castle_14_5|Stægeburgh
@@ -225,6 +231,9 @@ p_castle_20_1|Qasbat Tarifa
 p_castle_20_2|Qasbat Antakira
 p_castle_20_3|Qasbat Wadi-Aci
 p_castle_20_4|Qasbat Al-Mariyya
+p_castle_20_5|Al-Qal'a
+p_castle_20_6|Shalubānya
+p_castle_20_7|Baza
 p_castle_22_1|Myra
 p_castle_22_2|Attalia
 p_castle_22_3|Sozopolis
@@ -238,6 +247,8 @@ p_castle_24_1|Reggio
 p_castle_24_2|Bari
 p_castle_24_3|Melfi
 p_castle_24_4|Taranto
+p_castle_24_5|Ajaccio
+p_castle_24_6|Castel Sardo
 p_castle_25_1|Mansoura
 p_castle_25_2|Al`Arish
 p_castle_25_3|Ismailiya
@@ -268,6 +279,12 @@ p_castle_30_2|Nesebar
 p_castle_30_3|Vidin
 p_castle_31_1|Tangier
 p_castle_31_2|Algiers
+p_castle_32_1|Pula
+p_castle_32_2|Spalato
+p_castle_33_1|Varnupiai
+p_castle_33_2|Otholicia
+p_castle_33_4|Airitė
+p_castle_33_3|Šiauliai
 p_castle_player|Player Castle
 p_village_1|Wieleń
 p_village_2|Miedzyrzecz
@@ -329,14 +346,14 @@ p_village_3_8|Novgorod Seversky
 p_village_3_9|Brovary
 p_village_3_10|Dermidov
 p_village_3_11|Murom
-p_village_3_12|Mongol Encampment I
-p_village_3_13|Mongol Encampment II
-p_village_3_14|Mongol Encampment III
-p_village_3_15|Mongol Encampment IV
+p_village_3_12|Ordu Chagan-Shuvuu
+p_village_3_13|Ordu Alagh-Chinua
+p_village_3_14|Ordu Oyugon-Unegen
+p_village_3_15|Ordu Jagun-Checheg
 p_village_4_1|Slangæþorp
-p_village_4_2|Køpmannæhofn
+p_village_4_2|Køpmannæhafn
 p_village_4_3|Þræleburgh
-p_village_4_4|Borgundærhólmr
+p_village_4_4|Hammershus
 p_village_4_5|Narvia
 p_village_4_6|Wesenbærgh
 p_village_4_7|Randrøsæ
@@ -397,7 +414,7 @@ p_village_8_3|Peski
 p_village_8_4|Ivanovskoye
 p_village_8_5|Yurevo
 p_village_8_6|Lyubech
-p_village_9_1|Gwynedd
+p_village_9_1|Lincoln
 p_village_9_2|Powys
 p_village_9_3|Guildford
 p_village_9_4|Patcham
@@ -523,16 +540,23 @@ p_village_18_7|Zamora
 p_village_18_8|Soria
 p_village_18_9|Jaén
 p_village_18_10|Cáceres
+p_village_19_1|Tudela
+p_village_19_2|San Sebastian
 p_village_20_1|Al-Jazira
 p_village_20_2|Marbilla
-p_village_20_3|Málaga
-p_village_20_4|Al-Qal'a
-p_village_20_5|Baza
-p_village_20_6|Berchat
-p_village_20_7|Hisn Al-Lawza
-p_village_20_8|Al-Boks
+p_village_20_3|Ronda
+p_village_20_4|Lawsa
+p_village_20_5|Berchat
+p_village_20_6|Hisn Al-Lawza
+p_village_20_7|Al-Boks
+p_village_20_8|Al-Mediniya
+p_village_20_9|Al-Lancharon
+p_village_20_10|Qanalis
+p_village_20_11|Qullar
 p_village_21_1|Nettuno
 p_village_21_2|Tivoli
+p_village_21_3|Spoleto
+p_village_21_4|Ravenna
 p_village_22_1|Chalcedon
 p_village_22_2|Nikomedia
 p_village_22_3|Sardis
@@ -568,6 +592,10 @@ p_village_24_5|Capua
 p_village_24_6|Brindisi
 p_village_24_7|Palerno
 p_village_24_8|Trani
+p_village_24_9|Marrana
+p_village_24_10|Galtelli
+p_village_24_11|Florence
+p_village_24_12|Sona
 p_village_25_1|Minuf
 p_village_25_2|Ashmun
 p_village_25_3|Wadi Miftah
@@ -619,13 +647,13 @@ p_village_29_3|Gacko
 p_village_29_4|Preoce
 p_village_29_5|Srbovac
 p_village_29_6|Kobilja Glava
-p_village_30_1|Tryavna
+p_village_30_1|Sredets
 p_village_30_2|Cherven
 p_village_30_3|Constanta
 p_village_30_4|Varna
-p_village_30_5|Belogradchik
-p_village_30_6|Preslav
-p_village_30_7|Arsus
+p_village_30_5|Boruy
+p_village_30_6|Ovech
+p_village_30_7|Lovech
 p_village_31_1|Melilla
 p_village_31_2|Rabat
 p_village_31_3|Tenes
@@ -634,6 +662,18 @@ p_village_31_5|Safi
 p_village_31_6|Ourzazate
 p_village_31_7|Tetuan
 p_village_31_8|Corso
+p_village_32_1|Caorle
+p_village_32_2|Chioggia
+p_village_32_3|Sita
+p_village_32_4|Canea
+p_village_32_5|Poreč
+p_village_32_6|Ragusa
+p_village_33_1|Piliakalniai
+p_village_33_2|Cameniswika
+p_village_33_3|Laukuva
+p_village_33_4|Ciecerė
+p_village_35_1|Dolbadarn
+p_village_35_2|Dolwyddelan
 p_village_player|Crap
 p_salt_mine|Salt Mine
 p_four_ways_inn|Four Ways Inn
@@ -643,22 +683,6 @@ p_dhorak_keep|Dhorak Keep
 p_training_ground|Training Ground
 p_training_ground_1|Training Field I
 p_training_ground_2|Training Field II
-p_training_ground_3|Training Field III
-p_training_ground_4|Training Field IV
-p_training_ground_5|Training Field V
-p_training_ground_6|Training Field VI
-p_training_ground_7|Training Field VII
-p_training_ground_8|Training Field VIII
-p_training_ground_9|Training Field IX
-p_training_ground_10|Training Field X
-p_training_ground_11|Training Field XI
-p_training_ground_12|Training Field XII
-p_training_ground_13|Training Field XIII
-p_training_ground_14|Training Field XIV
-p_training_ground_15|Training Field XV
-p_training_ground_16|Training Field XVI
-p_training_ground_17|Training Field XVII
-p_training_ground_18|Training Field XVIII
 p_ship_1|1
 p_ship_2|2
 p_ship_3|3
@@ -776,4 +800,3 @@ p_desert_bandit_spawn_point_2|the desert 2
 p_desert_bandit_spawn_point_3|the desert 3
 p_desert_bandit_spawn_point_4|the desert 4
 p_desert_bandit_spawn_point_5|the desert 5
-p_pagan_stronghold|Prussian Stronghold

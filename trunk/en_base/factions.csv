@@ -24,24 +24,30 @@ fac_kingdom_15|Regnum Galiciae et Lodomeriae
 fac_kingdom_16|Regnum Portugaliae
 fac_kingdom_17|Corona Aragonae
 fac_kingdom_18|Regnum Castiliae
-fac_kingdom_20|Imarat Gharnàtah
+fac_kingdom_19|Regnum Navarrae
+fac_kingdom_20|Imarat al Nasri
+fac_papacy|Patrimonium Sancti Petri
 fac_kingdom_22|Basileia ton Rhomaion
 fac_kingdom_23|Regnum Hierosolymitanum
 fac_kingdom_24|Regnum Siciliae
 fac_kingdom_25|Sultanat al Mamalik
 fac_kingdom_26|Imperium Romaniae
 fac_kingdom_27|Ilkhanate
-fac_kingdom_28|Saltanat al Hafsid
+fac_kingdom_28|Sultanat al Hafsi
 fac_kingdom_29|Velika Zupanija Raska
 fac_kingdom_30|Balgarsko Tsarstvo
-fac_kingdom_31|Saltanat al Marinid
+fac_kingdom_31|Sultanat al Marini
+fac_kingdom_32|Repubblica di Venezia
+fac_kingdom_33|Pruteni
+fac_kingdom_b_33|Zemaiciai
+fac_kingdom_c_33|Jotvingiai
+fac_kingdom_d_33|Kursi
+fac_kingdom_35|Cymry
 fac_manhunters|Captivos Proscriptorum
 fac_deserters|Deserti
 fac_mountain_bandits|Montes Sicarii
 fac_forest_bandits|Silvae Sicarii
-fac_curonians|Kursi
-fac_samogitians|Þemaiciai
-fac_prussians|Pruteni
-fac_yotvingians|Jotvingiai
-fac_welsh|Cymry
-fac_papacy|Patrimonium Sancti Petri
+fac_guelphs|guelphs 
+fac_ghibellines|ghibellines
+fac_crusade|Crusaders
+fac_end_minor_faction|Village Idiots

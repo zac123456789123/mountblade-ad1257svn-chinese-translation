@@ -2055,6 +2055,13 @@ str_kingdom_28_adjective|柏 柏 尔 的
 str_kingdom_29_adjective|塞 尔 维 亚 的 
 str_kingdom_30_adjective|巴 尔 干 的 
 str_kingdom_31_adjective|摩 洛 哥 的 
+str_kingdom_32_adjective|威 尼 斯 的 
+str_kingdom_33_adjective|普 鲁 士 的 
+str_kingdom_b_33_adjective|萨 莫 吉 希 亚 的 
+str_kingdom_c_33_adjective|索 多 维 亚 的 
+str_kingdom_d_33_adjective|库 洛 年 的 
+str_kingdom_34_adjective|托 斯 卡 纳 的 
+str_kingdom_35_adjective|威 尔 士 的 
 str_credits_1|Mount&Blade:Warband Copyright 2008-2010 Taleworlds Entertainment
 str_credits_2|Game design:^Armagan Yavuz^Steve Negus^Cem Cimenbicer 
 str_credits_3|Programming:^Armagan Yavuz^Cem Cimenbicer^Serdar Kocdemir^Ozan Gumus
@@ -2439,6 +2446,10 @@ str_hafsid|摩 尔 人
 str_serbian|塞 尔 维 亚 人 
 str_bulgarian|巴 尔 干 人 
 str_marinid|摩 洛 哥 人 
+str_venice|威 尼 斯 人 
+str_balt|巴 尔 干 人 
+str_tuscan|托 斯 卡 纳 人 
+str_wales|威 尔 士 人 
 str_we_have_heard_that_travellers_heading_to_s40_were_attacked_on_the_road_s46_by_s39|我 们 已 经 得 知 前 往 {s40}的 旅 行 者 在 途 经 {s46}的 路 上 被 {s39}袭 击 了 
 str_we_have_heard_that_travellers_coming_from_s40_were_attacked_on_the_road_s46_by_s39|我 们 已 经 得 知 来 自 {s40}的 旅 行 者 在 途 经 {s46}的 路 上 被 {s39}袭 击 了 
 str_travellers_coming_from_s40_traded_here_s46|来 自 {s40}的 旅 行 者 在 {s46}这 儿 做 生 意 
@@ -3142,7 +3153,9 @@ str_faction_title_male_15|大 贵 族 {s0}
 str_faction_title_male_16|{s0}爵 士 
 str_faction_title_male_17|{s0}爵 士 
 str_faction_title_male_18|{s0}爵 士 
+str_faction_title_male_19|{s0}爵 士 
 str_faction_title_male_20|{s0}酋 长 
+str_faction_title_male_21|领 主 {s0}
 str_faction_title_male_22|{s0}将 军 
 str_faction_title_male_23|领 主 {s0}
 str_faction_title_male_24|领 主 {s0}
@@ -3153,6 +3166,12 @@ str_faction_title_male_28|{s0}酋 长
 str_faction_title_male_29|{s0}茹 潘 
 str_faction_title_male_30|{s0}波 耶 
 str_faction_title_male_31|{s0}酋 长 
+str_faction_title_male_32|{s0}爵 士 
+str_faction_title_male_33|{s0}牧 师 
+str_faction_title_male_34|{s0}牧 师 
+str_faction_title_male_35|{s0}牧 师 
+str_faction_title_male_39|{s0}牧 师 
+str_faction_title_male_40|领 主 {s0}
 str_faction_title_male_crusader|十 字 军 战 士 {s0}
 str_faction_title_male_jihadist|圣 战 者 {s0}
 str_faction_title_female_player|{s0}女 士 
@@ -3187,6 +3206,15 @@ str_faction_title_female_28|{s0}酋 长 夫 人
 str_faction_title_female_29|{s0}女 士 
 str_faction_title_female_30|{s0}女 士 
 str_faction_title_female_31|{s0}酋 长 夫 人 
+str_faction_title_female_32|{s0}女 士 
+str_faction_title_female_33|{s0}女 士 
+str_faction_title_female_34|{s0}女 士 
+str_faction_title_female_35|{s0}女 士 
+str_faction_title_female_36|{s0}女 士 
+str_faction_title_female_37|{s0}女 士 
+str_faction_title_female_38|{s0}女 士 
+str_faction_title_female_39|{s0}女 士 
+str_faction_title_female_40|{s0}女 士 
 str_faction_title_female_crusader|十 字 军 战 士 {s0}
 str_faction_title_female_jihadist|圣 战 者 {s0}
 str_name_kingdom_text|你 的 王 国 的 名 字？ 
@@ -3694,3 +3722,4 @@ str_your_kingdoms_religion_is_s11|你 的 王 国 的 国 教 是 {s1}
 str_religion_pagan_mongol|蒙 古 异 教 徒 
 str_horse_archers|骑 射 手 
 str_spearmen|长 矛 手 
+str_revision|0.96 Beta
