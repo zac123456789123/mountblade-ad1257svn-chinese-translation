@@ -2055,6 +2055,13 @@ str_kingdom_28_adjective|Berber
 str_kingdom_29_adjective|Serbian
 str_kingdom_30_adjective|Bulgarian
 str_kingdom_31_adjective|Moroccan
+str_kingdom_32_adjective|Venecian
+str_kingdom_33_adjective|Prussian
+str_kingdom_b_33_adjective|Samogitian
+str_kingdom_c_33_adjective|Jotvingian
+str_kingdom_d_33_adjective|Curonian
+str_kingdom_34_adjective|Tuscan
+str_kingdom_35_adjective|Welsh
 str_credits_1|Mount&Blade: Warband Copyright 2008-2010 Taleworlds Entertainment
 str_credits_2|Game design:^Armagan Yavuz^Steve Negus^Cem Cimenbicer
 str_credits_3|Programming:^Armagan Yavuz^Cem Cimenbicer^Serdar Kocdemir^Ozan Gumus
@@ -2439,6 +2446,10 @@ str_hafsid|Moors
 str_serbian|Serbs
 str_bulgarian|Bulgars
 str_marinid|Moroccans
+str_venice|Venecians
+str_balt|Balts
+str_tuscan|Tuscans
+str_wales|Welsh
 str_we_have_heard_that_travellers_heading_to_s40_were_attacked_on_the_road_s46_by_s39|We have heard that travellers heading to {s40} were attacked on the road {s46} by {s39}
 str_we_have_heard_that_travellers_coming_from_s40_were_attacked_on_the_road_s46_by_s39|We have heard that travellers coming from {s40} were attacked on the road {s46} by {s39}
 str_travellers_coming_from_s40_traded_here_s46|Travellers coming from {s40} traded here {s46}
@@ -3142,7 +3153,9 @@ str_faction_title_male_15|Boyarin {s0}
 str_faction_title_male_16|Don {s0}
 str_faction_title_male_17|Don {s0}
 str_faction_title_male_18|Don {s0}
+str_faction_title_male_19|don {s0}
 str_faction_title_male_20|Emir {s0}
+str_faction_title_male_21|Lord {s0}
 str_faction_title_male_22|Strategos {s0}
 str_faction_title_male_23|Lord {s0}
 str_faction_title_male_24|Lord {s0}
@@ -3153,6 +3166,12 @@ str_faction_title_male_28|Emir {s0}
 str_faction_title_male_29|Zhupan {s0}
 str_faction_title_male_30|Boyar {s0}
 str_faction_title_male_31|Emir {s0}
+str_faction_title_male_32|Don {s0}
+str_faction_title_male_33|Kunegikis {s0}
+str_faction_title_male_34|Kunigas {s0}
+str_faction_title_male_35|Kunigas {s0}
+str_faction_title_male_39|Kongis {s0}
+str_faction_title_male_40|Lord {s0}
 str_faction_title_male_crusader|Crusader {s0}
 str_faction_title_male_jihadist|Mujihadeen {s0}
 str_faction_title_female_player|Lady {s0}
@@ -3187,6 +3206,15 @@ str_faction_title_female_28|Amira {s0}
 str_faction_title_female_29|Lady {s0}
 str_faction_title_female_30|Lady {s0}
 str_faction_title_female_31|Amira {s0}
+str_faction_title_female_32|Lady {s0}
+str_faction_title_female_33|Lady {s0}
+str_faction_title_female_34|Lady {s0}
+str_faction_title_female_35|Lady {s0}
+str_faction_title_female_36|Lady {s0}
+str_faction_title_female_37|Lady {s0}
+str_faction_title_female_38|Lady {s0}
+str_faction_title_female_39|Lady {s0}
+str_faction_title_female_40|Lady {s0}
 str_faction_title_female_crusader|Crusader {s0}
 str_faction_title_female_jihadist|Mujihadeen {s0}
 str_name_kingdom_text|What will be the name of your kingdom?
@@ -3694,4 +3722,4 @@ str_your_kingdoms_religion_is_s11|Your kingdom's religion is {s11}
 str_religion_pagan_mongol|Paganism (Mongol)
 str_horse_archers|Horse Archers
 str_spearmen|Spearmen
-str_revision|$Revision$
+str_revision|0.96 Beta
