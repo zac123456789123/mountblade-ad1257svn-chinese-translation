@@ -1,14 +1,14 @@
-ï»¿@echo off
+@echo off
 
 rem Judge the current language version
 if exist ..\..\Textures\font.dds.en ( goto cn2en ) else ( goto en2cn )
 
 :cn2en
 echo Now it is Chinese version, change it? Close the window to exit.
-echo ç›®å‰å­—é«”ç‚ºä¸­æ–‡å­—é«”ï¼Œç¢ºèªåˆ‡æ›è«‹æŒ‰ä»»æ„éµï¼Œå–æ¶ˆè«‹é—œé–‰æœ¬çª—å£ã€‚
+echo Ä¿Ç°×ÖówéÖĞÎÄ×Öów£¬´_ÕJÇĞ“QÕˆ°´ÈÎÒâæI£¬È¡ÏûÕˆêPé]±¾´°¿Ú¡£
 pause
 echo Ready to convert Chinese fonts back to English
-echo æº–å‚™å°‡ä¸­æ–‡å­—é«”æ›¿æ›å›è‹±æ–‡å­—é«”
+echo œÊ‚äŒ¢ÖĞÎÄ×ÖówÌæ“Q»ØÓ¢ÎÄ×Öów
 echo --------------------------------------
 @echo on
 rename ..\..\Data\font_data.xml.en font_data.xml
@@ -18,10 +18,10 @@ goto eof
 
 :en2cn
 echo Now it is English version, change it? Close the window to exit.
-echo ç›®å‰å­—é«”ç‚ºè‹±æ–‡å­—é«”ï¼Œç¢ºèªåˆ‡æ›è«‹æŒ‰ä»»æ„éµï¼Œå–æ¶ˆè«‹é—œé–‰æœ¬çª—å£ã€‚
+echo Ä¿Ç°×ÖówéÓ¢ÎÄ×Öów£¬´_ÕJÇĞ“QÕˆ°´ÈÎÒâæI£¬È¡ÏûÕˆêPé]±¾´°¿Ú¡£
 pause
 echo Ready to convert English fonts back to Chinese
-echo æº–å‚™å°‡è‹±æ–‡å­—é«”æ›¿æ›ç‚ºä¸­æ–‡å­—é«”
+echo œÊ‚äŒ¢Ó¢ÎÄ×ÖówÌæ“QéÖĞÎÄ×Öów
 echo --------------------------------------
 @echo on
 rename ..\..\Data\font_data.xml font_data.xml.en
@@ -33,9 +33,9 @@ goto eof
 @echo.
 echo --------------------------------------
 echo Conversion done successfully, Have joy! Press any key to continue.
-echo æ›¿æ›æˆåŠŸï¼Œé£›é¦¬ç¥æ‚¨éŠæˆ²æ„‰å¿«ï¼è«‹é»æ“Šä»»æ„éµç¹¼çºŒã€‚
+echo Ìæ“Q³É¹¦£¬ïwñR×£Äúß[‘òÓä¿ì£¡Õˆüc“ôÈÎÒâæIÀ^Àm¡£
 @echo.
-echo æ›´å¤šéŠæˆ²è©³æƒ…è«‹è¨ªå•é¨é¦¬èˆ‡ç æ®ºä¸­æ–‡ç«™-AD1257å°ˆå€
+echo ¸ü¶àß[‘òÔ”ÇéÕˆÔL†–òTñRÅc¿³š¢ÖĞÎÄÕ¾-AD1257Œ£…^
 echo http://bbs.mountblade.com.cn/forumdisplay.php?fid=92
 @echo.
 pause
