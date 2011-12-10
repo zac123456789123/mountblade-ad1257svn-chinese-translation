@@ -3153,7 +3153,7 @@ str_faction_title_male_15|Boyarin {s0}
 str_faction_title_male_16|Don {s0}
 str_faction_title_male_17|Don {s0}
 str_faction_title_male_18|Don {s0}
-str_faction_title_male_19|don {s0}
+str_faction_title_male_19|Don {s0}
 str_faction_title_male_20|Emir {s0}
 str_faction_title_male_21|Lord {s0}
 str_faction_title_male_22|Strategos {s0}
@@ -3723,3 +3723,54 @@ str_religion_pagan_mongol|Paganism (Mongol)
 str_horse_archers|Horse Archers
 str_spearmen|Spearmen
 str_revision|0.96 Beta
+str_manor_marketplace|Marketplace
+str_manor_tavern|Tavern
+str_manor_whorehouse|Brothel
+str_manor_monastery|Monastery
+str_manor_well|Well
+str_manor_grainfarm|Grain Farm
+str_manor_livestock|Livestock Farm
+str_manor_fruitfarm|Fruit Farm
+str_manor_fisher|Fishery
+str_manor_bakery|Bakery
+str_manor_winery|Winery
+str_manor_brewery|Brewery
+str_manor_potter|Pottery
+str_manor_blacksmith|Blacksmith
+str_manor_butcher|Butchery
+str_manor_oilmaker|Oil Press
+str_manor_linenworkshop|Linen workshop
+str_manor_woolworkshop|Wool workshop
+str_manor_tannery|Tannery
+str_manor_prison|Prison
+str_manor_armorsmith|Armor smithy
+str_manor_weaponsmith|Weapon smithy
+str_manor_fletcher|Fletchery
+str_manor_breeder|Stables
+str_manor_walls|Walls
+str_manor_marketplace_description|TODO: Marketplace
+str_manor_tavern_description|TODO:Tavern
+str_manor_whorehouse_description|TODO:Brothel
+str_manor_monastery_description|TODO:Monastery
+str_manor_well_description|TODO:Well
+str_manor_grainfarm_description|TODO:Grain Farm
+str_manor_livestock_description|TODO:Livestock Farm
+str_manor_fruitfarm_description|TODO:Fruit Farm
+str_manor_fisher_description|TODO:Fisher
+str_manor_bakery_description|TODO:Bakery
+str_manor_winery_description|TODO:Winery
+str_manor_brewery_description|TODO:Brewery
+str_manor_potter_description|TODO:Pottery
+str_manor_blacksmith_description|TODO:Blacksmith
+str_manor_butcher_description|TODO:Butchery
+str_manor_oilmaker_description|TODO:Oil Press
+str_manor_linenworkshop_description|TODO:Linen workshop
+str_manor_woolworkshop_description|TODO:Wool workshop
+str_manor_tannery_description|TODO:Tannery
+str_manor_prison_description|TODO:Prison
+str_manor_armorsmith_description|TODO:Armor smithy
+str_manor_weaponsmith_description|TODO:Weapon smithy
+str_manor_fletcher_description|TODO:Fletchery
+str_manor_breeder_description|TODO:Stables
+str_manor_walls_description|TODO:Walls
+str_manor_gathering_army_explained|Allright sir, however summoning men to arms will not only decrease our folk that pay taxes, but also decrease the settlement propserity as there will not be enough hands working in the field or in the shops. You will also have to pay for there upkeep. That being said, what size of a force do you wish to gather?

@@ -3723,3 +3723,54 @@ str_religion_pagan_mongol|蒙 古 异 教 徒
 str_horse_archers|骑 射 手 
 str_spearmen|长 矛 手 
 str_revision|0.96 Beta
+str_manor_marketplace|市 场 
+str_manor_tavern|酒 馆 
+str_manor_whorehouse|妓 院 
+str_manor_monastery|修 道 院 
+str_manor_well|水 井 
+str_manor_grainfarm|谷 物 农 场 
+str_manor_livestock|养 畜 场 
+str_manor_fruitfarm|果 园 
+str_manor_fisher|渔 场 
+str_manor_bakery|面 包 房 
+str_manor_winery|酿 酒 厂
+str_manor_brewery|啤 酒 厂 
+str_manor_potter|陶 艺 作 坊 
+str_manor_blacksmith|铁 匠 铺 
+str_manor_butcher|屠 夫 
+str_manor_oilmaker|榨 油 作 坊 
+str_manor_linenworkshop|亚 麻 作 坊 
+str_manor_woolworkshop|羊 毛 作 坊 
+str_manor_tannery|制 革 工 坊 
+str_manor_prison|监 狱 
+str_manor_armorsmith|制 甲 工 匠 
+str_manor_weaponsmith|武 器 工 匠 
+str_manor_fletcher|制 箭 工 坊 
+str_manor_breeder|马 厩 
+str_manor_walls|墙 
+str_manor_marketplace_description|TODO: Marketplace
+str_manor_tavern_description|TODO:Tavern
+str_manor_whorehouse_description|TODO:Brothel
+str_manor_monastery_description|TODO:Monastery
+str_manor_well_description|TODO:Well
+str_manor_grainfarm_description|TODO:Grain Farm
+str_manor_livestock_description|TODO:Livestock Farm
+str_manor_fruitfarm_description|TODO:Fruit Farm
+str_manor_fisher_description|TODO:Fisher
+str_manor_bakery_description|TODO:Bakery
+str_manor_winery_description|TODO:Winery
+str_manor_brewery_description|TODO:Brewery
+str_manor_potter_description|TODO:Pottery
+str_manor_blacksmith_description|TODO:Blacksmith
+str_manor_butcher_description|TODO:Butchery
+str_manor_oilmaker_description|TODO:Oil Press
+str_manor_linenworkshop_description|TODO:Linen workshop
+str_manor_woolworkshop_description|TODO:Wool workshop
+str_manor_tannery_description|TODO:Tannery
+str_manor_prison_description|TODO:Prison
+str_manor_armorsmith_description|TODO:Armor smithy
+str_manor_weaponsmith_description|TODO:Weapon smithy
+str_manor_fletcher_description|TODO:Fletchery
+str_manor_breeder_description|TODO:Stables
+str_manor_walls_description|TODO:Walls
+str_manor_gathering_army_explained|没 问 题， 先 生， 不 过 召 集 人 们 武 装 起 来， 不 但 会 减 少 我 们 的 纳 税 人 数 量， 而 且 会 因 为 人 手 不 够 使 得 定 居 点 的 繁 荣 度 下 降。 你 也 需 要 为 他 们 负 担 维 护 费 用。 这 么 说 来， 你 想 要 召 集 多 大 的 一 支 部 队？ 

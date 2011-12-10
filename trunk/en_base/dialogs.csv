@@ -118,25 +118,136 @@ dlga_ramun_ask_about_capturing_7:ramun_pre_talk|Thanks, I'll keep it in mind.
 dlga_ramun_talk:ramun_leave|I'd better be going.
 dlga_ramun_leave:close_window|Remember, any prisoners you've got, bring them to me. I'll pay you good silver for every one.
 dlga_start:close_window.3|I humbly request that your lordship keeps his hands where I can see them.
-dlga_start:manor_master_reply|Welcome to your manor, M'Lord! The peasents are working as hard as they can to meet you're demands and I personaly whip the lazy ones.
-dlga_manor_master_reply:close_window|Excellent! Continue the good work!
+dlga_start:manor_senechal|{Milord/Milady}, Everything is quite in the castle.
+dlga_start:manor_senechal.1|TODO:{Milord/Milady}, we have a problem!.
+dlga_manor_senechal:manor_senechal|How can I serve you today?
+dlga_manor_senechal:manor_build|I'd like to build something.
+dlga_manor_senechal:manor_senechal_taxes|Let’s talk about taxes.
+dlga_manor_senechal:manor_senechal_treasury|I'd like to talk about my treasury
+dlga_manor_senechal:close_window|Excellent! Continue the good work!
+dlga_manor_senechal_treasury:manor_senechal_treasury|Currently there is {reg0} coins in the treasury. Would you like to deposit or take some of it out of the treasury?
+dlga_manor_senechal_treasury:manor_senechal_treasury_action|I want to collect my gold from the treasury
+dlga_manor_senechal_treasury:manor_senechal_treasury_action.1|I want to deposit some gold into my treasury
+dlga_manor_senechal_treasury:manor_senechal|Nevermind.
+dlga_manor_senechal_treasury_action:manor_senechal_treasury_action|Certanly, what sum would you like to {s0}?
+dlga_manor_senechal_treasury_action:manor_senechal_treasury_action_done|10
+dlga_manor_senechal_treasury_action:manor_senechal_treasury_action_done.1|100
+dlga_manor_senechal_treasury_action:manor_senechal_treasury_action_done.2|1000
+dlga_manor_senechal_treasury_action:manor_senechal_treasury_action_done.3|10000
+dlga_manor_senechal_treasury_action:manor_senechal_treasury_action_done.4|100000
+dlga_manor_senechal_treasury_action:manor_senechal_treasury|Nevermind.
+dlga_manor_senechal_treasury_action_done:manor_senechal_treasury|It Shal be done {Milord/Milady}
+dlga_manor_build:manor_build_ask|Off course. Currently at our {s12} we have: {s11}. {s13}. What would you like to build?
+dlga_manor_build_ask:manor_senechal_buidling_cost|Improve housing
+dlga_manor_build_ask:manor_senechal_buidling_cost.1|{s13}
+dlga_manor_build_ask:manor_senechal|Nevermind...
+dlga_manor_senechal_buidling_cost:manor_senechal_buidling_cost|That will cost {reg0} us and we currently have {reg1} in our treasury. {s15}.
+dlga_manor_senechal_buidling_cost:manor_senechal|All right, build it!
+dlga_manor_senechal_buidling_cost:manor_senechal.1|Perhaps later..
+dlga_manor_senechal_taxes:manor_senechal_taxes|Current taxes are {s0} and last week we colected {reg0} gold coins. Would you like to change them?
+dlga_manor_senechal_taxes:manor_senechal_taxes_confirm|Lets dry those smelly peasents! Set them to high!
+dlga_manor_senechal_taxes:manor_senechal_taxes_confirm.1|Lets not overdo with taxes. Set them to Medium.
+dlga_manor_senechal_taxes:manor_senechal_taxes_confirm.2|Let the people breath, set them to Low
+dlga_manor_senechal_taxes:manor_senechal|Nevermind..
+dlga_manor_senechal_taxes_confirm:manor_senechal|{s0}
+dlga_start:manor_storage|{Milord/Milady| {s0}
+dlga_manor_storage:manor_storage|How can I serve you?
+dlga_manor_storage:manor_storage.1|I want to manage my castles storage
+dlga_manor_storage:manor_storage.2|I want to check my tribute storage
+dlga_manor_storage:close_window|Just wanted to make sure that you're not drinking my alchohol reserves again.
+dlga_start:manor_craftsman|{Milord/Milady}, it’s an honor to have you in my {s0}. How can I help you?
+dlga_manor_craftsman:manor_craftsman|How can I assist you further?
+dlga_manor_craftsman:manor_craftsman.1|{s10}
+dlga_manor_craftsman:manor_craftsman_tribute|{s11}
+dlga_manor_craftsman_tribute:manor_craftsman_tribute|{s0}.
+dlga_manor_craftsman_tribute:manor_craftsman_tribute_confirm|{s10}
+dlga_manor_craftsman_tribute:manor_craftsman_tribute_confirm.1|{s11}
+dlga_manor_craftsman_tribute:manor_craftsman|I see.
+dlga_manor_craftsman_tribute_confirm:manor_craftsman|{s0}
+dlga_manor_craftsman:close_window|{s3}
+dlga_start:manor_adv_craftsman|{Sir/Madam}. How can I assist you? 
+dlga_manor_adv_craftsman:manor_adv_craftsman|Yes?
+dlga_manor_adv_craftsman:manor_adv_craftsman.1|I'd like to buy something.
+dlga_manor_adv_craftsman:close_window|Goodbye.
+dlga_start:manor_seller|{s0}
+dlga_manor_seller:close_window|{s1}
+dlga_start:manor_peasent|{s0}
+dlga_manor_peasent:close_window|{s1}
+dlga_start:manor_burger|{s0}
+dlga_manor_burger:close_window|{s1}
+dlga_start:manor_noble|{s0}
+dlga_manor_noble:close_window|{s1}
+dlga_start:manor_marshal_begin|We are currently controlling {reg1} armies on the field. What is your wish {Milord/Milady}?
+dlga_manor_marshal_begin:manor_marshal_army|I want to muster a new army
+dlga_manor_marshal_begin:close_window|Disband all our forces
+dlga_manor_marshal_begin:close_window.1|Carry on.
+dlga_manor_marshal_army:manor_marshal_army|{s0}
+dlga_manor_marshal_army:manor_marshal_army_confirm|Small
+dlga_manor_marshal_army:manor_marshal_army_confirm.1|Medium
+dlga_manor_marshal_army:manor_marshal_army_confirm.2|Large
+dlga_manor_marshal_army:manor_marshal_army_confirm.3|Huge
+dlga_manor_marshal_army:close_window|Nevermind
+dlga_manor_marshal_army_confirm:manor_marshal_army_confirm|Allright sir, our man will gather into a fighting force. Be sure you have enough money for there upkeep and food or they might rebel against you.
+dlga_manor_marshal_army_confirm:close_window|Do it.
+dlga_manor_marshal_army_confirm:close_window.1|Nevermind
+dlga_start:manor_master_reply|We are currently preparing to relocate the peasents to there new homes. We should complete it in weeks time
+dlga_start:manor_master_reply.1|Greetings, is there anyway I can help you?
+dlga_manor_master_reply:manor_master_reply|We are currently preparing to relocate the peasents to there new homes. We should complete it in a weeks time
+dlga_manor_master_reply:manor_master_reply.1|Yes?
+dlga_manor_master_reply:manor_master_makeunique|I want to demolish this manor and relocate all the nearby peasents to a new village.
+dlga_manor_master_reply:manor_master_taxes|I want to collect my taxes from my manors.
+dlga_manor_master_reply:close_window|Nothing right now
+dlga_manor_master_taxes:manor_master_taxes|Certanly, would you like to collect your gold or your goods?
+dlga_manor_master_taxes:manor_master_reply|Gold.
+dlga_manor_master_taxes:manor_master_reply.1|Goods.
+dlga_manor_master_taxes:manor_master_reply.2|Nevermind.
+dlga_manor_master_makeunique:manor_master_makeunique|Certanly {Milord/Milady}. But you do understand, that we will have to abandon all it's production bonuses?
+dlga_manor_master_makeunique:manor_master_reply|Yes, I do. Now do it!
+dlga_manor_master_makeunique:manor_master_reply.1|Oh... I change my mind
+dlga_start:manor_trader|{s0}
+dlga_manor_trader:manor_trader|{s0}
+dlga_manor_trader:manor_trader.1|Show me your goods.
+dlga_manor_trader:close_window|Uh... I'm just looking
+dlga_start:priest_begin|Salvē, my son. What may our Lord's humble servant do for you?
+dlga_priest_begin:priest_begin|{s0}
+dlga_priest_begin:priest_sin|Father, I seek to repent my sins.
+dlga_priest_begin:priest_men|My men are weary, Father. Would you be so kind and raise their spirits?
+dlga_priest_begin:priest_scriptorium|Father, I would like to provide funds for you to enact a Scriptorium.
+dlga_priest_begin:close_window|Goodbye
+dlga_priest_sin:priest_sin|Of course my son, our Lord pardons all who truly wish it. A small donation to our blessed church would go a long way towards redemption
+dlga_priest_sin:priest_begin|My worldly means are limited father, I will donate 1000 denars
+dlga_priest_sin:priest_begin.1|I will give all I can spare, 2000 denars
+dlga_priest_sin:priest_begin.2|No expense is too great in matters of faith, please accept 3000 denars
+dlga_priest_sin:priest_begin.3|Please pardon me Father, I do not need anything after all.
+dlga_priest_men:priest_men|I would be glad to hold a sermon for your men, my son. Though I would humbly ask that you prove yourself charitable in return
+dlga_priest_men:priest_begin|Very well, then perhaps 1000 denars would be a suitable gesture.
+dlga_priest_men:priest_begin.1|Please pardon me Father, I do not need anything after all.
+dlga_priest_scriptorium:priest_scriptorium|Off course, my child. Scriptorium will alow you to purchase books that we sometimes sell to traders. We will need a donation of {reg1} gold coins.
+dlga_priest_scriptorium:priest_begin|Off course.
+dlga_priest_scriptorium:priest_begin.1|Pardon me Father, I changed my mind
 dlga_start:whore_ask|So Handsome, is there something you want?
 dlga_start:close_window.4|Don't worry, we will get to work as soon as possible
-dlga_whore_ask:whore_ask_army|I'd like to please my men, perhaps you and you're friends could help out?
+dlga_whore_ask:whore_ask_army|I'd like to please my men, perhaps you and your friends could help out?
 dlga_whore_ask:close_window|Nevermind...
 dlga_whore_ask_army:whore_ask_army_reply|Sure Honey, but that will cost you {reg0} coins
 dlga_whore_ask_army_reply:whore_reply_army|Not a problem. Anything for my men
 dlga_whore_ask_army_reply:close_window|Er... I changed my mind
-dlga_whore_reply_army:close_window|Allright handsome, me and my girldfriends will get to them right away
+dlga_whore_reply_army:close_window|Allright handsome, me and my girlfriends will get to them right away
+dlga_start:merc_begin|Your orders {Milord/Milady}?
+dlga_merc_begin:merc_order|I'd like to give you orders, but I can't think of any....
+dlga_merc_begin:close_window|Disband the army!
+dlga_merc_begin:close_window.1|Carry on.
+dlga_merc_order:merc_begin_hurt_yes|Does your head hurt when you try to think of a possible order, {Milord/Milady}?
+dlga_merc_begin_hurt_yes:close_window|Yes... Alot...
 dlga_start:guelphs_intro|What do you want?
-dlga_start:guelphs_hostile|Oy you there, stinkers! All you Ghibellines lovers smell like feat!
-dlga_start:close_window.5|I could have smelled you a mile away, becouse Ghibellines lovers smell like feat, kill em!
+dlga_start:guelphs_hostile|Oy you there, stinkers! All you Ghibellines lovers smell like feet!
+dlga_start:close_window.5|I could have smelled you a mile away, because Ghibellines lovers smell like feet, kill em!
 dlga_guelphs_intro:close_window|I am {playername}. I ask for safe passage.
 dlga_guelphs_intro:guelphs_hostile|We are Ghibellines family supporters. Are you?
 dlga_guelphs_hostile:close_window|Poke 'em with the pointy end men! GAAarrrrGGHhh!!
 dlga_start:ghibellines_intro|What do you want?
 dlga_start:ghibellines_hostile|Oy you there, stinkers! All you Guelphs lovers smell like pigs!
-dlga_start:close_window.6|I could have smelled you a mile away, becouse Guelphs lovers smell like pigs, kill em!
+dlga_start:close_window.6|I could have smelled you a mile away, because Guelphs lovers smell like pigs, kill em!
 dlga_ghibellines_intro:close_window|I am {playername}. I ask for safe passage.
 dlga_ghibellines_intro:ghibellines_hostile|Greetings, are you friends of Guelphs as well?
 dlga_ghibellines_hostile:close_window|Poke 'em with the pointy end men! GAAarrrrGGHhh!!
@@ -641,18 +752,18 @@ dlga_minister_talk:dplmc_minister_staff_talk_ask|I like to hire a new staff memb
 dlga_dplmc_minister_staff_talk_ask:dplmc_talk_staff|Which staff member do you like to hire?
 dlga_lord_talk:pope_talk_crusade|Holy Father, I wish to fund a crusade to fight against the infidels.
 dlga_pope_talk_crusade:close_window|Are you making fun of me? Get out!
-dlga_pope_talk_crusade:pope_crusade_against|Offcourse my son, which infidel faction are we talking about?
+dlga_pope_talk_crusade:pope_crusade_against|Off course my son, which infidel faction are we talking about?
 dlga_pope_crusade_against:pope_crusade_against_cost|Against {s1}
 dlga_pope_crusade_against:pope_crusade_not_start|Nevermind...
 dlga_pope_crusade_against_cost:pope_crusade_accept|For a donation of {reg0} gold coins, I am willing to start a crusade against {s1}
-dlga_pope_crusade_accept:pope_crusade_start|Offcourse, Father!
+dlga_pope_crusade_accept:pope_crusade_start|Off course, Father!
 dlga_pope_crusade_accept:pope_crusade_not_start|....I changed my mind.
 dlga_pope_crusade_start:lord_talk|So be it, I'll declare the crusade against {s1}. Deus Vult!
 dlga_pope_crusade_not_start:lord_talk|Hm..
 dlga_lord_talk:rafi_lord_go_crusading|{s66}, I would like to head to the Holy Land to help our brothers battling there for God.  May I ask for a few months leave?
 dlga_lord_talk:rafi_lord_return_crusading|{s66}, I have returned from the Holy Land and am ready to pick up the sword in your name.
 dlga_rafi_lord_go_crusading:close_window|Of course, matters of God must come firt.  Make us proud and return safely!
-dlga_rafi_lord_return_crusading:lord_talk|You jest? You supposed to be crusading for atleast a month!
+dlga_rafi_lord_return_crusading:lord_talk|You jest? You supposed to be crusading for at least a month!
 dlga_rafi_lord_return_crusading:close_window|Welcome back, we have heard of your exploits!  You have made us proud.
 dlga_lord_talk:dplmc_lord_give_back_fief|{s66}, I want to give up a fief you enfeoffed to me.
 dlga_dplmc_lord_give_back_fief:dplmc_lord_give_back_fief_select|Oh, so you can't manage it? Well, which fief do you have in mind?
@@ -1647,6 +1758,7 @@ dlga_lord_active_mission_2:lord_mission_failed|I am afraid I won't be able to do
 dlga_lord_active_mission_3:lord_pretalk|Good. Remember, I am counting on you.
 dlga_lord_mission_failed:lord_pretalk|{s43}
 dlga_lord_suggets_attack_enemy_castle3:lord_pretalk|That should be possible. Very well, we'll attack {s1}.
+dlga_lord_talk:lord_propose_mercenary|Sir, perhaps you have work for a mercenary?
 dlga_lord_propose_mercenary:lord_mercenary_service|As it happens, {playername}, I promised {s10} that I would hire a company of mercenaries for an upcoming campaign.
 dlga_lord_mercenary_service:lord_mercenary_service_reject|I'm not interested, thank you.
 dlga_lord_mercenary_service:lord_mercenary_service_accept|Aye, I'll join {s9}.

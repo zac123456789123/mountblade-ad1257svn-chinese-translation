@@ -128,7 +128,7 @@ qstr_Reinforcement_waves:|Reinforcement waves:
 qstr_Troop_wages:|Troop wages:
 qstr_Fief_inefficency:|Fief inefficency:
 qstr_Enterprise_inefficen|Enterprise inefficency:
-qstr_Number_of_times_to_r|Number of times to reduce flora in custom battlfields:
+qstr_Number_of_times_to_r|Number of times to reduce flora in custom battlefields:
 qstr_Use_English_faction_|Use English faction names:
 qstr_Use_unit_indications|Use unit indications:
 qstr_Use_banner_man:|Use banner-man:
@@ -141,6 +141,8 @@ qstr_Childish|Childish
 qstr_fief|fief
 qstr_enterprise|enterprise
 qstr_AI_marshal_army_gath|AI marshal army gathering inefficency:
+qstr_Lance_breaking_Warni|Lance breaking(Warning: can couse crashes!):
+qstr_Change_party_icons_o|Change party icons on water(Warning: resource intensive!):
 qstr_inefficency|inefficency
 qstr_Low|Low
 qstr_Oy!_we_have_a_proble|Oy! we have a problem!
@@ -219,7 +221,6 @@ qstr_Stay_behind_the_line|Stay behind the line on the ground and shoot the targe
 qstr_DEBUG____{s21}_dista|DEBUG -- {s21} distance {reg21}
 qstr_Battle_Advantage_=_{|Battle Advantage = {reg0}.
 qstr_{s9}_wants_you_to_re|{s9} wants you to resume following his army until further notice.
-qstr_attrition_{s25}___{r|attrition {s25} - {reg25}
 qstr_pt_in_{s11}|pt in {s11}
 qstr__Being_Raided_|(Being Raided)
 qstr__Looted_|(Looted)
@@ -619,14 +620,14 @@ qstr_Khuiagt_Cereg|Khuiagt Cereg
 qstr_Ba_atur|Ba'atur
 qstr_Selyanin|Selyanin
 qstr_Selyani|Selyani
-qstr_Darvar_Strelets|Darvar Strelets
-qstr_Darvari_Streltsi|Darvari Streltsi
+qstr_Dubravnij_Strelets|Dubravnij Strelets
+qstr_Dubravnije_Streltsi|Dubravnije Streltsi
 qstr_Naimnij_Strelets|Naimnij Strelets
 qstr_Naimnije_Streltsi|Naimnije Streltsi
 qstr_Opitnij_Naimnij_Stre|Opitnij Naimnij Strelets
 qstr_Opitnije_Naimnije_St|Opitnije Naimnije Streltsi
-qstr_Darvar_Peshak|Darvar Peshak
-qstr_Darvari_Peshatsi|Darvari Peshatsi
+qstr_Dubravnij_Peshak|Dubravnij Peshak
+qstr_Dubravnije_Peshatsi|Dubravnije Peshatsi
 qstr_Naimnij_Sekironosets|Naimnij Sekironosets
 qstr_Naimnije_Sekironosts|Naimnije Sekironostsi
 qstr_Naimnij_Peshak|Naimnij Peshak
@@ -651,14 +652,14 @@ qstr_Opitnij_Gradskij_Str|Opitnij Gradskij Strelets
 qstr_Opitnije_Gradskije_S|Opitnije Gradskije Streltsi
 qstr_Shtitonosets_Strelet|Shtitonosets Strelets
 qstr_Shtitonostsi_Strelts|Shtitonostsi Streltsi
-qstr_Voi_Konnik|Voi Konnik
-qstr_Voie_Konniki|Voie Konniki
+qstr_Konnij_Voiskar|Konnij Voiskar
+qstr_Konnije_Voiskare|Konnije Voiskare
 qstr_Oklopnik|Oklopnik
 qstr_Oklopniki|Oklopniki
 qstr_Vitez|Vitez
-qstr_Vityazi|Vityazi
-qstr_Boyar|Boyar
-qstr_Boyari|Boyari
+qstr_Vitezi|Vitezi
+qstr_Bolyar|Bolyar
+qstr_Bolyare|Bolyare
 qstr_Smerd|Smerd
 qstr_Smerdy|Smerdy
 qstr_Kmet|Kmet
@@ -1218,14 +1219,14 @@ qstr_Khuiagt_Cereg__cav_|Khuiagt Cereg (cav)
 qstr_Ba_atur__cav_|Ba'atur (cav)
 qstr_Selyanin__inf_|Selyanin (inf)
 qstr_Selyani__inf_|Selyani (inf)
-qstr_Darvar_Strelets__rng|Darvar Strelets (rng)
-qstr_Darvari_Streltsi__rn|Darvari Streltsi (rng)
+qstr_Dubravnij_Strelets__|Dubravnij Strelets (rng)
+qstr_Dubravnije_Streltsi_|Dubravnije Streltsi (rng)
 qstr_Naimnij_Strelets__rn|Naimnij Strelets (rng)
 qstr_Naimnije_Streltsi__r|Naimnije Streltsi (rng)
 qstr_Opitnij_Naimnij_Strel|Opitnij Naimnij Strelets (rng)
 qstr_Opitnije_Naimnije_Str|Opitnije Naimnije Streltsi (rng)
-qstr_Darvar_Peshak__inf_|Darvar Peshak (inf)
-qstr_Darvari_Peshatsi__in|Darvari Peshatsi (inf)
+qstr_Dubravnij_Peshak__in|Dubravnij Peshak (inf)
+qstr_Dubravnije_Peshatsi_|Dubravnije Peshatsi (inf)
 qstr_Naimnij_Sekironosets_|Naimnij Sekironosets (inf)
 qstr_Naimnije_Sekironostsi|Naimnije Sekironostsi (inf)
 qstr_Naimnij_Peshak__inf_|Naimnij Peshak (inf)
@@ -1250,14 +1251,14 @@ qstr_Opitnij_Gradskij_Stre|Opitnij Gradskij Strelets (rng)
 qstr_Opitnije_Gradskije_St|Opitnije Gradskije Streltsi (rng)
 qstr_Shtitonosets_Strelets|Shtitonosets Strelets (rng)
 qstr_Shtitonostsi_Streltsi|Shtitonostsi Streltsi (rng)
-qstr_Voi_Konnik__cav_|Voi Konnik (cav)
-qstr_Voie_Konniki__cav_|Voie Konniki (cav)
+qstr_Konnij_Voiskar__cav_|Konnij Voiskar (cav)
+qstr_Konnije_Voiskare__ca|Konnije Voiskare (cav)
 qstr_Oklopnik__cav_|Oklopnik (cav)
 qstr_Oklopniki__cav_|Oklopniki (cav)
 qstr_Vitez__cav_|Vitez (cav)
-qstr_Vityazi__cav_|Vityazi (cav)
-qstr_Boyar__cav_|Boyar (cav)
-qstr_Boyari__cav_|Boyari (cav)
+qstr_Vitezi__cav_|Vitezi (cav)
+qstr_Bolyar__cav_|Bolyar (cav)
+qstr_Bolyare__cav_|Bolyare (cav)
 qstr_Smerd__inf_|Smerd (inf)
 qstr_Smerdy__inf_|Smerdy (inf)
 qstr_Kmet__inf_|Kmet (inf)
@@ -1688,18 +1689,18 @@ qstr_You_got_keys_of_dung|You got keys of dungeon.
 qstr_Your_{s20}_is_too_cr|Your {s20} is too crapy to fall apart!
 qstr_Your_{s20}_cracks!|Your {s20} cracks!
 qstr_Your_{s20}_falls_apa|Your {s20} falls apart!
-qstr_You_broke_you_re_lan|You broke you're lance!
+qstr_You_broke_your_lance|You broke your lance!
+qstr_Battle_lost...|Battle lost...
+qstr_Battle_lost!_Press_t|Battle lost! Press tab key to leave...
+qstr_You_have_been_knocke|You have been knocked out by the enemy. Watch your men continue the fight without you or press Tab to retreat.
+qstr_If_you_choose_to_wat|If you choose to watch the fight you can use the mouse scroll up and down to switch between troop view or AWDS keys for free camera view.
+qstr_Huzzah!_You_encourag|Huzzah! You encourage you're nearby troops.
 qstr_Releasing_spear.|Releasing spear.
 qstr_Your_horse_received_|Your horse received {reg1} damage from a braced spear!
 qstr_The_injury_causes_yo|The injury causes your grip on the spear to slip!
 qstr_Spear_wall_dealt_{re|Spear-wall dealt {reg1} damage!
 qstr_Bracing_spear_for_ch|Bracing spear for charge.
-qstr_Battle_lost...|Battle lost...
-qstr_Battle_lost!_Press_t|Battle lost! Press tab key to leave...
-qstr_You_have_been_knocke|You have been knocked out by the enemy. Watch your men continue the fight without you or press Tab to retreat.
-qstr_If_you_choose_to_wat|If you choose to watch the fight you can use the mouse scroll up and down to switch between troop view or AWDS keys for free camera view.
 qstr_Forming_ranks.|Forming ranks.
-qstr_Huzzah!_You_encourag|Huzzah! You encourage you're nearby troops.
 qstr_You_must_stay_behind|You must stay behind the line on the ground! Point is not counted.
 qstr_Tutorial|Tutorial
 qstr_You_came_into_the_wo|You came into the world a {reg3?daughter:son} of declining nobility, owning only the house in which they lived. However, despite your family's hardships, they afforded you a good education and trained you from childhood for the rigors of aristocracy and life at court.
@@ -1747,7 +1748,7 @@ qstr_You_are_not_reading_|You are not reading any books.
 qstr_none|none
 qstr_{s5}_and_{s6}|{s5} and {s6}
 qstr_Your_estates_are:_{s|Your estates are: {s8}.^{s9}
-qstr_Current_party_size_l|Current party size limit is {reg5}.^Current party size modifiers are:^^Base size:  +30^Leadership: {s2}{reg1}^Charisma: {s3}{reg2}^Renown: {s4}{reg3}^TOTAL:  {reg5}
+qstr_Current_party_size_l|Current party size limit is {reg5}.^Current party size modifiers are:^^Base size:  +70^Leadership: {s2}{reg1}^Charisma: {s3}{reg2}^Renown: {s4}{reg3}^TOTAL:  {reg5}
 qstr_Loyal|Loyal
 qstr_Devoted|Devoted
 qstr_Fond|Fond
@@ -1877,6 +1878,12 @@ qstr_Try_as_you_might_you_|Try as you might, you could not defeat the rebelling 
 qstr_positive|positive
 qstr_negative|negative
 qstr_relation:_{reg0}|relation: {reg0}
+qstr_You_came_across_a_sm|You came across a small settlement. It belongs to 
+qstr_You_came_across_a_sma|You came across a small abandoned settlement. It belonged to 
+qstr_A_new_manor_is_being|A new manor is being build and peasents are being relocated to live near it.
+qstr_Troublesome_bandits_|Troublesome bandits are abusing the peasents.
+qstr_A_Company_of_mercena|A Company of mercenaries are cousing problems. People talk, that they are well armed!
+qstr_Current_population:_|Current population: {reg0}, current prosperity: {reg1}
 qstr_Salt_Trader|Salt Trader
 qstr_Salt_Mine|Salt Mine
 qstr_Iron_Trader|Iron Trader
@@ -1885,15 +1892,21 @@ qstr_You_invest_into_the_|You invest into the farmland
 qstr_You_invest_into_the_L|You invest into the Linen workshop
 qstr_You_fund_a_local_mer|You fund a local merchant to specialize to Salt trading
 qstr_You_fund_a_few_local|You fund a few local Hunters
-qstr_You_found_a_local_me|You found a local merchant to specialise into an Iron Trader
-qstr_You_found_some_merch|You found some merchants to trade silk at you're village
+qstr_You_fund_a_local_merc|You fund a local merchant to specialize into an Iron Trader
+qstr_You_fund_some_mercha|You fund some merchants to trade silk at your village
 qstr_A_master_weaponsmith|A master weaponsmith has been apointed to the new Smithy
 qstr_A_master_armorsmith_|A master armorsmith has been apointed to the new Smithy
 qstr_A_master_fletcher_ha|A master fletcher has been apointed to the new Smithy
 qstr_A_master_Horse_Breed|A master Horse Breeder has been apointed to the new stables
+qstr_You_slaughter_the_ba|You slaughter the bastards, like they were nothing!    The peasents cheer you're name and are planing on holding a feast in the near    future to honor you!    
+qstr_Try_as_you_might_you_c|Try as you might, you could not defeat the bastards. They had there fun with the settlement peasents and went off, to celebrate elsewhere.
+qstr_Relationship_with_th|Relationship with the regional center improves!
+qstr_Relationship_with_the|Relationship with the regional center deteriorates
+qstr_You_walk_with_the_ha|You walk with the harlot to a private room to have some fun. The experiance was very enjoyable and made you forget all about your troubles.
+qstr_And_my_Johnson_becam|And my Johnson became realy itchy too...
 qstr_You_have_deserted_an|You have deserted, and are now wanted!
 qstr_Breaking_camp...|Breaking camp...
-qstr_You_re_kingdoms_feas|You're kingdoms feast have concluded.
+qstr_Your_kingdoms_feast_|Your kingdoms feast have concluded.
 qstr_Your_men_are_not_hap|Your men are not happy with the composition of your party!
 qstr_But_thanks_to_you_re|But thanks to you're leadership skill you you manage to calm all of them down!
 qstr_But_thanks_to_you_re_|But thanks to you're leadership skill you manage to calm some of them down!
@@ -1926,7 +1939,7 @@ qstr_ERROR_IN_THE_RECRUIT|ERROR IN THE RECRUITER KIT SIMPLE TRIGGERS!
 qstr_A_recruiter_has_brou|A recruiter has brought {reg10} recruits to {s13}.
 qstr_Distance_between_{s1|Distance between {s14} and {s15}: {reg0}
 qstr_Your_caravan_has_bro|Your caravan has brought {s12} to {s13}.
-qstr_Your_caravan_has_los|Your caravan has lost it's way and gave up your mission!
+qstr_Your_caravan_has_los|Your caravan has lost its way and gave up your mission!
 qstr_Your_messenger_reach|Your messenger reached {s13}.
 qstr_{s14}|{s14}
 qstr_Your_messenger_has_l|Your messenger has lost it's way and gave up your mission!
@@ -1937,7 +1950,12 @@ qstr_{s26}_has_arrived_in|{s26} has arrived in {s25} and is awaiting you there.
 qstr_You_are_not_strong_e|You are not strong enough to lift a weapon fit for your promotion!
 qstr_Sorry_You_are_not_st|Sorry, You are not strong enough to hold all that weight required with promotion!.
 qstr_Sorry_but_your_arms_|Sorry, but your arms are to weak to advance in the artillary at this moment.
-qstr_You_require_more_hor|You require more horse riding skills to fit your next poisition!
+qstr_You_require_more_hor|You require more horse riding skills to fit your next position!
+qstr_Fortified_Manor|Fortified Manor
+qstr_gold_:{reg0}|gold :{reg0}
+qstr_population_:{reg0}|population :{reg0}
+qstr_final_gold_:{reg0}|final gold :{reg0}
+qstr_Your_manor_at_{s0}_h|Your manor at {s0} has been abandoned
 qstr_The_released_prisone|The released prisoners were not be trusted and they are preparing to attack you!
 qstr_Warning!|Warning!
 qstr_The_released_prisoner|The released prisoners scattered as soon as the battle finished. You will not be seeing them again.
@@ -1949,16 +1967,101 @@ qstr_Crusaders_are_going_|Crusaders are going to gather near {s1} the start ther
 qstr_Crusade_against_{s1}|Crusade against {s1} have started!
 qstr_Crusaders_have_been_|Crusaders have been defeated!
 qstr_Crusaders_have_reach|Crusaders have reached their target!
-qstr_Crusaders_have_besie|Crusaders have besieged there target!
+qstr_Crusaders_have_besie|Crusaders have besieged their target!
 qstr_Crusade_ended_succes|Crusade ended succesfully!
-qstr_Crusaders_disperce_b|Crusaders disperce, becoues someone else conquered the center
+qstr_Crusaders_disperce_b|Crusaders disperce, because someone else conquered the center
+qstr_you_do_not_have_enou|you do not have enough gold to pay your forces!
+qstr_One_of_your_armies_h|One of your armies have deserted you!
 qstr_{reg65?my_Lady:my_Lo|{reg65?my Lady:my Lord}
 qstr_{reg65?My_Lady:My_Lo|{reg65?My Lady:My Lord}
 qstr_{reg65?madame:sir}|{reg65?madame:sir}
 qstr_{reg65?Madame:Sir}|{reg65?Madame:Sir}
 qstr__no_fiefs_|(no fiefs)
 qstr__fiefs:_{s0}_|(fiefs: {s0})
-qstr_You_re_party_moral_i|You're party moral increases.
+qstr_take_out_from_the_tr|take out from the treasury
+qstr_put_into_the_treasur|put into the treasury
+qstr_{s2}_{s0}|{s2}, {s0}
+qstr_settlement|settlement
+qstr_{s6}_{s4}|{s6}, {s4}
+qstr_We_currently_have_no|We currently have no building projects going
+qstr_Currently_were_are_b|Currently were are building: {s5}
+qstr_However_currently_we|However currently we don't have enough gold to build it.
+qstr_This_building_will_t|This building will take up to a week to build.
+qstr__cost:{reg0}_have:{r| cost:{reg0}, have:{reg1}
+qstr_High|High
+qstr_Medium|Medium
+qstr_....I_have_absolutel|....I have absolutely no idea
+qstr_I_m_sure_the_people_|I'm sure the people will be happy with that decision {Milord/Milady}
+qstr_As_you_command._This|As you command. This is a reasonable move, {Milord/Milady}
+qstr_We_will_make_those_s|We will make those smelly peasents squeel {Milord/Milady}!... Lets hope they don't rebel...
+qstr_I_m_confused!|I'm confused!
+qstr_Our_storage_is_full_|Our storage is full and we can't accept any tribute products from the folk!
+qstr_farm|farm
+qstr_shop|shop
+qstr_I_d_like_to_buy_some|I'd like to buy someting. Could you please show me your goods?. Especialy me!
+qstr_I_want_to_see_your_g|I want to see your goods.
+qstr_YOU_smelly_peasent._|YOU, smelly peasent. Show me what you sell or I'll rip your balls of and feed them to you!
+qstr_I_would_like_to_talk|I would like to talk about your taxes. Especialy me!
+qstr_I_want_to_talk_about|I want to talk about your tribute to me.
+qstr_Peasent_tell_me_abou|Peasent, tell me about your tribute to me again. I love hearing about people paying it to me
+qstr_money|money
+qstr_goods|goods
+qstr_The_taxes_are_low_an|The taxes are low and becouse of that the people adore you, {Milord/Milady}. Especialy me! As you might know I pay these taxes in form of {s1}
+qstr_I_am_currently_payin|I am currently paying my tribute in {s1}. The taxes are reasonable, but lowering them would make you even more popular with the people, {Milord/Milady}
+qstr_Ah..._well..._I.._I_|Ah... well... I.. I don't ha-ha-have much more to pay you, as the high taxes you put left me with my last hoose.... I provide your tribute in {s1}. Please don't hurt me {Milord/Milady}
+qstr_If_it_s_fine_with_yo|If it's fine with you, I'd like to recieve my payment with money
+qstr_From_now_on_you_shou|From now on you should provide my tribute in a form of money
+qstr_Money___I_love_it._S|Money - I love it. So starting next pay, you will pay the tribute in a form of money to me
+qstr_If_it_s_fine_with_you|If it's fine with you, I'd like to recieve my payment with goods
+qstr_You_will_provide_the|You will provide the tribute in goods.
+qstr_Stuff._I_need_more_a|Stuff. I need more and can never get enough of it. So from now on - your tribute to me will be paid in goods.
+qstr_Off_course_{Milord/M|Off course {Milord/Milady}. I will be happy to do so!
+qstr_As_you_wish|As you wish
+qstr_Oh_ce_ce_certanly_{M|Oh ce-ce-certanly {Milord/Milady}. I, your humble servent, will do as you command, b-b-but I beg you, do not burn down my shop!
+qstr_Goodbye_my_friend!|Goodbye, my friend!
+qstr_Goodbye|Goodbye
+qstr_Off_with_you_you_sme|Off with you, you smelly peasent!
+qstr_Oh_what_a_honor_that|Oh, what a honor that you came to visit my stool {Milord/Milady}!
+qstr_{Milord/Milady}?|{Milord/Milady}?
+qstr_O_o_oh..._{Milord/Mi|O-o-oh... {Milord/Milady}. P-p-please don't flog me.
+qstr_Just_wanted_to_say_h|Just wanted to say hello, my good man.
+qstr_Just_inspecting_my_f|Just inspecting my fields. Continue with your work.
+qstr_Look_at_me_in_a_wron|Look at me in a wrong way and I'll not only flog you but cut off your finger as well. I hate smelly peasents like you!
+qstr_Oh_{Milord/Milady}_n|Oh {Milord/Milady}, nice to see you. How are you doing?
+qstr_{Milord/Milady}._I_m|{Milord/Milady}. I'm just carying my divne duties to you
+qstr_{Mi_mi_milord/Mi_mi_|{Mi-mi-milord/Mi-mi-milady}. I'm not slacking off, no! Please don't hurt me.
+qstr_Fine_my_good_man._Ni|Fine, my good man. Nice of you to care
+qstr_Very_good_proceed.|Very good, proceed.
+qstr_Off_with_you_I_don_t|Off with you, I don't want to see you!
+qstr_{Milord/Milady}_Nice|{Milord/Milady}, Nice day isin't it?
+qstr_{Milord/Milady}._How|{Milord/Milady}. How can I help you?
+qstr_O_o_oh..._{Milord/Mil|O-o-oh... {Milord/Milady}. I payed my taxes, no need to torture, flog or put me in the cage again.
+qstr_It_is._Nice_to_meet_|It is. Nice to meet you.
+qstr_Nothing_today._Conti|Nothing today. Continue.
+qstr_I_hope_you_re_not_la|I hope you're not laying, or I'll cut your hand off!
+qstr_{Milord/Milady}._For|{Milord/Milady}. Forgive me asking. Are you not threating the peasents too nicely? They grow fat and become lazy.
+qstr_{Milord/Milady}._How_|{Milord/Milady}. How can this humble servant help you?
+qstr_{Milord/Milady}_I_mu|{Milord/Milady}, I must say I like the way you put your peasents in order. A good peasent is a poor peasent I say.
+qstr_People_should_be_tre|People should be treated with respect. Just becouse they are low born that does not mean that we should abuse them.
+qstr_Nothing_today|Nothing today
+qstr_Right_you_are_my_fri|Right you are, my friend. I glad you agree, that an iron fist is the only way to treat these peasent pigs.
+qstr_Oh_honorable_guest._|Oh, honorable guest. Look at my wares. I sell the finest silk you can find!
+qstr_{Signore/Signora}_lo|{Signore/Signora}, look at my fince spices. Your cooks meals will no longer taste as a boiled trousers!
+qstr_You_buy_you_buy_I_se|You buy, you buy, I sell!
+qstr_{Milord/Milady}_are_|{Milord/Milady}, are you maried? Probably not, becouse you don't have any salt! Don't be a peasent, buy salt, it's not mixed with sand!
+qstr_Don_t_be_afriad_of_f|Don't be afriad of furs. Furs make you warm and your neighbour jelous. Buy some Furs!
+qstr_Perhaps_a_book_for_a|Perhaps a book for a educated mind? No? I sometiems get books with pictures for the stupid minds as well
+qstr_Does_Honorable_tradi|Does Honorable trading partner require more of my humble services?
+qstr_Viva_la_Spice_buy_mo|Viva la Spice, buy more!
+qstr_Buy_more_yes?|Buy more, yes?
+qstr_Got_salt?_I_do!|Got salt? I do!
+qstr_Don_t_be_afriad_of_fu|Don't be afriad of furs. Furs make you warm and your neighbour jelous. Buy more furs!
+qstr_Preaty_pictures_in_b|Preaty pictures in books interest you?
+qstr_Yes?|Yes?
+qstr_Your_donation_is_mos|Your donation is most appreciated my son, go with the blessing and forgiveness of our         Holy Father. Benedictus Deus. Benedictum Nomen Sanctum eius?
+qstr_Thank_you_my_son.|Thank you, my son.
+qstr_Bless_you_we_should_|Bless you, we should have the Scriptorium ready very soon.
+qstr_Your_party_moral_inc|Your party moral increases.
 qstr_It_s_your_money_or_y|It's your money or your life, {mate/girlie}. No sudden moves or we'll run you through.
 qstr_Lucky_for_you_you_ca|Lucky for you, you caught me in a good mood. Give us all your coin and I might just let you live.
 qstr_This_a_robbery_eh?_I|This a robbery, eh? I givin' you one chance to hand over everythin' you got, or me and my mates'll kill you. Understand?
@@ -1994,7 +2097,7 @@ qstr_{s61}_and_{reg0}_den|{s61} and {reg0} denars for tariffs
 qstr_Well_{s60}.|Well, {s60}.
 qstr_{s4}_{s3}._The_tax_r|{s4} {s3}. The tax rate is {s50}.{s59}{s61}. Overall this sums up to {s62} denars.
 qstr_Tax_rate_for_{s6}:_{|Tax rate for {s6}: {s11}
-qstr_You_donated_{reg0}_g|You donated {reg0} gold coins to the pope to fund you're crusade
+qstr_You_donated_{reg0}_g|You donated {reg0} gold coins to the pope to fund your crusade
 qstr_{playername}_when_we|{playername}, when we started our long walk, few people had the courage to support me. And fewer still would be willing to put their lives at risk for my cause. But you didn't hesitate for a moment in throwing yourself at my enemies. We have gone through a lot together, and there were times I came close to losing all hope. But with God's help, we prevailed. It is now time for me to leave your company and take what's rightfully mine. From now on, I will carry out the great responsibility of ruling {s3}. There still lie many challanges ahead and I count on your help in overcoming those. And of course, you will always remain as my foremost vassal.
 qstr__We_will_of_course_n| We will of course need to wait until the realm is no longer on campaign.
 qstr_I_am_{s4}_the_ruler_|I am {s4}, the ruler of {s6}

@@ -870,6 +870,14 @@ trp_village_walker_1|村 民
 trp_village_walker_1_pl|村 民 
 trp_village_walker_2|村 民 
 trp_village_walker_2_pl|村 民 
+trp_khergit_walker_1|村 民 
+trp_khergit_walker_1_pl|村 民 
+trp_khergit_walker_2|村 民 
+trp_khergit_walker_2_pl|村 民 
+trp_sarranid_walker_1|村 民 
+trp_sarranid_walker_1_pl|村 民 
+trp_sarranid_walker_2|村 民 
+trp_sarranid_walker_2_pl|村 民 
 trp_spy_walker_1|市 民 
 trp_spy_walker_1_pl|市 民 
 trp_spy_walker_2|市 民 
@@ -1665,34 +1673,34 @@ trp_knight_15_10|安 德 烈· 弗 谢 沃 洛 多 维 奇 亲 王
 trp_knight_15_10_pl|安 德 烈· 弗 谢 沃 洛 多 维 奇 
 trp_knight_16_1|圣 地 亚 哥 骑 士 团 大 团 长，派 奥· 佩 雷 斯· 科 雷 亚 
 trp_knight_16_1_pl|派 奥· 佩 雷 斯· 科 雷 亚 
-trp_knight_16_2|布 拉 干 萨 的 门 多· 阿 拉 诺 爵 士 
-trp_knight_16_2_pl|布 拉 干 萨 的 门 多· 阿 拉 诺 
-trp_knight_16_3|巴 斯 科 爵 士 
-trp_knight_16_3_pl|巴 斯 科 
-trp_knight_16_4|梅 恩 爵 士 
-trp_knight_16_4_pl|梅 恩 
-trp_knight_16_5|贝 尔 姆 爵 士 
-trp_knight_16_5_pl|贝 尔 姆 
-trp_knight_16_6|贡 萨 鲁 爵 士 
-trp_knight_16_6_pl|贡 萨 鲁 
-trp_knight_16_7|马 蒂 奥 爵 士 
-trp_knight_16_7_pl|马 蒂 奥 
-trp_knight_16_8|马 蒂 姆 爵 士 
-trp_knight_16_8_pl|马 蒂 姆 
-trp_knight_16_9|斯 特 法 姆 爵 士 
-trp_knight_16_9_pl|斯 特 法 姆 
-trp_knight_16_10|伊 奥 尼 斯 爵 士 
-trp_knight_16_10_pl|伊 奥 尼 斯 
-trp_knight_16_11|梅 嫩 德 斯 爵 士 
-trp_knight_16_11_pl|梅 嫩 德 斯 
-trp_knight_16_12|桑 切 斯 爵 士 
-trp_knight_16_12_pl|桑 切 斯 
-trp_knight_16_13|桑 乔 爵 士 
-trp_knight_16_13_pl|桑 乔 
-trp_knight_16_14|劳 伦 修 斯 爵 士 
-trp_knight_16_14_pl|劳 伦 修 斯 
-trp_knight_16_15|费 尔 南 迪 克 爵 士 
-trp_knight_16_15_pl|费 尔 南 迪 克 
+trp_knight_16_2|瓦 斯 康 塞 洛 斯 的 乔· 佩 雷 斯 爵 士 
+trp_knight_16_2_pl|瓦 斯 康 塞 洛 斯 的 乔· 佩 雷 斯 
+trp_knight_16_3|瓦 斯 康 塞 洛 斯 的 罗 德 里 奥· 阿 内 斯 爵 士 
+trp_knight_16_3_pl|瓦 斯 康 塞 洛 斯 的 罗 德 里 奥· 阿 内 斯 
+trp_knight_16_4|普 洛· 苏 亚 雷 斯· 科 埃 略 爵 士 
+trp_knight_16_4_pl|普 洛· 苏 亚 雷 斯· 科 埃 略 
+trp_knight_16_5|苏 萨 的 乔· 加 西 亚 爵 士 
+trp_knight_16_5_pl|苏 萨 的 乔· 加 西 亚 
+trp_knight_16_6|阿 方 索· 佩 雷 斯· 加 多 爵 士 
+trp_knight_16_6_pl|阿 方 索· 佩 雷 斯· 加 多 
+trp_knight_16_7|阿 尔 瓦 伦 加 的 普 洛· 派 斯 爵 士 
+trp_knight_16_7_pl|阿 尔 瓦 伦 加 的 普 洛· 派 斯 
+trp_knight_16_8|苏 萨 的 费 尔 南· 加 西 亚 爵 士 
+trp_knight_16_8_pl|苏 萨 的 费 尔 南· 加 西 亚 
+trp_knight_16_9|马 蒂 姆· 马 丁 斯· 马 查 多 爵 士 
+trp_knight_16_9_pl|马 蒂 姆· 马 丁 斯· 马 查 多 
+trp_knight_16_10|布 里 特 罗 斯 的 瑞· 戈 麦 斯 爵 士 
+trp_knight_16_10_pl|布 里 特 罗 斯 的 瑞· 戈 麦 斯 
+trp_knight_16_11|坎 布 拉 的 阿 方 索· 阿 内 斯 爵 士 
+trp_knight_16_11_pl|坎 布 拉 的 阿 方 索· 阿 内 斯 
+trp_knight_16_12|塞 拉 诺 瓦 的 费 尔 南· 戈 麦 斯 爵 士 
+trp_knight_16_12_pl|塞 拉 诺 瓦 的 费 尔 南· 戈 麦 斯 
+trp_knight_16_13|塞 拉 诺 瓦 的 普 洛· 戈 麦 斯 爵 士 
+trp_knight_16_13_pl|塞 拉 诺 瓦 的 普 洛· 戈 麦 斯 
+trp_knight_16_14|阿 方 索· 佩 雷 斯 爵 士 
+trp_knight_16_14_pl|阿 方 索· 佩 雷 斯 
+trp_knight_16_15|葡 萄 牙 的 罗 伯 特 爵 士 
+trp_knight_16_15_pl葡 萄 牙 的 罗 伯 特 
 trp_knight_17_1|佩 拉 尔 塔 的 阿 尔 瑙 大 主 教 
 trp_knight_17_1_pl|佩 拉 尔 塔 的 阿 尔 瑙 
 trp_knight_17_2|蒙 特 卡 达 的 佩 雷· 拉 蒙 王 室 总 管 
@@ -1753,12 +1761,12 @@ trp_knight_18_14|高 斯 弗 雷 德 爵 士
 trp_knight_18_14_pl|高 斯 弗 雷 德 
 trp_knight_18_15|赫 罗 尼 爵 士 
 trp_knight_18_15_pl|赫 罗 尼 
-trp_knight_19_1|Don Amat
-trp_knight_19_1_pl|Amat
-trp_knight_19_2|Don Artal
-trp_knight_19_2_pl|Artal
-trp_knight_19_3|伯 纳 德 爵 士 
-trp_knight_19_3_pl|伯 纳 德 
+trp_knight_19_1|Infante Don Teobaldo de Navarra
+trp_knight_19_1_pl|Teobaldo
+trp_knight_19_2|Don Guillermo de Navarra
+trp_knight_19_2_pl|Guillermo
+trp_knight_19_3|Infante Don Enrique de Navarra 
+trp_knight_19_3_pl|Enrique
 trp_knight_20_1|穆 罕 默 德· 法 基 赫 酋 长 
 trp_knight_20_1_pl|穆 罕 默 德· 法 基 赫 
 trp_knight_20_2|尤 素 夫· 纳 斯 尔 酋 长 
