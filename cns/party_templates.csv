@@ -14,6 +14,8 @@ pt_welsh|威 尔 士 叛 军
 pt_guelphs|圭 尔 夫 教 皇 党 人 
 pt_ghibellines|吉 伯 林 皇 帝 党 人 
 pt_crusaders|十 字 军 
+pt_merc_party|愤 怒 的 醉 酒 者 
+pt_monastery|修 士 
 pt_farm|农 庄 
 pt_linen|亚 麻 作 坊 
 pt_salt|盐 商 
@@ -70,8 +72,8 @@ pt_desert_bandit_lair|沙 漠 土 匪 藏 身 处
 pt_forest_bandit_lair|绿 林 土 匪 藏 身 处 
 pt_mountain_bandit_lair|山 地 土 匪 藏 身 处 
 pt_sea_raider_lair|海 寇 藏 身 处 
-pt_looter_lair|抢 匪 藏 身 处 
 pt_robber_knight_lair|强 盗 骑 士 藏 身 处 
+pt_looter_lair|绑 匪 藏 身 处 
 pt_leaded_looters|抢 匪 团 伙 
 pt_pagan_stronghold|异 教 徒 要 塞 
 pt_dplmc_spouse|您 的 配 偶 

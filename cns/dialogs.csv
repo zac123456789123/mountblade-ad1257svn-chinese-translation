@@ -118,8 +118,113 @@ dlga_ramun_ask_about_capturing_7:ramun_pre_talk|谢 谢， 我 会 记 住 的�
 dlga_ramun_talk:ramun_leave|我 该 上 路 了。 
 dlga_ramun_leave:close_window|记 住， 把 俘 虏 都 带 到 我 这 里 来， 我 会 给 你 给 你 个 好 价 钱。 
 dlga_start:close_window.3|我 谦 卑 的 恳 请 大 人 你 能 把 手 放 在 我 看 得 到 的 位 置 上。 
-dlga_start:manor_master_reply|我 的 主 人， 欢 迎 到 达 您 的 庄 园！ 农 夫 们 都 在 为 了 达 到 你 的 要 求 努 力 的 工 作 着， 而 那 些 懒 惰 者 会 受 到 我 的 鞭 挞。 
-dlga_manor_master_reply:close_window|不 错！ 继 续 吧！ 
+dlga_start:manor_senechal|{大 人/夫 人}， 城 堡 的 一 切 尽 在 掌 控。 
+dlga_start:manor_senechal.1|TODO:{大 人/夫 人}， 我 们 发 现 了 一 个 问 题！ 
+dlga_manor_senechal:manor_senechal|今 天 我 该 向 你 提 供 什 么 服 务 呢？ 
+dlga_manor_senechal:manor_build|我 想 要 造 个 建 筑。 
+dlga_manor_senechal:manor_senechal_taxes|我 们 来 谈 谈 税 收 问 题 吧。 
+dlga_manor_senechal:manor_senechal_treasury|我 想 照 看 下 我 的 财 产。 
+dlga_manor_senechal:close_window|很 好！ 继 续 保 持 这 个 势 头 吧！ 
+dlga_manor_senechal_treasury:manor_senechal_treasury|目 前 您 的 存 款 有 {reg0}第 纳 尔。 你 想 要 存 一 些 还 是 取 一 些？ 
+dlga_manor_senechal_treasury:manor_senechal_treasury_action|我 想 要 取 出 一 些。 
+dlga_manor_senechal_treasury:manor_senechal_treasury_action.1|我 想 要 再 存 一 些。 
+dlga_manor_senechal_treasury:manor_senechal|不 麻 烦 了。 
+dlga_manor_senechal_treasury_action:manor_senechal_treasury_action|当 然 可 以。 你 要 {s0}多 少？ 
+dlga_manor_senechal_treasury_action:manor_senechal_treasury_action_done|10
+dlga_manor_senechal_treasury_action:manor_senechal_treasury_action_done.1|100
+dlga_manor_senechal_treasury_action:manor_senechal_treasury_action_done.2|1000
+dlga_manor_senechal_treasury_action:manor_senechal_treasury_action_done.3|10000
+dlga_manor_senechal_treasury_action:manor_senechal_treasury_action_done.4|100000
+dlga_manor_senechal_treasury_action:manor_senechal_treasury|不 麻 烦 了。 
+dlga_manor_senechal_treasury_action_done:manor_senechal_treasury|这 马 上 会 完 成， {大 人/夫 人}
+dlga_manor_build:manor_build_ask|没 问 题。 在 我 们 的 {s12}， 我 们 有： {s11}。 {s13}。 你 想 要 造 点 什 么？ 
+dlga_manor_build_ask:manor_senechal_buidling_cost|改 进 建 筑 
+dlga_manor_build_ask:manor_senechal_buidling_cost.1|{s13}
+dlga_manor_build_ask:manor_senechal|不 麻 烦 了。 
+dlga_manor_senechal_buidling_cost:manor_senechal_buidling_cost|这 需 要 花 费 我 们 {reg0}第 纳 尔， 而 我 们 目 前 有 {reg1}第 纳 尔 的 存 款。 {s15}。 
+dlga_manor_senechal_buidling_cost:manor_senechal|没 问 题， 开 工 吧！ 
+dlga_manor_senechal_buidling_cost:manor_senechal.1|俄， 我 再 考 虑 下… … 
+dlga_manor_senechal_taxes:manor_senechal_taxes|目 前 的 税 收 是 {s0}， 我 们 上 周 总 共 收 了 {reg0}第 纳 尔。 你 想 要 更 改 吗？ 
+dlga_manor_senechal_taxes:manor_senechal_taxes_confirm|让 我 们 把 这 些 既 卑 鄙 又 难 闻 的 村 汉 榨 干 吧！ 设 为 高 税 率！ 
+dlga_manor_senechal_taxes:manor_senechal_taxes_confirm.1|我 们 还 是 不 要 太 过 火 了。 设 为 中 税 率 吧。 
+dlga_manor_senechal_taxes:manor_senechal_taxes_confirm.2|人 民 需 要 休 养 安 息， 设 为 低 税 率 吧。 
+dlga_manor_senechal_taxes:manor_senechal|不 麻 烦 了。 
+dlga_manor_senechal_taxes_confirm:manor_senechal|{s0}
+dlga_start:manor_storage|{Milord/Milady| {s0}
+dlga_manor_storage:manor_storage|我 该 向 你 提 供 什 么 服 务 呢？ 
+dlga_manor_storage:manor_storage.1|我 想 要 管 理 我 城 堡 的 仓 储。 
+dlga_manor_storage:manor_storage.2|我 想 要 检 查 一 下 我 的 贡 品 仓 储。 
+dlga_manor_storage:close_window|我 只 是 想 确 认 一 下 你 没 有 又 在 偷 偷 喝 我 储 备 的 红 酒。 
+dlga_start:manor_craftsman|{大 人/夫 人}， 您 光 临 我 的 {s0}让 我 感 到 很 荣 幸。 我 有 什 么 能 帮 您 的 吗？ 
+dlga_manor_craftsman:manor_craftsman|有 什 么 还 可 以 帮 您 的 么？ 
+dlga_manor_craftsman:manor_craftsman.1|{s10}
+dlga_manor_craftsman:manor_craftsman_tribute|{s11}
+dlga_manor_craftsman_tribute:manor_craftsman_tribute|{s0}.
+dlga_manor_craftsman_tribute:manor_craftsman_tribute_confirm|{s10}
+dlga_manor_craftsman_tribute:manor_craftsman_tribute_confirm.1|{s11}
+dlga_manor_craftsman_tribute:manor_craftsman|明 白。 
+dlga_manor_craftsman_tribute_confirm:manor_craftsman|{s0}
+dlga_manor_craftsman:close_window|{s3}
+dlga_start:manor_adv_craftsman|{先 生/女 士}， 我 有 什 么 能 帮 您 的 吗？ 
+dlga_manor_adv_craftsman:manor_adv_craftsman|是 么？ 
+dlga_manor_adv_craftsman:manor_adv_craftsman.1|我 想 要 买 点 什 么。 
+dlga_manor_adv_craftsman:close_window|再 见。 
+dlga_start:manor_seller|{s0}
+dlga_manor_seller:close_window|{s1}
+dlga_start:manor_peasent|{s0}
+dlga_manor_peasent:close_window|{s1}
+dlga_start:manor_burger|{s0}
+dlga_manor_burger:close_window|{s1}
+dlga_start:manor_noble|{s0}
+dlga_manor_noble:close_window|{s1}
+dlga_start:manor_marshal_begin|我 们 目 前 掌 握 着 {reg1}支 军 队。 您 有 什 么 命 令 么， {大 人/夫 人}？ 
+dlga_manor_marshal_begin:manor_marshal_army|我 想 征 召 一 支 新 军 队 
+dlga_manor_marshal_begin:close_window|解 散 我 所 有 的 军 队 
+dlga_manor_marshal_begin:close_window.1|继 续 吧 
+dlga_manor_marshal_army:manor_marshal_army|{s0}
+dlga_manor_marshal_army:manor_marshal_army_confirm|小 
+dlga_manor_marshal_army:manor_marshal_army_confirm.1|中 
+dlga_manor_marshal_army:manor_marshal_army_confirm.2|大 
+dlga_manor_marshal_army:manor_marshal_army_confirm.3|巨 
+dlga_manor_marshal_army:close_window|不 用 了 
+dlga_manor_marshal_army_confirm:manor_marshal_army_confirm|没 问 题， 先 生， 我 们 的 人 会 组 成 一 支 战 斗 力 量。 您 需 要 准 备 好 足 够 的 钱 来 提 供 他 们 的 维 护 和 食 物 费 用， 否 则 他 们 可 能 会 站 起 来 反 抗 你。 
+dlga_manor_marshal_army_confirm:close_window|着 手 干 吧 
+dlga_manor_marshal_army_confirm:close_window.1|不 用 了 
+dlga_start:manor_master_reply|我 们 正 在 准 备 把 农 民 安 顿 到 他 们 的 新 家 去。 几 周 之 内 我 们 就 能 完 成 这 项 事 务 了。 
+dlga_start:manor_master_reply.1|您 好， 我 有 什 么 能 帮 您 的 吗？ 
+dlga_manor_master_reply:manor_master_reply|我 们 正 在 准 备 把 农 民 安 顿 到 他 们 的 新 家 去。 几 周 之 内 我 们 就 能 完 成 这 项 事 务 了。 
+dlga_manor_master_reply:manor_master_reply.1|什 么？ 
+dlga_manor_master_reply:manor_master_makeunique|我 想 要 拆 除 这 个 庄 园， 把 所 有 附 近 的 农 民 搬 迁 到 一 个 新 的 村 庄 去。 
+dlga_manor_master_reply:manor_master_taxes|我 想 要 在 我 的 庄 园 收 税。 
+dlga_manor_master_reply:close_window|目 前 没 什 么 
+dlga_manor_master_taxes:manor_master_taxes|没 问 题， 你 想 要 收 缴 钱 还 是 货 物？ 
+dlga_manor_master_taxes:manor_master_reply|钱。 
+dlga_manor_master_taxes:manor_master_reply.1|货 物。 
+dlga_manor_master_taxes:manor_master_reply.2|不 用 了。 
+dlga_manor_master_makeunique:manor_master_makeunique|没 问 题， {大 人/夫 人}。 但 是 你 要 注 意， 我 们 会 被 迫 放 弃 所 有 的 生 产 加 成。 
+dlga_manor_master_makeunique:manor_master_reply|我 明 白， 着 手 干 吧。 
+dlga_manor_master_makeunique:manor_master_reply.1|唔… … 我 改 主 意 了。 
+dlga_start:manor_trader|{s0}
+dlga_manor_trader:manor_trader|{s0}
+dlga_manor_trader:manor_trader.1|给 我 看 下 你 的 货 物。 
+dlga_manor_trader:close_window|俄… … 我 只 是 随 便 看 看。 
+dlga_start:priest_begin|你 好， 我 的 孩 子。 你 想 要 吾 主 卑 贱 的 仆 人 帮 你 做 什 么？ 
+dlga_priest_begin:priest_begin|{s0}
+dlga_priest_begin:priest_sin|神 父， 我 想 要 忏 悔 我 的 罪 过。 
+dlga_priest_begin:priest_men|我 的 手 下 很 疲 倦， 神 父。 您 能 慈 仁 的 将 他 们 的 灵 魂 救 赎 么？ 
+dlga_priest_begin:priest_scriptorium|神 父， 我 想 要 提 供 资 金 为 您 修 缮 一 座 藏 经 楼。 
+dlga_priest_begin:close_window|再 见 
+dlga_priest_sin:priest_sin|当 然， 孩 子。 吾 主 会 宽 恕 所 有 人。 只 要 一 些 对 我 们 教 堂 小 小 的 捐 助 就 能 让 你 走 上 赎 罪 之 路 了。 
+dlga_priest_sin:priest_begin|我 凡 世 间 的 财 产 还 比 较 有 限， 神 父， 我 愿 意 捐 助 1000第 纳 尔。 
+dlga_priest_sin:priest_begin.1|我 愿 意 献 出 我 所 有 的 闲 余， 2000第 纳 尔。
+dlga_priest_sin:priest_begin.2|没 有 任 何 开 支 能 比 得 上 虔 诚 的 信 仰， 请 收 下 3000第 纳 尔 吧。 
+dlga_priest_sin:priest_begin.3|对 不 起， 神 父， 其 实 我 什 么 都 不 需 要。 
+dlga_priest_men:priest_men|我 会 很 高 兴 暂 时 终 止 为 你 手 下 布 道， 我 的 孩 子。 不 过 我 想 卑 微 的 请 求 你 下 次 光 临 时 能 展 现 你 的 慷 慨。 
+dlga_priest_men:priest_begin|很 好， 不 过 我 想 差 不 多 1000第 纳 尔 能 作 为 一 个 合 适 的 给 主 的 谢 礼。 
+dlga_priest_men:priest_begin.1|对 不 起， 神 父， 其 实 我 什 么 都 不 需 要。 
+dlga_priest_scriptorium:priest_scriptorium|当 然， 我 的 孩 子。 藏 经 楼 能 够 允 许 你 购 买 一 些 书 籍， 那 些 书 我 们 以 前 是 卖 给 商 人 的。 不 过 我 们 需 要 一 笔 {reg1}第 纳 尔 的 资 金。 
+dlga_priest_scriptorium:priest_begin|当 然。
+dlga_priest_scriptorium:priest_begin.1|对 不 起， 神 父， 我 改 主 意 了。 
 dlga_start:whore_ask|啊， 帅 哥， 有 什 么 你 需 要 的 么？ 
 dlga_start:close_window.4|不 用 担 心， 我 们 马 上 就 会 开 始 工 作。 
 dlga_whore_ask:whore_ask_army|我 想 要 给 我 的 手 下 找 些 乐 子， 可 能 你 和 你 的 那 些 女 性 朋 友 可 以 帮 上 点 忙？ 
@@ -128,6 +233,12 @@ dlga_whore_ask_army:whore_ask_army_reply|当 然， 亲 爱 的， 不 过 这 �
 dlga_whore_ask_army_reply:whore_reply_army|不 是 问 题， 只 要 让 我 的 手 下 满 意 就 行 
 dlga_whore_ask_army_reply:close_window|俄… … 我 改 主 意 了
 dlga_whore_reply_army:close_window|好 的 小 帅 哥， 我 和 我 的 女 性 朋 友 们 会 马 上 到 你 们 那 儿 去 的 
+dlga_start:merc_begin|你 的 命 令， {大 人/夫 人}？ 
+dlga_merc_begin:merc_order|我 想 要 给 你 下 达 一 些 命 令， 但 是 我 暂 时 什 么 也 想 不 到… … 
+dlga_merc_begin:close_window|解 散 军 队！  
+dlga_merc_begin:close_window.1|继 续 吧。 
+dlga_merc_order:merc_begin_hurt_yes|当 你 试 着 想 出 一 个 可 能 的 命 令 时 是 不 是 觉 得 头 疼， {大 人/夫 人}？ 
+dlga_merc_begin_hurt_yes:close_window|是 的… … 很 头 疼… … 
 dlga_start:guelphs_intro|你 想 要 什 么？ 
 dlga_start:guelphs_hostile|哈， 你 在 这 儿， 臭 鬼！ 所 有 你 们 这 些 吉 伯 林 党 人 身 上 都 有 股 脚 丫 子 味！ 
 dlga_start:close_window.5|我 能 在 一 里 外 就 闻 见 你， 所 有 的 吉 伯 林 党 人 闻 上 去 都 像 臭 脚 丫 子！ 杀 了 他 们！ 
@@ -145,7 +256,7 @@ dlga_start:welsh_hostile|发 现 入 侵 者! 上！
 dlga_start:close_window.7|入 侵 者， 去 死 吧！ 
 dlga_welsh_intro:close_window|我 是 {playername}。 我 请 求 离 开。 
 dlga_welsh_intro:welsh_hostile|我 在 英 格 兰 国 王 的 庇 护 下 行 走， 你 居 然 敢 拦 下 我 们？ 
-dlga_welsh_hostile:close_window|我 们 不 会… … 进 攻！ 〇
+dlga_welsh_hostile:close_window|你 当 我 们 不 敢？ 进 攻！ 
 dlga_start:prussians_intro|你 想 要 干 什 么？ 
 dlga_start:prussians_hostile|你 以 为 你 可 以 从 我 身 边 逃 走 么？ 
 dlga_start:close_window.8|入 侵 者， 去 死 吧！ 
@@ -1647,6 +1758,7 @@ dlga_lord_active_mission_2:lord_mission_failed|很 抱 歉， 大 人。 我 没
 dlga_lord_active_mission_3:lord_pretalk|很 好。 记 住， 我 就 看 你 的 了。 
 dlga_lord_mission_failed:lord_pretalk|{s43}
 dlga_lord_suggets_attack_enemy_castle3:lord_pretalk|应 该 可 行。 很 好， 我 们 将 进 攻 {s1}。 
+dlga_lord_talk:lord_propose_mercenary|先 生， 可 能 你 有 一 些 给 雇 佣 兵 干 的 活 儿？ 
 dlga_lord_propose_mercenary:lord_mercenary_service|正 好， {playername}， 我 答 应 {s10}我 将 为 即 将 来 临 的 战 役 招 募 一 群 雇 佣 兵。 
 dlga_lord_mercenary_service:lord_mercenary_service_reject|谢 谢， 我 没 兴 趣。 
 dlga_lord_mercenary_service:lord_mercenary_service_accept|好， 我 加 入 {s9}。 

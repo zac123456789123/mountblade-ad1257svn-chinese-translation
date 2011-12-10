@@ -304,7 +304,6 @@ mno_town_merchant|与 商 人 交 谈。
 mno_town_merchant_door|进 入 商 店。 
 mno_town_arena|进 入 竞 技 场。 
 mno_town_arena_door|进 入 竞 技 场。 
-mno_town_spawn_manor|在 当 地 的 庄 园 投 资。 
 mno_town_dungeon|永 无 可 能： 进 入 地 牢。 
 mno_town_dungeon_door|地 牢 大 门。 
 mno_castle_inspect|视 察 城 堡。 
@@ -319,6 +318,7 @@ mno_trade_with_merchants|去 市 场。
 mno_walled_center_manage|管 理 这 个 {reg0?城 镇:城 堡}。 
 mno_walled_center_move_court|移 都 到 这 里。 
 mno_castle_station_troops|管 理 {s10}驻 军 
+mno_town_spawn_manor|在 当 地 的 庄 园 投 资。 
 mno_castle_wait|在 这 里 休 息 一 会 儿 {s1}。 
 mno_town_leave|离 开… … 
 mno_town_leave_door|离 开 此 地。 
@@ -647,11 +647,42 @@ mno_Yes|对， 就 这 样 做。
 menu_pagan_stronghold|你 进 入 密 林， 发 现 了 一 个 要 塞 据 点， 它 属 于 {s21}。 
 mno_pagan_stronghold_attack|攻 打 要 塞！ 
 mno_pagan_stronghold_leave|离 开。 
-menu_manor_center|你 偶 尔 发 现 了 一 个 小 定 居 地， 它 属 于 {s21}。 
+menu_manor_center|{s9}{s21}。 {s22}{s23}
+mno_manor_debug|DEBUG this manor.
+mno_manor_center_bandits|粉 碎 那 些 杂 种。 
 mno_manor_walk|在 定 居 地 中 心 逛 逛。 
 mno_manor_improve|改 进 这 个 定 居 地。 
 mno_manor_leave|离 开。 
-menu_manor_improve_menu|你 想 把 你 的 {s0}改 建 成 {s1}么？ 这 会 增 加 它 的 产 量， 同 时 也 会 花 去 你 {reg0}
+menu_manor_build|MANOR DEBUG
+mno_manor_improve_next|Next Page
+mno_manor_improve_leave|Reset Buildings.
+mno_manor_improve_house|Improve houses
+mno_manor_improve_farm|Build grain farm
+mno_manor_improve_livestock|Build animal farm
+mno_manor_improve_fruitfarm|Build fruit farm
+mno_manor_improve_fisher|Build fishers
+mno_manor_improve_marketplace|Build Marketplace
+mno_manor_improve_tavern|Build tavern
+mno_manor_improve_whorehouse|Build Harlot houses
+mno_manor_improve_temple|Build Monastery
+mno_manor_improve_well|Dig wells
+mno_manor_improve_bakery|Build bakery
+mno_manor_improve_winery|Build Winery
+mno_manor_improve_brewery|Build Brewery
+mno_manor_improve_potter|Build Pottery
+mno_manor_improve_blacksmith|Build Blacksmith
+mno_manor_improve_butcher|Build Butchery
+mno_manor_improve_oilmaker|Build Oil Maker
+mno_manor_improve_linenworkshop|Build Linen Workshop
+mno_manor_improve_woolworkshop|Build Wool Workshop
+mno_manor_improve_tannery|Build Tannery
+mno_manor_improve_prison|Build Prison
+mno_manor_improve_armorsmith|Build Armorsmithy
+mno_manor_improve_weaponsmith|Build Weaponsmithy
+mno_manor_improve_fletcher|Build Fletchery
+mno_manor_improve_breeder|Build Stables
+mno_manor_improve_walls|Build Walls
+menu_manor_improve_menu|你 想 把 你 的 {s0}改 建 成 {s1}么？ 这 会 增 加 它 的 产 量， 同 时 也 会 花 去 你 {reg0}第 纳 尔
 mno_manor_improve_menu_accept|是 的。 
 mno_manor_improve_menu_refuse|不 了。 
 menu_center_spawn_manor|你 想 要 投 资 哪 种 建 筑？ 
@@ -666,7 +697,12 @@ mno_center_spawn_manor_armor|投 资 村 庄 的 一 名 护 甲 工 匠。 花 
 mno_center_spawn_manor_fletchery|投 资 村 庄 的 一 名 制 箭 工 匠。 花 费： {reg0}
 mno_center_spawn_manor_breeder|投 资 村 庄 的 一 名 养 马 人。 花 费： {reg0}
 mno_center_spawn_manor_leave|离 开。 
-menu_world_map_soldier|战 士， 你 想 做 什 么？
+menu_manor_infest_bandits_result|{s9}
+mno_manor_infest_victory|哈！ 到 了 掠 夺 战 利 品 的 时 间 了！ 
+mno_manor_infest_defeat|没 事， 至 少 我 还 活 着… … 
+menu_harlot_services|{s9}
+mno_harlot_services_continue|{s0}
+menu_world_map_soldier|战 士， 你 想 怎 么 做？ 
 mno_join_commander_battle|跟 随 指 挥 官 加 入 战 斗。 
 mno_enter_town|进 入 镇 守 的 城 镇。 
 mno_commander|请 求 会 见 指 挥 官。 
