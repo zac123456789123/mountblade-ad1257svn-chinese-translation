@@ -713,7 +713,7 @@ str_npc28_signup_response_1|Gamal the Arab - signup response 1{***}
 str_npc29_signup_response_1|Dragoslav the Serbian - signup response 1{***}
 str_npc30_signup_response_1|Kyril the Bulgarian - signup response 1{***}
 str_npc31_signup_response_1|Ali the Berber - signup response 1{***}
-str_npc1_signup_response_2|啊， 我 们 不 完 全 是 在 买 卖 工 作。 也 许 一 个 开 放 的 教 堂 更 适 合 你。 {***}
+str_npc1_signup_response_2|呃， 我 们 不 完 全 是 在 干 赎 罪 这 个 行 当。 也 许 一 个 开 放 的 教 堂 更 适 合 你。 
 str_npc2_signup_response_2|我 需 要 的 是 一 个 斗 志 高 昂 的 战 斗 团 队， 而 不 是 死 气 沉 沉 的 一 伙 人。 
 str_npc3_signup_response_2|事 实 上， 经 过 再 三 考 虑， 我 宁 愿 一 支 更 文 明 些 的 军 队。 
 str_npc4_signup_response_2|对 不 起， 雅 各 布， 我 们 要 找 的 是 战 士， 而 非 兔 子 杀 手。 
@@ -735,7 +735,7 @@ str_npc20_signup_response_2|Isma'il the Andalusian - signup response 2{***}
 str_npc22_signup_response_2|Alexios the Greek - signup response 2{***}
 str_npc23_signup_response_2|Hugues the Crusader - signup response 2{***}
 str_npc24_signup_response_2|Dego the Sicilian - signup response 2{***}
-str_npc25_signup_response_2|事 实 上， 一 名 过 分 急 于 追 求 荣 耀 的 战 士 对 团 队 是 非 常 危 险 的。 
+str_npc25_signup_response_2|事 实 上， 换 个 角 度 想， 一 名 过 分 急 于 追 求 荣 耀 的 战 士 对 团 队 是 非 常 危 险 的。 
 str_npc26_signup_response_2|嗯 报 复 是 一 种 困 扰， 这 需 要 充 分 的 时 间 思 考… … 也 许 换 个 时 间 吧。 
 str_npc27_signup_response_2|Erm,Sorry I'm the one doing you the favour, not the other way round. Don't think this will work out. Goodbye.{***}
 str_npc28_signup_response_2|Gamal the Arab - signup response 2{***}
@@ -817,7 +817,7 @@ str_npc22_morality_speech|Alexios the Greek - morality speech{***}
 str_npc23_morality_speech|Hugues the Crusader - morality speech{***}
 str_npc24_morality_speech|Dego the Sicilian - morality speech{***}
 str_npc25_morality_speech|Balabaan the Seljuk - morality speech{***}
-str_npc26_morality_speech|先 生， 我 来 自 一 个 具 有 优 良 传 统 的 家 庭， 就 是 无 论 敌 人 多 么 强 大 都 勇敢 面 对。 但 我 觉 得 {s21}令 我 很 不 愉 快。 我 希 望 你 作 为 团 队 领 袖， 能 注 意 自 己 在 这 件 事 上 对 大 家 不 好 的 影 响。 
+str_npc26_morality_speech|先 生， 我 来 自 一 个 具 有 优 良 传 统 的 家 庭， 就 是 无 论 敌 人 多 么 强 大 都 勇 敢 面 对。 但 我 觉 得 {s21}令 我 很 不 愉 快。 我 希 望 你 作 为 团 队 领 袖， 能 注 意 自 己 在 这 件 事 上 对 大 家 不 好 的 影 响。 
 str_npc27_morality_speech|Dilikes defeat{***}
 str_npc28_morality_speech|Gamal the Arab - morality speech{***}
 str_npc29_morality_speech|Dragoslav the Serbian - morality speech{***}
@@ -907,10 +907,10 @@ str_npc2_personalityclash2_speech|Ligeikis the Balt - personalityclash2 speech
 str_npc3_personalityclash2_speech|长 官， {s11}应 该 把 他 的 舌 头 切 掉。 
 str_npc4_personalityclash2_speech|我 讨 厌{s11}。 他 经 常 在 战 场 上 杀 掉 那 些 受 伤 了 的， 并 且 无 法 付 给 他 赎 金 的 人。 这 个 贪 婪 的 贵 族 只 是 在 寻 找 丰 富 的 赎 金， 屠 杀 普 通 人。 
 str_npc5_personalityclash2_speech|Bolko the Pole - personalityclash2 speech
-str_npc6_personalityclash2_speech|{先 生/女 士} I am sick of{s11} telling me what his demands are regarding my religious observence, when I choose to pray or follow the religious pratices is my choice.
+str_npc6_personalityclash2_speech|{先 生/女 士}， 我 对 {s11}很 反 感。 他 总 是 不 断 的 试 图 把 他 的 所 谓 宗 教 礼 节 强 加 于 我。 事 实 上 祈 祷 和 遵 从 主 的 方 式 应 该 由 我 自 己 来 选 择。 
 str_npc7_personalityclash2_speech|Istvan the Hungarian - personalityclash2 speech
 str_npc8_personalityclash2_speech|Yuriy of Novgorod - personalityclash2 speech
-str_npc9_personalityclash2_speech|{Sir/Madame}. If you don't mind, I'd prefer not to be deployed anywhere near {s11}, after what he said to me during that last battle.
+str_npc9_personalityclash2_speech|{先 生/女 士}， 如 果 你 不 介 意 的 话， 我 喜 欢 下 次 不 要 被 部 署 在 {s11}附 近。 他 上 次 战 斗 中 和 我 说 了 些 不 太 合 适 的 话。 
 str_npc10_personalityclash2_speech|Jean the Frenchman - personalityclash2 speech
 str_npc11_personalityclash2_speech|Jon the Norwegian - personalityclash2 speech
 str_npc12_personalityclash2_speech|Uilleam the Scot - personalityclash2 speech
@@ -932,7 +932,7 @@ str_npc30_personalityclash2_speech|Kyril the Bulgarian - personalityclash2 speec
 str_npc31_personalityclash2_speech|Ali the Berber - personalityclash2 speech{***}
 str_npc1_personalityclash2_speech_b|I request most urgently that you take him to one side and explain that lies and false rummors he heard from his 2nd cousin are no grounds for spreading falsehoods. Or better have him strung up from the nearest tree for his crimes.
 str_npc2_personalityclash2_speech_b|Ligeikis the Balt - personalityclash2 speech b
-str_npc3_personalityclash2_speech_b|上 次 战 斗 之 后， 在 成 堆 的 战 利 品 里， 我 从 敌 人 的 行 李 中 发 现 了 一 个 非 常 好 的 锅。 我 一 直 希 望 弄 到 一 个 好 锅， 这 样 我 就 能 炖 些 吃 的， 我 的 族 人 在 冬 天 经 常 这 样 暖 暖 自 己 的 肚 子。 但 是{s11}抢 走 了 锅， 他 告 诉 我， 我 不 能 用 异 教 徒 的 食 物 糟 蹋 了 这 锅， 这 锅 理 所 当 然 是 属 于 他 的。 虽 然 我 把 锅 让 给 了 他， 但 以 后， 我 决 不 允 许 再 出 现 这 种 不 尊 重 我 的 事 情 了。 
+str_npc3_personalityclash2_speech_b|上 次 战 斗 之 后， 在 成 堆 的 战 利 品 里， 我 从 敌 人 的 行 李 中 发 现 了 一 个 非 常 好 的 锅。 我 一 直 希 望 弄 到 一 个 好 锅， 这 样 我 就 能 炖 些 吃 的， 我 的 族 人 在 冬 天 经 常 这 样 暖 暖 自 己 的 肚 子。 但 是 {s11}抢 走 了 锅， 他 告 诉 我， 我 不 能 用 异 教 徒 的 食 物 糟 蹋 了 这 锅， 这 锅 理 所 当 然 是 属 于 他 的。 虽 然 我 把 锅 让 给 了 他， 但 以 后， 我 决 不 允 许 再 出 现 这 种 不 尊 重 我 的 事 情 了。 
 str_npc4_personalityclash2_speech_b|哪 怕 有 一 点 点 的 良 心， 他 都 不 会 做 这 样 恐 怖 的 事 情。 队 长， 你 必 须 阻 止 他 这 样 破 坏 您 的 名 声。 拥 有 一 支 勇 猛 的 军 队 是 一 回 事， 但 屠 杀 受 伤 的 穷 人 又 是 另 外 一 回 事。 
 str_npc5_personalityclash2_speech_b|Bolko the Pole - personalityclash2 speech b
 str_npc6_personalityclash2_speech_b|I would beg of you {先 生/女 士}, that you would speak with him and tell him that his attitude to my religious observences is none of his concern.
@@ -958,12 +958,12 @@ str_npc28_personalityclash2_speech_b|Gamal the Arab - personalityclash2 speech b
 str_npc29_personalityclash2_speech_b|Dragoslav the Serbian - personalityclash2 speech b{***}
 str_npc30_personalityclash2_speech_b|Kyril the Bulgarian - personalityclash2 speech b{***}
 str_npc31_personalityclash2_speech_b|Ali the Berber - personalityclash2 speech b{***}
-str_npc1_personalitymatch_speech|{s11} and I are both shunned by our orders and unlikely though it may seem, a Order Knight and a womenising ex-monk, we have become firm friends.
-str_npc2_personalitymatch_speech|战 争 是 一 件 极 可 怕 又 伟 大 的 事。 它 能 让 人 有 机 会 很 快 变 富， 也 能 让 人 甚 至 更 快 变 成 尸 体。 {s11}， 也  懂 得 这 个 道 理。  
+str_npc1_personalitymatch_speech|{s11} 和 我 都 有 些 震 惊， 因 为 看 起 来 一 件 极 端 不 可 能 的 事 正 在 变 得 有 可 能— — 一 个 骑 士 团 成 员 和 一 个 风 流 的 前 僧 侣， 我 们 俩 已 经 成 了 坚 定 的 伙 伴。 
+str_npc2_personalitymatch_speech|战 争 是 一 件 极 可 怕 又 伟 大 的 事。 它 能 让 人 有 机 会 很 快 变 富， 也 能 让 人 甚 至 更 快 变 成 尸 体。 {s11}， 也 懂 得 这 个 道 理。  
 str_npc3_personalitymatch_speech|这 仗 打 的 不 错！ 战 斗 中 能 有{s11} 在 我 们 这 边 真 是 太 棒 了。 
 str_npc4_personalitymatch_speech|{s11}总 是 告 诉 我 们 他 家 乡 大 平 原 让 人 激 动 的 故 事。 平 原 上 到 处 是 跑 的 像 风 一 样 快 的 马。 
 str_npc5_personalitymatch_speech|Bolko the Pole - personalitymatch speech
-str_npc6_personalitymatch_speech|{先 生/女 士} I must profess to having a certain amount of respect for {s11} as given his sad circumstances he is ever looking towards the future.
+str_npc6_personalitymatch_speech|{先 生/女 士}， 我 必 须 承 认 我 对 {s11}比 较 尊 敬。 就 算 环 境 惨 淡 他 也 总 向 往 着 未 来。 
 str_npc7_personalitymatch_speech|Istvan the Hungarian - personalitymatch speech
 str_npc8_personalitymatch_speech|Yuriy of Novgorod - personalitymatch speech
 str_npc9_personalitymatch_speech|{先 生/女 士}， 我 想 告 诉 你， {s11} 虽 然 可 能 是 比 较 粗 野 的 那 种 人， 但 我 还 是 会 很 自 豪 的 称 他 为 我的 伙 伴。 
@@ -988,21 +988,21 @@ str_npc29_personalitymatch_speech|Dragoslav the Serbian - personalitymatch speec
 str_npc30_personalitymatch_speech|Kyril the Bulgarian - personalitymatch speech{***}
 str_npc31_personalitymatch_speech|Ali the Berber - personalitymatch speech{***}
 str_npc1_personalitymatch_speech_b|或 许 他 懂 得 我 因 为 离 开 骑 士 团 而 所 受 到 的 折 磨。 我 们 都 是 被 开 除 的 人， 虽 然 我 还 有 挽 回 的 可 能 而 他 没 有。 主 会 看 见 他 的 好 心， 并 终 有 一 天 让 他 重 获 恩 典 的。 
-str_npc2_personalitymatch_speech_b|因 为 他 的 知 识， 他 总 能 让 自 己 活 得 很 充 实。 所 以 这 让 他成 为 了 一 个 很 棒 的 野 营 伙 伴 (camp companion)， 一 个 值 得 信 任 的 战 斗 伙 伴。 
+str_npc2_personalitymatch_speech_b|因 为 他 的 知 识， 他 总 能 让 自 己 活 得 很 充 实。 所 以 这 让 他 成 为 了 一 个 很 棒 的 野 营 伙 伴 和 一 个 值 得 信 任 的 战 斗 伙 伴。 
 str_npc3_personalitymatch_speech_b|至 于 他 的 其 他 方 面， 我 质 疑 他 那 所 谓 的 战 士 的 优 秀 传 统。 不 过 我 不 得 不 佩 服 他 说 起 自 己 主 张 时 的 厚 颜 无 耻。 
 str_npc4_personalitymatch_speech_b|尽 管 如 此， 他 总 能 用 他 内 心 永 恒 的 快 乐 和 对 生 命 的 热 爱 来 激 励 我。 事 实 上 他 甚 至 让 我 想 放 弃 自 己 的 遗 产， 找 一 个 蒙 古 包 生 活。 
 str_npc5_personalitymatch_speech_b|Bolko the Pole - personalitymatch speech b
-str_npc6_personalitymatch_speech_b|indeed {先 生/女 士}, I feel his attitude is uplifting the morale of the whole party.
+str_npc6_personalitymatch_speech_b|事 实 上， {先 生/女 士},  我 觉 得 他 的 态 度 提 升 了 我 们 整 个 部 队 的 士 气。 
 str_npc7_personalitymatch_speech_b|Istvan the Hungarian - personalitymatch speech b
 str_npc8_personalitymatch_speech_b|Yuriy of Novgorod - personalitymatch speech b
-str_npc9_personalitymatch_speech_b|Based on how he did in that last fight, I'd say that I'd trust my back to him any day. He has a stout spirit.
+str_npc9_personalitymatch_speech_b|根 据 他 上 一 场 战 斗 的 表 现， 我 敢 说 我 会 放 心 把 我 的 身 后 防 御 交 给 他。 他 有 一 颗 勇 敢 的 心。 
 str_npc10_personalitymatch_speech_b|Jean the Frenchman - personalitymatch speech b
 str_npc11_personalitymatch_speech_b|Jon the Norwegian - personalitymatch speech b
 str_npc12_personalitymatch_speech_b|Uilleam the Scot - personalitymatch speech b
 str_npc13_personalitymatch_speech_b|Aedh the Irishman - personalitymatch speech b
 str_npc14_personalitymatch_speech_b|Karl the Swede - personalitymatch speech b
 str_npc15_personalitymatch_speech_b|Ivan of Galicia - personalitymatch speech b
-str_npc16_personalitymatch_speech_b|It saddens him deeply to take the lives of his fellow men, however just the cause. He and I have talked together of a brighter future, of the need to unite these petty warring kingdoms, so that we may bring this time of troubles to an end.
+str_npc16_personalitymatch_speech_b|不 得 不 终 结 他 同 族 人 生 命 使 他 伤 心 极 了， 但 这 只 是 个 缘 由。 他 和 我 一 起 谈 论 了 一 个 光 辉 的 未 来：  统 一 所 有 这 些 正 在 争 斗 中 的 小 国， 这 样 我 们 才 能 给 这 个 战 乱 的 时 代 画 上 句 点。 
 str_npc17_personalitymatch_speech_b|Jaume of Aragon - personalitymatch speech b{***}
 str_npc18_personalitymatch_speech_b|Fernando the Castillan - personalitymatch speech b{***}
 str_npc20_personalitymatch_speech_b|Isma'il the Andalusian - personalitymatch speech b{***}
@@ -1016,7 +1016,7 @@ str_npc28_personalitymatch_speech_b|Gamal the Arab - personalitymatch speech b{*
 str_npc29_personalitymatch_speech_b|Dragoslav the Serbian - personalitymatch speech b{***}
 str_npc30_personalitymatch_speech_b|Kyril the Bulgarian - personalitymatch speech b{***}
 str_npc31_personalitymatch_speech_b|Ali the Berber - personalitymatch speech b{***}
-str_npc1_retirement_speech|Noble Lord I have decided now is the time has come were I would like to attempt to rejoin my most holy order. I hope you are understanding to my wishes and allow me to leave without any trouble.
+str_npc1_retirement_speech|尊 贵 的 大 人， 我 觉 得 现 在 是 时 间 让 我 重 新 加 入 我 的 神 圣 的 骑 士 团 了。 我 希 望 你 能 够 理 解 我 的 意 愿， 并 允 许 我 毫 无 阻 拦 的 离 开。 
 str_npc2_retirement_speech|Ligeikis the Balt - retirement speech
 str_npc3_retirement_speech|自 从 我 接 受 了 你 的 盐， 我 一 直 为 你 勇 猛、 忠 心 地 作 战。 但 你 却 没 能 用 你 应 有 的 领 导 来 报 偿 我 的 效 忠。 所 以 我 要 回 家 了， 去 看 我 的 父 亲 和 兄 弟， 希 望 可 汗 的 人 已 经 忘 记 了 我。 
 str_npc4_retirement_speech|大 人， 我 觉 得 我 在 您 的 指 挥 下 一 支 干 得 不 错， 不 过 现 在 我 想 回 家 了。 我 已 经 挣 了 足 够 的 钱， 可 以 在 家 乡 给 自 己 弄 一 个 小 家 了。 如 果 将 来 能 再 见 到 老 朋 友， 那 一 定 很 有 意 思。 
@@ -1031,7 +1031,7 @@ str_npc12_retirement_speech|Uilleam the Scot - retirement speech
 str_npc13_retirement_speech|Aedh the Irishman - retirement speech
 str_npc14_retirement_speech|Karl the Swede - retirement speech
 str_npc15_retirement_speech|Ivan of Galicia - retirement speech
-str_npc16_retirement_speech|I've done all right in your company. I filled my belly, put some gold in my purse, and put some distance between me and my past. I think it's time for me to take my skills coin and open an apothecary. I shall be going home
+str_npc16_retirement_speech|我 在 你 的 团 队 里 干 的 不 错。 我 填 饱 了 自 己 的 肚 子， 钱 包 里 有 了 些 积 蓄， 也 和 自 己 的 过 去 有 了 不 小 的 距 离。 我 认 为 是 时 候 重 操 旧 业， 开 一 家 药 剂 店 了。 我 现 在 该 回 家 了。 
 str_npc17_retirement_speech|Jaume of Aragon - retirement speech{***}
 str_npc18_retirement_speech|Fernando the Castillan - retirement speech{***}
 str_npc20_retirement_speech|Isma'il the Andalusian - retirement speech{***}
@@ -1048,12 +1048,12 @@ str_npc31_retirement_speech|Ali the Berber - retirement speech{***}
 str_npc1_rehire_speech|队 长， 我 回 到 了 骑 士 团 的 总 部， 他 们， 骑 士 团 的 领 导 人 们， 拒 绝 见 我， 更 别 提 听 我 的 辩 解。 因 此 我 又 在 各 个 酒 馆 间 游 荡， 寻 找 需 要 帮 助 的 勇 敢 战 士 团 队。 您 还 能 让 我 回 到 队 伍 吗？ 
 str_npc2_rehire_speech|Ligeikis the Balt - rehire speech
 str_npc3_rehire_speech|你 的 名 声 真 大， 甚 至 已 经 越 过 了 高 山 到 了 我 的 家 乡。 我 本 想 回 家， 寄 希 望 于 可 汗 的 人 忘 了 我。 可 他 们 没 有， 我 还 没 踏 进 我 的 村 庄， 我 家 里 人 就 给 我 传 话， 说 可 汗 和 Humyan 正 在 找 我。 所 以 我 又 回 来 了， 看 看 有 没 有 机 会 再 同 你 一 起 战 斗。 希 望 你 已 经 忘 记 了 我 说 过 的 那 些 冒 犯 的 话。 
-str_npc4_rehire_speech|大 人， 能 见 到 您 真 好。 自 从 我 离 开 你 之 后 全 是 麻 烦。 我 在 回 家 路 上 被 袭 击 了 几 次， 导 致 我 损 失 了 几 匹 很 贵 的 马。 当 我 回 到 家 乡 之 后， 我 的 老 朋 友 竟 嫉 妒 我 已 经 很 微 薄 的 积 蓄。 他 们 把 我 绑 了 起 来， 抢 走了 我 的 财 产 并 把 我 扔 出 了 村 庄。 所 以 I'm at your mercy。 您 还 需 要 一 个 狂 战 士 吗？ {***}
+str_npc4_rehire_speech|大 人， 能 见 到 您 真 好。 自 从 我 离 开 你 之 后 全 是 麻 烦。 我 在 回 家 路 上 被 袭 击 了 几 次， 导 致 我 损 失 了 几 匹 很 贵 的 马。 当 我 回 到 家 乡 之 后， 我 的 老 朋 友 竟 嫉 妒 我 已 经 很 微 薄 的 积 蓄。 他 们 把 我 绑 了 起 来， 抢 走 了 我 的 财 产 并 把 我 扔 出 了 村 庄。 所 以 愿 你 怜 悯 我， 您 还 需 要 一 个 狂 战 士 吗？ 
 str_npc5_rehire_speech|Bolko the Pole - rehire speech
 str_npc6_rehire_speech|Hello again {先 生/女 士}. Am I pleased to see your face again. My dreams to be a master builder like my father is in ruins, the project I was involved has hit the wall, bankrupt, and to make matters worse the lord I was building for said I stole money from the project...So again I am sat in a tavern contemplating my future, and your face shows up. Any chance of another term of employment?
 str_npc7_rehire_speech|Istvan the Hungarian - rehire speech
 str_npc8_rehire_speech|Yuriy of Novgorod - rehire speech
-str_npc9_rehire_speech|{Sir/Madame}! It's good to see you again. But I'll confess -- I've been looking for you. The town council is strict about their decisions, and though it pained everybody who was present, they stood by their decision to exile me. I truly have nowhere to go, now.
+str_npc9_rehire_speech|{先 生/女 士}！ 很 高 兴 再 见 到 你！ But I'll confess -- I've been looking for you. The town council is strict about their decisions, and though it pained everybody who was present, they stood by their decision to exile me. I truly have nowhere to go, now.
 str_npc10_rehire_speech|Jean the Frenchman - rehire speech
 str_npc11_rehire_speech|Jon the Norwegian - rehire speech
 str_npc12_rehire_speech|Uilleam the Scot - rehire speech
