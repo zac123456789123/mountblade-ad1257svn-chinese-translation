@@ -780,7 +780,7 @@ dlga_dplmc_lord_declare_war_kingdoms_select:lord_pretalk|算 了。
 dlga_dplmc_lord_declare_war_ask_why:dplmc_lord_declare_war_why|你 有 什 么 理 由 可 以 说 服 我 向 {s11}宣 战？ 
 dlga_dplmc_lord_declare_war_why:dplmc_lord_declare_war_anything_else|他 们 很 软 弱， 我 们 可 以 轻 易 的 击 败 他 们。 
 dlga_dplmc_lord_declare_war_why:dplmc_lord_declare_war_anything_else.1|我 们 已 经 无 法 再 容 忍 他 们 的 挑 衅 了。 
-dlga_dplmc_lord_declare_war_why:dplmc_lord_declare_war_anything_else.2|他 们 正 处 于 战 火 之 中， 无 法 分 心 对 付 我 们。 {***}我 们 可 以 趁 人 之 危。 
+dlga_dplmc_lord_declare_war_why:dplmc_lord_declare_war_anything_else.2|他 们 正 处 于 战 火 之 中， 我 们 可 以 趁 人 之 危。 
 dlga_dplmc_lord_declare_war_why:dplmc_lord_declare_war_anything_else.3|这 是 我 们 千 载 难 逢 的 机 会。 
 dlga_dplmc_lord_declare_war_why:dplmc_lord_declare_war_anything_else.4|我 们 应 该 夺 回 我 们 所 失 去 的 领 地。 
 dlga_dplmc_lord_declare_war_why:dplmc_lord_declare_war_decision|我 已 经 提 出 了 所 有 应 该 开 战 的 理 由， 请 您 仔 细 考 虑 下！ 
@@ -789,9 +789,9 @@ dlga_dplmc_lord_declare_war_anything_else:dplmc_lord_declare_war_why|当 然， 
 dlga_dplmc_lord_declare_war_decision:close_window|你 说 服 了 我， 我 们 立 刻 向 {s11}宣 战。 
 dlga_dplmc_lord_declare_war_decision:close_window.1|不， 我 无 法 赞 同 你 的 想 法， 我 们 不 会 向 {s11}宣 战。 
 dlga_spouse_talk:dplmc_spouse_move_residence_ask|我 希 望 迁 居。 
-dlga_dplmc_spouse_move_residence_ask:dplmc_spouse_move_residence_tools|迁 居 后 需 要 重 新 装 修。 具 体 来 说， 我 们 需 要 一 组 工 具 和 两 沓 亚 麻 布。 
-dlga_dplmc_spouse_move_residence_tools:dplmc_spouse_move_residence_select_ask|好 的， 我 认 为 我 们 已 经 具 备 了 所 有 迁 居 所 虚 的 东 西。 
-dlga_dplmc_spouse_move_residence_tools:spouse_pretalk|好 的， 我 认 为 我 应 该 去 购 买 一 组 工 具 和 一 些 亚 麻 布。 
+dlga_dplmc_spouse_move_residence_ask:dplmc_spouse_move_residence_tools|迁 居 后 需 要 重 新 装 修。 具 体 来 说， 我 们 需 要 一 组 工 具 和 两 沓 毛 料。 
+dlga_dplmc_spouse_move_residence_tools:dplmc_spouse_move_residence_select_ask|好 的， 我 认 为 我 们 已 经 具 备 了 所 有 迁 居 所 需 的 东 西。 
+dlga_dplmc_spouse_move_residence_tools:spouse_pretalk|好 的， 我 认 为 我 应 该 去 购 买 一 组 工 具 和 一 些 毛 料。 
 dlga_dplmc_spouse_move_residence_select_ask:dplmc_spouse_move_residence_select|你 想 迁 到 哪？ 
 dlga_dplmc_spouse_move_residence_select:dplmc_spouse_move_residence_ask_confirm|{s6}。 
 dlga_dplmc_spouse_move_residence_select:spouse_pretalk|我 改 变 主 意 了。 
@@ -799,9 +799,9 @@ dlga_dplmc_spouse_move_residence_ask_confirm:dplmc_spouse_move_residence_confirm
 dlga_dplmc_spouse_move_residence_confirm:dplmc_spouse_move_residence_moved|是 的， 就 拜 托 给 你 了。 
 dlga_dplmc_spouse_move_residence_confirm:spouse_pretalk|算 了。 
 dlga_dplmc_spouse_move_residence_moved:spouse_pretalk|如 你 所 愿， 我 将 会 安 排 好 迁 居 到 {s6}的 事 情 的。 
-dlga_minister_diplomatic_initiative_type_select:minister_diplomatic_emissary|用战争的威胁来恐吓他们， 看看你能从他们那儿榨取些什么
+dlga_minister_diplomatic_initiative_type_select:minister_diplomatic_emissary|用 战 争 的 威 胁 来 恐 吓 他 们， 看 看 你 能 从 他 们 那 儿 榨 取 些 什 么。
 dlga_event_triggered:dplmc_companion_threaten_request_response|终 于 找 到 您 了， {s21}大 人。 我 刚 完 成 {s31}的 任 务 归 来。 
-dlga_dplmc_companion_threaten_request_response:companion_rejoin_response|他 们 支 付 了 {s21}第 纳 尔 以 换 取 和 平。 我 已 代 表 您 签 署 了 一 份 为 期 40 天 的 停 战 条 约。 
+dlga_dplmc_companion_threaten_request_response:companion_rejoin_response|他 们 支 付 了 {s21}第 纳 尔 以 换 取 和 平。 我 已 代 表 您 签 署 了 一 份 为 期 40天 的 停 战 条 约。 
 dlga_dplmc_companion_threaten_request_response:companion_rejoin_response.1|他 们 向 我 们 宣 战 了。 
 dlga_dplmc_companion_threaten_request_response:companion_rejoin_response.2|他 们 不 接 受 我 们 的 威 胁。 
 dlga_minister_diplomatic_initiative_type_select:dplmc_minister_gift_type|我 希 望 送 一 份 礼 物 表 达 友 好。 
