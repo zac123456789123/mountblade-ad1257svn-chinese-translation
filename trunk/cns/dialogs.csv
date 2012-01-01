@@ -1,4 +1,4 @@
-﻿dlga_award_fief_to_vassal:award_fief_to_vassal_defer|我 想 把 这 个 任 命 先 放 一 放， 等 我 听 取 了 其 他 人 的 意 见 之 后， 再 作 决 定。 
+dlga_award_fief_to_vassal:award_fief_to_vassal_defer|我 想 把 这 个 任 命 先 放 一 放， 等 我 听 取 了 其 他 人 的 意 见 之 后， 再 作 决 定。 
 dlga_award_fief_to_vassal_defer:close_window|如 你 所 愿， {陛 下/尊 敬 的 女 士}。 你 可 以 改 日 再 作 决 定。 
 dlga_award_fief_to_vassal_2:close_window|如 你 所 愿， {陛 下/尊 敬 的 女 士}。 {reg6?我 :{reg7?你 :{s11}}}将 成 为 {s1}的 新 {reg3?主 人 :主 人 }。 
 dlga_event_triggered:center_captured_rebellion|{s1}目 前 还 无 人 治 理。 我 应 该 把 这 权 力 交 给 谁 呢？ 
@@ -309,7 +309,7 @@ dlga_member_review_castellan_equipment:member_castellan_pretalk|好 的， 全 �
 dlga_member_castellan_talk:member_castellan_join|我 想 要 你 放 弃 城 堡， 然 后 加 入 我 的 队 伍。 
 dlga_member_castellan_join:close_window|我 已 经 有 点 喜 欢 这 个 地 方 了， 但 如 果 这 是 你 的 愿 望， {playername}， 我 会 跟 你 走。 
 dlga_member_castellan_join:member_castellan_pretalk|我 们 睡 在 哪 里？ 你 可 是 带 着 一 整 支 军 队， {playername}， 没 有 足 够 的 地 方 让 所 有 人 住 下。 
-dlga_start:member_inn_talk|你 想 让 我 重 新 加 入 你 吗？ 
+dlga_member_castellan_talk:close_window|离 开 
 dlga_member_chat:kidnapped_girl_chat_1|我 们 到 家 了 吗？ 
 dlga_kidnapped_girl_chat_1:kidnapped_girl_chat_2|还 没 有。 
 dlga_kidnapped_girl_chat_2:close_window|我 已 经 等 不 及 要 回 家 了， 我 无 比 思 念 我 的 家 人， 我 现 在 愿 意 做 任 何 事 情 以 与 他 们 重 逢。 
@@ -1979,7 +1979,7 @@ dlga_lady_captive_confirm:close_window|抱 歉— — 你 肯 定 误 会 我 �
 dlga_lady_captive_confirm:close_window.1|联 系 你 的 家 人 让 他 们 准 备 赎 金， 尊 敬 的 女 士 ． 
 dlga_kingdom_lady_captive:close_window|那 就 写 信 给 你 的 家 人， 然 他 们 赶 紧 支 付 赎 金！ 
 dlga_kingdom_lady_captive:close_window.1|我 改 变 主 意 了— — 你 可 以 走 了。 
-dlga_start:close_window.31|嗯， {playername}— — 你 和 {s10}进 行 了 一 场 决 斗 但 是 输 了。 根 据 我 们 的 荣 誉 和 传 统， 我 不 能 再 接 受 你 了。 再 见 了， {playername}。 
+dlga_start:close_window.31|{s43}
 dlga_start:lady_duel_lost|噢 {playername}— — 我 听 说 你 和 {s10}决 斗 了。 我 希 望 你 没 有 和 他 打 过。 因 为 荣 誉 和 传 统 不 允 许 我 跟 随 一 个 失 败 者， 你 输 给 了 他， 我 们 的 关 系 也 就 断 绝 了。 保 重 {playername}。 
 dlga_lady_duel_lost:close_window|很 好— — 我 们 必 须 尊 重 传 统 办 事… … 再 见， 尊 敬 的 女 士 
 dlga_lady_duel_lost:lady_duel_lost_flaunt_conventions|就 让 荣 誉 和 传 统 到 一 边 去 吧！ 
@@ -2324,7 +2324,7 @@ dlga_start:close_window.37|你 又 一 次 救 了 我 们 的 命， {playernam
 dlga_start:close_window.38|你 来 的 正 是 时 候！ {playername}。 我 向 你 致 以 最 深 厚 的 感 谢！ {s43}
 dlga_start:close_window.39|你 来 的 正 是 时 候， {playername}。 我 不 会 忘 记 你 的 帮 助 的。 {s43}
 dlga_start:close_window.40|在 这 里 遇 上 你 我 感 到 很 高 兴， {playername}。 {s43}
-dlga_start:close_window.31|{s43}
+dlga_start:close_window.41|{s43}
 dlga_start:close_window.42|{s43}
 dlga_start:close_window.43|多 谢 你 出 手 相 助， {先 生/夫 人}。 你 救 了 {reg1?我 们:我} 的 命。 
 dlga_start:close_window.44|多 谢 你 出 手 相 助， {先 生/夫 人}。 我 们 刚 刚 状 况 不 妙， 你 的 及 时 出 现 扭 转 了 战 局。 
@@ -3291,7 +3291,7 @@ dlga_lord_specialise:lord_specialise|你 是？
 dlga_lord_specialise:lord_request_enlistment|一 位 愤 怒 的 农 民！ 
 dlga_lord_specialise:lord_request_enlistment.1|一 个 胖 胖 的 小 市 民！ 
 dlga_lord_specialise:lord_request_enlistment.2|一 名 落 魄 的 贵 族！ 
-dlga_lord_request_enlistment:lord_tal|我 希 望 你 能 够 好 好 的 为 我 服 务， {playername}。 这 里 是 一 些 配 发 的 标 准 装 备。 
+dlga_lord_request_enlistment:lord_talk|我 希 望 你 能 够 好 好 的 为 我 服 务， {playername}。 这 里 是 一 些 配 发 的 标 准 装 备。 
 dlga_lord_request_enlistment:lord_pretalk|我 不 够 相 信 你， 所 以 不 能 允 许 你 为 我 服 务。 
 dlga_lord_talk:lord_request_retire|大 人， 我 希 望 我 能 引 退。 
 dlga_lord_request_retire:lord_pretalk|那 好 吧， {playername}， 你 不 用 再 服 役 了。 
@@ -3299,4 +3299,3 @@ dlga_lord_talk:lord_request_vacation|大 人， 我 因 个 人 原 因 想 请 
 dlga_lord_request_vacation:lord_pretalk|那 好 吧， {playername}， 我 可 以 暂 时 免 除 你 在 军 队 服 役 的 职 责。 两 周 内 你 必 须 回 来。 
 dlga_lord_talk:ask_return_from_leave|大 人， 我 已 经 准 备 好 回 归 您 的 旌 旗 之 下 了。 
 dlga_ask_return_from_leave:lord_pretalk|欢 迎 回 来， {playername}， 战 友 们 都 挺 想 念 你 的。 现 在 回 到 你 的 岗 位 上 去 吧。 
- 

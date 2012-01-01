@@ -156,7 +156,7 @@ qstr_Next_Payday:_{s25}|下 一 个 工 资 日： {s25}
 qstr_Current_Wage:_{reg23|目 前 工 资： {reg23}第 纳 尔 
 qstr_Army_size:_{reg26}|部 队 规 模： {reg26}
 qstr_Commander_s_Army|指 挥 官 的 部 队 
-qstr_ERROR____wrong_numbe|ERROR -- wrong number of villages, need {reg26} have {reg27}
+qstr_ERROR____wrong_numbe|ERROR -- wrong number of villages， need {reg26} have {reg27}
 qstr_ERROR____Castles:_{r|ERROR -- Castles: {reg28} seneschals: {reg26}
 qstr_ERROR____Villages:_{|ERROR -- Villages: {reg27} elders: {reg26}
 qstr_ERROR____Towns:_{reg|ERROR -- Towns: {reg25} seneschals: {reg26}
@@ -561,7 +561,7 @@ qstr_There_has_been_an_al|有 涉 嫌 边 境 事 件： {s9}
 qstr_^^Note_that_so_long_|^^注 意 只 要 你 还 在 做 元 帅， 这 个 国 家 的 领 主 们 都 会 等 着 让 你 率 领 他 们 进 行 战 役。 所 以， 如 果 你 正 在 准 备 一 场 宴 会， 或 者 是 婚 礼 以 及 其 它 活 动， 你 也 许 要 去 和 你 的 领 主 谈 谈 来 辞 去 元 帅 的 职 务。 
 qstr_You_came_by_caravan_|你 跟 着 一 支 商 队 穿 过 了 欧 洲 的 中 心 地 带。 望 向 那 些 起 伏 的 山 脉， 可 以 看 到 小 麦 、 大 麦 和 燕 麦 的 青 苗 正 冲 出 黑 暗 的 地 下， 旺 盛 地 生 长。 而 在 那 些 积 雪 的 山 峰 下 面 的 山 坡， 成 群 的 牛 羊 正 吃 着 美 味 的 春 草， 有 时， 你 还 能 看 到 象 征 着 贵 族 的 高 头 战 马。 这 里 无 疑 是 富 饶 的， 但 也 充 满 动 乱， 偶 尔 能 看 到 的 被 烧 毁 的 农 场 就 是 很 好 的 证 明。 你 始 终 保 持 自 己 的 营 地 远 离 那 些 森 林， 那 里 是 那 些 走 投 无 路 的 人 们 的 庇 护 所。 你 终 于 松 了 口 气， 伟 大 的 {s1}已 经 出 现 在 视 线 里 了， 在 夕 阳 的 余 晖 下， 城 市 的 屋 顶 泛 出 一 片 金 光。 
 qstr_unknown_faction_in_m|unknown faction in module game menus start phase 4!{***}
-qstr_Try_as_you_might_you_|你 可 以 试 一 试 , 看 能 不 能 打 败 这 些 暴 乱 的 村 民。 
+qstr_Try_as_you_might_you_|你 可 以 试 一 试 ， 看 能 不 能 打 败 这 些 暴 乱 的 村 民。 
 qstr_positive|积 极 的 
 qstr_negative|消 极 的 
 qstr_relation:_{reg0}|关 系： {reg0}
@@ -569,8 +569,8 @@ qstr_You_came_across_a_sm|你 碰 到 了 一 个 小 型 居 住 点。 它 属
 qstr_You_came_across_a_sma|你 碰 到 了 一 个 废 弃 的 小 型 居 住 点。 它 属 于 
 qstr_A_new_manor_is_being|一 个 新 的 庄 园 正 在 建 设， 农 民 搬 迁 到 附 近 生 活。
 qstr_Troublesome_bandits_|讨 厌 的 土 匪 正 在 虐 待 农 民。
-qstr_A_Company_of_mercena|一 队 雇 佣 兵 正 在 制 造 麻 烦。 人 们 谈 论 到, 他 们 装 备 精 良!
-qstr_Current_population:_|当 前 人 口: {reg0}, 当 前 繁 荣 度: {reg1}
+qstr_A_Company_of_mercena|一 队 雇 佣 兵 正 在 制 造 麻 烦。 人 们 谈 论 到， 他 们 装 备 精 良!
+qstr_Current_population:_|当 前 人 口: {reg0}， 当 前 繁 荣 度: {reg1}
 qstr_Salt_Trader|盐 商 
 qstr_Salt_Mine|盐 矿 
 qstr_Iron_Trader|铁 商 
@@ -585,12 +585,12 @@ qstr_A_master_weaponsmith|一 位 武 器 大 师 已 经 被 新 铁 匠 铺 �
 qstr_A_master_armorsmith_|一 位 护 甲 大 师 已 经 被 新 铁 匠 铺 雇 佣 了 
 qstr_A_master_fletcher_ha|一 位 制 箭 大 师 已 经 被 新 铁 匠 铺 雇 佣 了 
 qstr_A_master_Horse_Breed|一 位 养 马 大 师 已 经 被 新 马 厩 雇 佣 了 
-qstr_You_slaughter_the_ba|你 宰 了 那 个 杂 种, 好 像 他 们 一 无 所 有!    农 民 们 在 不 久 举 行 的 盛 宴 中 欢 呼 你 的 名 字    并 且 为 你 庆 功!    
-qstr_Try_as_you_might_you_c|经 过 你 可 能 的 尝 试, 你 不 能 打 败 这 个 混 蛋。 他 们 高 兴 的 解 决 了 和 农 民 的 问 题 然 后 离 开 了, 到 别 的 地 方 去 庆 祝。
-qstr_Relationship_with_th|和 地 域 中 心 的 关 系 提 升 了!
+qstr_You_slaughter_the_ba|你 宰 了 那 个 杂 种， 好 像 他 们 什 么 都 不 是！ 农 民 们 在 不 久 举 行 的 盛 宴 中 欢 呼 你 的 名 字 并 且 为 你 庆 功！ 
+qstr_Try_as_you_might_you_c|虽 然 你 已 经 尽 你 所 能， 你 还 是 无 法 打 败 这 些 混 蛋。 他 们 拿 那 些 农 民 “取 乐” 后， 离 开 到 别 的 地 方 庆 祝 去 了。
+qstr_Relationship_with_th|和 地 域 中 心 的 关 系 提 升 了！ 
 qstr_Relationship_with_the|和 地 域 中 心 的 关 系 恶 化 了
-qstr_You_walk_with_the_ha|你 和 妓 女 谈 了 去 一 个 隐 私 的 房 间 取 乐。 这 种 经 验 是 非 常 愉 快 的， 让 你 忘 记 了 自 己 所 有 的 烦 恼.
-qstr_And_my_Johnson_becam|我 的 约 翰 逊 实 在 是 太 痒 了...
+qstr_You_walk_with_the_ha|你 和 妓 女 去 了 一 个 私 密 的 房 间 取 乐。 这 经 历 非 常 愉 快， 让 你 忘 记 了 自 己 所 有 的 烦 恼.
+qstr_And_my_Johnson_becam|我 的 约 翰 逊 实 在 是 太 痒 了… … 
 qstr_Breaking_camp...|终 止 宿 营… … 
 qstr_Your_kingdoms_feast|你 的 王 国 的 宴 会 已 经 终 止 了。 
 qstr_Your_men_are_not_hap|你 的 手 下 对 部 队 的 组 成 不 太 满 意！ 
@@ -637,10 +637,10 @@ qstr_You_are_not_strong_e|你 还 不 够 强 壮， 没 法 挥 舞 起 晋 升
 qstr_Sorry_You_are_not_st|抱 歉， 你 还 不 够 强 壮， 无 法 支 持 晋 升 后 配 发 的 盔 甲 的 重 量。 
 qstr_Sorry_but_your_arms_|抱 歉， 你 的 臂 力 太 弱 了， 暂 时 还 无 法 从 弓 手 队 列 里 晋 级。 
 qstr_Fortified_Manor|升 级 庄 园
-qstr_gold_:{reg0}|第 纳 尔 :{reg0}
-qstr_population_:{reg0}|人 口 :{reg0}
-qstr_final_gold_:{reg0}|最 后 的 第 纳 尔 :{reg0}
-qstr_Your_manor_at_{s0}_h|你 的 庄 园 在 {s0} 已 废 弃
+qstr_gold_:{reg0}|第 纳 尔： {reg0}
+qstr_population_:{reg0}|人 口： {reg0}
+qstr_final_gold_:{reg0}|预 计 的 第 纳 尔： {reg0}
+qstr_Your_manor_at_{s0}_h|你 在 {s0}的 庄 园 已 被 废 弃
 qstr_You_require_more_hor|你 的 下 一 级 晋 升 需 要 你 有 更 高 的 骑 术！ 
 qstr_The_released_prisone|释 放 的 囚 犯 不 可 信 任， 他 们 准 备 攻 击 你！ 
 qstr_Warning!|警 告！ 
@@ -666,88 +666,88 @@ qstr__no_fiefs_|（没 有 封 地）
 qstr__fiefs:_{s0}_|（封 地： {s0}） 
 qstr_take_out_from_the_tr|从 国 库 取 出
 qstr_put_into_the_treasur|投 入 国 库
-qstr_{s2}_{s0}|{s2}, {s0}
+qstr_{s2}_{s0}|{s2}， {s0}
 qstr_settlement|定 居 点
-qstr_{s6}_{s4}|{s6}, {s4}
+qstr_{s6}_{s4}|{s6}， {s4}
 qstr_We_currently_have_no|我 们 目 前 没 有 建 设 项 目
-qstr_Currently_were_are_b|目 前 正 在 建 设: {s5}
+qstr_Currently_were_are_b|目 前 正 在 建 设： {s5}
 qstr_However_currently_we|然 而 我 们 目 前 没 有 足 够 的 第 纳 尔 来 建 造 它。
-qstr_This_building_will_t|这 座 建 筑 将 花 费 一 个 星 期 来 建 造。
-qstr__cost:{reg0}_have:{r| 花 费:{reg0}, 拥 有:{reg1}
+qstr_This_building_will_t|这 座 建 筑 将 需 要 一 个 星 期 来 建 造。
+qstr__cost:{reg0}_have:{r|花 费： {reg0}， 拥 有： {reg1}
 qstr_High|高
 qstr_Medium|中 等
-qstr_....I_have_absolutel|....我 绝 对 不 知 道
+qstr_....I_have_absolutel|… … 我 绝 对 不 知 道
 qstr_I_m_sure_the_people_|我 敢 肯 定， 人 们 将 对 这 一 决 定 感 到 满 意 {主 人/夫 人}
-qstr_As_you_command._This|由 于 你 的 命 令， 这 是 一 个 合 理 的 做 法, {主 人/夫 人}
-qstr_We_will_make_those_s|我 们 将 让 那 些 臭 农 民 尖 叫 {主 人/夫 人}!... 让 我 们 希 望 他 们 不 造 反...
+qstr_As_you_command._This|由 于 你 的 命 令， 这 是 一 个 合 理 的 做 法， {主 人/夫 人}
+qstr_We_will_make_those_s|我 们 将 让 那 些 臭 农 民 尖 叫， {主 人/夫 人}!… … 让 我 们 希 望 他 们 不 会 造 反… … 
 qstr_I_m_confused!|我 很 困 惑!
-qstr_Our_storage_is_full_|我 们 的 仓 库 已 满， 我 们 不 能 接 受 任 何 从 民 间 进 贡 的 产 品!
+qstr_Our_storage_is_full_|我 们 的 仓 库 已 满， 我 们 无 法 再 接 受 任 何 从 民 间 进 贡 的 产 品!
 qstr_farm|农 场
 qstr_shop|商 店
-qstr_I_d_like_to_buy_some|我 想 买 些 东 西。  你 能 让 我 看 看 你 的 货 吗?. 尤 其 是 我!
+qstr_I_d_like_to_buy_some|我 想 买 些 东 西。 你 能 让 我 看 看 你 的 货 吗？ 特 别 是 那 些 只 有 我 能 看 的！ 
 qstr_I_want_to_see_your_g|我 想 看 你 的 货。
-qstr_YOU_smelly_peasent._|你, 臭 农 民。 让 我 看 看 你 卖 的 什 么 不 然 我 要 把 你 的 蛋 蛋 扯 下 来， 塞 回 你 的 嘴 里!
-qstr_I_would_like_to_talk|我 想 谈 谈 你 的 税。 尤 其 是 我!
+qstr_YOU_smelly_peasent._|你， 臭 农 民。 让 我 看 看 你 卖 的 什 么， 不 然 我 就 把 你 的 蛋 蛋 扯 下 来， 塞 回 你 的 嘴 里!
+qstr_I_would_like_to_talk|我 想 谈 谈 你 的 税。 特 别 是 那 些 只 有 我 能 弄 到 的！ 
 qstr_I_want_to_talk_about|我 想 谈 谈 你 对 我 的 进 贡。
-qstr_Peasent_tell_me_abou|现 在， 再 次 讲 一 下 你 对 我 的 进 贡。 我 喜 欢 听 到 人 们 付 给 我
+qstr_Peasent_tell_me_abou|现 在， 请 再 讲 一 下 你 对 我 的 进 贡。 我 喜 欢 听 到 人 们 付 给 我 
 qstr_money|钱
 qstr_goods|货
-qstr_The_taxes_are_low_an|人 们 因 为 税 收 低 而 崇 拜 你, {主 人/夫 人}。 尤 其 是 我! 你 可 能 知 道 我 正 在 形 式 的 支 付 这 些 税 款 {s1}
-qstr_I_am_currently_payin|我 正 在 支 付 税 金 {s1}。 税 收 很 合 理， 但 是 降 低 它 会 使 你 更 亲 近 人 民, {主 人/夫 人}
-qstr_Ah..._well..._I.._I_|啊... 好 吧... 我.. 我 没 有 太-太-太 多 来 支 付 给 你, 你 的 高 税 收 让 我 离 开 了 最 后 的 房 子， 我...我 提 供 给 你 贡 品 {s1}。 请 不 要 伤 害 我{主 人/夫 人}
-qstr_If_it_s_fine_with_yo|如 果 这 对 于 你 很 好, 我 将 用 金 钱 来 接 收 我 的 付 款
+qstr_The_taxes_are_low_an|人 们 因 为 税 收 低 而 崇 拜 你， {主 人/夫 人}。 尤 其 是 我! 你 可 能 知 道 我 正 在 以 {s1}的 形 式 支 付 这 些 税 款 
+qstr_I_am_currently_payin|我 正 在 支 付 税 金 {s1}。 税 收 很 合 理， 但 是 降 低 它 会 使 你 更 亲 近 人 民， {主 人/夫 人}
+qstr_Ah..._well..._I.._I_|啊… … 好 吧… … 我… … 我 没 有 太- 太- 太 多 来 支 付 给 你， 你 的 高 税 收 迫 使 我 我 离 开 了 我 最 后 一 栋 房 子， 我… … 我 会 以 {s1} 来 作 为 你 的 贡 品。 请 不 要 伤 害 我， {主 人/夫 人}… … 
+qstr_If_it_s_fine_with_yo|如 果 这 对 于 你 很 好， 我 将 用 金 钱 来 接 收 我 的 付 款
 qstr_From_now_on_you_shou|从 现 在 起，你 应 该 以 金 钱 的 形 式 给 我 提 供 贡 品
-qstr_Money___I_love_it._S|钱 - 我 爱 它。 所 以 从 下 次 开 始, 你 将 以 金 钱 的 形 式 来 支 付 贡 品
-qstr_If_it_s_fine_with_you|如 果 这 对 于 你 很 好, 我 将 用 货 物 来 接 收 我 的 付 款
+qstr_Money___I_love_it._S|钱 - 我 爱 它。 所 以 从 下 次 开 始， 你 将 以 金 钱 的 形 式 来 支 付 贡 品
+qstr_If_it_s_fine_with_you|如 果 这 对 于 你 很 好， 我 将 用 货 物 来 接 收 我 的 付 款
 qstr_You_will_provide_the|你 将 以 货 物 的 形 式 来 提 供 贡 品。
 qstr_Stuff._I_need_more_a|我 需 要 更 多 的 东 西 并 且 永 远 无 法 得 到 满 足。 所 以 从 现 在 开 始 - 你 对 我 的 贡 品 将 用 货 物 来 支 付。
-qstr_Off_course_{Milord/M|当 然 {主 人/夫 人}。 我 很 乐 意 这 样 做!
+qstr_Off_course_{Milord/M|当 然， {主 人/夫 人}。 我 很 乐 意 这 样 做！ 
 qstr_As_you_wish|如 你 所 愿
-qstr_Oh_ce_ce_certanly_{M|啊 当-当-当然 {主 人/夫 人}。 我, 您 谦 卑 的 仆 人, 会 遵 照 您 的 命 令, 但-但-但 是 我 求 求 你, 不 要 烧 毁 我 的 店!
-qstr_Goodbye_my_friend!|再 见, 我 的 朋 友!
+qstr_Oh_ce_ce_certanly_{M|啊， 当- 当- 当然， {主 人/夫 人}。 我， 您 谦 卑 的 仆 人， 会 遵 照 您 的 命 令， 但- 但- 但 是 我 求 求 您， 不 要 烧 毁 我 的 店！ 
+qstr_Goodbye_my_friend!|再 见， 我 的 朋 友!
 qstr_Goodbye|再 见
-qstr_Off_with_you_you_sme|关 于 你, 你 这 个 臭 农 民!
-qstr_Oh_what_a_honor_that|啊, 你 来 看 望 我 的 粪 便 是 多 么 荣 誉 啊 {主 人/夫 人}!
-qstr_{Milord/Milady}?|{主 人/夫 人}?
-qstr_O_o_oh..._{Milord/Mi|哦-哦-啊... {主 人/夫 人}。 请-请-请 不 要 鞭 打 我。
-qstr_Just_wanted_to_say_h|只 是 想 打 个 招 呼, 我 的 好 伙 计。
+qstr_Off_with_you_you_sme|关 于 你， 你 这 个 臭 农 民！ 
+qstr_Oh_what_a_honor_that|啊， 您 能 来 看 望 我 的 小 店 是 多 么 荣 幸 啊， {主 人/夫 人}！ 
+qstr_{Milord/Milady}?|{主 人/夫 人}？
+qstr_O_o_oh..._{Milord/Mi|哦- 哦- 啊… … {主 人/夫 人}， 请- 请- 请 不 要 鞭 打 我。
+qstr_Just_wanted_to_say_h|只 是 想 打 个 招 呼， 我 的 好 伙 计。
 qstr_Just_inspecting_my_f|只 是 检 查 一 下 我 的 地 盘。 继 续 你 的 工 作。
-qstr_Look_at_me_in_a_wron|用 错 误 的 方 式 看 着 我，我 不 止 会 鞭 打 你，还 要 切 掉 你 的 手 指。 我 讨 厌 像 你 一 样 难 闻 的 人!
-qstr_Oh_{Milord/Milady}_n|啊 {主 人/夫 人}, 很 高 兴 见 到 你。 你 好 吗?
-qstr_{Milord/Milady}._I_m|{主 人/夫 人}。 我 只 是 在 行 使 我 对 你 的 神 圣 职 责
-qstr_{Mi_mi_milord/Mi_mi_|{我-我-我 的 主 人/我-我-我 的 夫 人}。 我 没 有 偷 懒, 不! 请 不 要 伤 害 我。
-qstr_Fine_my_good_man._Ni|很 好, 我 的 伙 计。 很 高 兴 您 关 心
-qstr_Very_good_proceed.|太 好 了, 继 续。
-qstr_Off_with_you_I_don_t|关 于 你, 我 不 想 看 到 你!
-qstr_{Milord/Milady}_Nice|{主 人/夫 人}, 愉 快 的 一 天 对 吧?
-qstr_{Milord/Milady}._How|{主 人/夫 人}。 我 怎 么 帮 你 呢?
-qstr_O_o_oh..._{Milord/Mil|哦-哦-啊... {主 人/夫 人}。 我 已 经 支 付 了 税 金, 不 用 再 酷 刑， 鞭 打 或 者 把 我 关 在 笼 子 里 了。
+qstr_Look_at_me_in_a_wron|你 如 果 再 用 这 种 错 误 的 方 式 看 着 我， 我 不 止 会 鞭 打 你， 还 要 切 掉 你 的 手 指。 我 讨 厌 像 你 一 样 难 闻 的 人!
+qstr_Oh_{Milord/Milady}_n|啊， {主 人/夫 人}， 很 高 兴 见 到 你。 你 好 吗？ 
+qstr_{Milord/Milady}._I_m|{主 人/夫 人}。 我 只 是 在 行 使 我 对 您 的 神 圣 职 责
+qstr_{Mi_mi_milord/Mi_mi_|{我- 我- 我 的 主 人/我-我-我 的 夫 人}。 我 没 有 偷 懒， 不!  请 不 要 伤 害 我。
+qstr_Fine_my_good_man._Ni|很 好， 我 的 伙 计。 很 高 兴 是 你 在 管 照 着 这 些。 
+qstr_Very_good_proceed.|太 好 了， 继 续。
+qstr_Off_with_you_I_don_t|关 于 你， 我 不 想 看 到 你!
+qstr_{Milord/Milady}_Nice|{主 人/夫 人}， 愉 快 的 一 天 对 吧？ 
+qstr_{Milord/Milady}._How|{主 人/夫 人}。 有 什 么 可 以 帮 您 的 么？ 
+qstr_O_o_oh..._{Milord/Mil|哦- 哦- 啊… … {主 人/夫 人}。 我 已 经 支 付 了 税 金， 请 不 要 再 对 我 施 以 酷 刑， 鞭 打 或 者 把 我 关 在 笼 子 里 了。
 qstr_It_is._Nice_to_meet_|正 是。 很 高 兴 认 识 你。
 qstr_Nothing_today._Conti|今 天 没 什 么 事。 继 续。
-qstr_I_hope_you_re_not_la|我 希 望 你 不 是 在 偷 懒, 不 然 我 会 砍 下 你 的 手!
-qstr_{Milord/Milady}._For|{主 人/夫 人}。 请 原 谅 我 的 问 题。 你 有 没 有 很 好 的 威 胁 农 民? 他 们 开 始 发 胖 而 且 变 得 懒 惰。
-qstr_{Milord/Milady}._How_|{主 人/夫 人}。 鄙 人 如 何 能 够 帮 助 您?
-qstr_{Milord/Milady}_I_mu|{主 人/夫 人}, 我 必 须 说 我 喜 欢 你 管 理 农 民 的 方 式。 就 像 我 说 的 一 个 好 的 农 民 是 贫 穷 的 农 民。
+qstr_I_hope_you_re_not_la|我 希 望 你 不 是 在 偷 懒， 不 然 我 会 砍 下 你 的 手！ 
+qstr_{Milord/Milady}._For|{主 人/夫 人}。 请 原 谅 我 的 问 题。 你 有 没 有 很 好 的 威 胁 农 民？ 他 们 开 始 发 胖 而 且 变 得 懒 惰。
+qstr_{Milord/Milady}._How_|{主 人/夫 人}。 鄙 人 如 何 能 够 帮 助 您？
+qstr_{Milord/Milady}_I_mu|{主 人/夫 人}， 我 必 须 说 我 喜 欢 你 管 理 农 民 的 方 式。 就 像 我 说 的 一 个 好 的 农 民 是 贫 穷 的 农 民。
 qstr_People_should_be_tre|人 们 应 该 受 到 尊 重。 仅 仅 因 为 他 们 出 身 低， 但 并 不 意 外 这 我 们 要 虐 待 他 们。
 qstr_Nothing_today|今 天 没 什 么 事
-qstr_Right_you_are_my_fri|你 说 得 对, 我 的 朋 友。 我 很 高 兴 你 同 意, 铁 腕 是 唯 一 的 对 付 这 些 猪 一 样 的 农 民 的 方 法。
-qstr_Oh_honorable_guest._|哦, 贵 宾。 看 看 我 的 商 品。 我 出 售 你 可 以 找 到 的 最 好 的 丝 绸!
-qstr_{Signore/Signora}_lo|{阁 下/夫 人}, 看 看 我 的 好 香 料。 你 做 饭 的 味 道 将 不 再 像 煮 裤 子 一 样!
-qstr_You_buy_you_buy_I_se|你 购 买, 你 购 买, 我 出 售!
-qstr_{Milord/Milady}_are_|{主 人/夫 人}, 您 结 婚 了 吗? 也 许 没 有, 因 为 你 没 有 任 何 盐! 不 要 做 一 个 农 民, 买 盐, 它 绝 对 没 有 掺 沙 子!
-qstr_Don_t_be_afriad_of_f|不 要 害 怕 皮 草。 皮 草 让 你 温 暖 并 让 邻 居 妒 忌。 买 一 些 皮 草 吧!
-qstr_Perhaps_a_book_for_a|也 许 一 本 书 给 一 个 有 教 养 的 头 脑? 不? 我 有 时 候 也 会 将 书 给 那 些 愚 蠢 的 头 脑
+qstr_Right_you_are_my_fri|你 说 得 对， 我 的 朋 友。 我 很 高 兴 你 同 意， 铁 腕 是 唯 一 的 对 付 这 些 猪 一 样 的 农 民 的 方 法。
+qstr_Oh_honorable_guest._|哦， 贵 宾。 看 看 我 的 商 品。 我 出 售 你 可 以 找 到 的 最 好 的 丝 绸！ 
+qstr_{Signore/Signora}_lo|{阁 下/夫 人}， 看 看 我 的 好 香 料。 你 做 饭 的 味 道 将 不 再 像 煮 裤 子 一 样！ 
+qstr_You_buy_you_buy_I_se|请 买 吧， 买 吧， 我 卖！ 
+qstr_{Milord/Milady}_are_|{主 人/夫 人}， 您 结 婚 了 吗? 也 许 没 有， 因 为 你 没 有 任 何 盐！ 不 要 弄 得 像 一 个 农 民 一 样。 买 我 的 盐 吧， 它 绝 对 没 有 掺 沙 子！ 
+qstr_Don_t_be_afriad_of_f|不 要 害 怕 皮 草。 皮 草 让 你 温 暖 并 让 邻 居 妒 忌。 买 一 些 皮 草 吧！ 
+qstr_Perhaps_a_book_for_a|也 许 书 是 给 有 教 养 的 头 脑 准 备 的? 不? 我 有 时 候 也 会 将 书 卖 给 那 些 蠢 货 
 qstr_Does_Honorable_tradi|尊 敬 的 贸 易 伙 伴 要 求 我 谦 卑 的 更 多 的 服 务?
-qstr_Viva_la_Spice_buy_mo|香 料 万 岁, 多 买 点!
-qstr_Buy_more_yes?|多 买 点, 好 吗?
-qstr_Got_salt?_I_do!|得 到 盐? 我 干 了!
-qstr_Don_t_be_afriad_of_fu|不 要 害 怕 皮 草。 皮 草 让 你 温 暖 并 让 邻 居 妒 忌。 买 一 些 皮 草 吧!
+qstr_Viva_la_Spice_buy_mo|香 料 万 岁， 多 买 点！ 
+qstr_Buy_more_yes?|多 买 点， 好 吗?
+qstr_Got_salt?_I_do!|买 盐? 成 交！ 
+qstr_Don_t_be_afriad_of_fu|不 要 害 怕 皮 草。 皮 草 让 你 温 暖 并 让 邻 居 妒 忌。 买 一 些 皮 草 吧！ 
 qstr_Preaty_pictures_in_b|书 籍 里 面 的 漂 亮 图 片 吸 引 了 你? 
 qstr_Yes?|是 吗?
-qstr_Your_donation_is_mos|孩 子 你 的 捐 赠 是 我 最 欣 赏 的, 去 和 我 们 的 宽 恕 一 起 同 福         天 父。 神 是 应 当 称 颂 的。 本 笃 于 他 的 圣 名?
-qstr_Thank_you_my_son.|谢 谢 你， 我 的 孩 子.
-qstr_Bless_you_we_should_|祝 福 你, 我 们 将 很 快 准 备 缮 写 室。
-qstr_Your_party_moral_inc|您 一 方 的 士 气 增 加。
+qstr_Your_donation_is_mos|孩 子， 我 很 欣 赏 你 的 捐 赠， 带 着 圣 父 的 祝 福 和 宽 恕 离 开 吧。 赞 颂 主 的 圣 名！ 
+qstr_Thank_you_my_son.|谢 谢 你， 我 的 孩 子。 
+qstr_Bless_you_we_should_|祝 福 你， 我 们 将 很 快 准 备 缮 写 室。 
+qstr_Your_party_moral_inc|您 一 方 的 士 气 增 加。 
 qstr_It_s_your_money_or_y|要 钱 还 是 要 命， {小 伙 子/小 姑 娘}。 不 快 跑 的 话， 我 将 折 磨 死 你。 
 qstr_Lucky_for_you_you_ca|你 很 走 运， 刚 好 碰 到 我 今 天 心 情 特 别 好。 交 出 你 所 有 的 钱， 我 就 让 你 活 着 离 开。 
 qstr_This_a_robbery_eh?_I|这 是 一 次 抢 劫， 明 白 不？ 我 给 你 一 个 机 会 交 出 你 所 有 的 东 西， 否 则 我 和 我 的 兄 弟 们 将 杀 了 你， 明 白 不？ 
@@ -788,7 +788,7 @@ qstr_{playername}_when_we|{playername}， 当 我 们 开 始 力 图 实 现 �
 qstr__We_will_of_course_n|我 们 当 然 得 等 到 国 家 不 再 进 行 战 役 了。 
 qstr_I_am_{s4}_the_ruler_|我 是 {s4}， {s6}的 统 治 者。 
 qstr_I_am_{s4}_a_vassal_o|我 是 {s4}， {s6}的 一 个 封 臣。 
-qstr_{s9}{reg5?_and_the_l|{s9}{reg5?而 且 是 {s8}的 领 主。 :。 } 
+qstr_{s9}{reg5?_and_the_l|{s9}而 且 是 {s8}的 领 主。 
 qstr_{s13}_asked_you_to_g|{s13}要 你 收 集 {reg3}头 牛， 并 给 他 送 去。 
 qstr_{s9}_asked_you_to_sc|{s9}要 你 侦 察 {s13}， {s14}和 {s15}， 然 后 回 去 向 他 汇 报。 
 qstr_You_are_challenging_|你 准 备 向 我 发 起 决 斗？ 开 什 么 玩 笑！ 如 你 所 愿， {playername}， 打 暴 你 的 头 将 会 是 非 常 有 意 思 的 事 情。 

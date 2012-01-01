@@ -72,13 +72,13 @@ mno_camp_action|干 点 事 情。
 mno_camp_wait_here|在 这 里 待 一 会 儿。 
 mno_camp_cheat|作 弊 菜 单！ 
 menu_camp_cheat|选 择 作 弊 项 目： 
-mno_camp_cheat_find_item|查 找 项 目… …
 mno_camp_cheat_find_item|改 变 天 气… … 
+mno_camp_action_4|退 回 营 地 菜 单。 
+menu_camp_action|选 择 一 个 行 动： 
 mno_camp_recruit_prisoners|从 俘 虏 中 募 兵。 
 mno_action_read_book|选 一 本 书 读。 
 mno_action_rename_kingdom|重 命 名 你 的 王 国 
 mno_action_retire|从 冒 险 中 退 出。 
-mno_camp_action_4|退 回 营 地 菜 单。 
 menu_camp_recruit_prisoners|你 答 应 这 些 俘 虏， 如 果 他 们 加 入 你 的 话， 你 就 给 他 们 以 自 由。 {s18}
 mno_camp_recruit_prisoners_accept|接 受。 
 mno_camp_recruit_prisoners_reject|拒 绝。 
@@ -529,7 +529,7 @@ menu_notification_player_should_consult|你 的 首 席 大 臣 传 话 来 说�
 menu_notification_player_feast_in_progress|筹 备 宴 会 ^^ 你 的 夫 人 正 在 {s11}的 大 厅 里 筹 备 宴 会。 
 menu_notification_lady_requests_visit|一 位 老 妇 人 找 到 了 你 的 部 队， 给 了 你 手 下 一 封 纯 蜡 密 封 着 的 信。 地 址 是 写 给 你 的。 当 你 打 这 封 信 时， 发 现 是 {s15}写 来 的。 上 面 说：“上 次 来 访， 相 聚 甚 欢。 {s14}。 我 现 在 {s10}， {s12}。 ” 
 menu_garden|{s12}
-mno_enter|进 入 
+mno_nurse|和 她 一 起 走 
 menu_kill_local_merchant_begin|你 探 明 你 的 猎 物 转 弯 走 进 了 一 条 偏 僻 的 巷 子。 这 将 是 你 袭 击 他 的 最 好 时 机。 
 menu_debug_alert_from_s65|调 试 警 报： {s65}
 menu_auto_return_to_map|树 桩 

@@ -1,4 +1,4 @@
-﻿trp_multiplayer_profile_troop_male|联 机 男 性 玩 家 角 色 
+trp_multiplayer_profile_troop_male|联 机 男 性 玩 家 角 色 
 trp_multiplayer_profile_troop_male_pl|联 机 男 性 玩 家 角 色 
 trp_multiplayer_profile_troop_female|联 机 女 性 玩 家 角 色 
 trp_multiplayer_profile_troop_female_pl|联 机 女 性 玩 家 角 色 
@@ -320,14 +320,14 @@ trp_irish_castle_guard|城 堡 守 卫
 trp_irish_castle_guard_pl|城 堡 守 卫 
 trp_balkan_vil_1|巴 尔 干 农 奴 
 trp_balkan_vil_1_pl|巴 尔 干 农 奴 
-trp_balkan_vil_2_1|巴 尔 干 猎 人 弓 箭 手 
-trp_balkan_vil_2_1_pl|巴 尔 干 猎 人 弓 箭 手 
+trp_balkan_vil_2_1|巴 尔 干 弓 箭 山 民 
+trp_balkan_vil_2_1_pl|巴 尔 干 弓 箭 山 民 
 trp_balkan_vil_3_1|巴 尔 干 雇 佣 弓 箭 手 
 trp_balkan_vil_3_1_pl|巴 尔 干 雇 佣 弓 箭 手 
 trp_balkan_vil_4_1|巴 尔 干 雇 佣 熟 练 弓 箭 手 
 trp_balkan_vil_4_1_pl|巴 尔 干 雇 佣 熟 练 弓 箭 手 
-trp_balkan_vil_2_2|巴 尔 干 猎 人 战 士 
-trp_balkan_vil_2_2_pl|巴 尔 干 猎 人 战 士 
+trp_balkan_vil_2_2|巴 尔 干 山 民 战 士 
+trp_balkan_vil_2_2_pl|巴 尔 干 山 民 战 士 
 trp_balkan_vil_3_2_1|巴 尔 干 雇 佣 双 手 斧 战 士 
 trp_balkan_vil_3_2_1_pl|巴 尔 干 雇 佣 双 手 斧 战 士 
 trp_balkan_vil_3_2_2|巴 尔 干 雇 佣 步 兵 
@@ -352,8 +352,8 @@ trp_balkan_town_3_2|巴 尔 干 弓 箭 手
 trp_balkan_town_3_2_pl|巴 尔 干 弓 箭 手 
 trp_balkan_town_4_2|巴 尔 干 重 装 弓 箭 手 
 trp_balkan_town_4_2_pl|巴 尔 干 重 装 弓 箭 手 
-trp_balkan_horse_1|巴 尔 干 轻 骑 兵 
-trp_balkan_horse_1_pl|巴 尔 干 轻 骑 兵 
+trp_balkan_horse_1|巴 尔 干 骑 马 战 士 
+trp_balkan_horse_1_pl|巴 尔 干 骑 马 战 士 
 trp_balkan_horse_2|巴 尔 干 骑 兵 
 trp_balkan_horse_2_pl|巴 尔 干 骑 兵
 trp_balkan_horse_3|巴 尔 干 骑 士 
@@ -893,10 +893,50 @@ trp_guide|机 灵 鬼 吉 米
 trp_guide_pl|机 灵 鬼 吉 米 
 trp_xerina|威 廉 姆· 马 歇 尔 
 trp_xerina_pl|威 廉 姆· 马 歇 尔 
-trp_dranton|德 朗 顿 
-trp_dranton_pl|德 朗 顿 
-trp_kradus|喀 拉 杜 斯 
-trp_kradus_pl|喀 拉 杜 斯 
+trp_dranton|巴 弗 的 盖 伊 
+trp_dranton_pl|巴 弗 的 盖 伊 
+trp_kradus|乔 希 姆· 卡 托 尔 
+trp_kradus_pl|乔 希 姆· 卡 托 尔 
+trp_tournament_knight_1|Gauvian Micaille
+trp_tournament_knight_1_pl|Gauvian Micaille
+trp_tournament_knight_2|William de Hainault
+trp_tournament_knight_2_pl|William de Hainault
+trp_tournament_knight_3|Nicholas Hawberk
+trp_tournament_knight_3_pl|Nicholas Hawberk
+trp_tournament_knight_4|Henry de Blamont
+trp_tournament_knight_4_pl|Henry de Blamont
+trp_tournament_knight_5|Henri of Luxembourg
+trp_tournament_knight_5_pl|Henri of Luxembourg
+trp_tournament_knight_6|Gérard de Ligne
+trp_tournament_knight_6_pl|Gérard de Ligne
+trp_tournament_knight_7|Jacques de Lalain
+trp_tournament_knight_7_pl|Jacques de Lalain
+trp_tournament_knight_8|Philip of Flanders
+trp_tournament_knight_8_pl|Philip of Flanders
+trp_tournament_knight_9|Theobald of Blois
+trp_tournament_knight_9_pl|Theobald of Blois
+trp_tournament_knight_10|James d'Avesnes
+trp_tournament_knight_10_pl|James d'Avesnes
+trp_tournament_knight_11|Guy de Chatillian
+trp_tournament_knight_11_pl|Guy de Chatillian
+trp_tournament_knight_12|Raoul of Clermont
+trp_tournament_knight_12_pl|Raoul of Clermont
+trp_tournament_knight_13|Hugh of Burgandy
+trp_tournament_knight_13_pl|Hugh of Burgandy
+trp_tournament_knight_14|William des Barres
+trp_tournament_knight_14_pl|William des Barres
+trp_tournament_knight_15|Matthew de Walincourt
+trp_tournament_knight_15_pl|Matthew de Walincourt
+trp_tournament_knight_16|Robert de Beaumont
+trp_tournament_knight_16_pl|Robert de Beaumont
+trp_tournament_knight_17|Roger de Gaugi
+trp_tournament_knight_17_pl|Roger de Gaugi
+trp_tournament_knight_18|Robert of Dreux
+trp_tournament_knight_18_pl|Robert of Dreux
+trp_tournament_knight_19|David of Huntingdon
+trp_tournament_knight_19_pl|David of Huntingdon
+trp_tournament_knight_20|Henry of Champagne 
+trp_tournament_knight_20_pl|Henry of Champagne 
 trp_tutorial_trainer|训 练 场 教 练 
 trp_tutorial_trainer_pl|训 练 场 教 练 
 trp_galeas|盖 里 斯 
@@ -1103,6 +1143,26 @@ trp_tavern_minstrel_9|行 吟 诗 人
 trp_tavern_minstrel_9_pl|诗 人 
 trp_tavern_minstrel_10|游 牧 诗 人 
 trp_tavern_minstrel_10_pl|诗 人 
+trp_tavern_minstrel_11|北 地 诗 人 
+trp_tavern_minstrel_11_pl|诗 人 
+trp_tavern_minstrel_12|吟 游 诗 人 
+trp_tavern_minstrel_12_pl|诗 人 
+trp_tavern_minstrel_13|宫 廷 诗 人 
+trp_tavern_minstrel_13_pl|诗 人 
+trp_tavern_minstrel_14|行 吟 诗 人 
+trp_tavern_minstrel_14_pl|诗 人 
+trp_tavern_minstrel_15|游 牧 诗 人 
+trp_tavern_minstrel_15_pl|诗 人 
+trp_tavern_minstrel_16|北 地 诗 人 
+trp_tavern_minstrel_16_pl|诗 人 
+trp_tavern_minstrel_17|吟 游 诗 人 
+trp_tavern_minstrel_17_pl|诗 人 
+trp_tavern_minstrel_18|宫 廷 诗 人 
+trp_tavern_minstrel_18_pl|诗 人 
+trp_tavern_minstrel_19|行 吟 诗 人 
+trp_tavern_minstrel_19_pl|诗 人 
+trp_tavern_minstrel_20|Wandering Troubadour
+trp_tavern_minstrel_20_pl|诗 人 
 trp_kingdom_heroes_including_player_begin|kingdom heroes including player begin 
 trp_kingdom_heroes_including_player_begin_pl|kingdom heroes including player begin 
 trp_npc1|乌 尔 里 希 
@@ -1199,8 +1259,12 @@ trp_kingdom_17_lord|海 梅 一 世 国 王 “征 服 者”
 trp_kingdom_17_lord_pl|海 梅 一 世 “征 服 者” 
 trp_kingdom_18_lord|阿 方 索 十 世 国 王 
 trp_kingdom_18_lord_pl|阿 方 索 十 世 
+trp_kingdom_19_lord|纳 瓦 拉 的 泰 奥 巴 尔 多 二 世 国 王 
+trp_kingdom_19_lord_pl|纳 瓦 拉 的 泰 奥 巴 尔 多 二 世 
 trp_kingdom_20_lord|穆 罕 默 德 一 世· 伊 本 纳 斯 苏 丹 
 trp_kingdom_20_lord_pl|穆 罕 默 德 一 世· 伊 本 纳 斯 
+trp_pope|教 宗 历 山 四 世 
+trp_pope_pl|历 山 四 世 
 trp_kingdom_22_lord|西 奥 多 二 世· 拉 斯 卡 里 斯 皇 帝 
 trp_kingdom_22_lord_pl|西 奥 多 二 世· 拉 斯 卡 里 斯 
 trp_kingdom_23_lord|伊 贝 林 的 约 翰 执 行 官 
@@ -1221,6 +1285,18 @@ trp_kingdom_30_lord|康 斯 坦 丁 沙 皇
 trp_kingdom_30_lord_pl|康 斯 坦 丁 
 trp_kingdom_31_lord|阿 卜 杜 勒· 哈 格 苏 丹 
 trp_kingdom_31_lord_pl|阿 卜 杜 勒· 哈 格 
+trp_kingdom_32_lord|Dodge Ranieri Zen
+trp_kingdom_32_lord_pl|Dodge Ranieri Zen
+trp_kingdom_c_33_lord|Vyriausias Jotvingių Kunigas Skolmantas
+trp_kingdom_c_33_lord_pl|Skolmantas
+trp_kingdom_33_lord|Gruntauktimmis Nadruva Kunegikis Piws
+trp_kingdom_33_lord_pl|Piws
+trp_kingdom_b_33_lord|Vyriausias Žemaičių Kungias Alminas
+trp_kingdom_b_33_lord_pl|Alminas
+trp_kingdom_d_33_lord|Dižukilis Enguris
+trp_kingdom_d_33_lord_pl|Enguris
+trp_kingdom_35_lord|威 尔 士 王 子， 格 鲁 菲 德 之 子 卢 埃 林 
+trp_kingdom_35_lord_pl|格 鲁 菲 德 之 子 卢 埃 林 
 trp_knight_1_1|胡 贝 图 斯 骑 士 
 trp_knight_1_1_pl|胡 贝 图 斯 
 trp_knight_1_2|维 昆 骑 士 
@@ -1700,7 +1776,7 @@ trp_knight_16_13_pl|塞 拉 诺 瓦 的 普 洛· 戈 麦 斯
 trp_knight_16_14|阿 方 索· 佩 雷 斯 爵 士 
 trp_knight_16_14_pl|阿 方 索· 佩 雷 斯 
 trp_knight_16_15|葡 萄 牙 的 罗 伯 特 爵 士 
-trp_knight_16_15_pl葡 萄 牙 的 罗 伯 特 
+trp_knight_16_15_pl|葡 萄 牙 的 罗 伯 特 
 trp_knight_17_1|佩 拉 尔 塔 的 阿 尔 瑙 大 主 教 
 trp_knight_17_1_pl|佩 拉 尔 塔 的 阿 尔 瑙 
 trp_knight_17_2|蒙 特 卡 达 的 佩 雷· 拉 蒙 王 室 总 管 
@@ -1761,12 +1837,12 @@ trp_knight_18_14|高 斯 弗 雷 德 爵 士
 trp_knight_18_14_pl|高 斯 弗 雷 德 
 trp_knight_18_15|赫 罗 尼 爵 士 
 trp_knight_18_15_pl|赫 罗 尼 
-trp_knight_19_1|Infante Don Teobaldo de Navarra
-trp_knight_19_1_pl|Teobaldo
-trp_knight_19_2|Don Guillermo de Navarra
-trp_knight_19_2_pl|Guillermo
-trp_knight_19_3|Infante Don Enrique de Navarra 
-trp_knight_19_3_pl|Enrique
+trp_knight_19_1|纳 瓦 拉 的 泰 奥 巴 尔 多 王 子 
+trp_knight_19_1_pl|纳 瓦 拉 的 泰 奥 巴 尔 多 
+trp_knight_19_2|纳 瓦 拉 的 吉 列 尔 莫 爵 士 
+trp_knight_19_2_pl|纳 瓦 拉 的 吉 列 尔 莫 
+trp_knight_19_3|纳 瓦 拉 的 恩 里 克 王 子 
+trp_knight_19_3_pl|纳 瓦 拉 的 恩 里 克 
 trp_knight_20_1|穆 罕 默 德· 法 基 赫 酋 长 
 trp_knight_20_1_pl|穆 罕 默 德· 法 基 赫 
 trp_knight_20_2|尤 素 夫· 纳 斯 尔 酋 长 
@@ -1807,16 +1883,16 @@ trp_knight_20_19|瓦 西 姆 酋 长
 trp_knight_20_19_pl|瓦 西 姆 
 trp_knight_20_20|阿 布· 拉 希 德 酋 长 
 trp_knight_20_20_pl|阿 布· 拉 希 德 
-trp_knight_21_1|Tommaso di Aquino
-trp_knight_21_1_pl|Tommaso di Aquino
-trp_knight_21_2|Teodora di Aquino
-trp_knight_21_2_pl|Teodora di Aquino
-trp_knight_21_3|Giovanni Orsini
-trp_knight_21_3_pl|Giovanni Orsini
-trp_knight_21_4|Matteo Rosso
-trp_knight_21_4_pl|Matteo Rosso
-trp_knight_21_5|Gentile Orsini
-trp_knight_21_5_pl|Gentile Orsini
+trp_knight_21_1|阿 基 诺 的 托 马 索
+trp_knight_21_1_pl|阿 基 诺 的 托 马 索
+trp_knight_21_2|阿 基 诺 的 泰 奥 多 拉 
+trp_knight_21_2_pl|阿 基 诺 的 泰 奥 多 拉 
+trp_knight_21_3|乔 万 尼· 奥 西 尼 
+trp_knight_21_3_pl|乔 万 尼· 奥 西 尼 
+trp_knight_21_4|马 迪 奥· 罗 索 
+trp_knight_21_4_pl|马 迪 奥· 罗 索 
+trp_knight_21_5|格 蒂 勒· 奥 西 尼 
+trp_knight_21_5_pl|格 蒂 勒· 奥 西 尼 
 trp_knight_22_1|伊 庇 鲁 斯 君 主，米 哈 伊 尔 二 世· 科 穆 宁· 杜 卡 斯 
 trp_knight_22_1_pl|米 哈 伊 尔 二 世· 科 穆 宁· 杜 卡 斯 
 trp_knight_22_2|米 哈 伊 尔· 帕 列 奥 列 斯 将 军 
@@ -1907,8 +1983,8 @@ trp_knight_24_14|阿 皮 切 伯 爵，费 代 里 戈· 马 莱 塔
 trp_knight_24_14_pl|费 代 里 戈· 马 莱 塔 
 trp_knight_24_15|普 罗 文 扎 诺· 萨 尔 瓦 尼  
 trp_knight_24_15_pl|普 罗 文 扎 诺· 萨 尔 瓦 尼 
-trp_knight_24_16|Iacopino Rangoni, Cancelliere de Repubblica Toscana
-trp_knight_24_16_pl|Iacopino Rangoni, Cancelliere de Repubblica Toscana
+trp_knight_24_16|托 斯 卡 纳 共 和 国 执 政 官， 亚 科 皮 诺· 兰 戈 尼 
+trp_knight_24_16_pl|亚 科 皮 诺· 兰 戈 尼 
 trp_knight_25_1|曼 苏 尔· 阿 里 酋 长 
 trp_knight_25_1_pl|曼 苏 尔· 阿 里 
 trp_knight_25_2|赛 义 夫· 库 图 兹 王 储 
@@ -2105,32 +2181,32 @@ trp_knight_31_14|萨 利 赫 酋 长
 trp_knight_31_14_pl|萨 利 赫 
 trp_knight_31_15|叶 齐 德 酋 长 
 trp_knight_31_15_pl|叶 齐 德 
-trp_knight_32_1|Lorenzo Tiepolo
-trp_knight_32_1_pl|Lorenzo Tiepolo
-trp_knight_32_2|Jacopo Contarini
-trp_knight_32_2_pl|Jacopo Contarini
-trp_knight_32_3|Giovanni Dandolo
-trp_knight_32_3_pl|Giovanni Dandolo
-trp_knight_32_4|Angelo Sanudo
-trp_knight_32_4_pl|Angelo Sanudo
-trp_knight_32_5|Gilberto Sanudo
-trp_knight_32_5_pl|Gilberto Sanudo
-trp_knight_32_6|Claudio Tiepolo
-trp_knight_32_6_pl|Claudio Tiepolo
-trp_knight_32_7|Cassio Sanudo
-trp_knight_32_7_pl|Cassio Sanudo
-trp_knight_32_8|Edoardo Soranzo
-trp_knight_32_8_pl|Edoardo Soranzo
-trp_knight_32_9|Emilio Soranzo
-trp_knight_32_9_pl|Emilio Soranzo
-trp_knight_32_10|Barbarigo Venier
-trp_knight_32_10_pl|Barbarigo Venier
-trp_knight_35_1|Dafydd ap Gruffydd
-trp_knight_35_1_pl|Dafydd ap Gruffydd
-trp_knight_35_2|Maredudd ap Rhys Grug
-trp_knight_35_2_pl|Maredudd ap Rhys Grug
-trp_knight_35_3|Maredudd ap Owain
-trp_knight_35_3_pl|Maredudd ap Owain
+trp_knight_32_1|罗 伦 佐· 提 埃 坡 罗 
+trp_knight_32_1_pl|罗 伦 佐· 提 埃 坡 罗
+trp_knight_32_2|雅 各 布· 康 塔 里 尼 
+trp_knight_32_2_pl|雅 各 布· 康 塔 里 尼 
+trp_knight_32_3|乔 万 尼· 丹 多 罗 
+trp_knight_32_3_pl|乔 万 尼· 丹 多 罗 
+trp_knight_32_4|安 格 洛· 萨 努 多 
+trp_knight_32_4_pl|安 格 洛· 萨 努 多 
+trp_knight_32_5|吉 尔 伯 特· 萨 努 多 
+trp_knight_32_5_pl|吉 尔 伯 特· 萨 努 多 
+trp_knight_32_6|克 劳 迪 奥· 提 埃 坡 罗 
+trp_knight_32_6_pl|克 劳 迪 奥· 提 埃 坡 罗 
+trp_knight_32_7|卡 斯 奧· 萨 努 多 
+trp_knight_32_7_pl|卡 斯 奧· 萨 努 多 
+trp_knight_32_8|艾 德 瓦 尔 多· 索 兰 佐 
+trp_knight_32_8_pl|艾 德 瓦 尔 多· 索 兰 佐 
+trp_knight_32_9|埃 米 里 欧· 索 兰 佐 
+trp_knight_32_9_pl|埃 米 里 欧· 索 兰 佐 
+trp_knight_32_10|巴 巴 里 格· 威 尼 亚 
+trp_knight_32_10_pl|巴 巴 里 格· 威 尼 亚 
+trp_knight_35_1|格 鲁 菲 德 达 非 德 之 子 格 鲁 菲 德
+trp_knight_35_1_pl|格 鲁 菲 德 达 非 德 之 子 格 鲁 菲 德
+trp_knight_35_2|马 雷 都 德 之 子 “咆 哮 者”瑞 斯 
+trp_knight_35_2_pl|马 雷 都 德 之 子 “咆 哮 者”瑞 斯 
+trp_knight_35_3|马 雷 都 德 之 子 欧 文 
+trp_knight_35_3_pl|马 雷 都 德 之 子 欧 文 
 trp_kingdom_2_pretender|道 曼 塔 斯 公 爵 
 trp_kingdom_2_pretender_pl|道 曼 塔 斯 
 trp_kingdom_4_pretender|Danish pretender placeholder
@@ -2213,7 +2289,6 @@ trp_kingdom_3_lady_19|辛 达 儿 女 士
 trp_kingdom_3_lady_19_pl|辛 达 儿 
 trp_kingdom_3_lady_20|包 劳 儿 玛 女 士 
 trp_kingdom_3_lady_20_pl|包 劳 儿 玛 
-trp_kingdom_3_lady_21|奥 德 采 采 格 女 士 
 trp_kingdom_4_lady_1|玛 格 丽 特· 德 罗 特 宁 女 士 
 trp_kingdom_4_lady_1_pl|玛 格 丽 特· 德 罗 特 宁 
 trp_kingdom_4_lady_2|米 艾 女 士 
@@ -2354,16 +2429,16 @@ trp_knight_8_lady_4|伊 莉 娜 女 士
 trp_knight_8_lady_4_pl|伊 莉 娜 
 trp_kingdom_8_lady_5|拉 丽 莎 女 士 
 trp_kingdom_8_lady_5_pl|拉 丽 莎 
-trp_kingdom_8_lady_6|Lady Ludmila
-trp_kingdom_8_lady_6_pl|Ludmila
-trp_kingdom_8_lady_7|Lady Natasha
-trp_kingdom_8_lady_7_pl|Natasha
-trp_kingdom_8_lady_8|Lady Svetlana
-trp_kingdom_8_lady_8_pl|Svetlana
-trp_kingdom_8_lady_9|Lady Tatyana
-trp_kingdom_8_lady_9_pl|Tatyana
-trp_kingdom_8_lady_10|Lady Zoya
-trp_kingdom_8_lady_10_pl|Zoya
+trp_kingdom_8_lady_6|路 德 米 拉 女 士
+trp_kingdom_8_lady_6_pl|路 德 米 拉 
+trp_kingdom_8_lady_7|娜 塔 莎 女 士 
+trp_kingdom_8_lady_7_pl|娜 塔 莎 
+trp_kingdom_8_lady_8|斯 温 拉 娜 女 士
+trp_kingdom_8_lady_8_pl|斯 温 拉 娜 
+trp_kingdom_8_lady_9|塔 亚 纳 女 士
+trp_kingdom_8_lady_9_pl|塔 亚 纳 
+trp_kingdom_8_lady_10|佐 雅 女 士
+trp_kingdom_8_lady_10_pl|佐 雅 
 trp_lord_9_wife|普 罗 旺 斯 女 王 埃 莉 诺 
 trp_lord_9_wife_pl|lord 9 wife{***}
 trp_knight_9_1_wife|英 格 兰 公 主 埃 莉 诺 
@@ -2528,12 +2603,12 @@ trp_kingdom_14_lady_6|玛 哈 伊 女 士
 trp_kingdom_14_lady_6_pl|玛 哈 伊 
 trp_kingdom_14_lady_7|伊 丝 娜 女 士 
 trp_kingdom_14_lady_7_pl|伊 丝 娜 
-trp_kingdom_14_lady_8|Lady Siyafan{***}
-trp_kingdom_14_lady_8_pl|瑞典的希娅梵{***}
-trp_kingdom_14_lady_9|Lady Ifar{***}
-trp_kingdom_14_lady_9_pl|Ifar{***}
-trp_kingdom_14_lady_10|Lady Yasmin{***}
-trp_kingdom_14_lady_10_pl|瑞典的雅斯敏{***}
+trp_kingdom_14_lady_8|瑞 典 的 希 娅 梵 
+trp_kingdom_14_lady_8_pl|希 娅 梵 
+trp_kingdom_14_lady_9|伊 法 尔 女 士 
+trp_kingdom_14_lady_9_pl|伊 法 尔 
+trp_kingdom_14_lady_10|瑞 典 的 雅 斯 敏 女 士 
+trp_kingdom_14_lady_10_pl|雅 斯 敏 
 trp_kingdom_14_lady_11|杜 拉 女 士 
 trp_kingdom_14_lady_11_pl|杜 拉 
 trp_kingdom_14_lady_12|茹 瓦 女 士 
@@ -2554,7 +2629,7 @@ trp_kingdom_15_lady_4|伊 琳 娜 女 士
 trp_kingdom_15_lady_4_pl|伊 琳 娜 
 trp_kingdom_15_lady_5|拉 丽 莎 女 士 
 trp_kingdom_15_lady_5_pl|拉 丽 莎 
-trp_kingdom_15_lady_6露 德 米 拉 女 士 
+trp_kingdom_15_lady_6|露 德 米 拉 女 士 
 trp_kingdom_15_lady_6_pl|露 德 米 拉 
 trp_kingdom_15_lady_7|娜 塔 莎 女 士 
 trp_kingdom_15_lady_7_pl|娜 塔 莎 
@@ -2654,46 +2729,44 @@ trp_kingdom_18_lady_14|卡 斯 提 尔 的 特 蕾 莎 女 士
 trp_kingdom_18_lady_14_pl|卡 斯 提 尔 的 特 蕾 莎 
 trp_kingdom_18_lady_15|莫 妮 西 娅 女 士 
 trp_kingdom_18_lady_15_pl|莫 妮 西 娅 
-trp_kingdom_20_lady_1|Amira Fatima{***}
-trp_kingdom_20_lady_1_pl|格 拉 纳 达的 法 蒂 玛 
-trp_kingdom_20_lady_2|Amira Mu'mina{***}
+trp_kingdom_20_lady_1|格 拉 纳 达 的 法 蒂 玛 女 士 
+trp_kingdom_20_lady_1_pl|格 拉 纳 达 的 法 蒂 玛 
+trp_kingdom_20_lady_2|穆 米 娅 女 士 
 trp_kingdom_20_lady_2_pl|穆 米 娅 
-trp_kingdom_20_lady_3|Amira Khadija{***}
+trp_kingdom_20_lady_3|卡 蒂 佳 女 士 
 trp_kingdom_20_lady_3_pl|卡 蒂 佳 
-trp_kingdom_20_lady_4|Amira Shams{***}
+trp_kingdom_20_lady_4|莎 穆 斯 女 士 
 trp_kingdom_20_lady_4_pl|莎 穆 斯 
-trp_kingdom_20_lady_5|Amira Maryem{***}
+trp_kingdom_20_lady_5|玛 耶 女 士 
 trp_kingdom_20_lady_5_pl|玛 耶 
-trp_kingdom_20_lady_6|Amira Butayna{***}
+trp_kingdom_20_lady_6|布 塔 伊 娜 女 士 
 trp_kingdom_20_lady_6_pl|布 塔 伊 娜 
-trp_kingdom_20_lady_7|Amira Zoraya{***}
+trp_kingdom_20_lady_7|索 拉 雅 女 士 
 trp_kingdom_20_lady_7_pl|索 拉 雅 
-trp_kingdom_20_lady_8|Amira Morayma{***}
+trp_kingdom_20_lady_8|莫 拉 伊 玛 女 士 
 trp_kingdom_20_lady_8_pl|莫 拉 伊 玛 
-trp_kingdom_20_lady_9|Amira Zubayda{***}
+trp_kingdom_20_lady_9|祖 拜 妲 女 士 
 trp_kingdom_20_lady_9_pl|祖 拜 妲 
-trp_kingdom_20_lady_10|Amira Butaina{***}
-trp_kingdom_20_lady_10_pl|芭 塔 伊 娜 
-trp_kingdom_20_lady_11|Amira Fatima{***}
-trp_kingdom_20_lady_11_pl|Fatima{***}
-trp_kingdom_20_lady_12|Amira Mu'mina{***}
-trp_kingdom_20_lady_12_pl|Mu'mina{***}
-trp_kingdom_20_lady_13|Amira Khadija{***}
-trp_kingdom_20_lady_13_pl|Khadija{***}
-trp_kingdom_20_lady_14|Amira Shams{***}
-trp_kingdom_20_lady_14_pl|Shams{***}
-trp_kingdom_20_lady_15|Amira Maryem{***}
-trp_kingdom_20_lady_15_pl|Maryem{***}
-trp_kingdom_20_lady_16|Amira Butayna{***}
-trp_kingdom_20_lady_16_pl|Butayna{***}
-trp_kingdom_20_lady_17|Amira Zoraya{***}
-trp_kingdom_20_lady_17_pl|Zoraya{***}
-trp_kingdom_20_lady_18|Amira Morayma{***}
-trp_kingdom_20_lady_18_pl|Morayma{***}
-trp_kingdom_20_lady_19|Amira Zubayda{***}
-trp_kingdom_20_lady_19_pl|Zubayda{***}
-trp_kingdom_20_lady_10|Amira Butaina{***}
-trp_kingdom_20_lady_10_pl|Butaina{***}
+trp_kingdom_20_lady_10|玛 蒂 娜 娅 女 士 
+trp_kingdom_20_lady_10_pl|玛 蒂 娜 娅 
+trp_kingdom_20_lady_11|法 蒂 玛 女 士 
+trp_kingdom_20_lady_11_pl|法 蒂 玛 
+trp_kingdom_20_lady_12|穆 米 娜 女 士 
+trp_kingdom_20_lady_12_pl|穆 米 娜 
+trp_kingdom_20_lady_13|卡 哈 迪 亚 女 士 
+trp_kingdom_20_lady_13_pl|卡 哈 迪 亚 
+trp_kingdom_20_lady_14|萨 米 斯 女 士 
+trp_kingdom_20_lady_14_pl|萨 米 斯 
+trp_kingdom_20_lady_15|马 琳 姆 女 士 
+trp_kingdom_20_lady_15_pl|马 琳 姆 
+trp_kingdom_20_lady_16|布 娅 娜 女 士 
+trp_kingdom_20_lady_16_pl|布 娅 娜 
+trp_kingdom_20_lady_17|格 林 纳 达 的 佐 拉 娅 女 士 
+trp_kingdom_20_lady_17_pl|格 林 纳 达 的 佐 拉 娅 
+trp_kingdom_20_lady_18|龙 达 的 莫 拉 伊 玛 女 士 
+trp_kingdom_20_lady_18_pl|莫 拉 伊 玛 
+trp_kingdom_20_lady_19|祖 巴 拉 娅 女 士 
+trp_kingdom_20_lady_19_pl|祖 巴 拉 娅 
 trp_kingdom_22_lady_1|玛 丽 娅· 拉 斯 卡 琳 娜 女 士 
 trp_kingdom_22_lady_1_pl|玛 丽 娅· 拉 斯 卡 琳 娜 
 trp_kingdom_22_lady_2|塞 奥 多 拉· 拉 欧 丽 娜 女 士 
@@ -2844,35 +2917,35 @@ trp_kingdom_26_lady_9|维 妮 兰 达 女 士
 trp_kingdom_26_lady_9_pl|维 妮 兰 达 
 trp_kingdom_26_lady_10|萝 希 尔 德 女 士 
 trp_kingdom_26_lady_10_pl|萝 希 尔 德 
-trp_kingdom_27_lady_1|Aigiarn-khatum{***}
+trp_kingdom_27_lady_1|艾 佳 恩 可 敦 
 trp_kingdom_27_lady_1_pl|艾 佳 恩 
-trp_kingdom_27_lady_2|Borte-khatum{***}
+trp_kingdom_27_lady_2|伯 特 可 敦 
 trp_kingdom_27_lady_2_pl|伯 特 
-trp_kingdom_27_lady_3|Chabi-khatum{***}
+trp_kingdom_27_lady_3|喀 毕 可 敦 
 trp_kingdom_27_lady_3_pl|喀 毕 
-trp_kingdom_27_lady_4|Conchaka-khatum{***}
+trp_kingdom_27_lady_4|康 察 喀 可 敦 
 trp_kingdom_27_lady_4_pl|康 察 喀 
-trp_kingdom_27_lady_5|Doquez-khatum{***}
+trp_kingdom_27_lady_5|朵 奎 兹 可 敦 
 trp_kingdom_27_lady_5_pl|朵 奎 兹 
-trp_kingdom_27_lady_6|Ho'elun-khatum{***}
+trp_kingdom_27_lady_6|霍 厄 伦 可 敦 
 trp_kingdom_27_lady_6_pl|霍 厄 伦 
-trp_kingdom_27_lady_7|Khultulun-khatum{***}
+trp_kingdom_27_lady_7|库 尔 土 伦 可 敦 
 trp_kingdom_27_lady_7_pl|库 尔 土 伦 
-trp_kingdom_27_lady_8|Kokachin-khatum{***}
+trp_kingdom_27_lady_8|廓 喀 钦 可 敦 
 trp_kingdom_27_lady_8_pl|廓 喀 钦 
-trp_kingdom_27_lady_9|Mandughai-khatum{***}
+trp_kingdom_27_lady_9|满 都 亥 可 敦 
 trp_kingdom_27_lady_9_pl|满 都 亥 
-trp_kingdom_27_lady_10|Orqina-khatum{***}
+trp_kingdom_27_lady_10|奥 钦 娜 可 敦 
 trp_kingdom_27_lady_10_pl|奥 钦 娜 
-trp_kingdom_27_lady_11|Toregene-khatum{***}
+trp_kingdom_27_lady_11|拖 雷 噶 尼 可 敦 
 trp_kingdom_27_lady_11_pl|拖 雷 噶 尼 
-trp_kingdom_27_lady_12|Hoelun-khatum{***}
+trp_kingdom_27_lady_12|霍 伦 可 敦 
 trp_kingdom_27_lady_12_pl|霍 伦 
-trp_kingdom_27_lady_13|Chubei-khatum{***}
-trp_kingdom_27_lady_13_pl|库 贝 
-trp_kingdom_27_lady_14|Muqa-khatum{***}
+trp_kingdom_27_lady_13|库 贝 可 敦 
+trp_kingdom_27_lady_13_pl|库 贝
+trp_kingdom_27_lady_14|木 恰 可 敦 
 trp_kingdom_27_lady_14_pl|木 恰 
-trp_kingdom_27_lady_15|Moge-khatum{***}
+trp_kingdom_27_lady_15|蒙 戈 可 敦 
 trp_kingdom_27_lady_15_pl|蒙 戈 
 trp_kingdom_28_lady_1|芭 娜 
 trp_kingdom_28_lady_1_pl|芭 娜 
@@ -2932,7 +3005,7 @@ trp_kingdom_30_lady_3|安 娜 女 士
 trp_kingdom_30_lady_3_pl|安 娜 
 trp_kingdom_30_lady_4|塞 奥 多 拉 女 士 
 trp_kingdom_30_lady_4_pl|塞 奥 多 拉 
-trp_kingdom_30_lady_5拉 妲 女 士 
+trp_kingdom_30_lady_5|拉 妲 女 士 
 trp_kingdom_30_lady_5_pl|拉 妲 
 trp_kingdom_30_lady_6|布 拉 佳 女 士 
 trp_kingdom_30_lady_6_pl|布 拉 佳 
@@ -2974,26 +3047,26 @@ trp_kingdom_31_lady_14|凯 拉 女 士
 trp_kingdom_31_lady_14_pl|凯 拉 
 trp_kingdom_31_lady_15|玛 依 女 士 
 trp_kingdom_31_lady_15_pl|玛 依 
-trp_kingdom_32_lady_1|Signora Abriana
-trp_kingdom_32_lady_1_pl|Abriana
-trp_kingdom_32_lady_2|Signora Agalina
-trp_kingdom_32_lady_2_pl|Agalina
-trp_kingdom_32_lady_3|Signora Ambra
-trp_kingdom_32_lady_3_pl|Ambra
-trp_kingdom_32_lady_4|Signora Amina
-trp_kingdom_32_lady_4_pl|Amina
-trp_kingdom_32_lady_5|Signora Armida
-trp_kingdom_32_lady_5_pl|Armida
-trp_kingdom_32_lady_6|Signora Chola
-trp_kingdom_32_lady_6_pl|Chola
-trp_kingdom_32_lady_7|Signora Citha
-trp_kingdom_32_lady_7_pl|Citha
-trp_kingdom_32_lady_8|Signora Diletta
-trp_kingdom_32_lady_8_pl|Diletta
-trp_kingdom_32_lady_9|Signora Druda
-trp_kingdom_32_lady_9_pl|Druda
-trp_kingdom_32_lady_10|Signora Etheria
-trp_kingdom_32_lady_10_pl|Etheria
+trp_kingdom_32_lady_1|阿 布 利 亚 娜 女 士 
+trp_kingdom_32_lady_1_pl|阿 布 利 亚 娜 
+trp_kingdom_32_lady_2|阿 佳 妮 娜 女 士 
+trp_kingdom_32_lady_2_pl|阿 佳 妮 娜 
+trp_kingdom_32_lady_3|安 布 拉 女 士 
+trp_kingdom_32_lady_3_pl|安 布 拉 
+trp_kingdom_32_lady_4|阿 米 娜 女 士 
+trp_kingdom_32_lady_4_pl|阿 米 娜 
+trp_kingdom_32_lady_5|阿 尔 米 达 女 士 
+trp_kingdom_32_lady_5_pl|阿 尔 米 达 
+trp_kingdom_32_lady_6|乔 娜 女 士 
+trp_kingdom_32_lady_6_pl|乔 娜 
+trp_kingdom_32_lady_7|齐 塔 女 士 
+trp_kingdom_32_lady_7_pl|齐 塔 
+trp_kingdom_32_lady_8|迪 莱 塔 女 士 
+trp_kingdom_32_lady_8_pl|迪 莱 塔 
+trp_kingdom_32_lady_9|德 鲁 达 女 士 
+trp_kingdom_32_lady_9_pl|德 鲁 达 
+trp_kingdom_32_lady_10|艾 泰 尼 亚 女 士 
+trp_kingdom_32_lady_10_pl|艾 泰 尼 亚 
 trp_town_1_arena_master|竞 技 场 老 板 
 trp_town_2_arena_master|竞 技 场 老 板 
 trp_town_3_arena_master|竞 技 场 老 板 
@@ -3223,7 +3296,6 @@ trp_town_11_2_weaponsmith|武 器 商 人
 trp_town_11_3_weaponsmith|武 器 商 人 
 trp_town_14_1_weaponsmith|武 器 商 人 
 trp_town_14_2_weaponsmith|武 器 商 人 
-trp_town_14_2_weaponsmith|武 器 商 人 
 trp_town_21_weaponsmith|武 器 商 人 
 trp_town_22_weaponsmith|武 器 商 人 
 trp_town_23_weaponsmith|武 器 商 人 
@@ -3290,7 +3362,6 @@ trp_town_27_2_weaponsmith|武 器 商 人
 trp_town_27_3_weaponsmith|武 器 商 人 
 trp_town_28_1_weaponsmith|武 器 商 人 
 trp_town_28_2_weaponsmith|武 器 商 人 
-trp_town_29_1_weaponsmith|武 器 商 人 
 trp_town_29_1_weaponsmith|武 器 商 人 
 trp_town_30_1_weaponsmith|武 器 商 人 
 trp_town_31_1_weaponsmith|武 器 商 人 
@@ -3590,7 +3661,6 @@ trp_town_25_2_horse_merchant|马 匹 贩 子
 trp_town_25_3_horse_merchant|马 匹 贩 子 
 trp_town_25_4_horse_merchant|马 匹 贩 子 
 trp_town_26_1_horse_merchant|马 匹 贩 子 
-trp_town_30_2_horse_merchant|马 匹 贩 子 
 trp_town_30_2_horse_merchant|马 匹 贩 子 
 trp_town_27_1_horse_merchant|马 匹 贩 子 
 trp_town_27_2_horse_merchant|马 匹 贩 子 
@@ -4289,8 +4359,76 @@ trp_manor_master|庄 园 管 家
 trp_manor_master_pl|庄 园 管 家 
 trp_whore|妓 女 
 trp_whore_pl|妓 女 
-trp_pope|教 宗 历 山 四 世 
-trp_pope_pl|历 山 四 世 
+trp_priest_catholic|天 主 教 牧 师 
+trp_priest_catholic_pl|牧 师 
+trp_priest_othordox|东 正 教 牧 师 
+trp_priest_othordox_pl|牧 师 
+trp_priest_muslim|伊 玛 目 
+trp_priest_muslim_pl|伊 玛 目 
+trp_priest_pagan|洛 姆 瓦 主 教 
+trp_priest_pagan_pl|洛 姆 瓦 主 教 
+trp_priest_mongol|萨 满 
+trp_priest_mongol_pl|萨 满 
+trp_manor_senechal|Sanechal
+trp_manor_senechal_pl|Sanechal
+trp_manor_storage|Wharehouse Master
+trp_manor_storage_pl|Wharehouse Master
+trp_manor_marshal|Marshal
+trp_manor_marshal_pl|Marshal
+trp_manor_armorsmith|Armorer
+trp_manor_armorsmith_pl|Armorer
+trp_manor_weaponsmith|Weaponsmith
+trp_manor_weaponsmith_pl|Weaponsmith
+trp_manor_fletcher|Fletcher
+trp_manor_fletcher_pl|Fletcher
+trp_manor_breeder|Stable master
+trp_manor_breeder_pl|Stable master
+trp_manor_grain|Grain Master Peasent
+trp_manor_grain_pl|Grain Master Peasent
+trp_manor_livestock|Livestock Master Peasent
+trp_manor_livestock_pl|Livestock Master Peasent
+trp_manor_fruit|Fruit Master Peasent
+trp_manor_fruit_pl|Fruit Master Peasent
+trp_manor_fisher|Fisherman
+trp_manor_fisher_pl|Fisherman
+trp_manor_baker|Baker
+trp_manor_baker_pl|Baker
+trp_manor_winer|Winer
+trp_manor_winer_pl|Winer
+trp_manor_brewer|Brewer
+trp_manor_brewer_pl|Brewer
+trp_manor_potter|Potter
+trp_manor_potter_pl|Potter
+trp_manor_blacksmith|Blacksmith
+trp_manor_blacksmith_pl|Blacksmith
+trp_manor_butcher|Butcher
+trp_manor_butcher_pl|Butcher
+trp_manor_oilmaker|Oilmaker
+trp_manor_oilmaker_pl|Oilmaker
+trp_manor_linen|Linen workshop master
+trp_manor_linen_pl|Linen workshop master
+trp_manor_wool|Wool workshop master
+trp_manor_wool_pl|Wool workshop master
+trp_manor_tanner|Master Tanner
+trp_manor_tanner_pl|Master Tanner
+trp_manor_seller|Tradesman
+trp_manor_seller_pl|Tradesman
+trp_manor_noble|Noble
+trp_manor_noble_pl|Noble
+trp_manor_noble2|Noble
+trp_manor_noble2_pl|Noble
+trp_manor_trader_silk|Silk Trader
+trp_manor_trader_silk_pl|Silk Trader
+trp_manor_trader_spice|Spice Trader
+trp_manor_trader_spice_pl|Spice Trader
+trp_manor_trader_dyes|Dye Trader
+trp_manor_trader_dyes_pl|Dye Trader
+trp_manor_trader_salt|Salt Trader
+trp_manor_trader_salt_pl|Salt Trader
+trp_manor_trader_furs|Fur trader
+trp_manor_trader_furs_pl|Fur trader
+trp_manor_trader_book|Amanuensis
+trp_manor_trader_book_pl|Amanuensis
 trp_temp_lord|本 地 村 庄 的 脑 残 童 鞋 
 trp_temp_lord_pl|本 地 村 庄 的 脑 残 童 鞋 
 trp_broken_items|损 坏 的 物 品 
