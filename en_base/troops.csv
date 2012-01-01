@@ -320,14 +320,14 @@ trp_irish_castle_guard|Castle Guard
 trp_irish_castle_guard_pl|Castle Guards
 trp_balkan_vil_1|Selyanin
 trp_balkan_vil_1_pl|Selyani
-trp_balkan_vil_2_1|Darvar Strelets
-trp_balkan_vil_2_1_pl|Darvari Streltsi
+trp_balkan_vil_2_1|Dubravnij Strelets
+trp_balkan_vil_2_1_pl|Dubravnije Streltsi
 trp_balkan_vil_3_1|Naimnij Strelets
 trp_balkan_vil_3_1_pl|Naimnije Streltsi
 trp_balkan_vil_4_1|Opitnij Naimnij Strelets
 trp_balkan_vil_4_1_pl|Opitnije Naimnije Streltsi
-trp_balkan_vil_2_2|Darvar Peshak
-trp_balkan_vil_2_2_pl|Darvari Peshatsi
+trp_balkan_vil_2_2|Dubravnij Peshak
+trp_balkan_vil_2_2_pl|Dubravnije Peshatsi
 trp_balkan_vil_3_2_1|Naimnij Sekironosets
 trp_balkan_vil_3_2_1_pl|Naimnije Sekironostsi
 trp_balkan_vil_3_2_2|Naimnij Peshak
@@ -352,14 +352,14 @@ trp_balkan_town_3_2|Opitnij Gradskij Strelets
 trp_balkan_town_3_2_pl|Opitnije Gradskije Streltsi
 trp_balkan_town_4_2|Shtitonosets Strelets
 trp_balkan_town_4_2_pl|Shtitonostsi Streltsi
-trp_balkan_horse_1|Voi Konnik
-trp_balkan_horse_1_pl|Voie Konniki
+trp_balkan_horse_1|Konnij Voiskar
+trp_balkan_horse_1_pl|Konnije Voiskare
 trp_balkan_horse_2|Oklopnik
 trp_balkan_horse_2_pl|Oklopniki
 trp_balkan_horse_3|Vitez
-trp_balkan_horse_3_pl|Vityazi
-trp_balkan_horse_4|Boyar
-trp_balkan_horse_4_pl|Boyari
+trp_balkan_horse_3_pl|Vitezi
+trp_balkan_horse_4|Bolyar
+trp_balkan_horse_4_pl|Bolyare
 trp_rus_vil_1|Smerd
 trp_rus_vil_1_pl|Smerdy
 trp_rus_vil_2_1|Kmet
@@ -870,6 +870,14 @@ trp_village_walker_1|Villager
 trp_village_walker_1_pl|Villagers
 trp_village_walker_2|Villager
 trp_village_walker_2_pl|Villagers
+trp_khergit_walker_1|Villager
+trp_khergit_walker_1_pl|Villagers
+trp_khergit_walker_2|Villager
+trp_khergit_walker_2_pl|Villagers
+trp_sarranid_walker_1|Villager
+trp_sarranid_walker_1_pl|Villagers
+trp_sarranid_walker_2|Villager
+trp_sarranid_walker_2_pl|Villagers
 trp_spy_walker_1|Townsman
 trp_spy_walker_1_pl|Townsmen
 trp_spy_walker_2|Townswoman
@@ -1741,34 +1749,34 @@ trp_knight_15_10|Knyaz Andrey Vsevolodovich
 trp_knight_15_10_pl|Andrey Vsevolodovich
 trp_knight_16_1|Paio Peres Correia, Grandmaster of the Order of Santiago
 trp_knight_16_1_pl|Paio Peres Correia
-trp_knight_16_2|Dom Mendo Alano de Bragança
-trp_knight_16_2_pl|Mendo Alano de Bragança
-trp_knight_16_3|Don Vaasco
-trp_knight_16_3_pl|Vaasco
-trp_knight_16_4|Don Meen
-trp_knight_16_4_pl|Meen
-trp_knight_16_5|Don Vermuu
-trp_knight_16_5_pl|Vermuu
-trp_knight_16_6|Don Gonsaluu
-trp_knight_16_6_pl|Gonsaluu
-trp_knight_16_7|Don Martio
-trp_knight_16_7_pl|Martio
-trp_knight_16_8|Don Martim
-trp_knight_16_8_pl|Martim
-trp_knight_16_9|Don Stepham
-trp_knight_16_9_pl|Stepham
-trp_knight_16_10|Don Iohannes
-trp_knight_16_10_pl|Iohannes
-trp_knight_16_11|Don Menendus
-trp_knight_16_11_pl|Menendus
-trp_knight_16_12|Don Sanchez
-trp_knight_16_12_pl|Sanchez
-trp_knight_16_13|Don Sancho
-trp_knight_16_13_pl|Sancho
-trp_knight_16_14|Don Laurencius
-trp_knight_16_14_pl|Laurencius
-trp_knight_16_15|Don Fernãdiç
-trp_knight_16_15_pl|Fernãdiç
+trp_knight_16_2|Dom João Peres de Vasconcelos
+trp_knight_16_2_pl|João Peres de Vasconcelos
+trp_knight_16_3|Don Rodrigo Anes de Vasconcelos
+trp_knight_16_3_pl|Rodrigo Anes de Vasconcelos
+trp_knight_16_4|Don Pero Soares Coelho
+trp_knight_16_4_pl|Pero Soares Coelho
+trp_knight_16_5|Don João Garcia de Sousa
+trp_knight_16_5_pl|João Garcia de Sousa
+trp_knight_16_6|Don Afonso Pires Gato
+trp_knight_16_6_pl|Afonso Pires Gato
+trp_knight_16_7|Don Pero Pais de Alvarenga
+trp_knight_16_7_pl|Pero Pais de Alvarenga
+trp_knight_16_8|Don Fernão Garcia de Sousa
+trp_knight_16_8_pl|Fernão Garcia de Sousa
+trp_knight_16_9|Don Martim Martins Machado
+trp_knight_16_9_pl|Martim Martins Machado
+trp_knight_16_10|Don Rui Gomes de Briteiros
+trp_knight_16_10_pl|Rui Gomes de Briteiros
+trp_knight_16_11|Don Afonso Anes de Cambra
+trp_knight_16_11_pl|Afonso Anes de Cambra
+trp_knight_16_12|Don Fernán Gomes de Celanova
+trp_knight_16_12_pl|Fernán Gomes de Celanova
+trp_knight_16_13|Don Pero Gomes de Celanova
+trp_knight_16_13_pl|Pero Gomes de Celanova
+trp_knight_16_14|Don Afonso Pires
+trp_knight_16_14_pl|Afonso Pires
+trp_knight_16_15|Roberto de Portugal
+trp_knight_16_15_pl|Roberto de Portugal
 trp_knight_17_1|Archbishop Arnau de Peralta
 trp_knight_17_1_pl|Arnau de Peralta
 trp_knight_17_2|Seneschal Pere Ramon de Montcada
@@ -1829,12 +1837,12 @@ trp_knight_18_14|Don Gausfred
 trp_knight_18_14_pl|Gausfred
 trp_knight_18_15|Don Jeroni
 trp_knight_18_15_pl|Jeroni
-trp_knight_19_1|Don Amat
-trp_knight_19_1_pl|Amat
-trp_knight_19_2|Don Artal
-trp_knight_19_2_pl|Artal
-trp_knight_19_3|Don Bernat
-trp_knight_19_3_pl|Bernat
+trp_knight_19_1|Infante Don Teobaldo de Navarra
+trp_knight_19_1_pl|Teobaldo
+trp_knight_19_2|Don Guillermo de Navarra
+trp_knight_19_2_pl|Guillermo
+trp_knight_19_3|Infante Don Enrique de Navarra 
+trp_knight_19_3_pl|Enrique
 trp_knight_20_1|Amir Mohammed Al-Faqih
 trp_knight_20_1_pl|Mohammed Al-Faqih
 trp_knight_20_2|Amir Yusuf Ibn Nasr
@@ -2181,18 +2189,18 @@ trp_knight_32_3|Giovanni Dandolo
 trp_knight_32_3_pl|Giovanni Dandolo
 trp_knight_32_4|Angelo Sanudo
 trp_knight_32_4_pl|Angelo Sanudo
-trp_knight_32_5|Gilberto Sanudo
-trp_knight_32_5_pl|Gilberto Sanudo
-trp_knight_32_6|Claudio Tiepolo
-trp_knight_32_6_pl|Claudio Tiepolo
-trp_knight_32_7|Cassio Sanudo
-trp_knight_32_7_pl|Cassio Sanudo
-trp_knight_32_8|Edoardo Soranzo
-trp_knight_32_8_pl|Edoardo Soranzo
-trp_knight_32_9|Emilio Soranzo
-trp_knight_32_9_pl|Emilio Soranzo
-trp_knight_32_10|Barbarigo Venier
-trp_knight_32_10_pl|Barbarigo Venier
+trp_knight_32_5|Paolo Gradenigo
+trp_knight_32_5_pl|Paolo Gradenigo
+trp_knight_32_6|Narzotto dalle Carceri
+trp_knight_32_6_pl|Narzotto dalle Carceri
+trp_knight_32_7|Pecoraro da Mercanuovo
+trp_knight_32_7_pl|Pecoraro da Mercanuovo
+trp_knight_32_8|Guglielmo I da Verona
+trp_knight_32_8_pl|Guglielmo I da Verona
+trp_knight_32_9|Paolo Navigajoso
+trp_knight_32_9_pl|Paolo Navigajoso
+trp_knight_32_10|Enrico Pescatore
+trp_knight_32_10_pl|Enrico Pescatore
 trp_knight_35_1|Dafydd ap Gruffydd
 trp_knight_35_1_pl|Dafydd ap Gruffydd
 trp_knight_35_2|Maredudd ap Rhys Grug
@@ -4291,39 +4299,39 @@ trp_tutorial_rider_1|Rider
 trp_tutorial_rider_2|Horse archer
 trp_tutorial_master_horseman|Riding Trainer
 trp_tutorial_master_horseman_pl|Riding Trainer
-trp_merchant_kingdom_1|Merchant of Elbing
-trp_merchant_kingdom_2|Merchant of Vilnius
-trp_merchant_kingdom_3|Merchant of Sarai
-trp_merchant_kingdom_4|Merchant of Lund
-trp_merchant_kingdom_5|Merchant of Kraków
-trp_merchant_kingdom_6|Merchant of Nürnberg
-trp_merchant_kingdom_7|Merchant of Varad
-trp_merchant_kingdom_8|Merchant of Novgorod
-trp_merchant_kingdom_9|Merchant of London
-trp_merchant_kingdom_10|Merchant of Paris
-trp_merchant_kingdom_11|Merchant of Niðarós
-trp_merchant_kingdom_12|Merchant of Stirling
-trp_merchant_kingdom_13|Merchant of Donegal
-trp_merchant_kingdom_14|Merchant of Westraarus
-trp_merchant_kingdom_15|Merchant of Lvov
-trp_merchant_kingdom_16|Merchant of Lisboa
-trp_merchant_kingdom_17|Aragonese Merchant
-trp_merchant_kingdom_18|Merchant of Castille
-trp_merchant_kingdom_19|Merchant of Navarra
-trp_merchant_kingdom_20|Merchant of Granada
-trp_merchant_kingdom_21|Merchant of Rome
-trp_merchant_kingdom_22|Merchant of Athens
-trp_merchant_kingdom_23|Merchant of Acre
-trp_merchant_kingdom_24|Merchant of Palermo
-trp_merchant_kingdom_25|Merchant of Cairo
-trp_merchant_kingdom_26|Merchant of Constantinople
-trp_merchant_kingdom_27|Merchant of Ankara
-trp_merchant_kingdom_28|Merchant of Tunis
-trp_merchant_kingdom_29|Merchant of Belgrade
-trp_merchant_kingdom_30|Merchant of Tarnovo
-trp_merchant_kingdom_31|Merchant of Fes
-trp_merchant_kingdom_32|Merchant of Venice
-trp_merchant_kingdom_35|Merchant of Welsh
+trp_merchant_kingdom_1|Merchant
+trp_merchant_kingdom_2|Merchant
+trp_merchant_kingdom_3|Merchant
+trp_merchant_kingdom_4|Merchant
+trp_merchant_kingdom_5|Merchant
+trp_merchant_kingdom_6|Merchant
+trp_merchant_kingdom_7|Merchant
+trp_merchant_kingdom_8|Merchant
+trp_merchant_kingdom_9|Merchant
+trp_merchant_kingdom_10|Merchant
+trp_merchant_kingdom_11|Merchant
+trp_merchant_kingdom_12|Merchant
+trp_merchant_kingdom_13|Merchant
+trp_merchant_kingdom_14|Merchant
+trp_merchant_kingdom_15|Merchant
+trp_merchant_kingdom_16|Merchant
+trp_merchant_kingdom_17|Merchant
+trp_merchant_kingdom_18|Merchant
+trp_merchant_kingdom_19|Merchant
+trp_merchant_kingdom_20|Merchant
+trp_merchant_kingdom_21|Merchant
+trp_merchant_kingdom_22|Merchant
+trp_merchant_kingdom_23|Merchant
+trp_merchant_kingdom_24|Merchant
+trp_merchant_kingdom_25|Merchant
+trp_merchant_kingdom_26|Merchant
+trp_merchant_kingdom_27|Merchant
+trp_merchant_kingdom_28|Merchant
+trp_merchant_kingdom_29|Merchant
+trp_merchant_kingdom_30|Merchant
+trp_merchant_kingdom_31|Merchant
+trp_merchant_kingdom_32|Merchant
+trp_merchant_kingdom_35|Merchant
 trp_startup_merchants_end|startup merchants end
 trp_startup_merchants_end_pl|startup merchants end
 trp_sea_raider_leader|Sea Raider Captain
@@ -4351,6 +4359,76 @@ trp_manor_master|Master
 trp_manor_master_pl|Master
 trp_whore|Harlot
 trp_whore_pl|Harlots
+trp_priest_catholic|Catholic Priest
+trp_priest_catholic_pl|Priest
+trp_priest_othordox|Othordox Priest
+trp_priest_othordox_pl|Priest
+trp_priest_muslim|Imam
+trp_priest_muslim_pl|Imam
+trp_priest_pagan|Krivis
+trp_priest_pagan_pl|Krivis
+trp_priest_mongol|Shaman
+trp_priest_mongol_pl|Shaman
+trp_manor_senechal|Sanechal
+trp_manor_senechal_pl|Sanechal
+trp_manor_storage|Wharehouse Master
+trp_manor_storage_pl|Wharehouse Master
+trp_manor_marshal|Marshal
+trp_manor_marshal_pl|Marshal
+trp_manor_armorsmith|Armorer
+trp_manor_armorsmith_pl|Armorer
+trp_manor_weaponsmith|Weaponsmith
+trp_manor_weaponsmith_pl|Weaponsmith
+trp_manor_fletcher|Fletcher
+trp_manor_fletcher_pl|Fletcher
+trp_manor_breeder|Stable master
+trp_manor_breeder_pl|Stable master
+trp_manor_grain|Grain Master Peasent
+trp_manor_grain_pl|Grain Master Peasent
+trp_manor_livestock|Livestock Master Peasent
+trp_manor_livestock_pl|Livestock Master Peasent
+trp_manor_fruit|Fruit Master Peasent
+trp_manor_fruit_pl|Fruit Master Peasent
+trp_manor_fisher|Fisherman
+trp_manor_fisher_pl|Fisherman
+trp_manor_baker|Baker
+trp_manor_baker_pl|Baker
+trp_manor_winer|Winer
+trp_manor_winer_pl|Winer
+trp_manor_brewer|Brewer
+trp_manor_brewer_pl|Brewer
+trp_manor_potter|Potter
+trp_manor_potter_pl|Potter
+trp_manor_blacksmith|Blacksmith
+trp_manor_blacksmith_pl|Blacksmith
+trp_manor_butcher|Butcher
+trp_manor_butcher_pl|Butcher
+trp_manor_oilmaker|Oilmaker
+trp_manor_oilmaker_pl|Oilmaker
+trp_manor_linen|Linen workshop master
+trp_manor_linen_pl|Linen workshop master
+trp_manor_wool|Wool workshop master
+trp_manor_wool_pl|Wool workshop master
+trp_manor_tanner|Master Tanner
+trp_manor_tanner_pl|Master Tanner
+trp_manor_seller|Tradesman
+trp_manor_seller_pl|Tradesman
+trp_manor_noble|Noble
+trp_manor_noble_pl|Noble
+trp_manor_noble2|Noble
+trp_manor_noble2_pl|Noble
+trp_manor_trader_silk|Silk Trader
+trp_manor_trader_silk_pl|Silk Trader
+trp_manor_trader_spice|Spice Trader
+trp_manor_trader_spice_pl|Spice Trader
+trp_manor_trader_dyes|Dye Trader
+trp_manor_trader_dyes_pl|Dye Trader
+trp_manor_trader_salt|Salt Trader
+trp_manor_trader_salt_pl|Salt Trader
+trp_manor_trader_furs|Fur trader
+trp_manor_trader_furs_pl|Fur trader
+trp_manor_trader_book|Amanuensis
+trp_manor_trader_book_pl|Amanuensis
 trp_temp_lord|Local village idiot
 trp_temp_lord_pl|Local village idiots
 trp_broken_items|Broken Items
