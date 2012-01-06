@@ -24,7 +24,9 @@ fac_kingdom_15|加 利 西 亞 -沃 裡 尼 亞 王 國
 fac_kingdom_16|葡 萄 牙 王 國 
 fac_kingdom_17|阿 拉 貢 王 國 
 fac_kingdom_18|卡 斯 提 爾 王 國 
-fac_kingdom_20|格 拉 納 達 王 國 
+fac_kingdom_19|納 瓦 拉 王 國 
+fac_kingdom_20|格 拉 納 達 納 斯 裡 德 王 朝 
+fac_papacy|教 廷 諸 屬 國 
 fac_kingdom_22|尼 西 亞 羅 馬 帝 國 
 fac_kingdom_23|十 字 軍 諸 國 
 fac_kingdom_24|西 西 裡 王 國 
@@ -35,13 +37,17 @@ fac_kingdom_28|哈 夫 斯 王 朝
 fac_kingdom_29|塞 爾 維 亞 王 國 
 fac_kingdom_30|保 加 利 亞 王 國 
 fac_kingdom_31|馬 裡 尼 德 王 朝 
+fac_kingdom_32|威 尼 斯 共 和 國 
+fac_kingdom_33|普 魯 士 
+fac_kingdom_b_33|薩 莫 吉 希 亞 
+fac_kingdom_c_33|索 多 維 亞 
+fac_kingdom_d_33|庫 洛 年 
+fac_kingdom_35|威 爾 士 
 fac_manhunters|搜 捕 者 
 fac_deserters|逃 兵 
 fac_mountain_bandits|山 地 土 匪 
 fac_forest_bandits|森 林 土 匪 
-fac_curonians|庫 洛 尼 亞 
-fac_samogitians|薩 莫 吉 希 亞 
-fac_prussians|普 魯 士 
-fac_yotvingians|蘇 多 維 亞 
-fac_welsh|威 爾 士 
-fac_papacy|教 廷 諸 屬 國 
+fac_guelphs|圭 爾 夫 教 皇 黨 
+fac_ghibellines|吉 伯 林 皇 帝 黨 
+fac_crusade|十 字 軍 
+fac_end_minor_faction|村 莊 腦 殘 

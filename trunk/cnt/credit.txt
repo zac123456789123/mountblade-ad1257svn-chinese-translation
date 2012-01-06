@@ -1,0 +1,5 @@
+This Chinese traditional translation is converted from simplified edition using http://www.j4.com.tw/big-gb/
+The original version (of translation) is r148, and is included in r149. Meanwhile, the main repo version (from DrTomas) is r65.
+
+Special thanks to the font from alixyang, and the mod of othr and DrTomas.
+--aflyhorse

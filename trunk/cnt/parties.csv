@@ -12,7 +12,7 @@ p_town_2_2|考 納 斯
 p_town_2_3|格 羅 德 諾 
 p_town_2_4|波 洛 茨 克 
 p_town_3_1|薩 萊 
-p_town_3_2|斯 摩 稜 斯 克 
+p_town_3_2|斯 摩 棱 斯 克 
 p_town_3_3|基 輔 
 p_town_3_4|切 爾 尼 戈 夫 
 p_town_4_1|隆 德 
@@ -63,9 +63,11 @@ p_town_17_1|巴 塞 羅 那
 p_town_17_2|瓦 倫 西 亞 
 p_town_18_1|托 萊 多 
 p_town_18_2|塞 維 利 亞 
+p_town_19_1|潘 普 洛 納 
 p_town_20_1|格 拉 納 達 
-p_town_20_2|龍 達 
+p_town_20_2|馬 拉 加 
 p_town_21_1|羅 馬 
+p_town_21_2|安 科 納 
 p_town_22_1|尼 西 亞 
 p_town_22_2|士 麥 那 
 p_town_22_3|科 羅 塞 
@@ -77,6 +79,7 @@ p_town_23_4|安 提 阿
 p_town_23_5|尼 科 西 亞 
 p_town_24_1|巴 勒 莫 
 p_town_24_2|那 不 勒 斯 
+p_town_24_3|比 薩 
 p_town_25_1|開 羅 
 p_town_25_2|亞 歷 山 大 
 p_town_25_3|杜 姆 亞 特 
@@ -95,6 +98,9 @@ p_town_30_2|菲 利 波 波 利
 p_town_31_1|非 斯 
 p_town_31_2|馬 拉 喀 什 
 p_town_31_3|瓦 赫 蘭 
+p_town_32_1|威 尼 斯 
+p_town_32_2|坎 迪 亞 
+p_town_35_1|阿 伯 弗 勞 
 p_castle_1|格 涅 茲 諾 
 p_castle_2|桑 多 梅 日 
 p_castle_3|格 沃 古 夫 
@@ -147,7 +153,7 @@ p_castle_6_9|維 羅 納
 p_castle_6_10|斯 特 拉 斯 堡 
 p_castle_6_11|巴 登 
 p_castle_6_12|邁 森 
-p_castle_7_1|布 裡 卜 日 
+p_castle_7_1|布 裡 蔔 日 
 p_castle_7_2|阿 爾 巴 尤 利 亞 堡 
 p_castle_7_3|克 塞 洛 堡 
 p_castle_7_4|希 克 洛 什 堡 
@@ -225,6 +231,9 @@ p_castle_20_1|塔 裡 法 堡
 p_castle_20_2|安 特 克 拉 堡 
 p_castle_20_3|瓦 迪· 阿 塞 堡 
 p_castle_20_4|阿 爾· 梅 利 亞 堡 
+p_castle_20_5|卡 拉 
+p_castle_20_6|薩 各 夫 雷 納 
+p_castle_20_7|巴 扎 
 p_castle_22_1|米 拉 
 p_castle_22_2|安 塔 利 亞 
 p_castle_22_3|索 佐 波 利 斯 
@@ -238,6 +247,8 @@ p_castle_24_1|雷 焦
 p_castle_24_2|巴 裡 
 p_castle_24_3|梅 爾 菲 
 p_castle_24_4|塔 蘭 托 
+p_castle_24_5|阿 雅 克 肖 
+p_castle_24_6|薩 爾 多 堡 
 p_castle_25_1|曼 蘇 拉 
 p_castle_25_2|阿 裡 什 
 p_castle_25_3|伊 斯 梅 利 亞 
@@ -256,7 +267,7 @@ p_castle_27_4|埃 澤 薩
 p_castle_27_5|拉 佳 
 p_castle_27_6|卡 爾 斯 
 p_castle_28_1|凱 魯 萬 
-p_castle_28_2|凱 裡 卜 
+p_castle_28_2|凱 裡 蔔 
 p_castle_28_3|達 西 第 艾 茲 哈 爾 
 p_castle_28_4|貝 賈 亞 
 p_castle_28_5|加 貝 斯 
@@ -268,6 +279,12 @@ p_castle_30_2|內 塞 伯 爾
 p_castle_30_3|維 丁 
 p_castle_31_1|丹 吉 爾 
 p_castle_31_2|阿 爾 及 爾 
+p_castle_32_1|普 拉 
+p_castle_32_2|斯 帕 拉 托 
+p_castle_33_1|瓦 爾 努 皮 埃 
+p_castle_33_2|歐 托 利 齊 亞 
+p_castle_33_4|埃 利 泰 
+p_castle_33_3|希 奧 利 艾 
 p_castle_player|玩 家 的 城 堡 
 p_village_1|維 倫 
 p_village_2|緬 濟 熱 奇 
@@ -329,14 +346,14 @@ p_village_3_8|諾 夫 哥 羅 德· 謝 韋 爾 斯 基
 p_village_3_9|布 羅 伐 利 
 p_village_3_10|傑 米 多 夫 
 p_village_3_11|穆 羅 姆 
-p_village_3_12|蒙 古 營 寨 I
-p_village_3_13|蒙 古 營 寨 II
-p_village_3_14|蒙 古 營 寨 III
-p_village_3_15|蒙 古 營 寨 IV
+p_village_3_12|白 鳥 帳 
+p_village_3_13|斑 狼 帳 
+p_village_3_14|狡 狐 帳 
+p_village_3_15|百 花 帳 
 p_village_4_1|斯 蘭 格 魯 普 
 p_village_4_2|哥 本 哈 根 
 p_village_4_3|特 雷 勒 堡 
-p_village_4_4|勃 艮 達 爾 摩 
+p_village_4_4|哈 默 斯 胡 斯 
 p_village_4_5|納 爾 瓦 
 p_village_4_6|維 森 貝 格 
 p_village_4_7|蘭 訥 斯 
@@ -397,10 +414,10 @@ p_village_8_3|佩 斯 基
 p_village_8_4|伊 萬 諾 夫 斯 科 耶 
 p_village_8_5|尤 裡 耶 沃 
 p_village_8_6|呂 貝 齊 
-p_village_9_1|格 瑞 內 斯 
+p_village_9_1|林 肯 
 p_village_9_2|波 伊 斯 
 p_village_9_3|吉 爾 福 德 
-p_village_9_4|布 賴 頓 
+p_village_9_4|帕 查 姆 
 p_village_9_5|阿 伯 裡 斯 特 威 斯 
 p_village_9_6|聖 艾 夫 斯 
 p_village_9_7|牛 津 
@@ -462,7 +479,7 @@ p_village_12_5|卡 盧 克
 p_village_12_6|愛 丁 堡 
 p_village_12_7|林 利 斯 哥 
 p_village_12_8|帕 斯 
-p_village_13_1|卡 捨 爾 
+p_village_13_1|卡 舍 爾 
 p_village_13_2|恩 尼 斯 
 p_village_13_3|卡 斯 爾 雷 
 p_village_13_4|拉 福 
@@ -523,16 +540,23 @@ p_village_18_7|薩 莫 拉
 p_village_18_8|索 裡 亞 
 p_village_18_9|哈 恩 
 p_village_18_10|卡 塞 雷 斯 
+p_village_19_1|杜 德 拉 
+p_village_19_2|聖 賽 巴 斯 提 安 
 p_village_20_1|傑 濟 拉 
 p_village_20_2|馬 爾 韋 利 亞 
-p_village_20_3|馬 拉 加 
-p_village_20_4|阿 爾 卡 薩 爾 
-p_village_20_5|巴 薩 
-p_village_20_6|貝 爾 沙 
-p_village_20_7|拉 瓦 薩 
-p_village_20_8|阿 爾 博 克 斯 
+p_village_20_3|龍 達 
+p_village_20_4|洛 薩 
+p_village_20_5|Berchat
+p_village_20_6|洛 薩 堡 
+p_village_20_7|博 克 斯 
+p_village_20_8|Al-Mediniya
+p_village_20_9|Al-Lancharon
+p_village_20_10|卡 尼 萊 斯 
+p_village_20_11|Qullar
 p_village_21_1|內 圖 諾 
 p_village_21_2|蒂 沃 利 
+p_village_21_3|斯 波 萊 托 
+p_village_21_4|拉 佛 納 
 p_village_22_1|卡 爾 西 登 
 p_village_22_2|尼 科 美 底 亞 
 p_village_22_3|薩 迪 斯 
@@ -568,6 +592,10 @@ p_village_24_5|卡 普 阿
 p_village_24_6|布 林 迪 西 
 p_village_24_7|帕 萊 諾 
 p_village_24_8|特 拉 尼 
+p_village_24_9|馬 拉 納 
+p_village_24_10|加 特 裡 
+p_village_24_11|佛 羅 倫 薩 
+p_village_24_12|索 納 
 p_village_25_1|米 努 夫 
 p_village_25_2|艾 什 蒙 
 p_village_25_3|米 夫 塔 赫 
@@ -634,6 +662,18 @@ p_village_31_5|薩 菲
 p_village_31_6|瓦 爾 扎 扎 特 
 p_village_31_7|得 土 安 
 p_village_31_8|科 索 
+p_village_32_1|卡 奧 萊 
+p_village_32_2|齊 奧 吉 亞 
+p_village_32_3|西 塔 
+p_village_32_4|干 尼 亞 
+p_village_32_5|波 瑞 曲 
+p_village_32_6|拉 古 薩 
+p_village_33_1|皮 利 亞 卡 爾 尼 埃 
+p_village_33_2|察 梅 尼 斯 維 卡 
+p_village_33_3|拉 烏 庫 瓦 
+p_village_33_4|齊 耶 采 雷 
+p_village_35_1|廢 堡 
+p_village_35_2|多 爾 威 澤 蘭 
 p_village_player|玩 家 的 村 莊 
 p_salt_mine|鹽 礦 
 p_four_ways_inn|四 方 客 棧 
@@ -643,137 +683,3 @@ p_dhorak_keep|多 拉 克 要 塞
 p_training_ground|訓 練 場 
 p_training_ground_1|訓 練 場 I
 p_training_ground_2|訓 練 場 II
-p_training_ground_3|訓 練 場 III
-p_training_ground_4|訓 練 場 IV
-p_training_ground_5|訓 練 場 V
-p_training_ground_6|訓 練 場 VI
-p_training_ground_7|訓 練 場 VII
-p_training_ground_8|訓 練 場 VIII
-p_training_ground_9|訓 練 場 IX
-p_training_ground_10|訓 練 場 X
-p_training_ground_11|訓 練 場 XI
-p_training_ground_12|訓 練 場 XII
-p_training_ground_13|訓 練 場 XIII
-p_training_ground_14|訓 練 場 XIV
-p_training_ground_15|訓 練 場 XV
-p_training_ground_16|訓 練 場 XVI
-p_training_ground_17|訓 練 場 XVII
-p_training_ground_18|訓 練 場 XVIII
-p_ship_1|船 只 1
-p_ship_2|船 只 2
-p_ship_3|船 只 3
-p_ship_4|船 只 4
-p_ship_5|船 只 5
-p_ship_6|船 只 6
-p_ship_7|船 只 7
-p_ship_8|船 只 8
-p_ship_9|船 只 9
-p_ship_10|船 只 9
-p_ship_11|船 只 11
-p_ship_12|船 只 12
-p_ship_13|船 只 13
-p_ship_14|船 只 14
-p_ship_15|船 只 15
-p_ship_16|船 只 16
-p_ship_17|船 只 17
-p_ship_18|船 只 18
-p_ship_19|船 只 19
-p_ship_20|船 只 20
-p_ship_21|船 只 21
-p_ship_22|船 只 22
-p_ship_23|船 只 23
-p_ship_24|船 只 24
-p_ship_25|船 只 25
-p_ship_26|船 只 26
-p_ship_27|船 只 27
-p_ship_28|船 只 28
-p_ship_29|船 只 29
-p_ship_30|船 只 30
-p_ship_31|船 只 31
-p_ship_32|船 只 32
-p_ship_33|船 只 33
-p_ship_34|船 只 34
-p_ship_35|船 只 35
-p_ship_36|船 只 36
-p_ship_37|船 只 37
-p_ship_38|船 只 38
-p_ship_39|船 只 39
-p_ship_40|船 只 40
-p_ship_41|船 只 41
-p_ship_42|船 只 42
-p_ship_43|船 只 43
-p_ship_44|船 只 44
-p_ship_45|船 只 45
-p_ship_46|船 只 46
-p_ship_47|船 只 47
-p_ship_48|船 只 48
-p_ship_49|船 只 49
-p_ship_50|船 只 50
-p_ship_51|船 只 51
-p_ship_52|船 只 52
-p_ship_53|船 只 53
-p_ship_54|船 只 54
-p_ship_55|船 只 55
-p_ship_56|船 只 56
-p_ship_57|船 只 57
-p_ship_58|船 只 58
-p_ship_59|船 只 59
-p_ship_60|船 只 60
-p_ship_61|船 只 61
-p_ship_62|船 只 62
-p_ship_63|船 只 63
-p_taiga_bandit_spawn_point_1|苔 原 1
-p_taiga_bandit_spawn_point_2|苔 原 2
-p_steppe_bandit_spawn_point_1|草 原 1
-p_steppe_bandit_spawn_point_2|草 原 2
-p_forest_bandit_spawn_point_1|森 林 1
-p_forest_bandit_spawn_point_2|森 林 2
-p_forest_bandit_spawn_point_3|森 林 3
-p_forest_bandit_spawn_point_4|森 林 4
-p_forest_bandit_spawn_point_5|森 林 5
-p_forest_bandit_spawn_point_6|森 林 6
-p_forest_bandit_spawn_point_7|森 林 7
-p_mountain_bandit_spawn_point_1|高 地 1
-p_mountain_bandit_spawn_point_2|高 地 2
-p_mountain_bandit_spawn_point_3|高 地 3
-p_mountain_bandit_spawn_point_4|高 地 4
-p_mountain_bandit_spawn_point_5|高 地 5
-p_mountain_bandit_spawn_point_6|高 地 6
-p_mountain_bandit_spawn_point_7|高 地 7
-p_mountain_bandit_spawn_point_8|高 地 8
-p_mountain_bandit_spawn_point_9|高 地 9
-p_mountain_bandit_spawn_point_10|高 地 10
-p_mountain_bandit_spawn_point_11|高 地 11
-p_mountain_bandit_spawn_point_12|高 地 12
-p_mountain_bandit_spawn_point_13|高 地 13
-p_mountain_bandit_spawn_point_14|高 地 14
-p_mountain_bandit_spawn_point_15|高 地 15
-p_mountain_bandit_spawn_point_16|高 地 16
-p_mountain_bandit_spawn_point_17|高 地 17
-p_mountain_bandit_spawn_point_18|高 地 18
-p_mountain_bandit_spawn_point_19|高 地 19
-p_mountain_bandit_spawn_point_20|高 地 20
-p_mountain_bandit_spawn_point_21|高 地 21
-p_sea_raider_spawn_point_1|海 岸 1
-p_sea_raider_spawn_point_2|海 岸 2
-p_sea_raider_spawn_point_3|海 岸 3
-p_sea_raider_spawn_point_4|海 岸 4
-p_sea_raider_spawn_point_5|海 岸 5
-p_sea_raider_spawn_point_6|海 岸 6
-p_sea_raider_spawn_point_7|海 岸 7
-p_sea_raider_spawn_point_8|海 岸 8
-p_sea_raider_spawn_point_9|海 岸 9
-p_sea_raider_spawn_point_10|海 岸 10
-p_sea_raider_spawn_point_11|海 岸 11
-p_sea_raider_spawn_point_12|海 岸 12
-p_sea_raider_spawn_point_13|海 岸 13
-p_sea_raider_spawn_point_14|海 岸 14
-p_sea_raider_spawn_point_15|海 岸 15
-p_sea_raider_spawn_point_16|海 岸 16
-p_sea_raider_spawn_point_17|海 岸 17
-p_desert_bandit_spawn_point_1|沙 漠 1
-p_desert_bandit_spawn_point_2|沙 漠 2
-p_desert_bandit_spawn_point_3|沙 漠 3
-p_desert_bandit_spawn_point_4|沙 漠 4
-p_desert_bandit_spawn_point_5|沙 漠 5
-p_pagan_stronghold|普 魯 士 要 塞 
