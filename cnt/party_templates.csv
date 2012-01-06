@@ -11,6 +11,23 @@ pt_prussians|普 魯 士 叛 軍
 pt_samogitians|薩 莫 吉 希 亞 戰 團 
 pt_yotvingians|蘇 多 維 亞 掠 奪 者 
 pt_welsh|威 爾 士 叛 軍 
+pt_guelphs|圭 爾 夫 教 皇 黨 人 
+pt_ghibellines|吉 伯 林 皇 帝 黨 人 
+pt_crusaders|十 字 軍 
+pt_merc_party|憤 怒 的 醉 酒 者 
+pt_monastery|修 士 
+pt_farm|農 莊 
+pt_linen|亞 麻 作 坊 
+pt_salt|鹽 商 
+pt_furs|獵 人 
+pt_iron|鐵 商 
+pt_silk|絲 綢 商 人 
+pt_iron_mine|鐵 礦 
+pt_salt_mine|鹽 礦 
+pt_weapon|武 器 工 匠 
+pt_armor|防 具 工 匠 
+pt_fletchery|制 箭 工 匠 
+pt_breeder|養 馬 人 
 pt_peasant_rebels_euro|農 民 義 軍 
 pt_peasant_rebels_scot|農 民 義 軍 
 pt_peasant_rebels_eastern|農 民 義 軍 
@@ -55,8 +72,8 @@ pt_desert_bandit_lair|沙 漠 土 匪 藏 身 處
 pt_forest_bandit_lair|綠 林 土 匪 藏 身 處 
 pt_mountain_bandit_lair|山 地 土 匪 藏 身 處 
 pt_sea_raider_lair|海 寇 藏 身 處 
-pt_looter_lair|搶 匪 藏 身 處 
 pt_robber_knight_lair|強 盜 騎 士 藏 身 處 
+pt_looter_lair|綁 匪 藏 身 處 
 pt_leaded_looters|搶 匪 團 伙 
 pt_pagan_stronghold|異 教 徒 要 塞 
 pt_dplmc_spouse|您 的 配 偶 
