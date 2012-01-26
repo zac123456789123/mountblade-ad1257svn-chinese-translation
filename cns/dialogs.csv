@@ -3066,9 +3066,9 @@ dlga_goods_merchant_talk:close_window|没 什 么， 谢 谢。
 dlga_trade_info_request:trade_info_request_2|关 于 这 个 你 最 好 去 商 队 头 领 和 旅 行 的 商 人 那 里 打 听 一 下。 如 果 你 愿 意 我 可 以 带 你 去 外 地 商 人 们 在 这 城 市 落 脚 的 地 方。 如 果 你 去 好 好 和 他 们 谈 谈， 从 他 们 那 你 会 打 听 到 有 什 么 好 买 卖 做。 
 dlga_trade_info_request_2:close_window|看 来 我 要 马 上 动 身 去 找 那 些 商 人 了。 
 dlga_trade_info_request_2:goods_merchant_pretalk|我 现 在 可 没 时 间 去 啊。 
-dlga_start:arena_intro_1.1|你 好 啊。 如 果 你 是 为 了 看 比 赛 来 的 很 不 巧 你 白 来 了。 这 段 时 间 不 会 有 任 何 比 赛。 
-dlga_arena_intro_1:arena_intro_2|比 赛？ 他 们 暂 停 了 比 赛… … 
-dlga_arena_intro_2:arena_intro_3|是 的。 在 比 赛 期 间 你 真 应 该 来 看 看。 这 个 城 里 和 附 近 几 个 村 子 的 人 都 会 过 来。 观 众 们 都 非 常 兴 奋。 不 管 怎 样， 就 像 我 说 的， 最 近 不 会 有 任 何 比 赛， 所 以 这 里 没 什 么 可 看 的。 当 然， 除 了 不 时 举 办 的 正 式 的 比 赛， 我 们 这 里 几 乎 每 天 都 有 的 真 剑 决 斗。 
+dlga_start:arena_intro_1.1|你 好 啊。 如 果 你 是 为 了 看 竞 技 大 会 的， 很 不 巧 你 白 来 了。 这 段 时 间 不 会 有 任 何 比 赛。 
+dlga_arena_intro_1:arena_intro_2|比 赛？ 他 们 在 这 儿 举 办 竞 技 大 会？ 
+dlga_arena_intro_2:arena_intro_3|是 的。 在 比 赛 期 间 你 真 应 该 来 看 看。 这 个 城 里 和 附 近 几 个 村 子 的 人 都 会 过 来。 观 众 们 都 非 常 兴 奋。 不 管 怎 样， 就 像 我 说 的， 最 近 不 会 有 任 何 比 赛， 所 以 这 里 没 什 么 可 看 的。 当 然， 除 了 不 时 举 办 的 正 式 的 竞 技 大 会， 我 们 这 里 几 乎 每 天 都 有 的 真 剑 决 斗。 
 dlga_arena_intro_3:arena_training_melee_intro|和 我 说 说 真 剑 决 斗。 
 dlga_arena_training_melee_intro:arena_training_melee_intro_2|格 斗 家 们 和 骑 士 们 都 在 无 聊 地 等 待 着 下 一 场 比 赛， 所 以 他 们 就 发 明 了 训 练 赛。 非 常 简 单。 参 赛 者 拿 着 武 器 进 入 比 赛 场。 没 有 规 则， 不 分 队 伍。 大 家 互 相 对 战 直 到 最 后 一 个 站 着 的 人 为 止。 听 起 来 还 不 错 吧？ 
 dlga_arena_training_melee_intro_2:arena_training_melee_intro_reward|有 奖 金 吗？ 

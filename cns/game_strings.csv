@@ -11,7 +11,7 @@ str_given_by_s1_at_s2|{s2}的 {s1}给 予
 str_given_by_s1_in_wilderness|野 外 的 {s1}给 予 
 str_s7_raiders|{s7}掠 夺 者 
 str_bandits_eliminated_by_another|惹 麻 烦 的 土 匪 被 别 的 队 伍 消 灭 了。 
-str_msg_battle_won|战 斗 胜 利！ 按 TAB 键 离 开… … 
+str_msg_battle_won|战 斗 胜 利！ 按 Tab键 离 开… … 
 str_tutorial_map1|你 现 在 是 在 地 图 模 式 中。 在 地 图 上 按 左 键 可 以 旅 行/进 入 镇 子/或 与 其 他 队 伍 遭 遇。 如 果 你 的 队 伍 停 止 不 动， 时 间 不 会 流 逝。 如 果 你 想 在 某 处 等 待， 按 住 空 格 键 一 直 不 动 （再 按 住 Ctrl 键 可 以 使 时 间 加 速 流 逝）。 
 str_randomize|随 机 
 str_charge|填 充 
