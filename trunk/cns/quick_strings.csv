@@ -156,7 +156,7 @@ qstr_Next_Payday:_{s25}|下 一 个 工 资 日： {s25}
 qstr_Current_Wage:_{reg23|目 前 工 资： {reg23}第 纳 尔 
 qstr_Army_size:_{reg26}|部 队 规 模： {reg26}
 qstr_Commander_s_Army|指 挥 官 的 部 队 
-qstr_ERROR____wrong_numbe|ERROR -- wrong number of villages， need {reg26} have {reg27}
+qstr_ERROR____wrong_numbe|ERROR -- wrong number of villages, need {reg26} have {reg27}
 qstr_ERROR____Castles:_{r|ERROR -- Castles: {reg28} seneschals: {reg26}
 qstr_ERROR____Villages:_{|ERROR -- Villages: {reg27} elders: {reg26}
 qstr_ERROR____Towns:_{reg|ERROR -- Towns: {reg25} seneschals: {reg26}
@@ -379,8 +379,10 @@ qstr_Horse_Archers|骑 射 手
 qstr_You_got_keys_of_dung|你 得 到 了 地 牢 钥 匙。 
 qstr_Battle_lost...|战 斗 失 败… … 
 qstr_Battle_lost!_Press_t|战 斗 失 败！ 按 Tab键 退 出… …  
-qstr_You_have_been_knocke|你 被 敌 人 击 倒 了， 你 可 以 选 择 观 看 你 的 士 兵 们 继 续 战 斗， 或 者 按 Tab键 撤 退。 qstr_Your_horse_received_|你 的 马 受 到 了 架 起 的 长 矛 的 {reg1}点 伤 害！ 
-qstr_If_you_choose_to_wat|如 果 你 选 择 继 续 观 看 战 斗， 你 可 以 使 用 鼠 标 的 滚 轮 来 切 换 不 同 部 队 的 视 角， 或 者 用 ASDW来 自 由 移 动 观 看 位 置。 qstr_The_injury_causes_yo|这 次 受 伤 致 使 你 虎 口 迸 裂， 无 法 再 握 矛 了！ 
+qstr_You_have_been_knocke|你 被 敌 人 击 倒 了， 你 可 以 选 择 观 看 你 的 士 兵 们 继 续 战 斗， 或 者 按 Tab键 撤 退。 
+qstr_Your_horse_received_|你 的 马 受 到 了 架 起 的 长 矛 的 {reg1}点 伤 害！ 
+qstr_If_you_choose_to_wat|如 果 你 选 择 继 续 观 看 战 斗， 你 可 以 使 用 鼠 标 的 滚 轮 来 切 换 不 同 部 队 的 视 角， 或 者 用 ASDW来 自 由 移 动 观 看 位 置。 
+qstr_The_injury_causes_yo|这 次 受 伤 致 使 你 虎 口 迸 裂， 无 法 再 握 矛 了！ 
 qstr_Releasing_spear.|放 下 长 矛。
 qstr_Spear_wall_dealt_{re|矛 阵 造 成 了 {reg1}点 伤 害！ 
 qstr_Bracing_spear_for_ch|架 矛， 抵 御 冲 锋。 
@@ -561,7 +563,7 @@ qstr_There_has_been_an_al|有 涉 嫌 边 境 事 件： {s9}
 qstr_^^Note_that_so_long_|^^注 意 只 要 你 还 在 做 元 帅， 这 个 国 家 的 领 主 们 都 会 等 着 让 你 率 领 他 们 进 行 战 役。 所 以， 如 果 你 正 在 准 备 一 场 宴 会， 或 者 是 婚 礼 以 及 其 它 活 动， 你 也 许 要 去 和 你 的 领 主 谈 谈 来 辞 去 元 帅 的 职 务。 
 qstr_You_came_by_caravan_|你 跟 着 一 支 商 队 穿 过 了 欧 洲 的 中 心 地 带。 望 向 那 些 起 伏 的 山 脉， 可 以 看 到 小 麦 、 大 麦 和 燕 麦 的 青 苗 正 冲 出 黑 暗 的 地 下， 旺 盛 地 生 长。 而 在 那 些 积 雪 的 山 峰 下 面 的 山 坡， 成 群 的 牛 羊 正 吃 着 美 味 的 春 草， 有 时， 你 还 能 看 到 象 征 着 贵 族 的 高 头 战 马。 这 里 无 疑 是 富 饶 的， 但 也 充 满 动 乱， 偶 尔 能 看 到 的 被 烧 毁 的 农 场 就 是 很 好 的 证 明。 你 始 终 保 持 自 己 的 营 地 远 离 那 些 森 林， 那 里 是 那 些 走 投 无 路 的 人 们 的 庇 护 所。 你 终 于 松 了 口 气， 伟 大 的 {s1}已 经 出 现 在 视 线 里 了， 在 夕 阳 的 余 晖 下， 城 市 的 屋 顶 泛 出 一 片 金 光。 
 qstr_unknown_faction_in_m|unknown faction in module game menus start phase 4!{***}
-qstr_Try_as_you_might_you_|你 可 以 试 一 试 ， 看 能 不 能 打 败 这 些 暴 乱 的 村 民。 
+qstr_Try_as_you_might_you_|你 可 以 试 一 试， 看 能 不 能 打 败 这 些 暴 乱 的 村 民。 
 qstr_positive|积 极 的 
 qstr_negative|消 极 的 
 qstr_relation:_{reg0}|关 系： {reg0}
